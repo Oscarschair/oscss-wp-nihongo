@@ -20,11 +20,12 @@ get_header();
 		while ( have_posts() ) :
 			the_post();
 			?>
-			<article id="post-<?php the_ID(); ?>" <?php post_class( 'c-entry' ); ?>>
+			<article id="post-<?php the_ID(); ?>" <?php post_class( 'c-entry' ); ?> data-post-id="<?php the_ID(); ?>">
 				<header class="c-entry__header">
 					<div class="c-entry__meta">
 						<?php oscss_entry_category(); ?>
 						<?php oscss_posted_on(); ?>
+						<?php oscss_posted_views(); ?>
 					</div>
 
 					<h1 class="c-entry__title"><?php the_title(); ?></h1>

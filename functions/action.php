@@ -95,8 +95,98 @@ function oscss_enqueue_scripts() {
 		OSCSS_THEME_VERSION,
 		true
 	);
+
+	// JSに変数を渡す（閲覧数非同期トラッキング用）
+	wp_localize_script(
+		'oscss-main-script',
+		'oscssSettings',
+		array(
+			'restUrl'   => esc_url_raw( rest_url( 'oscss/v1/' ) ),
+			'postId'    => is_single() ? get_the_ID() : 0,
+			'isSingle'  => is_single() && ! is_preview(),
+			'nonce'     => wp_create_nonce( 'wp_rest' ),
+		)
+	);
 }
 add_action( 'wp_enqueue_scripts', 'oscss_enqueue_scripts' );
+
+/**
+ * ユーザーのソート選択（?sort=）をCookieに保存
+ */
+function oscss_handle_sort_cookie() {
+	if ( ! is_admin() && isset( $_GET['sort'] ) ) {
+		$sort = sanitize_key( $_GET['sort'] );
+		if ( in_array( $sort, array( 'latest', 'views' ), true ) ) {
+			// 30日間記憶
+			setcookie( 'oscss_post_sort', $sort, time() + ( 30 * DAY_IN_SECONDS ), COOKIEPATH ? COOKIEPATH : '/', COOKIE_DOMAIN, is_ssl(), false );
+			$_COOKIE['oscss_post_sort'] = $sort;
+		}
+	}
+}
+add_action( 'init', 'oscss_handle_sort_cookie' );
+
+/**
+ * アーカイブページ（カテゴリー・タグ・日付一覧）のクエリ並び順制御
+ */
+function oscss_sort_archive_queries( $query ) {
+	if ( ! is_admin() && $query->is_main_query() && ( $query->is_archive() || $query->is_home() || $query->is_search() ) ) {
+		$sort = oscss_get_current_sort();
+
+		if ( 'views' === $sort ) {
+			$query->set( 'meta_key', '_oscss_post_views' );
+			$query->set( 'orderby', array(
+				'meta_value_num' => 'DESC',
+				'date'           => 'DESC',
+			) );
+		}
+	}
+}
+add_action( 'pre_get_posts', 'oscss_sort_archive_queries' );
+
+/**
+ * 閲覧数カウント用のREST APIエンドポイント登録
+ * POST /wp-json/oscss/v1/track-view/{post_id}
+ */
+function oscss_register_view_tracker_endpoint() {
+	register_rest_route(
+		'oscss/v1',
+		'/track-view/(?P<id>\d+)',
+		array(
+			'methods'             => 'POST',
+			'callback'            => 'oscss_rest_track_view_callback',
+			'permission_callback' => '__return_true',
+			'args'                => array(
+				'id' => array(
+					'validate_callback' => function( $param ) {
+						return is_numeric( $param );
+					},
+				),
+			),
+		)
+	);
+}
+add_action( 'rest_api_init', 'oscss_register_view_tracker_endpoint' );
+
+/**
+ * 閲覧数トラッキング REST API コールバック
+ */
+function oscss_rest_track_view_callback( $request ) {
+	$post_id = (int) $request->get_param( 'id' );
+
+	if ( ! $post_id || 'post' !== get_post_type( $post_id ) || 'publish' !== get_post_status( $post_id ) ) {
+		return new WP_Error( 'invalid_post', __( '無効な投稿IDです。', 'oscss-wp-nihongo' ), array( 'status' => 404 ) );
+	}
+
+	$views = oscss_set_post_views( $post_id );
+
+	return rest_ensure_response(
+		array(
+			'success' => true,
+			'post_id' => $post_id,
+			'views'   => $views,
+		)
+	);
+}
 
 /**
  * ウィジェットエリア（サイドバー・フッター）の登録
@@ -147,4 +237,5 @@ function oscss_head_analytics_and_ads() {
 	<?php
 }
 add_action( 'wp_head', 'oscss_head_analytics_and_ads', 2 );
+
 

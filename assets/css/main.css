@@ -2004,3 +2004,94 @@ a:hover {
 	transform: translateY(-2px);
 	box-shadow: var(--shadow-lg);
 }
+
+/* ==========================================================================
+   Sort Tabs & Controls (.c-sort-tabs)
+   ========================================================================== */
+.c-section-header--with-controls,
+.c-page-header--with-controls {
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-4);
+	margin-bottom: var(--space-8);
+}
+
+@media (min-width: 768px) {
+	.c-section-header--with-controls,
+	.c-page-header--with-controls {
+		flex-direction: row;
+		align-items: flex-end;
+		justify-content: space-between;
+	}
+
+	.c-section-header--with-controls .c-section-header__text,
+	.c-page-header--with-controls .c-page-header__text {
+		flex: 1;
+	}
+
+	.c-section-header--with-controls .c-section-header__controls,
+	.c-page-header--with-controls .c-page-header__controls {
+		flex-shrink: 0;
+	}
+}
+
+.c-sort-tabs {
+	display: inline-flex;
+	align-items: center;
+	background: #eef2f6;
+	padding: 4px;
+	border-radius: var(--radius-full, 9999px);
+	box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.06);
+	gap: 4px;
+}
+
+.c-sort-tab {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 8px 16px;
+	font-size: var(--text-sm);
+	font-weight: 600;
+	color: var(--color-text-muted);
+	border-radius: var(--radius-full, 9999px);
+	text-decoration: none;
+	transition: all var(--transition-fast);
+	white-space: nowrap;
+	min-height: 40px;
+	cursor: pointer;
+}
+
+.c-sort-tab__icon {
+	font-size: 14px;
+	line-height: 1;
+}
+
+.c-sort-tab:hover {
+	color: var(--color-primary);
+	background: rgba(255, 255, 255, 0.6);
+}
+
+.c-sort-tab.is-active,
+.c-sort-tab[aria-selected="true"] {
+	color: #ffffff !important;
+	background: var(--color-primary);
+	box-shadow: 0 2px 6px rgba(44, 94, 153, 0.28);
+}
+
+.c-sort-tab.is-active:hover {
+	background: var(--color-primary-hover);
+}
+
+/* Post Meta Views Count */
+.c-post-meta__views {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	color: var(--color-text-muted);
+	font-size: var(--text-xs);
+	background: rgba(44, 94, 153, 0.06);
+	padding: 2px 8px;
+	border-radius: var(--radius-full, 9999px);
+	font-weight: 500;
+}
+

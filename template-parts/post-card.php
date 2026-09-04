@@ -26,6 +26,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<div class="c-card__body">
 		<div class="c-card__meta">
 			<?php oscss_posted_on(); ?>
+			<?php oscss_posted_views(); ?>
 		</div>
 
 		<h3 class="c-card__title">

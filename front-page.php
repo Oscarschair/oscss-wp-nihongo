@@ -97,19 +97,40 @@ $cat_culture_url = $cat_culture ? get_category_link( $cat_culture->term_id ) : h
 	<!-- Latest Posts Section -->
 	<section class="c-latest-posts" id="latest-posts">
 		<div class="l-container">
-			<div class="c-section-header">
-				<h2 class="c-section-header__title">最新記事一覧</h2>
-				<p class="c-section-header__desc">最近公開された学習ノート</p>
+			<?php $current_sort = oscss_get_current_sort(); ?>
+			<div class="c-section-header c-section-header--with-controls">
+				<div class="c-section-header__text">
+					<h2 class="c-section-header__title">
+						<?php echo ( 'views' === $current_sort ) ? esc_html__( '人気の記事一覧', 'oscss-wp-nihongo' ) : esc_html__( '記事一覧', 'oscss-wp-nihongo' ); ?>
+					</h2>
+					<p class="c-section-header__desc">
+						<?php echo ( 'views' === $current_sort ) ? esc_html__( '読者によく読まれている学習ノート（閲覧数順）', 'oscss-wp-nihongo' ) : esc_html__( '最近公開された学習ノート（新着順）', 'oscss-wp-nihongo' ); ?>
+					</p>
+				</div>
+				<div class="c-section-header__controls">
+					<?php oscss_render_sort_tabs( $current_sort, '#latest-posts' ); ?>
+				</div>
 			</div>
 
 			<?php
-			$recent_posts = new WP_Query(
-				array(
-					'posts_per_page'      => 12,
-					'post_status'         => 'publish',
-					'ignore_sticky_posts' => 1,
-				)
+			$query_args = array(
+				'posts_per_page'      => 12,
+				'post_status'         => 'publish',
+				'ignore_sticky_posts' => 1,
 			);
+
+			if ( 'views' === $current_sort ) {
+				$query_args['meta_key'] = '_oscss_post_views';
+				$query_args['orderby']  = array(
+					'meta_value_num' => 'DESC',
+					'date'           => 'DESC',
+				);
+			} else {
+				$query_args['orderby'] = 'date';
+				$query_args['order']   = 'DESC';
+			}
+
+			$recent_posts = new WP_Query( $query_args );
 
 			if ( $recent_posts->have_posts() ) :
 				?>

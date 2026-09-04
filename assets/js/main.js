@@ -11,6 +11,8 @@
 		initHeaderScroll();
 		initBackToTop();
 		initSmoothScroll();
+		initSortTabs();
+		initViewTracker();
 	});
 
 	/**
@@ -141,4 +143,75 @@
 			});
 		});
 	}
+
+	/**
+	 * 記事閲覧数の非同期トラッキング（LiteSpeed Cache環境対応）
+	 */
+	function initViewTracker() {
+		if (typeof oscssSettings === 'undefined' || !oscssSettings.isSingle || !oscssSettings.postId) {
+			return;
+		}
+
+		var postId = oscssSettings.postId;
+		var storageKey = 'oscss_viewed_' + postId;
+
+		// 同一セッション内での重複カウント送信を防止
+		if (sessionStorage.getItem(storageKey)) {
+			return;
+		}
+
+		var trackUrl = oscssSettings.restUrl + 'track-view/' + postId;
+
+		fetch(trackUrl, {
+			method: 'POST',
+			headers: {
+				'Content-Type': 'application/json',
+				'X-WP-Nonce': oscssSettings.nonce || ''
+			}
+		})
+		.then(function (response) {
+			return response.json();
+		})
+		.then(function (data) {
+			if (data && data.success) {
+				sessionStorage.setItem(storageKey, '1');
+				// 画面上の views 表示を更新
+				var viewElements = document.querySelectorAll('.c-post-meta__views');
+				viewElements.forEach(function (el) {
+					var icon = el.querySelector('.c-post-meta__icon');
+					var iconHtml = icon ? icon.outerHTML + ' ' : '👁️ ';
+					el.innerHTML = iconHtml + (data.views || 1).toLocaleString() + ' views';
+				});
+			}
+		})
+		.catch(function (err) {
+			// サイレントにキャッチ（ユーザー体験を損なわない）
+			console.debug('View tracking notice:', err);
+		});
+	}
+
+	/**
+	 * 投稿ソート切り替えタブとセッション・Cookie記憶
+	 */
+	function initSortTabs() {
+		var sortTabs = document.querySelectorAll('.c-sort-tab');
+		if (!sortTabs.length) {
+			return;
+		}
+
+		sortTabs.forEach(function (tab) {
+			tab.addEventListener('click', function () {
+				var sortVal = tab.getAttribute('data-sort');
+				if (sortVal) {
+					// Cookieに30日間保存
+					document.cookie = 'oscss_post_sort=' + encodeURIComponent(sortVal) + '; path=/; max-age=' + (30 * 86400) + '; SameSite=Lax';
+					// sessionStorageにも保存
+					try {
+						sessionStorage.setItem('oscss_post_sort', sortVal);
+					} catch (e) {}
+				}
+			});
+		});
+	}
 })();
+

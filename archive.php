@@ -16,18 +16,23 @@ get_header();
 	<div class="l-container">
 		<?php oscss_breadcrumb(); ?>
 
-		<header class="c-page-header">
-			<h1 class="c-page-header__title">
-				<?php the_archive_title(); ?>
-			</h1>
-			<?php
-			$description = get_the_archive_description();
-			if ( $description ) :
-				?>
-				<div class="c-page-header__desc">
-					<?php echo wp_kses_post( $description ); ?>
-				</div>
-			<?php endif; ?>
+		<header class="c-page-header c-page-header--with-controls">
+			<div class="c-page-header__text">
+				<h1 class="c-page-header__title">
+					<?php the_archive_title(); ?>
+				</h1>
+				<?php
+				$description = get_the_archive_description();
+				if ( $description ) :
+					?>
+					<div class="c-page-header__desc">
+						<?php echo wp_kses_post( $description ); ?>
+					</div>
+				<?php endif; ?>
+			</div>
+			<div class="c-page-header__controls">
+				<?php oscss_render_sort_tabs( oscss_get_current_sort() ); ?>
+			</div>
 		</header>
 
 		<?php if ( have_posts() ) : ?>

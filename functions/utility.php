@@ -209,3 +209,112 @@ function oscss_custom_comment( $comment, $args, $depth ) {
 	<?php
 }
 
+/**
+ * 投稿の閲覧数を取得
+ *
+ * @param int|null $post_id 投稿ID（nullの場合は現在の投稿）
+ * @return int 閲覧数
+ */
+function oscss_get_post_views( $post_id = null ) {
+	if ( ! $post_id ) {
+		$post_id = get_the_ID();
+	}
+	$views = get_post_meta( $post_id, '_oscss_post_views', true );
+	return ! empty( $views ) ? (int) $views : 0;
+}
+
+/**
+ * 投稿の閲覧数を1カウントアップ
+ *
+ * @param int $post_id 投稿ID
+ * @return int 更新後の閲覧数
+ */
+function oscss_set_post_views( $post_id ) {
+	if ( ! $post_id || ! is_numeric( $post_id ) ) {
+		return 0;
+	}
+	$post_id = (int) $post_id;
+	$views = (int) get_post_meta( $post_id, '_oscss_post_views', true );
+	$views++;
+	update_post_meta( $post_id, '_oscss_post_views', $views );
+	return $views;
+}
+
+/**
+ * 閲覧数メタ表示HTMLを出力
+ *
+ * @param int|null $post_id 投稿ID
+ */
+function oscss_posted_views( $post_id = null ) {
+	$views = oscss_get_post_views( $post_id );
+	printf(
+		'<span class="c-post-meta__item c-post-meta__views" title="%1$s"><span class="c-post-meta__icon" aria-hidden="true">👁️</span> %2$s views</span>',
+		esc_attr( sprintf( __( '閲覧数: %d回', 'oscss-wp-nihongo' ), $views ) ),
+		esc_html( number_format_i18n( $views ) )
+	);
+}
+
+/**
+ * 現在の投稿一覧並び順（latest / views）を取得
+ * 優先順位: 1. URLパラメータ ?sort= 2. Cookie oscss_post_sort 3. デフォルト 'latest'
+ *
+ * @return string 'latest' または 'views'
+ */
+function oscss_get_current_sort() {
+	if ( isset( $_GET['sort'] ) ) {
+		$sort = sanitize_key( $_GET['sort'] );
+		if ( in_array( $sort, array( 'latest', 'views' ), true ) ) {
+			return $sort;
+		}
+	}
+
+	if ( isset( $_COOKIE['oscss_post_sort'] ) ) {
+		$cookie_sort = sanitize_key( $_COOKIE['oscss_post_sort'] );
+		if ( in_array( $cookie_sort, array( 'latest', 'views' ), true ) ) {
+			return $cookie_sort;
+		}
+	}
+
+	return 'latest';
+}
+
+/**
+ * 一覧画面用のソート切り替えタブHTMLを出力
+ *
+ * @param string $current_sort 現在のソート（'latest' または 'views'）
+ * @param string $anchor       ページ内アンカー（例: '#latest-posts'）
+ */
+function oscss_render_sort_tabs( $current_sort = 'latest', $anchor = '' ) {
+	// 現在のURLを取得し、sortパラメータを差し替えるURLを生成
+	$current_url = remove_query_arg( 'sort' );
+	if ( is_front_page() ) {
+		$current_url = home_url( '/' );
+	}
+
+	$latest_url = add_query_arg( 'sort', 'latest', $current_url ) . $anchor;
+	$views_url  = add_query_arg( 'sort', 'views', $current_url ) . $anchor;
+
+	$is_latest = ( 'views' !== $current_sort );
+	$is_views  = ( 'views' === $current_sort );
+	?>
+	<div class="c-sort-tabs" role="tablist" aria-label="<?php esc_attr_e( '記事の並び替え', 'oscss-wp-nihongo' ); ?>">
+		<a href="<?php echo esc_url( $latest_url ); ?>"
+		   class="c-sort-tab <?php echo $is_latest ? 'is-active' : ''; ?>"
+		   role="tab"
+		   aria-selected="<?php echo $is_latest ? 'true' : 'false'; ?>"
+		   data-sort="latest">
+			<span class="c-sort-tab__icon" aria-hidden="true">🕒</span>
+			<span class="c-sort-tab__text"><?php esc_html_e( '新着順', 'oscss-wp-nihongo' ); ?></span>
+		</a>
+		<a href="<?php echo esc_url( $views_url ); ?>"
+		   class="c-sort-tab <?php echo $is_views ? 'is-active' : ''; ?>"
+		   role="tab"
+		   aria-selected="<?php echo $is_views ? 'true' : 'false'; ?>"
+		   data-sort="views">
+			<span class="c-sort-tab__icon" aria-hidden="true">🔥</span>
+			<span class="c-sort-tab__text"><?php esc_html_e( '閲覧数順', 'oscss-wp-nihongo' ); ?></span>
+		</a>
+	</div>
+	<?php
+}
+
