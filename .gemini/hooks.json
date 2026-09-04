@@ -1,0 +1,20 @@
+{
+  "description": "oscss-wp-nihongo Lifecycle Hooks Configuration",
+  "hooks": {
+    "post_file_save": [
+      {
+        "pattern": "**/*.php",
+        "description": "PHPファイル変更時の構文チェック・ルール監査"
+      },
+      {
+        "pattern": "assets/css/**/*.css",
+        "description": "CSSトークン・8pt Grid設計規則チェック"
+      }
+    ],
+    "pre_deploy": [
+      {
+        "description": "マルチデバイス（PC/SP）画面崩れ・レイアウト検証チェック"
+      }
+    ]
+  }
+}

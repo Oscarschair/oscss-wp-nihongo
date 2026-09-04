@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" fill="none">
+  <rect width="640" height="360" fill="#EEF2FF"/>
+  <circle cx="320" cy="180" r="48" fill="#E0E7FF"/>
+  <path d="M304 192L316 176L324 186L332 174L344 192H304Z" fill="#818CF8"/>
+  <circle cx="314" cy="164" r="4" fill="#6366F1"/>
+  <text x="320" y="248" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#6366F1" text-anchor="middle">No Image</text>
+</svg>

@@ -1,0 +1,110 @@
+/**
+ * Main JavaScript for oscss-wp-nihongo
+ * Accessible navigation, header scroll detection, back-to-top
+ */
+
+(function () {
+	'use strict';
+
+	document.addEventListener('DOMContentLoaded', function () {
+		initNavigation();
+		initHeaderScroll();
+		initBackToTop();
+	});
+
+	/**
+	 * モバイルナビゲーション（ハンバーガーメニュー）
+	 */
+	function initNavigation() {
+		var hamburgerBtn = document.getElementById('hamburger-btn');
+		var primaryNav = document.getElementById('primary-nav');
+
+		if (!hamburgerBtn || !primaryNav) {
+			return;
+		}
+
+		hamburgerBtn.addEventListener('click', function () {
+			var isExpanded = hamburgerBtn.getAttribute('aria-expanded') === 'true';
+			hamburgerBtn.setAttribute('aria-expanded', !isExpanded);
+			primaryNav.classList.toggle('is-open', !isExpanded);
+
+			if (!isExpanded) {
+				hamburgerBtn.setAttribute('aria-label', 'メニューを閉じる');
+			} else {
+				hamburgerBtn.setAttribute('aria-label', 'メニューを開く');
+			}
+		});
+
+		// メニュー外クリックで閉じる
+		document.addEventListener('click', function (event) {
+			if (
+				primaryNav.classList.contains('is-open') &&
+				!primaryNav.contains(event.target) &&
+				!hamburgerBtn.contains(event.target)
+			) {
+				hamburgerBtn.setAttribute('aria-expanded', 'false');
+				hamburgerBtn.setAttribute('aria-label', 'メニューを開く');
+				primaryNav.classList.remove('is-open');
+			}
+		});
+
+		// ESCキーで閉じる
+		document.addEventListener('keydown', function (event) {
+			if (event.key === 'Escape' && primaryNav.classList.contains('is-open')) {
+				hamburgerBtn.setAttribute('aria-expanded', 'false');
+				hamburgerBtn.setAttribute('aria-label', 'メニューを開く');
+				primaryNav.classList.remove('is-open');
+				hamburgerBtn.focus();
+			}
+		});
+	}
+
+	/**
+	 * ヘッダーのスクロール連動シャドウ付与
+	 */
+	function initHeaderScroll() {
+		var header = document.getElementById('site-header');
+		if (!header) {
+			return;
+		}
+
+		var handleScroll = function () {
+			if (window.scrollY > 20) {
+				header.classList.add('is-scrolled');
+			} else {
+				header.classList.remove('is-scrolled');
+			}
+		};
+
+		window.addEventListener('scroll', handleScroll, { passive: true });
+		handleScroll();
+	}
+
+	/**
+	 * バックトゥトップボタン
+	 */
+	function initBackToTop() {
+		var backToTopBtn = document.getElementById('back-to-top');
+		if (!backToTopBtn) {
+			return;
+		}
+
+		var handleScroll = function () {
+			if (window.scrollY > 300) {
+				backToTopBtn.classList.add('is-visible');
+			} else {
+				backToTopBtn.classList.remove('is-visible');
+			}
+		};
+
+		window.addEventListener('scroll', handleScroll, { passive: true });
+		handleScroll();
+
+		backToTopBtn.addEventListener('click', function () {
+			window.scrollTo({
+				top: 0,
+				behavior: 'smooth'
+			});
+		});
+	}
+})();
