@@ -140,39 +140,109 @@ a:hover {
 	color: var(--color-text-muted);
 }
 
+.l-header__menu,
+.l-header__menu ul,
+.l-header__menu li,
+.sub-menu {
+	list-style: none !important;
+	margin: 0;
+	padding: 0;
+}
+
 .l-header__menu {
 	display: flex;
 	align-items: center;
-	list-style: none;
 	gap: var(--space-6);
 }
 
-.l-header__menu a {
+.l-header__menu > li {
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+
+.l-header__menu > li > a {
 	color: var(--color-text-main);
 	font-weight: 600;
 	font-size: var(--text-sm);
-	padding: var(--space-2) 0;
+	padding: var(--space-6) 0;
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
 	position: relative;
 	transition: color var(--transition-fast);
 }
 
-.l-header__menu a:hover {
+.l-header__menu > li > a:hover {
 	color: var(--color-primary);
 }
 
-.l-header__menu a::after {
+.l-header__menu > li.menu-item-has-children > a::after {
 	content: '';
-	position: absolute;
-	bottom: 0;
-	left: 0;
-	width: 0;
-	height: 2px;
-	background: var(--color-primary);
-	transition: width var(--transition-fast);
+	display: inline-block;
+	width: 6px;
+	height: 6px;
+	border-right: 2px solid currentColor;
+	border-bottom: 2px solid currentColor;
+	transform: rotate(45deg);
+	margin-left: 4px;
+	margin-top: -3px;
+	transition: transform var(--transition-fast);
 }
 
-.l-header__menu a:hover::after {
-	width: 100%;
+.l-header__menu > li.menu-item-has-children:hover > a::after {
+	transform: rotate(-135deg);
+	margin-top: 3px;
+}
+
+/* PC Dropdown Submenu */
+@media (min-width: 768px) {
+	.l-header__menu .sub-menu {
+		position: absolute;
+		top: 100%;
+		left: 0;
+		min-width: 220px;
+		background: #ffffff;
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-md);
+		box-shadow: var(--shadow-xl);
+		padding: var(--space-2) 0;
+		opacity: 0;
+		visibility: hidden;
+		transform: translateY(8px);
+		transition: opacity var(--transition-fast), transform var(--transition-fast), visibility var(--transition-fast);
+		z-index: 1000;
+		pointer-events: none;
+	}
+
+	.l-header__menu li:hover > .sub-menu,
+	.l-header__menu li:focus-within > .sub-menu,
+	.l-header__menu li.is-open > .sub-menu {
+		opacity: 1;
+		visibility: visible;
+		transform: translateY(0);
+		pointer-events: auto;
+	}
+
+	.l-header__menu .sub-menu li {
+		display: block;
+		width: 100%;
+	}
+
+	.l-header__menu .sub-menu a {
+		display: block;
+		padding: var(--space-3) var(--space-5);
+		font-size: var(--text-sm);
+		font-weight: 500;
+		color: var(--color-text-main);
+		white-space: nowrap;
+		transition: background-color var(--transition-fast), color var(--transition-fast);
+	}
+
+	.l-header__menu .sub-menu a:hover {
+		background-color: var(--color-primary-light);
+		color: var(--color-primary);
+	}
 }
 
 .l-main {
@@ -228,7 +298,7 @@ a:hover {
 }
 
 /* ==========================================================================
-   3. Navigation & Hamburger Menu
+   3. Navigation & Hamburger Menu (Mobile & SP)
    ========================================================================== */
 .c-hamburger {
 	display: none;
@@ -265,7 +335,7 @@ a:hover {
 		width: 100%;
 		height: calc(100vh - 72px);
 		background: #ffffff;
-		padding: var(--space-8) var(--space-6);
+		padding: var(--space-6);
 		transform: translateX(100%);
 		transition: transform var(--transition-normal);
 		overflow-y: auto;
@@ -280,13 +350,42 @@ a:hover {
 		flex-direction: column;
 		align-items: flex-start;
 		gap: var(--space-4);
+		width: 100%;
 	}
 
-	.l-header__menu a {
+	.l-header__menu > li {
+		width: 100%;
+		flex-direction: column;
+		align-items: flex-start;
+		border-bottom: 1px solid var(--color-border);
+		padding-bottom: var(--space-3);
+	}
+
+	.l-header__menu > li > a {
 		font-size: var(--text-lg);
-		display: block;
+		display: flex;
+		justify-content: space-between;
 		width: 100%;
 		padding: var(--space-2) 0;
+	}
+
+	.l-header__menu .sub-menu {
+		display: block;
+		width: 100%;
+		padding-left: var(--space-4);
+		margin-top: var(--space-2);
+		border-left: 3px solid var(--color-primary-light);
+	}
+
+	.l-header__menu .sub-menu li {
+		margin-bottom: var(--space-2);
+	}
+
+	.l-header__menu .sub-menu a {
+		font-size: var(--text-base);
+		color: var(--color-text-muted);
+		display: block;
+		padding: var(--space-1) 0;
 	}
 
 	.c-hamburger[aria-expanded="true"] .c-hamburger__line:nth-child(1) {

@@ -48,14 +48,20 @@
 			}
 		});
 
-		// ESCキーで閉じる
-		document.addEventListener('keydown', function (event) {
-			if (event.key === 'Escape' && primaryNav.classList.contains('is-open')) {
-				hamburgerBtn.setAttribute('aria-expanded', 'false');
-				hamburgerBtn.setAttribute('aria-label', 'メニューを開く');
-				primaryNav.classList.remove('is-open');
-				hamburgerBtn.focus();
-			}
+		// サブメニューを持つメニュー項目のタップ制御
+		var parentMenuItems = primaryNav.querySelectorAll('.menu-item-has-children > a');
+		parentMenuItems.forEach(function (item) {
+			item.addEventListener('click', function (e) {
+				// 画面幅がモバイル時、またはリンク先が空や#の場合はサブメニューをトグル
+				var href = item.getAttribute('href');
+				if (window.innerWidth < 768 || !href || href === '#' || href === 'http://nothing') {
+					if (!href || href === '#' || href === 'http://nothing') {
+						e.preventDefault();
+					}
+					var parentLi = item.parentElement;
+					parentLi.classList.toggle('is-open');
+				}
+			});
 		});
 	}
 
