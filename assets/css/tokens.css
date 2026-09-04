@@ -1,26 +1,31 @@
 /**
- * Design Tokens for oscss-wp-nihongo
- * 8pt Grid System, Accessible Pastel Colors & Typography
+ * Design Tokens for oscss-wp-nihongo (オスカーの日本語学習帳)
+ * 和モダン・パステル調 ＆ 8pt Grid System
  */
 
 :root {
-	/* Colors: Primary & Accent (Harmonious Indigo / Pastel Purple) */
-	--color-primary: #4f46e5;
-	--color-primary-hover: #4338ca;
+	/* Colors: Primary & Brand (知性と信頼の藍色・インディゴ) */
+	--color-primary: #3b49df;
+	--color-primary-hover: #2f3ab2;
 	--color-primary-light: #eef2ff;
 	--color-primary-subtle: #f5f3ff;
 	
-	--color-accent: #06b6d4;
-	--color-accent-hover: #0891b2;
+	/* Colors: Accents (桜・薄紅 ＆ 若草・翡翠) */
+	--color-accent-pink: #ec4899;
+	--color-accent-pink-light: #fdf2f8;
+	--color-accent-green: #10b981;
+	--color-accent-green-light: #ecfdf5;
+	--color-accent-amber: #f59e0b;
+	--color-accent-amber-light: #fffbeb;
 
-	/* Colors: Neutrals (High Contrast & Readability) */
-	--color-text-main: #1e293b;       /* slate-800: 深い濃色で視認性100% (WCAG 4.5:1 超過) */
-	--color-text-muted: #64748b;      /* slate-500: メタ情報用 */
+	/* Colors: Neutrals (和紙オフホワイト ＆ 視認性100%ダークスレート) */
+	--color-text-main: #1e293b;       /* slate-800: 深い濃色で長文でも疲れず高視認性 */
+	--color-text-muted: #64748b;      /* slate-500: メタ情報・補足 */
 	--color-text-light: #94a3b8;      /* slate-400 */
 	--color-bg-main: #ffffff;
-	--color-bg-alt: #f8fafc;         /* slate-50: 柔らかいパステルオフホワイト */
+	--color-bg-alt: #faf9f6;         /* 和紙のような落ち着いたオフホワイト */
 	--color-bg-card: #ffffff;
-	--color-border: #e2e8f0;         /* slate-200 */
+	--color-border: #e2e8f0;
 	--color-border-hover: #cbd5e1;
 
 	/* Colors: Semantic Alerts */
@@ -67,21 +72,21 @@
 	--text-5xl: 3rem;      /* 48px */
 
 	/* Line Heights & Letter Spacing */
-	--lh-tight: 1.3;
+	--lh-tight: 1.35;
 	--lh-normal: 1.6;
-	--lh-relaxed: 1.75;
-	--lh-loose: 1.85;
-	--ls-tight: -0.02em;
+	--lh-relaxed: 1.8;     /* ゆったりとした日本語エッセイ行間 */
+	--lh-loose: 1.9;
+	--ls-tight: -0.01em;
 	--ls-normal: 0;
 	--ls-wide: 0.03em;
 
 	/* Radii */
 	--radius-sm: 6px;
-	--radius-md: 10px;
-	--radius-lg: 16px;
+	--radius-md: 12px;
+	--radius-lg: 18px;
 	--radius-full: 9999px;
 
-	/* Shadows (Modern & Subtle) */
+	/* Shadows */
 	--shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
 	--shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.07), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
 	--shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.04);
@@ -89,10 +94,9 @@
 
 	/* Layout Widths */
 	--container-max: 1120px;
-	--container-narrow: 800px;
+	--container-narrow: 820px;
 
 	/* Transitions */
 	--transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
 	--transition-normal: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-	--transition-slow: 350ms cubic-bezier(0.4, 0, 0.2, 1);
 }

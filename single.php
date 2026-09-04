@@ -49,6 +49,9 @@ get_header();
 					?>
 				</div>
 
+				<!-- 著者プロフィール（オスカー様） -->
+				<?php get_template_part( 'template-parts/author-box' ); ?>
+
 				<footer class="c-entry__footer">
 					<?php
 					$tags = get_the_tags();

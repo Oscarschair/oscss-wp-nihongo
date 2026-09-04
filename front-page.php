@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying the front page
+ * The template for displaying the front page (オスカーの日本語学習帳)
  *
  * @package oscss-wp-nihongo
  */
@@ -17,58 +17,68 @@ get_header();
 	<section class="c-hero">
 		<div class="l-container c-hero__inner">
 			<div class="c-hero__content">
-				<span class="c-badge c-badge--accent">WordPress Theme</span>
+				<span class="c-badge c-badge--accent">🇭🇰 外国人視点の日本語学習ブログ</span>
 				<h1 class="c-hero__title">
-					美しく、読みやすく。<br>
-					日本語に最適化された<br>
-					モダンWordPressテーマ
+					ことばのあやと、<br>
+					日常のカルチャーショックを<br>
+					外国人視点で読み解く。
 				</h1>
 				<p class="c-hero__lead">
-					「oscss-wp-nihongo」は、8pt Gridシステムと徹底した日本語組版最適化により、洗練されたデザインと抜群の可読性を両立するカスタムテーマです。
+					「オスカーの日本語学習帳」は、香港出身のWebディレクターが、日本語特有のニュアンスや文化の違い、日常の気づきを分かりやすく綴るメディアです。
 				</p>
 				<div class="c-hero__actions">
-					<a href="#features" class="c-btn c-btn--primary">特徴を見る</a>
-					<a href="#latest-posts" class="c-btn c-btn--outline">最新記事へ</a>
+					<a href="#categories" class="c-btn c-btn--primary">テーマ別に見る</a>
+					<a href="#latest-posts" class="c-btn c-btn--outline">最新記事を読む</a>
 				</div>
 			</div>
 			<div class="c-hero__visual">
 				<div class="c-hero__card-preview">
-					<div class="c-hero__preview-badge">✨ High Performance</div>
-					<div class="c-hero__preview-body">
-						<div class="c-hero__preview-line c-hero__preview-line--title"></div>
-						<div class="c-hero__preview-line"></div>
-						<div class="c-hero__preview-line c-hero__preview-line--short"></div>
+					<div class="c-hero__preview-badge">✨ Featured Series</div>
+					<div class="c-nihongo-vs" style="margin: 0; border: none; box-shadow: none;">
+						<div class="c-nihongo-vs__header" style="border-radius: 8px 8px 0 0;">🔍 くらべてみました</div>
+						<div class="c-nihongo-vs__grid">
+							<div class="c-nihongo-vs__col" style="padding: 12px;">
+								<span class="c-nihongo-vs__badge c-nihongo-vs__badge--left">表現 1</span>
+								<div class="c-nihongo-vs__word" style="font-size: 16px;">ごめんなさい</div>
+								<div class="c-nihongo-vs__desc" style="font-size: 12px;">自分の非を認める</div>
+							</div>
+							<div class="c-nihongo-vs__col" style="padding: 12px;">
+								<span class="c-nihongo-vs__badge c-nihongo-vs__badge--right">表現 2</span>
+								<div class="c-nihongo-vs__word" style="font-size: 16px;">すみません</div>
+								<div class="c-nihongo-vs__desc" style="font-size: 12px;">相手への配慮・感謝</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</section>
 
-	<!-- Features Section -->
-	<section class="c-features" id="features">
+	<!-- Features / Categories Section -->
+	<section class="c-features" id="categories">
 		<div class="l-container">
 			<div class="c-section-header">
-				<h2 class="c-section-header__title">テーマの特長</h2>
-				<p class="c-section-header__desc">モダンWeb標準と日本語アクセシビリティを追求した設計</p>
+				<h2 class="c-section-header__title">主な連載テーマ</h2>
+				<p class="c-section-header__desc">外国人視点だからこそ見えてくる、日本語の面白さと奥深さ</p>
 			</div>
 
 			<div class="c-features__grid">
 				<div class="c-feature-box">
-					<div class="c-feature-box__icon">✍️</div>
-					<h3 class="c-feature-box__title">日本語タイポグラフィ</h3>
-					<p class="c-feature-box__text">適切な行間（1.75倍）と文字間隔、禁則処理、美しく読みやすいフォントスタックを標準搭載。</p>
+					<div class="c-feature-box__icon">🔍</div>
+					<h3 class="c-feature-box__title">くらべてみました</h3>
+					<p class="c-feature-box__text">「ごめんなさい」と「すみません」など、似ているようで異なる表現の違いを徹底比較。</p>
 				</div>
 
 				<div class="c-feature-box">
-					<div class="c-feature-box__icon">📐</div>
-					<h3 class="c-feature-box__title">8pt Grid システム</h3>
-					<p class="c-feature-box__text">余白・要素サイズを8の倍数で統一し、デバイスサイズを問わず美しい調和とリズムを維持。</p>
+					<div class="c-feature-box__icon">🗣️</div>
+					<h3 class="c-feature-box__title">ことばのあや</h3>
+					<p class="c-feature-box__text">終助詞「ね」「よ」の使い方など、相手とスムーズに会話するためのニュアンスを解説。</p>
 				</div>
 
 				<div class="c-feature-box">
-					<div class="c-feature-box__icon">🧩</div>
-					<h3 class="c-feature-box__title">モジュラーPHP設計</h3>
-					<p class="c-feature-box__text">functions/ 配下を責務ごとに分離し、肥大化を防ぎ長期的な保守性と拡張性を担保。</p>
+					<div class="c-feature-box__icon">🌏</div>
+					<h3 class="c-feature-box__title">カルチャーショック</h3>
+					<p class="c-feature-box__text">日本の習慣や食文化、香港と日本のコミュニケーション感覚の違いをリアルに綴ります。</p>
 				</div>
 			</div>
 		</div>
@@ -78,8 +88,8 @@ get_header();
 	<section class="c-latest-posts" id="latest-posts">
 		<div class="l-container">
 			<div class="c-section-header">
-				<h2 class="c-section-header__title">最新記事</h2>
-				<p class="c-section-header__desc">ブログやお知らせの最新トピックス</p>
+				<h2 class="c-section-header__title">最新記事一覧</h2>
+				<p class="c-section-header__desc">最近公開された学習ノート</p>
 			</div>
 
 			<?php
