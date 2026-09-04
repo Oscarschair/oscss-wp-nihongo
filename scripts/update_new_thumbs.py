@@ -2,15 +2,15 @@ import shutil
 import paramiko
 
 # 1. ローカル画像を上書きコピー
-src_ice = r'C:\Users\user\.gemini\antigravity-ide\brain\4d088df4-e87c-4c0f-ae49-5ce9644d7e28\thumb_ice_water_correct_face_1788529756216.jpg'
+src_ice = r'C:\Users\user\.gemini\antigravity-ide\brain\4d088df4-e87c-4c0f-ae49-5ce9644d7e28\thumb_ice_water_pose_v3_1788529947752.jpg'
 dest_ice = r'c:\Users\user\git\oscss-wp-nihongo\assets\images\thumbnails\thumb-culture-ice-water.jpg'
 shutil.copyfile(src_ice, dest_ice)
 
-src_train = r'C:\Users\user\.gemini\antigravity-ide\brain\4d088df4-e87c-4c0f-ae49-5ce9644d7e28\thumb_train_sleep_correct_face_1788529784732.jpg'
+src_train = r'C:\Users\user\.gemini\antigravity-ide\brain\4d088df4-e87c-4c0f-ae49-5ce9644d7e28\thumb_train_sleep_pose_var_1788529984492.jpg'
 dest_train = r'c:\Users\user\git\oscss-wp-nihongo\assets\images\thumbnails\thumb-culture-train-sleep.jpg'
 shutil.copyfile(src_train, dest_train)
 
-print("Local thumbnails overwritten with exact hero face!")
+print("Local thumbnails updated with varied shock poses!")
 
 # 2. 本番サーバーへアップロード & WordPressアイキャッチ更新
 env_data = {}
@@ -35,7 +35,7 @@ sftp = ssh.open_sftp()
 remote_thumbs_dir = f'{deploy_dir.rstrip("/")}/assets/images/thumbnails'
 sftp.put(dest_ice, f'{remote_thumbs_dir}/thumb-culture-ice-water.jpg')
 sftp.put(dest_train, f'{remote_thumbs_dir}/thumb-culture-train-sleep.jpg')
-print("Uploaded correct thumbnails to server!")
+print("Uploaded varied thumbnails to server!")
 
 remote_php = """<?php
 define('WP_USE_THEMES', false);
@@ -55,7 +55,7 @@ foreach ($mapping as $post_id => $file) {
     $thumb_path = $theme_dir . '/assets/images/thumbnails/' . $file;
     if (file_exists($thumb_path)) {
         $wp_upload_dir = wp_upload_dir();
-        $unique_filename = wp_unique_filename($wp_upload_dir['path'], 'v2-' . $file);
+        $unique_filename = wp_unique_filename($wp_upload_dir['path'], 'v3-' . $file);
         $upload_file = $wp_upload_dir['path'] . '/' . $unique_filename;
         copy($thumb_path, $upload_file);
         
