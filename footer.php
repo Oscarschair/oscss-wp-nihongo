@@ -28,7 +28,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 				</p>
 				<div class="l-footer__brand-links">
 					<a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer" class="l-footer__ext-link">
-						<span>🌐 オスカーの学習帳（メインサイト）</span> &rarr;
+						<span>🌐 クルマのAIノート（メインサイト）</span> &rarr;
 					</a>
 				</div>
 			</div>
@@ -89,7 +89,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 				<li><a href="<?php echo esc_url( home_url( '/category/kotoba-no-aya/' ) ); ?>">ことばのあや</a></li>
 				<li><a href="<?php echo esc_url( home_url( '/category/comparing/' ) ); ?>">くらべてみました</a></li>
 				<li><a href="<?php echo esc_url( home_url( '/category/culture-shock/' ) ); ?>">カルチャーショック</a></li>
-				<li><a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer">オスカーの学習帳へ</a></li>
+				<li><a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer">クルマのAIノートへ</a></li>
 			</ul>
 			<p class="l-footer__copyright">
 				&copy; <?php echo esc_html( gmdate( 'Y' ) ); ?> <?php bloginfo( 'name' ); ?>. All Rights Reserved.
