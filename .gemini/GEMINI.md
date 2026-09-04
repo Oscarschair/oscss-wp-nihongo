@@ -36,9 +36,26 @@
 
 ---
 
+## 🔍 SEO専門レビュー ＆ 投稿ライフサイクルフック (Mandatory SEO Hooks)
+
+新規記事の作成・保存時（`post_file_save`）およびWordPressへの投稿・公開前（`pre_post_publish`）には、[`.gemini/skills/seo-reviewer/SKILL.md`](file:///c:/Users/user/git/oscss-wp-nihongo/.gemini/skills/seo-reviewer/SKILL.md) が自動発動し、以下の10大SEO品質ゲートを通過することを必須とします：
+
+1. **Title Tag**: 30〜60文字以内、主要検索キーワードを前方に配置、クリック率を高めるフック。
+2. **Meta Description**: 100〜140文字程度で記事要約と読者ベネフィットを明記。
+3. **見出し階層**: `<h1>` はタイトル1つのみ、本文内は `<h2>` ➔ `<h3>` の階層順序を厳守。
+4. **リード文 ＆ BLUF**: 冒頭で「この記事でわかること」「テーマの結論」を明確に提示。
+5. **検索意図・深掘り**: 学習者・異文化理解層の疑問に100%回答し、文化的背景・理由を解説。
+6. **リッチコンテンツ**: 会話形式ダイアログ、比較テーブル、箇条書きを活用したスキャナビリティ。
+7. **内部リンク**: 連載カテゴリー内の関連記事への適切なリンク導線。
+8. **画像・Alt属性**: すべての画像に具体的な日本語 `alt` 属性を設定、16:9比率。
+9. **E-E-A-T ＆ トーン**: 主人公オスカーの親しみやすく知的なトーンの一貫性。
+10. **URLスラッグ**: 英数字ハイフン区切りのクリーンなスラッグ設計。
+
+---
+
 ## 🎨 サムネイル一貫性 ＆ 投稿ライフサイクルフック (Mandatory Hooks)
 
-記事の投稿・作成時には、`.gemini/skills/thumbnail-consistency-agent/SKILL.md` が自動発動（`pre_post_publish` / `post_file_save`）し、以下の品質ゲートを通過することを必須条件とします：
+記事の投稿・作成時には、[`.gemini/skills/thumbnail-consistency-agent/SKILL.md`](file:///c:/Users/user/git/oscss-wp-nihongo/.gemini/skills/thumbnail-consistency-agent/SKILL.md) が自動発動（`pre_post_publish` / `post_file_save`）し、以下の品質ゲートを通過することを必須条件とします：
 
 1. **主人公「オスカー」の登場必須（公式モデル原型: `assets/images/hero-oscar-v2.png` / `https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/hero-oscar-v2.png`）**:
    - ふんわり茶髪マッシュ、大きめの黒縁丸メガネ、水色スウェット、知的な好青年。
@@ -50,5 +67,6 @@
    - 🌏 **カルチャーショック**: 状況に応じた自然な驚き・発見リアクション、対比アイテム、明るいオレンジ/スカイブルー背景。
 3. **共通フォーマット**:
    - 16:9比率、ポップで読みやすい日本語タイトル文字配置、アニメ・ベクターイラスト調。
+
 
 

@@ -3,6 +3,10 @@
   "hooks": {
     "pre_post_publish": [
       {
+        "agent": "seo-reviewer",
+        "description": "新規投稿前のSEO観点レビュー（タイトル・メタディスクリプション・見出し階層・検索意図・alt属性・内部リンク検証）"
+      },
+      {
         "agent": "thumbnail-consistency-agent",
         "description": "記事投稿前のサムネイル画像形式・カテゴリー別デザイン規則・主人公オスカー登場検証"
       },
@@ -11,6 +15,11 @@
       }
     ],
     "post_file_save": [
+      {
+        "pattern": "content/posts/**/*.md",
+        "agent": "seo-reviewer",
+        "description": "新規記事Markdown保存時のSEO観点（タイトル・見出し・検索キーワード・リード文）自動レビュー"
+      },
       {
         "pattern": "content/posts/**/*.md",
         "agent": "thumbnail-consistency-agent",
