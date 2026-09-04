@@ -1,10 +1,13 @@
-# Environment files
+# Environment & Scripts
 .env
 .env.*
 .env.deploy
 .env.local
 .env.*.local
 inspect_remote.py
+extract_posts.py
+convert_to_md.py
+exported_posts.json
 
 # OS files
 .DS_Store
