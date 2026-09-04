@@ -101,5 +101,6 @@ description: "日本語の会話で頻出する終助詞「よね」。「ね（
 ---
 
 ### 📌 あわせて読みたい関連記事
+- 🗣️ [ことばのあや：「いいです」の話｜YES？それともNO？文脈とトーンで180度変わる日本語の謎](https://nihongo.oscarchair.jp/2026/09/05/kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu/)
 - 🗣️ [ことばのあや：終助詞「ね」の使い方について｜相手と心地よく会話するために](https://nihongo.oscarchair.jp/2023/02/20/kotoba-no-aya-how-to-use-the-final-particle-ne-for-a-comfortable-conversation/)
 - 🗣️ [ことばのあや：終助詞「よ」の使い方について｜相手と効果的に会話するために](https://nihongo.oscarchair.jp/2024/07/05/kotoba-no-aya-how-to-use-the-final-particle-yo-for-effective-conversation/)
