@@ -40,7 +40,7 @@
 
 記事の投稿・作成時には、`.gemini/skills/thumbnail-consistency-agent/SKILL.md` が自動発動（`pre_post_publish` / `post_file_save`）し、以下の品質ゲートを通過することを必須条件とします：
 
-1. **主人公「オスカー」の登場必須（正本: `assets/images/thumbnails/thumb-post-44.jpg`）**:
+1. **主人公「オスカー」の登場必須（公式モデル原型: `assets/images/hero-oscar-v2.png` / `https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/hero-oscar-v2.png`）**:
    - ふんわり茶髪マッシュ、大きめの黒縁丸メガネ、水色スウェット、知的な好青年。
    - **腕と手は必ず「左右2本のみ」**（AI特有の腕3本等の奇形を100%排除）。
    - **表情・ポーズの多様性**: 毎回同じ固定ポーズではなく、記事のシチュエーションに応じた自然なリアクション・驚き・発見・考察ポーズ（指差し、つり革キョロキョロ、首傾げ等）。
