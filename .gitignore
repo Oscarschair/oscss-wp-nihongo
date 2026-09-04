@@ -5,6 +5,7 @@
 .env.deploy
 .env.local
 .env.*.local
+scripts/
 inspect_remote.py
 extract_posts.py
 convert_to_md.py
