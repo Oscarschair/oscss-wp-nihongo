@@ -140,3 +140,72 @@ function oscss_breadcrumb() {
 	echo '</ol>';
 	echo '</nav>';
 }
+
+/**
+ * カスタムコメント出力コールバック
+ *
+ * @param WP_Comment $comment コメントオブジェクト
+ * @param array      $args    引数
+ * @param int        $depth   階層の深さ
+ */
+function oscss_custom_comment( $comment, $args, $depth ) {
+	$tag = ( 'div' === $args['style'] ) ? 'div' : 'li';
+	?>
+	<<?php echo esc_attr( $tag ); ?> id="comment-<?php comment_ID(); ?>" <?php comment_class( empty( $args['has_children'] ) ? 'c-comment' : 'c-comment c-comment--parent' ); ?>>
+		<article id="div-comment-<?php comment_ID(); ?>" class="c-comment__body">
+			<header class="c-comment__header">
+				<div class="c-comment__avatar">
+					<?php
+					if ( 0 != $args['avatar_size'] ) {
+						echo get_avatar( $comment, $args['avatar_size'] );
+					}
+					?>
+				</div>
+				<div class="c-comment__meta">
+					<div class="c-comment__author">
+						<?php printf( '<span class="c-comment__author-name">%s</span>', get_comment_author_link() ); ?>
+						<?php
+						$post = get_post( $comment->comment_post_ID );
+						if ( $post && $comment->user_id === $post->post_author ) {
+							echo '<span class="c-badge c-badge--accent" style="font-size: 11px; padding: 2px 6px; margin-left: 6px;">著者</span>';
+						}
+						?>
+					</div>
+					<div class="c-comment__date">
+						<a href="<?php echo esc_url( get_comment_link( $comment->comment_ID ) ); ?>">
+							<time datetime="<?php comment_time( 'c' ); ?>">
+								<?php printf( esc_html__( '%1$s %2$s', 'oscss-wp-nihongo' ), get_comment_date(), get_comment_time() ); ?>
+							</time>
+						</a>
+					</div>
+				</div>
+			</header>
+
+			<?php if ( '0' == $comment->comment_approved ) : ?>
+				<p class="c-comment__awaiting-moderation"><?php esc_html_e( '※ あなたのコメントは承認待ちです。', 'oscss-wp-nihongo' ); ?></p>
+			<?php endif; ?>
+
+			<div class="c-comment__content c-prose">
+				<?php comment_text(); ?>
+			</div>
+
+			<div class="c-comment__reply">
+				<?php
+				comment_reply_link(
+					array_merge(
+						$args,
+						array(
+							'add_below' => 'div-comment',
+							'depth'     => $depth,
+							'max_depth' => $args['max_depth'],
+							'before'    => '<span class="c-comment__reply-link">',
+							'after'     => '</span>',
+						)
+					)
+				);
+				?>
+			</div>
+		</article>
+	<?php
+}
+
