@@ -105,7 +105,7 @@ $cat_culture_url = $cat_culture ? get_category_link( $cat_culture->term_id ) : h
 			<?php
 			$recent_posts = new WP_Query(
 				array(
-					'posts_per_page'      => 6,
+					'posts_per_page'      => 12,
 					'post_status'         => 'publish',
 					'ignore_sticky_posts' => 1,
 				)
