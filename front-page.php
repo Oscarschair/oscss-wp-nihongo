@@ -45,18 +45,11 @@ $cat_culture_url = $cat_culture ? get_category_link( $cat_culture->term_id ) : h
 				</div>
 			</div>
 			<div class="c-hero__visual">
-				<div class="c-hero__image-wrapper">
+				<div class="c-hero__character">
 					<picture>
-						<source srcset="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/hero-oscar.webp' ); ?>" type="image/webp">
-						<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/hero-oscar.jpg' ); ?>" alt="<?php esc_attr_e( '日本語を楽しく学習するオスカー', 'oscss-wp-nihongo' ); ?>" class="c-hero__image" width="600" height="450" loading="eager" fetchpriority="high">
+						<source srcset="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/hero-oscar-v2.webp' ); ?>" type="image/webp">
+						<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/hero-oscar-v2.png' ); ?>" alt="<?php esc_attr_e( '日本語を楽しく学ぶオスカー', 'oscss-wp-nihongo' ); ?>" class="c-hero__character-img" width="560" height="420" loading="eager" fetchpriority="high">
 					</picture>
-					<div class="c-hero__floating-card">
-						<span class="c-hero__floating-icon">💡</span>
-						<div class="c-hero__floating-text">
-							<strong>楽しく学ぶ、生きた日本語</strong>
-							<span>香港出身ディレクターの学習ノート</span>
-						</div>
-					</div>
 				</div>
 			</div>
 		</div>
