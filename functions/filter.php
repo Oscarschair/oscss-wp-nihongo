@@ -65,3 +65,20 @@ function oscss_archive_title( $title ) {
 	return $title;
 }
 add_filter( 'get_the_archive_title', 'oscss_archive_title' );
+
+/**
+ * 記事本文内の古いアイコン画像を最新の高画質 my-icon.png に置換
+ */
+function oscss_replace_content_avatar_icons( $content ) {
+	$new_icon = OSCSS_THEME_URI . '/assets/images/my-icon.png';
+	return str_replace(
+		array(
+			'https://nihongo.oscarchair.jp/wp-content/uploads/2023/02/my-icon1.jpg',
+			'/wp-content/uploads/2023/02/my-icon1.jpg',
+		),
+		$new_icon,
+		$content
+	);
+}
+add_filter( 'the_content', 'oscss_replace_content_avatar_icons', 20 );
+

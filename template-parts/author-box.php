@@ -11,7 +11,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 ?>
 <div class="c-author-box">
 	<div class="c-author-box__avatar-wrap">
-		<img src="<?php echo esc_url( home_url( '/wp-content/uploads/2023/02/my-icon1.jpg' ) ); ?>" alt="オスカー（車 浩文）" class="c-author-box__avatar" onerror="this.src='<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/placeholder.svg' ); ?>';" loading="lazy">
+		<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/my-icon.png' ); ?>" alt="オスカー（車 浩文）" class="c-author-box__avatar" onerror="this.src='<?php echo esc_url( home_url( '/wp-content/uploads/2023/02/my-icon1.jpg' ) ); ?>';" loading="lazy">
 	</div>
 	<div class="c-author-box__content">
 		<span class="c-author-box__label">Written by</span>
