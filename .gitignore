@@ -1,6 +1,7 @@
 # Environment & Scripts
 .env
 .env.*
+!.env.example
 .env.deploy
 .env.local
 .env.*.local
