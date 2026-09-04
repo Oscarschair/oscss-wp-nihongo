@@ -10,7 +10,35 @@
 		initNavigation();
 		initHeaderScroll();
 		initBackToTop();
+		initSmoothScroll();
 	});
+
+	/**
+	 * ページ内アンカースムーズスクロール
+	 */
+	function initSmoothScroll() {
+		var links = document.querySelectorAll('a[href^="#"]:not([href="#"])');
+		links.forEach(function (link) {
+			link.addEventListener('click', function (e) {
+				var targetId = link.getAttribute('href');
+				if (!targetId || targetId === '#') return;
+				
+				var targetElement = document.querySelector(targetId);
+				if (targetElement) {
+					e.preventDefault();
+					var header = document.getElementById('site-header');
+					var headerHeight = header ? header.offsetHeight : 0;
+					var elementPosition = targetElement.getBoundingClientRect().top;
+					var offsetPosition = elementPosition + window.pageYOffset - headerHeight - 20;
+
+					window.scrollTo({
+						top: offsetPosition,
+						behavior: 'smooth'
+					});
+				}
+			});
+		});
+	}
 
 	/**
 	 * モバイルナビゲーション（ハンバーガーメニュー）

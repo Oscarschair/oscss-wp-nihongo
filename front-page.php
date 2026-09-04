@@ -10,6 +10,19 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 get_header();
+
+// 各カテゴリへのリンクを取得
+$cat_kurabete = get_category_by_slug( 'くらべてみました' );
+$cat_kurabete_url = $cat_kurabete ? get_category_link( $cat_kurabete->term_id ) : home_url( '/category/%e3%81%8f%e3%82%89%e3%81%b9%e3%81%a6%e3%81%bf%e3%81%be%e3%81%97%e3%81%9f/' );
+
+$cat_aya = get_category_by_slug( 'aya-of-words' );
+if ( ! $cat_aya ) {
+	$cat_aya = get_category_by_slug( 'ことばのあや' );
+}
+$cat_aya_url = $cat_aya ? get_category_link( $cat_aya->term_id ) : home_url( '/category/aya-of-words/' );
+
+$cat_culture = get_category_by_slug( 'カルチャーショック' );
+$cat_culture_url = $cat_culture ? get_category_link( $cat_culture->term_id ) : home_url( '/category/%e3%82%ab%e3%83%ab%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%83%e3%82%af/' );
 ?>
 
 <main class="l-main">
@@ -32,7 +45,7 @@ get_header();
 				</div>
 			</div>
 			<div class="c-hero__visual">
-				<div class="c-hero__card-preview">
+				<a href="<?php echo esc_url( $cat_kurabete_url ); ?>" class="c-hero__card-preview" title="「くらべてみました」の記事一覧を見る">
 					<div class="c-hero__preview-badge">✨ Featured Series</div>
 					<div class="c-nihongo-vs" style="margin: 0; border: none; box-shadow: none;">
 						<div class="c-nihongo-vs__header" style="border-radius: 8px 8px 0 0;">🔍 くらべてみました</div>
@@ -49,7 +62,10 @@ get_header();
 							</div>
 						</div>
 					</div>
-				</div>
+					<div class="c-hero__card-footer">
+						<span>シリーズ記事を見る &rarr;</span>
+					</div>
+				</a>
 			</div>
 		</div>
 	</section>
@@ -63,23 +79,32 @@ get_header();
 			</div>
 
 			<div class="c-features__grid">
-				<div class="c-feature-box">
+				<a href="<?php echo esc_url( $cat_kurabete_url ); ?>" class="c-feature-box" aria-label="「くらべてみました」の記事一覧へ">
 					<div class="c-feature-box__icon">🔍</div>
 					<h3 class="c-feature-box__title">くらべてみました</h3>
 					<p class="c-feature-box__text">「ごめんなさい」と「すみません」など、似ているようで異なる表現の違いを徹底比較。</p>
-				</div>
+					<span class="c-feature-box__cta">
+						記事一覧を見る <span class="c-feature-box__arrow">&rarr;</span>
+					</span>
+				</a>
 
-				<div class="c-feature-box">
+				<a href="<?php echo esc_url( $cat_aya_url ); ?>" class="c-feature-box" aria-label="「ことばのあや」の記事一覧へ">
 					<div class="c-feature-box__icon">🗣️</div>
 					<h3 class="c-feature-box__title">ことばのあや</h3>
 					<p class="c-feature-box__text">終助詞「ね」「よ」の使い方など、相手とスムーズに会話するためのニュアンスを解説。</p>
-				</div>
+					<span class="c-feature-box__cta">
+						記事一覧を見る <span class="c-feature-box__arrow">&rarr;</span>
+					</span>
+				</a>
 
-				<div class="c-feature-box">
+				<a href="<?php echo esc_url( $cat_culture_url ); ?>" class="c-feature-box" aria-label="「カルチャーショック」の記事一覧へ">
 					<div class="c-feature-box__icon">🌏</div>
 					<h3 class="c-feature-box__title">カルチャーショック</h3>
 					<p class="c-feature-box__text">日本の習慣や食文化、香港と日本のコミュニケーション感覚の違いをリアルに綴ります。</p>
-				</div>
+					<span class="c-feature-box__cta">
+						記事一覧を見る <span class="c-feature-box__arrow">&rarr;</span>
+					</span>
+				</a>
 			</div>
 		</div>
 	</section>

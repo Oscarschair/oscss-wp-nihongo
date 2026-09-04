@@ -10,7 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // 直接アクセス禁止
 }
 
-define( 'OSCSS_THEME_VERSION', '1.0.1' );
+define( 'OSCSS_THEME_VERSION', '1.0.2' );
 define( 'OSCSS_THEME_DIR', get_template_directory() );
 define( 'OSCSS_THEME_URI', get_template_directory_uri() );
 
