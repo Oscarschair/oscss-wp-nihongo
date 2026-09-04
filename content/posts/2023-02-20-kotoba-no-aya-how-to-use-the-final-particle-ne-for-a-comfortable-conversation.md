@@ -114,6 +114,7 @@ tags: []
 ---
 
 ### 📌 あわせて読みたい関連記事
-- 🗣️ [ことばのあや：終助詞「よ」の使い方について｜相手と効果的に会話するために](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-yo-for-effective-conversation/)
-- 🔍 [くらべてみました：「ごめんなさい」VS「すみません」｜謝罪表現の違い](https://nihongo.oscarchair.jp/japanese-comparing-sorry-excuse-me-differences-in-apology-expressions/)
+- 🗣️ [ことばのあや：終助詞「よね」の使い方について｜共感と確認で角を立てない日本語会話術](https://nihongo.oscarchair.jp/2026/09/05/kotoba-no-aya-how-to-use-the-final-particle-yone-for-smooth-conversation/)
+- 🗣️ [ことばのあや：終助詞「よ」の使い方について｜相手と効果的に会話するために](https://nihongo.oscarchair.jp/2024/07/05/kotoba-no-aya-how-to-use-the-final-particle-yo-for-effective-conversation/)
+- 🔍 [くらべてみました：「ごめんなさい」VS「すみません」｜謝罪表現の違い](https://nihongo.oscarchair.jp/2023/02/20/japanese-comparing-sorry-excuse-me-differences-in-apology-expressions/)
 

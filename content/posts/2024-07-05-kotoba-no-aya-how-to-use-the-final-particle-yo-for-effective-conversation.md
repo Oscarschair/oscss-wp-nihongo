@@ -82,6 +82,7 @@ tags: []
 ---
 
 ### 📌 あわせて読みたい関連記事
-- 🗣️ [ことばのあや：終助詞「ね」の使い方について｜相手と気持ちよく会話するために](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-ne-for-a-comfortable-conversation/)
-- 🔍 [くらべてみました：「おもしろい」VS「おかしい」｜喜びという感情表現について](https://nihongo.oscarchair.jp/japanese-comparing-interesting-and-oddy-funny-differences-in-emotional-expression/)
+- 🗣️ [ことばのあや：終助詞「よね」の使い方について｜共感と確認で角を立てない日本語会話術](https://nihongo.oscarchair.jp/2026/09/05/kotoba-no-aya-how-to-use-the-final-particle-yone-for-smooth-conversation/)
+- 🗣️ [ことばのあや：終助詞「ね」の使い方について｜相手と気持ちよく会話するために](https://nihongo.oscarchair.jp/2023/02/20/kotoba-no-aya-how-to-use-the-final-particle-ne-for-a-comfortable-conversation/)
+- 🔍 [くらべてみました：「おもしろい」VS「おかしい」｜喜びという感情表現について](https://nihongo.oscarchair.jp/2023/02/22/japanese-comparing-interesting-and-oddy-funny-differences-in-emotional-expression/)
 
