@@ -127,3 +127,24 @@ function oscss_widgets_init() {
 	);
 }
 add_action( 'widgets_init', 'oscss_widgets_init' );
+
+/**
+ * Google AdSense & Google Analytics 4 (GA4) を wp_head に出力
+ */
+function oscss_head_analytics_and_ads() {
+	?>
+	<!-- Google AdSense -->
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6358046201606104" crossorigin="anonymous"></script>
+
+	<!-- Google tag (gtag.js) - GA4 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-3QBPY87VPP"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-3QBPY87VPP');
+	</script>
+	<?php
+}
+add_action( 'wp_head', 'oscss_head_analytics_and_ads', 2 );
+
