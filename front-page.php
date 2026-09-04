@@ -45,27 +45,19 @@ $cat_culture_url = $cat_culture ? get_category_link( $cat_culture->term_id ) : h
 				</div>
 			</div>
 			<div class="c-hero__visual">
-				<a href="<?php echo esc_url( $cat_kurabete_url ); ?>" class="c-hero__card-preview" title="「くらべてみました」の記事一覧を見る">
-					<div class="c-hero__preview-badge">✨ Featured Series</div>
-					<div class="c-nihongo-vs" style="margin: 0; border: none; box-shadow: none;">
-						<div class="c-nihongo-vs__header" style="border-radius: 8px 8px 0 0;">🔍 くらべてみました</div>
-						<div class="c-nihongo-vs__grid">
-							<div class="c-nihongo-vs__col" style="padding: 12px;">
-								<span class="c-nihongo-vs__badge c-nihongo-vs__badge--left">表現 1</span>
-								<div class="c-nihongo-vs__word" style="font-size: 16px;">ごめんなさい</div>
-								<div class="c-nihongo-vs__desc" style="font-size: 12px;">自分の非を認める</div>
-							</div>
-							<div class="c-nihongo-vs__col" style="padding: 12px;">
-								<span class="c-nihongo-vs__badge c-nihongo-vs__badge--right">表現 2</span>
-								<div class="c-nihongo-vs__word" style="font-size: 16px;">すみません</div>
-								<div class="c-nihongo-vs__desc" style="font-size: 12px;">相手への配慮・感謝</div>
-							</div>
+				<div class="c-hero__image-wrapper">
+					<picture>
+						<source srcset="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/hero-oscar.webp' ); ?>" type="image/webp">
+						<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/hero-oscar.jpg' ); ?>" alt="<?php esc_attr_e( '日本語を楽しく学習するオスカー', 'oscss-wp-nihongo' ); ?>" class="c-hero__image" width="600" height="450" loading="eager" fetchpriority="high">
+					</picture>
+					<div class="c-hero__floating-card">
+						<span class="c-hero__floating-icon">💡</span>
+						<div class="c-hero__floating-text">
+							<strong>楽しく学ぶ、生きた日本語</strong>
+							<span>香港出身ディレクターの学習ノート</span>
 						</div>
 					</div>
-					<div class="c-hero__card-footer">
-						<span>シリーズ記事を見る &rarr;</span>
-					</div>
-				</a>
+				</div>
 			</div>
 		</div>
 	</section>
