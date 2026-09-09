@@ -145,7 +145,7 @@
 	}
 
 	/**
-	 * 記事閲覧数の非同期トラッキング（LiteSpeed Cache環境対応）
+	 * 記事閲覧数の非同期トラッキング（リロード・アクセスごとに表示回数をカウントアップ）
 	 */
 	function initViewTracker() {
 		if (typeof oscssSettings === 'undefined' || !oscssSettings.isSingle || !oscssSettings.postId) {
@@ -153,14 +153,7 @@
 		}
 
 		var postId = oscssSettings.postId;
-		var storageKey = 'oscss_viewed_' + postId;
-
-		// 同一セッション内での重複カウント送信を防止
-		if (sessionStorage.getItem(storageKey)) {
-			return;
-		}
-
-		var trackUrl = oscssSettings.restUrl + 'track-view/' + postId;
+		var trackUrl = oscssSettings.restUrl + 'track-view/' + postId + '?_=' + Date.now();
 
 		fetch(trackUrl, {
 			method: 'POST',
@@ -173,14 +166,14 @@
 			return response.json();
 		})
 		.then(function (data) {
-			if (data && data.success) {
-				sessionStorage.setItem(storageKey, '1');
-				// 画面上の views 表示を更新
+			if (data && data.success && typeof data.views !== 'undefined') {
+				// 画面上の views 表示を即座に最新カウントへ更新
 				var viewElements = document.querySelectorAll('.c-post-meta__views');
 				viewElements.forEach(function (el) {
 					var icon = el.querySelector('.c-post-meta__icon');
-					var iconHtml = icon ? icon.outerHTML + ' ' : '👁️ ';
-					el.innerHTML = iconHtml + (data.views || 1).toLocaleString() + ' views';
+					var svgEye = '<svg class="c-icon c-icon--eye" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>';
+					var iconHtml = icon ? icon.outerHTML + ' ' : '<span class="c-post-meta__icon" aria-hidden="true">' + svgEye + '</span> ';
+					el.innerHTML = iconHtml + data.views.toLocaleString() + ' views';
 				});
 			}
 		})

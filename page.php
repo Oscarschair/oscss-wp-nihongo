@@ -25,7 +25,17 @@ get_header();
 					<h1 class="c-entry__title"><?php the_title(); ?></h1>
 					<?php if ( has_post_thumbnail() ) : ?>
 						<div class="c-entry__thumbnail">
-							<?php the_post_thumbnail( 'full', array( 'class' => 'c-entry__thumbnail-img' ) ); ?>
+							<?php
+							the_post_thumbnail(
+								'full',
+								array(
+									'class'         => 'c-entry__thumbnail-img',
+									'loading'       => 'eager',
+									'fetchpriority' => 'high',
+									'alt'           => the_title_attribute( array( 'echo' => false ) ),
+								)
+							);
+							?>
 						</div>
 					<?php endif; ?>
 				</header>

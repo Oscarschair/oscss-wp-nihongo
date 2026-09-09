@@ -53,9 +53,9 @@
 
 ---
 
-## 🎨 サムネイル一貫性 ＆ 投稿ライフサイクルフック (Mandatory Hooks)
+## 🎨 サムネイル画像レビュー ＆ 投稿ライフサイクルフック (Mandatory Image Reviewer Hooks)
 
-記事の投稿・作成時には、[`.gemini/skills/thumbnail-consistency-agent/SKILL.md`](file:///c:/Users/user/git/oscss-wp-nihongo/.gemini/skills/thumbnail-consistency-agent/SKILL.md) が自動発動（`pre_post_publish` / `post_file_save`）し、以下の品質ゲートを通過することを必須条件とします：
+記事のサムネイル生成時（`post_image_generation`）、Markdown保存時（`post_file_save`）、および投稿・公開前（`pre_post_publish`）には、[`.gemini/skills/image-reviewer/SKILL.md`](file:///c:/Users/user/git/oscss-wp-nihongo/.gemini/skills/image-reviewer/SKILL.md) が自動発動し、以下の品質ゲートを通過することを必須条件とします：
 
 1. **主人公「オスカー」の登場必須（公式モデル原型: `assets/images/hero-oscar-v2.png` / `https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/hero-oscar-v2.png`）**:
    - ふんわり茶髪マッシュ、大きめの黒縁丸メガネ、水色スウェット、知的な好青年。
@@ -75,3 +75,12 @@
 1. **Markdown記号 `**` の使用禁止**:
    - 記事内の強調には、Markdown記号 `**` を使用せず、必ず HTML タグ（`<strong>テキスト</strong>`）を使用する。
    - 吹き出しブロック（`balloon`）、引用（`quote`）、リスト（`list`）、テーブル（`table`）、通常段落のすべてにおいて、画面に `**` の文字が露出しないよう徹底する。
+
+---
+
+## 👁️ 閲覧数（Views）ゼロスタート原則 (Zero-Start Views Policy)
+
+1. **新規投稿の初期PV数は必ず「0」からカウント**:
+   - 新規作成・公開するすべての投稿は、初期閲覧数（`_oscss_post_views`）を **0** からスタートさせる（シードデータやダミーの数値を絶対に付与しない）。
+   - 実際のユーザーアクセス（閲覧）によってのみインクリメント（+1）される運用を徹底する。
+

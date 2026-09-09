@@ -1,27 +1,28 @@
 # テーマ・アーキテクチャ設計書 (Architecture Design)
 
-本ドキュメントでは、WordPressカスタムテーマ「oscss-wp-nihongo」の全体構造、テンプレート階層、PHPモジュール設計、CSS/JSアーキテクチャについて解説します。
+本ドキュメントでは、WordPressカスタムテーマ「oscss-wp-nihongo」の全体構造、テンプレート階層、PHPモジュール設計、SEOエンジン、およびCSS/JSアーキテクチャについて解説します。
 
 ---
 
 ## 1. テンプレート階層 (Template Hierarchy)
 
-WordPress標準のテンプレート階層に準拠し、関心の分離を徹底しています。
+WordPress標準のテンプレート階層に準拠し、関心の分離とセマンティクスを徹底しています。
 
 ```
 ルート/
-├── front-page.php          # トップページ（ヒーローセクション、特徴、最新記事一覧等）
+├── front-page.php          # トップページ（FVヒーロー、連載テーマ、新着/人気記事一覧等）
 ├── index.php               # フォールバックテンプレート
-├── single.php              # 個別投稿記事詳細
+├── single.php              # 個別投稿記事詳細（読了目安時間、著者ボックス、関連記事ナビ）
 ├── page.php                # 固定ページ詳細
 ├── archive.php             # カテゴリー・タグ・日付アーカイブ
-├── 404.php                 # 404エラーページ
-├── header.php              # グローバルヘッダー（ナビゲーション含む）
-├── footer.php              # グローバルフッター（コピーライト、ウィジェット等）
+├── 404.php                 # 404エラーページ（回遊性CTA、おすすめ記事）
+├── header.php              # グローバルヘッダー（OGP prefix、ナビゲーション含む）
+├── footer.php              # グローバルフッター（整然とした見出し階層、連載カテゴリー導線）
 └── template-parts/         # 再利用可能なテンプレートパーツ
+    ├── author-box.php      # 著者プロフィール（Schema.org Person / rel=author me）
     ├── header-nav.php      # ナビゲーションメニュー
-    ├── post-card.php       # 記事カードパーツ
-    └── pagination.php      # ページ送りパーツ
+    ├── pagination.php      # ページ送りパーツ
+    └── post-card.php       # 記事カードパーツ
 ```
 
 ---
@@ -32,26 +33,38 @@ WordPress標準のテンプレート階層に準拠し、関心の分離を徹�
 
 ```
 functions/
-├── action.php       # add_action フック（テーマ設定、スクリプト・スタイルエンキュー、メニュー登録）
+├── action.php       # add_action フック（テーマ設定、エンキュー、REST APIエンドポイント）
 ├── filter.php       # add_filter フック（記事抜粋、タイトル整形、body_class 制御）
-├── shortcode.php    # カスタムショートコード（CTAボタン、アラートボックス等）
-└── utility.php      # 共通ユーティリティ関数（日付フォーマット、パンくずリスト、安全な抜粋生成等）
+├── seo.php          # SEOエンジン（Meta Description, Canonical, OGP, Twitter Cards, JSON-LD, Preconnect）
+├── shortcode.php    # カスタムショートコード（VS比較カード、ニュアンス解説ボックス等）
+└── utility.php      # 共通ユーティリティ（連載カテゴリー解決、読了目安時間、パンくず、閲覧数）
 ```
 
 ### 命名規則 & セキュリティ
 - すべてのカスタム関数は `oscss_` プレフィックスを付与。
-- HTML出力時は `esc_html()`, `esc_attr()`, `esc_url()` を徹底。
+- HTML出力時は `esc_html()`, `esc_attr()`, `esc_url()`, `wp_kses_post()` を徹底。
 
 ---
 
-## 3. CSS & フロントエンド設計
+## 3. SEO ＆ 構造化データ仕様
 
-### 3.1 設計思想
+詳細な仕様は [docs/domains/seo-architecture.md](file:///c:/Users/user/git/oscss-wp-nihongo/docs/domains/seo-architecture.md) を参照してください。
+
+- **動的メタ生成**: Meta Description, Canonical URL, Robots タグ
+- **ソーシャル最適化**: OGP (`og:title`, `og:image` 等) および Twitter Cards (`summary_large_image`)
+- **JSON-LD (Schema.org)**: `WebSite`, `BlogPosting`, `BreadcrumbList`, `Person` を Google リッチリザルト完全準拠で出力
+- **Core Web Vitals**: Google Fonts Preconnect, 不要ヘッダー/Emojiの無効化、画像優先読込 (`fetchpriority="high"`)
+
+---
+
+## 4. CSS & フロントエンド設計
+
+### 4.1 設計思想
 - **CSS変数（Design Tokens）**: `assets/css/tokens.css` でカラー、フォント、余白を一元管理。
 - **8pt Gridシステム**: 余白・パディング・サイズを8の倍数で設計。
 - **BEM命名規則**: `.c-card`, `.c-card__title`, `.c-card--featured` のように Block-Element-Modifier 形式を採用し、スタイルの衝突を防止。
 
-### 3.2 日本語タイポグラフィ最適化
+### 4.2 日本語タイポグラフィ最適化
 - 日本語フォントスタック: `-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif`
 - 行間（`line-height: 1.75`）、文字間（`letter-spacing: 0.03em`）の最適化。
 - 見出しの折り返しとワードブレーク（`word-break: keep-all; overflow-wrap: anywhere;`）。

@@ -10,7 +10,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // 直接アクセス禁止
 }
 
-define( 'OSCSS_THEME_VERSION', '1.1.2' );
+define( 'OSCSS_THEME_VERSION', '1.2.0' );
 define( 'OSCSS_THEME_DIR', get_template_directory() );
 define( 'OSCSS_THEME_URI', get_template_directory_uri() );
 
@@ -20,6 +20,7 @@ define( 'OSCSS_THEME_URI', get_template_directory_uri() );
  */
 $oscss_includes = array(
 	'/functions/utility.php',   // 共通ヘルパー関数
+	'/functions/seo.php',       // SEO・OGP・構造化データ・パフォーマンス
 	'/functions/action.php',    // add_action フック（セットアップ、エンキュー等）
 	'/functions/filter.php',    // add_filter フック（抜粋、タイトル制御等）
 	'/functions/shortcode.php', // カスタムショートコード

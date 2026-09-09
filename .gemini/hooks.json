@@ -1,13 +1,19 @@
 {
   "description": "oscss-wp-nihongo Lifecycle Hooks Configuration",
   "hooks": {
+    "post_image_generation": [
+      {
+        "agent": "image-reviewer",
+        "description": "投稿サムネイル画像生成時の主人公オスカー原型（hero-oscar-v2.png）照合・カテゴリー別構図・文字化け自動検証"
+      }
+    ],
     "pre_post_publish": [
       {
         "agent": "seo-reviewer",
         "description": "新規投稿前のSEO観点レビュー（タイトル・メタディスクリプション・見出し階層・検索意図・alt属性・内部リンク検証）"
       },
       {
-        "agent": "thumbnail-consistency-agent",
+        "agent": "image-reviewer",
         "description": "記事投稿前のサムネイル画像形式・カテゴリー別デザイン規則・主人公オスカー登場検証"
       },
       {
@@ -22,7 +28,7 @@
       },
       {
         "pattern": "content/posts/**/*.md",
-        "agent": "thumbnail-consistency-agent",
+        "agent": "image-reviewer",
         "description": "記事Markdown保存時のサムネイル画像・主人公登場・カテゴリー整合性確認"
       },
       {

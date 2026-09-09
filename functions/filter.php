@@ -82,3 +82,23 @@ function oscss_replace_content_avatar_icons( $content ) {
 }
 add_filter( 'the_content', 'oscss_replace_content_avatar_icons', 20 );
 
+/**
+ * タイトルタグの区切り文字を「 | 」に統一
+ */
+function oscss_document_title_separator( $sep ) {
+	return '|';
+}
+add_filter( 'document_title_separator', 'oscss_document_title_separator' );
+
+/**
+ * タイトルタグのパーツ最適化（トップページ・アーカイブ等）
+ */
+function oscss_document_title_parts( $title ) {
+	if ( is_front_page() || is_home() ) {
+		$title['tagline'] = get_bloginfo( 'description', 'display' );
+	}
+	return $title;
+}
+add_filter( 'document_title_parts', 'oscss_document_title_parts' );
+
+

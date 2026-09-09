@@ -25,6 +25,7 @@ get_header();
 					<div class="c-entry__meta">
 						<?php oscss_entry_category(); ?>
 						<?php oscss_posted_on(); ?>
+						<?php oscss_posted_reading_time(); ?>
 						<?php oscss_posted_views(); ?>
 					</div>
 
@@ -32,7 +33,17 @@ get_header();
 
 					<?php if ( has_post_thumbnail() ) : ?>
 						<div class="c-entry__thumbnail">
-							<?php the_post_thumbnail( 'full', array( 'class' => 'c-entry__thumbnail-img' ) ); ?>
+							<?php
+							the_post_thumbnail(
+								'full',
+								array(
+									'class'         => 'c-entry__thumbnail-img',
+									'loading'       => 'eager',
+									'fetchpriority' => 'high',
+									'alt'           => the_title_attribute( array( 'echo' => false ) ),
+								)
+							);
+							?>
 						</div>
 					<?php endif; ?>
 				</header>
@@ -59,7 +70,7 @@ get_header();
 					if ( ! empty( $tags ) ) :
 						?>
 						<div class="c-entry__tags">
-							<span class="c-entry__tags-label">🏷️ タグ:</span>
+							<span class="c-entry__tags-label"><?php echo oscss_get_icon( 'tag', 14 ); ?> タグ:</span>
 							<?php foreach ( $tags as $tag ) : ?>
 								<a href="<?php echo esc_url( get_tag_link( $tag->term_id ) ); ?>" class="c-badge c-badge--tag">
 									#<?php echo esc_html( $tag->name ); ?>

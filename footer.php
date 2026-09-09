@@ -8,6 +8,8 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
+
+$series_cats = oscss_get_series_categories();
 ?>
 </div><!-- /.l-site-content -->
 
@@ -17,9 +19,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 			<!-- Col 1: Branding & Profile -->
 			<div class="l-footer__col l-footer__col--brand">
 				<div class="l-footer__brand-header">
-					<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/my-icon.png' ); ?>" alt="オスカー" class="l-footer__avatar" width="48" height="48" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;" loading="lazy">
+					<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/my-icon.png' ); ?>" alt="<?php esc_attr_e( 'オスカー（車 浩文）', 'oscss-wp-nihongo' ); ?>" class="l-footer__avatar" width="48" height="48" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;" loading="lazy">
 					<div class="l-footer__brand-titles">
-						<h2 class="l-footer__brand-title"><?php bloginfo( 'name' ); ?></h2>
+						<div class="l-footer__brand-title"><?php bloginfo( 'name' ); ?></div>
 						<p class="l-footer__brand-tagline"><?php bloginfo( 'description' ); ?></p>
 					</div>
 				</div>
@@ -35,26 +37,16 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 			<!-- Col 2: Categories / Series -->
 			<div class="l-footer__col l-footer__col--categories">
-				<h3 class="l-footer__heading">連載テーマ・カテゴリー</h3>
+				<h3 class="l-footer__heading"><?php esc_html_e( '連載テーマ・カテゴリー', 'oscss-wp-nihongo' ); ?></h3>
 				<ul class="l-footer__category-list">
-					<li>
-						<a href="<?php echo esc_url( home_url( '/category/kotoba-no-aya/' ) ); ?>" class="l-footer__category-link">
-							<span class="l-footer__badge l-footer__badge--aya">ことばのあや</span>
-							<span class="l-footer__category-text">助詞や言葉のニュアンス解説</span>
-						</a>
-					</li>
-					<li>
-						<a href="<?php echo esc_url( home_url( '/category/comparing/' ) ); ?>" class="l-footer__category-link">
-							<span class="l-footer__badge l-footer__badge--vs">くらべてみました</span>
-							<span class="l-footer__category-text">似ている言葉や文化の違いを比較</span>
-						</a>
-					</li>
-					<li>
-						<a href="<?php echo esc_url( home_url( '/category/culture-shock/' ) ); ?>" class="l-footer__category-link">
-							<span class="l-footer__badge l-footer__badge--culture">カルチャーショック</span>
-							<span class="l-footer__category-text">日本と海外の習慣・日常の発見</span>
-						</a>
-					</li>
+					<?php foreach ( $series_cats as $key => $cat_info ) : ?>
+						<li>
+							<a href="<?php echo esc_url( oscss_get_series_category_url( $key ) ); ?>" class="l-footer__category-link">
+								<span class="l-footer__badge <?php echo esc_attr( $cat_info['badge_class'] ); ?>"><?php echo esc_html( $cat_info['name'] ); ?></span>
+								<span class="l-footer__category-text"><?php echo esc_html( $cat_info['lead'] ); ?></span>
+							</a>
+						</li>
+					<?php endforeach; ?>
 				</ul>
 			</div>
 
@@ -72,11 +64,12 @@ if ( ! defined( 'ABSPATH' ) ) {
 						?>
 					</div>
 				<?php else : ?>
-					<h3 class="l-footer__heading">サイト内検索</h3>
+					<h3 class="l-footer__heading"><?php esc_html_e( 'サイト内検索', 'oscss-wp-nihongo' ); ?></h3>
 					<form role="search" method="get" class="c-search-form" action="<?php echo esc_url( home_url( '/' ) ); ?>">
 						<div class="c-search-form__inner">
-							<input type="search" class="c-search-form__input" placeholder="キーワードで検索..." value="<?php echo get_search_query(); ?>" name="s" required>
-							<button type="submit" class="c-search-form__submit" aria-label="検索">検索</button>
+							<label for="footer-search-input" class="screen-reader-text"><?php esc_html_e( 'キーワード検索', 'oscss-wp-nihongo' ); ?></label>
+							<input type="search" id="footer-search-input" class="c-search-form__input" placeholder="<?php esc_attr_e( 'キーワードで検索...', 'oscss-wp-nihongo' ); ?>" value="<?php echo get_search_query(); ?>" name="s" required>
+							<button type="submit" class="c-search-form__submit" aria-label="<?php esc_attr_e( '検索', 'oscss-wp-nihongo' ); ?>"><?php esc_html_e( '検索', 'oscss-wp-nihongo' ); ?></button>
 						</div>
 					</form>
 				<?php endif; ?>
@@ -86,9 +79,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 		<div class="l-footer__bottom">
 			<ul class="l-footer__bottom-links">
 				<li><a href="<?php echo esc_url( home_url( '/' ) ); ?>">HOME</a></li>
-				<li><a href="<?php echo esc_url( home_url( '/category/kotoba-no-aya/' ) ); ?>">ことばのあや</a></li>
-				<li><a href="<?php echo esc_url( home_url( '/category/comparing/' ) ); ?>">くらべてみました</a></li>
-				<li><a href="<?php echo esc_url( home_url( '/category/culture-shock/' ) ); ?>">カルチャーショック</a></li>
+				<?php foreach ( $series_cats as $key => $cat_info ) : ?>
+					<li><a href="<?php echo esc_url( oscss_get_series_category_url( $key ) ); ?>"><?php echo esc_html( $cat_info['name'] ); ?></a></li>
+				<?php endforeach; ?>
 				<li><a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer">クルマのAIノートへ</a></li>
 			</ul>
 			<p class="l-footer__copyright">

@@ -13,7 +13,16 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<div class="c-card__media">
 		<a href="<?php the_permalink(); ?>" class="c-card__media-link" tabindex="-1" aria-hidden="true">
 			<?php if ( has_post_thumbnail() ) : ?>
-				<?php the_post_thumbnail( 'oscss-card', array( 'class' => 'c-card__img', 'loading' => 'lazy' ) ); ?>
+				<?php
+				the_post_thumbnail(
+					'oscss-card',
+					array(
+						'class'   => 'c-card__img',
+						'loading' => 'lazy',
+						'alt'     => the_title_attribute( array( 'echo' => false ) ),
+					)
+				);
+				?>
 			<?php else : ?>
 				<div class="c-card__placeholder">
 					<span><?php bloginfo( 'name' ); ?></span>

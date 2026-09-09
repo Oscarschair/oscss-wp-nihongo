@@ -80,19 +80,27 @@ function oscss_enqueue_scripts() {
 	);
 
 	// Main CSS
+	$main_css_ver = file_exists( OSCSS_THEME_DIR . '/assets/css/main.css' )
+		? filemtime( OSCSS_THEME_DIR . '/assets/css/main.css' )
+		: OSCSS_THEME_VERSION;
+
 	wp_enqueue_style(
 		'oscss-main',
 		OSCSS_THEME_URI . '/assets/css/main.css',
 		array( 'oscss-tokens' ),
-		OSCSS_THEME_VERSION
+		$main_css_ver
 	);
 
 	// Main JS (defer)
+	$main_js_ver = file_exists( OSCSS_THEME_DIR . '/assets/js/main.js' )
+		? filemtime( OSCSS_THEME_DIR . '/assets/js/main.js' )
+		: OSCSS_THEME_VERSION;
+
 	wp_enqueue_script(
 		'oscss-main-script',
 		OSCSS_THEME_URI . '/assets/js/main.js',
 		array(),
-		OSCSS_THEME_VERSION,
+		$main_js_ver,
 		true
 	);
 
@@ -237,5 +245,31 @@ function oscss_head_analytics_and_ads() {
 	<?php
 }
 add_action( 'wp_head', 'oscss_head_analytics_and_ads', 2 );
+
+/**
+ * 旧URL構造（/YYYY/MM/DD/slug/）から新URL（/%postname%/）への自動301リダイレクト
+ */
+function oscss_redirect_old_date_permalinks() {
+	$request_uri = isset( $_SERVER['REQUEST_URI'] ) ? $_SERVER['REQUEST_URI'] : '';
+	$path = trim( (string) wp_parse_url( $request_uri, PHP_URL_PATH ), '/' );
+
+	// /2026/09/05/post-slug 形式にマッチするか判定
+	if ( preg_match( '#^(\d{4})/(\d{2})/(\d{2})/([^/]+)$#', $path, $matches ) ) {
+		$slug = sanitize_title( $matches[4] );
+		$args = array(
+			'name'        => $slug,
+			'post_type'   => 'post',
+			'post_status' => 'publish',
+			'numberposts' => 1,
+		);
+		$posts = get_posts( $args );
+		if ( ! empty( $posts ) ) {
+			wp_safe_redirect( get_permalink( $posts[0]->ID ), 301 );
+			exit;
+		}
+	}
+}
+add_action( 'template_redirect', 'oscss_redirect_old_date_permalinks', 1 );
+
 
 
