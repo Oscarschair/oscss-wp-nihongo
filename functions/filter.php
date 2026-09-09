@@ -101,4 +101,59 @@ function oscss_document_title_parts( $title ) {
 }
 add_filter( 'document_title_parts', 'oscss_document_title_parts' );
 
+/**
+ * フッターやサイドバーウィジェットから「最近のコメント」ブロックおよびその見出しを除外
+ */
+function oscss_remove_recent_comments_block( $block_content, $block ) {
+	if ( ! is_admin() ) {
+		// 最近のコメントブロックを除外
+		if ( isset( $block['blockName'] ) && 'core/latest-comments' === $block['blockName'] ) {
+			return '';
+		}
+		// 「最近のコメント」見出しブロックを除外
+		if ( isset( $block['blockName'] ) && 'core/heading' === $block['blockName'] ) {
+			if ( strpos( $block_content, '最近のコメント' ) !== false || stripos( $block_content, 'Recent Comments' ) !== false ) {
+				return '';
+			}
+		}
+	}
+	return $block_content;
+}
+add_filter( 'render_block', 'oscss_remove_recent_comments_block', 10, 2 );
+
+/**
+ * クラシックウィジェットから「最近のコメント」を除外
+ */
+function oscss_disable_recent_comments_widget( $sidebars_widgets ) {
+	if ( is_admin() ) {
+		return $sidebars_widgets;
+	}
+	foreach ( $sidebars_widgets as $sidebar_id => $widgets ) {
+		if ( is_array( $widgets ) ) {
+			foreach ( $widgets as $key => $widget_id ) {
+				if ( strpos( $widget_id, 'recent-comments' ) !== false ) {
+					unset( $sidebars_widgets[ $sidebar_id ][ $key ] );
+				}
+			}
+		}
+	}
+	return $sidebars_widgets;
+}
+add_filter( 'sidebars_widgets', 'oscss_disable_recent_comments_widget' );
+
+/**
+ * ウィジェットブロックコンテンツから「最近のコメント」を含むブロック全体を除外
+ */
+function oscss_filter_widget_block_content( $content, $id, $sidebar_id ) {
+	if ( ! is_admin() ) {
+		if ( strpos( $content, 'wp-block-latest-comments' ) !== false || strpos( $content, '最近のコメント' ) !== false || strpos( $content, 'widget_recent_comments' ) !== false ) {
+			return '';
+		}
+	}
+	return $content;
+}
+add_filter( 'widget_block_content', 'oscss_filter_widget_block_content', 10, 3 );
+
+
+
 

@@ -55,12 +55,22 @@ $series_cats = oscss_get_series_categories();
 				<?php if ( is_active_sidebar( 'footer-1' ) || is_active_sidebar( 'footer-2' ) ) : ?>
 					<div class="l-footer__sidebar-widgets">
 						<?php
+						ob_start();
 						if ( is_active_sidebar( 'footer-1' ) ) {
 							dynamic_sidebar( 'footer-1' );
 						}
 						if ( is_active_sidebar( 'footer-2' ) ) {
 							dynamic_sidebar( 'footer-2' );
 						}
+						$sidebar_html = ob_get_clean();
+
+						// 「最近のコメント」を含むウィジェットブロックを完全に除去
+						$sidebar_html = preg_replace( '/<div[^>]*class="[^"]*c-widget[^"]*"[^>]*>[\s\S]*?(?:wp-block-latest-comments|最近のコメント|widget_recent_comments)[\s\S]*?<\/ol>\s*<\/div>\s*<\/div>\s*<\/div>/u', '', $sidebar_html );
+						$sidebar_html = preg_replace( '/<div[^>]*id="block-4"[^>]*>[\s\S]*?<\/div>\s*<\/div>\s*<\/div>/u', '', $sidebar_html );
+						$sidebar_html = preg_replace( '/<h[23][^>]*>[^<]*最近のコメント[^<]*<\/h[23]>/u', '', $sidebar_html );
+						$sidebar_html = preg_replace( '/<ol[^>]*class="[^"]*wp-block-latest-comments[^"]*"[\s\S]*?<\/ol>/u', '', $sidebar_html );
+
+						echo $sidebar_html; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
 						?>
 					</div>
 				<?php else : ?>

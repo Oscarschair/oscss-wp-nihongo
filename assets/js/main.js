@@ -13,7 +13,48 @@
 		initSmoothScroll();
 		initSortTabs();
 		initViewTracker();
+		cleanWidgets();
 	});
+
+	/**
+	 * フッターウィジェットの最適化（最近のコメント除去 ＆ 最近の投稿ツールチップ付与）
+	 */
+	function cleanWidgets() {
+		var footerWidgets = document.querySelectorAll('.l-footer__sidebar-widgets');
+		footerWidgets.forEach(function (container) {
+			// 1. 最近のコメント関連のブロック・見出しを削除
+			var commentBlocks = container.querySelectorAll('.wp-block-latest-comments, .widget_recent_comments');
+			commentBlocks.forEach(function (el) {
+				// 直前の見出し要素も削除
+				var prev = el.previousElementSibling;
+				if (prev && (prev.matches('h2, h3, .wp-block-heading, .widget-title') || prev.textContent.indexOf('コメント') !== -1)) {
+					prev.remove();
+				}
+				el.remove();
+			});
+
+			// 見出し単体で残っている「最近のコメント」も探索して削除
+			var headings = container.querySelectorAll('h2, h3, .wp-block-heading, .widget-title');
+			headings.forEach(function (h) {
+				if (h.textContent.indexOf('最近のコメント') !== -1 || h.textContent.indexOf('Recent Comments') !== -1) {
+					var next = h.nextElementSibling;
+					if (next && (next.matches('ul, ol, .wp-block-latest-comments') || next.querySelector('a'))) {
+						next.remove();
+					}
+					h.remove();
+				}
+			});
+
+			// 2. 最近の投稿のリンクに title 属性を付与（省略時もホバーで全文確認可能に）
+			var postLinks = container.querySelectorAll('.wp-block-latest-posts li a, .widget_recent_entries li a, li a');
+			postLinks.forEach(function (a) {
+				if (!a.getAttribute('title') && a.textContent.trim()) {
+					a.setAttribute('title', a.textContent.trim());
+				}
+			});
+		});
+	}
+
 
 	/**
 	 * ページ内アンカースムーズスクロール

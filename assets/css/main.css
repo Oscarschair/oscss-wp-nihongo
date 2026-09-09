@@ -501,6 +501,15 @@ a:hover {
 }
 
 /* WordPress Widget Headings & Lists */
+.l-footer__sidebar-widgets .c-widget,
+.l-footer__sidebar-widgets .widget_block,
+.l-footer__sidebar-widgets .wp-block-group,
+.l-footer__sidebar-widgets .wp-block-group__inner-container {
+	width: 100%;
+	max-width: 100%;
+	overflow: hidden;
+}
+
 .l-footer__sidebar-widgets .wp-block-heading,
 .l-footer__sidebar-widgets h2,
 .l-footer__sidebar-widgets h3,
@@ -518,14 +527,19 @@ a:hover {
 }
 
 .l-footer__sidebar-widgets .wp-block-latest-posts,
-.l-footer__sidebar-widgets .wp-block-latest-comments,
-.l-footer__sidebar-widgets ul {
+.l-footer__sidebar-widgets .wp-block-latest-posts__list,
+.l-footer__sidebar-widgets .widget_recent_entries,
+.l-footer__sidebar-widgets ul,
+.l-footer__sidebar-widgets ol {
 	list-style: none !important;
 	padding: 0 !important;
 	margin: 0 !important;
 	display: flex;
 	flex-direction: column;
 	gap: var(--space-2);
+	width: 100%;
+	max-width: 100%;
+	overflow: hidden;
 }
 
 .l-footer__sidebar-widgets li {
@@ -533,20 +547,44 @@ a:hover {
 	border-bottom: 1px dashed rgba(51, 65, 85, 0.6);
 	font-size: var(--text-xs);
 	line-height: 1.5;
+	width: 100%;
+	max-width: 100%;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
 }
 
 .l-footer__sidebar-widgets li:last-child {
 	border-bottom: none;
 }
 
-.l-footer__sidebar-widgets li a {
+.l-footer__sidebar-widgets li a,
+.l-footer__sidebar-widgets .wp-block-latest-posts__post-title {
 	color: #cbd5e1;
-	display: inline-block;
+	display: block;
+	width: 100%;
+	max-width: 100%;
+	white-space: nowrap !important;
+	overflow: hidden !important;
+	text-overflow: ellipsis !important;
+	word-break: keep-all;
+	transition: color 0.2s ease;
 }
 
-.l-footer__sidebar-widgets li a:hover {
+.l-footer__sidebar-widgets li a:hover,
+.l-footer__sidebar-widgets .wp-block-latest-posts__post-title:hover {
 	color: #38bdf8;
 }
+
+/* 「最近のコメント」ウィジェット・ブロックの完全非表示 */
+.l-footer__sidebar-widgets .wp-block-latest-comments,
+.l-footer__sidebar-widgets .widget_recent_comments,
+.l-footer__sidebar-widgets .is-hidden-comments,
+.l-footer__sidebar-widgets #block-4 {
+	display: none !important;
+}
+
+
 
 /* Bottom bar */
 .l-footer__bottom {
