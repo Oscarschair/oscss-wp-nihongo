@@ -16,7 +16,7 @@ $series_cats = oscss_get_series_categories();
 
 <main class="l-main">
 	<!-- Hero Section -->
-	<section class="c-hero">
+	<section class="c-hero" data-ad-exclude="true">
 		<div class="l-container c-hero__inner">
 			<div class="c-hero__content">
 				<span class="c-badge c-badge--accent">🇭🇰 外国人視点の日本語学習ブログ</span>
@@ -45,7 +45,7 @@ $series_cats = oscss_get_series_categories();
 	</section>
 
 	<!-- Features / Categories Section -->
-	<section class="c-features" id="categories">
+	<section class="c-features" id="categories" data-ad-exclude="true">
 		<div class="l-container">
 			<div class="c-section-header">
 				<h2 class="c-section-header__title">主な連載テーマ</h2>
@@ -68,7 +68,7 @@ $series_cats = oscss_get_series_categories();
 	</section>
 
 	<!-- Latest Posts Section -->
-	<section class="c-latest-posts" id="latest-posts">
+	<section class="c-latest-posts" id="latest-posts" data-ad-exclude="true">
 		<div class="l-container">
 			<?php $current_sort = oscss_get_current_sort(); ?>
 			<div class="c-section-header c-section-header--with-controls">

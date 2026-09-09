@@ -2558,3 +2558,45 @@ svg.c-icon {
 	font-size: var(--text-xs);
 	color: var(--color-text-muted);
 }
+
+/* ==========================================================================
+   Google AdSense Auto Ads Section & Component Exclusion Guard
+   ========================================================================== */
+section .adsbygoogle,
+section ins.adsbygoogle,
+section .google-auto-placed,
+section .ad-placeholder,
+[data-ad-exclude="true"] .adsbygoogle,
+[data-ad-exclude="true"] ins.adsbygoogle,
+[data-ad-exclude="true"] .google-auto-placed,
+[data-ad-exclude="true"] .ad-placeholder,
+.c-hero .adsbygoogle,
+.c-hero ins.adsbygoogle,
+.c-hero .google-auto-placed,
+.c-features .adsbygoogle,
+.c-features ins.adsbygoogle,
+.c-features .google-auto-placed,
+.c-latest-posts .adsbygoogle,
+.c-latest-posts ins.adsbygoogle,
+.c-latest-posts .google-auto-placed,
+.c-card-grid .adsbygoogle,
+.c-card-grid ins.adsbygoogle,
+.c-card-grid .google-auto-placed,
+.c-author-box .adsbygoogle,
+.c-author-box ins.adsbygoogle,
+.c-author-box .google-auto-placed,
+.l-header .adsbygoogle,
+.l-header ins.adsbygoogle,
+.l-footer .adsbygoogle,
+.l-footer ins.adsbygoogle {
+	display: none !important;
+	visibility: hidden !important;
+	height: 0 !important;
+	min-height: 0 !important;
+	max-height: 0 !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	overflow: hidden !important;
+	pointer-events: none !important;
+}
+

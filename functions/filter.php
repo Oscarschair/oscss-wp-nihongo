@@ -154,6 +154,22 @@ function oscss_filter_widget_block_content( $content, $id, $sidebar_id ) {
 }
 add_filter( 'widget_block_content', 'oscss_filter_widget_block_content', 10, 3 );
 
-
-
-
+/**
+ * 本文中の <section> タグに data-ad-exclude="true" を自動付与し、AdSense自動広告の侵入を防止
+ */
+function oscss_exclude_ads_from_sections( $content ) {
+	if ( empty( $content ) ) {
+		return $content;
+	}
+	return preg_replace_callback(
+		'/<section([^>]*)>/i',
+		function( $matches ) {
+			if ( strpos( $matches[1], 'data-ad-exclude' ) === false ) {
+				return '<section' . $matches[1] . ' data-ad-exclude="true">';
+			}
+			return $matches[0];
+		},
+		$content
+	);
+}
+add_filter( 'the_content', 'oscss_exclude_ads_from_sections', 25 );

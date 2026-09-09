@@ -14,7 +14,7 @@ if ( post_password_required() ) {
 }
 ?>
 
-<section id="comments" class="c-comments-area">
+<section id="comments" class="c-comments-area" data-ad-exclude="true">
 	<?php if ( have_comments() ) : ?>
 		<div class="c-comments-header">
 			<h2 class="c-comments-title">

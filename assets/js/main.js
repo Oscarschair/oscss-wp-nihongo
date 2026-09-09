@@ -14,7 +14,48 @@
 		initSortTabs();
 		initViewTracker();
 		cleanWidgets();
+		initAdSenseSectionGuard();
 	});
+
+	/**
+	 * Sectionタグおよび指定コンポーネント内へのAdSense自動広告侵入の動的排除ガード
+	 */
+	function initAdSenseSectionGuard() {
+		var removeAdsFromSections = function () {
+			var forbiddenSelectors = [
+				'section ins.adsbygoogle',
+				'section .google-auto-placed',
+				'[data-ad-exclude="true"] ins.adsbygoogle',
+				'[data-ad-exclude="true"] .google-auto-placed',
+				'.c-hero ins.adsbygoogle',
+				'.c-features ins.adsbygoogle',
+				'.c-latest-posts ins.adsbygoogle',
+				'.c-card-grid ins.adsbygoogle',
+				'.c-author-box ins.adsbygoogle'
+			];
+
+			var forbiddenAds = document.querySelectorAll(forbiddenSelectors.join(', '));
+			forbiddenAds.forEach(function (ad) {
+				ad.remove();
+			});
+		};
+
+		removeAdsFromSections();
+		setTimeout(removeAdsFromSections, 1000);
+		setTimeout(removeAdsFromSections, 3000);
+		setTimeout(removeAdsFromSections, 5000);
+
+		if (window.MutationObserver) {
+			var observer = new MutationObserver(function () {
+				removeAdsFromSections();
+			});
+			observer.observe(document.body, {
+				childList: true,
+				subtree: true
+			});
+		}
+	}
+
 
 	/**
 	 * フッターウィジェットの最適化（最近のコメント除去 ＆ 最近の投稿ツールチップ付与）

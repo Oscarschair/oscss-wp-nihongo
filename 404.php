@@ -72,7 +72,7 @@ $series_cats = oscss_get_series_categories();
 		</div>
 
 		<!-- おすすめ・新着記事セクション -->
-		<section class="c-error-recommendations">
+		<section class="c-error-recommendations" data-ad-exclude="true">
 			<div class="c-section-header">
 				<h2 class="c-section-header__title">💡 こちらの日本語学習ノートもおすすめ</h2>
 				<p class="c-section-header__desc">最新の解説記事をピックアップしてご紹介します</p>
