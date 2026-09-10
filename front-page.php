@@ -49,18 +49,42 @@ $series_cats = oscss_get_series_categories();
 		<div class="l-container">
 			<div class="c-section-header">
 				<h2 class="c-section-header__title">主な連載テーマ</h2>
-				<p class="c-section-header__desc">外国人視点だからこそ見えてくる、日本語の面白さと奥深さ</p>
+				<p class="c-section-header__desc">教科書には載っていないリアルな発見。日本での日常がもっと面白くなる4つのアプローチ</p>
 			</div>
 
 			<div class="c-features__grid">
 				<?php foreach ( $series_cats as $key => $cat_info ) : ?>
-					<a href="<?php echo esc_url( oscss_get_series_category_url( $key ) ); ?>" class="c-feature-box" aria-label="<?php echo esc_attr( sprintf( __( '「%s」の記事一覧へ', 'oscss-wp-nihongo' ), $cat_info['name'] ) ); ?>">
-						<div class="c-feature-box__icon" aria-hidden="true"><?php echo esc_html( $cat_info['icon'] ); ?></div>
-						<h3 class="c-feature-box__title"><?php echo esc_html( $cat_info['name'] ); ?></h3>
-						<p class="c-feature-box__text"><?php echo esc_html( $cat_info['desc'] ); ?></p>
-						<span class="c-feature-box__cta">
-							記事一覧を見る <span class="c-feature-box__arrow" aria-hidden="true">&rarr;</span>
-						</span>
+					<a href="<?php echo esc_url( oscss_get_series_category_url( $key ) ); ?>" class="c-feature-box c-feature-box--<?php echo esc_attr( isset( $cat_info['color_key'] ) ? $cat_info['color_key'] : 'default' ); ?>" aria-label="<?php echo esc_attr( sprintf( __( '「%s」の記事一覧へ', 'oscss-wp-nihongo' ), $cat_info['name'] ) ); ?>">
+						<div class="c-feature-box__header">
+							<div class="c-feature-box__icon c-feature-box__icon--<?php echo esc_attr( isset( $cat_info['color_key'] ) ? $cat_info['color_key'] : 'default' ); ?>" aria-hidden="true"><?php echo esc_html( $cat_info['icon'] ); ?></div>
+							<?php if ( ! empty( $cat_info['tag'] ) ) : ?>
+								<span class="c-feature-box__tag c-feature-box__tag--<?php echo esc_attr( $cat_info['color_key'] ); ?>">
+									<?php echo esc_html( $cat_info['tag'] ); ?>
+								</span>
+							<?php endif; ?>
+						</div>
+						<div class="c-feature-box__body">
+							<h3 class="c-feature-box__title"><?php echo esc_html( $cat_info['name'] ); ?></h3>
+							<?php if ( ! empty( $cat_info['hook'] ) ) : ?>
+								<p class="c-feature-box__hook"><?php echo esc_html( $cat_info['hook'] ); ?></p>
+							<?php endif; ?>
+							<p class="c-feature-box__text"><?php echo esc_html( $cat_info['desc'] ); ?></p>
+						</div>
+						<?php if ( ! empty( $cat_info['examples'] ) ) : ?>
+							<div class="c-feature-box__examples">
+								<span class="c-feature-box__examples-label">気になるテーマ例</span>
+								<div class="c-feature-box__pills">
+									<?php foreach ( $cat_info['examples'] as $ex ) : ?>
+										<span class="c-feature-box__pill"><?php echo esc_html( $ex ); ?></span>
+									<?php endforeach; ?>
+								</div>
+							</div>
+						<?php endif; ?>
+						<div class="c-feature-box__footer">
+							<span class="c-feature-box__cta">
+								連載を読む <span class="c-feature-box__arrow" aria-hidden="true">&rarr;</span>
+							</span>
+						</div>
 					</a>
 				<?php endforeach; ?>
 			</div>
