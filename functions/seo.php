@@ -24,7 +24,7 @@ function oscss_seo_meta_tags() {
 
 	if ( is_front_page() || is_home() ) {
 		$og_title = $site_name . ' | ' . $site_desc;
-		$og_desc  = '香港出身のオスカーが、日本語の「ことばのあや」や文化の違い、日常のカルチャーショックを外国人視点から分かりやすく解説する学習ノートです。';
+		$og_desc  = '香港出身のオスカーが、外国人視点で見つけた日本語の「ことばのあや」やニュアンスの違い、文化の違い、コンビニや駅などの現場サバイバルを分かりやすく解説する日本語学習ブログです。';
 		$og_type  = 'website';
 	} elseif ( is_single() ) {
 		global $post;
@@ -75,10 +75,11 @@ function oscss_seo_meta_tags() {
 		$og_desc  = $site_desc;
 	}
 
-	// メタディスクリプション & Robots & Canonical
+	// メタディスクリプション & Robots & Canonical & Theme Color
 	echo "\n<!-- oscss-wp-nihongo SEO & Social Meta -->\n";
 	echo '<meta name="description" content="' . esc_attr( $og_desc ) . '">' . "\n";
 	echo '<meta name="robots" content="' . esc_attr( $robots ) . '">' . "\n";
+	echo '<meta name="theme-color" content="#2563eb">' . "\n";
 	echo '<link rel="canonical" href="' . esc_url( $current_url ) . '">' . "\n";
 
 	// Open Graph (OGP)
@@ -114,8 +115,9 @@ add_action( 'wp_head', 'oscss_seo_meta_tags', 1 );
 function oscss_seo_json_ld() {
 	$site_url  = home_url( '/' );
 	$site_name = get_bloginfo( 'name' );
-	$site_desc = get_bloginfo( 'description' );
+	$site_desc = '香港出身のオスカーが、外国人視点で見つけた日本語の「ことばのあや」やニュアンスの違い、文化の違い、コンビニや駅などの現場サバイバルを分かりやすく解説する日本語学習ブログです。';
 	$logo_url  = OSCSS_THEME_URI . '/assets/images/my-icon.png';
+	$og_image  = OSCSS_THEME_URI . '/assets/images/og-image.png';
 
 	$schemas = array();
 
@@ -139,6 +141,13 @@ function oscss_seo_json_ld() {
 			'url'             => $site_url,
 			'description'     => $site_desc,
 			'inLanguage'      => 'ja',
+			'image'           => $og_image,
+			'author'          => array(
+				'@type' => 'Person',
+				'name'  => 'オスカー',
+				'url'   => 'https://oscarchair.jp/',
+				'image' => $logo_url,
+			),
 			'publisher'       => array(
 				'@type' => 'Person',
 				'name'  => 'オスカー',

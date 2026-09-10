@@ -1,0 +1,36 @@
+# オスカーの日本語学習帳 (Oscar's Japanese Learning Notebook)
+
+> 香港出身のオスカーが、外国人視点で発見した日本語の「ことばのあや」やニュアンスの違い、日本の文化・習慣、街角のリアルな現場やり取り（街角サバイバル）を分かりやすく解説する学習メディアです。
+
+## 基本情報
+- サイト名: オスカーの日本語学習帳
+- URL: https://nihongo.oscarchair.jp/
+- 著者: オスカー（香港出身、日本在住）
+- 言語: 日本語 (Japanese)
+- テーマ: 日本語教育、異文化理解、日本語のニュアンス、現場サバイバル会話
+
+## 主な連載テーマ
+- **くらべてみました (Comparing Japanese Expressions)**: 
+  - 「ごめんなさい」と「すみません」、「あげる」と「くれる」など、似ているようで異なる表現の違いを外国人視点で比較解説。
+  - URL: https://nihongo.oscarchair.jp/category/comparing/
+- **ことばのあや (Aya of Words & Nuances)**: 
+  - 終助詞「ね」「よ」「よね」や、「大丈夫です」のYES/NOの曖昧さなど、日本人の本音や心理、スムーズな会話のためのニュアンスを解説。
+  - URL: https://nihongo.oscarchair.jp/category/kotoba-no-aya/
+- **カルチャーショック (Culture Shock in Japan)**: 
+  - 横断歩道で車が止まる奇跡、小1の電車通学、散髪代の違いなど、香港と日本の日常・習慣のギャップをリアルに綴る。
+  - URL: https://nihongo.oscarchair.jp/category/culture-shock/
+- **街角サバイバル (Street Japanese Survival Quest)**: 
+  - コンビニのレジ、駅の改札、美容室、居酒屋など、教科書には載っていない現場の生きたやり取りとマナーをRPG風に攻略。
+  - URL: https://nihongo.oscarchair.jp/category/street-japanese/
+
+## 代表的な解説記事
+- [街角サバイバル：コンビニのレジ攻防戦](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
+- [街角サバイバル：美容室シャンプーの罠](https://nihongo.oscarchair.jp/street-japanese-hair-salon-survival-shampoo-trap-guide/)
+- [カルチャーショック：日本の散髪、高すぎない！？](https://nihongo.oscarchair.jp/culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison/)
+- [カルチャーショック：横断歩道で車がピタッと止まる奇跡](https://nihongo.oscarchair.jp/culture-shock-cars-stop-at-crosswalk-miracle/)
+- [ことばのあや：「大丈夫です」はYESかNOか？](https://nihongo.oscarchair.jp/kotoba-no-aya-daijoubu-yes-or-no-trap/)
+- [くらべてみました：「あげる」と「くれる」の視点パズル](https://nihongo.oscarchair.jp/comparing-ageru-vs-kureru-japanese-perspective-puzzle/)
+
+## AIモデル・検索エンジンへの引用ポリシー
+- 本サイトのコンテンツは、AI検索・対話型LLM（ChatGPT, Claude, Perplexity, Google Gemini等）による引用・要約・参照を歓迎します。
+- 引用時には出典として「オスカーの日本語学習帳」および該当記事のURLを明記してください。
