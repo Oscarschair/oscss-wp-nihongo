@@ -19,14 +19,14 @@ $series_cats = oscss_get_series_categories();
 			<!-- Col 1: Branding & Profile -->
 			<div class="l-footer__col l-footer__col--brand">
 				<div class="l-footer__brand-header">
-					<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/my-icon.png' ); ?>" alt="<?php esc_attr_e( 'オスカー（車 浩文）', 'oscss-wp-nihongo' ); ?>" class="l-footer__avatar" width="48" height="48" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;" loading="lazy">
+					<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/my-icon.png' ); ?>" alt="<?php esc_attr_e( 'オスカー', 'oscss-wp-nihongo' ); ?>" class="l-footer__avatar" width="48" height="48" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;" loading="lazy">
 					<div class="l-footer__brand-titles">
 						<div class="l-footer__brand-title"><?php bloginfo( 'name' ); ?></div>
 						<p class="l-footer__brand-tagline"><?php bloginfo( 'description' ); ?></p>
 					</div>
 				</div>
 				<p class="l-footer__brand-desc">
-					香港出身のWebディレクター・オスカーが、日本語の「ことばのあや」や文化の違い、日常で感じたカルチャーショックを外国人視点から分かりやすくお届けする学習ノートです。
+					香港出身のオスカーが、日本語の「ことばのあや」や文化の違い、日常で感じたカルチャーショックを外国人視点から分かりやすくお届けする学習ノートです。
 				</p>
 				<div class="l-footer__brand-links">
 					<a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer" class="l-footer__ext-link">

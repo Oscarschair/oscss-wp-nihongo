@@ -271,5 +271,58 @@ function oscss_redirect_old_date_permalinks() {
 }
 add_action( 'template_redirect', 'oscss_redirect_old_date_permalinks', 1 );
 
+/**
+ * 投稿一覧画面のカスタムカラム（アイキャッチ・閲覧数）を出力
+ */
+function oscss_render_post_custom_columns( $column, $post_id ) {
+	if ( 'thumbnail' === $column ) {
+		if ( has_post_thumbnail( $post_id ) ) {
+			$thumb_url = get_the_post_thumbnail_url( $post_id, 'thumbnail' );
+			$edit_url  = get_edit_post_link( $post_id );
+			echo '<a href="' . esc_url( $edit_url ) . '"><img src="' . esc_url( $thumb_url ) . '" alt="" class="oscss-admin-thumb" /></a>';
+		} else {
+			echo '<span class="oscss-admin-no-thumb">—</span>';
+		}
+	} elseif ( 'views' === $column ) {
+		$views = (int) get_post_meta( $post_id, '_oscss_post_views', true );
+		echo '<span class="oscss-admin-views"><strong>' . esc_html( number_format_i18n( $views ) ) . '</strong> <span style="font-size: 11px; color: #888;">PV</span></span>';
+	}
+}
+add_action( 'manage_posts_custom_column', 'oscss_render_post_custom_columns', 10, 2 );
+
+/**
+ * 閲覧数でのソートクエリ処理
+ */
+function oscss_sort_posts_by_views( $query ) {
+	if ( ! is_admin() || ! $query->is_main_query() ) {
+		return;
+	}
+	if ( 'views' === $query->get( 'orderby' ) ) {
+		$query->set( 'meta_key', '_oscss_post_views' );
+		$query->set( 'orderby', 'meta_value_num' );
+	}
+}
+add_action( 'pre_get_posts', 'oscss_sort_posts_by_views' );
+
+/**
+ * 管理画面の投稿一覧用スタイリング
+ */
+function oscss_admin_custom_css() {
+	$screen = get_current_screen();
+	if ( $screen && 'edit-post' === $screen->id ) {
+		echo '<style>
+			.column-thumbnail { width: 90px; text-align: center; vertical-align: middle !important; }
+			.column-views { width: 90px; text-align: right; vertical-align: middle !important; }
+			th.column-views { text-align: right; }
+			.oscss-admin-thumb { width: 72px; height: 40px; object-fit: cover; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.15); display: block; margin: 0 auto; transition: transform 0.2s; border: 1px solid #e0e0e0; }
+			.oscss-admin-thumb:hover { transform: scale(1.15); z-index: 10; position: relative; box-shadow: 0 4px 10px rgba(0,0,0,0.25); }
+			.oscss-admin-no-thumb { color: #ccc; font-size: 14px; }
+			.oscss-admin-views { font-variant-numeric: tabular-nums; font-size: 13px; }
+		</style>';
+	}
+}
+add_action( 'admin_head', 'oscss_admin_custom_css' );
+
+
 
 

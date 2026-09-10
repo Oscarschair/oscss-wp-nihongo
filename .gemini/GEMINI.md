@@ -36,6 +36,27 @@
 
 ---
 
+## 📅 投稿・公開運用ルール（厳格遵守）
+
+### 1. 投稿の承認必須原則
+- ユーザーから明示的に**「投稿してOK」「公開してOK」「本番反映してOK」**という指示・承認があるまで、作成・修正した記事内容をWordPressへ投稿（公開/予約投稿/上書き更新）してはならない。
+- それまではローカルのMarkdown原稿（`content/posts/`）やアセット（`assets/images/`）の作成・レビューにとどめること。
+
+### 2. 公開日時の自動計算ルール（「投稿してOK」受領時）
+ユーザーから「投稿してOK」の指示があった場合、以下のロジックに従って公開日時（`post_date` / `post_date_gmt` / `post_status`）を自動決定して投稿を行う：
+
+1. **最新（最後）の投稿の公開日（`last_post_date`）を取得する**。
+2. **`target_date = last_post_date + 1日` を算出する**。
+3. **日付判定**:
+   - **`target_date` が「本日（実行日）」より以前の過去日の場合**:
+     - 公開日: **本日（実行日）の 朝 08:00:00（JST）**
+     - ステータス: `publish`（本日の8時以降であれば即時公開、8時前なら本日8時予約）
+   - **`target_date` が「本日（実行日）」以降の未来日の場合**:
+     - 公開日: **`target_date` の 朝 08:00:00（JST）**
+     - ステータス: `future`（予約投稿）
+
+---
+
 ## 🔍 SEO専門レビュー ＆ 投稿ライフサイクルフック (Mandatory SEO Hooks)
 
 新規記事の作成・保存時（`post_file_save`）およびWordPressへの投稿・公開前（`pre_post_publish`）には、[`.gemini/skills/seo-reviewer/SKILL.md`](file:///c:/Users/user/git/oscss-wp-nihongo/.gemini/skills/seo-reviewer/SKILL.md) が自動発動し、以下の10大SEO品質ゲートを通過することを必須とします：

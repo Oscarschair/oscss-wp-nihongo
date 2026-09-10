@@ -173,3 +173,37 @@ function oscss_exclude_ads_from_sections( $content ) {
 	);
 }
 add_filter( 'the_content', 'oscss_exclude_ads_from_sections', 25 );
+
+/**
+ * 投稿一覧画面に「アイキャッチ画像」と「閲覧数」のカラムを追加
+ */
+function oscss_add_post_columns( $columns ) {
+	$new_columns = array();
+	foreach ( $columns as $key => $value ) {
+		if ( 'title' === $key ) {
+			$new_columns['thumbnail'] = __( 'アイキャッチ', 'oscss-wp-nihongo' );
+		}
+		$new_columns[ $key ] = $value;
+		if ( 'categories' === $key ) {
+			$new_columns['views'] = __( '閲覧数', 'oscss-wp-nihongo' );
+		}
+	}
+	if ( ! isset( $new_columns['thumbnail'] ) ) {
+		$new_columns['thumbnail'] = __( 'アイキャッチ', 'oscss-wp-nihongo' );
+	}
+	if ( ! isset( $new_columns['views'] ) ) {
+		$new_columns['views'] = __( '閲覧数', 'oscss-wp-nihongo' );
+	}
+	return $new_columns;
+}
+add_filter( 'manage_posts_columns', 'oscss_add_post_columns' );
+
+/**
+ * 閲覧数カラムをソート可能にする
+ */
+function oscss_sortable_post_columns( $sortable_columns ) {
+	$sortable_columns['views'] = 'views';
+	return $sortable_columns;
+}
+add_filter( 'manage_edit-post_sortable_columns', 'oscss_sortable_post_columns' );
+

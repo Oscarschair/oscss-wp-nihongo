@@ -470,6 +470,14 @@ function oscss_get_series_categories() {
 			'desc'        => '日本の習慣や食文化、香港と日本のコミュニケーション感覚の違いをリアルに綴ります。',
 			'lead'        => '日本と海外の習慣・日常の発見',
 		),
+		'street-japanese' => array(
+			'slugs'       => array( 'street-japanese', '街角サバイバル', 'survival' ),
+			'name'        => '街角サバイバル',
+			'icon'        => '🏪',
+			'badge_class' => 'c-badge--street',
+			'desc'        => 'コンビニ・駅・居酒屋・美容室など、教科書に載っていない現場の生きたやり取りとマナーを徹底攻略。',
+			'lead'        => '日本のリアルな現場を生き抜く日本語',
+		),
 	);
 }
 

@@ -26,7 +26,7 @@ $series_cats = oscss_get_series_categories();
 					外国人視点で読み解く。
 				</h1>
 				<p class="c-hero__lead">
-					「オスカーの日本語学習帳」は、香港出身のWebディレクターが、日本語特有のニュアンスや文化の違い、日常の気づきを分かりやすく綴るメディアです。
+					「オスカーの日本語学習帳」は、香港出身のオスカーが、日本語特有のニュアンスや文化の違い、日常の気づきを分かりやすく綴るメディアです。
 				</p>
 				<div class="c-hero__actions">
 					<a href="#categories" class="c-btn c-btn--primary">テーマ別に見る</a>

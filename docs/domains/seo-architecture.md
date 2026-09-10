@@ -40,7 +40,7 @@ Google リッチリザルトテストおよび AI 検索（LLMO）に完全対�
    - ホーム ➔ カテゴリー ➔ 記事タイトル の階層を正確に `itemListElement` 配列として構造化。
 2. **`WebSite` (トップページ)**
    - `SearchAction` を内包し、Google 検索結果でのサイト内検索ボックスの表示に対応。
-   - `Person`（車 浩文 / オスカー）を著者・発行者として紐付け。
+   - `Person`（オスカー）を著者・発行者として紐付け。
 3. **`BlogPosting` (記事詳細ページ)**
    - `headline`, `description`, `image`, `datePublished`, `dateModified`, `author` (Person), `publisher` (Organization), `articleSection`, `inLanguage` (ja) を完全装備。
 

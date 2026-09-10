@@ -295,21 +295,36 @@ a:hover {
 	margin-bottom: var(--space-10);
 }
 
-@media (min-width: 768px) {
+.l-footer__col {
+	min-width: 0;
+	width: 100%;
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
 	.l-footer__grid {
-		grid-template-columns: repeat(2, 1fr);
+		grid-template-columns: repeat(2, minmax(0, 1fr));
 		gap: var(--space-8);
+	}
+
+	.l-footer__col--widgets {
+		grid-column: 1 / -1;
 	}
 }
 
 @media (min-width: 1024px) {
 	.l-footer__grid {
-		grid-template-columns: 1.3fr 1fr 1fr;
-		gap: var(--space-10);
+		grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.95fr) minmax(0, 1.4fr);
+		gap: var(--space-8) var(--space-10);
+		align-items: start;
 	}
 }
 
 /* Col 1: Brand */
+.l-footer__col--brand {
+	display: flex;
+	flex-direction: column;
+}
+
 .l-footer__brand-header {
 	display: flex;
 	align-items: center;
@@ -500,6 +515,89 @@ a:hover {
 	opacity: 0.9;
 }
 
+/* Col 3: Widgets & Search Container */
+.l-footer__col--widgets {
+	min-width: 0;
+	max-width: 100%;
+	overflow: hidden;
+}
+
+.l-footer__sidebar-widgets {
+	width: 100%;
+	max-width: 100%;
+	min-width: 0;
+	overflow: hidden;
+}
+
+.l-footer__sidebar-widgets .wp-block-search,
+.c-search-form {
+	margin-bottom: var(--space-6);
+	width: 100%;
+	max-width: 100%;
+}
+
+.l-footer__sidebar-widgets .wp-block-search__label {
+	font-size: var(--text-sm);
+	font-weight: 700;
+	color: #f8fafc;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	margin-top: 0;
+	margin-bottom: var(--space-4);
+	padding-bottom: var(--space-2);
+	border-bottom: 2px solid rgba(99, 102, 241, 0.4);
+	display: inline-block;
+}
+
+.l-footer__sidebar-widgets .wp-block-search__inside-wrapper,
+.c-search-form__inner {
+	display: flex;
+	gap: var(--space-2);
+	width: 100%;
+	max-width: 100%;
+}
+
+.l-footer__sidebar-widgets .wp-block-search__input,
+.c-search-form__input {
+	flex: 1;
+	min-width: 0;
+	background: #1e293b;
+	border: 1px solid #334155;
+	color: #f8fafc;
+	padding: var(--space-2) var(--space-3);
+	border-radius: var(--radius-md);
+	font-size: var(--text-sm);
+	outline: none;
+	transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.l-footer__sidebar-widgets .wp-block-search__input:focus,
+.c-search-form__input:focus {
+	border-color: var(--color-primary);
+	box-shadow: 0 0 0 2px rgba(79, 70, 229, 0.25);
+}
+
+.l-footer__sidebar-widgets .wp-block-search__button,
+.c-search-form__submit {
+	background: linear-gradient(135deg, #4f46e5, #6366f1);
+	color: #ffffff;
+	border: none;
+	padding: var(--space-2) var(--space-4);
+	border-radius: var(--radius-md);
+	font-weight: 600;
+	font-size: var(--text-sm);
+	cursor: pointer;
+	transition: opacity 0.2s ease, transform 0.2s ease;
+	white-space: nowrap;
+	flex-shrink: 0;
+}
+
+.l-footer__sidebar-widgets .wp-block-search__button:hover,
+.c-search-form__submit:hover {
+	opacity: 0.9;
+	transform: translateY(-1px);
+}
+
 /* WordPress Widget Headings & Lists */
 .l-footer__sidebar-widgets .c-widget,
 .l-footer__sidebar-widgets .widget_block,
@@ -507,6 +605,7 @@ a:hover {
 .l-footer__sidebar-widgets .wp-block-group__inner-container {
 	width: 100%;
 	max-width: 100%;
+	min-width: 0;
 	overflow: hidden;
 }
 
@@ -519,7 +618,7 @@ a:hover {
 	color: #f8fafc;
 	text-transform: uppercase;
 	letter-spacing: 0.05em;
-	margin-top: var(--space-5);
+	margin-top: var(--space-6);
 	margin-bottom: var(--space-3);
 	padding-bottom: var(--space-2);
 	border-bottom: 2px solid rgba(99, 102, 241, 0.4);
@@ -539,41 +638,66 @@ a:hover {
 	gap: var(--space-2);
 	width: 100%;
 	max-width: 100%;
+	min-width: 0;
 	overflow: hidden;
 }
 
 .l-footer__sidebar-widgets li {
-	padding: var(--space-2) 0;
-	border-bottom: 1px dashed rgba(51, 65, 85, 0.6);
-	font-size: var(--text-xs);
-	line-height: 1.5;
-	width: 100%;
-	max-width: 100%;
-	overflow: hidden;
-	white-space: nowrap;
-	text-overflow: ellipsis;
+	display: block !important;
+	padding: 7px 0 !important;
+	border-bottom: 1px dashed rgba(51, 65, 85, 0.6) !important;
+	width: 100% !important;
+	max-width: 100% !important;
+	min-width: 0 !important;
+	overflow: hidden !important;
+	box-sizing: border-box !important;
 }
 
 .l-footer__sidebar-widgets li:last-child {
-	border-bottom: none;
+	border-bottom: none !important;
 }
 
 .l-footer__sidebar-widgets li a,
 .l-footer__sidebar-widgets .wp-block-latest-posts__post-title {
-	color: #cbd5e1;
-	display: block;
-	width: 100%;
-	max-width: 100%;
+	display: block !important;
+	width: 100% !important;
+	max-width: 100% !important;
+	min-width: 0 !important;
+	box-sizing: border-box !important;
+	position: relative !important;
+	padding-left: 14px !important;
 	white-space: nowrap !important;
 	overflow: hidden !important;
 	text-overflow: ellipsis !important;
-	word-break: keep-all;
-	transition: color 0.2s ease;
+	word-break: normal !important;
+	font-size: 13px !important;
+	line-height: 1.5 !important;
+	color: #cbd5e1 !important;
+	text-decoration: none !important;
+	transition: color 0.2s ease, transform 0.2s ease !important;
+}
+
+.l-footer__sidebar-widgets li a::before,
+.l-footer__sidebar-widgets .wp-block-latest-posts__post-title::before {
+	content: '›';
+	position: absolute;
+	left: 0;
+	top: 0;
+	font-size: 14px;
+	line-height: 1.4;
+	color: #6366f1;
+	font-weight: 700;
 }
 
 .l-footer__sidebar-widgets li a:hover,
 .l-footer__sidebar-widgets .wp-block-latest-posts__post-title:hover {
-	color: #38bdf8;
+	color: #38bdf8 !important;
+	transform: translateX(3px);
+}
+
+.l-footer__sidebar-widgets li a:hover::before,
+.l-footer__sidebar-widgets .wp-block-latest-posts__post-title:hover::before {
+	color: #38bdf8 !important;
 }
 
 /* 「最近のコメント」ウィジェット・ブロックの完全非表示 */
@@ -838,9 +962,15 @@ a:hover {
 	gap: var(--space-6);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 640px) {
 	.c-features__grid {
-		grid-template-columns: repeat(3, 1fr);
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (min-width: 1024px) {
+	.c-features__grid {
+		grid-template-columns: repeat(4, 1fr);
 	}
 }
 
@@ -2498,6 +2628,16 @@ svg.c-icon {
 
 .c-badge--category-link.c-badge--culture:hover {
 	background: #fef3c7;
+}
+
+.c-badge--category-link.c-badge--street {
+	background: #fefce8;
+	color: #ca8a04;
+	border: 1px solid #fef08a;
+}
+
+.c-badge--category-link.c-badge--street:hover {
+	background: #fef9c3;
 }
 
 .c-error-hero__actions {

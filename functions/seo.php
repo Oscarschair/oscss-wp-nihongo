@@ -19,12 +19,12 @@ function oscss_seo_meta_tags() {
 	$og_title    = '';
 	$og_desc     = '';
 	$og_type     = 'website';
-	$og_image    = OSCSS_THEME_URI . '/screenshot.png'; // デフォルトOGP画像
+	$og_image    = OSCSS_THEME_URI . '/assets/images/og-image.png'; // デフォルトOGP画像 (1200x630)
 	$robots      = 'index, follow, max-image-preview:large';
 
 	if ( is_front_page() || is_home() ) {
 		$og_title = $site_name . ' | ' . $site_desc;
-		$og_desc  = '香港出身のWebディレクター・オスカーが、日本語の「ことばのあや」や文化の違い、日常のカルチャーショックを外国人視点から分かりやすく解説する学習ノートです。';
+		$og_desc  = '香港出身のオスカーが、日本語の「ことばのあや」や文化の違い、日常のカルチャーショックを外国人視点から分かりやすく解説する学習ノートです。';
 		$og_type  = 'website';
 	} elseif ( is_single() ) {
 		global $post;
@@ -141,7 +141,7 @@ function oscss_seo_json_ld() {
 			'inLanguage'      => 'ja',
 			'publisher'       => array(
 				'@type' => 'Person',
-				'name'  => '車 浩文（オスカー / HIROFUMI KURUMA）',
+				'name'  => 'オスカー',
 				'url'   => 'https://oscarchair.jp/',
 				'image' => $logo_url,
 			),
@@ -159,11 +159,11 @@ function oscss_seo_json_ld() {
 	// 3. 記事ページ: BlogPosting
 	if ( is_single() ) {
 		global $post;
-		$author_name = '車 浩文（オスカー / HIROFUMI KURUMA）';
+		$author_name = 'オスカー';
 		$author_url  = 'https://oscarchair.jp/';
 		$image_url   = has_post_thumbnail( $post->ID )
 			? get_the_post_thumbnail_url( $post->ID, 'full' )
-			: OSCSS_THEME_URI . '/screenshot.png';
+			: OSCSS_THEME_URI . '/assets/images/og-image.png';
 
 		$cat_name = '';
 		$categories = get_the_category( $post->ID );
