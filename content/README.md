@@ -8,6 +8,7 @@
 
 | ID | 区分 | カテゴリー | タイトル | 公開日 | ファイル |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 202 | `post` | **街角サバイバル** | 街角サバイバル：居酒屋の洗礼｜頼んでないのに出てくる「お通し」の謎と、入店直後の呪文「とりあえず生」の攻略法 | 2026-09-17 | [2026-09-17-street-japanese-izakaya-survival-guide.md](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-09-17-street-japanese-izakaya-survival-guide.md) |
 | 167 | `post` | **カルチャーショック** | カルチャーショック：日本の散髪、高すぎない！？香港で60ドルだった私が「5,000円カット」と「1,000円カット」の真実に納得するまで | 2026-09-10 | [2026-09-10-culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison.md](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-09-10-culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison.md) |
 | 164 | `post` | **くらべてみました** | くらべてみました：「さようなら」VS「またね」の違い｜なぜ日本人は友達に「さようなら」と言わないのか？ | 2026-09-10 | [2026-09-10-japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions.md](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-09-10-japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions.md) |
 | 161 | `post` | **カルチャーショック** | カルチャーショック：代引きで「お釣り大丈夫です」と言ったら「いやダメです！」と断られた話｜日本にチップ文化がない本当の理由 | 2026-09-10 | [2026-09-10-culture-shock-cash-on-delivery-refused-tip-keep-the-change.md](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-09-10-culture-shock-cash-on-delivery-refused-tip-keep-the-change.md) |
