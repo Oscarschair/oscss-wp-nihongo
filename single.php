@@ -79,6 +79,9 @@ get_header();
 						</div>
 					<?php endif; ?>
 
+					<!-- あわせて読みたい関連記事（内部リンク強化） -->
+					<?php get_template_part( 'template-parts/related-posts' ); ?>
+
 					<nav class="c-post-nav" aria-label="<?php esc_attr_e( '投稿ナビゲーション', 'oscss-wp-nihongo' ); ?>">
 						<div class="c-post-nav__prev">
 							<?php

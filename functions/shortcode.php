@@ -135,3 +135,72 @@ function oscss_btn_shortcode( $atts ) {
 	);
 }
 add_shortcode( 'oscss_btn', 'oscss_btn_shortcode' );
+
+/**
+ * 5. インライン関連記事ブログカードショートコード
+ * 例: [oscss_related slug="street-japanese-convenience-store-register-survival-guide" label="あわせて読みたい"]
+ *     [oscss_related id="123"]
+ */
+function oscss_related_post_shortcode( $atts ) {
+	$atts = shortcode_atts(
+		array(
+			'id'    => '',
+			'slug'  => '',
+			'label' => 'あわせて読みたい',
+		),
+		$atts,
+		'oscss_related'
+	);
+
+	$target_post = null;
+	if ( ! empty( $atts['id'] ) ) {
+		$target_post = get_post( (int) $atts['id'] );
+	} elseif ( ! empty( $atts['slug'] ) ) {
+		$posts = get_posts(
+			array(
+				'name'        => sanitize_title( $atts['slug'] ),
+				'post_type'   => 'post',
+				'post_status' => array( 'publish', 'future' ),
+				'numberposts' => 1,
+			)
+		);
+		if ( ! empty( $posts ) ) {
+			$target_post = $posts[0];
+		}
+	}
+
+	if ( ! $target_post ) {
+		return '';
+	}
+
+	$post_id   = $target_post->ID;
+	$permalink = get_permalink( $post_id );
+	$title     = get_the_title( $post_id );
+	$thumb_url = oscss_get_thumbnail_url( $post_id, 'medium' );
+	$excerpt   = oscss_get_clean_excerpt( $target_post, 90 );
+	$label     = esc_html( $atts['label'] );
+
+	return sprintf(
+		'<aside class="c-blog-card-wrap">
+			<a href="%1$s" class="c-blog-card">
+				<div class="c-blog-card__inner">
+					<div class="c-blog-card__media">
+						<img src="%2$s" alt="%3$s" class="c-blog-card__img" loading="lazy" width="140" height="100">
+					</div>
+					<div class="c-blog-card__body">
+						<span class="c-blog-card__label">📖 %4$s</span>
+						<div class="c-blog-card__title">%3$s</div>
+						<div class="c-blog-card__desc">%5$s</div>
+					</div>
+				</div>
+			</a>
+		</aside>',
+		esc_url( $permalink ),
+		esc_url( $thumb_url ),
+		esc_attr( $title ),
+		$label,
+		esc_html( $excerpt )
+	);
+}
+add_shortcode( 'oscss_related', 'oscss_related_post_shortcode' );
+

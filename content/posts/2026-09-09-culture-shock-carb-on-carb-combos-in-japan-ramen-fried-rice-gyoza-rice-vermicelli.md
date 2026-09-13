@@ -77,3 +77,14 @@
 同じアジアの食文化でも、「何を主食とみなし、何をおかずとするか」の境界線がこれほど違うのは本当に面白い発見です。
 
 日本の食堂や中華料理店に行ったときは、ぜひこの「主食×主食」の文化の奥深さを味わってみてくださいね！
+
+---
+
+## 📖 あわせて読みたい食文化・カルチャーショック記事
+
+香港出身のオスカーが驚いた、日本と中華圏のリアルな違い！
+
+* 🧊 [カルチャーショック：真冬でも氷水！？日本の「冷たいおもてなし」と中華圏の「温かいお湯」文化](https://nihongo.oscarchair.jp/culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture/)
+* 🥟 [カルチャーショック：日本の美味しいご飯とお米の形｜本場の中華料理店を探す旅](https://nihongo.oscarchair.jp/culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-restaurant/)
+* 🏮 [街角サバイバル：居酒屋の洗礼｜頼んでないのに出てくる「お通し」の謎と攻略法](https://nihongo.oscarchair.jp/street-japanese-izakaya-survival-guide/)
+

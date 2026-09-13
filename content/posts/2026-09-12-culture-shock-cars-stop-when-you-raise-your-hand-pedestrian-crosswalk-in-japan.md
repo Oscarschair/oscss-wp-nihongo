@@ -109,3 +109,14 @@
 
 信号のない小さな横断歩道一つにも、日本が誇る<strong>「他者への思いやり」と「調和の精神」</strong>がぎゅっと詰まっています。  
 皆さんも日本で道を渡るときは、ぜひ右手をピッと挙げて、優しいドライバーさんと心を通わせてみてくださいね！
+
+---
+
+## 📖 あわせて読みたい日本の治安＆マナー特集
+
+世界が驚く日本の安全性と思いやり文化に迫るおすすめ記事！
+
+* 🎒 [カルチャーショック：小1が1人で電車に乗って登校！？海外なら親が逮捕される「日本の通学事情」に世界が仰天する理由](https://nihongo.oscarchair.jp/culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence/)
+* 🚃 [カルチャーショック：電車で全員が寝ている！？日本の「居眠り文化」と圧倒的な治安の良さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
+* 🙇‍♂️ [ことばのあや：「すみません」の7変化｜街中での会釈やお礼のマナー](https://nihongo.oscarchair.jp/kotoba-no-aya-the-seven-faces-of-sumimasen/)
+

@@ -132,3 +132,14 @@ description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に
 * 相手の時間を少しもらうなら ➔ <strong>「すみません（失礼します）」</strong>
 
 この「すみません」の奥にある優しい日本人の心を理解すれば、街中で耳にするすべての「すみません」が、温かい思いやりのメロディに聞こえてくるはずですよ！
+
+---
+
+## 📖 あわせて読みたい関連記事
+
+「すみません」と一緒に使いこなしたい、大人の日本語コミュニケーション特集！
+
+* 🤝 [ことばのあや：「その節はどうも…」の謎｜感謝とお詫びが混ざり合う大人の魔法の言葉・なぜ日本人は具体的に言わないのか？](https://nihongo.oscarchair.jp/kotoba-no-aya-sonosetsu-wa-doumo/)
+* 🔍 [くらべてみました：「ごめんなさい」VS「すみません」の違い｜謝罪表現の使い分け](https://nihongo.oscarchair.jp/japanese-comparing-sorry-excuse-me-differences-in-apology-expressions/)
+* 🏮 実戦編：[街角サバイバル：居酒屋の洗礼｜入店直後の呪文「とりあえず生」と店員呼び出しの攻略法](https://nihongo.oscarchair.jp/street-japanese-izakaya-survival-guide/)
+

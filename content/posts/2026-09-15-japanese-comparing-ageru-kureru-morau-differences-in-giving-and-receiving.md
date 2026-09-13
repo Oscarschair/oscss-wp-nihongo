@@ -108,3 +108,14 @@
 - 自分から相手に手渡すときは、丁寧に<strong>「あげた！」</strong>と送り出す。
 
 この矢印の感覚が身につくと、あなたの日本語は一気に「日本人の心を持ったナチュラルな日本語」へと進化しますよ！
+
+---
+
+## 📖 あわせて読みたい「くらべてみました」シリーズ
+
+外国人がつまずきやすい日本語の使い分けをスッキリ解決する人気連載！
+
+* 💡 [くらべてみました：「わかる」VS「知る」の違い｜「知っていますか？」と「分かりますか？」で相手への印象が180度変わる理由](https://nihongo.oscarchair.jp/japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing/)
+* 👋 [くらべてみました：「さようなら」VS「またね」の違い｜なぜ日本人は友達に「さようなら」と言わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions/)
+* ⚖️ [くらべてみました：「全然」VS「全く」の違い｜なぜ「全然大丈夫」は言うのに「全く大丈夫」は言わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-zenzen-and-mattaku-differences/)
+

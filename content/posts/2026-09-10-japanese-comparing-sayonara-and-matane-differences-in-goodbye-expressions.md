@@ -90,3 +90,14 @@
 
 仲良くなった日本の友人や職場の同僚と別れるときは、ぜひ右手を手を振って、笑顔で**「じゃあね！またね！」**と言ってみてください。  
 それだけで、お互いの距離がぐっと縮まりますよ！
+
+---
+
+## 📖 あわせて読みたい関連記事
+
+別れの挨拶と一緒にマスターしたい、再会マナーと表現の使い分け！
+
+* 🤝 [ことばのあや：「その節はどうも…」の謎｜次に再会したときの魔法の挨拶](https://nihongo.oscarchair.jp/kotoba-no-aya-sonosetsu-wa-doumo/)
+* 🎁 [くらべてみました：「あげる」VS「くれる」VS「もらう」の違い｜なぜ日本語には「GIVE」が2つもあるのか？](https://nihongo.oscarchair.jp/japanese-comparing-ageru-kureru-morau-differences-in-giving-and-receiving/)
+* ⚖️ [くらべてみました：「全然」VS「全く」の違い｜なぜ「全然大丈夫」は言うのに「全く大丈夫」は言わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-zenzen-and-mattaku-differences/)
+

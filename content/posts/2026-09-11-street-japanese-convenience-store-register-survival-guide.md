@@ -129,10 +129,10 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 
 | 店員の質問 | あなたの回答（標準） | あなたの回答（断る） |
 | :--- | :--- | :--- |
-| **袋ご利用ですか？** | 「袋1枚お願いします」 | <strong>「そのままで大丈夫です」</strong> |
-| **温めますか？** | <strong>「お弁当だけ温めてください」</strong> | 「そのままでいいです」 |
+| **袋ご利用ですか？** | 「袋1枚お願いします」 | <strong>「そのままで大丈夫です」</strong>（※[「大丈夫」の使いこなし](https://nihongo.oscarchair.jp/kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase/)） |
+| **温めますか？** | <strong>「お弁当だけ温めてください」</strong> | 「そのままでいいです」（※[「いいです」の肯定・否定](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu/)） |
 | **ポイントカードは？** | （カード・アプリを提示） | <strong>「ないです」</strong> |
-| **お支払い方法は？** | 「Suicaで」「クレジットで」「PayPayで」 | 「現金で」 |
+| **お支払い方法は？** | 「Suicaで」「クレジットで」「PayPayで」 | 「現金で」（※[日本の小銭・お釣り文化](https://nihongo.oscarchair.jp/culture-shock-cash-on-delivery-refused-tip-keep-the-change/)） |
 
 ---
 
@@ -143,3 +143,14 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 >   
 > 最初は質問されるだけでドキドキして冷や汗が出ますが、パターンさえ覚えてしまえば大丈夫！  
 > コンビニのレジは、あなたの日本語力を試す最高の<strong>「日常の修行場」</strong>です。今日も勇者の心を持って、元気にコンビニへ繰り出しましょう！
+
+---
+
+## 🗺️ 「街角サバイバル」連載バックナンバー
+
+日本で暮らす外国人や旅行者が直面する「日常のダンジョン」を攻略する人気シリーズです！
+
+* 🎮 第2弾：[街角サバイバル：美容室の試練｜視界ゼロのシャンプー台で「痒いところは？」と聞かれた勇者の決断](https://nihongo.oscarchair.jp/street-japanese-hair-salon-survival-shampoo-trap-guide/)
+* 🎮 第3弾：[街角サバイバル：駅・改札ダンジョン｜「ピンポーン！」で赤い扉が閉まった瞬間、勇者が唱える脱出の呪文](https://nihongo.oscarchair.jp/street-japanese-station-ticket-gate-dungeon-guide/)
+* 🎮 第4弾：[街角サバイバル：居酒屋の洗礼｜頼んでないのに出てくる「お通し」の謎と、入店直後の呪文「とりあえず生」の攻略法](https://nihongo.oscarchair.jp/street-japanese-izakaya-survival-guide/)
+

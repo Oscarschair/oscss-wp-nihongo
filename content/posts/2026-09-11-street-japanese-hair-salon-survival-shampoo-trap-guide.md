@@ -155,9 +155,20 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 ## 7. オスカーのひとことメモ
 
 > 💬 <strong>オスカー</strong>  
-> 香港の理髪店に比べると、日本の美容室は料金が2〜3倍ほど高くて、最初は「散髪にこんなにかかるの！？」と驚きました。  
+> 香港の理髪店に比べると、日本の美容室は料金が2〜3倍ほど高くて、最初は「散髪にこんなにかかるの！？」と驚きました。（※料金の違いの謎については、[カルチャーショック：日本の散髪、高すぎない！？5,000円カットと1,000円カットの真実](https://nihongo.oscarchair.jp/culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison/)で詳しく語っています！）  
 >   
 > でも、眉カットをしてくれたり、シャンプーの後に肩や首を丁寧にマッサージしてくれたり、一人ひとりの好みに寄り添って細かく確認してくれるのは、<strong>日本の「おもてなし精神」の究極の形</strong>なんですよね。  
 >   
 > 言葉のキャッチボールにドキドキするのも、最初のうちだけ。  
-> ぜひ皆さんも「大丈夫です」の呪文を胸に、日本の美容室という素敵なダンジョンを楽しんでみてください！
+> ぜひ皆さんも万能ワード「大丈夫です」（※詳しくは[「大丈夫です」の罠解説](https://nihongo.oscarchair.jp/kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase/)へ！）の呪文を胸に、日本の美容室という素敵なダンジョンを楽しんでみてください！
+
+---
+
+## 🗺️ 「街角サバイバル」連載バックナンバー
+
+日本で暮らす外国人や旅行者が直面する「日常のダンジョン」を攻略する人気シリーズです！
+
+* 🎮 第1弾：[街角サバイバル：コンビニのレジ攻防戦｜香港では「ほぼ無言」だった私が、日本のレジで勇者の剣を握りしめた理由](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
+* 🎮 第3弾：[街角サバイバル：駅・改札ダンジョン｜「ピンポーン！」で赤い扉が閉まった瞬間、勇者が唱える脱出の呪文](https://nihongo.oscarchair.jp/street-japanese-station-ticket-gate-dungeon-guide/)
+* 🎮 第4弾：[街角サバイバル：居酒屋の洗礼｜頼んでないのに出てくる「お通し」の謎と、入店直後の呪文「とりあえず生」の攻略法](https://nihongo.oscarchair.jp/street-japanese-izakaya-survival-guide/)
+

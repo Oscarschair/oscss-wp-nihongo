@@ -100,3 +100,14 @@
 - **日本の美容室**: 5,000円〜で最高峰のおもてなしと癒やし（デザイン＆リフレッシュ）
 
 もし私と同じように「日本の美容室高すぎない！？」とショックを受けている外国人の方がいたら、胸を張って日本の1,000円カットをおすすめしたいですね！
+
+---
+
+## 📖 あわせて読みたいカルチャーショック＆サバイバル記事
+
+香港出身のオスカーが体験した、日本のリアルな日常と文化の違い！
+
+* 💇‍♂️ 実戦会話編：[街角サバイバル：美容室の試練｜視界ゼロのシャンプー台で「痒いところは？」と聞かれた勇者の決断](https://nihongo.oscarchair.jp/street-japanese-hair-salon-survival-shampoo-trap-guide/)
+* 💴 お金とマナー：[カルチャーショック：代引きで「お釣り大丈夫です」と言ったら「いやダメです！」と断られた話｜日本にチップ文化がない本当の理由](https://nihongo.oscarchair.jp/culture-shock-cash-on-delivery-refused-tip-keep-the-change/)
+* 🍜 食文化の違い：[カルチャーショック：餃子も炒飯もビーフンも全部「主食」！日本の「炭水化物×炭水化物」文化](https://nihongo.oscarchair.jp/culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli/)
+

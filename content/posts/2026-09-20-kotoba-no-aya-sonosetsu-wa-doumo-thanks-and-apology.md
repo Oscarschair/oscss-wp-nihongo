@@ -148,3 +148,14 @@ description: "「あ、その節はどうも…」の『その節』って一体
 言葉にすべてを語らせず、あえて「余白」を残してお互いの心で埋め合う。  
 次に誰かと久しぶりに再会したときは、ぜひニッコリ笑って言ってみてください。  
 <strong>「あ、その節はどうも…！」</strong>と！
+
+---
+
+## 📖 あわせて読みたい「ことばのあや」関連記事
+
+日本の「本音と建前」や「独特の配慮」をもっと深く知りたい方へのおすすめ記事です！
+
+* 🙇‍♂️ [ことばのあや：「すみません」の7変化｜謝罪・感謝・呼びかけ…なぜ日本人は「ありがとう」の場面でも謝るのか？](https://nihongo.oscarchair.jp/kotoba-no-aya-the-seven-faces-of-sumimasen/)
+* 🔍 [くらべてみました：「ごめんなさい」VS「すみません」の違い｜謝罪表現の使い分け](https://nihongo.oscarchair.jp/japanese-comparing-sorry-excuse-me-differences-in-apology-expressions/)
+* 🎭 [ことばのあや：「大丈夫です」の罠｜YESなの？それともNO？日本人が連発する万能フレーズの解読術](https://nihongo.oscarchair.jp/kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase/)
+

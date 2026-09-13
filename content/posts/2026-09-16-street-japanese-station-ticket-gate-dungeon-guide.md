@@ -151,3 +151,15 @@ ICカードやスマホを駅員さんに手渡すだけで、リーダーにピ
 > それは日本で暮らすすべての人が、一度は経験する<strong>「日常の通過儀礼」</strong>です！  
 >   
 > 今日もポケットにSuicaと小銭を忍ばせて、日本の大都会を冒険しましょう！
+
+---
+
+## 🗺️ 「街角サバイバル」連載バックナンバー＆あわせて読みたい
+
+外国人が直面するリアルな日本の日常を攻略する人気シリーズです！
+
+* 🎮 第1弾：[街角サバイバル：コンビニのレジ攻防戦｜香港では「ほぼ無言」だった私が、日本のレジで勇者の剣を握りしめた理由](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
+* 🎮 第2弾：[街角サバイバル：美容室の試練｜視界ゼロのシャンプー台で「痒いところは？」と聞かれた勇者の決断](https://nihongo.oscarchair.jp/street-japanese-hair-salon-survival-shampoo-trap-guide/)
+* 🎮 第4弾：[街角サバイバル：居酒屋の洗礼｜頼んでないのに出てくる「お通し」の謎と、入店直後の呪文「とりあえず生」の攻略法](https://nihongo.oscarchair.jp/street-japanese-izakaya-survival-guide/)
+* 🚃 電車カルチャーショック：[電車で全員が寝ている！？日本の「居眠り文化」と圧倒的な治安の良さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
+

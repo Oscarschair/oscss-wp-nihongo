@@ -150,3 +150,14 @@ description: "教科書では同じ「否定の強調（Not at all）」とし�
   相手の不安を取り除いてあげたいときや、気さくにポジティブな気持ちを伝えたいときに使う！
 
 この使い分けをマスターすれば、あなたの日本語はただ正しいだけでなく、<strong>相手の心にスッと届く「温かい日本語」</strong>へと進化しますよ！
+
+---
+
+## 📖 あわせて読みたい関連記事
+
+日本語の微妙なニュアンスや「YES/NO」の曖昧さを攻略するおすすめ記事です！
+
+* 🎭 [ことばのあや：「大丈夫です」の罠｜YESなの？それともNO？日本人が連発する万能フレーズの解読術](https://nihongo.oscarchair.jp/kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase/)
+* 🤔 [ことばのあや：「いいです」の話｜YES？それともNO？文脈とトーンで180度変わる日本語の謎](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu/)
+* 🔍 [くらべてみました：「わかる」VS「知る」の違い｜相手への印象が180度変わる理由](https://nihongo.oscarchair.jp/japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing/)
+

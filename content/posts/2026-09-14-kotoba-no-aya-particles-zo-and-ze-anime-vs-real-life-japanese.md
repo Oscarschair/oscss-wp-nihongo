@@ -115,3 +115,14 @@
 - <strong>現実の「よ・ね」</strong> ＝ 人と人をつなぐ思いやりの架け橋
 
 この違いが分かると、日本のアニメも、日本の友人たちとの日常会話も、もっともっと深く楽しめるようになりますよ！
+
+---
+
+## 📖 あわせて読みたい「終助詞マスター」シリーズ
+
+日常会話で自然なニュアンスを伝えるための必須終助詞を徹底解説！
+
+* 🗣️ [ことばのあや：終助詞「よ」の使い方｜相手に情報を届けて効果的に会話するコツ](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-yo-for-effective-conversation/)
+* 🤝 [ことばのあや：終助詞「よね」の使い方｜共感と確認で角を立てない大人の日本語術](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-yone-for-smooth-conversation/)
+* 🍵 [ことばのあや：終助詞「ね」の使い方｜心地よいテンポを生み出す共感の魔法](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-ne-for-a-comfortable-conversation/)
+

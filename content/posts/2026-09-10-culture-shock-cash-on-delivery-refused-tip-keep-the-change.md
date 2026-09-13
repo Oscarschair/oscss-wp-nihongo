@@ -104,3 +104,14 @@
 
 文化が違えば、「親切の形」も全く異なります。  
 日本でサービスを受けるときは、小銭のやり取りまできっちり付き合い、最後にとびきりの笑顔で「ありがとうございました！」と伝えるのが、最高のお返しですね！
+
+---
+
+## 📖 あわせて読みたいカルチャーショック＆日本語マナー
+
+日本の接客マナーと文化の違いをもっと知りたい方へ！
+
+* 🏪 接客サバイバル：[街角サバイバル：コンビニのレジ攻防戦｜香港と日本のレジの違い](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
+* 🧊 サービスの違い：[カルチャーショック：真冬でも氷水！？日本の「冷たいおもてなし」と中華圏の「温かいお湯」文化](https://nihongo.oscarchair.jp/culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture/)
+* 🙇‍♂️ 感謝の伝え方：[ことばのあや：「すみません」の7変化｜なぜ日本人は「ありがとう」の場面でも謝るのか？](https://nihongo.oscarchair.jp/kotoba-no-aya-the-seven-faces-of-sumimasen/)
+
