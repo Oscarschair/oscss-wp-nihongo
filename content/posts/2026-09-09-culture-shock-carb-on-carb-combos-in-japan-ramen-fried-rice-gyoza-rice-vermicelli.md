@@ -86,5 +86,6 @@
 
 * 🧊 [カルチャーショック：真冬でも氷水！？日本の「冷たいおもてなし」と中華圏の「温かいお湯」文化](https://nihongo.oscarchair.jp/culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture/)
 * 🥟 [カルチャーショック：日本の美味しいご飯とお米の形｜本場の中華料理店を探す旅](https://nihongo.oscarchair.jp/culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-restaurant/)
-* 🏮 [街角サバイバル：居酒屋の洗礼｜頼んでないのに出てくる「お通し」の謎と攻略法](https://nihongo.oscarchair.jp/street-japanese-izakaya-survival-guide/)
+
+[oscss_related slug="street-japanese-izakaya-survival-guide" label="あわせて読みたい：居酒屋編"]
 

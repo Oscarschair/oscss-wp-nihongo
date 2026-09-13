@@ -16,10 +16,11 @@ if ( empty( $categories ) ) {
 	return;
 }
 
-// 同一カテゴリーの関連記事を3件取得（現在の記事を除外）
+// 同一カテゴリーの公開済み関連記事を3件取得（現在の記事・予約投稿を除外）
 $args = array(
 	'category__in'        => $categories,
 	'post__not_in'        => array( $current_id ),
+	'post_status'         => 'publish',
 	'posts_per_page'      => 3,
 	'ignore_sticky_posts' => 1,
 	'orderby'             => 'date',
@@ -28,7 +29,7 @@ $args = array(
 
 $related_query = new WP_Query( $args );
 
-// 3件未満の場合は最新記事で補完
+// 3件未満の場合は公開済み最新記事で補完
 if ( $related_query->post_count < 3 ) {
 	$needed   = 3 - $related_query->post_count;
 	$exclude  = array_merge( array( $current_id ), wp_list_pluck( $related_query->posts, 'ID' ) );
@@ -36,6 +37,7 @@ if ( $related_query->post_count < 3 ) {
 		array(
 			'posts_per_page' => $needed,
 			'post__not_in'   => $exclude,
+			'post_status'    => 'publish',
 			'orderby'        => 'date',
 			'order'          => 'DESC',
 		)

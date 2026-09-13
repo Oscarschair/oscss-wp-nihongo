@@ -154,12 +154,7 @@ ICカードやスマホを駅員さんに手渡すだけで、リーダーにピ
 
 ---
 
-## 🗺️ 「街角サバイバル」連載バックナンバー＆あわせて読みたい
+[oscss_series category="street-japanese" title="🗺️ 「街角サバイバル」連載シリーズ"]
 
-外国人が直面するリアルな日本の日常を攻略する人気シリーズです！
-
-* 🎮 第1弾：[街角サバイバル：コンビニのレジ攻防戦｜香港では「ほぼ無言」だった私が、日本のレジで勇者の剣を握りしめた理由](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
-* 🎮 第2弾：[街角サバイバル：美容室の試練｜視界ゼロのシャンプー台で「痒いところは？」と聞かれた勇者の決断](https://nihongo.oscarchair.jp/street-japanese-hair-salon-survival-shampoo-trap-guide/)
-* 🎮 第4弾：[街角サバイバル：居酒屋の洗礼｜頼んでないのに出てくる「お通し」の謎と、入店直後の呪文「とりあえず生」の攻略法](https://nihongo.oscarchair.jp/street-japanese-izakaya-survival-guide/)
-* 🚃 電車カルチャーショック：[電車で全員が寝ている！？日本の「居眠り文化」と圧倒的な治安の良さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
+[oscss_related slug="culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture" label="電車カルチャーショック"]
 

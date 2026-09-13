@@ -103,5 +103,5 @@
 
 * 🚸 [カルチャーショック：手を挙げたら車がピタッと止まってくれた！？日本の横断歩道と交通マナー](https://nihongo.oscarchair.jp/culture-shock-cars-stop-when-you-raise-your-hand-pedestrian-crosswalk-in-japan/)
 * 🚃 [カルチャーショック：電車で全員が寝ている！？日本の「居眠り文化」と圧倒的な治安の良さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
-* 🚇 [街角サバイバル：駅・改札ダンジョン｜日本の複雑な駅と改札トラブルの切り抜け方](https://nihongo.oscarchair.jp/street-japanese-station-ticket-gate-dungeon-guide/)
+
 

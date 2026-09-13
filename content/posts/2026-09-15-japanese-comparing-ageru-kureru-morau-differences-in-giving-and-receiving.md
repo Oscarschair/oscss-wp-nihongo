@@ -117,5 +117,6 @@
 
 * 💡 [くらべてみました：「わかる」VS「知る」の違い｜「知っていますか？」と「分かりますか？」で相手への印象が180度変わる理由](https://nihongo.oscarchair.jp/japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing/)
 * 👋 [くらべてみました：「さようなら」VS「またね」の違い｜なぜ日本人は友達に「さようなら」と言わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions/)
-* ⚖️ [くらべてみました：「全然」VS「全く」の違い｜なぜ「全然大丈夫」は言うのに「全く大丈夫」は言わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-zenzen-and-mattaku-differences/)
+
+[oscss_related slug="japanese-comparing-zenzen-and-mattaku-differences" label="くらべてみました：全然VS全く"]
 

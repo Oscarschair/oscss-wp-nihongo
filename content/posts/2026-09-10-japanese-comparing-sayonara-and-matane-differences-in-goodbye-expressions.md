@@ -93,11 +93,11 @@
 
 ---
 
-## 📖 あわせて読みたい関連記事
+## 📖 あわせて読みたい「くらべてみました」関連記事
 
-別れの挨拶と一緒にマスターしたい、再会マナーと表現の使い分け！
+表現の使い分けとニュアンスの違いをスッキリ解決するおすすめ記事！
 
-* 🤝 [ことばのあや：「その節はどうも…」の謎｜次に再会したときの魔法の挨拶](https://nihongo.oscarchair.jp/kotoba-no-aya-sonosetsu-wa-doumo/)
-* 🎁 [くらべてみました：「あげる」VS「くれる」VS「もらう」の違い｜なぜ日本語には「GIVE」が2つもあるのか？](https://nihongo.oscarchair.jp/japanese-comparing-ageru-kureru-morau-differences-in-giving-and-receiving/)
-* ⚖️ [くらべてみました：「全然」VS「全く」の違い｜なぜ「全然大丈夫」は言うのに「全く大丈夫」は言わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-zenzen-and-mattaku-differences/)
+* 💡 [くらべてみました：「わかる」VS「知る」の違い｜「知っていますか？」と「分かりますか？」で相手への印象が180度変わる理由](https://nihongo.oscarchair.jp/japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing/)
+* 🔍 [くらべてみました：「ごめんなさい」VS「すみません」の違い｜謝罪表現の使い分け](https://nihongo.oscarchair.jp/japanese-comparing-sorry-excuse-me-differences-in-apology-expressions/)
+
 

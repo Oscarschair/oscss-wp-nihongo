@@ -179,11 +179,8 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 
 ---
 
-## 🗺️ 「街角サバイバル」連載バックナンバー
+[oscss_series category="street-japanese" title="🗺️ 「街角サバイバル」連載シリーズ"]
 
-日本で暮らす外国人や旅行者が直面する「日常のダンジョン」を攻略する人気シリーズです！
+[oscss_related slug="culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison" label="散髪代の謎"]
 
-* 🎮 第1弾：[街角サバイバル：コンビニのレジ攻防戦｜香港では「ほぼ無言」だった私が、日本のレジで勇者の剣を握りしめた理由](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
-* 🎮 第3弾：[街角サバイバル：駅・改札ダンジョン｜「ピンポーン！」で赤い扉が閉まった瞬間、勇者が唱える脱出の呪文](https://nihongo.oscarchair.jp/street-japanese-station-ticket-gate-dungeon-guide/)
-* 🎮 第4弾：[街角サバイバル：居酒屋の洗礼｜頼んでないのに出てくる「お通し」の謎と、入店直後の呪文「とりあえず生」の攻略法](https://nihongo.oscarchair.jp/street-japanese-izakaya-survival-guide/)
 

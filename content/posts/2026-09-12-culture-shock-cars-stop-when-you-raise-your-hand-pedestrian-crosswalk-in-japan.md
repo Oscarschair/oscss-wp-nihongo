@@ -118,5 +118,5 @@
 
 * 🎒 [カルチャーショック：小1が1人で電車に乗って登校！？海外なら親が逮捕される「日本の通学事情」に世界が仰天する理由](https://nihongo.oscarchair.jp/culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence/)
 * 🚃 [カルチャーショック：電車で全員が寝ている！？日本の「居眠り文化」と圧倒的な治安の良さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
-* 🙇‍♂️ [ことばのあや：「すみません」の7変化｜街中での会釈やお礼のマナー](https://nihongo.oscarchair.jp/kotoba-no-aya-the-seven-faces-of-sumimasen/)
+
 

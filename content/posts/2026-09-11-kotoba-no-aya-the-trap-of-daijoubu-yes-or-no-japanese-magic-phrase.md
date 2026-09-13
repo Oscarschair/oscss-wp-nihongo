@@ -126,6 +126,6 @@
 日本語特有の「曖昧な表現」と「気遣いのニュアンス」をもっと深く知るおすすめ記事！
 
 * 🤔 [ことばのあや：「いいです」の話｜YES？それともNO？文脈とトーンで180度変わる日本語の謎](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu/)
-* 🔍 [くらべてみました：「全然」VS「全く」の違い｜なぜ「全然大丈夫」は言うのに「全く大丈夫」は言わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-zenzen-and-mattaku-differences/)
 * 🏪 実戦編：[街角サバイバル：コンビニのレジ攻防戦｜「大丈夫です」で断るレジ実践テクニック](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
+
 

@@ -155,12 +155,16 @@ function oscss_related_post_shortcode( $atts ) {
 	$target_post = null;
 	if ( ! empty( $atts['id'] ) ) {
 		$target_post = get_post( (int) $atts['id'] );
+		// 未公開（future等）の場合は非表示にする
+		if ( $target_post && 'publish' !== $target_post->post_status ) {
+			$target_post = null;
+		}
 	} elseif ( ! empty( $atts['slug'] ) ) {
 		$posts = get_posts(
 			array(
 				'name'        => sanitize_title( $atts['slug'] ),
 				'post_type'   => 'post',
-				'post_status' => array( 'publish', 'future' ),
+				'post_status' => 'publish', // 公開済みのみ取得（予約投稿中は非表示）
 				'numberposts' => 1,
 			)
 		);
@@ -170,7 +174,7 @@ function oscss_related_post_shortcode( $atts ) {
 	}
 
 	if ( ! $target_post ) {
-		return '';
+		return ''; // 未公開または存在しない場合は空文字（完全非表示）
 	}
 
 	$post_id   = $target_post->ID;
@@ -203,4 +207,90 @@ function oscss_related_post_shortcode( $atts ) {
 	);
 }
 add_shortcode( 'oscss_related', 'oscss_related_post_shortcode' );
+
+/**
+ * 6. 連載シリーズ自動バックナンバーショートコード
+ * 例: [oscss_series]
+ *     [oscss_series category="street-japanese" title="🗺️ 「街角サバイバル」連載シリーズ"]
+ *
+ * 公開済み（publish）の記事のみを日付昇順（第1弾、第2弾…）で自動表示。
+ * 予約投稿中（future）の記事は絶対に表示されず、公開日を迎えた瞬間に自動でリストに追加されます。
+ */
+function oscss_series_list_shortcode( $atts ) {
+	$current_id = get_the_ID();
+
+	// デフォルトで現在の投稿の最初のカテゴリーを取得
+	$default_cat = '';
+	if ( $current_id ) {
+		$cats = wp_get_post_categories( $current_id );
+		if ( ! empty( $cats ) ) {
+			$term = get_term( $cats[0] );
+			if ( $term && ! is_wp_error( $term ) ) {
+				$default_cat = $term->slug;
+			}
+		}
+	}
+
+	$atts = shortcode_atts(
+		array(
+			'category' => $default_cat,
+			'title'    => '🗺️ 連載バックナンバー（公開済みエピソード）',
+		),
+		$atts,
+		'oscss_series'
+	);
+
+	if ( empty( $atts['category'] ) ) {
+		return '';
+	}
+
+	// 公開済み（publish）の記事のみを日付昇順で取得
+	$posts = get_posts(
+		array(
+			'category_name' => sanitize_title( $atts['category'] ),
+			'post_status'   => 'publish',
+			'orderby'       => 'date',
+			'order'         => 'ASC',
+			'numberposts'   => 50,
+		)
+	);
+
+	if ( empty( $posts ) ) {
+		return '';
+	}
+
+	$title      = esc_html( $atts['title'] );
+	$items_html = '';
+	$index      = 1;
+
+	foreach ( $posts as $p ) {
+		$is_current = ( $p->ID === $current_id );
+		$item_title = esc_html( get_the_title( $p->ID ) );
+		$url        = esc_url( get_permalink( $p->ID ) );
+
+		if ( $is_current ) {
+			$items_html .= sprintf(
+				'<li class="c-series-list__item c-series-list__item--current"><span class="c-series-list__badge">第%d弾</span><span class="c-series-list__text">%s</span><span class="c-series-list__current-label">（今読んでいる記事）</span></li>',
+				$index,
+				$item_title
+			);
+		} else {
+			$items_html .= sprintf(
+				'<li class="c-series-list__item"><span class="c-series-list__badge">第%d弾</span><a href="%s" class="c-series-list__link">%s</a></li>',
+				$index,
+				$url,
+				$item_title
+			);
+		}
+		$index++;
+	}
+
+	return sprintf(
+		'<aside class="c-series-box"><div class="c-series-box__header">%s</div><ul class="c-series-list">%s</ul></aside>',
+		$title,
+		$items_html
+	);
+}
+add_shortcode( 'oscss_series', 'oscss_series_list_shortcode' );
+
 

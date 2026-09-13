@@ -179,17 +179,13 @@ description: "香港のレストランはお茶代だけで小鉢は出ない。
 
 * **お通し**は「席料＆最初のスピードおつまみ」として楽しむ！
 * 入店直後は無理せず**「ウーロン茶で！」**と堂々と言う！
-* 注文したい時は手を挙げて元気よく**「すみませ〜ん！」**！（※なぜ「すみません」が万能なのかは、[ことばのあや：「すみません」の7変化](https://nihongo.oscarchair.jp/kotoba-no-aya-the-seven-faces-of-sumimasen/)で徹底解説しています！）
+* 注文したい時は手を挙げて元気よく<strong>「すみませ〜ん！」</strong>！
+
+[oscss_related slug="kotoba-no-aya-the-seven-faces-of-sumimasen" label="あわせて読みたい：すみませんの7変化"]
 
 この3つさえ押さえておけば、あなたも今日から居酒屋マスターです。今夜はぜひ、お気に入りの赤提灯の暖簾をくぐってみてくださいね！
 
 ---
 
-## 🗺️ 「街角サバイバル」連載バックナンバー
-
-日本で暮らす外国人や旅行者が直面する「日常のダンジョン」を攻略する人気シリーズです。あわせてチェックしてみてください！
-
-* 🎮 第1弾：[街角サバイバル：コンビニのレジ攻防戦｜香港では「ほぼ無言」だった私が、日本のレジで勇者の剣を握りしめた理由](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
-* 🎮 第2弾：[街角サバイバル：美容室の試練｜視界ゼロのシャンプー台で「痒いところは？」と聞かれた勇者の決断](https://nihongo.oscarchair.jp/street-japanese-hair-salon-survival-shampoo-trap-guide/)
-* 🎮 第3弾：[街角サバイバル：駅・改札ダンジョン｜「ピンポーン！」で赤い扉が閉まった瞬間、勇者が唱える脱出の呪文](https://nihongo.oscarchair.jp/street-japanese-station-ticket-gate-dungeon-guide/)
+[oscss_series category="street-japanese" title="🗺️ 「街角サバイバル」連載シリーズ"]
 
