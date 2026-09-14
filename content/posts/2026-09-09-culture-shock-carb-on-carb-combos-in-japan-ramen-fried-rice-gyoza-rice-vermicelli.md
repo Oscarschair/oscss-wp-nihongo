@@ -31,6 +31,8 @@
 
 もし香港の食堂で「チャーハンと白ご飯」や「水餃子と白ご飯」を同時に注文したら、店員さんに「えっ、主食を2つ食べるの……？」と不思議そうな顔をされてしまうレベルです（笑）。
 
+![日本のラーメン屋で「ラーメン＋チャーハン＋餃子＋白ご飯」の炭水化物コンボを前に「全部主食！？」と目を丸くするクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/carb-on-carb-ramen-fried-rice-gyoza.jpg)
+
 ---
 
 ## 🍚 なぜ日本の食卓では「主食×主食」が成立するのか？

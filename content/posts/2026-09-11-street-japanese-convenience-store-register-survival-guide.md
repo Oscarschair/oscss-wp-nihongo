@@ -48,6 +48,8 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 
 あの時、私の脳内では完全に<strong>「勇者の剣と盾を握りしめ、ボスのコマンド選択画面の前に立ち尽くすRPGバトル」</strong>が始まっていました。
 
+![コンビニのレジで「温めますか？」「袋いりますか？」の質問攻めに遭い、アワアワと防戦するクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/convenience-register-rapid-questions.jpg)
+
 ---
 
 ## 2. コンビニレジの「3大トラップ」と攻略コマンド

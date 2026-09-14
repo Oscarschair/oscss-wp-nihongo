@@ -92,6 +92,8 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 
 この瞬間、私たちは<strong>「視界を完全に奪われた状態（盲目デバフ）」</strong>になります。相手の表情も、手の動きも一切見えません。全神経を耳だけに研ぎ澄ませたその時、頭上からあの質問が降ってくるのです。
 
+![美容室のシャンプー台で目隠しガーゼを乗せられ、「痒いところは？」と聞かれてどう答えるべきか葛藤するクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/hair-salon-shampoo-trap-blindfolded.jpg)
+
 ### トラップ質問①：「痒いところはございませんか？」
 
 > <strong>美容師さん</strong>：「〜〜様、お湯加減はいかがですか？ 痒いところはございませんか？」  

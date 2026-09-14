@@ -40,6 +40,8 @@ description: "香港の地下鉄は残高マイナスでも出してくれる。
 
 当時の私の心臓は、まさに<strong>「落とし穴トラップを踏んでHPがゼロになった勇者」</strong>のように凍りつきました。
 
+![駅の自動改札で「ピンポーン！」と赤い扉が閉まり、背後の通勤客の視線に冷や汗を流すクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/station-ticket-gate-alarm-close.jpg)
+
 ```
 【 じどうかいさつ が あらわれた！ 】
 --------------------------------------------------
