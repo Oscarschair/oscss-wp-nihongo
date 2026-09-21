@@ -21,7 +21,10 @@ $series_cats = oscss_get_series_categories();
 				<div class="l-footer__brand-header">
 					<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/my-icon.png' ); ?>" alt="<?php esc_attr_e( 'オスカー', 'oscss-wp-nihongo' ); ?>" class="l-footer__avatar" width="48" height="48" style="width: 48px; height: 48px; border-radius: 50%; object-fit: cover;" loading="lazy">
 					<div class="l-footer__brand-titles">
-						<div class="l-footer__brand-title"><?php bloginfo( 'name' ); ?></div>
+						<div class="l-footer__brand-title">
+							<span class="l-footer__brand-title-main"><?php bloginfo( 'name' ); ?></span>
+							<span class="l-footer__brand-title-sub">Oscar’s Japanese Notebook</span>
+						</div>
 						<p class="l-footer__brand-tagline"><?php bloginfo( 'description' ); ?></p>
 					</div>
 				</div>
@@ -30,7 +33,7 @@ $series_cats = oscss_get_series_categories();
 				</p>
 				<div class="l-footer__brand-links">
 					<a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer" class="l-footer__ext-link">
-						<span>🌐 クルマのAIノート（メインサイト）</span> &rarr;
+						<span>🌐 オスカーのAIノート（メインサイト）</span> &rarr;
 					</a>
 				</div>
 			</div>
@@ -92,7 +95,7 @@ $series_cats = oscss_get_series_categories();
 				<?php foreach ( $series_cats as $key => $cat_info ) : ?>
 					<li><a href="<?php echo esc_url( oscss_get_series_category_url( $key ) ); ?>"><?php echo esc_html( $cat_info['name'] ); ?></a></li>
 				<?php endforeach; ?>
-				<li><a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer">クルマのAIノートへ</a></li>
+				<li><a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer">オスカーのAIノートへ</a></li>
 			</ul>
 			<p class="l-footer__copyright">
 				&copy; <?php echo esc_html( gmdate( 'Y' ) ); ?> <?php bloginfo( 'name' ); ?>. All Rights Reserved.

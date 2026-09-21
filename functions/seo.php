@@ -51,11 +51,35 @@ function oscss_seo_meta_tags() {
 			}
 		}
 	} elseif ( is_category() ) {
+		$cat       = get_queried_object();
 		$cat_title = single_cat_title( '', false );
 		$og_title  = $cat_title . 'の記事一覧 | ' . $site_name;
-		$cat_desc  = category_description();
-		$og_desc   = ! empty( $cat_desc ) ? wp_strip_all_tags( $cat_desc ) : sprintf( '「%s」に関するオスカーの日本語学習ノート・解説記事一覧です。', $cat_title );
-		$og_type   = 'object';
+		$cat_slug  = isset( $cat->slug ) ? $cat->slug : '';
+
+		// 未分類（uncategorized）または記事数0のカテゴリーは noindex にして検索汚染を防止
+		if ( 'uncategorized' === $cat_slug || ( isset( $cat->count ) && 0 === (int) $cat->count ) ) {
+			$robots = 'noindex, follow';
+		}
+
+		$cat_desc = category_description();
+		if ( ! empty( $cat_desc ) ) {
+			$og_desc = wp_strip_all_tags( $cat_desc );
+		} else {
+			// カテゴリー別の特化ディスクリプション（各連載の魅力を具体的に要約）
+			$cat_specific_descs = array(
+				'culture-shock'   => '香港と日本の文化の違いや生活習慣のギャップに驚いた実体験を徹底解説！真冬の氷水、街中にゴミ箱がない理由、主食×主食の炭水化物コンボ、散髪代5,000円など、外国人視点で発見した日本の面白い日常と文化の深層をお届けします。',
+				'comparing'       => '似ているけれどニュアンスが全く違う日本語を徹底比較！「全然」VS「全く」、「さようなら」VS「またね」、「あげる」VS「くれる」など、教科書では教えてくれない日常会話のリアルな使い分けを香港出身のオスカーが分かりやすく解説します。',
+				'kotoba-no-aya'   => '「大丈夫です」「その節はどうも…」「すみません」など、文脈やトーンで意味が180度変わる日本語の「ことばのあや」を深掘り！終助詞「ぞ・ぜ・ね・よ」の微妙なニュアンスや、日本人の本音と建前を外国人視点から分かりやすく解き明かします。',
+				'street-japanese' => 'コンビニのレジ、駅の自動改札、居酒屋、美容室、カフェ注文など、教科書には載っていない日本のリアルな日常現場で生き残るための実践的日本語とマナーをRPG風に楽しく攻略する実践サバイバルガイドです。',
+			);
+
+			if ( isset( $cat_specific_descs[ $cat_slug ] ) ) {
+				$og_desc = $cat_specific_descs[ $cat_slug ];
+			} else {
+				$og_desc = sprintf( '香港出身のオスカーが外国人視点で解説する「%s」に関する日本語学習ノート・解説記事一覧です。', $cat_title );
+			}
+		}
+		$og_type = 'object';
 	} elseif ( is_tag() ) {
 		$tag_title = single_tag_title( '', false );
 		$og_title  = '#' . $tag_title . ' の記事一覧 | ' . $site_name;
@@ -359,3 +383,33 @@ function oscss_cleanup_wp_head() {
 	remove_filter( 'wp_mail', 'wp_staticize_emoji_for_email' );
 }
 add_action( 'init', 'oscss_cleanup_wp_head' );
+
+/**
+ * 5. 旧カテゴリースラッグの 301 リダイレクト（SEO評価の継承・404防止）
+ */
+function oscss_legacy_category_redirect() {
+	if ( is_admin() ) {
+		return;
+	}
+
+	$request_uri = isset( $_SERVER['REQUEST_URI'] ) ? rawurldecode( $_SERVER['REQUEST_URI'] ) : '';
+
+	// 旧ことばのあや -> 新 kotoba-no-aya
+	if ( strpos( $request_uri, '/category/aya-of-words' ) !== false ) {
+		wp_safe_redirect( home_url( '/category/kotoba-no-aya/' ), 301 );
+		exit;
+	}
+
+	// 旧くらべてみました (日本語スラッグ等) -> 新 comparing
+	if ( strpos( $request_uri, '/category/くらべてみました' ) !== false || strpos( $request_uri, '/category/comparing-japanese' ) !== false ) {
+		wp_safe_redirect( home_url( '/category/comparing/' ), 301 );
+		exit;
+	}
+
+	// 旧カルチャーショック (日本語スラッグ) -> 新 culture-shock
+	if ( strpos( $request_uri, '/category/カルチャーショック' ) !== false ) {
+		wp_safe_redirect( home_url( '/category/culture-shock/' ), 301 );
+		exit;
+	}
+}
+add_action( 'template_redirect', 'oscss_legacy_category_redirect' );

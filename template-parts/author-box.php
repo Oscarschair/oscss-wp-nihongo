@@ -27,7 +27,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 			香港出身の日本語学習者・日本在住。日本語の「ことばのあや」や文化の違い、日常で感じたカルチャーショックを外国人視点から分かりやすく発信しています。
 		</p>
 		<a href="https://oscarchair.jp/" target="_blank" rel="author me external noopener noreferrer" class="c-author-box__link" itemprop="url">
-			<span>🌐 メインサイト（クルマのAIノート / ポートフォリオ）を見る</span> &rarr;
+			<span>🌐 メインサイト（オスカーのAIノート / ポートフォリオ）を見る</span> &rarr;
 		</a>
 	</div>
 </div>

@@ -28,16 +28,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 <header class="l-header" id="site-header">
 	<div class="l-container l-header__inner">
 		<div class="l-header__branding">
+			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="l-header__logo-text" rel="home">
+				<span class="l-header__logo-main"><?php bloginfo( 'name' ); ?></span>
+				<span class="l-header__logo-sub">Oscar’s Japanese Notebook</span>
+			</a>
 			<?php
-			if ( has_custom_logo() ) {
-				the_custom_logo();
-			} else {
-				?>
-				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="l-header__logo-text" rel="home">
-					<?php bloginfo( 'name' ); ?>
-				</a>
-				<?php
-			}
 			$description = get_bloginfo( 'description', 'display' );
 			if ( $description || is_customize_preview() ) :
 				?>
