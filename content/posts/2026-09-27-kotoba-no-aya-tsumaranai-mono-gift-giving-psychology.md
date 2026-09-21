@@ -57,7 +57,7 @@ tags:
 
 「つまらないものですから、どうかお気兼ねなく受け取ってくださいね」という、相手への精神的な気遣いでもあるのです。
 
-![桐箱に入った高級メロンをつまらないものと言われて驚くクルマ](assets/images/posts/gift-melon-tsumaranai-confusion.jpg)
+![桐箱に入った高級メロンをつまらないものと言われて驚くクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/gift-melon-tsumaranai-confusion.jpg)
 
 ---
 

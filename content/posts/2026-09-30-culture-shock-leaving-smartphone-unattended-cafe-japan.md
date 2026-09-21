@@ -42,7 +42,7 @@ tags:
 理由はとてもシンプルです。
 日本のカフェでは、<strong>「注文する前に、まず自分の座る席を確保（キープ）しなければならない」</strong>という暗黙のルール（通称：<strong>席取り・場所取り</strong>）があるからです！
 
-![カフェのテーブルにスマホを置いたまま席を離れる光景に目を丸くして驚くクルマ](assets/images/posts/cafe-leaving-smartphone-unattended-confusion-v2.jpg)
+![カフェのテーブルにスマホを置いたまま席を離れる光景に目を丸くして驚くクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/cafe-leaving-smartphone-unattended-confusion-v2.jpg)
 
 ### ☕ 「注文後に行き場を失う」恐怖！
 海外のカフェでは、レジで注文してドリンクを受け取ってから空いている席を探すスタイルも一般的です。

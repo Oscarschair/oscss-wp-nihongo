@@ -44,7 +44,7 @@ tags:
 冒頭のオフィスでの会話で、なぜ上司が不安になったのか、もう分かりましたね！
 上司は「90%くらい確実に間に合うか」を聞いていたのに、クルマが<strong>「たぶん（＝50%の確率で半信半疑）」</strong>と答えてしまったため、「えっ、半分くらいの確率で遅れるってこと!?」とパニックになってしまったのです。
 
-![たぶん・おそらく・きっとのメーターを比べるクルマ](assets/images/posts/weather-forecast-tabun-osoraku-kitto-scale-single.jpg)
+![たぶん・おそらく・きっとのメーターを比べるクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/weather-forecast-tabun-osoraku-kitto-scale-single.jpg)
 
 ---
 

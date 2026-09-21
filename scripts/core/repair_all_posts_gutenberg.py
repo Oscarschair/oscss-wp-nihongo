@@ -166,6 +166,9 @@ def md_to_gutenberg(md_text):
             m = re.match(r'^!\[(.*?)\]\((.*?)\)', line)
             if m:
                 alt_text, img_url = m.groups()
+                if not img_url.startswith(('http://', 'https://')):
+                    clean_rel = img_url.lstrip('/')
+                    img_url = f"https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/{clean_rel}"
                 blocks.append(f"""<!-- wp:image {{"sizeSlug":"large","linkDestination":"none"}} -->
 <figure class="wp-block-image size-large"><img src="{img_url}" alt="{alt_text}"/><figcaption class="wp-element-caption">{alt_text}</figcaption></figure>
 <!-- /wp:image -->""")

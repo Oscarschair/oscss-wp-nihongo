@@ -48,7 +48,7 @@ tags:
 
 と極限まで気合を入れてしまい、結果として「そこそこで良かったのに…」と肩透かしを食らってしまうのです。
 
-![適当にやっておいてと言われて悩むオフィスシーン](assets/images/posts/office-boss-tekitou-confusion.jpg)
+![適当にやっておいてと言われて悩むオフィスシーン](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/office-boss-tekitou-confusion.jpg)
 
 ---
 

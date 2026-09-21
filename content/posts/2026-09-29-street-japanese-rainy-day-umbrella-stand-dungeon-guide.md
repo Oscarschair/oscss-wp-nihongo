@@ -48,7 +48,7 @@ tags:
 特に恐ろしいのが<strong>「3. 負の連鎖」</strong>です！
 雨の日に誰か1人が間違えて他人の傘を持って行くと、傘を失った次の人が「濡れて帰れないから」と別の傘を持ち去り、ドミノ倒しのように次々と傘が入れ替わっていくのです。
 
-![雨の日の傘立てで傘が消えて困惑するクルマ](assets/images/posts/rainy-day-umbrella-disappearance-confusion.jpg)
+![雨の日の傘立てで傘が消えて困惑するクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/rainy-day-umbrella-disappearance-confusion.jpg)
 
 ---
 

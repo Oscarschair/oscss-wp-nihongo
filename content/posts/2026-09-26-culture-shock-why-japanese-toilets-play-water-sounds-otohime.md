@@ -41,7 +41,7 @@ tags:
 
 しかし、日本では古くから<strong>「他人に自分の排泄音を聞かれるのは、穴があったら入りたいほど恥ずかしい！」</strong>という強烈な羞恥心（恥じらいの文化）がありました。
 
-![トイレの個室で音姫が鳴り響いて驚くクルマ](assets/images/posts/toilet-otohime-sound-confusion.jpg)
+![トイレの個室で音姫が鳴り響いて驚くクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/toilet-otohime-sound-confusion.jpg)
 
 実はこの「音消し」の歴史はものすごく古く、なんと<strong>江戸時代（約200年前）</strong>にまで遡ります！
 
