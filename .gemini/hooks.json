@@ -44,6 +44,13 @@
       {
         "description": "マルチデバイス（PC 1280px / SP 375px）画面崩れ・レイアウト検証チェック"
       }
+    ],
+    "scheduled_weekly": [
+      {
+        "agent": "seo-reviewer",
+        "cron": "0 9 * * 1",
+        "description": "毎週月曜朝9時の本番サイト（https://nihongo.oscarchair.jp）週次定期SEO包括監査（タイトル・メタタグ・見出し構造・alt属性・JSON-LD・内部リンク）"
+      }
     ]
   }
 }

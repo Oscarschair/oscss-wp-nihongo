@@ -117,6 +117,10 @@
 9. **E-E-A-T ＆ トーン**: 主人公オスカーの親しみやすく知的なトーンの一貫性。
 10. **URLスラッグ**: 英数字ハイフン区切りのクリーンなスラッグ設計。
 
+### 毎週定期SEO監査スケジュール (Weekly Scheduled SEO Review)
+- **定期実行トリガー**: 毎週月曜日 朝 09:00:00（JST）（cron: `0 9 * * 1`）
+- **実行内容**: `scripts/audit/live_seo_reviewer_check.py` および `scripts/audit/audit_site_seo.py` を実行し、全記事・カテゴリーのタイトルタグ、メタディスクリプション、見出し階層、alt属性、JSON-LD構造化データ、トピッククラスターリンク、およびGSC流入キーワードの健全性を包括監査する。
+
 ---
 
 ## 🎨 サムネイル画像レビュー ＆ 投稿ライフサイクルフック (Mandatory Image Reviewer Hooks)
