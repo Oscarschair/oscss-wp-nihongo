@@ -61,19 +61,12 @@ tags:
 
 1970〜1980年代、オフィスや学校、デパートの女性用トイレでは、排泄音を消すために<strong>「用を足す前に1回、用を足している最中に1回、最後に流すために1回」と、1回のトイレで2〜3回も水を流すのが当たり前</strong>になっていました。
 
-```mermaid
-flowchart LR
-    A["トイレに入る"] --> B["【1回目】音消しで流す（15L消費）"]
-    B --> C["【2回目】途中で流す（15L消費）"]
-    C --> D["【3回目】最後に流す（15L消費）"]
-    D --> E["合計 30〜45リットルの水を浪費！"]
-    
-    style A fill:#E8F5E9,stroke:#2E7D32,stroke-width:2px
-    style B fill:#FFEBEE,stroke:#C62828,stroke-width:2px
-    style C fill:#FFEBEE,stroke:#C62828,stroke-width:2px
-    style D fill:#FFEBEE,stroke:#C62828,stroke-width:2px
-    style E fill:#FFF3E0,stroke:#E65100,stroke-width:3px
-```
+> 🚽 <strong>当時のトイレで起きていた「水浪費の連鎖」</strong>
+> 
+> * <strong>【1回目】</strong> 入ってすぐ、音消しのために流す（約15L）
+> * <strong>【2回目】</strong> 用を足している途中で、もう一度流す（約15L）
+> * <strong>【3回目】</strong> 最後に便器をきれいにするために流す（約15L）
+> * 💥 <strong>合計：たった1回のトイレで「30〜45リットル」の水を浪費！</strong>
 
 当時の水洗トイレは、1回流すだけで<strong>約15〜20リットル</strong>もの水を消費していました。
 3回流せば、なんと<strong>1回あたり45リットル以上もの貴重な水道水</strong>が「音を消すためだけ」に下水へ消えていたのです！
