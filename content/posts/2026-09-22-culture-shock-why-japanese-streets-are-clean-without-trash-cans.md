@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：街中にゴミ箱が一切ないのに、なぜ道が綺麗なの！？香港の「数十m間隔の設置ルール」とのギャップと日本人の驚異の持ち帰り文化"
+title: "カルチャーショック：街中にゴミ箱がないのになぜ綺麗？香港との違いと日本人の持ち帰り文化"
 slug: "culture-shock-why-japanese-streets-are-clean-without-trash-cans"
 date: "2026-09-22T08:00:00+09:00"
 categories:
@@ -14,8 +14,8 @@ thumbnail: "assets/images/thumbnails/thumb-culture-no-trash-cans-clean-streets.j
 description: "香港には数十メートルおきにゴミ箱を設置する法律・基準があり、ポイ捨ては即座に高額罰金。一方、日本の街角にはゴミ箱が一切ないのに、なぜ道はピカピカなのか？自販機横の「リサイクルBOX」の罠と、日本人がゴミを持ち帰る3つの秘密。"
 ---
 
-> 💬 <strong>クルマ（オスカー）</strong>  
-> こんにちは、香港出身のクルマ（オスカー）です！  
+> 💬 <strong>オスカー</strong>  
+> こんにちは、香港出身のオスカーです！  
 > 私が日本に来て、旅行者としても留学生としても最初に激しく打ちのめされた「最大の謎」があります。  
 > それは、コンビニで買った肉まんを食べ、自動販売機でお茶を飲み終えた後のことでした。  
 >   
@@ -84,13 +84,13 @@ description: "香港には数十メートルおきにゴミ箱を設置する法
 街中にゴミ箱がない日本で、外国人旅行者が100%引っかかる<strong>「超トラップ」</strong>が存在します。  
 そう、街角のいたるところにある<strong>自動販売機の横に置かれた青いボックス</strong>です！
 
-![自販機横のリサイクルBOXに一般ゴミを捨てそうになり、ペットボトル専用だと気づいて驚くクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/recycle-box-not-trash-can-confusion.jpg)
+![自販機横のリサイクルBOXに一般ゴミを捨てそうになり、ペットボトル専用だと気づいて驚くオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/recycle-box-not-trash-can-confusion.jpg)
 
 「あ！ やっとゴミ箱見つけたー！！」と歓喜して駆け寄り、持っていたお菓子の箱やファストフードの包み紙をねじ込もうとすると……
 
 穴が小さくて丸い形をしていて、よく見ると<strong>「カン・ビン・ペットボトル専用」「一般ゴミは入れないでください」</strong>という注意書きが！
 
-> 💬 <strong>クルマ（オスカー）</strong>  
+> 💬 <strong>オスカー</strong>  
 > 「ええっ！？ これゴミ箱じゃないの！？ 自販機の横にあるのに、飲み物の容器しか捨てちゃダメなの！？」
 
 これは「ゴミ箱（Trash Can）」ではなく、飲料メーカーがリサイクル資源を回収するために設置している<strong>「リサイクル専用BOX（Recycling Bin）」</strong>なのです。ここに弁当の容器やお菓子のゴミを押し込むのは、立派なマナー違反（不法投棄）になってしまいます。

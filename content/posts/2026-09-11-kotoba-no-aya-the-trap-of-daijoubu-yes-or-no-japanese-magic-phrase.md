@@ -1,4 +1,18 @@
-# ことばのあや：「大丈夫です」の罠｜YESなの？それともNO？日本人が連発する万能フレーズの解読術
+---
+title: "ことばのあや：「大丈夫です」の罠｜YESなの？それともNO？日本人が連発する万能フレーズの解読術"
+slug: "kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase"
+date: "2026-09-11T08:00:00+09:00"
+categories:
+  - "kotoba-no-aya"
+tags:
+  - "ことばのあや"
+  - "大丈夫"
+  - "YESとNO"
+  - "接客日本語"
+  - "クッション言葉"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-daijoubu-trap.jpg"
+description: "「レシート大丈夫です」はNOなのに、「この席大丈夫です」はYES！？肯定と否定の両方で使われる日本の魔法の言葉「大丈夫」。イントネーション・手振り・表情から真意を一瞬で見分ける解読術を分かりやすく解説。"
+---
 
 > 💬 <strong>オスカー</strong>  
 > こんにちは、香港出身のオスカーです！  
@@ -128,4 +142,9 @@
 * 🤔 [ことばのあや：「いいです」の話｜YES？それともNO？文脈とトーンで180度変わる日本語の謎](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu/)
 * 🏪 実戦編：[街角サバイバル：コンビニのレジ攻防戦｜「大丈夫です」で断るレジ実践テクニック](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
 
+---
 
+## 📖 あわせて読みたい関連記事
+
+[oscss_related slug="kotoba-no-aya-the-seven-faces-of-sumimasen" label="ことばのあや：「すみません」の7変化"]
+[oscss_related slug="street-japanese-convenience-store-register-survival-guide" label="街角サバイバル：コンビニレジ攻防戦"]

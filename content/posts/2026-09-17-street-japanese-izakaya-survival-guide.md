@@ -130,7 +130,7 @@ description: "香港のレストランはお茶代だけで小鉢は出ない。
 > <strong>店員さん</strong>：（スタスタスタ……気づかずに通過）  
 > <strong>当時の私</strong>：（うう……全然聞こえてない……いつ声をかければいいんだ……）
 
-![賑やかな居酒屋で店員さんに声が届かず、素通りされて困惑するクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/izakaya-calling-waiter-miss.jpg)
+![賑やかな居酒屋で店員さんに声が届かず、素通りされて困惑するオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/izakaya-calling-waiter-miss.jpg)
 
 周囲の視線を気にしすぎて声が小さくなると、店員さんは100%通り過ぎていきます。
 
@@ -188,4 +188,4 @@ description: "香港のレストランはお茶代だけで小鉢は出ない。
 ---
 
 [oscss_series category="street-japanese" title="🗺️ 「街角サバイバル」連載シリーズ"]
-
+[oscss_related slug="culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli" label="カルチャーショック：餃子も炒飯も全部「主食」！？"]

@@ -1,4 +1,18 @@
-# カルチャーショック：手を挙げたら車がピタッと止まってくれた！？日本の横断歩道と海外の「命がけの道路横断」
+---
+title: "カルチャーショック：手を挙げたら車がピタッと止まってくれた！？日本の横断歩道と海外の「命がけの道路横断」"
+slug: "culture-shock-cars-stop-when-you-raise-your-hand-pedestrian-crosswalk-in-japan"
+date: "2026-09-12T08:00:00+09:00"
+categories:
+  - "culture-shock"
+tags:
+  - "カルチャーショック"
+  - "横断歩道"
+  - "交通マナー"
+  - "歩行者優先"
+  - "日本と海外"
+thumbnail: "assets/images/thumbnails/thumb-culture-cars-stop.jpg"
+description: "香港や海外では「車が途切れる隙を狙って命がけでダッシュ」が当たり前。なのに日本の信号のない横断歩道で右手をピッと挙げたら、車がスーッと減速して完全停止！？日本の歩行者優先文化とドライバーの優しさに感動した話。"
+---
 
 > 💬 <strong>オスカー</strong>  
 > こんにちは、香港出身のオスカーです！  
@@ -119,4 +133,9 @@
 * 🎒 [カルチャーショック：小1が1人で電車に乗って登校！？海外なら親が逮捕される「日本の通学事情」に世界が仰天する理由](https://nihongo.oscarchair.jp/culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence/)
 * 🚃 [カルチャーショック：電車で全員が寝ている！？日本の「居眠り文化」と圧倒的な治安の良さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
 
+---
 
+## 📖 あわせて読みたい関連記事
+
+[oscss_related slug="culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence" label="カルチャーショック：小1の単独登校に世界が仰天"]
+[oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：街中にゴミ箱がない謎"]

@@ -79,20 +79,20 @@ description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に
 <strong>「あなたに親切にしてもらったのに、私はお返しもできず、心がすっきり収まりません（＝申し訳ない気持ちでいっぱいです）」</strong>  
 という、相手に対する<strong>「恐縮・負い目の感覚」</strong>を表しているのです。
 
-### エレベーターの扉に見る「感謝＋配慮」のハイブリッド
+### 街中で落としたハンカチに見る「感謝＋配慮」のハイブリッド
 
-例えば、あなたが小走りでエレベーターに向かっている時、中の人が「開」ボタンを押して待っていてくれたとします。
+例えば、あなたが街中でハンカチを落としてしまい、後ろを歩いていた人が「落としましたよ！」と笑顔で拾ってくれたとします。
 
 このとき、日本人の脳内では2つの感情が同時に発生しています。
 
-1. <strong>感謝</strong>：「待ってくれて嬉しい！助かった！」
-2. <strong>申し訳なさ（配慮）</strong>：「私のせいでエレベーターの発進を遅らせてしまった…！相手の手を煩わせてしまった…！」
+1. <strong>感謝</strong>：「わざわざ拾って届けてくれて嬉しい！親切だな！」
+2. <strong>申し訳なさ（配慮）</strong>：「私の不注意のせいで、相手に足を止めさせ、腰をかがませる手間をかけさせてしまった…！」
 
-この<strong>「感謝」と「申し訳なさ」が50%ずつブレンドされた結果、口から飛び出すのが「すみません！」</strong>なのです。
+この<strong>「感謝」と「申し訳なさ（恐縮）」が50%ずつブレンドされた結果、思わず両手を合わせて口から飛び出すのが「わっ、すみません！！」</strong>なのです。
 
-![エレベーターを開けて待ってくれた人に恐縮しながら「すみません！」と頭を下げるクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/sumimasen-elevator-courtesy.jpg)
+![街中で落としたハンカチを親切に拾ってもらい恐縮しながら「わっ、すみません！！」と頭を下げるオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/sumimasen-handkerchief-apology-thanks.jpg)
 
-欧米や香港の文化では「相手の親切は100%ポジティブに受け取って『Thank you!』と返す」のが基本ですが、日本の文化では<strong>「相手に余計な負担をかけてしまったことへの気遣い」を先に言葉にするのが最高の礼儀</strong>だと考えられているのです。
+欧米や香港の文化では「相手の親切は100%ポジティブに受け取って『Thank you!』と返す」のが自然ですが、日本の文化では<strong>「相手に余計な負担をかけてしまったことへの気遣い・負い目」を先に言葉にするのが最高の礼儀</strong>だと考えられているのです。
 
 ---
 
@@ -143,4 +143,4 @@ description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に
 * 🏮 実戦編：[街角サバイバル：居酒屋の洗礼｜入店直後の呪文「とりあえず生」と店員呼び出しの攻略法](https://nihongo.oscarchair.jp/street-japanese-izakaya-survival-guide/)
 
 [oscss_related slug="kotoba-no-aya-sonosetsu-wa-doumo" label="ことばのあや：その節はどうも"]
-
+[oscss_related slug="kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase" label="ことばのあや：「大丈夫です」の罠"]

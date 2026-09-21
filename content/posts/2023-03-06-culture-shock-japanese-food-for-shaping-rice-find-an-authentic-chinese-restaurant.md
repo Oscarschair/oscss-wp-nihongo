@@ -87,3 +87,10 @@ description: "日本の食卓では一般的な「おにぎり」や「ご飯の
 今後もこうした体験談や文化の違いを発信していきますので、ぜひお楽しみに！
 
 今日も最後まで読んでいただき、ありがとうございました。それでは！
+
+---
+
+## 📖 あわせて読みたい関連記事
+
+[oscss_related slug="culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli" label="カルチャーショック：餃子も炒飯も主食！？炭水化物×炭水化物文化"]
+[oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：街中にゴミ箱がないのになぜ綺麗？"]

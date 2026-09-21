@@ -48,7 +48,7 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 
 あの時、私の脳内では完全に<strong>「勇者の剣と盾を握りしめ、ボスのコマンド選択画面の前に立ち尽くすRPGバトル」</strong>が始まっていました。
 
-![コンビニのレジで「温めますか？」「袋いりますか？」の質問攻めに遭い、アワアワと防戦するクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/convenience-register-rapid-questions.jpg)
+![コンビニのレジで温かいお弁当と冷たいお茶を袋詰めする際、「熱いのと冷たいのを一緒にして大丈夫ですか？」と細やかに確認してくれる店員さん](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/convenience-register-rapid-questions.jpg)
 
 ---
 
@@ -85,7 +85,8 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 
 * <strong>聞こえ方</strong>：「ｵｱﾀﾀﾒｼﾏｽｶ?」「ｱﾀﾀﾒﾃﾞﾖﾛｼｲﾃﾞｽｶ?」
 * ⚠️ <strong>初心者のトラップ</strong>：  
-  <strong>「冷たいペットボトルのお茶」とお弁当を同時に出したとき</strong>に、「温めますか？」に対して元気に「はい！」と答えてしまうこと。香港から来たばかりの私は、<strong>熱湯のように熱くなったペットボトル茶とお弁当が同じ袋に入って出てきて</strong>腰を抜かしたことがあります（笑）。
+  <strong>「冷たいペットボトルのお茶」とお弁当を同時に出したとき</strong>に、「温めますか？」に対して元気に「はい！」と答えてしまうこと。香港から来たばかりの私は、<strong>熱湯のように熱くなったペットボトル茶とお弁当が同じ袋に入って出てきて</strong>腰を抜かしたことがあります（笑）。  
+  でも日本の親切な店員さんは、袋詰めのときに<strong>「熱いのと冷たいのを一緒にして大丈夫ですか？」</strong>とわざわざ細やかに確認してくれる神対応！ そんな時は笑顔で<strong>「はい、大丈夫です！」</strong>（または「あ、別々でお願いします」）とスマートに答えられれば百戦錬磨の勇者です！
 
 #### ⚔️ 突破コマンド（おすすめフレーズ）
 * <strong>【温めてほしいとき】</strong>：<strong>「お弁当だけ温めてください」</strong>（対象を限定するのがプロの技！）
@@ -152,4 +153,8 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 
 [oscss_related slug="culture-shock-cash-on-delivery-refused-tip-keep-the-change" label="お金とマナー"]
 
+---
 
+## 📖 あわせて読みたい関連記事
+
+[oscss_related slug="street-japanese-cafe-order-survival-mug-or-paper-guide" label="街角サバイバル：カフェ注文の波状攻撃"]

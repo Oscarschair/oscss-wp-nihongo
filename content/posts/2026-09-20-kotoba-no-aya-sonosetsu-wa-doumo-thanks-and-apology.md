@@ -15,23 +15,24 @@ thumbnail: "assets/images/thumbnails/thumb-kotoba-sonosetsu-doumo.jpg"
 description: "「あ、その節はどうも…」の『その節』って一体いつの話！？感謝なのかお詫びなのか、なぜ語尾を濁すのか？日本人が過去の出来事をあえて具体的に言わずに共有する「察しの美学」と大人の処世術を徹底解剖！"
 ---
 
-> 💬 <strong>オスカー</strong>  
+> 💬 **オスカー**  
 > こんにちは、香港出身のオスカーです！  
-> 日本でビジネスや大人の付き合いを始めると、必ず耳にする超ハイコンテクストな日本語があります。  
+> 日本でビジネスや社会人の付き合いを始めると、必ず耳にする超ハイコンテクストな日本語があります。  
 >   
-> それが、<strong>「あ、その節はどうも…」</strong>です！  
+> それが、**「あ、その節はどうも…」**です！  
 >   
-> 取引先と久しぶりに会ったとき、廊下ですれ違ったとき、食事会の翌週など、大人の日本人は申し合わせたように笑顔で会釈しながらつぶやきます。  
+> 数ヶ月前や数年前に一緒に仕事をした取引先と展示会や街中で久しぶりに再会したとき、あるいは以前トラブルや大きな案件でお世話になった知人とばったり会ったとき。大人の日本人は申し合わせたように笑顔で会釈しながらこう口にします。  
 >   
-> <strong>「あ、先日は…その節はどうも」</strong>  
-> <strong>「いえいえ！こちらこそ、その節はどうも…！」</strong>  
+> **取引先の方：「あ、オスカーさん！ その節はどうも…！」**  
+> **オスカー：「あ、お世話になっております！ いえいえ、こちらこそ、その節はどうも…！」**  
 >   
-> これを初めて間近で聞いたとき、私の頭の中はハテナ（？？？）で埋め尽くされました。  
+> これを初めて間近で体験したとき、私の頭の中はハテナ（？？？）で埋め尽くされました。  
 >   
-> <strong>「『その節』って、一体いつの話！？ 何月何日のどの件！？」</strong>  
-> <strong>「しかも『どうも』で文章が終わってる！ 感謝なの！？ それとも謝罪なの！？ どっちなの！？」</strong>  
+> **「『その節』って、一体いつの話！？ 半年前のあのプロジェクト？ それとも1年前のトラブルの件！？」**  
+> **「しかも『どうも』で文章が終わってる！ 感謝なの！？ それともお詫びなの！？ どっちなの！？」**  
 >   
-> 英語なら「Thank you for the meeting last week」や「Sorry for the inconvenience the other day」と具体的に言わなければ会話が成立しません。  
+> 数日前〜先週くらいの話なら「先日はどうも」と言いますが、かなり時間が空いて久しぶりに会ったときに使われるのが、この「その節は」。  
+> 英語なら「Thank you for your help on that project last year」などと具体的に言わなければ会話が成立しません。  
 > なぜ日本人は、過去の出来事をあえて具体的に言わず、語尾を濁すのでしょうか？  
 > 今回は、日本の大人が息をするように使いこなす魔法の挨拶「その節はどうも」の深すぎる心理を解き明かします！
 
@@ -54,9 +55,9 @@ description: "「あ、その節はどうも…」の『その節』って一体
 しかし、日本人の会話では以下のように進みます。
 
 > 💬 <strong>取引先の方</strong>  
-> 「あ、クルマさん！ その節はどうも…！」  
+> 「あ、オスカーさん！ その節はどうも…！」  
 >   
-> 💬 <strong>クルマ</strong>  
+> 💬 <strong>オスカー</strong>  
 > 「あ、お世話になっております！ いえいえ、こちらこそその節はどうも…！」
 
 お互いに<strong>「具体的に何の件か」を一言も口にしていないのに、ニッコリ笑って頷き合い、見事に会話が成立している</strong>のです！
@@ -96,7 +97,7 @@ description: "「あ、その節はどうも…」の『その節』って一体
 では、なぜ「先週ごちそうになった件、ありがとうございました」とハッキリ言わずに、わざわざぼかすのでしょうか？  
 そこには、日本社会を円滑に生き抜くための<strong>「3つの大人の知恵」</strong>が隠されています。
 
-![オフィス街のロビーで、知人とばったり会ってお互いに「あ、その節はどうも…」と笑顔で会釈し合うクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/sonosetsu-wa-doumo-business-greeting.jpg)
+![オフィス街のロビーで、知人とばったり会ってお互いに「あ、その節はどうも…」と笑顔で会釈し合うオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/sonosetsu-wa-doumo-business-greeting.jpg)
 
 ### 知恵①：過去の気まずい出来事を「蒸し返さない」配慮
 もし過去に、相手に迷惑をかけたトラブルや、相手が失敗して助けた過去があったとします。  
@@ -158,4 +159,4 @@ description: "「あ、その節はどうも…」の『その節』って一体
 * 🙇‍♂️ [ことばのあや：「すみません」の7変化｜謝罪・感謝・呼びかけ…なぜ日本人は「ありがとう」の場面でも謝るのか？](https://nihongo.oscarchair.jp/kotoba-no-aya-the-seven-faces-of-sumimasen/)
 * 🔍 [くらべてみました：「ごめんなさい」VS「すみません」の違い｜謝罪表現の使い分け](https://nihongo.oscarchair.jp/japanese-comparing-sorry-excuse-me-differences-in-apology-expressions/)
 * 🎭 [ことばのあや：「大丈夫です」の罠｜YESなの？それともNO？日本人が連発する万能フレーズの解読術](https://nihongo.oscarchair.jp/kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase/)
-
+[oscss_related slug="japanese-comparing-ageru-kureru-morau-differences-in-giving-and-receiving" label="くらべてみました：「あげる」VS「くれる」VS「もらう」"]

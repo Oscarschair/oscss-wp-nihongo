@@ -1,4 +1,18 @@
-# カルチャーショック：小1が1人で電車に乗って登校！？海外なら親が逮捕される「日本の通学事情」に世界が仰天する理由
+---
+title: "カルチャーショック：小1が1人で電車に乗って登校！？海外なら親が逮捕される「日本の通学事情」に世界が仰天する理由"
+slug: "culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence"
+date: "2026-09-13T08:00:00+09:00"
+categories:
+  - "culture-shock"
+tags:
+  - "カルチャーショック"
+  - "通学"
+  - "治安"
+  - "自立心"
+  - "日本社会"
+thumbnail: "assets/images/thumbnails/thumb-culture-kids-school.jpg"
+description: "大きなランドセルを背負った6歳の男の子が、親もつけずにたった1人で電車に乗って登校！？欧米や海外なら「保護者遺棄」で親が即逮捕されるレベルの光景が、なぜ日本では安全に成立しているのか？地域社会の見守りネットワークの秘密。"
+---
 
 > 💬 <strong>オスカー</strong>  
 > こんにちは、香港出身のオスカーです！  
@@ -104,4 +118,9 @@
 * 🚸 [カルチャーショック：手を挙げたら車がピタッと止まってくれた！？日本の横断歩道と交通マナー](https://nihongo.oscarchair.jp/culture-shock-cars-stop-when-you-raise-your-hand-pedestrian-crosswalk-in-japan/)
 * 🚃 [カルチャーショック：電車で全員が寝ている！？日本の「居眠り文化」と圧倒的な治安の良さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
 
+---
 
+## 📖 あわせて読みたい関連記事
+
+[oscss_related slug="culture-shock-cars-stop-when-you-raise-your-hand-pedestrian-crosswalk-in-japan" label="カルチャーショック：手を挙げたら車が止まる横断歩道"]
+[oscss_related slug="street-japanese-station-ticket-gate-dungeon-guide" label="街角サバイバル：駅改札ダンジョン攻略法"]

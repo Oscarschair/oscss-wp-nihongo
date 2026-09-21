@@ -89,7 +89,7 @@ description: "教科書では同じ「否定の強調（Not at all）」とし�
 
 そう、相手の心の中にある「申し訳なさ」や「気まずさ」という黒雲を、一瞬でゼロに吹き飛ばして安心させてあげるために、<strong>「全然＋ポジティブな言葉（大丈夫／平気／いいよ）」</strong>という強力なコンビネーションが生まれたのです。
 
-![遅れて謝る友達に笑顔で「全然大丈夫！」と手を振って不安を吹き飛ばすクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/zenzen-daijoubu-reassurance.jpg)
+![遅れて謝る友達に笑顔で「全然大丈夫！」と手を振って不安を吹き飛ばすオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/zenzen-daijoubu-reassurance.jpg)
 
 ```
 【 相手の心の中の不安 】
@@ -160,4 +160,4 @@ description: "教科書では同じ「否定の強調（Not at all）」とし�
 * 🎭 [ことばのあや：「大丈夫です」の罠｜YESなの？それともNO？日本人が連発する万能フレーズの解読術](https://nihongo.oscarchair.jp/kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase/)
 * 🤔 [ことばのあや：「いいです」の話｜YES？それともNO？文脈とトーンで180度変わる日本語の謎](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu/)
 * 🔍 [くらべてみました：「わかる」VS「知る」の違い｜相手への印象が180度変わる理由](https://nihongo.oscarchair.jp/japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing/)
-
+[oscss_related slug="japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions" label="くらべてみました：「さようなら」VS「またね」の違い"]

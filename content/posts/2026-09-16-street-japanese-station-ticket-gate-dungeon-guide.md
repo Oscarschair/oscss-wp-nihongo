@@ -40,7 +40,7 @@ description: "香港の地下鉄は残高マイナスでも出してくれる。
 
 当時の私の心臓は、まさに<strong>「落とし穴トラップを踏んでHPがゼロになった勇者」</strong>のように凍りつきました。
 
-![駅の自動改札で「ピンポーン！」と赤い扉が閉まり、背後の通勤客の視線に冷や汗を流すクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/station-ticket-gate-alarm-close.jpg)
+![駅の自動改札で「ピンポーン！」と赤い扉が閉まり、背後の通勤客の視線に冷や汗を流すオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/station-ticket-gate-alarm-close.jpg)
 
 ```
 【 じどうかいさつ が あらわれた！ 】
@@ -160,3 +160,8 @@ ICカードやスマホを駅員さんに手渡すだけで、リーダーにピ
 
 [oscss_related slug="culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture" label="電車カルチャーショック"]
 
+---
+
+## 📖 あわせて読みたい関連記事
+
+[oscss_related slug="culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence" label="カルチャーショック：小1が1人で電車に乗って登校！？"]

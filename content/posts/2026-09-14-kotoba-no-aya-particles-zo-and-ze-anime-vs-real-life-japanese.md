@@ -1,4 +1,18 @@
-# ことばのあや：終助詞「ぞ」「ぜ」の話｜アニメで毎日聞くのに、なぜ現実の日本人は使わないのか？
+---
+title: "ことばのあや：終助詞「ぞ」「ぜ」の話｜アニメで毎日聞くのに、なぜ現実の日本人は使わないのか？"
+slug: "kotoba-no-aya-particles-zo-and-ze-anime-vs-real-life-japanese"
+date: "2026-09-14T08:00:00+09:00"
+categories:
+  - "kotoba-no-aya"
+tags:
+  - "ことばのあや"
+  - "終助詞"
+  - "ぞとぜ"
+  - "アニメ日本語"
+  - "役割語"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-zo-ze.jpg"
+description: "「行くぞ！」「うまいぜ！」アニメで主人公たちが毎日かっこよく連発する終助詞「ぞ」「ぜ」。でも現実の日本人が居酒屋や職場で使ったら超不自然！？アニメ独自のキャラクター記号（役割語）と現実会話での正しい使い分け。"
+---
 
 > 💬 <strong>オスカー</strong>  
 > こんにちは、香港出身のオスカーです！  
@@ -126,3 +140,9 @@
 * 🤝 [ことばのあや：終助詞「よね」の使い方｜共感と確認で角を立てない大人の日本語術](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-yone-for-smooth-conversation/)
 * 🍵 [ことばのあや：終助詞「ね」の使い方｜心地よいテンポを生み出す共感の魔法](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-ne-for-a-comfortable-conversation/)
 
+---
+
+## 📖 あわせて読みたい関連記事
+
+[oscss_related slug="kotoba-no-aya-the-seven-faces-of-sumimasen" label="ことばのあや：「すみません」の7変化"]
+[oscss_related slug="japanese-comparing-zenzen-and-mattaku-differences" label="くらべてみました：「全然」VS「全く」の違い"]

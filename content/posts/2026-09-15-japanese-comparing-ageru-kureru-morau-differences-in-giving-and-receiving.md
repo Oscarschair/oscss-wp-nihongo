@@ -1,4 +1,19 @@
-# くらべてみました：「あげる」VS「くれる」VS「もらう」の違い｜なぜ日本語には「GIVE」が2つもあるのか？
+---
+title: "くらべてみました：「あげる」VS「くれる」VS「もらう」の違い｜なぜ日本語には「GIVE」が2つもあるのか？"
+slug: "japanese-comparing-ageru-kureru-morau-differences-in-giving-and-receiving"
+date: "2026-09-15T08:00:00+09:00"
+categories:
+  - "comparing-japanese"
+tags:
+  - "くらべてみました"
+  - "あげる"
+  - "くれる"
+  - "もらう"
+  - "授受動詞"
+  - "日本語文法"
+thumbnail: "assets/images/thumbnails/thumb-kurabete-ageru-kureru.jpg"
+description: "英語なら「give」1語で済むのに、日本語ではなぜ「あげる」と「くれる」で単語が分かれるのか？矢印が内側（自分側）に向くか外側に向くか、日本人の「ウチとソト」の人間関係がそのまま言葉になった授受表現の完全攻略ガイド。"
+---
 
 > 💬 <strong>オスカー</strong>  
 > こんにちは、香港出身のオスカーです！  
@@ -119,4 +134,4 @@
 * 👋 [くらべてみました：「さようなら」VS「またね」の違い｜なぜ日本人は友達に「さようなら」と言わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions/)
 
 [oscss_related slug="japanese-comparing-zenzen-and-mattaku-differences" label="くらべてみました：全然VS全く"]
-
+[oscss_related slug="kotoba-no-aya-sonosetsu-wa-doumo" label="ことばのあや：「その節はどうも…」の謎"]
