@@ -5,7 +5,10 @@
 .env.deploy
 .env.local
 .env.*.local
-scripts/
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
 inspect_remote.py
 extract_posts.py
 convert_to_md.py

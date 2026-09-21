@@ -3,7 +3,7 @@
 
 Write-Host "=== oscss-wp-nihongo Deployment to Lolipop ===" -ForegroundColor Cyan
 
-python scripts/deploy.py
+python scripts/core/deploy_theme_and_purge.py
 
 if ($LASTEXITCODE -eq 0) {
     Write-Host "`n--------------------------------------------------" -ForegroundColor Green
