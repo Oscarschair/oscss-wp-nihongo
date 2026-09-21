@@ -10,7 +10,7 @@ tags:
   - "日常会話"
   - "接客日本語"
   - "香港と日本の違い"
-thumbnail: "assets/images/thumb_street_station_gate_rpg.jpg"
+thumbnail: "assets/images/thumbnails/thumb_street_station_gate_rpg.jpg"
 description: "香港の地下鉄は残高マイナスでも出してくれる。でも日本の自動改札機は1円でも足りないと「ピンポーン！」と容赦なく赤い扉が閉まる！？朝のラッシュ時に背後から突き刺さる無言のプレッシャーと、駅員窓口で唱える脱出の神フレーズ。"
 ---
 

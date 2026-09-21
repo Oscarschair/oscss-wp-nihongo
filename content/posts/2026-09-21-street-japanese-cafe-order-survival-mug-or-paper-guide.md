@@ -11,7 +11,7 @@ tags:
   - "接客日本語"
   - "実用会話"
 description: "日本のカフェやパン屋で直面する連続質問トラップ！「店内ですか？持ち帰りですか？」そして最大の謎「そのままお渡ししていいですか？（手渡し！？）」。レジ前でフリーズしないための攻略法と日・広対照表を徹底解説！"
-thumbnail: "assets/images/thumb_street_cafe_order_rpg.jpg"
+thumbnail: "assets/images/thumbnails/thumb_street_cafe_order_rpg.jpg"
 ---
 
 日本の街を歩いていて、「ちょっと喉が渇いたな」「おしゃれなカフェで一休みしよう」とお店のドアを開けたあなた。

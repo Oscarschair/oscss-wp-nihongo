@@ -17,6 +17,45 @@
 
 ---
 
+## 🐝 SWARMエージェント編成 ＆ 役割分担 (Multi-Agent Swarm)
+単一AIによる抱え込みを遮断し、以下の役割分担で運用します。
+
+```
+                 【ディレクター / ユーザー】
+                            │ 指示
+                            ▼
+                  [WP-Supervisor]
+          （WBS管理・進行管理・タスクディスパッチ）
+         ┌──────────────────┼──────────────────┐
+         ▼                  ▼                  ▼
+  [Theme-Developer]     [Content-Writer]   [Thumbnail-Artist]
+  ・PHPモジュール分離   ・日本語記事執筆   ・オスカー画像生成
+  ・WordPressフック     ・No-Asterisk規約  ・16:9比率/パステル
+         │                  │                  │
+         └──────────────────┼──────────────────┘
+                            ▼
+                  [Red Team QA]（独立審査 / 差し戻し上限3回）
+                  ・10大SEO品質ゲート審査（seo-reviewer）
+                  ・サムネイル品質審査（image-reviewer）
+                  ・PC（1280px+）/ SP（375px）画面崩れ検査
+```
+
+- **WP-Supervisor**: 全体進行、カテゴリー投稿バランス管理。
+- **Theme-Developer**: `functions/` 配下のモジュール分割、エスケープ徹底。
+- **Content-Writer**: 連載記事執筆、BLUF原則、`**` 禁止・HTMLタグ強調。
+- **Thumbnail-Artist**: 主人公オスカー画像生成、多彩なポーズ切り替え。
+- **Red Team QA**: SEO・画像・レイアウトの独立した客観的監査役。
+
+---
+
+## 🛠️ 利用可能・推奨グローバルスキル
+本プロジェクトでは、以下のグローバルスキルを活用します：
+- **WordPress・フロントエンド**: [`wordpress-theme-development`](file:///C:/Users/user/.gemini/config/skills/wordpress-theme-development/SKILL.md), [`wordpress-coding-standard`](file:///C:/Users/user/.gemini/config/skills/wordpress-coding-standard/SKILL.md), [`wordpress-uiux-design-standard`](file:///C:/Users/user/.gemini/config/skills/wordpress-uiux-design-standard/SKILL.md), [`php-modular-architecture`](file:///C:/Users/user/.gemini/config/skills/php-modular-architecture/SKILL.md)
+- **品質レビュー**: [`seo-reviewer`](file:///C:/Users/user/.gemini/config/skills/seo-reviewer/SKILL.md), [`ai-note-image-reviewer`](file:///C:/Users/user/.gemini/config/skills/ai-note-image-reviewer/SKILL.md), [`pricing-consistency-checker`](file:///C:/Users/user/.gemini/config/skills/pricing-consistency-checker/SKILL.md)
+- **SWARM監査**: [`swarm-reviewer`](file:///C:/Users/user/.gemini/config/skills/swarm-reviewer/SKILL.md)
+
+---
+
 ## 🛠️ テーマ設計・実装規約
 
 ### 1. PHPモジュラーアーキテクチャ
@@ -84,22 +123,27 @@
 
 記事のサムネイル生成時（`post_image_generation`）、Markdown保存時（`post_file_save`）、および投稿・公開前（`pre_post_publish`）には、[`.gemini/skills/image-reviewer/SKILL.md`](file:///c:/Users/user/git/oscss-wp-nihongo/.gemini/skills/image-reviewer/SKILL.md) が自動発動し、以下の品質ゲートを通過することを必須条件とします：
 
-1. **主人公「オスカー」の登場必須（公式モデル原型: `assets/images/hero-oscar-v2.png` / `https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/hero-oscar-v2.png`）**:
-   - ふんわり茶髪マッシュ、大きめの黒縁丸メガネ、水色スウェット、知的な好青年。
+1. **主人公「オスカー」の登場必須（公式モデル原型: `assets/images/hero-oscar.png`）**:
+   - 5頭身・スリムな顎ライン（20代前半の爽やかで知的な青年）、ふんわり茶髪マッシュ、大きめの黒縁丸メガネ、水色スウェット。
    - **腕と手は必ず「左右2本のみ」**（AI特有の腕3本等の奇形を100%排除）。
    - **表情・ポーズの多様性 ＆ 毎回変更義務（厳格ルール）**:
      - **直近のサムネイルと同じポーズ（同じ立ち姿・同じ武器の構え方）の連続採用を禁止**。
      - 記事のシチュエーション・感情・アクションに直結した多彩なポーズ（盾防御・メニュー凝視・頭抱え・財布探し・果敢な前進・逃げ腰・指差し・腕組み・首傾げ等）を毎回新規に切り替えること。
-2. **カテゴリー別デザイン形式の維持**:
-   - 🏪 **街角サバイバル**: エナジーイエロー（#FEF08A）カード、勇者クルマ（水色スウェット＋剣/盾、毎回異なるサバイバルポーズ）、青枠レトロRPGコマンドウィンドウ、日常NPC対比。
+2. **色合い ＆ 画風の絶対基準（Golden Standard）**:
+   - **正本マスター**: [`assets/images/posts/zenzen-daijoubu-reassurance.jpg`](file:///c:/Users/user/git/oscss-wp-nihongo/assets/images/posts/zenzen-daijoubu-reassurance.jpg)
+   - 明るく澄んだ発色のパステル調（青空・桜ピンク・新緑グリーン）、くっきりしたダークブラウンの主線、クリーンな現代アニメ・コミックエッセイ調セル塗り。
+   - **【厳格禁止】過度なにじみ水彩の排除**: 画面が暗く沈んだり色が濁って滲む水彩調は一切禁止。
+3. **カテゴリー別デザイン形式の維持**:
+   - 🏪 **街角サバイバル**: エナジーイエロー（#FEF08A）カード、勇者オスカー（水色スウェット＋剣/盾、毎回異なるサバイバルポーズ）、青枠レトロRPGコマンドウィンドウ、日常NPC対比。
    - 🔍 **くらべてみました**: 左右分割のVS対比構図、2色のコントラストパステル背景、考察・比較ポーズ。
    - 🗣️ **ことばのあや**: 会話吹き出し、ひらめき電球、優しいパステルラベンダー背景、解説ポーズ。
    - 🌏 **カルチャーショック**: 状況に応じた自然な驚き・発見リアクション、対比アイテム、明るいオレンジ/スカイブルー背景。
-3. **共通フォーマット**:
+4. **共通フォーマット**:
    - 16:9比率、ポップで読みやすい日本語タイトル文字配置、アニメ・ベクターイラスト調。
-4. **記事内挿入図（クルマ登場）の必須配置原則（今後全記事に最低1枚適用）**:
-   - すべての記事（全連載カテゴリー共通）において、本文の最も共感を呼ぶハイライトシーン（文化のギャップ、感情の伝達、現場サバイバル等）に、**クルマ（茶髪マッシュ・丸メガネ・水色スウェット）が登場するシチュエーション挿入イラスト（16:9比率）を必ず最低1枚配置すること**。
+5. **記事内挿入図（オスカー登場）の必須配置原則（今後全記事に最低1枚適用）**:
+   - すべての記事（全連載カテゴリー共通）において、本文の最も共感を呼ぶハイライトシーン（文化のギャップ、感情の伝達、現場サバイバル等）に、**オスカー（茶髪マッシュ・丸メガネ・水色スウェット）が登場するシチュエーション挿入イラスト（16:9比率）を必ず最低1枚配置すること**。
    - 文章だけでなく、登場人物の表情・リアクション（「全然大丈夫！」と手を振る、素通りされて焦る等）をビジュアルで補完し、読者の理解と読了率を最大化させる。
+   - シャンプー台の不透明な布（眼鏡の上から被せる）、改札の後ろの列など、生活実感・文化的整合性を徹底する。
 
 ---
 
