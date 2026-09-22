@@ -1,5 +1,5 @@
 ---
-title: "街角サバイバル：温泉・銭湯の入浴作法｜服を脱いだ勇者を待ち受ける「かけ湯」と「湯船タオル禁止」の鉄則"
+title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>温泉<rt>おんせん</rt></ruby>・<ruby>銭湯<rt>せんとう</rt></ruby>の<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>作法<rt>さほう</rt></ruby>｜<ruby>服<rt>ふく</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いだ<ruby>勇者<rt>ゆうしゃ</rt></ruby>を<ruby>待ち受<rt>まちう</rt></ruby>ける「かけ<ruby>湯<rt>ゆ</rt></ruby>」と「<ruby>湯船<rt>ゆぶね</rt></ruby>タオル<ruby>禁止<rt>きんし</rt></ruby>」の<ruby>鉄則<rt>てっそく</rt></ruby>"
 slug: "street-japanese-onsen-sento-bath-rules-survival-guide"
 date: "2026-09-24T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-street-onsen-sento-rpg.jpg"
 description: "全裸で他人と同じ湯船に浸かる日本の温泉・銭湯。服を脱いで丸腰になった勇者オスカーの前に立ちはだかる「かけ湯の儀式」「体を洗ってから入る掟」「湯船にタオル浸けたら即ゲームオーバー」の3大試練！恥をかかずに極楽を味わうRPG風入浴攻略ガイド。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>日常<rt>にちじょう</rt></ruby>のあらゆる<ruby>現場<rt>げんば</rt></ruby>で<ruby>繰り広<rt>くりひろ</rt></ruby>げられる<ruby>日本語<rt>にほんご</rt></ruby>とマナーの<ruby>攻防<rt>こうぼう</rt></ruby><ruby>戦<rt>せん</rt></ruby>をRPG<ruby>風<rt>ふう</rt></ruby>にお<ruby>届<rt>とど</rt></ruby>けする「<ruby>街角<rt>まちかど</rt></ruby>サバイバル」シリーズ、<ruby>第<rt>だい</rt></ruby>6<ruby>弾<rt>だん</rt></ruby>へようこそ！

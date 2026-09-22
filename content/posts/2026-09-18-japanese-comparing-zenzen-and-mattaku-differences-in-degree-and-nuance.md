@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「全然」VS「全く」の違い｜なぜ「全然大丈夫」は言うのに、「全く大丈夫」は言わないのか？"
+title: "くらべてみました：「<ruby>全然<rt>ぜんぜん</rt></ruby>」VS「<ruby>全<rt>まった</rt></ruby>く」の<ruby>違<rt>ちが</rt></ruby>い｜なぜ「<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>」は<ruby>言<rt>い</rt></ruby>うのに、「<ruby>全<rt>まった</rt></ruby>く<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>」は<ruby>言<rt>い</rt></ruby>わないのか？"
 slug: "japanese-comparing-zenzen-and-mattaku-differences"
 date: "2026-09-18T08:00:00+09:00"
 categories:
@@ -14,7 +14,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kurabete-zenzen-mattaku.jpg"
 description: "教科書では同じ「否定の強調（Not at all）」として習う「全然」と「全く」。でも街中では「全然大丈夫！」「全然いいよ！」と肯定文で連発されるのに、なぜ「全く大丈夫」とは言わないのか？客観の「全く」と共感の「全然」の決定的な違いと使い分け。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>や<ruby>教科書<rt>きょうかしょ</rt></ruby>で、<ruby>初級<rt>しょきゅう</rt></ruby>クラスの<ruby>生徒<rt>せいと</rt></ruby>が<ruby>必<rt>かなら</rt></ruby>ず<ruby>厳<rt>きび</rt></ruby>しく<ruby>教<rt>おし</rt></ruby>えられる<ruby>文法<rt>ぶんぽう</rt></ruby>ルールがあります。

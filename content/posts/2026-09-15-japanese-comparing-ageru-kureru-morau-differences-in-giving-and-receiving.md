@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「あげる」VS「くれる」VS「もらう」の違い｜なぜ日本語には「GIVE」が2つもあるのか？"
+title: "くらべてみました：「あげる」VS「くれる」VS「もらう」の<ruby>違<rt>ちが</rt></ruby>い｜なぜ<ruby>日本語<rt>にほんご</rt></ruby>には「GIVE」が2つもあるのか？"
 slug: "japanese-comparing-ageru-kureru-morau-differences-in-giving-and-receiving"
 date: "2026-09-15T08:00:00+09:00"
 categories:
@@ -14,7 +14,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kurabete-ageru-kureru.jpg"
 description: "英語なら「give」1語で済むのに、日本語ではなぜ「あげる」と「くれる」で単語が分かれるのか？矢印が内側（自分側）に向くか外側に向くか、日本人の「ウチとソト」の人間関係がそのまま言葉になった授受表現の完全攻略ガイド。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>初級<rt>しょきゅう</rt></ruby>から<ruby>中級<rt>ちゅうきゅう</rt></ruby>にステップアップするとき、<ruby>必<rt>かなら</rt></ruby>ずと<ruby>言<rt>い</rt></ruby>っていいほど<ruby>直面<rt>ちょくめん</rt></ruby>する<strong>「<ruby>最大<rt>さいだい</rt></ruby>の<ruby>難所<rt>なんしょ</rt></ruby>」</strong>があります。  

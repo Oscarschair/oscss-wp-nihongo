@@ -1,5 +1,5 @@
 ---
-title: "街角サバイバル：居酒屋の洗礼｜頼んでないのに出てくる「お通し」の謎と、入店直後の呪文「とりあえず生」の攻略法"
+title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>居酒屋<rt>いざかや</rt></ruby>の<ruby>洗礼<rt>せんれい</rt></ruby>｜<ruby>頼<rt>たの</rt></ruby>んでないのに<ruby>出<rt>で</rt></ruby>てくる「お<ruby>通<rt>とお</rt></ruby>し」の<ruby>謎<rt>なぞ</rt></ruby>と、<ruby>入<rt>いり</rt></ruby><ruby>店<rt>てん</rt></ruby><ruby>直後<rt>ちょくご</rt></ruby>の<ruby>呪文<rt>じゅもん</rt></ruby>「とりあえず<ruby>生<rt>なま</rt></ruby>」の<ruby>攻略<rt>こうりゃく</rt></ruby><ruby>法<rt>ほう</rt></ruby>"
 slug: "street-japanese-izakaya-survival-guide"
 date: "2026-09-17T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-street-izakaya-rpg.jpg"
 description: "香港のレストランはお茶代だけで小鉢は出ない。でも日本の居酒屋は頼んでもいない小鉢（お通し）が自動で出てきて課金される！？着席3秒で迫られる「とりあえず生」の儀式と、お酒が飲めない勇者のためのノンアル脱出コマンド。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>新<rt>しん</rt></ruby><ruby>連載<rt>れんさい</rt></ruby><strong>「<ruby>街角<rt>まちかど</rt></ruby>サバイバル」</strong>の<ruby>第<rt>だい</rt></ruby>4<ruby>弾<rt>だん</rt></ruby>へようこそ！

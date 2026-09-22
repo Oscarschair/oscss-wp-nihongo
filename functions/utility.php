@@ -115,7 +115,7 @@ function oscss_breadcrumb() {
 			$position++;
 		}
 		echo '<li class="c-breadcrumb__item c-breadcrumb__item--current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page">';
-		echo '<span itemprop="name">' . esc_html( wp_trim_words( get_the_title(), 20, '...' ) ) . '</span>';
+		echo '<span itemprop="name">' . esc_html( wp_trim_words( oscss_get_clean_title(), 20, '...' ) ) . '</span>';
 		echo '<meta itemprop="position" content="' . esc_attr( (string) $position ) . '" />';
 		echo '</li>';
 	} elseif ( is_page() ) {
@@ -124,14 +124,14 @@ function oscss_breadcrumb() {
 			$ancestors = array_reverse( get_post_ancestors( $post->ID ) );
 			foreach ( $ancestors as $ancestor ) {
 				echo '<li class="c-breadcrumb__item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">';
-				echo '<a class="c-breadcrumb__link" itemprop="item" href="' . esc_url( get_permalink( $ancestor ) ) . '"><span itemprop="name">' . esc_html( get_the_title( $ancestor ) ) . '</span></a>';
+				echo '<a class="c-breadcrumb__link" itemprop="item" href="' . esc_url( get_permalink( $ancestor ) ) . '"><span itemprop="name">' . esc_html( oscss_get_clean_title( $ancestor ) ) . '</span></a>';
 				echo '<meta itemprop="position" content="' . esc_attr( (string) $position ) . '" />';
 				echo '</li>';
 				$position++;
 			}
 		}
 		echo '<li class="c-breadcrumb__item c-breadcrumb__item--current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" aria-current="page">';
-		echo '<span itemprop="name">' . esc_html( get_the_title() ) . '</span>';
+		echo '<span itemprop="name">' . esc_html( oscss_get_clean_title() ) . '</span>';
 		echo '<meta itemprop="position" content="' . esc_attr( (string) $position ) . '" />';
 		echo '</li>';
 	} elseif ( is_category() ) {
@@ -368,13 +368,41 @@ function oscss_get_canonical_url() {
 }
 
 /**
+ * 記事や固定ページのクリーンなテキストタイトル（HTMLルビタグ除去・SEO/OGP/パンくず用）を取得
+ *
+ * @param int|WP_Post|null $post 投稿オブジェクトまたはID
+ * @return string
+ */
+function oscss_get_clean_title( $post = null ) {
+	$post_obj  = get_post( $post );
+	$raw_title = ( $post_obj && ! empty( $post_obj->post_title ) ) ? $post_obj->post_title : get_the_title( $post );
+	if ( empty( $raw_title ) ) {
+		return '';
+	}
+
+	// 1. ルビのふりがな部分（<rt>〜</rt>）およびカッコ（<rp>〜</rp>）を安全に除去
+	$clean = preg_replace( '/<rt>.*?<\/rt>/su', '', $raw_title );
+	$clean = preg_replace( '/<rp>.*?<\/rp>/su', '', $clean );
+
+	// 2. 残りのHTMLタグを除去し、実体参照をデコード
+	$clean = wp_strip_all_tags( $clean );
+	$clean = html_entity_decode( $clean, ENT_QUOTES, 'UTF-8' );
+
+	// 3. 連続空白を整理
+	$clean = preg_replace( '/\s+/', ' ', $clean );
+
+	return trim( $clean );
+}
+
+/**
  * 記事や固定ページのクリーンなテキスト要約（メタタグ・OGP用）を取得
  *
  * @param int|WP_Post|null $post 投稿オブジェクトまたはID
  * @param int              $length 切り詰め文字数
+ * @param bool             $add_ruby_badge ディスクリプションに【全漢字ふりがな付き】を付与するか
  * @return string
  */
-function oscss_get_clean_excerpt( $post = null, $length = 120 ) {
+function oscss_get_clean_excerpt( $post = null, $length = 120, $add_ruby_badge = true ) {
 	$post = get_post( $post );
 	if ( ! $post ) {
 		return '';
@@ -385,22 +413,44 @@ function oscss_get_clean_excerpt( $post = null, $length = 120 ) {
 		$text = $post->post_excerpt;
 	} else {
 		$text = $post->post_content;
-		// ショートコード削除
-		$text = strip_shortcodes( $text );
-		// HTMLタグ除去
-		$text = wp_strip_all_tags( $text );
-		// Markdown記号除去 (#, *, _, `, >, etc.)
-		$text = preg_replace( '/[#*_`>\[\]\(\)]+/', '', $text );
-		// 余計な改行・連続空白を単一スペース化
-		$text = preg_replace( '/\s+/', ' ', $text );
 	}
 
+	// 1. ショートコード削除
+	$text = strip_shortcodes( $text );
+
+	// 2. ルビのふりがな部分（<rt>〜</rt>）およびカッコ（<rp>〜</rp>）を除去して文字重複を防止
+	$text = preg_replace( '/<rt>.*?<\/rt>/su', '', $text );
+	$text = preg_replace( '/<rp>.*?<\/rp>/su', '', $text );
+
+	// 3. HTMLタグ除去
+	$text = wp_strip_all_tags( $text );
+
+	// 4. Markdown記号除去 (#, *, _, `, >, etc.)
+	$text = preg_replace( '/[#*_`>\[\]\(\)]+/', '', $text );
+
+	// 5. 余計な改行・連続空白を単一スペース化
+	$text = preg_replace( '/\s+/', ' ', $text );
 	$text = trim( $text );
-	if ( mb_strlen( $text, 'UTF-8' ) > $length ) {
-		$text = mb_substr( $text, 0, $length, 'UTF-8' ) . '...';
+
+	// 投稿（ブログ記事）かつ有効な場合、全漢字ルビ付きをアピールするプレフィックスを付与
+	$prefix = ( $add_ruby_badge && 'post' === get_post_type( $post ) ) ? '【全漢字ふりがな付き】' : '';
+	$prefix_len = mb_strlen( $prefix, 'UTF-8' );
+	$target_len = max( 20, $length - $prefix_len );
+
+	if ( mb_strlen( $text, 'UTF-8' ) > $target_len ) {
+		$text = mb_substr( $text, 0, $target_len, 'UTF-8' ) . '...';
 	}
 
-	return $text;
+	return $prefix . $text;
+}
+
+/**
+ * 記事詳細ヘッダー用: 「全漢字ふりがな付き」バッジを出力
+ */
+function oscss_posted_ruby_badge() {
+	if ( 'post' === get_post_type() ) {
+		echo '<span class="c-entry__badge c-entry__badge--furigana" title="すべての漢字にふりがな（ルビ）が付いています" aria-label="全漢字ふりがな付き">📖 全漢字ふりがな付き</span>';
+	}
 }
 
 /**

@@ -1,5 +1,5 @@
 ---
-title: "ラーメン屋の「券売機」はボタンだらけのダンジョン！？——早口の「お好みコール」を突破する完全サバイバル術"
+title: "ラーメン<ruby>屋<rt>や</rt></ruby>の「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>」はボタンだらけのダンジョン！？——<ruby>早口<rt>はやくち</rt></ruby>の「お<ruby>好<rt>この</rt></ruby>みコール」を<ruby>突破<rt>とっぱ</rt></ruby>する<ruby>完全<rt>かんぜん</rt></ruby>サバイバル<ruby>術<rt>じゅつ</rt></ruby>"
 description: "日本のラーメン屋に入った瞬間、立ちはだかる100個以上のボタンが並ぶ巨大な食券機！後ろに人が並んで焦る「券売機ダンジョン」の攻略法から、席に着いた直後に浴びせられる早口の「麺の硬さは？味の濃さは？」というお好みコールを乗り切る最強の呪文まで、街角ラーメンを120%美味しく味わう完全サバイバル術！"
 slug: "street-japanese-ramen-ticket-machine-call-survival-guide"
 date: "2026-10-03T08:00:00+09:00"
@@ -14,7 +14,6 @@ tags:
   - "街角日本語"
   - "家系ラーメン"
 ---
-
 <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たら<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>食<rt>た</rt></ruby>べたいソウルフード、<strong>「<ruby>日本<rt>にっぽん</rt></ruby>のラーメン」</strong>！
 
 しかし、<ruby>暖簾<rt>のれん</rt></ruby>をくぐって<ruby>店内<rt>てんない</rt></ruby>に<ruby>足<rt>あし</rt></ruby>を<ruby>踏み入<rt>ふみい</rt></ruby>れた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、いきなり<strong><ruby>巨大<rt>きょだい</rt></ruby>なモンスターのように<ruby>立<rt>た</rt></ruby>ちはだかる<ruby>壁<rt>かべ</rt></ruby></strong>があります。

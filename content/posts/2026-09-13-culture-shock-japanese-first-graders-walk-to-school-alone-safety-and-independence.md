@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：小1が1人で電車に乗って登校！？海外なら親が逮捕される「日本の通学事情」に世界が仰天する理由"
+title: "カルチャーショック：<ruby>小<rt>しょう</rt></ruby>1が1<ruby>人<rt>にん</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>登校<rt>とうこう</rt></ruby>！？<ruby>海外<rt>かいがい</rt></ruby>なら<ruby>親<rt>おや</rt></ruby>が<ruby>逮捕<rt>たいほ</rt></ruby>される「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>通学<rt>つうがく</rt></ruby><ruby>事情<rt>じじょう</rt></ruby>」に<ruby>世界<rt>せかい</rt></ruby>が<ruby>仰天<rt>ぎょうてん</rt></ruby>する<ruby>理由<rt>りゆう</rt></ruby>"
 slug: "culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence"
 date: "2026-09-13T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-culture-kids-school.jpg"
 description: "大きなランドセルを背負った6歳の男の子が、親もつけずにたった1人で電車に乗って登校！？欧米や海外なら「保護者遺棄」で親が即逮捕されるレベルの光景が、なぜ日本では安全に成立しているのか？地域社会の見守りネットワークの秘密。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>私<rt>わたし</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て<ruby>最<rt>もっと</rt></ruby>もカルチャーショックを<ruby>受<rt>う</rt></ruby>け、<ruby>思<rt>おも</rt></ruby>わず<ruby>二<rt>に</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>見<rt>み</rt></ruby>した<ruby>朝<rt>あさ</rt></ruby>の<ruby>光景<rt>こうけい</rt></ruby>があります。

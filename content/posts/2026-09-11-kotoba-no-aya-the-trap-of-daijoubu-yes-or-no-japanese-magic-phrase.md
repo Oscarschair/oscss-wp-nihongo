@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：「大丈夫です」の罠｜YESなの？それともNO？日本人が連発する万能フレーズの解読術"
+title: "ことばのあや：「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」の<ruby>罠<rt>わな</rt></ruby>｜YESなの？それともNO？<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>連発<rt>れんぱつ</rt></ruby>する<ruby>万能<rt>ばんのう</rt></ruby>フレーズの<ruby>解読<rt>かいどく</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>"
 slug: "kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase"
 date: "2026-09-11T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kotoba-daijoubu-trap.jpg"
 description: "「レシート大丈夫です」はNOなのに、「この席大丈夫です」はYES！？肯定と否定の両方で使われる日本の魔法の言葉「大丈夫」。イントネーション・手振り・表情から真意を一瞬で見分ける解読術を分かりやすく解説。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らす<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が、<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>や<ruby>接客<rt>せっきゃく</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>頭<rt>あたま</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>える<ruby>日本語<rt>にほんご</rt></ruby>。

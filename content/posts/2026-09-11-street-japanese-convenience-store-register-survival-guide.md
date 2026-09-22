@@ -1,5 +1,5 @@
 ---
-title: "街角サバイバル：コンビニのレジ攻防戦｜香港では「ほぼ無言」だった私が、日本のレジで勇者の剣を握りしめた理由"
+title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：コンビニのレジ<ruby>攻防<rt>こうぼう</rt></ruby><ruby>戦<rt>せん</rt></ruby>｜<ruby>香港<rt>ほんこん</rt></ruby>では「ほぼ<ruby>無言<rt>むごん</rt></ruby>」だった<ruby>私<rt>わたし</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>のレジで<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>剣<rt>けん</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>りしめた<ruby>理由<rt>りゆう</rt></ruby>"
 slug: "street-japanese-convenience-store-register-survival-guide"
 date: "2026-09-11T00:18:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-street-convenience-register.jpg"
 description: "香港のコンビニは無言でスピーディー。でも日本のコンビニは「袋・温め・ポイントカード」と次々に回答を求めてくる！？来日初心者が一番緊張する「レジの3大トラップ」を突破する神フレーズとRPG攻略チャート。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>新<rt>しん</rt></ruby><ruby>連載<rt>れんさい</rt></ruby><strong>「<ruby>街角<rt>まちかど</rt></ruby>サバイバル」</strong>へようこそ！この<ruby>連載<rt>れんさい</rt></ruby>では、<ruby>教科書<rt>きょうかしょ</rt></ruby>には<ruby>載<rt>の</rt></ruby>っていないけれど、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らす<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>毎日<rt>まいにち</rt></ruby><ruby>直面<rt>ちょくめん</rt></ruby>する「リアルな<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>（コンビニ、<ruby>美容<rt>びよう</rt></ruby><ruby>院<rt>いん</rt></ruby>、<ruby>居酒屋<rt>いざかや</rt></ruby>、<ruby>病院<rt>びょういん</rt></ruby>など）」でのサバイバル<ruby>術<rt>じゅつ</rt></ruby>と<ruby>実践<rt>じっせん</rt></ruby>フレーズをお<ruby>届<rt>とど</rt></ruby>けします。

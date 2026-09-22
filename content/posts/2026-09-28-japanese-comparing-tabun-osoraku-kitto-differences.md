@@ -1,5 +1,5 @@
 ---
-title: "「たぶん」「おそらく」「きっと」の違いとは？——相手の信頼度が激変する“確信度のグラデーション”完全解説"
+title: "「たぶん」「おそらく」「きっと」の<ruby>違<rt>ちが</rt></ruby>いとは？——<ruby>相手<rt>あいて</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>度<rt>ど</rt></ruby>が<ruby>激変<rt>げきへん</rt></ruby>する“<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>のグラデーション”<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
 description: "「明日の会議、来られる？」「これ合ってる？」と聞かれたとき、「たぶん」「おそらく」「きっと」のどれを使うかで相手の受け取り方は180度変わります！50%の日常語から80%のビジネス表現、90%の感情表現まで、確信度のパーセンテージと使い分けを徹底比較！"
 slug: "japanese-comparing-tabun-osoraku-kitto-differences"
 date: "2026-09-28T08:00:00+09:00"
@@ -15,7 +15,6 @@ tags:
   - "ニュアンスの違い"
   - "くらべて納得"
 ---
-
 <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>していると、「<ruby>推測<rt>すいそく</rt></ruby>（たぶん〜だと<ruby>思<rt>おも</rt></ruby>う）」を<ruby>表<rt>あらわ</rt></ruby>す<ruby>言葉<rt>ことば</rt></ruby>がたくさんあって<ruby>迷<rt>まよ</rt></ruby>ったことはありませんか？
 
 > 👨‍💼 <ruby>上司<rt>じょうし</rt></ruby>：「オスカーくん、<ruby>明日<rt>あした</rt></ruby>の<ruby>納品<rt>のうひん</rt></ruby>データ、<ruby>午後<rt>ごご</rt></ruby>イチまでに<ruby>間に合<rt>まにあ</rt></ruby>いそう？」

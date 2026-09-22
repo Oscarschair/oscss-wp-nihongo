@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：「すみません」の7変化｜謝罪・感謝・呼びかけ…なぜ日本人は「ありがとう」の場面でも謝るのか？"
+title: "ことばのあや：「すみません」の7<ruby>変化<rt>へんか</rt></ruby>｜<ruby>謝罪<rt>しゃざい</rt></ruby>・<ruby>感謝<rt>かんしゃ</rt></ruby>・<ruby>呼<rt>よ</rt></ruby>びかけ…なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>は「ありがとう」の<ruby>場面<rt>ばめん</rt></ruby>でも<ruby>謝<rt>あやま</rt></ruby>るのか？"
 slug: "kotoba-no-aya-the-seven-faces-of-sumimasen"
 date: "2026-09-19T08:00:00+09:00"
 categories:
@@ -14,7 +14,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kotoba-sumimasen-faces.jpg"
 description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に集約された驚異の言葉「すみません」。なぜ日本人はエレベーターを開けてもらったとき「ありがとう」ではなく「すみません」と謝るのか？日本人の「配慮と負い目」の心理を解き明かす。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らし<ruby>始<rt>はじ</rt></ruby>めた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が、<ruby>入国<rt>にゅうこく</rt></ruby><ruby>後<rt>ご</rt></ruby>わずか<ruby>数<rt>すう</rt></ruby><ruby>日<rt>にち</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>強烈<rt>きょうれつ</rt></ruby>にインプットされる<ruby>日本語<rt>にほんご</rt></ruby>。

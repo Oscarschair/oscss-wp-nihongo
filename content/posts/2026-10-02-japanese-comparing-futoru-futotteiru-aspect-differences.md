@@ -1,5 +1,5 @@
 ---
-title: "「太る」と「太っている」の違いとは？——外国人が必ず混乱する日本語の「〜ている（変化と状態）」完全図解"
+title: "「<ruby>太<rt>ふと</rt></ruby>る」と「<ruby>太<rt>ふと</rt></ruby>っている」の<ruby>違<rt>ちが</rt></ruby>いとは？——<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>必<rt>かなら</rt></ruby>ず<ruby>混乱<rt>こんらん</rt></ruby>する<ruby>日本語<rt>にほんご</rt></ruby>の「〜ている（<ruby>変化<rt>へんか</rt></ruby>と<ruby>状態<rt>じょうたい</rt></ruby>）」<ruby>完全<rt>かんぜん</rt></ruby><ruby>図解<rt>ずかい</rt></ruby>"
 description: "英語で「He is fat」と言いたいとき、日本語で「彼は太る」と言うと大間違い！？なぜ日本語では「太っている」と「〜ている」形にしなければならないのか？日本語学習者が100%つまずく「動詞のアスペクト（変化の結果と状態の継続）」の秘密を、直感的な図解とキャラクターの対話でスッキリ解説！"
 slug: "japanese-comparing-futoru-futotteiru-aspect-differences"
 date: "2026-10-02T08:00:00+09:00"
@@ -14,7 +14,6 @@ tags:
   - "形容詞と動詞"
   - "誤用分析"
 ---
-
 <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながらポロッと<ruby>言<rt>い</rt></ruby>ってしまいがちな<strong>「<ruby>超<rt>ちょう</rt></ruby><ruby>危険<rt>きけん</rt></ruby>な<ruby>間違<rt>まちが</rt></ruby>い」</strong>があります。
 
 > 🚗 クルマ：「あ、この<ruby>写真<rt>しゃしん</rt></ruby>、<ruby>高校<rt>こうこう</rt></ruby>のときの<ruby>友達<rt>ともだち</rt></ruby>なんだ！ ほら、この<ruby>右側<rt>みぎがわ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>……<strong><ruby>最近<rt>さいきん</rt></ruby>、<ruby>太<rt>ふと</rt></ruby>るよ！</strong>」

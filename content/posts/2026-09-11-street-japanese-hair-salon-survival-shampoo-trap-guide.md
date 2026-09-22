@@ -1,5 +1,5 @@
 ---
-title: "街角サバイバル：美容室の試練｜視界ゼロのシャンプー台で「痒いところは？」と聞かれた勇者の決断"
+title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>試練<rt>しれん</rt></ruby>｜<ruby>視界<rt>しかい</rt></ruby>ゼロのシャンプー<ruby>台<rt>だい</rt></ruby>で「<ruby>痒<rt>かゆ</rt></ruby>いところは？」と<ruby>聞<rt>き</rt></ruby>かれた<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>決断<rt>けつだん</rt></ruby>"
 slug: "street-japanese-hair-salon-survival-shampoo-trap-guide"
 date: "2026-09-11T09:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-street-haircut-rpg.jpg"
 description: "香港の散髪は15分・無言で完了。でも日本の美容室は「すく・痒いところ・お流し・雑談」と超高難易度の対話ダンジョンだった！？視界ゼロのシャンプー台で繰り広げられる心理戦と、確実に生還する攻略フレーズ集。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>前回<rt>ぜんかい</rt></ruby>の「コンビニのレジ<ruby>攻防<rt>こうぼう</rt></ruby><ruby>戦<rt>せん</rt></ruby>」に<ruby>続<rt>つづ</rt></ruby>く、<ruby>新<rt>しん</rt></ruby><ruby>連載<rt>れんさい</rt></ruby><strong>「<ruby>街角<rt>まちかど</rt></ruby>サバイバル」</strong>の<ruby>第<rt>だい</rt></ruby>2<ruby>弾<rt>だん</rt></ruby>へようこそ！

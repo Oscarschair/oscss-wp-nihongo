@@ -24,13 +24,14 @@ function oscss_seo_meta_tags() {
 
 	if ( is_front_page() || is_home() ) {
 		$og_title = $site_name . ' | ' . $site_desc;
-		$og_desc  = '香港出身のオスカーが、外国人視点で見つけた日本語の「ことばのあや」やニュアンスの違い、文化の違い、コンビニや駅などの現場サバイバルを分かりやすく解説する日本語学習ブログです。';
+		$og_desc  = '香港出身のオスカーが、外国人視点で日本語の「ことばのあや」や文化の違い、現場サバイバルを解説する日本語学習ブログ。全記事・全漢字ルビ（ふりがな）完備で、辞書なしでスラスラ読める！';
 		$og_type  = 'website';
 	} elseif ( is_single() ) {
 		global $post;
-		$og_title = get_the_title() . ' | ' . $site_name;
-		$og_desc  = oscss_get_clean_excerpt( $post, 120 );
-		$og_type  = 'article';
+		$clean_title = oscss_get_clean_title( $post );
+		$og_title    = $clean_title . ' | ' . $site_name;
+		$og_desc     = oscss_get_clean_excerpt( $post, 120 );
+		$og_type     = 'article';
 
 		if ( has_post_thumbnail( $post->ID ) ) {
 			$thumb_url = get_the_post_thumbnail_url( $post->ID, 'full' );
@@ -40,9 +41,10 @@ function oscss_seo_meta_tags() {
 		}
 	} elseif ( is_page() ) {
 		global $post;
-		$og_title = get_the_title() . ' | ' . $site_name;
-		$og_desc  = oscss_get_clean_excerpt( $post, 120 );
-		$og_type  = 'article';
+		$clean_title = oscss_get_clean_title( $post );
+		$og_title    = $clean_title . ' | ' . $site_name;
+		$og_desc     = oscss_get_clean_excerpt( $post, 120, false );
+		$og_type     = 'article';
 
 		if ( has_post_thumbnail( $post->ID ) ) {
 			$thumb_url = get_the_post_thumbnail_url( $post->ID, 'full' );
@@ -139,7 +141,7 @@ add_action( 'wp_head', 'oscss_seo_meta_tags', 1 );
 function oscss_seo_json_ld() {
 	$site_url  = home_url( '/' );
 	$site_name = get_bloginfo( 'name' );
-	$site_desc = '香港出身のオスカーが、外国人視点で見つけた日本語の「ことばのあや」やニュアンスの違い、文化の違い、コンビニや駅などの現場サバイバルを分かりやすく解説する日本語学習ブログです。';
+	$site_desc = '香港出身のオスカーが、外国人視点で日本語の「ことばのあや」や文化の違い、現場サバイバルを解説する日本語学習ブログ。全記事・全漢字ルビ（ふりがな）完備で、辞書なしでスラスラ読める！';
 	$logo_url  = OSCSS_THEME_URI . '/assets/images/my-icon.png';
 	$og_image  = OSCSS_THEME_URI . '/assets/images/og-image.png';
 
@@ -211,7 +213,7 @@ function oscss_seo_json_ld() {
 				'@type' => 'WebPage',
 				'@id'   => get_permalink( $post->ID ),
 			),
-			'headline'         => get_the_title( $post->ID ),
+			'headline'         => oscss_get_clean_title( $post->ID ),
 			'description'      => oscss_get_clean_excerpt( $post, 120 ),
 			'image'            => array(
 				'@type' => 'ImageObject',
@@ -292,7 +294,7 @@ function oscss_get_breadcrumb_schema_items() {
 		$items[] = array(
 			'@type'    => 'ListItem',
 			'position' => $pos,
-			'name'     => get_the_title(),
+			'name'     => oscss_get_clean_title(),
 			'item'     => get_permalink(),
 		);
 	} elseif ( is_page() ) {
@@ -303,7 +305,7 @@ function oscss_get_breadcrumb_schema_items() {
 				$items[] = array(
 					'@type'    => 'ListItem',
 					'position' => $pos,
-					'name'     => get_the_title( $ancestor ),
+					'name'     => oscss_get_clean_title( $ancestor ),
 					'item'     => get_permalink( $ancestor ),
 				);
 				$pos++;
@@ -312,7 +314,7 @@ function oscss_get_breadcrumb_schema_items() {
 		$items[] = array(
 			'@type'    => 'ListItem',
 			'position' => $pos,
-			'name'     => get_the_title(),
+			'name'     => oscss_get_clean_title(),
 			'item'     => get_permalink(),
 		);
 	} elseif ( is_category() ) {

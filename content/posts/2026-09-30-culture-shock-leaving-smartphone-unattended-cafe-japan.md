@@ -1,5 +1,5 @@
 ---
-title: "カフェで「スマホを置いて席を離れる」日本人の謎——なぜ誰も盗まないの！？世界が震える治安と“場所取り”文化"
+title: "カフェで「スマホを<ruby>置<rt>お</rt></ruby>いて<ruby>席<rt>せき</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れる」<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>——なぜ<ruby>誰<rt>だれ</rt></ruby>も<ruby>盗<rt>ぬす</rt></ruby>まないの！？<ruby>世界<rt>せかい</rt></ruby>が<ruby>震<rt>ふる</rt></ruby>える<ruby>治安<rt>ちあん</rt></ruby>と“<ruby>場所<rt>ばしょ</rt></ruby><ruby>取<rt>と</rt></ruby>り”<ruby>文化<rt>ぶんか</rt></ruby>"
 description: "日本のカフェで、最新のスマホや財布、ノートパソコンをテーブルに置いたままトイレに行く日本人を見て驚愕したことはありませんか？海外では「1秒で盗まれる」タブー行為が、なぜ日本では平然と行われているのか？日本独特の「席取り」事情と、落とし物が戻ってくる驚異の治安の深層に迫ります！"
 slug: "culture-shock-leaving-smartphone-unattended-cafe-japan"
 date: "2026-09-30T08:00:00+09:00"
@@ -15,7 +15,6 @@ tags:
   - "日本文化"
   - "KOBAN"
 ---
-
 <ruby>日本<rt>にっぽん</rt></ruby>のスターバックスやカフェ、フードコートに<ruby>初<rt>はじ</rt></ruby>めて<ruby>足<rt>あし</rt></ruby>を<ruby>踏み入<rt>ふみい</rt></ruby>れた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>観光<rt>かんこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>が、<ruby>間違<rt>まちが</rt></ruby>いなく<strong><ruby>息<rt>いき</rt></ruby>を<ruby>呑<rt>の</rt></ruby>んで<ruby>目<rt>め</rt></ruby>を<ruby>疑<rt>うたが</rt></ruby>う<ruby>光景<rt>こうけい</rt></ruby></strong>があります。
 
 > 🚗 クルマ：「ふぅ〜、<ruby>歩き疲<rt>あるきつか</rt></ruby>れたから<ruby>渋谷<rt>しぶや</rt></ruby>のおしゃれなカフェでアイスラテでも<ruby>飲<rt>の</rt></ruby>もうかな。……あれ？ あの<ruby>窓際<rt>まどぎわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>も<ruby>座<rt>すわ</rt></ruby>ってないのにテーブルの<ruby>上<rt>うえ</rt></ruby>に<strong><ruby>最新<rt>さいしん</rt></ruby>のピカピカなiPhone</strong>がポツンと<ruby>置<rt>お</rt></ruby>かれてるぞ？」

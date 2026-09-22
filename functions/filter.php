@@ -91,15 +91,43 @@ function oscss_document_title_separator( $sep ) {
 add_filter( 'document_title_separator', 'oscss_document_title_separator' );
 
 /**
- * タイトルタグのパーツ最適化（トップページ・アーカイブ等）
+ * タイトルタグのパーツ最適化（トップページ・アーカイブ等、およびルビタグ除去）
  */
 function oscss_document_title_parts( $title ) {
 	if ( is_front_page() || is_home() ) {
 		$title['tagline'] = get_bloginfo( 'description', 'display' );
+	} elseif ( is_singular() ) {
+		$clean = oscss_get_clean_title( get_queried_object_id() );
+		if ( ! empty( $clean ) ) {
+			$title['title'] = $clean;
+		}
 	}
+
+	// ブラウザのタブや検索エンジンスニペットでHTMLタグが化けないよう、全パーツからルビとタグを安全に除去
+	if ( is_array( $title ) ) {
+		foreach ( $title as $key => $val ) {
+			if ( is_string( $val ) ) {
+				$val = preg_replace( '/<rt>.*?<\/rt>/su', '', $val );
+				$val = preg_replace( '/<rp>.*?<\/rp>/su', '', $val );
+				$val = wp_strip_all_tags( $val );
+				$title[ $key ] = html_entity_decode( $val, ENT_QUOTES, 'UTF-8' );
+			}
+		}
+	}
+
 	return $title;
 }
-add_filter( 'document_title_parts', 'oscss_document_title_parts' );
+add_filter( 'document_title_parts', 'oscss_document_title_parts', 20 );
+
+/**
+ * single_post_title 出力前のルビふりがなクレンジング
+ */
+function oscss_clean_single_post_title_early( $title, $post = null ) {
+	$title = preg_replace( '/<rt>.*?<\/rt>/su', '', $title );
+	$title = preg_replace( '/<rp>.*?<\/rp>/su', '', $title );
+	return $title;
+}
+add_filter( 'single_post_title', 'oscss_clean_single_post_title_early', 1, 2 );
 
 /**
  * フッターやサイドバーウィジェットから「最近のコメント」ブロックおよびその見出しを除外

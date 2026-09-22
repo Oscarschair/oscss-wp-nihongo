@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「さようなら」VS「またね」の違い｜なぜ日本人は友達に「さようなら」と言わないのか？"
+title: "くらべてみました：「さようなら」VS「またね」の<ruby>違<rt>ちが</rt></ruby>い｜なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>に「さようなら」と<ruby>言<rt>い</rt></ruby>わないのか？"
 slug: "japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions"
 date: "2026-09-10T18:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kurabete-sayonara-matane.jpg"
 description: "教科書で一番最初に習う「さようなら」。でも実際の日本人は友達や同僚にほとんど「さようなら」と言わない！？「二度と会えない永遠の別れ」を連想させる語源の歴史と、日常で飛び交う「またね・じゃあね」の温かい心理。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が、<ruby>入門<rt>にゅうもん</rt></ruby><ruby>編<rt>へん</rt></ruby>の<ruby>教科書<rt>きょうかしょ</rt></ruby>の<ruby>第<rt>だい</rt></ruby>1<ruby>課<rt>か</rt></ruby>で<ruby>必<rt>かなら</rt></ruby>ず<ruby>習<rt>なら</rt></ruby>う「<ruby>別<rt>わか</rt></ruby>れの<ruby>挨拶<rt>あいさつ</rt></ruby>」。

@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：終助詞「ぞ」「ぜ」の話｜アニメで毎日聞くのに、なぜ現実の日本人は使わないのか？"
+title: "ことばのあや：<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>「ぞ」「ぜ」の<ruby>話<rt>はなし</rt></ruby>｜アニメで<ruby>毎日<rt>まいにち</rt></ruby><ruby>聞<rt>き</rt></ruby>くのに、なぜ<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>使<rt>つか</rt></ruby>わないのか？"
 slug: "kotoba-no-aya-particles-zo-and-ze-anime-vs-real-life-japanese"
 date: "2026-09-14T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kotoba-zo-ze.jpg"
 description: "「行くぞ！」「うまいぜ！」アニメで主人公たちが毎日かっこよく連発する終助詞「ぞ」「ぜ」。でも現実の日本人が居酒屋や職場で使ったら超不自然！？アニメ独自のキャラクター記号（役割語）と現実会話での正しい使い分け。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>最初<rt>さいしょ</rt></ruby>に<ruby>言<rt>い</rt></ruby>っておきますが……<strong><ruby>私<rt>わたし</rt></ruby>は<ruby>普段<rt>ふだん</rt></ruby>、<ruby>絶対<rt>ぜったい</rt></ruby>に「<ruby>行<rt>い</rt></ruby>くぞ！」「やるぜ！」なんて<ruby>言<rt>い</rt></ruby>いませんよ（<ruby>笑<rt>えみ</rt></ruby>）！</strong>さすがに<ruby>恥<rt>は</rt></ruby>ずかしすぎますからね！

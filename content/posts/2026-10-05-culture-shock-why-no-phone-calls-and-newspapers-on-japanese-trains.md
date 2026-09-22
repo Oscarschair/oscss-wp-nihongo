@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：なぜ日本の電車では電話もダメで、新聞紙を広げるのもNGなの！？——「音と空間」の沈黙マナーと、嫌な電話を1秒で切る最強の裏ワザ"
+title: "カルチャーショック：なぜ<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>では<ruby>電話<rt>でんわ</rt></ruby>もダメで、<ruby>新聞紙<rt>しんぶんし</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるのもNGなの！？——「<ruby>音<rt>おん</rt></ruby>と<ruby>空間<rt>くうかん</rt></ruby>」の<ruby>沈黙<rt>ちんもく</rt></ruby>マナーと、<ruby>嫌<rt>いや</rt></ruby>な<ruby>電話<rt>でんわ</rt></ruby>を1<ruby>秒<rt>びょう</rt></ruby>で<ruby>切<rt>き</rt></ruby>る<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>ワザ"
 description: "香港や欧米の地下鉄では当たり前の大声通話や新聞広げが、なぜ日本の満員電車では一発アウトなのか？「片側だけの会話（ハーフログ）」が脳に与えるストレス心理学と、1人45cmのパーソナルスペースを守る「電車折り」の職人技を徹底解剖。さらに、面倒な電話を「今、電車なので…」と1秒で平和に遮断する日本社会最強の無敵ライフハックまで完全伝授！"
 slug: "culture-shock-why-no-phone-calls-and-newspapers-on-japanese-trains"
 date: "2026-10-05T08:00:00+09:00"
@@ -13,7 +13,6 @@ tags:
   - "日常会話"
   - "日本文化"
 ---
-
 # カルチャーショック：なぜ<ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>では<ruby>電話<rt>でんわ</rt></ruby>もダメで、<ruby>新聞紙<rt>しんぶんし</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるのもNGなの！？——「<ruby>音<rt>おと</rt></ruby>と<ruby>空間<rt>くうかん</rt></ruby>」の<ruby>沈黙<rt>ちんもく</rt></ruby>マナーと、<ruby>嫌<rt>いや</rt></ruby>な<ruby>電話<rt>でんわ</rt></ruby>を1<ruby>秒<rt>びょう</rt></ruby>で<ruby>切<rt>き</rt></ruby>る<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>ワザ
 
 <ruby>香港<rt>ほんこん</rt></ruby>や<ruby>欧米<rt>おうべい</rt></ruby>、アジア<ruby>各地<rt>かくち</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったことがある<ruby>方<rt>かた</rt></ruby>なら、<ruby>車内<rt>しゃない</rt></ruby>のにぎやかさに<ruby>慣<rt>な</rt></ruby>れているはずです。

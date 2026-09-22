@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：餃子も炒飯もビーフンも全部「主食」！香港出身の私が驚いた日本の「炭水化物×炭水化物」文化"
+title: "カルチャーショック：<ruby>餃子<rt>ぎょうざ</rt></ruby>も<ruby>炒飯<rt>ちゃーはん</rt></ruby>もビーフンも<ruby>全部<rt>ぜんぶ</rt></ruby>「<ruby>主食<rt>しゅしょく</rt></ruby>」！<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>私<rt>わたし</rt></ruby>が<ruby>驚<rt>おどろ</rt></ruby>いた<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>×<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>」<ruby>文化<rt>ぶんか</rt></ruby>"
 slug: "culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli"
 date: "2026-09-09T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-culture-carb-combo.jpg"
 description: "香港や中華圏では炒飯も餃子もビーフンも1品で完結する「主食」。なのに日本の定食屋では「ラーメン＋半チャーハン」「餃子定食」「焼きそばパン」と主食×主食のオンパレード！？食文化の決定的な違いと魅力を徹底解説。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、オスカーです！  
 > <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>の<ruby>中華<rt>ちゅうか</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>や<ruby>定食<rt>ていしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで<ruby>誰<rt>だれ</rt></ruby>もが<ruby>目<rt>め</rt></ruby>にする「セットメニュー」にまつわるカルチャーショックをお<ruby>話<rt>はな</rt></ruby>しします。

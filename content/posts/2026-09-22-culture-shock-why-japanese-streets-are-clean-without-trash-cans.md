@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：街中にゴミ箱がないのになぜ綺麗？香港との違いと日本人の持ち帰り文化"
+title: "カルチャーショック：<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がないのになぜ<ruby>綺麗<rt>きれい</rt></ruby>？<ruby>香港<rt>ほんこん</rt></ruby>との<ruby>違<rt>ちが</rt></ruby>いと<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>持ち帰<rt>もちかえ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>"
 slug: "culture-shock-why-japanese-streets-are-clean-without-trash-cans"
 date: "2026-09-22T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-culture-no-trash-cans-clean-streets.jpg"
 description: "香港には数十メートルおきにゴミ箱を設置する法律・基準があり、ポイ捨ては即座に高額罰金。一方、日本の街角にはゴミ箱が一切ないのに、なぜ道はピカピカなのか？自販機横の「リサイクルBOX」の罠と、日本人がゴミを持ち帰る3つの秘密。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>私<rt>わたし</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て、<ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>としても<ruby>留学生<rt>りゅうがくせい</rt></ruby>としても<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>激<rt>はげ</rt></ruby>しく<ruby>打<rt>う</rt></ruby>ちのめされた「<ruby>最大<rt>さいだい</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>」があります。

@@ -1,5 +1,5 @@
 ---
-title: "街角サバイバル：カフェ注文の波状攻撃｜「店内ですか？」「商品は手渡しで？」…次々と繰り出される謎質問を突破せよ！"
+title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：カフェ<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>波状<rt>はじょう</rt></ruby><ruby>攻撃<rt>こうげき</rt></ruby>｜「<ruby>店内<rt>てんない</rt></ruby>ですか？」「<ruby>商品<rt>しょうひん</rt></ruby>は<ruby>手渡<rt>てわた</rt></ruby>しで？」…<ruby>次々<rt>つぎつぎ</rt></ruby>と<ruby>繰り出<rt>くりだ</rt></ruby>される<ruby>謎<rt>なぞ</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>を<ruby>突破<rt>とっぱ</rt></ruby>せよ！"
 slug: "street-japanese-cafe-order-survival-mug-or-paper-guide"
 date: "2026-09-21 08:00:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 description: "日本のカフェやパン屋で直面する連続質問トラップ！「店内ですか？持ち帰りですか？」そして最大の謎「商品は手渡しでよろしいでしょうか？（手渡し以外に何があるんだ！？）」。レジ前でフリーズしないための攻略法と実用コマンドを徹底解説！"
 thumbnail: "assets/images/thumbnails/thumb-street-cafe-order-rpg.jpg"
 ---
-
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いていて、「ちょっと<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かわ</rt></ruby>いたな」「おしゃれなカフェで<ruby>一休<rt>ひとやす</rt></ruby>みしよう」とお<ruby>店<rt>みせ</rt></ruby>のドアを<ruby>開<rt>あ</rt></ruby>けたあなた。
 
 <ruby>美味<rt>おい</rt></ruby>しそうなコーヒーの<ruby>香<rt>かお</rt></ruby>りに<ruby>包<rt>つつ</rt></ruby>まれてレジカウンターの<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち、<ruby>元気<rt>げんき</rt></ruby>よく**「アイスコーヒーを1つください！」**と<ruby>注文<rt>ちゅうもん</rt></ruby>しました。

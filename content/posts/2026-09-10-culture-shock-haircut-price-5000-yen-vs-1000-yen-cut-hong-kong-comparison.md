@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：日本の散髪、高すぎない！？香港で60ドルだった私が「5,000円カット」と「1,000円カット」の真実に納得するまで"
+title: "カルチャーショック：<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>散髪<rt>さんぱつ</rt></ruby>、<ruby>高<rt>たか</rt></ruby>すぎない！？<ruby>香港<rt>ほんこん</rt></ruby>で60ドルだった<ruby>私<rt>わたし</rt></ruby>が「5,000<ruby>円<rt>えん</rt></ruby>カット」と「1,000<ruby>円<rt>えん</rt></ruby>カット」の<ruby>真実<rt>しんじつ</rt></ruby>に<ruby>納得<rt>なっとく</rt></ruby>するまで"
 slug: "culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison"
 date: "2026-09-10T12:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-culture-haircut-price.jpg"
 description: "香港なら約1,200円で切れる散髪が、日本では5,000円〜！？最初は「高すぎる！」と怯えていた香港出身のオスカーが、シャンプー・マッサージの極上ホスピタリティと1,000円カットの職人技を体験して納得した真実。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らし<ruby>始<rt>はじ</rt></ruby>めた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が、<ruby>生活<rt>せいかつ</rt></ruby><ruby>費<rt>ひ</rt></ruby>や<ruby>物価<rt>ぶっか</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>する<ruby>大<rt>おお</rt></ruby>きなカルチャーショック。

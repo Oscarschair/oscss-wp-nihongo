@@ -27,6 +27,7 @@ get_header();
 						<?php oscss_posted_on(); ?>
 						<?php oscss_posted_reading_time(); ?>
 						<?php oscss_posted_views(); ?>
+						<?php oscss_posted_ruby_badge(); ?>
 					</div>
 
 					<h1 class="c-entry__title"><?php the_title(); ?></h1>
@@ -40,7 +41,7 @@ get_header();
 									'class'         => 'c-entry__thumbnail-img',
 									'loading'       => 'eager',
 									'fetchpriority' => 'high',
-									'alt'           => the_title_attribute( array( 'echo' => false ) ),
+									'alt'           => oscss_get_clean_title(),
 								)
 							);
 							?>

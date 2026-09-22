@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 					array(
 						'class'   => 'c-card__img',
 						'loading' => 'lazy',
-						'alt'     => the_title_attribute( array( 'echo' => false ) ),
+						'alt'     => oscss_get_clean_title(),
 					)
 				);
 				?>

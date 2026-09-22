@@ -1,5 +1,5 @@
 ---
-title: "街角サバイバル：駅・改札ダンジョン｜「ピンポーン！」で赤い扉が閉まった瞬間、勇者が唱える脱出の呪文"
+title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>駅<rt>えき</rt></ruby>・<ruby>改札<rt>かいさつ</rt></ruby>ダンジョン｜「ピンポーン！」で<ruby>赤<rt>あか</rt></ruby>い<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まった<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>勇者<rt>ゆうしゃ</rt></ruby>が<ruby>唱<rt>とな</rt></ruby>える<ruby>脱出<rt>だっしゅつ</rt></ruby>の<ruby>呪文<rt>じゅもん</rt></ruby>"
 slug: "street-japanese-station-ticket-gate-dungeon-guide"
 date: "2026-09-16T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-street-station-gate-rpg.jpg"
 description: "香港の地下鉄は残高マイナスでも出してくれる。でも日本の自動改札機は1円でも足りないと「ピンポーン！」と容赦なく赤い扉が閉まる！？朝のラッシュ時に背後から突き刺さる無言のプレッシャーと、駅員窓口で唱える脱出の神フレーズ。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>新<rt>しん</rt></ruby><ruby>連載<rt>れんさい</rt></ruby><strong>「<ruby>街角<rt>まちかど</rt></ruby>サバイバル」</strong>の<ruby>第<rt>だい</rt></ruby>3<ruby>弾<rt>だん</rt></ruby>へようこそ！

@@ -317,22 +317,25 @@ ssh.connect(
 )
 sftp = ssh.open_sftp()
 
-remote_json = "web/nihongo.oscarchair.jp/gutenberg_updates.json"
-remote_php = "web/nihongo.oscarchair.jp/repair_gutenberg.php"
+theme_dir = "web/nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo"
+remote_json = f"{theme_dir}/gutenberg_updates.json.gz"
+remote_php = f"{theme_dir}/repair_gutenberg.php"
 
-tmp_json = 'gutenberg_updates_tmp.json'
-with open(tmp_json, 'w', encoding='utf-8') as f:
-    json.dump(updates, f, ensure_ascii=False)
-sftp.put(tmp_json, remote_json)
-if os.path.exists(tmp_json):
-    os.remove(tmp_json)
+import gzip
+tmp_json_gz = 'gutenberg_updates_tmp.json.gz'
+with gzip.open(tmp_json_gz, 'wb') as f:
+    f.write(json.dumps(updates, ensure_ascii=False).encode('utf-8'))
+sftp.put(tmp_json_gz, remote_json)
+if os.path.exists(tmp_json_gz):
+    os.remove(tmp_json_gz)
 
 php_script = r'''<?php
 define('WP_USE_THEMES', false);
 require_once(getenv('HOME') . '/web/nihongo.oscarchair.jp/wp-load.php');
 require_once(ABSPATH . 'wp-admin/includes/image.php');
 
-$data = json_decode(file_get_contents(getenv('HOME') . '/web/nihongo.oscarchair.jp/gutenberg_updates.json'), true);
+$raw = file_get_contents(__DIR__ . '/gutenberg_updates.json.gz');
+$data = json_decode(gzdecode($raw), true);
 
 $updated = 0;
 $created = 0;
@@ -458,6 +461,17 @@ foreach ($data as $item) {
         }
         wp_update_post($post_arr);
 
+        // sanitize_post による <ruby> タグ除去を回避し、HTMLルビを正本として保存
+        if (!empty($item['title'])) {
+            global $wpdb;
+            $wpdb->update(
+                $wpdb->posts,
+                array('post_title' => $item['title']),
+                array('ID' => $p->ID)
+            );
+            clean_post_cache($p->ID);
+        }
+
         if (!empty($cat_ids)) {
             wp_set_post_categories($p->ID, $cat_ids);
         }
@@ -485,6 +499,15 @@ foreach ($data as $item) {
         );
         $new_id = wp_insert_post($new_post);
         if (!is_wp_error($new_id) && $new_id > 0) {
+            if (!empty($item['title'])) {
+                global $wpdb;
+                $wpdb->update(
+                    $wpdb->posts,
+                    array('post_title' => $item['title']),
+                    array('ID' => $new_id)
+                );
+                clean_post_cache($new_id);
+            }
             update_post_meta($new_id, '_oscss_post_views', 0);
             if ($thumb_id > 0) {
                 set_post_thumbnail($new_id, $thumb_id);

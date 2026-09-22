@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：代引きで「お釣り大丈夫です」と言ったら「いやダメです！」と断られた話｜日本にチップ文化がない本当の理由"
+title: "カルチャーショック：<ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>きで「お<ruby>釣<rt>つ</rt></ruby>り<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>ったら「いやダメです！」と<ruby>断<rt>ことわ</rt></ruby>られた<ruby>話<rt>はなし</rt></ruby>｜<ruby>日本<rt>にっぽん</rt></ruby>にチップ<ruby>文化<rt>ぶんか</rt></ruby>がない<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>"
 slug: "culture-shock-cash-on-delivery-refused-tip-keep-the-change"
 date: "2026-09-10T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-culture-cash-on-delivery.jpg"
 description: "海外では常識の「お釣りは取っておいて（Keep the change）」。日本の代引きで配達員さんに言ったら「1円たりとも受け取れません！」と全力で断られた！？日本人がチップを頑なに受け取らない本当の理由とおもてなし哲学。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>み<ruby>始<rt>はじ</rt></ruby>めて<ruby>間<rt>ま</rt></ruby>もない<ruby>頃<rt>ころ</rt></ruby>、ネットショッピングの「<ruby>代金<rt>だいきん</rt></ruby><ruby>引換<rt>ひきかえ</rt></ruby>（<ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>き）」で<ruby>経験<rt>けいけん</rt></ruby>した、<ruby>忘<rt>わす</rt></ruby>れられないカルチャーショックをお<ruby>話<rt>はな</rt></ruby>しします。

@@ -1,5 +1,5 @@
 ---
-title: "なぜ日本のトイレには川のせせらぎが流れるの？——「音姫（おとひめ）」の謎と日本の“恥じらい”ハイテク文化"
+title: "なぜ<ruby>日本<rt>にっぽん</rt></ruby>のトイレには<ruby>川<rt>かわ</rt></ruby>のせせらぎが<ruby>流<rt>なが</rt></ruby>れるの？——「<ruby>音<rt>おん</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>（おとひめ）」の<ruby>謎<rt>なぞ</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby>の“<ruby>恥<rt>は</rt></ruby>じらい”ハイテク<ruby>文化<rt>ぶんか</rt></ruby>"
 description: "日本のトイレに入って壁のボタンを押したら、突然スピーカーから川のせせらぎや大音量の流水音が流れて驚いたことはありませんか？外国人旅行者が必ずカルチャーショックを受ける「音姫（おとひめ）」の正体と、日本の「恥じらい」と「超節水」が生んだ驚きの歴史を徹底解説！"
 slug: "culture-shock-why-japanese-toilets-play-water-sounds-otohime"
 date: "2026-09-26T08:00:00+09:00"
@@ -14,7 +14,6 @@ tags:
   - "TOTO"
   - "日本文化"
 ---
-
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>空港<rt>くうこう</rt></ruby>や<ruby>駅<rt>えき</rt></ruby>、デパートのトイレに<ruby>初<rt>はじ</rt></ruby>めて<ruby>入<rt>はい</rt></ruby>ったとき、こんな<ruby>不思議<rt>ふしぎ</rt></ruby>な<ruby>体験<rt>たいけん</rt></ruby>をしたことはありませんか？
 
 > 🚗 クルマ：「ふぅ、<ruby>日本<rt>にっぽん</rt></ruby>のトイレはウォシュレットもあって<ruby>綺麗<rt>きれい</rt></ruby>だな〜。……ん？ <ruby>壁<rt>かべ</rt></ruby>に<strong><ruby>手<rt>て</rt></ruby>のひらのマーク</strong>と<strong>『<ruby>音<rt>おと</rt></ruby>』</strong>って<ruby>書<rt>か</rt></ruby>かれたボタンがあるぞ？ これは<ruby>何<rt>なに</rt></ruby>だろう……？（ポチッ）」

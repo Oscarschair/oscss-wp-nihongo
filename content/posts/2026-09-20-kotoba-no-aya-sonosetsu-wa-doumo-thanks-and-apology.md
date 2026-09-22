@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：「その節はどうも…」の謎｜感謝とお詫びが混ざり合う大人の魔法の言葉・なぜ日本人は具体的に言わないのか？"
+title: "ことばのあや：「その<ruby>節<rt>ふし</rt></ruby>はどうも…」の<ruby>謎<rt>なぞ</rt></ruby>｜<ruby>感謝<rt>かんしゃ</rt></ruby>とお<ruby>詫<rt>わ</rt></ruby>びが<ruby>混<rt>ま</rt></ruby>ざり<ruby>合<rt>あ</rt></ruby>う<ruby>大人<rt>おとな</rt></ruby>の<ruby>魔法<rt>まほう</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>・なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>言<rt>い</rt></ruby>わないのか？"
 slug: "kotoba-no-aya-sonosetsu-wa-doumo"
 date: "2026-09-20T08:00:00+09:00"
 categories:
@@ -14,7 +14,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kotoba-sonosetsu-doumo.jpg"
 description: "「あ、その節はどうも…」の『その節』って一体いつの話！？感謝なのかお詫びなのか、なぜ語尾を濁すのか？日本人が過去の出来事をあえて具体的に言わずに共有する「察しの美学」と大人の処世術を徹底解剖！"
 ---
-
 > 💬 **オスカー**  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>日本<rt>にっぽん</rt></ruby>でビジネスや<ruby>社会<rt>しゃかい</rt></ruby><ruby>人<rt>じん</rt></ruby>の<ruby>付き合<rt>つきあ</rt></ruby>いを<ruby>始<rt>はじ</rt></ruby>めると、<ruby>必<rt>かなら</rt></ruby>ず<ruby>耳<rt>みみ</rt></ruby>にする<ruby>超<rt>ちょう</rt></ruby>ハイコンテクストな<ruby>日本語<rt>にほんご</rt></ruby>があります。

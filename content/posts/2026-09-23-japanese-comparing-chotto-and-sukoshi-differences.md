@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「ちょっと」VS「少し」の違い｜なぜ日本人は断る時に「ちょっと…」と語尾を消すのか？"
+title: "くらべてみました：「ちょっと」VS「<ruby>少<rt>すこ</rt></ruby>し」の<ruby>違<rt>ちが</rt></ruby>い｜なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>断<rt>ことわ</rt></ruby>る<ruby>時<rt>とき</rt></ruby>に「ちょっと…」と<ruby>語尾<rt>ごび</rt></ruby>を<ruby>消<rt>け</rt></ruby>すのか？"
 slug: "japanese-comparing-chotto-and-sukoshi-differences"
 date: "2026-09-23T08:00:00+09:00"
 categories:
@@ -13,7 +13,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kurabete-chotto-sukoshi.jpg"
 description: "「少し」と「ちょっと」、どちらも「少ない量」を指す言葉ですが、なぜ日本人は誘いを断る時に「今夜はちょっと…」とだけ言って語尾を消すのか？客観的な物理量を表す「少し」と、心理的クッション・遠慮を込める「ちょっと」の決定的な違いと文化の深層を徹底比較！"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>めたばかりの<ruby>頃<rt>ころ</rt></ruby>、<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いて「<ruby>同<rt>おな</rt></ruby>じ<ruby>意味<rt>いみ</rt></ruby>」と<ruby>書<rt>か</rt></ruby>いてあるのに、<ruby>実際<rt>じっさい</rt></ruby>の<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で<ruby>使い分<rt>つかいわ</rt></ruby>けるのが<ruby>猛烈<rt>もうれつ</rt></ruby>に<ruby>難<rt>むずか</rt></ruby>しかったペアがあります。

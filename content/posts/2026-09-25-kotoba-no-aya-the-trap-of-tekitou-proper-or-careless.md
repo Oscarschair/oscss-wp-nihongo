@@ -1,5 +1,5 @@
 ---
-title: "「適当にやって」は褒め言葉？手抜き？——中国語・日本語で意味が真逆になる「適当（テキトー）」の不思議な正体"
+title: "「<ruby>適当<rt>てきとう</rt></ruby>にやって」は<ruby>褒<rt>ほ</rt></ruby>め<ruby>言葉<rt>ことば</rt></ruby>？<ruby>手抜<rt>てぬ</rt></ruby>き？——<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>・<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>意味<rt>いみ</rt></ruby>が<ruby>真<rt>ま</rt></ruby><ruby>逆<rt>ぎゃく</rt></ruby>になる「<ruby>適当<rt>てきとう</rt></ruby>（テキトー）」の<ruby>不思議<rt>ふしぎ</rt></ruby>な<ruby>正体<rt>しょうたい</rt></ruby>"
 description: "「これ適当にやっておいて」と言われて全力で完璧な正解を探していませんか？中国語・広東語では「適切・正当」を意味する「適当」が、なぜ日本語の会話では「そこそこで・いい加減」になるのか？日常会話と公文書・契約書の明確な境界線を徹底解説！"
 slug: "kotoba-no-aya-the-trap-of-tekitou-proper-or-careless"
 date: "2026-09-25T08:00:00+09:00"
@@ -14,7 +14,6 @@ tags:
   - "ニュアンス"
   - "言葉のあや"
 ---
-
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>職場<rt>しょくば</rt></ruby>で、<ruby>先輩<rt>せんぱい</rt></ruby>や<ruby>上司<rt>じょうし</rt></ruby>からこんな<ruby>風<rt>かぜ</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかけられたことはありませんか？
 
 > 👨‍💼 <ruby>上司<rt>じょうし</rt></ruby>：「オスカーくん、この<ruby>資料<rt>しりょう</rt></ruby>、<ruby>夕方<rt>ゆうがた</rt></ruby>までに<strong><ruby>適当<rt>てきとう</rt></ruby>にまとめておいて〜</strong>」
