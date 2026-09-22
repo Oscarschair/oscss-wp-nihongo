@@ -14,7 +14,6 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kotoba-sumimasen-faces.jpg"
 description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に集約された驚異の言葉「すみません」。なぜ日本人はエレベーターを開けてもらったとき「ありがとう」ではなく「すみません」と謝るのか？日本人の「配慮と負い目」の心理を解き明かす。"
 ---
-
 > 💬 <strong>オスカー</strong>  
 > こんにちは、香港出身のオスカーです！  
 > 日本で暮らし始めた外国人が、入国後わずか数日で最も強烈にインプットされる日本語。  
@@ -46,13 +45,13 @@ description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に
 
 | # | 場面・用途 | 英語の相当語 | 日本語のニュアンス | 会話の具体例 |
 | :--- | :--- | :--- | :--- | :--- |
-| <strong>①</strong> | <strong>謝罪（あやまる）</strong> | I'm sorry | 申し訳ありません・ごめんなさい | 足を踏んでしまったとき |
+| <strong>①</strong> | <strong><ruby>謝罪<rt>しゃざい</rt></ruby></strong> | I'm sorry | 申し訳ありません・ごめんなさい | 足を踏んでしまったとき |
 | <strong>②</strong> | <strong>感謝（お礼を言う）</strong> | Thank you | わざわざありがとうございます | ドアを開けて待ってくれたとき |
 | <strong>③</strong> | <strong>呼びかけ（声をかける）</strong> | Excuse me | ちょっとお時間いいですか？ | 居酒屋や駅で店員を呼ぶとき |
 | <strong>④</strong> | <strong>道あけ・通過（割って入る）</strong> | Pardon me | 前を失礼します・通してください | エレベーターや電車を降りるとき |
 | <strong>⑤</strong> | <strong>クッション言葉（前置き）</strong> | I hate to ask, but... | 恐れ入りますが・お手数ですが | 「すみません、ペン貸してもらえますか？」 |
 | <strong>⑥</strong> | <strong>退室・辞去（立ち去る）</strong> | Excuse me | そろそろ失礼いたします | 「それでは、今日はこれで…すみません」 |
-| <strong>⑦</strong> | <strong>軽い挨拶・会釈（どうも）</strong> | Hello / Hi | お世話になっております | 近所の人と廊下ですれ違ったとき |
+| <strong>⑦</strong> | <strong>軽い挨拶・<ruby>会釈<rt>えしゃく</rt></ruby></strong> | Hello / Hi | お世話になっております | 近所の人と廊下ですれ違ったとき |
 
 まさに日本語界の<strong>「万能スイスアーミーナイフ」</strong>！
 
@@ -70,7 +69,7 @@ description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に
 
 ### 「すみません」の語源は「私の心が澄まない（済まない）」
 
-「すみません」は、動詞<strong>「済む（すむ）」</strong>の否定形です。
+「すみません」は、動詞<strong>「<ruby>済む<rt>すむ</rt></ruby>」</strong>の否定形です。
 
 * 物事が完了して一件落着する。
 * 自分の気持ちがスッキリと納得し、澄み渡る（おさまりがつく）。
@@ -106,7 +105,7 @@ description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に
 
 * <strong>「あ、すみません！ありがとうございます！」</strong>
 
-相手への配慮（すみません）を示しつつ、ポジティブな感謝（ありがとう）で締めくくる。これが大人の日本人が使う最も完璧で好感度の高いコンボ技です。
+相手への<ruby>配慮<rt>すみません</rt></ruby>を示しつつ、ポジティブな<ruby>感謝<rt>ありがとう</rt></ruby>で締めくくる。これが大人の日本人が使う最も完璧で好感度の高いコンボ技です。
 
 ### テクニック②：イントネーションと語尾で「7つの顔」を操る！
 「すみません」は音のトーンで意味が180度変わります。

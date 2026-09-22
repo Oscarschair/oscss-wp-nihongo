@@ -3407,6 +3407,25 @@ section .ad-placeholder,
 	}
 }
 
+/* ==========================================================================
+   22. Ruby & Furigana Styles (発音・ルビースタイル)
+   ========================================================================== */
+ruby {
+	ruby-position: over;
+	ruby-align: center;
+	display: inline-ruby;
+}
+
+rt {
+	font-size: 0.62em;
+	color: var(--color-primary);
+	font-weight: 600;
+	letter-spacing: 0.02em;
+	line-height: 1;
+	user-select: none; /* コピペ時にルビ文字が混入するのを防止 */
+}
+
+
 
 
 
