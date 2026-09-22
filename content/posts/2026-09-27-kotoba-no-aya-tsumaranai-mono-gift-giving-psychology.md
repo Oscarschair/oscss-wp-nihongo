@@ -3,7 +3,7 @@ title: "「つまらないものですが」と言って高級メロンを渡す
 description: "桐箱に入った1万円の高級メロンを差し出しながら「つまらないものですが…」と言う日本人。「つまらないなら何で渡すの！？」と外国人が100%ツッコミを入れたくなる日本の定番お土産フレーズの深すぎる心理と、今すぐ使える現代のスマートな手土産フレーズを徹底解説！"
 slug: "kotoba-no-aya-tsumaranai-mono-gift-giving-psychology"
 date: "2026-09-27T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-tsumaranai-mono-melon.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-tsumaranai-mono.jpg"
 categories:
   - "言葉のあや"
 tags:
