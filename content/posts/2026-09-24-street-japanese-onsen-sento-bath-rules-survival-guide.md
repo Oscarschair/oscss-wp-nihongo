@@ -10,7 +10,7 @@ tags:
   - "銭湯"
   - "日本の文化"
   - "RPG風日本語"
-thumbnail: "assets/images/thumbnails/thumb_street_onsen_sento_rpg.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-onsen-sento-rpg.jpg"
 description: "全裸で他人と同じ湯船に浸かる日本の温泉・銭湯。服を脱いで丸腰になった勇者オスカーの前に立ちはだかる「かけ湯の儀式」「体を洗ってから入る掟」「湯船にタオル浸けたら即ゲームオーバー」の3大試練！恥をかかずに極楽を味わうRPG風入浴攻略ガイド。"
 ---
 > 💬 <strong>オスカー</strong>  

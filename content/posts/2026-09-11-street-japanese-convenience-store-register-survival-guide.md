@@ -10,7 +10,7 @@ tags:
   - "日常会話"
   - "接客日本語"
   - "香港と日本の違い"
-thumbnail: "assets/images/thumbnails/thumb_street_convenience_register.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-convenience-register.jpg"
 description: "香港のコンビニは無言でスピーディー。でも日本のコンビニは「袋・温め・ポイントカード」と次々に回答を求めてくる！？来日初心者が一番緊張する「レジの3大トラップ」を突破する神フレーズとRPG攻略チャート。"
 ---
 

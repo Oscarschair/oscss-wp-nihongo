@@ -3,7 +3,7 @@ title: "雨の日の傘立てはトラップだらけ！？——消えるビニ
 description: "日本は世界一治安が良いはずなのに、なぜ「傘立てのビニール傘」だけは簡単に盗まれるのか！？鍵付き傘立ての使い方から、スーパーの傘袋マシーン（カサポン）、自分の傘を守る最強の自衛ライフハックまで徹底攻略！"
 slug: "street-japanese-rainy-day-umbrella-stand-dungeon-guide"
 date: "2026-09-29T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb_street_umbrella_stand_rpg.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-umbrella-stand-rpg.jpg"
 categories:
   - "街角サバイバル"
 tags:

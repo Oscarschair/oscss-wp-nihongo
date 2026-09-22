@@ -10,7 +10,7 @@ tags:
   - "日常会話"
   - "接客日本語"
   - "香港と日本の違い"
-thumbnail: "assets/images/thumbnails/thumb_street_izakaya_rpg.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-izakaya-rpg.jpg"
 description: "香港のレストランはお茶代だけで小鉢は出ない。でも日本の居酒屋は頼んでもいない小鉢（お通し）が自動で出てきて課金される！？着席3秒で迫られる「とりあえず生」の儀式と、お酒が飲めない勇者のためのノンアル脱出コマンド。"
 ---
 > 💬 <strong>オスカー</strong>  
