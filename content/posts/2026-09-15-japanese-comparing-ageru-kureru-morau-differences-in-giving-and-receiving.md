@@ -14,123 +14,124 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-kurabete-ageru-kureru.jpg"
 description: "英語なら「give」1語で済むのに、日本語ではなぜ「あげる」と「くれる」で単語が分かれるのか？矢印が内側（自分側）に向くか外側に向くか、日本人の「ウチとソト」の人間関係がそのまま言葉になった授受表現の完全攻略ガイド。"
 ---
+
 > 💬 <strong>オスカー</strong>  
-> こんにちは、香港出身のオスカーです！  
-> 世界中の日本語学習者が初級から中級にステップアップするとき、必ずと言っていいほど直面する<strong>「最大の難所」</strong>があります。  
-> それが……<strong>「あげる」「くれる」「もらう」という授受表現（もののやり取り）の迷宮</strong>です！  
-> 英語なら「give」と「receive」、中国語なら「給（gei）」と「收（shou）」だけでスッキリ表現できるのに、日本語になった瞬間、  
-> <strong>「私は彼に本をあげた」「彼は私に本をくれた」「私は彼から本をもらった」</strong>  
-> と、視点や矢印の向きによって言葉が3つに分裂するのです！  
-> 「先生、友達が私にプレゼントをあげました！」と言って、「それは『くれました』だよ」と直された経験がある学習者は星の数ほどいるはず（笑）。  
-> 今回は、なぜ日本語には「あげる」と「くれる」という2つのGIVEが存在するのか？ その理由と、絶対に間違えなくなる「矢印の法則」を分かりやすく解説します！
+> こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
+> <ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>初級<rt>しょきゅう</rt></ruby>から<ruby>中級<rt>ちゅうきゅう</rt></ruby>にステップアップするとき、<ruby>必<rt>かなら</rt></ruby>ずと<ruby>言<rt>い</rt></ruby>っていいほど<ruby>直面<rt>ちょくめん</rt></ruby>する<strong>「<ruby>最大<rt>さいだい</rt></ruby>の<ruby>難所<rt>なんしょ</rt></ruby>」</strong>があります。  
+> それが……<strong>「あげる」「くれる」「もらう」という<ruby>授受<rt>じゅじゅ</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>（もののやり<ruby>取<rt>と</rt></ruby>り）の<ruby>迷宮<rt>めいきゅう</rt></ruby></strong>です！  
+> <ruby>英語<rt>えいご</rt></ruby>なら「give」と「receive」、<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>なら「<ruby>給<rt>きゅう</rt></ruby>（gei）」と「<ruby>收<rt>おさむ</rt></ruby>（shou）」だけでスッキリ<ruby>表現<rt>ひょうげん</rt></ruby>できるのに、<ruby>日本語<rt>にほんご</rt></ruby>になった<ruby>瞬間<rt>しゅんかん</rt></ruby>、
+> <strong>「<ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>をあげた」「<ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>をくれた」「<ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>から<ruby>本<rt>ほん</rt></ruby>をもらった」</strong>  
+> と、<ruby>視点<rt>してん</rt></ruby>や<ruby>矢印<rt>やじるし</rt></ruby>の<ruby>向<rt>む</rt></ruby>きによって<ruby>言葉<rt>ことば</rt></ruby>が3つに<ruby>分裂<rt>ぶんれつ</rt></ruby>するのです！
+> 「<ruby>先生<rt>せんせい</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>にプレゼントをあげました！」と<ruby>言<rt>い</rt></ruby>って、「それは『くれました』だよ」と<ruby>直<rt>なお</rt></ruby>された<ruby>経験<rt>けいけん</rt></ruby>がある<ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>は<ruby>星<rt>ほし</rt></ruby>の<ruby>数<rt>かず</rt></ruby>ほどいるはず（<ruby>笑<rt>えみ</rt></ruby>）。
+> <ruby>今回<rt>こんかい</rt></ruby>は、なぜ<ruby>日本語<rt>にほんご</rt></ruby>には「あげる」と「くれる」という2つのGIVEが<ruby>存在<rt>そんざい</rt></ruby>するのか？ その<ruby>理由<rt>りゆう</rt></ruby>と、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>間違<rt>まちが</rt></ruby>えなくなる「<ruby>矢印<rt>やじるし</rt></ruby>の<ruby>法則<rt>ほうそく</rt></ruby>」を<ruby>分<rt>わ</rt></ruby>かりやすく<ruby>解説<rt>かいせつ</rt></ruby>します！
 
 ---
 
-## 🌪️ なぜ世界中の学習者が「あげる」「くれる」でパニックになるのか？
+## 🌪️ なぜ<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が「あげる」「くれる」でパニックになるのか？
 
-英語や中国語など、世界の主要な言語の多くは、動作を<strong>「客観的な事実」</strong>として外側からカメラを引いて描写します。
+<ruby>英語<rt>えいご</rt></ruby>や<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>など、<ruby>世界<rt>せかい</rt></ruby>の<ruby>主要<rt>しゅよう</rt></ruby>な<ruby>言語<rt>げんご</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くは、<ruby>動作<rt>どうさ</rt></ruby>を<strong>「<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>事実<rt>じじつ</rt></ruby>」</strong>として<ruby>外側<rt>そとがわ</rt></ruby>からカメラを<ruby>引<rt>ひ</rt></ruby>いて<ruby>描写<rt>びょうしゃ</rt></ruby>します。
 
-- 英語: "I gave him a gift." / "He gave me a gift."  
-  ➔ 主語が誰であれ、動詞は同じ「gave（与えた）」を使う。
-- 中国語: 「我送給他禮物」 / 「他送給我禮物」  
-  ➔ どちらも「送給（与える）」でOK。
+- <ruby>英語<rt>えいご</rt></ruby>: "I gave him a gift." / "He gave me a gift."
+➔ <ruby>主語<rt>しゅご</rt></ruby>が<ruby>誰<rt>だれ</rt></ruby>であれ、<ruby>動詞<rt>どうし</rt></ruby>は<ruby>同<rt>おな</rt></ruby>じ「gave（<ruby>与<rt>あた</rt></ruby>えた）」を<ruby>使<rt>つか</rt></ruby>う。
+- <ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>: 「<ruby>我<rt>わが</rt></ruby><ruby>送<rt>おく</rt></ruby><ruby>給<rt>きゅう</rt></ruby><ruby>他<rt>た</rt></ruby><ruby>禮物<rt>*</rt></ruby>」 / 「<ruby>他<rt>た</rt></ruby><ruby>送<rt>おく</rt></ruby><ruby>給<rt>きゅう</rt></ruby><ruby>我<rt>わが</rt></ruby><ruby>禮物<rt>*</rt></ruby>」
+➔ どちらも「<ruby>送<rt>おく</rt></ruby><ruby>給<rt>きゅう</rt></ruby>（<ruby>与<rt>あた</rt></ruby>える）」でOK。
 
-ところが、日本語は徹底的に<strong>「話し手（自分）の主観的ポジション」</strong>にカメラを固定して世界を眺めます。  
-そのため、「誰から誰に向かってモノが移動したのか」という<strong>心理的な距離と矢印の向き</strong>によって、使う動詞が完全に切り替わるのです。
+ところが、<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>徹底的<rt>てっていてき</rt></ruby>に<strong>「<ruby>話し手<rt>はなして</rt></ruby>（<ruby>自分<rt>じぶん</rt></ruby>）の<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby>ポジション」</strong>にカメラを<ruby>固定<rt>こてい</rt></ruby>して<ruby>世界<rt>せかい</rt></ruby>を<ruby>眺<rt>なが</rt></ruby>めます。
+そのため、「<ruby>誰<rt>だれ</rt></ruby>から<ruby>誰<rt>だれ</rt></ruby>に<ruby>向<rt>む</rt></ruby>かってモノが<ruby>移動<rt>いどう</rt></ruby>したのか」という<strong><ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>距離<rt>きょり</rt></ruby>と<ruby>矢印<rt>やじるし</rt></ruby>の<ruby>向<rt>む</rt></ruby>き</strong>によって、<ruby>使<rt>つか</rt></ruby>う<ruby>動詞<rt>どうし</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>切り替<rt>きりか</rt></ruby>わるのです。
 
-> 💬 <strong>日本の友人</strong>  
-> 確かに！ 日本人は「友達が私にプレゼントをあげた」って言われると、文法的に間違っているだけじゃなくて、なんだか「友達が自分に対して偉そうに恵んでやった」みたいに聞こえて、すごく違和感があるんだよね（笑）。
+> 💬 <strong><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby></strong>  
+> <ruby>確<rt>たし</rt></ruby>かに！ <ruby>日本人<rt>にっぽんじん</rt></ruby>は「<ruby>友達<rt>ともだち</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>にプレゼントをあげた」って<ruby>言<rt>い</rt></ruby>われると、<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>間違<rt>まちが</rt></ruby>っているだけじゃなくて、なんだか「<ruby>友達<rt>ともだち</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>偉<rt>えら</rt></ruby>そうに<ruby>恵<rt>めぐ</rt></ruby>んでやった」みたいに<ruby>聞<rt>き</rt></ruby>こえて、すごく<ruby>違和感<rt>いわかん</rt></ruby>があるんだよね（<ruby>笑<rt>えみ</rt></ruby>）。
 
-そうなんです！ 「あげる」と「くれる」には、単なる移動以上の<strong>「心理的な<ruby>恩恵<rt>ありがたみ</rt></ruby>」</strong>が込められているのです。
+そうなんです！ 「あげる」と「くれる」には、<ruby>単<rt>たん</rt></ruby>なる<ruby>移動<rt>いどう</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<strong>「<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>恩恵<rt>ありがたみ</rt></ruby>」</strong>が<ruby>込<rt>こ</rt></ruby>められているのです。
 
 ---
 
-## 🎯 【完全図解】一発でマスターできる「矢印の法則」
+## 🎯 【<ruby>完全<rt>かんぜん</rt></ruby><ruby>図解<rt>ずかい</rt></ruby>】<ruby>一<rt>いち</rt></ruby><ruby>発<rt>はつ</rt></ruby>でマスターできる「<ruby>矢印<rt>やじるし</rt></ruby>の<ruby>法則<rt>ほうそく</rt></ruby>」
 
-この迷宮を脱出するためのルールは、実はたったの1つです。  
-<strong>「矢印（ものの移動）が、自分に向かっているか？ 離れているか？」</strong>だけに注目してください！
+この<ruby>迷宮<rt>めいきゅう</rt></ruby>を<ruby>脱出<rt>だっしゅつ</rt></ruby>するためのルールは、<ruby>実<rt>じつ</rt></ruby>はたったの1つです。
+<strong>「<ruby>矢印<rt>やじるし</rt></ruby>（ものの<ruby>移動<rt>いどう</rt></ruby>）が、<ruby>自分<rt>じぶん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっているか？ <ruby>離<rt>はな</rt></ruby>れているか？」</strong>だけに<ruby>注目<rt>ちゅうもく</rt></ruby>してください！
 
 ![日本語の授受動詞：あげる・くれる・もらう 矢印の法則図解](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/diagram-ageru-kureru-flow.jpg)
 
-### 1. 「あげる」：矢印が自分から外へ向かう（GIVE OUT）
-- <strong>公式</strong>: <strong>私（ウチ） ➔ 相手（ソト）</strong>
-- 「私があなたにプレゼントをあげる」
-- 「私が友達にお土産をあげる」
-自分から他者へ、あるいは他者から別の他者へモノが移動するときはすべて「あげる」です。
+### 1. 「あげる」：<ruby>矢印<rt>やじるし</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>から<ruby>外<rt>そと</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かう（GIVE OUT）
+- <strong><ruby>公式<rt>こうしき</rt></ruby></strong>: <strong><ruby>私<rt>わたし</rt></ruby>（ウチ） ➔ <ruby>相手<rt>あいて</rt></ruby>（ソト）</strong>
+- 「<ruby>私<rt>わたし</rt></ruby>があなたにプレゼントをあげる」
+- 「<ruby>私<rt>わたし</rt></ruby>が<ruby>友達<rt>ともだち</rt></ruby>にお<ruby>土産<rt>みやげ</rt></ruby>をあげる」
+<ruby>自分<rt>じぶん</rt></ruby>から<ruby>他者<rt>たしゃ</rt></ruby>へ、あるいは<ruby>他者<rt>たしゃ</rt></ruby>から<ruby>別<rt>べつ</rt></ruby>の<ruby>他者<rt>たしゃ</rt></ruby>へモノが<ruby>移動<rt>いどう</rt></ruby>するときはすべて「あげる」です。
 
-### 2. 「くれる」：矢印が外から自分へ向かってくる（GIVE IN）
-- <strong>公式</strong>: <strong>相手（ソト） ➔ 私（ウチ）</strong>
-- 「友達が私にプレゼントをくれる」
-- 「先輩がお菓子をくれた」
-他者から自分（または自分の家族などの身内）に向かってモノが入ってくるとき、日本語は絶対に「くれる」を使います。  
-「くれる」という言葉には、<strong>「私のためにわざわざ届けてくれてありがとう」という感謝のニュアンス</strong>が最初から組み込まれているのです。
+### 2. 「くれる」：<ruby>矢印<rt>やじるし</rt></ruby>が<ruby>外<rt>そと</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かってくる（GIVE IN）
+- <strong><ruby>公式<rt>こうしき</rt></ruby></strong>: <strong><ruby>相手<rt>あいて</rt></ruby>（ソト） ➔ <ruby>私<rt>わたし</rt></ruby>（ウチ）</strong>
+- 「<ruby>友達<rt>ともだち</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>にプレゼントをくれる」
+- 「<ruby>先輩<rt>せんぱい</rt></ruby>がお<ruby>菓子<rt>かし</rt></ruby>をくれた」
+<ruby>他者<rt>たしゃ</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>（または<ruby>自分<rt>じぶん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>などの<ruby>身内<rt>みうち</rt></ruby>）に<ruby>向<rt>む</rt></ruby>かってモノが<ruby>入<rt>はい</rt></ruby>ってくるとき、<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>絶対<rt>ぜったい</rt></ruby>に「くれる」を<ruby>使<rt>つか</rt></ruby>います。
+「くれる」という<ruby>言葉<rt>ことば</rt></ruby>には、<strong>「<ruby>私<rt>わたし</rt></ruby>のためにわざわざ<ruby>届<rt>とど</rt></ruby>けてくれてありがとう」という<ruby>感謝<rt>かんしゃ</rt></ruby>のニュアンス</strong>が<ruby>最初<rt>さいしょ</rt></ruby>から<ruby>組み込<rt>くみこ</rt></ruby>まれているのです。
 
-### 3. 「もらう」：自分が受け取る（RECEIVE）
-- <strong>公式</strong>: <strong>私（ウチ） ⬅ 相手（ソト）</strong>
-- 「私は友達から（に）プレゼントをもらった」
-主語を「私」にして、「受け取った事実とありがたみ」を表現するときに使います。
-
----
-
-## 👥 日本語の核心：「ウチ（身内）」と「ソト（他人）」の心理バリア
-
-なぜ日本語はここまで矢印の向きにこだわるのでしょうか？  
-そこには、日本社会の根底にある<strong>「ウチとソト」の境界線意識</strong>があります。
-
-日本人の心理の中には、常に「自分および家族・身内（ウチ）」のテリトリーと、「それ以外の社会（ソト）」のテリトリーが存在します。
-
-- 外部（ソト）から自分のテリトリー（ウチ）に好意やプレゼントが入ってきたとき ➔ <strong>「くれる（恵みへの感謝）」</strong>
-- 自分のテリトリー（ウチ）から外部（ソト）へ好意を差し出すとき ➔ <strong>「あげる（差し上げる）」</strong>
-
-だからこそ、他人が自分に何かをしてくれたときに「あげた」と言ってしまうと、「外部の人差し出し目線」になってしまい、恩恵に対する感謝が消えて冷たく不自然に聞こえてしまうのです。
+### 3. 「もらう」：<ruby>自分<rt>じぶん</rt></ruby>が<ruby>受け取<rt>うけと</rt></ruby>る（RECEIVE）
+- <strong><ruby>公式<rt>こうしき</rt></ruby></strong>: <strong><ruby>私<rt>わたし</rt></ruby>（ウチ） ⬅ <ruby>相手<rt>あいて</rt></ruby>（ソト）</strong>
+- 「<ruby>私<rt>わたし</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>から（に）プレゼントをもらった」
+<ruby>主語<rt>しゅご</rt></ruby>を「<ruby>私<rt>わたし</rt></ruby>」にして、「<ruby>受け取<rt>うけと</rt></ruby>った<ruby>事実<rt>じじつ</rt></ruby>とありがたみ」を<ruby>表現<rt>ひょうげん</rt></ruby>するときに<ruby>使<rt>つか</rt></ruby>います。
 
 ---
 
-## 📊 「あげる・くれる・もらう」使い分けマトリクス
+## 👥 <ruby>日本語<rt>にほんご</rt></ruby>の<ruby>核心<rt>かくしん</rt></ruby>：「ウチ（<ruby>身内<rt>みうち</rt></ruby>）」と「ソト（<ruby>他人<rt>たにん</rt></ruby>）」の<ruby>心理<rt>しんり</rt></ruby>バリア
 
-日常会話で迷ったときは、この表を思い出してください！
+なぜ<ruby>日本語<rt>にほんご</rt></ruby>はここまで<ruby>矢印<rt>やじるし</rt></ruby>の<ruby>向<rt>む</rt></ruby>きにこだわるのでしょうか？
+そこには、<ruby>日本<rt>にっぽん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>根底<rt>こんてい</rt></ruby>にある<strong>「ウチとソト」の<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby><ruby>意識<rt>いしき</rt></ruby></strong>があります。
 
-| 動作の向き（矢印） | 使う動詞 | 例文 | 英語の対応 |
+<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>心理<rt>しんり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>には、<ruby>常<rt>つね</rt></ruby>に「<ruby>自分<rt>じぶん</rt></ruby>および<ruby>家族<rt>かぞく</rt></ruby>・<ruby>身内<rt>みうち</rt></ruby>（ウチ）」のテリトリーと、「それ<ruby>以外<rt>いがい</rt></ruby>の<ruby>社会<rt>しゃかい</rt></ruby>（ソト）」のテリトリーが<ruby>存在<rt>そんざい</rt></ruby>します。
+
+- <ruby>外部<rt>がいぶ</rt></ruby>（ソト）から<ruby>自分<rt>じぶん</rt></ruby>のテリトリー（ウチ）に<ruby>好意<rt>こうい</rt></ruby>やプレゼントが<ruby>入<rt>はい</rt></ruby>ってきたとき ➔<strong>「くれる（<ruby>恵<rt>めぐ</rt></ruby>みへの<ruby>感謝<rt>かんしゃ</rt></ruby>）」</strong>
+- <ruby>自分<rt>じぶん</rt></ruby>のテリトリー（ウチ）から<ruby>外部<rt>がいぶ</rt></ruby>（ソト）へ<ruby>好意<rt>こうい</rt></ruby>を<ruby>差し出<rt>さしだ</rt></ruby>すとき ➔<strong>「あげる（<ruby>差し上<rt>さしあ</rt></ruby>げる）」</strong>
+
+だからこそ、<ruby>他人<rt>たにん</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>かをしてくれたときに「あげた」と<ruby>言<rt>い</rt></ruby>ってしまうと、「<ruby>外部<rt>がいぶ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby><ruby>差し出<rt>さしで</rt></ruby>し<ruby>目線<rt>めせん</rt></ruby>」になってしまい、<ruby>恩恵<rt>おんけい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>感謝<rt>かんしゃ</rt></ruby>が<ruby>消<rt>き</rt></ruby>えて<ruby>冷<rt>つめ</rt></ruby>たく<ruby>不自然<rt>ふしぜん</rt></ruby>に<ruby>聞<rt>き</rt></ruby>こえてしまうのです。
+
+---
+
+## 📊 「あげる・くれる・もらう」<ruby>使い分<rt>つかいわ</rt></ruby>けマトリクス
+
+<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で<ruby>迷<rt>まよ</rt></ruby>ったときは、この<ruby>表<rt>ひょう</rt></ruby>を<ruby>思い出<rt>おもいだ</rt></ruby>してください！
+
+| <ruby>動作<rt>どうさ</rt></ruby>の<ruby>向<rt>む</rt></ruby>き（<ruby>矢印<rt>やじるし</rt></ruby>） | <ruby>使<rt>つか</rt></ruby>う<ruby>動詞<rt>どうし</rt></ruby> | <ruby>例文<rt>れいぶん</rt></ruby> | <ruby>英語<rt>えいご</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby> |
 | :--- | :--- | :--- | :--- |
-| <strong>私 ➔ 友達</strong> | <strong>あげる</strong> | 「私が友達にペンを<strong>あげる</strong>」 | I give a pen to my friend. |
-| <strong>友達 ➔ 私</strong> | <strong>くれる</strong> | 「友達が私にペンを<strong>くれる</strong>」 | My friend gives a pen to me. |
-| <strong>私 ⬅ 友達</strong> | <strong>もらう</strong> | 「私が友達からペンを<strong>もらう</strong>」 | I receive a pen from my friend. |
-| <strong>Aさん ➔ Bさん</strong> | <strong>あげる</strong> | 「田中さんが佐藤さんに花を<strong>あげる</strong>」 | Tanaka gives flowers to Sato. |
-| <strong>Aさん ➔ 私の弟</strong> | <strong>くれる</strong> | 「田中さんが私の弟にお菓子を<strong>くれた</strong>」 | Tanaka gave sweets to my brother. |
+| <strong><ruby>私<rt>わたし</rt></ruby> ➔ <ruby>友達<rt>ともだち</rt></ruby></strong> | <strong>あげる</strong>| 「<ruby>私<rt>わたし</rt></ruby>が<ruby>友達<rt>ともだち</rt></ruby>にペンを<strong>あげる</strong>」 | I give a pen to my friend. |
+| <strong><ruby>友達<rt>ともだち</rt></ruby> ➔ <ruby>私<rt>わたし</rt></ruby></strong> | <strong>くれる</strong>| 「<ruby>友達<rt>ともだち</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>にペンを<strong>くれる</strong>」 | My friend gives a pen to me. |
+| <strong><ruby>私<rt>わたし</rt></ruby> ⬅ <ruby>友達<rt>ともだち</rt></ruby></strong> | <strong>もらう</strong>| 「<ruby>私<rt>わたし</rt></ruby>が<ruby>友達<rt>ともだち</rt></ruby>からペンを<strong>もらう</strong>」 | I receive a pen from my friend. |
+| <strong>Aさん ➔ Bさん</strong> | <strong>あげる</strong>| 「<ruby>田中<rt>たなか</rt></ruby>さんが<ruby>佐藤<rt>さとう</rt></ruby>さんに<ruby>花<rt>はな</rt></ruby>を<strong>あげる</strong>」 | Tanaka gives flowers to Sato. |
+| <strong>Aさん ➔ <ruby>私<rt>わたし</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby></strong> | <strong>くれる</strong>| 「<ruby>田中<rt>たなか</rt></ruby>さんが<ruby>私<rt>わたし</rt></ruby>の<ruby>弟<rt>おとうと</rt></ruby>にお<ruby>菓子<rt>かし</rt></ruby>を<strong>くれた</strong>」 | Tanaka gave sweets to my brother. |
 
-※最後の例文のように、「自分の家族（ウチ）」に向かってくる場合も「くれる」になるのがポイントです！
-
----
-
-## 🚀 応用編：モノだけでなく「親切・アクション（〜てあげる / 〜てくれる）」にも拡大！
-
-この授受表現のすごいところは、モノだけでなく<strong>「動詞のテ形（親切な行為）」</strong>にも全く同じルールで使える点です。
-
-- 「手伝って<strong>あげる</strong>」（私があなたを助ける）
-- 「手伝って<strong>くれる</strong>？」（あなたが私を助けてくれる？）
-- 「教えて<strong>もらった</strong>」（私が相手から知識を授かった）
-
-日本語の会話が「温かく、相手への思いやりに満ちている」と感じられる最大の理由は、この「〜てくれる」「〜てもらう」という感謝のベクトルが日常会話のいたるところに散りばめられているからなのです。
+※<ruby>最後<rt>さいご</rt></ruby>の<ruby>例文<rt>れいぶん</rt></ruby>のように、「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>（ウチ）」に<ruby>向<rt>む</rt></ruby>かってくる<ruby>場合<rt>ばあい</rt></ruby>も「くれる」になるのがポイントです！
 
 ---
 
-## 📝 まとめ：矢印が「私に向かってくる」なら絶対に「くれる」！
+## 🚀 <ruby>応用<rt>おうよう</rt></ruby><ruby>編<rt>へん</rt></ruby>：モノだけでなく「<ruby>親切<rt>しんせつ</rt></ruby>・アクション（〜てあげる / 〜てくれる）」にも<ruby>拡大<rt>かくだい</rt></ruby>！
 
-最初はパズルに思える「あげる・くれる・もらう」ですが、感覚を掴むコツは本当にシンプルです。
+この<ruby>授受<rt>じゅじゅ</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>のすごいところは、モノだけでなく<strong>「<ruby>動詞<rt>どうし</rt></ruby>のテ<ruby>形<rt>がた</rt></ruby>（<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>行為<rt>こうい</rt></ruby>）」</strong>にも<ruby>全<rt>まった</rt></ruby>く<ruby>同<rt>おな</rt></ruby>じルールで<ruby>使<rt>つか</rt></ruby>える<ruby>点<rt>てん</rt></ruby>です。
 
-- 相手から自分に向かって飛んでくるプレゼントは、両手を広げて笑顔で<strong>「くれた！」</strong>とキャッチする。
-- 自分から相手に手渡すときは、丁寧に<strong>「あげた！」</strong>と送り出す。
+- 「<ruby>手伝<rt>てつだ</rt></ruby>って<strong>あげる</strong>」（<ruby>私<rt>わたし</rt></ruby>があなたを<ruby>助<rt>たす</rt></ruby>ける）
+- 「<ruby>手伝<rt>てつだ</rt></ruby>って<strong>くれる</strong>？」（あなたが<ruby>私<rt>わたし</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けてくれる？）
+- 「<ruby>教<rt>おし</rt></ruby>えて<strong>もらった</strong>」（<ruby>私<rt>わたし</rt></ruby>が<ruby>相手<rt>あいて</rt></ruby>から<ruby>知識<rt>ちしき</rt></ruby>を<ruby>授<rt>さず</rt></ruby>かった）
 
-この矢印の感覚が身につくと、あなたの日本語は一気に「日本人の心を持ったナチュラルな日本語」へと進化しますよ！
+<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>が「<ruby>温<rt>あたた</rt></ruby>かく、<ruby>相手<rt>あいて</rt></ruby>への<ruby>思<rt>おも</rt></ruby>いやりに<ruby>満<rt>み</rt></ruby>ちている」と<ruby>感<rt>かん</rt></ruby>じられる<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は、この「〜てくれる」「〜てもらう」という<ruby>感謝<rt>かんしゃ</rt></ruby>のベクトルが<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>のいたるところに<ruby>散<rt>ち</rt></ruby>りばめられているからなのです。
 
 ---
 
-## 📖 あわせて読みたい「くらべてみました」シリーズ
+## 📝 まとめ：<ruby>矢印<rt>やじるし</rt></ruby>が「<ruby>私<rt>わたし</rt></ruby>に<ruby>向<rt>む</rt></ruby>かってくる」なら<ruby>絶対<rt>ぜったい</rt></ruby>に「くれる」！
 
-外国人がつまずきやすい日本語の使い分けをスッキリ解決する人気連載！
+<ruby>最初<rt>さいしょ</rt></ruby>はパズルに<ruby>思<rt>おも</rt></ruby>える「あげる・くれる・もらう」ですが、<ruby>感覚<rt>かんかく</rt></ruby>を<ruby>掴<rt>つか</rt></ruby>むコツは<ruby>本当<rt>ほんとう</rt></ruby>にシンプルです。
 
-* 💡 [くらべてみました：「わかる」VS「知る」の違い｜「知っていますか？」と「分かりますか？」で相手への印象が180度変わる理由](https://nihongo.oscarchair.jp/japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing/)
-* 👋 [くらべてみました：「さようなら」VS「またね」の違い｜なぜ日本人は友達に「さようなら」と言わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions/)
+- <ruby>相手<rt>あいて</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>飛<rt>と</rt></ruby>んでくるプレゼントは、<ruby>両手<rt>りょうて</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げて<ruby>笑顔<rt>えがお</rt></ruby>で<strong>「くれた！」</strong>とキャッチする。
+- <ruby>自分<rt>じぶん</rt></ruby>から<ruby>相手<rt>あいて</rt></ruby>に<ruby>手渡<rt>てわた</rt></ruby>すときは、<ruby>丁寧<rt>ていねい</rt></ruby>に<strong>「あげた！」</strong>と<ruby>送り出<rt>おくりだ</rt></ruby>す。
 
-[oscss_related slug="japanese-comparing-zenzen-and-mattaku-differences" label="くらべてみました：全然VS全く"]
-[oscss_related slug="kotoba-no-aya-sonosetsu-wa-doumo" label="ことばのあや：「その節はどうも…」の謎"]
+この<ruby>矢印<rt>やじるし</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>が<ruby>身<rt>み</rt></ruby>につくと、あなたの<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>一気<rt>いっき</rt></ruby>に「<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ったナチュラルな<ruby>日本語<rt>にほんご</rt></ruby>」へと<ruby>進化<rt>しんか</rt></ruby>しますよ！
+
+---
+
+## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい「くらべてみました」シリーズ
+
+<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>がつまずきやすい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>けをスッキリ<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>人気<rt>にんき</rt></ruby><ruby>連載<rt>れんさい</rt></ruby>！
+
+* 💡 [くらべてみました：「わかる」VS「<ruby>知<rt>し</rt></ruby>る」の<ruby>違<rt>ちが</rt></ruby>い｜「<ruby>知<rt>し</rt></ruby>っていますか？」と「<ruby>分<rt>わ</rt></ruby>かりますか？」で<ruby>相手<rt>あいて</rt></ruby>への<ruby>印象<rt>いんしょう</rt></ruby>が180<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>わる<ruby>理由<rt>りゆう</rt></ruby>](https://nihongo.oscarchair.jp/japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing/)
+* 👋 [くらべてみました：「さようなら」VS「またね」の<ruby>違<rt>ちが</rt></ruby>い｜なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>に「さようなら」と<ruby>言<rt>い</rt></ruby>わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions/)
+
+[oscss_related slug="japanese-comparing-zenzen-and-mattaku-differences" label="くらべてみました：<ruby>全然<rt>ぜんぜん</rt></ruby>VS<ruby>全<rt>まった</rt></ruby>く"]
+[oscss_related slug="kotoba-no-aya-sonosetsu-wa-doumo" label="ことばのあや：「その<ruby>節<rt>ふし</rt></ruby>はどうも…」の<ruby>謎<rt>なぞ</rt></ruby>"]

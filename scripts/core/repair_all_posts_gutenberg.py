@@ -317,15 +317,22 @@ ssh.connect(
 )
 sftp = ssh.open_sftp()
 
-with sftp.open('gutenberg_updates.json', 'w') as f:
-    f.write(json.dumps(updates, ensure_ascii=False))
+remote_json = "web/nihongo.oscarchair.jp/gutenberg_updates.json"
+remote_php = "web/nihongo.oscarchair.jp/repair_gutenberg.php"
+
+tmp_json = 'gutenberg_updates_tmp.json'
+with open(tmp_json, 'w', encoding='utf-8') as f:
+    json.dump(updates, f, ensure_ascii=False)
+sftp.put(tmp_json, remote_json)
+if os.path.exists(tmp_json):
+    os.remove(tmp_json)
 
 php_script = r'''<?php
 define('WP_USE_THEMES', false);
 require_once(getenv('HOME') . '/web/nihongo.oscarchair.jp/wp-load.php');
 require_once(ABSPATH . 'wp-admin/includes/image.php');
 
-$data = json_decode(file_get_contents('gutenberg_updates.json'), true);
+$data = json_decode(file_get_contents(getenv('HOME') . '/web/nihongo.oscarchair.jp/gutenberg_updates.json'), true);
 
 $updated = 0;
 $created = 0;
@@ -502,10 +509,14 @@ wp_cache_flush();
 echo "All caches purged successfully!\n";
 ?>'''
 
-with sftp.open('repair_gutenberg.php', 'w') as f:
+tmp_php = 'repair_gutenberg_tmp.php'
+with open(tmp_php, 'w', encoding='utf-8') as f:
     f.write(php_script)
+sftp.put(tmp_php, remote_php)
+if os.path.exists(tmp_php):
+    os.remove(tmp_php)
 
-stdin, stdout, stderr = ssh.exec_command('LANG=ja_JP.UTF-8 /usr/local/php/8.2/bin/php repair_gutenberg.php && rm repair_gutenberg.php gutenberg_updates.json')
+stdin, stdout, stderr = ssh.exec_command(f'LANG=ja_JP.UTF-8 /usr/local/php/8.2/bin/php $HOME/{remote_php} && rm -f $HOME/{remote_php} $HOME/{remote_json}')
 out = stdout.read().decode('utf-8', errors='ignore')
 err = stderr.read().decode('utf-8', errors='ignore')
 print("OUTPUT:\n", out)

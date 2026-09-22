@@ -37,6 +37,25 @@ def sftp_mkdir_p(remote_directory):
         except:
             sftp.mkdir(d)
 
+def upload_file_smart(local_path, target_remote):
+    local_size = os.path.getsize(local_path)
+    try:
+        r_stat = sftp.stat(target_remote)
+        if r_stat.st_size == local_size:
+            return  # Already up-to-date
+    except:
+        pass
+    for attempt in range(3):
+        try:
+            sftp.put(local_path, target_remote)
+            print(f"Uploaded: {local_path}")
+            return
+        except Exception as e:
+            if attempt == 2:
+                raise e
+            import time
+            time.sleep(1)
+
 # Upload all theme files
 theme_files = [
     'functions.php',
@@ -56,8 +75,7 @@ theme_files = [
 
 for tf in theme_files:
     if os.path.exists(tf):
-        sftp.put(tf, f"{remote_base}/{tf}")
-        print(f"Uploaded: {tf}")
+        upload_file_smart(tf, f"{remote_base}/{tf}")
 
 # Upload directories
 for dir_name in ['functions', 'template-parts', 'assets/css', 'assets/js', 'assets/images']:
@@ -71,8 +89,7 @@ for dir_name in ['functions', 'template-parts', 'assets/css', 'assets/js', 'asse
                 target_remote = f"{remote_base}/{rel_path}"
                 target_remote_dir = os.path.dirname(target_remote)
                 sftp_mkdir_p(target_remote_dir)
-                sftp.put(local_path, target_remote)
-                print(f"Uploaded: {rel_path}")
+                upload_file_smart(local_path, target_remote)
 
 # Purge cache
 php_purge = r"""<?php

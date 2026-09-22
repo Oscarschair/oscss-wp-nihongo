@@ -15,127 +15,127 @@ description: "香港や海外では「車が途切れる隙を狙って命がけ
 ---
 
 > 💬 <strong>オスカー</strong>  
-> こんにちは、香港出身のオスカーです！  
-> 私が日本に来て最も感動し、同時に腰を抜かすほど驚いた体験があります。  
-> それは、住宅街の信号機がない横断歩道を渡ろうとしたときのこと。  
-> 遠くから走ってくる車が見えたので、試しに<strong>ピッと右手を高く挙げてみた</strong>んです。  
-> すると……なんとその車が、手前でスーッとスピードを落とし、<strong>横断歩道の手前でピタッと完全停止！</strong>  
-> 運転席のドライバーさんが、笑顔で「どうぞ（ペコッ）」と手を挙げて合図してくれたのです。  
-> <strong>「えええっ！？ 車が本当に止まってくれた……！？」</strong>  
-> 香港や海外の多くの大都市では、「車が途切れるのを待つ」か「命がけで隙間を縫って渡る」のが当たり前。  
-> 今回は、外国人が思わず拝みたくなるほど感動する「日本の横断歩道マナー」と、その驚くべき背景についてお話しします！
+> こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
+> <ruby>私<rt>わたし</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て<ruby>最<rt>もっと</rt></ruby>も<ruby>感動<rt>かんどう</rt></ruby>し、<ruby>同時<rt>どうじ</rt></ruby>に<ruby>腰<rt>こし</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>かすほど<ruby>驚<rt>おどろ</rt></ruby>いた<ruby>体験<rt>たいけん</rt></ruby>があります。
+> それは、<ruby>住宅<rt>じゅうたく</rt></ruby><ruby>街<rt>がい</rt></ruby>の<ruby>信号<rt>しんごう</rt></ruby><ruby>機<rt>き</rt></ruby>がない<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>ろうとしたときのこと。
+> <ruby>遠<rt>とお</rt></ruby>くから<ruby>走<rt>はし</rt></ruby>ってくる<ruby>車<rt>くるま</rt></ruby>が<ruby>見<rt>み</rt></ruby>えたので、<ruby>試<rt>ため</rt></ruby>しに<strong>ピッと<ruby>右手<rt>みぎて</rt></ruby>を<ruby>高<rt>たか</rt></ruby>く<ruby>挙<rt>あ</rt></ruby>げてみた</strong>んです。  
+> すると……なんとその<ruby>車<rt>くるま</rt></ruby>が、<ruby>手前<rt>てまえ</rt></ruby>でスーッとスピードを<ruby>落<rt>お</rt></ruby>とし、<strong><ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>の<ruby>手前<rt>てまえ</rt></ruby>でピタッと<ruby>完全<rt>かんぜん</rt></ruby><ruby>停止<rt>ていし</rt></ruby>！</strong>  
+> <ruby>運転<rt>うんてん</rt></ruby><ruby>席<rt>せき</rt></ruby>のドライバーさんが、<ruby>笑顔<rt>えがお</rt></ruby>で「どうぞ（ペコッ）」と<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げて<ruby>合図<rt>あいず</rt></ruby>してくれたのです。
+> <strong>「えええっ！？ <ruby>車<rt>くるま</rt></ruby>が<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>止<rt>と</rt></ruby>まってくれた……！？」</strong>  
+> <ruby>香港<rt>ほんこん</rt></ruby>や<ruby>海外<rt>かいがい</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くの<ruby>大都市<rt>だいとし</rt></ruby>では、「<ruby>車<rt>くるま</rt></ruby>が<ruby>途切<rt>とぎ</rt></ruby>れるのを<ruby>待<rt>ま</rt></ruby>つ」か「<ruby>命<rt>いのち</rt></ruby>がけで<ruby>隙間<rt>すきま</rt></ruby>を<ruby>縫<rt>ぬ</rt></ruby>って<ruby>渡<rt>わた</rt></ruby>る」のが<ruby>当たり前<rt>あたりまえ</rt></ruby>。
+> <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>思<rt>おも</rt></ruby>わず<ruby>拝<rt>おが</rt></ruby>みたくなるほど<ruby>感動<rt>かんどう</rt></ruby>する「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>マナー」と、その<ruby>驚<rt>おどろ</rt></ruby>くべき<ruby>背景<rt>はいけい</rt></ruby>についてお<ruby>話<rt>はな</rt></ruby>しします！
 
 ---
 
-## 🚗 海外の常識：道路横断は「車との真剣勝負」！？
+## 🚗 <ruby>海外<rt>かいがい</rt></ruby>の<ruby>常識<rt>じょうしき</rt></ruby>：<ruby>道路<rt>どうろ</rt></ruby><ruby>横断<rt>おうだん</rt></ruby>は「<ruby>車<rt>くるま</rt></ruby>との<ruby>真剣<rt>しんけん</rt></ruby><ruby>勝負<rt>しょうぶ</rt></ruby>」！？
 
-まず、海外（特に香港や東南アジア、欧米の一部都市）の過酷な道路事情をご紹介します。
+まず、<ruby>海外<rt>かいがい</rt></ruby>（<ruby>特<rt>とく</rt></ruby>に<ruby>香港<rt>ほんこん</rt></ruby>や<ruby>東南アジア<rt>とうなんあじあ</rt></ruby>、<ruby>欧米<rt>おうべい</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby><ruby>都市<rt>とし</rt></ruby>）の<ruby>過酷<rt>かこく</rt></ruby>な<ruby>道路<rt>どうろ</rt></ruby><ruby>事情<rt>じじょう</rt></ruby>をご<ruby>紹介<rt>しょうかい</rt></ruby>します。
 
-香港や台湾などの大都市では、道路の主役は圧倒的に<strong>「車」</strong>です。  
-特にタクシーやバス、配達トラックは常に時間に追われており、歩行者がいようがいまいが猛スピードで走り抜けます。
+<ruby>香港<rt>ほんこん</rt></ruby>や<ruby>台湾<rt>たいわん</rt></ruby>などの<ruby>大都市<rt>だいとし</rt></ruby>では、<ruby>道路<rt>どうろ</rt></ruby>の<ruby>主役<rt>しゅやく</rt></ruby>は<ruby>圧倒的<rt>あっとうてき</rt></ruby>に<strong>「<ruby>車<rt>くるま</rt></ruby>」</strong>です。  
+<ruby>特<rt>とく</rt></ruby>にタクシーやバス、<ruby>配達<rt>はいたつ</rt></ruby>トラックは<ruby>常<rt>つね</rt></ruby>に<ruby>時間<rt>じかん</rt></ruby>に<ruby>追<rt>お</rt></ruby>われており、<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>がいようがいまいが<ruby>猛<rt>もう</rt></ruby>スピードで<ruby>走り抜<rt>はしりぬ</rt></ruby>けます。
 
-> 💬 <strong>日本の友人</strong>  
-> ええっ！？ 海外だと信号のない横断歩道でも車は止まってくれないの？
+> 💬 <strong><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby></strong>  
+> ええっ！？ <ruby>海外<rt>かいがい</rt></ruby>だと<ruby>信号<rt>しんごう</rt></ruby>のない<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>でも<ruby>車<rt>くるま</rt></ruby>は<ruby>止<rt>と</rt></ruby>まってくれないの？
 
 > 💬 <strong>オスカー</strong>  
-> 全然止まってくれません（笑）！  
-> むしろ横断歩道の前で手を挙げたり、モタモタ歩いていたりしたら、<strong>「プーーッ！！（邪魔だ！どけ！）」</strong>と激しいクラクションを鳴らされるのがオチです。  
-> だから私たちは、車が遠くにいるうちに小走りでダッシュして渡るか、車列が完全に途切れるまでじっと待つのが日常なんです。
+> <ruby>全然<rt>ぜんぜん</rt></ruby><ruby>止<rt>と</rt></ruby>まってくれません（<ruby>笑<rt>えみ</rt></ruby>）！
+> むしろ<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げたり、モタモタ<ruby>歩<rt>ある</rt></ruby>いていたりしたら、<strong>「プーーッ！！（<ruby>邪魔<rt>じゃま</rt></ruby>だ！どけ！）」</strong>と<ruby>激<rt>はげ</rt></ruby>しいクラクションを<ruby>鳴<rt>な</rt></ruby>らされるのがオチです。
+> だから<ruby>私<rt>わたし</rt></ruby>たちは、<ruby>車<rt>くるま</rt></ruby>が<ruby>遠<rt>とお</rt></ruby>くにいるうちに<ruby>小走<rt>こばし</rt></ruby>りでダッシュして<ruby>渡<rt>わた</rt></ruby>るか、<ruby>車列<rt>しゃれつ</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>途切<rt>とぎ</rt></ruby>れるまでじっと<ruby>待<rt>ま</rt></ruby>つのが<ruby>日常<rt>にちじょう</rt></ruby>なんです。
 
-そのため、海外から日本に来た旅行者が日本の住宅街を歩くと、車が自然と止まってくれる光景に<strong>「ここは天国か…！？」</strong>と衝撃を受けるのです。
-
----
-
-## 📜 なぜ日本の車は止まるのか？ 2つの大きな理由
-
-なぜ、日本のドライバーは横断歩道で歩行者に道を譲ってくれるのでしょうか？  
-そこには、<strong>「法律（ルール）」</strong>と<strong>「幼少期からの教育（文化）」</strong>という強固な2つの土台があります。
-
-### 1. 法律上の鉄則：道路交通法 第38条「歩行者絶対優先」
-日本の法律（道路交通法 第38条）では、以下のように極めて厳格に定められています。
-- 信号機のない横断歩道に歩行者がいる（または渡ろうとしている）場合、<strong>車両は直前で一時停止しなければならない</strong>
-- これに違反すると「横断歩行者等妨害等違反」となり、違反点数2点と反則金が科されます
-
-近年、警察庁やJAF（日本自動車連盟）による全国的な啓発活動が進み、「横断歩道での一時停止率」は年々大幅に向上しています。
-
-### 2. 小学校で徹底的に叩き込まれる「手を挙げて横断」教育
-日本の子供たちは、幼稚園や小学校に入るとすぐに、警察官や先生から交通安全の指導を受けます。
-- <strong>「横断歩道を渡るときは、右手を高くピッと挙げて、右・左・右を見て渡りましょう」</strong>
-
-手を挙げることで、運転席から見えにくい小さな子供の存在を知らせると同時に、「今から渡ります！」という明確な意思表示（アイコンタクト）をする習慣が、全国民の共通言語として染み付いているのです。
+そのため、<ruby>海外<rt>かいがい</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>住宅<rt>じゅうたく</rt></ruby><ruby>街<rt>がい</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くと、<ruby>車<rt>くるま</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>と<ruby>止<rt>と</rt></ruby>まってくれる<ruby>光景<rt>こうけい</rt></ruby>に<strong>「ここは<ruby>天国<rt>てんごく</rt></ruby>か…！？」</strong>と<ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>受<rt>う</rt></ruby>けるのです。
 
 ---
 
-## 🤝 日本独自の心温まる文化：「ペコッ」とお互いに会釈する思いやり
+## 📜 なぜ<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>は<ruby>止<rt>と</rt></ruby>まるのか？ 2つの<ruby>大<rt>おお</rt></ruby>きな<ruby>理由<rt>りゆう</rt></ruby>
 
-日本の横断歩道でさらに素晴らしいのは、車が止まってくれた後の<strong>「歩行者とドライバーのコミュニケーション」</strong>です。
+なぜ、<ruby>日本<rt>にっぽん</rt></ruby>のドライバーは<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>で<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>ってくれるのでしょうか？
+そこには、<strong>「<ruby>法律<rt>ほうりつ</rt></ruby>（ルール）」</strong>と<strong>「<ruby>幼少<rt>ようしょう</rt></ruby><ruby>期<rt>き</rt></ruby>からの<ruby>教育<rt>きょういく</rt></ruby>（<ruby>文化<rt>ぶんか</rt></ruby>）」</strong>という<ruby>強固<rt>きょうこ</rt></ruby>な2つの<ruby>土台<rt>どだい</rt></ruby>があります。
 
-車が止まってくれたとき、日本人の多くは以下のようなリアクションを自然に行います。
-1. 運転手さんに向かって、笑顔で軽く<strong>「ペコッ」と会釈（お辞儀）</strong>をする
-2. 小走りでサッと速やかに渡り切る（車を待たせない配慮）
-3. 渡り終えた後、もう一度振り返って軽く会釈する人も！
+### 1. <ruby>法律<rt>ほうりつ</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>鉄則<rt>てっそく</rt></ruby>：<ruby>道路<rt>どうろ</rt></ruby><ruby>交通<rt>こうつう</rt></ruby><ruby>法<rt>ほう</rt></ruby> <ruby>第<rt>だい</rt></ruby>38<ruby>条<rt>じょう</rt></ruby>「<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>絶対<rt>ぜったい</rt></ruby><ruby>優先<rt>ゆうせん</rt></ruby>」
+<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>（<ruby>道路<rt>どうろ</rt></ruby><ruby>交通<rt>こうつう</rt></ruby><ruby>法<rt>ほう</rt></ruby> <ruby>第<rt>だい</rt></ruby>38<ruby>条<rt>じょう</rt></ruby>）では、<ruby>以下<rt>いか</rt></ruby>のように<ruby>極<rt>きわ</rt></ruby>めて<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>定<rt>さだ</rt></ruby>められています。
+- <ruby>信号<rt>しんごう</rt></ruby><ruby>機<rt>き</rt></ruby>のない<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>に<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>がいる（または<ruby>渡<rt>わた</rt></ruby>ろうとしている）<ruby>場合<rt>ばあい</rt></ruby>、<strong><ruby>車両<rt>しゃりょう</rt></ruby>は<ruby>直前<rt>ちょくぜん</rt></ruby>で<ruby>一時<rt>いちじ</rt></ruby><ruby>停止<rt>ていし</rt></ruby>しなければならない</strong>
+- これに<ruby>違反<rt>いはん</rt></ruby>すると「<ruby>横断<rt>おうだん</rt></ruby><ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>等<rt>とう</rt></ruby><ruby>妨害<rt>ぼうがい</rt></ruby><ruby>等<rt>とう</rt></ruby><ruby>違反<rt>いはん</rt></ruby>」となり、<ruby>違反<rt>いはん</rt></ruby><ruby>点数<rt>てんすう</rt></ruby>2<ruby>点<rt>てん</rt></ruby>と<ruby>反則<rt>はんそく</rt></ruby><ruby>金<rt>きん</rt></ruby>が<ruby>科<rt>か</rt></ruby>されます
 
-これに対してドライバー側も、片手を軽く挙げたり、会釈を返したりします。  
-法律の義務だから止まるだけでなく、<strong>「道を譲ってくれてありがとう」「どうぞお気をつけて」という無言の思いやり</strong>が交わされる瞬間。  
-この光景を見た外国人観光客は、「なんて礼儀正しくて優しい国なんだろう」と心から感動するのです。
+<ruby>近年<rt>きんねん</rt></ruby>、<ruby>警察庁<rt>けいさつちょう</rt></ruby>やJAF（<ruby>日本<rt>にっぽん</rt></ruby><ruby>自動車<rt>じどうしゃ</rt></ruby><ruby>連盟<rt>れんめい</rt></ruby>）による<ruby>全国<rt>ぜんこく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>啓発<rt>けいはつ</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、「<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>での<ruby>一時<rt>いちじ</rt></ruby><ruby>停止<rt>ていし</rt></ruby><ruby>率<rt>りつ</rt></ruby>」は<ruby>年々<rt>ねんねん</rt></ruby><ruby>大幅<rt>おおはば</rt></ruby>に<ruby>向上<rt>こうじょう</rt></ruby>しています。
+
+### 2. <ruby>小学校<rt>しょうがっこう</rt></ruby>で<ruby>徹底的<rt>てっていてき</rt></ruby>に<ruby>叩き込<rt>たたきこ</rt></ruby>まれる「<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げて<ruby>横断<rt>おうだん</rt></ruby>」<ruby>教育<rt>きょういく</rt></ruby>
+<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>たちは、<ruby>幼稚園<rt>ようちえん</rt></ruby>や<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るとすぐに、<ruby>警察官<rt>けいさつかん</rt></ruby>や<ruby>先生<rt>せんせい</rt></ruby>から<ruby>交通<rt>こうつう</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby>の<ruby>指導<rt>しどう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます。
+- <strong>「<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>るときは、<ruby>右手<rt>みぎて</rt></ruby>を<ruby>高<rt>たか</rt></ruby>くピッと<ruby>挙<rt>あ</rt></ruby>げて、<ruby>右<rt>みぎ</rt></ruby>・<ruby>左<rt>ひだり</rt></ruby>・<ruby>右<rt>みぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>渡<rt>わた</rt></ruby>りましょう」</strong>
+
+<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げることで、<ruby>運転<rt>うんてん</rt></ruby><ruby>席<rt>せき</rt></ruby>から<ruby>見<rt>み</rt></ruby>えにくい<ruby>小<rt>ちい</rt></ruby>さな<ruby>子供<rt>こども</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせると<ruby>同時<rt>どうじ</rt></ruby>に、「<ruby>今<rt>いま</rt></ruby>から<ruby>渡<rt>わた</rt></ruby>ります！」という<ruby>明確<rt>めいかく</rt></ruby>な<ruby>意思<rt>いし</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby>（アイコンタクト）をする<ruby>習慣<rt>しゅうかん</rt></ruby>が、<ruby>全<rt>ぜん</rt></ruby><ruby>国民<rt>こくみん</rt></ruby>の<ruby>共通<rt>きょうつう</rt></ruby><ruby>言語<rt>げんご</rt></ruby>として<ruby>染み付<rt>しみつ</rt></ruby>いているのです。
 
 ---
 
-## 📊 日本 vs 海外の「横断歩道カルチャー」比較
+## 🤝 <ruby>日本<rt>にっぽん</rt></ruby><ruby>独自<rt>どくじ</rt></ruby>の<ruby>心温<rt>こころあたた</rt></ruby>まる<ruby>文化<rt>ぶんか</rt></ruby>：「ペコッ」とお<ruby>互<rt>たが</rt></ruby>いに<ruby>会釈<rt>えしゃく</rt></ruby>する<ruby>思<rt>おも</rt></ruby>いやり
 
-日本と海外（香港・一般的な海外都市）の横断歩道における違いを整理しました。
+<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>でさらに<ruby>素晴<rt>すば</rt></ruby>らしいのは、<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってくれた<ruby>後<rt>のち</rt></ruby>の<strong>「<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>とドライバーのコミュニケーション」</strong>です。
 
-| 比較項目 | 日本 🇯🇵 | 海外（香港・東南アジアなど） 🇭🇰 |
+<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってくれたとき、<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くは<ruby>以下<rt>いか</rt></ruby>のようなリアクションを<ruby>自然<rt>しぜん</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>います。
+1. <ruby>運転<rt>うんてん</rt></ruby><ruby>手<rt>しゅ</rt></ruby>さんに<ruby>向<rt>む</rt></ruby>かって、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>軽<rt>かる</rt></ruby>く<strong>「ペコッ」と<ruby>会釈<rt>えしゃく</rt></ruby>（お<ruby>辞儀<rt>じぎ</rt></ruby>）</strong>をする
+2. <ruby>小走<rt>こばし</rt></ruby>りでサッと<ruby>速<rt>すみ</rt></ruby>やかに<ruby>渡<rt>わた</rt></ruby>り<ruby>切<rt>き</rt></ruby>る（<ruby>車<rt>くるま</rt></ruby>を<ruby>待<rt>ま</rt></ruby>たせない<ruby>配慮<rt>はいりょ</rt></ruby>）
+3. <ruby>渡<rt>わた</rt></ruby>り<ruby>終<rt>お</rt></ruby>えた<ruby>後<rt>のち</rt></ruby>、もう<ruby>一度<rt>いちど</rt></ruby><ruby>振り返<rt>ふりかえ</rt></ruby>って<ruby>軽<rt>かる</rt></ruby>く<ruby>会釈<rt>えしゃく</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>も！
+
+これに<ruby>対<rt>たい</rt></ruby>してドライバー<ruby>側<rt>がわ</rt></ruby>も、<ruby>片手<rt>かたて</rt></ruby>を<ruby>軽<rt>かる</rt></ruby>く<ruby>挙<rt>あ</rt></ruby>げたり、<ruby>会釈<rt>えしゃく</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>したりします。
+<ruby>法律<rt>ほうりつ</rt></ruby>の<ruby>義務<rt>ぎむ</rt></ruby>だから<ruby>止<rt>と</rt></ruby>まるだけでなく、<strong>「<ruby>道<rt>みち</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>ってくれてありがとう」「どうぞお<ruby>気<rt>き</rt></ruby>をつけて」という<ruby>無言<rt>むごん</rt></ruby>の<ruby>思<rt>おも</rt></ruby>いやり</strong>が<ruby>交<rt>か</rt></ruby>わされる<ruby>瞬間<rt>しゅんかん</rt></ruby>。
+この<ruby>光景<rt>こうけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>た<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>観光<rt>かんこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>は、「なんて<ruby>礼儀<rt>れいぎ</rt></ruby><ruby>正<rt>ただ</rt></ruby>しくて<ruby>優<rt>やさ</rt></ruby>しい<ruby>国<rt>くに</rt></ruby>なんだろう」と<ruby>心<rt>こころ</rt></ruby>から<ruby>感動<rt>かんどう</rt></ruby>するのです。
+
+---
+
+## 📊 <ruby>日本<rt>にっぽん</rt></ruby> vs <ruby>海外<rt>かいがい</rt></ruby>の「<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>カルチャー」<ruby>比較<rt>ひかく</rt></ruby>
+
+<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>海外<rt>かいがい</rt></ruby>（<ruby>香港<rt>ほんこん</rt></ruby>・<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>海外<rt>かいがい</rt></ruby><ruby>都市<rt>とし</rt></ruby>）の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>における<ruby>違<rt>ちが</rt></ruby>いを<ruby>整理<rt>せいり</rt></ruby>しました。
+
+| <ruby>比較<rt>ひかく</rt></ruby><ruby>項目<rt>こうもく</rt></ruby> | <ruby>日本<rt>にっぽん</rt></ruby> 🇯🇵 | <ruby>海外<rt>かいがい</rt></ruby>（<ruby>香港<rt>ほんこん</rt></ruby>・<ruby>東南アジア<rt>とうなんあじあ</rt></ruby>など） 🇭🇰 |
 | :--- | :--- | :--- |
-| <strong>道路の力関係</strong> | <strong>歩行者が絶対優先</strong>（弱者保護） | <strong>車が優先</strong>（大きいものが強い） |
-| <strong>手を挙げた時の反応</strong> | 多くの車が減速してピタッと止まる | 無視されるか、クラクションを鳴らされる |
-| <strong>渡りやすさ</strong> | 安心してゆっくり・安全に渡れる | タイミングを見極めてダッシュで渡る |
-| <strong>通過後のマナー</strong> | ドライバーと歩行者がお互いに会釈 | 目を合わせず足早に通り過ぎる |
-| <strong>教育の徹底度</strong> | 小学校で全国民が実践指導を受ける | 「車には絶対に近づくな」と自衛を教わる |
+| <strong><ruby>道路<rt>どうろ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby><ruby>関係<rt>かんけい</rt></ruby></strong> | <strong><ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>絶対<rt>ぜったい</rt></ruby><ruby>優先<rt>ゆうせん</rt></ruby></strong>（<ruby>弱者<rt>じゃくしゃ</rt></ruby><ruby>保護<rt>ほご</rt></ruby>） |<strong><ruby>車<rt>くるま</rt></ruby>が<ruby>優先<rt>ゆうせん</rt></ruby></strong>（<ruby>大<rt>おお</rt></ruby>きいものが<ruby>強<rt>つよ</rt></ruby>い） |
+| <strong><ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げた<ruby>時<rt>とき</rt></ruby>の<ruby>反応<rt>はんのう</rt></ruby></strong>| <ruby>多<rt>おお</rt></ruby>くの<ruby>車<rt>くるま</rt></ruby>が<ruby>減速<rt>げんそく</rt></ruby>してピタッと<ruby>止<rt>と</rt></ruby>まる | <ruby>無視<rt>むし</rt></ruby>されるか、クラクションを<ruby>鳴<rt>な</rt></ruby>らされる |
+| <strong><ruby>渡<rt>わた</rt></ruby>りやすさ</strong>| <ruby>安心<rt>あんしん</rt></ruby>してゆっくり・<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>れる | タイミングを<ruby>見極<rt>みきわ</rt></ruby>めてダッシュで<ruby>渡<rt>わた</rt></ruby>る |
+| <strong><ruby>通過<rt>つうか</rt></ruby><ruby>後<rt>ご</rt></ruby>のマナー</strong>| ドライバーと<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>がお<ruby>互<rt>たが</rt></ruby>いに<ruby>会釈<rt>えしゃく</rt></ruby> | <ruby>目<rt>め</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせず<ruby>足早<rt>あしばや</rt></ruby>に<ruby>通り過<rt>とおりす</rt></ruby>ぎる |
+| <strong><ruby>教育<rt>きょういく</rt></ruby>の<ruby>徹底<rt>てってい</rt></ruby><ruby>度<rt>ど</rt></ruby></strong>| <ruby>小学校<rt>しょうがっこう</rt></ruby>で<ruby>全<rt>ぜん</rt></ruby><ruby>国民<rt>こくみん</rt></ruby>が<ruby>実践<rt>じっせん</rt></ruby><ruby>指導<rt>しどう</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける | 「<ruby>車<rt>くるま</rt></ruby>には<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>づくな」と<ruby>自衛<rt>じえい</rt></ruby>を<ruby>教<rt>おそ</rt></ruby>わる |
 
 ---
 
-## 🚶‍♂️ 外国人が日本で横断歩道を渡るときの3大アドバイス
+## 🚶‍♂️ <ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>るときの3<ruby>大<rt>だい</rt></ruby>アドバイス
 
-日本を訪れる外国人や日本在住の学習者に、ぜひ知っておいてほしい実践ポイントをまとめました！
+<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れる<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>や<ruby>日本<rt>にっぽん</rt></ruby><ruby>在住<rt>ざいじゅう</rt></ruby>の<ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に、ぜひ<ruby>知<rt>し</rt></ruby>っておいてほしい<ruby>実践<rt>じっせん</rt></ruby>ポイントをまとめました！
 
-### ① 渡りたいときは遠慮せず「手を挙げる」または「視線を向ける」
-ドライバーも「渡るのか、ただ立っているだけなのか」を判断しています。  
-渡る意思があるときは、軽く手を挙げるか、車の方に顔を向けて一歩前に出ると、スムーズに止まってくれます。
+### ① <ruby>渡<rt>わた</rt></ruby>りたいときは<ruby>遠慮<rt>えんりょ</rt></ruby>せず「<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げる」または「<ruby>視線<rt>しせん</rt></ruby>を<ruby>向<rt>む</rt></ruby>ける」
+ドライバーも「<ruby>渡<rt>わた</rt></ruby>るのか、ただ<ruby>立<rt>た</rt></ruby>っているだけなのか」を<ruby>判断<rt>はんだん</rt></ruby>しています。
+<ruby>渡<rt>わた</rt></ruby>る<ruby>意思<rt>いし</rt></ruby>があるときは、<ruby>軽<rt>かる</rt></ruby>く<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げるか、<ruby>車<rt>くるま</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>に<ruby>顔<rt>かお</rt></ruby>を<ruby>向<rt>む</rt></ruby>けて<ruby>一<rt>いち</rt></ruby><ruby>歩<rt>ほ</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>出<rt>で</rt></ruby>ると、スムーズに<ruby>止<rt>と</rt></ruby>まってくれます。
 
-### ② 止まってくれたら、笑顔で「ペコッ」と会釈してみよう
-会釈は魔法のジェスチャーです。  
-ペコッと頭を下げるだけで、ドライバーも「止まってよかったな」と温かい気持ちになります。
+### ② <ruby>止<rt>と</rt></ruby>まってくれたら、<ruby>笑顔<rt>えがお</rt></ruby>で「ペコッ」と<ruby>会釈<rt>えしゃく</rt></ruby>してみよう
+<ruby>会釈<rt>えしゃく</rt></ruby>は<ruby>魔法<rt>まほう</rt></ruby>のジェスチャーです。
+ペコッと<ruby>頭<rt>あたま</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げるだけで、ドライバーも「<ruby>止<rt>と</rt></ruby>まってよかったな」と<ruby>温<rt>あたた</rt></ruby>かい<ruby>気持<rt>きも</rt></ruby>ちになります。
 
-### ③ ただし「100%止まる」と過信は禁物！
-近年マナーが劇的に向上しているとはいえ、急いでいる車や視界が悪い夜間など、止まらない車も一部存在します。  
-必ず車が「完全に減速・停止した」ことを確認してから足を踏み出しましょう！
-
----
-
-## 📝 まとめ：手を挙げれば心がつながる日本の道路マナー
-
-香港の激しい交通ラッシュの中で育った私にとって、日本の横断歩道で車が止まってくれたときの感動は今でも忘れられません。
-
-- <strong>手を挙げる</strong> ＝ 「渡りたいです」の合図
-- <strong>車が止まる</strong> ＝ 「どうぞお先に」の優しさ
-- <strong>会釈して渡る</strong> ＝ 「譲ってくれてありがとう」の感謝
-
-信号のない小さな横断歩道一つにも、日本が誇る<strong>「他者への思いやり」と「調和の精神」</strong>がぎゅっと詰まっています。  
-皆さんも日本で道を渡るときは、ぜひ右手をピッと挙げて、優しいドライバーさんと心を通わせてみてくださいね！
+### ③ ただし「100%<ruby>止<rt>と</rt></ruby>まる」と<ruby>過信<rt>かしん</rt></ruby>は<ruby>禁物<rt>きんもつ</rt></ruby>！
+<ruby>近年<rt>きんねん</rt></ruby>マナーが<ruby>劇的<rt>げきてき</rt></ruby>に<ruby>向上<rt>こうじょう</rt></ruby>しているとはいえ、<ruby>急<rt>いそ</rt></ruby>いでいる<ruby>車<rt>くるま</rt></ruby>や<ruby>視界<rt>しかい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い<ruby>夜間<rt>やかん</rt></ruby>など、<ruby>止<rt>と</rt></ruby>まらない<ruby>車<rt>くるま</rt></ruby>も<ruby>一部<rt>いちぶ</rt></ruby><ruby>存在<rt>そんざい</rt></ruby>します。
+<ruby>必<rt>かなら</rt></ruby>ず<ruby>車<rt>くるま</rt></ruby>が「<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>減速<rt>げんそく</rt></ruby>・<ruby>停止<rt>ていし</rt></ruby>した」ことを<ruby>確認<rt>かくにん</rt></ruby>してから<ruby>足<rt>あし</rt></ruby>を<ruby>踏み出<rt>ふみだ</rt></ruby>しましょう！
 
 ---
 
-## 📖 あわせて読みたい日本の治安＆マナー特集
+## 📝 まとめ：<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げれば<ruby>心<rt>こころ</rt></ruby>がつながる<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>マナー
 
-世界が驚く日本の安全性と思いやり文化に迫るおすすめ記事！
+<ruby>香港<rt>ほんこん</rt></ruby>の<ruby>激<rt>はげ</rt></ruby>しい<ruby>交通<rt>こうつう</rt></ruby>ラッシュの<ruby>中<rt>なか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>った<ruby>私<rt>わたし</rt></ruby>にとって、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってくれたときの<ruby>感動<rt>かんどう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>でも<ruby>忘<rt>わす</rt></ruby>れられません。
 
-* 🎒 [カルチャーショック：小1が1人で電車に乗って登校！？海外なら親が逮捕される「日本の通学事情」に世界が仰天する理由](https://nihongo.oscarchair.jp/culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence/)
-* 🚃 [カルチャーショック：電車で全員が寝ている！？日本の「居眠り文化」と圧倒的な治安の良さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
+- <strong><ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げる</strong>＝ 「<ruby>渡<rt>わた</rt></ruby>りたいです」の<ruby>合図<rt>あいず</rt></ruby>
+- <strong><ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まる</strong>＝ 「どうぞお<ruby>先<rt>さき</rt></ruby>に」の<ruby>優<rt>やさ</rt></ruby>しさ
+- <strong><ruby>会釈<rt>えしゃく</rt></ruby>して<ruby>渡<rt>わた</rt></ruby>る</strong>＝ 「<ruby>譲<rt>ゆず</rt></ruby>ってくれてありがとう」の<ruby>感謝<rt>かんしゃ</rt></ruby>
+
+<ruby>信号<rt>しんごう</rt></ruby>のない<ruby>小<rt>ちい</rt></ruby>さな<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby><ruby>一<rt>ひと</rt></ruby>つにも、<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>誇<rt>ほこ</rt></ruby>る<strong>「<ruby>他者<rt>たしゃ</rt></ruby>への<ruby>思<rt>おも</rt></ruby>いやり」と「<ruby>調和<rt>ちょうわ</rt></ruby>の<ruby>精神<rt>せいしん</rt></ruby>」</strong>がぎゅっと<ruby>詰<rt>つ</rt></ruby>まっています。
+<ruby>皆<rt>みな</rt></ruby>さんも<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>道<rt>みち</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>るときは、ぜひ<ruby>右手<rt>みぎて</rt></ruby>をピッと<ruby>挙<rt>あ</rt></ruby>げて、<ruby>優<rt>やさ</rt></ruby>しいドライバーさんと<ruby>心<rt>こころ</rt></ruby>を<ruby>通<rt>かよ</rt></ruby>わせてみてくださいね！
 
 ---
 
-## 📖 あわせて読みたい関連記事
+## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>治安<rt>ちあん</rt></ruby>＆マナー<ruby>特集<rt>とくしゅう</rt></ruby>
 
-[oscss_related slug="culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence" label="カルチャーショック：小1の単独登校に世界が仰天"]
-[oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：街中にゴミ箱がない謎"]
+<ruby>世界<rt>せかい</rt></ruby>が<ruby>驚<rt>おどろ</rt></ruby>く<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby><ruby>性<rt>せい</rt></ruby>と<ruby>思<rt>おも</rt></ruby>いやり<ruby>文化<rt>ぶんか</rt></ruby>に<ruby>迫<rt>せま</rt></ruby>るおすすめ<ruby>記事<rt>きじ</rt></ruby>！
+
+* 🎒 [カルチャーショック：<ruby>小<rt>しょう</rt></ruby>1が1<ruby>人<rt>にん</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>登校<rt>とうこう</rt></ruby>！？<ruby>海外<rt>かいがい</rt></ruby>なら<ruby>親<rt>おや</rt></ruby>が<ruby>逮捕<rt>たいほ</rt></ruby>される「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>通学<rt>つうがく</rt></ruby><ruby>事情<rt>じじょう</rt></ruby>」に<ruby>世界<rt>せかい</rt></ruby>が<ruby>仰天<rt>ぎょうてん</rt></ruby>する<ruby>理由<rt>りゆう</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence/)
+* 🚃 [カルチャーショック：<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>寝<rt>ね</rt></ruby>ている！？<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>居眠<rt>いねむ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>」と<ruby>圧倒的<rt>あっとうてき</rt></ruby>な<ruby>治安<rt>ちあん</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
+
+---
+
+## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>
+
+[oscss_related slug="culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence" label="カルチャーショック：<ruby>小<rt>しょう</rt></ruby>1の<ruby>単独<rt>たんどく</rt></ruby><ruby>登校<rt>とうこう</rt></ruby>に<ruby>世界<rt>せかい</rt></ruby>が<ruby>仰天<rt>ぎょうてん</rt></ruby>"]
+[oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がない<ruby>謎<rt>なぞ</rt></ruby>"]

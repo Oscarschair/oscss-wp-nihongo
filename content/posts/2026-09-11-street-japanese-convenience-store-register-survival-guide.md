@@ -15,46 +15,46 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 ---
 
 > 💬 <strong>オスカー</strong>  
-> こんにちは、香港出身のオスカーです！  
-> 新連載<strong>「街角サバイバル」</strong>へようこそ！この連載では、教科書には載っていないけれど、日本で暮らす外国人が毎日直面する「リアルな日常の現場（コンビニ、美容院、居酒屋、病院など）」でのサバイバル術と実践フレーズをお届けします。
+> こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
+> <ruby>新<rt>しん</rt></ruby><ruby>連載<rt>れんさい</rt></ruby><strong>「<ruby>街角<rt>まちかど</rt></ruby>サバイバル」</strong>へようこそ！この<ruby>連載<rt>れんさい</rt></ruby>では、<ruby>教科書<rt>きょうかしょ</rt></ruby>には<ruby>載<rt>の</rt></ruby>っていないけれど、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らす<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>毎日<rt>まいにち</rt></ruby><ruby>直面<rt>ちょくめん</rt></ruby>する「リアルな<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>（コンビニ、<ruby>美容<rt>びよう</rt></ruby><ruby>院<rt>いん</rt></ruby>、<ruby>居酒屋<rt>いざかや</rt></ruby>、<ruby>病院<rt>びょういん</rt></ruby>など）」でのサバイバル<ruby>術<rt>じゅつ</rt></ruby>と<ruby>実践<rt>じっせん</rt></ruby>フレーズをお<ruby>届<rt>とど</rt></ruby>けします。
 
-第1弾のテーマは、私たちが日本で最も頻繁に訪れる場所……そう、<strong>「コンビニのレジ」</strong>です！
+<ruby>第<rt>だい</rt></ruby>1<ruby>弾<rt>だん</rt></ruby>のテーマは、<ruby>私<rt>わたし</rt></ruby>たちが<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>頻繁<rt>ひんぱん</rt></ruby>に<ruby>訪<rt>おとず</rt></ruby>れる<ruby>場所<rt>ばしょ</rt></ruby>……そう、<strong>「コンビニのレジ」</strong>です！
 
 ---
 
-## 1. 香港のレジは「ほぼ無言」。日本のレジは「回答必須のRPG」！？
+## 1. <ruby>香港<rt>ほんこん</rt></ruby>のレジは「ほぼ<ruby>無言<rt>むごん</rt></ruby>」。<ruby>日本<rt>にっぽん</rt></ruby>のレジは「<ruby>回答<rt>かいとう</rt></ruby><ruby>必須<rt>ひっす</rt></ruby>のRPG」！？
 
-日本で暮らし始めた外国人が、入国管理局や市役所よりも日常的に緊張する場所をご存知でしょうか？
+<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らし<ruby>始<rt>はじ</rt></ruby>めた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が、<ruby>入国<rt>にゅうこく</rt></ruby><ruby>管理<rt>かんり</rt></ruby><ruby>局<rt>きょく</rt></ruby>や<ruby>市役所<rt>しやくしょ</rt></ruby>よりも<ruby>日常<rt>にちじょう</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>緊張<rt>きんちょう</rt></ruby>する<ruby>場所<rt>ばしょ</rt></ruby>をご<ruby>存知<rt>ぞんじ</rt></ruby>でしょうか？
 
-それは、自宅のすぐ近くにある<strong>コンビニのレジ</strong>です。
+それは、<ruby>自宅<rt>じたく</rt></ruby>のすぐ<ruby>近<rt>ちか</rt></ruby>くにある<strong>コンビニのレジ</strong>です。
 
-私の生まれ故郷である香港のコンビニは、基本的に<strong>「超効率＆スピード重視」</strong>の世界です。
+<ruby>私<rt>わたし</rt></ruby>の<ruby>生まれ故郷<rt>うまれこきょう</rt></ruby>である<ruby>香港<rt>ほんこん</rt></ruby>のコンビニは、<ruby>基本<rt>きほん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<strong>「<ruby>超<rt>ちょう</rt></ruby><ruby>効率<rt>こうりつ</rt></ruby>＆スピード<ruby>重視<rt>じゅうし</rt></ruby>」</strong>の<ruby>世界<rt>せかい</rt></ruby>です。
 
-* レジカウンターに商品（ミルクティーやエッグタルト）を置く。
-* 店員さんがバーコードをピッピッとスキャンする。
-* 客側が無言でオクトパスカード（八達通）をリーダーにかざす。
-* 「ピッ」と音が鳴って、終了！（所要時間：わずか3秒）
+* レジカウンターに<ruby>商品<rt>しょうひん</rt></ruby>（ミルクティーやエッグタルト）を<ruby>置<rt>お</rt></ruby>く。
+* <ruby>店員<rt>てんいん</rt></ruby>さんがバーコードをピッピッとスキャンする。
+* <ruby>客<rt>きゃく</rt></ruby><ruby>側<rt>がわ</rt></ruby>が<ruby>無言<rt>むごん</rt></ruby>でオクトパスカード（<ruby>八<rt>はち</rt></ruby><ruby>達<rt>たち</rt></ruby><ruby>通<rt>どおり</rt></ruby>）をリーダーにかざす。
+* 「ピッ」と<ruby>音<rt>おと</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>って、<ruby>終了<rt>しゅうりょう</rt></ruby>！（<ruby>所要<rt>しょよう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>：わずか3<ruby>秒<rt>びょう</rt></ruby>）
 
-店員さんも客も、一言も喋らないことが普通です。「いらっしゃいませ」も「袋いりますか」もありません。無言のあうんの呼吸で世界が回っています。
+<ruby>店員<rt>てんいん</rt></ruby>さんも<ruby>客<rt>きゃく</rt></ruby>も、<ruby>一言<rt>ひとこと</rt></ruby>も<ruby>喋<rt>しゃべ</rt></ruby>らないことが<ruby>普通<rt>ふつう</rt></ruby>です。「いらっしゃいませ」も「<ruby>袋<rt>ふくろ</rt></ruby>いりますか」もありません。<ruby>無言<rt>むごん</rt></ruby>のあうんの<ruby>呼吸<rt>こきゅう</rt></ruby>で<ruby>世界<rt>せかい</rt></ruby>が<ruby>回<rt>まわ</rt></ruby>っています。
 
-ところが、日本のコンビニに初めて入った時の衝撃は忘れられません。
+ところが、<ruby>日本<rt>にっぽん</rt></ruby>のコンビニに<ruby>初<rt>はじ</rt></ruby>めて<ruby>入<rt>はい</rt></ruby>った<ruby>時<rt>とき</rt></ruby>の<ruby>衝撃<rt>しょうげき</rt></ruby>は<ruby>忘<rt>わす</rt></ruby>れられません。
 
-お弁当とお茶をカウンターに置いた瞬間、店員さんが満面の笑顔で、矢継ぎ早に何かを話しかけてくるのです！
+お<ruby>弁当<rt>べんとう</rt></ruby>とお<ruby>茶<rt>ちゃ</rt></ruby>をカウンターに<ruby>置<rt>お</rt></ruby>いた<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>店員<rt>てんいん</rt></ruby>さんが<ruby>満面<rt>まんめん</rt></ruby>の<ruby>笑顔<rt>えがお</rt></ruby>で、<ruby>矢継ぎ早<rt>やつぎばや</rt></ruby>に<ruby>何<rt>なに</rt></ruby>かを<ruby>話<rt>はな</rt></ruby>しかけてくるのです！
 
-> <strong>店員さん</strong>：「ﾌｸﾛｺﾞﾘﾖｳﾃﾞｽｶ? ｵﾍﾞﾝﾄｳｱﾀﾀﾒﾏｽｶ? ﾎﾟｲﾝﾄｶｰﾄﾞﾊｵﾓﾁﾃﾞｽｶ?」  
-> <strong>当時の私</strong>：（……えっ！？ 何か質問されてる！？ 答えなきゃいけないの！？ なんでレジが進まないの！？）
+> <strong><ruby>店員<rt>てんいん</rt></ruby>さん</strong>：「ﾌｸﾛｺﾞﾘﾖｳﾃﾞｽｶ? ｵﾍﾞﾝﾄｳｱﾀﾀﾒﾏｽｶ? ﾎﾟｲﾝﾄｶｰﾄﾞﾊｵﾓﾁﾃﾞｽｶ?」  
+> <strong><ruby>当時<rt>とうじ</rt></ruby>の<ruby>私<rt>わたし</rt></ruby></strong>：（……えっ！？ <ruby>何<rt>なに</rt></ruby>か<ruby>質問<rt>しつもん</rt></ruby>されてる！？ <ruby>答<rt>こた</rt></ruby>えなきゃいけないの！？ なんでレジが<ruby>進<rt>すす</rt></ruby>まないの！？）
 
-無言で終わると思っていたのに、<strong>「相手からの問いかけにリアルタイムで正しく回答しなければならない」</strong>というプレッシャー。
+<ruby>無言<rt>むごん</rt></ruby>で<ruby>終<rt>お</rt></ruby>わると<ruby>思<rt>おも</rt></ruby>っていたのに、<strong>「<ruby>相手<rt>あいて</rt></ruby>からの<ruby>問<rt>と</rt></ruby>いかけにリアルタイムで<ruby>正<rt>まさ</rt></ruby>しく<ruby>回答<rt>かいとう</rt></ruby>しなければならない」</strong>というプレッシャー。
 
-あの時、私の脳内では完全に<strong>「勇者の剣と盾を握りしめ、ボスのコマンド選択画面の前に立ち尽くすRPGバトル」</strong>が始まっていました。
+あの<ruby>時<rt>とき</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>の<ruby>脳<rt>のう</rt></ruby><ruby>内<rt>ない</rt></ruby>では<ruby>完全<rt>かんぜん</rt></ruby>に<strong>「<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>剣<rt>けん</rt></ruby>と<ruby>盾<rt>たて</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>りしめ、ボスのコマンド<ruby>選択<rt>せんたく</rt></ruby><ruby>画面<rt>がめん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立ち尽<rt>たちつ</rt></ruby>くすRPGバトル」</strong>が<ruby>始<rt>はじ</rt></ruby>まっていました。
 
 ![コンビニのレジで温かいお弁当と冷たいお茶を袋詰めする際、「熱いのと冷たいのを一緒にして大丈夫ですか？」と細やかに確認してくれる店員さん](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/convenience-register-rapid-questions.jpg)
 
 ---
 
-## 2. コンビニレジの「3大トラップ」と攻略コマンド
+## 2. コンビニレジの「3<ruby>大<rt>だい</rt></ruby>トラップ」と<ruby>攻略<rt>こうりゃく</rt></ruby>コマンド
 
-日本のコンビニレジでは、必ずと言っていいほど以下の<strong>「3つの質問（3連撃）」</strong>が飛んできます。それぞれのトラップと、確実にターンを切り抜ける「神フレーズ」をマスターしましょう！
+<ruby>日本<rt>にっぽん</rt></ruby>のコンビニレジでは、<ruby>必<rt>かなら</rt></ruby>ずと<ruby>言<rt>い</rt></ruby>っていいほど<ruby>以下<rt>いか</rt></ruby>の<strong>「3つの<ruby>質問<rt>しつもん</rt></ruby>（3<ruby>連<rt>れん</rt></ruby><ruby>撃<rt>*</rt></ruby>）」</strong>が<ruby>飛<rt>と</rt></ruby>んできます。それぞれのトラップと、<ruby>確実<rt>かくじつ</rt></ruby>にターンを<ruby>切り抜<rt>きりぬ</rt></ruby>ける「<ruby>神<rt>かみ</rt></ruby>フレーズ」をマスターしましょう！
 
 ```
 【 コンビニ店員があらわれた！ 】
@@ -65,96 +65,96 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 --------------------------------------------------
 ```
 
-### 第1波：袋のトラップ「袋ご利用ですか？」
+### <ruby>第<rt>だい</rt></ruby>1<ruby>波<rt>は</rt></ruby>：<ruby>袋<rt>ふくろ</rt></ruby>のトラップ「<ruby>袋<rt>ふくろ</rt></ruby>ご<ruby>利用<rt>りよう</rt></ruby>ですか？」
 
-レジ袋有料化（2020年）以降、日本全国のレジで必須となった質問です。
+レジ<ruby>袋<rt>ぶくろ</rt></ruby><ruby>有料<rt>ゆうりょう</rt></ruby><ruby>化<rt>か</rt></ruby>（2020<ruby>年<rt>ねん</rt></ruby>）<ruby>以降<rt>いこう</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby><ruby>全国<rt>ぜんこく</rt></ruby>のレジで<ruby>必須<rt>ひっす</rt></ruby>となった<ruby>質問<rt>しつもん</rt></ruby>です。
 
-* <strong>聞こえ方</strong>：「ﾌｸﾛｺﾞﾘﾖｳﾃﾞｽｶ?」「ﾌｸﾛｲﾘﾏｽｶ?」「ﾌｸﾛﾊﾄﾞｳｻﾚﾏｽｶ?」
-* ⚠️ <strong>初心者のトラップ</strong>：  
-  日本人がよく使う<strong>「大丈夫です」</strong>をそのまま使うと、<strong>「袋が要るのか要らないのかどっち！？」</strong>と店員さんを困惑させてしまいます。
+* <strong><ruby>聞<rt>き</rt></ruby>こえ<ruby>方<rt>かた</rt></ruby></strong>：「ﾌｸﾛｺﾞﾘﾖｳﾃﾞｽｶ?」「ﾌｸﾛｲﾘﾏｽｶ?」「ﾌｸﾛﾊﾄﾞｳｻﾚﾏｽｶ?」
+* ⚠️ <strong><ruby>初心者<rt>しょしんしゃ</rt></ruby>のトラップ</strong>：  
+<ruby>日本人<rt>にっぽんじん</rt></ruby>がよく<ruby>使<rt>つか</rt></ruby>う<strong>「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」</strong>をそのまま<ruby>使<rt>つか</rt></ruby>うと、<strong>「<ruby>袋<rt>ふくろ</rt></ruby>が<ruby>要<rt>い</rt></ruby>るのか<ruby>要<rt>い</rt></ruby>らないのかどっち！？」</strong>と<ruby>店員<rt>てんいん</rt></ruby>さんを<ruby>困惑<rt>こんわく</rt></ruby>させてしまいます。
 
-#### ⚔️ 突破コマンド（おすすめフレーズ）
-* <strong>【袋が不要なとき】</strong>：<strong>「そのままで大丈夫です」</strong>（最強の万能呪文！）または<strong>「袋はいりません」</strong>
-* <strong>【袋が欲しいとき】</strong>：<strong>「袋1枚お願いします」</strong>（「有料ですが？」と聞かれたら「はい」でOK）
-
----
-
-### 第2波：温めの心理戦「お弁当温めますか？」
-
-お弁当やおにぎり、パスタなどを買った時に繰り出される質問です。
-
-* <strong>聞こえ方</strong>：「ｵｱﾀﾀﾒｼﾏｽｶ?」「ｱﾀﾀﾒﾃﾞﾖﾛｼｲﾃﾞｽｶ?」
-* ⚠️ <strong>初心者のトラップ</strong>：  
-  <strong>「冷たいペットボトルのお茶」とお弁当を同時に出したとき</strong>に、「温めますか？」に対して元気に「はい！」と答えてしまうこと。香港から来たばかりの私は、<strong>熱湯のように熱くなったペットボトル茶とお弁当が同じ袋に入って出てきて</strong>腰を抜かしたことがあります（笑）。  
-  でも日本の親切な店員さんは、袋詰めのときに<strong>「熱いのと冷たいのを一緒にして大丈夫ですか？」</strong>とわざわざ細やかに確認してくれる神対応！ そんな時は笑顔で<strong>「はい、大丈夫です！」</strong>（または「あ、別々でお願いします」）とスマートに答えられれば百戦錬磨の勇者です！
-
-#### ⚔️ 突破コマンド（おすすめフレーズ）
-* <strong>【温めてほしいとき】</strong>：<strong>「お弁当だけ温めてください」</strong>（対象を限定するのがプロの技！）
-* <strong>【温めなくていいとき】</strong>：<strong>「そのままでいいです」</strong>または<strong>「大丈夫です」</strong>
+#### ⚔️ <ruby>突破<rt>とっぱ</rt></ruby>コマンド（おすすめフレーズ）
+* <strong>【<ruby>袋<rt>ふくろ</rt></ruby>が<ruby>不要<rt>ふよう</rt></ruby>なとき】</strong>：<strong>「そのままで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」</strong>（<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>万能<rt>ばんのう</rt></ruby><ruby>呪文<rt>じゅもん</rt></ruby>！）または<strong>「<ruby>袋<rt>ふくろ</rt></ruby>はいりません」</strong>
+* <strong>【<ruby>袋<rt>ふくろ</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいとき】</strong>：<strong>「<ruby>袋<rt>ふくろ</rt></ruby>1<ruby>枚<rt>まい</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします」</strong>（「<ruby>有料<rt>ゆうりょう</rt></ruby>ですが？」と<ruby>聞<rt>き</rt></ruby>かれたら「はい」でOK）
 
 ---
 
-### 第3波：ポイントカードの泥沼「ポイントカードはお持ちですか？」
+### <ruby>第<rt>だい</rt></ruby>2<ruby>波<rt>は</rt></ruby>：<ruby>温<rt>あたた</rt></ruby>めの<ruby>心理<rt>しんり</rt></ruby><ruby>戦<rt>せん</rt></ruby>「お<ruby>弁当<rt>べんとう</rt></ruby><ruby>温<rt>あたた</rt></ruby>めますか？」
 
-もっとも早口で聞き取りにくく、初心者を焦らせるトラップです。
+お<ruby>弁当<rt>べんとう</rt></ruby>やおにぎり、パスタなどを<ruby>買<rt>か</rt></ruby>った<ruby>時<rt>とき</rt></ruby>に<ruby>繰り出<rt>くりだ</rt></ruby>される<ruby>質問<rt>しつもん</rt></ruby>です。
 
-* <strong>聞こえ方</strong>：「ﾎﾟｲﾝﾄｶｰﾄﾞﾊ?」「ﾎﾟｲﾝﾄﾊﾖﾛｼｲﾃﾞｽｶ?」
-* ⚠️ <strong>初心者のトラップ</strong>：  
-  「えっ、カード？ クレジットカードのこと？ 現金払うの？」とパニックになり、財布をガサゴソ探しているうちに後ろの列から痛い視線が突き刺さる……！
+* <strong><ruby>聞<rt>き</rt></ruby>こえ<ruby>方<rt>かた</rt></ruby></strong>：「ｵｱﾀﾀﾒｼﾏｽｶ?」「ｱﾀﾀﾒﾃﾞﾖﾛｼｲﾃﾞｽｶ?」
+* ⚠️ <strong><ruby>初心者<rt>しょしんしゃ</rt></ruby>のトラップ</strong>：  
+  <strong>「<ruby>冷<rt>つめ</rt></ruby>たいペットボトルのお<ruby>茶<rt>ちゃ</rt></ruby>」とお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>同時<rt>どうじ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>したとき</strong>に、「<ruby>温<rt>あたた</rt></ruby>めますか？」に<ruby>対<rt>たい</rt></ruby>して<ruby>元気<rt>げんき</rt></ruby>に「はい！」と<ruby>答<rt>こた</rt></ruby>えてしまうこと。<ruby>香港<rt>ほんこん</rt></ruby>から<ruby>来<rt>き</rt></ruby>たばかりの<ruby>私<rt>わたし</rt></ruby>は、<strong><ruby>熱湯<rt>ねっとう</rt></ruby>のように<ruby>熱<rt>あつ</rt></ruby>くなったペットボトル<ruby>茶<rt>ちゃ</rt></ruby>とお<ruby>弁当<rt>べんとう</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じ<ruby>袋<rt>ふくろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>出<rt>で</rt></ruby>てきて</strong><ruby>腰<rt>こし</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>かしたことがあります（<ruby>笑<rt>えみ</rt></ruby>）。
+でも<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>店員<rt>てんいん</rt></ruby>さんは、<ruby>袋<rt>ふくろ</rt></ruby><ruby>詰<rt>づ</rt></ruby>めのときに<strong>「<ruby>熱<rt>あつ</rt></ruby>いのと<ruby>冷<rt>つめ</rt></ruby>たいのを<ruby>一緒<rt>いっしょ</rt></ruby>にして<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか？」</strong>とわざわざ<ruby>細<rt>こま</rt></ruby>やかに<ruby>確認<rt>かくにん</rt></ruby>してくれる<ruby>神<rt>かみ</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>！ そんな<ruby>時<rt>とき</rt></ruby>は<ruby>笑顔<rt>えがお</rt></ruby>で<strong>「はい、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です！」</strong>（または「あ、<ruby>別々<rt>べつべつ</rt></ruby>でお<ruby>願<rt>ねが</rt></ruby>いします」）とスマートに<ruby>答<rt>こた</rt></ruby>えられれば<ruby>百戦錬磨<rt>ひゃくせんれんま</rt></ruby>の<ruby>勇者<rt>ゆうしゃ</rt></ruby>です！
 
-日本はPonta、dポイント、楽天ポイント、Vポイントなど「ポイントカード戦国時代」です。持っていなければ、1秒も迷う必要はありません。
-
-#### ⚔️ 突破コマンド（おすすめフレーズ）
-* <strong>【持っていないとき】</strong>：<strong>「ないです」</strong>（軽く首を横に振るだけで100点満点！）
-* <strong>【持っているとき】</strong>：スマホのバーコードやカードを無言で見せるだけでOK！
-
----
-
-## 3. 最強の裏技：店員に喋らせない「先手必勝（先制攻撃）」
-
-レベルが上がった上級者だけが使える究極の技があります。
-
-それは、<strong>店員さんが口を開く前に、こちらから必要な情報をすべて伝える「先手必勝（プレエンプティブ・ストライク）」</strong>です。
-
-カウンターに商品を置くと同時に、笑顔でこう言い放ちます。
-
-> 🗣️ <strong>「袋なしで、お弁当だけ温めてください。ポイントカードはないです。」</strong>
-
-この3大要素を先制攻撃で唱えられた瞬間、コンビニ店員さんの目が<strong>「……お主、できるな！？」</strong>というリスペクトの光に変わります。
-
-店員さんも質問する手間が省けてハッピー、こちらも緊張せずにスムーズに決済できてハッピー。まさに誰も傷つかない完全勝利（Win-Win）です！
+#### ⚔️ <ruby>突破<rt>とっぱ</rt></ruby>コマンド（おすすめフレーズ）
+* <strong>【<ruby>温<rt>あたた</rt></ruby>めてほしいとき】</strong>：<strong>「お<ruby>弁当<rt>べんとう</rt></ruby>だけ<ruby>温<rt>あたた</rt></ruby>めてください」</strong>（<ruby>対象<rt>たいしょう</rt></ruby>を<ruby>限定<rt>げんてい</rt></ruby>するのがプロの<ruby>技<rt>わざ</rt></ruby>！）
+* <strong>【<ruby>温<rt>あたた</rt></ruby>めなくていいとき】</strong>：<strong>「そのままでいいです」</strong>または<strong>「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」</strong>
 
 ---
 
-## 4. 街角のサバイバル早見表（まとめ）
+### <ruby>第<rt>だい</rt></ruby>3<ruby>波<rt>は</rt></ruby>：ポイントカードの<ruby>泥沼<rt>どろぬま</rt></ruby>「ポイントカードはお<ruby>持<rt>も</rt></ruby>ちですか？」
 
-最後に、コンビニレジでの対応を1枚のチャートにまとめました。スマホに保存して、レジに並ぶ前に心の準備をしておきましょう！
+もっとも<ruby>早口<rt>はやくち</rt></ruby>で<ruby>聞き取<rt>ききと</rt></ruby>りにくく、<ruby>初心者<rt>しょしんしゃ</rt></ruby>を<ruby>焦<rt>あせ</rt></ruby>らせるトラップです。
 
-| 店員の質問 | あなたの回答（標準） | あなたの回答（断る） |
+* <strong><ruby>聞<rt>き</rt></ruby>こえ<ruby>方<rt>かた</rt></ruby></strong>：「ﾎﾟｲﾝﾄｶｰﾄﾞﾊ?」「ﾎﾟｲﾝﾄﾊﾖﾛｼｲﾃﾞｽｶ?」
+* ⚠️ <strong><ruby>初心者<rt>しょしんしゃ</rt></ruby>のトラップ</strong>：  
+「えっ、カード？ クレジットカードのこと？ <ruby>現金<rt>げんきん</rt></ruby><ruby>払<rt>はら</rt></ruby>うの？」とパニックになり、<ruby>財布<rt>さいふ</rt></ruby>をガサゴソ<ruby>探<rt>さが</rt></ruby>しているうちに<ruby>後<rt>うし</rt></ruby>ろの<ruby>列<rt>れつ</rt></ruby>から<ruby>痛<rt>いた</rt></ruby>い<ruby>視線<rt>しせん</rt></ruby>が<ruby>突き刺<rt>つきさ</rt></ruby>さる……！
+
+<ruby>日本<rt>にっぽん</rt></ruby>はPonta、dポイント、<ruby>楽天<rt>らくてん</rt></ruby>ポイント、Vポイントなど「ポイントカード<ruby>戦国<rt>せんごく</rt></ruby><ruby>時代<rt>じだい</rt></ruby>」です。<ruby>持<rt>も</rt></ruby>っていなければ、1<ruby>秒<rt>びょう</rt></ruby>も<ruby>迷<rt>まよ</rt></ruby>う<ruby>必要<rt>ひつよう</rt></ruby>はありません。
+
+#### ⚔️ <ruby>突破<rt>とっぱ</rt></ruby>コマンド（おすすめフレーズ）
+* <strong>【<ruby>持<rt>も</rt></ruby>っていないとき】</strong>：<strong>「ないです」</strong>（<ruby>軽<rt>かる</rt></ruby>く<ruby>首<rt>くび</rt></ruby>を<ruby>横<rt>よこ</rt></ruby>に<ruby>振<rt>ふ</rt></ruby>るだけで100<ruby>点<rt>てん</rt></ruby><ruby>満点<rt>まんてん</rt></ruby>！）
+* <strong>【<ruby>持<rt>も</rt></ruby>っているとき】</strong>：スマホのバーコードやカードを<ruby>無言<rt>むごん</rt></ruby>で<ruby>見<rt>み</rt></ruby>せるだけでOK！
+
+---
+
+## 3. <ruby>最強<rt>さいきょう</rt></ruby>の<ruby>裏<rt>うら</rt></ruby><ruby>技<rt>わざ</rt></ruby>：<ruby>店員<rt>てんいん</rt></ruby>に<ruby>喋<rt>しゃべ</rt></ruby>らせない「<ruby>先手<rt>せんて</rt></ruby><ruby>必勝<rt>ひっしょう</rt></ruby>（<ruby>先制<rt>せんせい</rt></ruby><ruby>攻撃<rt>こうげき</rt></ruby>）」
+
+レベルが<ruby>上<rt>あ</rt></ruby>がった<ruby>上級<rt>じょうきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だけが<ruby>使<rt>つか</rt></ruby>える<ruby>究極<rt>きゅうきょく</rt></ruby>の<ruby>技<rt>わざ</rt></ruby>があります。
+
+それは、<strong><ruby>店員<rt>てんいん</rt></ruby>さんが<ruby>口<rt>くち</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に、こちらから<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>をすべて<ruby>伝<rt>つた</rt></ruby>える「<ruby>先手<rt>せんて</rt></ruby><ruby>必勝<rt>ひっしょう</rt></ruby>（プレエンプティブ・ストライク）」</strong>です。
+
+カウンターに<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>置<rt>お</rt></ruby>くと<ruby>同時<rt>どうじ</rt></ruby>に、<ruby>笑顔<rt>えがお</rt></ruby>でこう<ruby>言い放<rt>いいはな</rt></ruby>ちます。
+
+> 🗣️ <strong>「<ruby>袋<rt>ふくろ</rt></ruby>なしで、お<ruby>弁当<rt>べんとう</rt></ruby>だけ<ruby>温<rt>あたた</rt></ruby>めてください。ポイントカードはないです。」</strong>
+
+この3<ruby>大<rt>だい</rt></ruby><ruby>要素<rt>ようそ</rt></ruby>を<ruby>先制<rt>せんせい</rt></ruby><ruby>攻撃<rt>こうげき</rt></ruby>で<ruby>唱<rt>とな</rt></ruby>えられた<ruby>瞬間<rt>しゅんかん</rt></ruby>、コンビニ<ruby>店員<rt>てんいん</rt></ruby>さんの<ruby>目<rt>め</rt></ruby>が<strong>「……お<ruby>主<rt>あるじ</rt></ruby>、できるな！？」</strong>というリスペクトの<ruby>光<rt>ひかり</rt></ruby>に<ruby>変<rt>か</rt></ruby>わります。
+
+<ruby>店員<rt>てんいん</rt></ruby>さんも<ruby>質問<rt>しつもん</rt></ruby>する<ruby>手間<rt>てま</rt></ruby>が<ruby>省<rt>はぶ</rt></ruby>けてハッピー、こちらも<ruby>緊張<rt>きんちょう</rt></ruby>せずにスムーズに<ruby>決済<rt>けっさい</rt></ruby>できてハッピー。まさに<ruby>誰<rt>だれ</rt></ruby>も<ruby>傷<rt>きず</rt></ruby>つかない<ruby>完全<rt>かんぜん</rt></ruby><ruby>勝利<rt>しょうり</rt></ruby>（Win-Win）です！
+
+---
+
+## 4. <ruby>街角<rt>まちかど</rt></ruby>のサバイバル<ruby>早見<rt>はやみ</rt></ruby><ruby>表<rt>ひょう</rt></ruby>（まとめ）
+
+<ruby>最後<rt>さいご</rt></ruby>に、コンビニレジでの<ruby>対応<rt>たいおう</rt></ruby>を1<ruby>枚<rt>まい</rt></ruby>のチャートにまとめました。スマホに<ruby>保存<rt>ほぞん</rt></ruby>して、レジに<ruby>並<rt>なら</rt></ruby>ぶ<ruby>前<rt>まえ</rt></ruby>に<ruby>心<rt>こころ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>をしておきましょう！
+
+| <ruby>店員<rt>てんいん</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby> | あなたの<ruby>回答<rt>かいとう</rt></ruby>（<ruby>標準<rt>ひょうじゅん</rt></ruby>） | あなたの<ruby>回答<rt>かいとう</rt></ruby>（<ruby>断<rt>ことわ</rt></ruby>る） |
 | :--- | :--- | :--- |
-| **袋ご利用ですか？** | 「袋1枚お願いします」 | <strong>「そのままで大丈夫です」</strong>（※[「大丈夫」の使いこなし](https://nihongo.oscarchair.jp/kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase/)） |
-| **温めますか？** | <strong>「お弁当だけ温めてください」</strong> | 「そのままでいいです」（※[「いいです」の肯定・否定](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu/)） |
-| **ポイントカードは？** | （カード・アプリを提示） | <strong>「ないです」</strong> |
-| **お支払い方法は？** | 「Suicaで」「クレジットで」「PayPayで」 | 「現金で」（※[日本の小銭・お釣り文化](https://nihongo.oscarchair.jp/culture-shock-cash-on-delivery-refused-tip-keep-the-change/)） |
+| **<ruby>袋<rt>ぶくろ</rt></ruby>ご<ruby>利用<rt>りよう</rt></ruby>ですか？** | 「<ruby>袋<rt>ふくろ</rt></ruby>1<ruby>枚<rt>まい</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします」 |<strong>「そのままで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」</strong>（※[「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>」の<ruby>使<rt>つか</rt></ruby>いこなし](https://nihongo.oscarchair.jp/kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase/)） |
+| **<ruby>温<rt>あたた</rt></ruby>めますか？** |<strong>「お<ruby>弁当<rt>べんとう</rt></ruby>だけ<ruby>温<rt>あたた</rt></ruby>めてください」</strong>| 「そのままでいいです」（※[「いいです」の<ruby>肯定<rt>こうてい</rt></ruby>・<ruby>否定<rt>ひてい</rt></ruby>](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu/)） |
+| **ポイントカードは？** | （カード・アプリを<ruby>提示<rt>ていじ</rt></ruby>） |<strong>「ないです」</strong> |
+| **お<ruby>支払<rt>しはら</rt></ruby>い<ruby>方法<rt>ほうほう</rt></ruby>は？** | 「Suicaで」「クレジットで」「PayPayで」 | 「<ruby>現金<rt>げんきん</rt></ruby>で」（※[<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>小銭<rt>こぜに</rt></ruby>・お<ruby>釣<rt>つ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-cash-on-delivery-refused-tip-keep-the-change/)） |
 
 ---
 
 ## 5. オスカーのひとことメモ
 
 > 💬 <strong>オスカー</strong>  
-> 香港のコンビニのように「無言でサッと終わる」のも効率的で素晴らしいですが、日本のコンビニのように「袋はどうするか、温めるか、お箸は何膳いるか」を細かく気遣ってくれるのも、実は<strong>日本ならではの「おもてなし（ホスピタリティ）」の文化</strong>なんですよね。  
+> <ruby>香港<rt>ほんこん</rt></ruby>のコンビニのように「<ruby>無言<rt>むごん</rt></ruby>でサッと<ruby>終<rt>お</rt></ruby>わる」のも<ruby>効率<rt>こうりつ</rt></ruby><ruby>的<rt>てき</rt></ruby>で<ruby>素晴<rt>すば</rt></ruby>らしいですが、<ruby>日本<rt>にっぽん</rt></ruby>のコンビニのように「<ruby>袋<rt>ふくろ</rt></ruby>はどうするか、<ruby>温<rt>あたた</rt></ruby>めるか、お<ruby>箸<rt>はし</rt></ruby>は<ruby>何<rt>なん</rt></ruby><ruby>膳<rt>ぜん</rt></ruby>いるか」を<ruby>細<rt>こま</rt></ruby>かく<ruby>気遣<rt>きづか</rt></ruby>ってくれるのも、<ruby>実<rt>じつ</rt></ruby>は<strong><ruby>日本<rt>にっぽん</rt></ruby>ならではの「おもてなし（ホスピタリティ）」の<ruby>文化<rt>ぶんか</rt></ruby></strong>なんですよね。  
 >   
-> 最初は質問されるだけでドキドキして冷や汗が出ますが、パターンさえ覚えてしまえば大丈夫！  
-> コンビニのレジは、あなたの日本語力を試す最高の<strong>「日常の修行場」</strong>です。今日も勇者の心を持って、元気にコンビニへ繰り出しましょう！
+> <ruby>最初<rt>さいしょ</rt></ruby>は<ruby>質問<rt>しつもん</rt></ruby>されるだけでドキドキして<ruby>冷や汗<rt>ひやあせ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ますが、パターンさえ<ruby>覚<rt>おぼ</rt></ruby>えてしまえば<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>！
+> コンビニのレジは、あなたの<ruby>日本語<rt>にほんご</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す<ruby>最高<rt>さいこう</rt></ruby>の<strong>「<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>修行<rt>しゅぎょう</rt></ruby><ruby>場<rt>じょう</rt></ruby>」</strong>です。<ruby>今日<rt>きょう</rt></ruby>も<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って、<ruby>元気<rt>げんき</rt></ruby>にコンビニへ<ruby>繰り出<rt>くりだ</rt></ruby>しましょう！
 
 ---
 
-[oscss_series category="street-japanese" title="🗺️ 「街角サバイバル」連載シリーズ"]
+[oscss_series category="street-japanese" title="🗺️ 「<ruby>街角<rt>まちかど</rt></ruby>サバイバル」<ruby>連載<rt>れんさい</rt></ruby>シリーズ"]
 
-[oscss_related slug="culture-shock-cash-on-delivery-refused-tip-keep-the-change" label="お金とマナー"]
+[oscss_related slug="culture-shock-cash-on-delivery-refused-tip-keep-the-change" label="お<ruby>金<rt>かね</rt></ruby>とマナー"]
 
 ---
 
-## 📖 あわせて読みたい関連記事
+## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>
 
-[oscss_related slug="street-japanese-cafe-order-survival-mug-or-paper-guide" label="街角サバイバル：カフェ注文の波状攻撃"]
+[oscss_related slug="street-japanese-cafe-order-survival-mug-or-paper-guide" label="<ruby>街角<rt>まちかど</rt></ruby>サバイバル：カフェ<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>波状<rt>はじょう</rt></ruby><ruby>攻撃<rt>こうげき</rt></ruby>"]

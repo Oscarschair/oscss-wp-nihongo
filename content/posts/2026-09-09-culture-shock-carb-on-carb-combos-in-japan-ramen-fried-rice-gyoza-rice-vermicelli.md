@@ -13,98 +13,99 @@ tags:
 thumbnail: "assets/images/thumbnails/thumb-culture-carb-combo.jpg"
 description: "香港や中華圏では炒飯も餃子もビーフンも1品で完結する「主食」。なのに日本の定食屋では「ラーメン＋半チャーハン」「餃子定食」「焼きそばパン」と主食×主食のオンパレード！？食文化の決定的な違いと魅力を徹底解説。"
 ---
+
 > 💬 <strong>オスカー</strong>  
 > こんにちは、オスカーです！  
-> 今回は、日本の街の中華料理店や定食屋さんで誰もが目にする「セットメニュー」にまつわるカルチャーショックをお話しします。  
-> 日本に来たばかりの頃、メニューを見て思わず二度見してしまいました……。  
-> 「ラーメン＋半チャーハンセット」「餃子定食」「焼きそば定食」……  
-> <strong>「えっ、主食をおかずに、別の主食を食べるの……！？」</strong>  
-> 今回は、中華圏と日本における「主食」と「おかず」の常識の違いについて、分かりやすく解説します！
+> <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>の<ruby>中華<rt>ちゅうか</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>や<ruby>定食<rt>ていしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで<ruby>誰<rt>だれ</rt></ruby>もが<ruby>目<rt>め</rt></ruby>にする「セットメニュー」にまつわるカルチャーショックをお<ruby>話<rt>はな</rt></ruby>しします。
+> <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たばかりの<ruby>頃<rt>ころ</rt></ruby>、メニューを<ruby>見<rt>み</rt></ruby>て<ruby>思<rt>おも</rt></ruby>わず<ruby>二<rt>に</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>見<rt>み</rt></ruby>してしまいました……。
+> 「ラーメン＋<ruby>半<rt>はん</rt></ruby>チャーハンセット」「<ruby>餃子<rt>ぎょうざ</rt></ruby><ruby>定食<rt>ていしょく</rt></ruby>」「<ruby>焼<rt>や</rt></ruby>きそば<ruby>定食<rt>ていしょく</rt></ruby>」……
+> <strong>「えっ、<ruby>主食<rt>しゅしょく</rt></ruby>をおかずに、<ruby>別<rt>べつ</rt></ruby>の<ruby>主食<rt>しゅしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるの……！？」</strong>  
+> <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby>における「<ruby>主食<rt>しゅしょく</rt></ruby>」と「おかず」の<ruby>常識<rt>じょうしき</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いについて、<ruby>分<rt>わ</rt></ruby>かりやすく<ruby>解説<rt>かいせつ</rt></ruby>します！
 
 ---
 
-## 🥟 中華圏・香港の常識：炒飯もビーフンも餃子も「完全な主食」！
+## 🥟 <ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>・<ruby>香港<rt>ほんこん</rt></ruby>の<ruby>常識<rt>じょうしき</rt></ruby>：<ruby>炒飯<rt>ちゃーはん</rt></ruby>もビーフンも<ruby>餃子<rt>ぎょうざ</rt></ruby>も「<ruby>完全<rt>かんぜん</rt></ruby>な<ruby>主食<rt>しゅしょく</rt></ruby>」！
 
-まず、香港や台湾・中国などの中華圏における食卓の基本ルールをお話しします。
+まず、<ruby>香港<rt>ほんこん</rt></ruby>や<ruby>台湾<rt>たいわん</rt></ruby>・<ruby>中国<rt>ちゅうごく</rt></ruby>などの<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>における<ruby>食卓<rt>しょくたく</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby>ルールをお<ruby>話<rt>はな</rt></ruby>しします。
 
-中華圏では、<strong>「炒飯（チャーハン）」「粉麺（ビーフン・焼きそば・ラーメン）」「点心（餃子・包子）」は、それ自体が1品で完結する主食</strong>です。
+<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>では、<strong>「<ruby>炒飯<rt>ちゃーはん</rt></ruby>（チャーハン）」「<ruby>粉<rt>こな</rt></ruby><ruby>麺<rt>めん</rt></ruby>（ビーフン・<ruby>焼<rt>や</rt></ruby>きそば・ラーメン）」「<ruby>点心<rt>てんしん</rt></ruby>（<ruby>餃子<rt>ぎょうざ</rt></ruby>・<ruby>包子<rt>かねこ</rt></ruby>）」は、それ<ruby>自体<rt>じたい</rt></ruby>が1<ruby>品<rt>ひん</rt></ruby>で<ruby>完結<rt>かんけつ</rt></ruby>する<ruby>主食<rt>しゅしょく</rt></ruby></strong>です。
 
-### 1. 炒飯（チャーハン）
-お米に卵、刻んだチャーシューやエビ、ネギなどを炒め合わせ、しっかりと味付けされた「完成された主食」です。これ一皿で栄養も満足感も十分なので、わざわざ他のご飯と一緒に食べる発想はありません。
+### 1. <ruby>炒飯<rt>ちゃーはん</rt></ruby>（チャーハン）
+お<ruby>米<rt>こめ</rt></ruby>に<ruby>卵<rt>たまご</rt></ruby>、<ruby>刻<rt>きざ</rt></ruby>んだチャーシューやエビ、ネギなどを<ruby>炒<rt>いた</rt></ruby>め<ruby>合<rt>あ</rt></ruby>わせ、しっかりと<ruby>味付<rt>あじつ</rt></ruby>けされた「<ruby>完成<rt>かんせい</rt></ruby>された<ruby>主食<rt>しゅしょく</rt></ruby>」です。これ<ruby>一<rt>いち</rt></ruby><ruby>皿<rt>さら</rt></ruby>で<ruby>栄養<rt>えいよう</rt></ruby>も<ruby>満足<rt>まんぞく</rt></ruby><ruby>感<rt>かん</rt></ruby>も<ruby>十分<rt>じゅうぶん</rt></ruby>なので、わざわざ<ruby>他<rt>た</rt></ruby>のご<ruby>飯<rt>はん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる<ruby>発想<rt>はっそう</rt></ruby>はありません。
 
-### 2. ビーフン（米粉）や炒麺（焼きそば）
-お米や小麦から作られた麺料理であり、当然ながら主食枠です。香港の飲茶やローカル食堂（茶餐廳）でも、焼きビーフンやワンタン麺は「それ単体でメイン」として注文します。
+### 2. ビーフン（<ruby>米<rt>べい</rt></ruby><ruby>粉<rt>こ</rt></ruby>）や<ruby>炒<rt>い</rt></ruby><ruby>麺<rt>めん</rt></ruby>（<ruby>焼<rt>や</rt></ruby>きそば）
+お<ruby>米<rt>べい</rt></ruby>や<ruby>小麦<rt>こむぎ</rt></ruby>から<ruby>作<rt>つく</rt></ruby>られた<ruby>麺<rt>めん</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>であり、<ruby>当然<rt>とうぜん</rt></ruby>ながら<ruby>主食<rt>しゅしょく</rt></ruby><ruby>枠<rt>わく</rt></ruby>です。<ruby>香港<rt>ほんこん</rt></ruby>の<ruby>飲茶<rt>やむちゃ</rt></ruby>やローカル<ruby>食堂<rt>しょくどう</rt></ruby>（<ruby>茶<rt>ちゃ</rt></ruby><ruby>餐廳<rt>*</rt></ruby>）でも、<ruby>焼<rt>や</rt></ruby>きビーフンやワンタン<ruby>麺<rt>めん</rt></ruby>は「それ<ruby>単体<rt>たんたい</rt></ruby>でメイン」として<ruby>注文<rt>ちゅうもん</rt></ruby>します。
 
-### 3. 餃子（特に水餃子）
-海外の多くの人が驚くのが「餃子の位置づけ」です。中華圏では、餃子の皮は小麦粉（炭水化物）、中の餡はお肉と野菜。つまり<strong>「炭水化物＋タンパク質＋食物繊維がワンパッケージになった主食」</strong>なのです。食堂では水餃子を10個、20個と注文して、それだけでお腹を満たすのが一般的です。
+### 3. <ruby>餃子<rt>ぎょうざ</rt></ruby>（<ruby>特<rt>とく</rt></ruby>に<ruby>水<rt>みず</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>）
+<ruby>海外<rt>かいがい</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>驚<rt>おどろ</rt></ruby>くのが「<ruby>餃子<rt>ぎょうざ</rt></ruby>の<ruby>位置<rt>いち</rt></ruby>づけ」です。<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>では、<ruby>餃子<rt>ぎょうざ</rt></ruby>の<ruby>皮<rt>かわ</rt></ruby>は<ruby>小麦粉<rt>こむぎこ</rt></ruby>（<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>）、<ruby>中<rt>なか</rt></ruby>の<ruby>餡<rt>あん</rt></ruby>はお<ruby>肉<rt>にく</rt></ruby>と<ruby>野菜<rt>やさい</rt></ruby>。つまり<strong>「<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>＋<ruby>タンパク質<rt>たんぱくしつ</rt></ruby>＋<ruby>食物<rt>しょくもつ</rt></ruby><ruby>繊維<rt>せんい</rt></ruby>がワンパッケージになった<ruby>主食<rt>しゅしょく</rt></ruby>」</strong>なのです。<ruby>食堂<rt>しょくどう</rt></ruby>では<ruby>水<rt>みず</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>を10<ruby>個<rt>こ</rt></ruby>、20<ruby>個<rt>こ</rt></ruby>と<ruby>注文<rt>ちゅうもん</rt></ruby>して、それだけでお<ruby>腹<rt>なか</rt></ruby>を<ruby>満<rt>み</rt></ruby>たすのが<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>です。
 
-> 💬 <strong>日本の友人</strong>  
-> ええっ！？ 餃子って主食だったの！？  
-> 日本人からすると、餃子はお<ruby>肉料理<rt>おかず</rt></ruby>で、白いご飯と一緒に食べるのが当たり前だと思ってたよ！
+> 💬 <strong><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby></strong>  
+> ええっ！？ <ruby>餃子<rt>ぎょうざ</rt></ruby>って<ruby>主食<rt>しゅしょく</rt></ruby>だったの！？
+> <ruby>日本人<rt>にっぽんじん</rt></ruby>からすると、<ruby>餃子<rt>ぎょうざ</rt></ruby>はお<ruby>肉料理<rt>おかず</rt></ruby>で、<ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べるのが<ruby>当たり前<rt>あたりまえ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>ってたよ！
 
-もし香港の食堂で「チャーハンと白ご飯」や「水餃子と白ご飯」を同時に注文したら、店員さんに「えっ、主食を2つ食べるの……？」と不思議そうな顔をされてしまうレベルです（笑）。
+もし<ruby>香港<rt>ほんこん</rt></ruby>の<ruby>食堂<rt>しょくどう</rt></ruby>で「チャーハンと<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」や「<ruby>水<rt>みず</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>と<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」を<ruby>同時<rt>どうじ</rt></ruby>に<ruby>注文<rt>ちゅうもん</rt></ruby>したら、<ruby>店員<rt>てんいん</rt></ruby>さんに「えっ、<ruby>主食<rt>しゅしょく</rt></ruby>を2つ<ruby>食<rt>た</rt></ruby>べるの……？」と<ruby>不思議<rt>ふしぎ</rt></ruby>そうな<ruby>顔<rt>かお</rt></ruby>をされてしまうレベルです（<ruby>笑<rt>えみ</rt></ruby>）。
 
 ---
 
-## 🍚 なぜ日本の食卓では「主食×主食」が成立するのか？
+## 🍚 なぜ<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食卓<rt>しょくたく</rt></ruby>では「<ruby>主食<rt>しゅしょく</rt></ruby>×<ruby>主食<rt>しゅしょく</rt></ruby>」が<ruby>成立<rt>せいりつ</rt></ruby>するのか？
 
-では、なぜ日本の飲食店では、炭水化物同士を組み合わせたメニューがこれほど愛されているのでしょうか？  
-日本で暮らすうちに、いくつかの理由が見えてきました。
+では、なぜ<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>飲食<rt>いんしょく</rt></ruby><ruby>店<rt>てん</rt></ruby>では、<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby><ruby>同士<rt>どうし</rt></ruby>を<ruby>組み合<rt>くみあ</rt></ruby>わせたメニューがこれほど<ruby>愛<rt>あい</rt></ruby>されているのでしょうか？
+<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らすうちに、いくつかの<ruby>理由<rt>りゆう</rt></ruby>が<ruby>見<rt>み</rt></ruby>えてきました。
 
-### ① 「白ご飯」が宇宙の中心にある食文化
-日本人にとって、白ご飯は単なる炭水化物ではなく<strong>「すべての味を受け止めるキャンバス」</strong>のような存在です。  
-味が濃いもの、香ばしいもの、旨味のあるものは、どんな料理であっても<strong>「白ご飯を進ませるための“おかず”」</strong>へとトランスフォームしてしまいます。
+### ① 「<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」が<ruby>宇宙<rt>うちゅう</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>にある<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>
+<ruby>日本人<rt>にっぽんじん</rt></ruby>にとって、<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>は<ruby>単<rt>たん</rt></ruby>なる<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>ではなく<strong>「すべての<ruby>味<rt>あじ</rt></ruby>を<ruby>受け止<rt>うけと</rt></ruby>めるキャンバス」</strong>のような<ruby>存在<rt>そんざい</rt></ruby>です。
+<ruby>味<rt>あじ</rt></ruby>が<ruby>濃<rt>こ</rt></ruby>いもの、<ruby>香<rt>こう</rt></ruby>ばしいもの、<ruby>旨味<rt>うまみ</rt></ruby>のあるものは、どんな<ruby>料理<rt>りょうり</rt></ruby>であっても<strong>「<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>進<rt>すす</rt></ruby>ませるための“おかず”」</strong>へとトランスフォームしてしまいます。
 
-### ② 日本独自の「焼き餃子」の進化
-中華圏ではモチモチした厚い皮の「水餃子」が主流ですが、日本で発展したのは薄い皮をパリッと香ばしく焼き上げた「焼き餃子」です。  
-さらに、ニンニクの効いた餡と、醤油・お酢・ラー油を合わせた濃いタレが合わさることで、「白ご飯にワンバウンドさせて食べたい最強のおかず」へと進化したのです。
+### ② <ruby>日本<rt>にっぽん</rt></ruby><ruby>独自<rt>どくじ</rt></ruby>の「<ruby>焼<rt>や</rt></ruby>き<ruby>餃子<rt>ぎょうざ</rt></ruby>」の<ruby>進化<rt>しんか</rt></ruby>
+<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>ではモチモチした<ruby>厚<rt>あつ</rt></ruby>い<ruby>皮<rt>かわ</rt></ruby>の「<ruby>水<rt>みず</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>」が<ruby>主流<rt>しゅりゅう</rt></ruby>ですが、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>発展<rt>はってん</rt></ruby>したのは<ruby>薄<rt>うす</rt></ruby>い<ruby>皮<rt>かわ</rt></ruby>をパリッと<ruby>香<rt>こう</rt></ruby>ばしく<ruby>焼き上<rt>やきあ</rt></ruby>げた「<ruby>焼<rt>や</rt></ruby>き<ruby>餃子<rt>ぎょうざ</rt></ruby>」です。
+さらに、ニンニクの<ruby>効<rt>き</rt></ruby>いた<ruby>餡<rt>あん</rt></ruby>と、<ruby>醤油<rt>しょうゆ</rt></ruby>・お<ruby>酢<rt>す</rt></ruby>・<ruby>ラー油<rt>らーゆ</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせた<ruby>濃<rt>こ</rt></ruby>いタレが<ruby>合<rt>あ</rt></ruby>わさることで、「<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>にワンバウンドさせて<ruby>食<rt>た</rt></ruby>べたい<ruby>最強<rt>さいきょう</rt></ruby>のおかず」へと<ruby>進化<rt>しんか</rt></ruby>したのです。
 
-### ③ 全国に根付く「炭水化物コンボ」の土壌
-実は「主食×主食」は中華メニューに限りません。
-- <strong>関西の文化</strong>: お好み焼き定食（お好み焼き＋白ご飯）、焼きそば定食
-- <strong>全国のパン屋さん・購買部</strong>: <strong>焼きそばパン</strong>（コッペパンの中にソース焼きそば！）
-- <strong>讃岐うどん</strong>: うどん＋かやくご飯（またはいなり寿司・おにぎり）
-- <strong>ラーメン店</strong>: ラーメン＋ライス、ラーメン＋半炒飯（ラーチャンセット）
+### ③ <ruby>全国<rt>ぜんこく</rt></ruby>に<ruby>根付<rt>ねつ</rt></ruby>く「<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>コンボ」の<ruby>土壌<rt>どじょう</rt></ruby>
+<ruby>実<rt>じつ</rt></ruby>は「<ruby>主食<rt>しゅしょく</rt></ruby>×<ruby>主食<rt>しゅしょく</rt></ruby>」は<ruby>中華<rt>ちゅうか</rt></ruby>メニューに<ruby>限<rt>かぎ</rt></ruby>りません。
+- <strong><ruby>関西<rt>かんさい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby></strong>: お<ruby>好み焼<rt>このみや</rt></ruby>き<ruby>定食<rt>ていしょく</rt></ruby>（お<ruby>好み焼<rt>このみや</rt></ruby>き＋<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>）、<ruby>焼<rt>や</rt></ruby>きそば<ruby>定食<rt>ていしょく</rt></ruby>
+- <strong><ruby>全国<rt>ぜんこく</rt></ruby>のパン<ruby>屋<rt>や</rt></ruby>さん・<ruby>購買<rt>こうばい</rt></ruby><ruby>部<rt>ぶ</rt></ruby></strong>: <strong><ruby>焼<rt>や</rt></ruby>きそばパン</strong>（コッペパンの<ruby>中<rt>なか</rt></ruby>にソース<ruby>焼<rt>や</rt></ruby>きそば！）
+- <strong><ruby>讃岐<rt>さぬき</rt></ruby>うどん</strong>: うどん＋かやくご<ruby>飯<rt>はん</rt></ruby>（またはいなり<ruby>寿司<rt>すし</rt></ruby>・おにぎり）
+- <strong>ラーメン<ruby>店<rt>てん</rt></ruby></strong>: ラーメン＋ライス、ラーメン＋<ruby>半<rt>はん</rt></ruby><ruby>炒飯<rt>ちゃーはん</rt></ruby>（ラーチャンセット）
 
-日本のパン屋さんで初めて「焼きそばパン」を手にしたときも、私は思わず二度見してしまいました。  
-「えっ！？ パン（主食）の中に焼きそば（主食）を挟んじゃったの！？ 炭水化物×炭水化物の究極体じゃん！！」と、あまりの斬新さに目を丸くしたものです（笑）。
+<ruby>日本<rt>にっぽん</rt></ruby>のパン<ruby>屋<rt>や</rt></ruby>さんで<ruby>初<rt>はじ</rt></ruby>めて「<ruby>焼<rt>や</rt></ruby>きそばパン」を<ruby>手<rt>て</rt></ruby>にしたときも、<ruby>私<rt>わたし</rt></ruby>は<ruby>思<rt>おも</rt></ruby>わず<ruby>二<rt>に</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>見<rt>み</rt></ruby>してしまいました。
+「えっ！？ パン（<ruby>主食<rt>しゅしょく</rt></ruby>）の<ruby>中<rt>なか</rt></ruby>に<ruby>焼<rt>や</rt></ruby>きそば（<ruby>主食<rt>しゅしょく</rt></ruby>）を<ruby>挟<rt>はさ</rt></ruby>んじゃったの！？ <ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>×<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>の<ruby>究極<rt>きゅうきょく</rt></ruby><ruby>体<rt>たい</rt></ruby>じゃん！！」と、あまりの<ruby>斬新<rt>ざんしん</rt></ruby>さに<ruby>目<rt>め</rt></ruby>を<ruby>丸<rt>まる</rt></ruby>くしたものです（<ruby>笑<rt>えみ</rt></ruby>）。
 
 ![日本のパン屋さんで焼きそばパンを手に「パンの中に焼きそば！？ 炭水化物×炭水化物…！」と目を丸くするオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/carb-on-carb-ramen-fried-rice-gyoza.jpg)
 
-日本には古くから、主食同士を組み合わせてガッツリとエネルギーを補給する、豊かな食文化の土壌があったのです。
+<ruby>日本<rt>にっぽん</rt></ruby>には<ruby>古<rt>ふる</rt></ruby>くから、<ruby>主食<rt>しゅしょく</rt></ruby><ruby>同士<rt>どうし</rt></ruby>を<ruby>組み合<rt>くみあ</rt></ruby>わせてガッツリとエネルギーを<ruby>補給<rt>ほきゅう</rt></ruby>する、<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>の<ruby>土壌<rt>どじょう</rt></ruby>があったのです。
 
 ---
 
-## 😋 実際に食べてみたら……めちゃくちゃ美味しい！
+## 😋 <ruby>実際<rt>じっさい</rt></ruby>に<ruby>食<rt>た</rt></ruby>べてみたら……めちゃくちゃ<ruby>美味<rt>おい</rt></ruby>しい！
 
 > 💬 <strong>オスカー</strong>  
-> 最初は「主食をおかずにご飯を食べるなんて不自然だ」と思っていました。  
-> でも、日本の定食屋さんでパリパリの焼き餃子をご飯の上にバウンドさせて食べた瞬間……  
-> <strong>「あ、これはご飯が進む……最高に美味しい！」</strong> と納得してしまいました（笑）。  
-> 香ばしい炒飯を食べながらラーメンの熱いスープをすする幸せも、今ではすっかり大好物です！
+> <ruby>最初<rt>さいしょ</rt></ruby>は「<ruby>主食<rt>しゅしょく</rt></ruby>をおかずにご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるなんて<ruby>不自然<rt>ふしぜん</rt></ruby>だ」と<ruby>思<rt>おも</rt></ruby>っていました。
+> でも、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>定食<rt>ていしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>さんでパリパリの<ruby>焼<rt>や</rt></ruby>き<ruby>餃子<rt>ぎょうざ</rt></ruby>をご<ruby>飯<rt>はん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にバウンドさせて<ruby>食<rt>た</rt></ruby>べた<ruby>瞬間<rt>しゅんかん</rt></ruby>……
+> <strong>「あ、これはご<ruby>飯<rt>はん</rt></ruby>が<ruby>進<rt>すす</rt></ruby>む……<ruby>最高<rt>さいこう</rt></ruby>に<ruby>美味<rt>おい</rt></ruby>しい！」</strong>と<ruby>納得<rt>なっとく</rt></ruby>してしまいました（<ruby>笑<rt>えみ</rt></ruby>）。
+> <ruby>香<rt>こう</rt></ruby>ばしい<ruby>炒飯<rt>ちゃーはん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べながらラーメンの<ruby>熱<rt>あつ</rt></ruby>いスープをすする<ruby>幸<rt>しあわ</rt></ruby>せも、<ruby>今<rt>いま</rt></ruby>ではすっかり<ruby>大<rt>だい</rt></ruby><ruby>好物<rt>こうぶつ</rt></ruby>です！
 
 ---
 
-## 💡 まとめ：「主食とおかずの境界線」は国によって違う！
+## 💡 まとめ：「<ruby>主食<rt>しゅしょく</rt></ruby>とおかずの<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby>」は<ruby>国<rt>くに</rt></ruby>によって<ruby>違<rt>ちが</rt></ruby>う！
 
-| 料理 | 中華圏・香港での位置づけ | 日本での位置づけ |
+| <ruby>料理<rt>りょうり</rt></ruby> | <ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>・<ruby>香港<rt>ほんこん</rt></ruby>での<ruby>位置<rt>いち</rt></ruby>づけ | <ruby>日本<rt>にっぽん</rt></ruby>での<ruby>位置<rt>いち</rt></ruby>づけ |
 | :--- | :--- | :--- |
-| <strong>炒飯（チャーハン）</strong> | 1品で完結する主食 | 主食（だが半チャーハンとしてラーメンのお供にも） |
-| <strong>焼きビーフン・焼きそば</strong> | 麺類の主食 | 主食（だが定食のおかずになることも） |
-| <strong>餃子（水餃子・焼き餃子）</strong> | 主食（これだけで食事終了） | <strong>白ご飯の進む最高のおかず</strong> |
+| <strong><ruby>炒飯<rt>ちゃーはん</rt></ruby>（チャーハン）</strong>| 1<ruby>品<rt>ひん</rt></ruby>で<ruby>完結<rt>かんけつ</rt></ruby>する<ruby>主食<rt>しゅしょく</rt></ruby> | <ruby>主食<rt>しゅしょく</rt></ruby>（だが<ruby>半<rt>はん</rt></ruby>チャーハンとしてラーメンのお<ruby>供<rt>とも</rt></ruby>にも） |
+| <strong><ruby>焼<rt>や</rt></ruby>きビーフン・<ruby>焼<rt>や</rt></ruby>きそば</strong>| <ruby>麺類<rt>めんるい</rt></ruby>の<ruby>主食<rt>しゅしょく</rt></ruby> | <ruby>主食<rt>しゅしょく</rt></ruby>（だが<ruby>定食<rt>ていしょく</rt></ruby>のおかずになることも） |
+| <strong><ruby>餃子<rt>ぎょうざ</rt></ruby>（<ruby>水<rt>みず</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>・<ruby>焼<rt>や</rt></ruby>き<ruby>餃子<rt>ぎょうざ</rt></ruby>）</strong>| <ruby>主食<rt>しゅしょく</rt></ruby>（これだけで<ruby>食事<rt>しょくじ</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby>） |<strong><ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>の<ruby>進<rt>すす</rt></ruby>む<ruby>最高<rt>さいこう</rt></ruby>のおかず</strong> |
 
-同じアジアの食文化でも、「何を主食とみなし、何をおかずとするか」の境界線がこれほど違うのは本当に面白い発見です。
+<ruby>同<rt>おな</rt></ruby>じアジアの<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>でも、「<ruby>何<rt>なに</rt></ruby>を<ruby>主食<rt>しゅしょく</rt></ruby>とみなし、<ruby>何<rt>なに</rt></ruby>をおかずとするか」の<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby>がこれほど<ruby>違<rt>ちが</rt></ruby>うのは<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>発見<rt>はっけん</rt></ruby>です。
 
-日本の食堂や中華料理店に行ったときは、ぜひこの「主食×主食」の文化の奥深さを味わってみてくださいね！
+<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食堂<rt>しょくどう</rt></ruby>や<ruby>中華<rt>ちゅうか</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったときは、ぜひこの「<ruby>主食<rt>しゅしょく</rt></ruby>×<ruby>主食<rt>しゅしょく</rt></ruby>」の<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>奥深<rt>おくふか</rt></ruby>さを<ruby>味<rt>あじ</rt></ruby>わってみてくださいね！
 
 ---
 
-## 📖 あわせて読みたい食文化・カルチャーショック記事
+## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>・カルチャーショック<ruby>記事<rt>きじ</rt></ruby>
 
-香港出身のオスカーが驚いた、日本と中華圏のリアルな違い！
+<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーが<ruby>驚<rt>おどろ</rt></ruby>いた、<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>のリアルな<ruby>違<rt>ちが</rt></ruby>い！
 
-* 🧊 [カルチャーショック：真冬でも氷水！？日本の「冷たいおもてなし」と中華圏の「温かいお湯」文化](https://nihongo.oscarchair.jp/culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture/)
-* 🥟 [カルチャーショック：日本の美味しいご飯とお米の形｜本場の中華料理店を探す旅](https://nihongo.oscarchair.jp/culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-restaurant/)
+* 🧊 [カルチャーショック：<ruby>真冬<rt>まふゆ</rt></ruby>でも<ruby>氷水<rt>こおりみず</rt></ruby>！？<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>冷<rt>つめ</rt></ruby>たいおもてなし」と<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>の「<ruby>温<rt>あたた</rt></ruby>かいお<ruby>湯<rt>ゆ</rt></ruby>」<ruby>文化<rt>ぶんか</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture/)
+* 🥟 [カルチャーショック：<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>美味<rt>おい</rt></ruby>しいご<ruby>飯<rt>はん</rt></ruby>とお<ruby>米<rt>べい</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>｜<ruby>本場<rt>ほんば</rt></ruby>の<ruby>中華<rt>ちゅうか</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>す<ruby>旅<rt>たび</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-restaurant/)
 
-[oscss_related slug="street-japanese-izakaya-survival-guide" label="あわせて読みたい：居酒屋編"]
-[oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：ゴミ箱なし社会の謎"]
+[oscss_related slug="street-japanese-izakaya-survival-guide" label="あわせて<ruby>読<rt>よ</rt></ruby>みたい：<ruby>居酒屋<rt>いざかや</rt></ruby><ruby>編<rt>へん</rt></ruby>"]
+[oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>なし<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>"]

@@ -16,101 +16,101 @@ tags:
   - "くらべて納得"
 ---
 
-日本語を勉強していると、「推測（たぶん〜だと思う）」を表す言葉がたくさんあって迷ったことはありませんか？
+<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>していると、「<ruby>推測<rt>すいそく</rt></ruby>（たぶん〜だと<ruby>思<rt>おも</rt></ruby>う）」を<ruby>表<rt>あらわ</rt></ruby>す<ruby>言葉<rt>ことば</rt></ruby>がたくさんあって<ruby>迷<rt>まよ</rt></ruby>ったことはありませんか？
 
-> 👨‍💼 上司：「オスカーくん、明日の納品データ、午後イチまでに間に合いそう？」
-> 🚗 クルマ：「はい！ <strong>たぶん大丈夫です！</strong>」
-> 👨‍💼 上司：「……えっ！？ 『たぶん』！？ 本当に大丈夫なの！？（めちゃくちゃ不安そうな顔）」
-> 🚗 クルマ：「（ええっ！？ 『たぶん大丈夫』って『大丈夫』って言ったつもりなのに、なんで怒られそうな雰囲気になってるの！？）」
+> 👨‍💼 <ruby>上司<rt>じょうし</rt></ruby>：「オスカーくん、<ruby>明日<rt>あした</rt></ruby>の<ruby>納品<rt>のうひん</rt></ruby>データ、<ruby>午後<rt>ごご</rt></ruby>イチまでに<ruby>間に合<rt>まにあ</rt></ruby>いそう？」
+> 🚗 クルマ：「はい！ <strong>たぶん<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です！</strong>」
+> 👨‍💼 <ruby>上司<rt>じょうし</rt></ruby>：「……えっ！？ 『たぶん』！？ <ruby>本当<rt>ほんとう</rt></ruby>に<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>なの！？（めちゃくちゃ<ruby>不安<rt>ふあん</rt></ruby>そうな<ruby>顔<rt>かお</rt></ruby>）」
+> 🚗 クルマ：「（ええっ！？ 『たぶん<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>』って『<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>』って<ruby>言<rt>い</rt></ruby>ったつもりなのに、なんで<ruby>怒<rt>おこ</rt></ruby>られそうな<ruby>雰囲気<rt>ふんいき</rt></ruby>になってるの！？）」
 
-実はこれ、日本語の「推測フレーズ」が持つ<strong>「確信度（パーセンテージ）の決定的な違い」</strong>を知らないと起こる典型的なすれ違いです！
+<ruby>実<rt>じつ</rt></ruby>はこれ、<ruby>日本語<rt>にほんご</rt></ruby>の「<ruby>推測<rt>すいそく</rt></ruby>フレーズ」が<ruby>持<rt>も</rt></ruby>つ<strong>「<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>（パーセンテージ）の<ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い」</strong>を<ruby>知<rt>し</rt></ruby>らないと<ruby>起<rt>お</rt></ruby>こる<ruby>典型<rt>てんけい</rt></ruby><ruby>的<rt>てき</rt></ruby>なすれ<ruby>違<rt>ちが</rt></ruby>いです！
 
-英語なら「maybe」「probably」「definitely」の使い分けに近いですが、日本語の<strong>「たぶん」「おそらく」「きっと」</strong>には、単なるパーセンテージだけでなく、<strong>「客観的な事実なのか？ 話し手の気持ち（感情）なのか？」</strong>という深い違いがあります。
+<ruby>英語<rt>えいご</rt></ruby>なら「maybe」「probably」「definitely」の<ruby>使い分<rt>つかいわ</rt></ruby>けに<ruby>近<rt>ちか</rt></ruby>いですが、<ruby>日本語<rt>にほんご</rt></ruby>の<strong>「たぶん」「おそらく」「きっと」</strong>には、<ruby>単<rt>たん</rt></ruby>なるパーセンテージだけでなく、<strong>「<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>事実<rt>じじつ</rt></ruby>なのか？ <ruby>話し手<rt>はなして</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ち（<ruby>感情<rt>かんじょう</rt></ruby>）なのか？」</strong>という<ruby>深<rt>ふか</rt></ruby>い<ruby>違<rt>ちが</rt></ruby>いがあります。
 
-今回は、この3つの言葉のニュアンスをスッキリ整理して、ビジネスでも日常でも相手に信頼される使い分けを伝授します！
+<ruby>今回<rt>こんかい</rt></ruby>は、この3つの<ruby>言葉<rt>ことば</rt></ruby>のニュアンスをスッキリ<ruby>整理<rt>せいり</rt></ruby>して、ビジネスでも<ruby>日常<rt>にちじょう</rt></ruby>でも<ruby>相手<rt>あいて</rt></ruby>に<ruby>信頼<rt>しんらい</rt></ruby>される<ruby>使い分<rt>つかいわ</rt></ruby>けを<ruby>伝授<rt>でんじゅ</rt></ruby>します！
 
 ---
 
-## 1. 一目でわかる！確信度のパーセンテージメーター
+## 1. <ruby>一目<rt>いちもく</rt></ruby>でわかる！<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>のパーセンテージメーター
 
-まず、それぞれの言葉が持っている「確信の度合い（どれくらい本当だと思っているか）」を数値で比べてみましょう。
+まず、それぞれの<ruby>言葉<rt>ことば</rt></ruby>が<ruby>持<rt>も</rt></ruby>っている「<ruby>確信<rt>かくしん</rt></ruby>の<ruby>度合<rt>どあ</rt></ruby>い（どれくらい<ruby>本当<rt>ほんとう</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>っているか）」を<ruby>数値<rt>すうち</rt></ruby>で<ruby>比<rt>くら</rt></ruby>べてみましょう。
 
-| 単語 | 確信度 | ニュアンス | 主な使われ方 | 英語のイメージ |
+| <ruby>単語<rt>たんご</rt></ruby> | <ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby> | ニュアンス | <ruby>主<rt>おも</rt></ruby>な<ruby>使<rt>つか</rt></ruby>われ<ruby>方<rt>かた</rt></ruby> | <ruby>英語<rt>えいご</rt></ruby>のイメージ |
 | :--- | :--- | :--- | :--- | :--- |
-| <strong>たぶん（多分）</strong> | <strong>約50%</strong> | 五分五分、どちらかと言えばそうかも | 日常会話、カジュアル、無責任にも聞こえる | Maybe, Perhaps |
-| <strong>おそらく（恐らく）</strong> | <strong>約70〜80%</strong> | 客観的な根拠やデータがある | ビジネス、公の場、ニュース、大人の会話 | Probably, Likely |
-| <strong>きっと（屹度）</strong> | <strong>約80〜90%</strong> | 話し手の強い気持ち・確信・希望 | 励まし、感情の共有、直感的な予想 | Almost certainly, Surely |
+| <strong>たぶん（<ruby>多分<rt>たぶん</rt></ruby>）</strong> | <strong><ruby>約<rt>やく</rt></ruby>50%</strong>| <ruby>五分五分<rt>ごぶごぶ</rt></ruby>、どちらかと<ruby>言<rt>い</rt></ruby>えばそうかも | <ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>、カジュアル、<ruby>無責任<rt>むせきにん</rt></ruby>にも<ruby>聞<rt>き</rt></ruby>こえる | Maybe, Perhaps |
+| <strong>おそらく（<ruby>恐<rt>おそ</rt></ruby>らく）</strong> | <strong><ruby>約<rt>やく</rt></ruby>70〜80%</strong>| <ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>根拠<rt>こんきょ</rt></ruby>やデータがある | ビジネス、<ruby>公<rt>おおやけ</rt></ruby>の<ruby>場<rt>ば</rt></ruby>、ニュース、<ruby>大人<rt>おとな</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby> | Probably, Likely |
+| <strong>きっと（<ruby>屹度<rt>*</rt></ruby>）</strong> | <strong><ruby>約<rt>やく</rt></ruby>80〜90%</strong>| <ruby>話し手<rt>はなして</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>気持<rt>きも</rt></ruby>ち・<ruby>確信<rt>かくしん</rt></ruby>・<ruby>希望<rt>きぼう</rt></ruby> | <ruby>励<rt>はげ</rt></ruby>まし、<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>共有<rt>きょうゆう</rt></ruby>、<ruby>直感<rt>ちょっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>予想<rt>よそう</rt></ruby> | Almost certainly, Surely |
 
-冒頭のオフィスでの会話で、なぜ上司が不安になったのか、もう分かりましたね！
-上司は「90%くらい確実に間に合うか」を聞いていたのに、クルマが<strong>「たぶん（＝50%の確率で半信半疑）」</strong>と答えてしまったため、「えっ、半分くらいの確率で遅れるってこと!?」とパニックになってしまったのです。
+<ruby>冒頭<rt>ぼうとう</rt></ruby>のオフィスでの<ruby>会話<rt>かいわ</rt></ruby>で、なぜ<ruby>上司<rt>じょうし</rt></ruby>が<ruby>不安<rt>ふあん</rt></ruby>になったのか、もう<ruby>分<rt>わ</rt></ruby>かりましたね！
+<ruby>上司<rt>じょうし</rt></ruby>は「90%くらい<ruby>確実<rt>かくじつ</rt></ruby>に<ruby>間に合<rt>まにあ</rt></ruby>うか」を<ruby>聞<rt>き</rt></ruby>いていたのに、クルマが<strong>「たぶん（＝50%の<ruby>確率<rt>かくりつ</rt></ruby>で<ruby>半信半疑<rt>はんしんはんぎ</rt></ruby>）」</strong>と<ruby>答<rt>こた</rt></ruby>えてしまったため、「えっ、<ruby>半分<rt>はんぶん</rt></ruby>くらいの<ruby>確率<rt>かくりつ</rt></ruby>で<ruby>遅<rt>おく</rt></ruby>れるってこと!?」とパニックになってしまったのです。
 
 ![たぶん・おそらく・きっとのメーターを比べるクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/weather-forecast-tabun-osoraku-kitto-scale.jpg)
 
 ---
 
-## 2. 3つの言葉の詳しい特徴と使い分け
+## 2. 3つの<ruby>言葉<rt>ことば</rt></ruby>の<ruby>詳<rt>くわ</rt></ruby>しい<ruby>特徴<rt>とくちょう</rt></ruby>と<ruby>使い分<rt>つかいわ</rt></ruby>け
 
-それでは、それぞれの言葉が持つ「性格」を深く見ていきましょう！
+それでは、それぞれの<ruby>言葉<rt>ことば</rt></ruby>が<ruby>持<rt>も</rt></ruby>つ「<ruby>性格<rt>せいかく</rt></ruby>」を<ruby>深<rt>ふか</rt></ruby>く<ruby>見<rt>み</rt></ruby>ていきましょう！
 
-### ①「たぶん（多分）」＝ 五分五分の日常語（50%）
-* **特徴**: 根拠は薄く、「どちらかといえばそうかな？」という気軽な推測。
-* **場面**: 友達とのカジュアルな雑談にぴったり。
-* **注意点**: **ビジネスの重要な場面では避けるのが無難！** 責任感がないように聞こえてしまいます。
-  * 友人同士：「明日の飲み会、来る？」➡「うん、**たぶん行くよ**！」（気楽で自然）
-  * ビジネス：「この書類、ミスはありませんか？」➡「**たぶん大丈夫です**」（上司「ちゃんと確認しろ！」と怒られる）
+### ①「たぶん（<ruby>多分<rt>たぶん</rt></ruby>）」＝ <ruby>五分五分<rt>ごぶごぶ</rt></ruby>の<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>（50%）
+* **<ruby>特徴<rt>とくちょう</rt></ruby>**: <ruby>根拠<rt>こんきょ</rt></ruby>は<ruby>薄<rt>うす</rt></ruby>く、「どちらかといえばそうかな？」という<ruby>気軽<rt>きがる</rt></ruby>な<ruby>推測<rt>すいそく</rt></ruby>。
+* **<ruby>場面<rt>ばめん</rt></ruby>**: <ruby>友達<rt>ともだち</rt></ruby>とのカジュアルな<ruby>雑談<rt>ざつだん</rt></ruby>にぴったり。
+* **<ruby>注意<rt>ちゅうい</rt></ruby><ruby>点<rt>てん</rt></ruby>**: **ビジネスの<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>場面<rt>ばめん</rt></ruby>では<ruby>避<rt>さ</rt></ruby>けるのが<ruby>無難<rt>ぶなん</rt></ruby>！** <ruby>責任<rt>せきにん</rt></ruby><ruby>感<rt>かん</rt></ruby>がないように<ruby>聞<rt>き</rt></ruby>こえてしまいます。
+* <ruby>友人<rt>ゆうじん</rt></ruby><ruby>同士<rt>どうし</rt></ruby>：「<ruby>明日<rt>あした</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>会<rt>かい</rt></ruby>、<ruby>来<rt>きた</rt></ruby>る？」➡「うん、**たぶん<ruby>行<rt>い</rt></ruby>くよ**！」（<ruby>気楽<rt>きらく</rt></ruby>で<ruby>自然<rt>しぜん</rt></ruby>）
+* ビジネス：「この<ruby>書類<rt>しょるい</rt></ruby>、ミスはありませんか？」➡「**たぶん<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です**」（<ruby>上司<rt>じょうし</rt></ruby>「ちゃんと<ruby>確認<rt>かくにん</rt></ruby>しろ！」と<ruby>怒<rt>おこ</rt></ruby>られる）
 
-### ②「おそらく（恐らく）」＝ 客観的根拠のある大人の言葉（70〜80%）
-* **特徴**: 経験、過去のデータ、状況証拠など**「何らかの客観的な理由」**をもとに冷静に推測する言葉。
-* **場面**: ビジネスメール、ニュース報道、報告書など。
-* **文末の相性**: 「〜でしょう」「〜と思われます」など丁寧な表現と非常に相性が良いです。
-  * ニュース：「明日の朝は、**おそらく大雪になるでしょう**」（天気図などの気象データに基づく冷静な予測）
-  * ビジネス：「進捗は順調ですので、**おそらく予定通り納品できる見込みです**」（実績と計算に基づく信頼できる報告）
+### ②「おそらく（<ruby>恐<rt>おそ</rt></ruby>らく）」＝ <ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>根拠<rt>こんきょ</rt></ruby>のある<ruby>大人<rt>おとな</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>（70〜80%）
+* **<ruby>特徴<rt>とくちょう</rt></ruby>**: <ruby>経験<rt>けいけん</rt></ruby>、<ruby>過去<rt>かこ</rt></ruby>のデータ、<ruby>状況<rt>じょうきょう</rt></ruby><ruby>証拠<rt>しょうこ</rt></ruby>など**「<ruby>何<rt>なん</rt></ruby>らかの<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>」**をもとに<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>推測<rt>すいそく</rt></ruby>する<ruby>言葉<rt>ことば</rt></ruby>。
+* **<ruby>場面<rt>ばめん</rt></ruby>**: ビジネスメール、ニュース<ruby>報道<rt>ほうどう</rt></ruby>、<ruby>報告<rt>ほうこく</rt></ruby><ruby>書<rt>しょ</rt></ruby>など。
+* **<ruby>文末<rt>ぶんまつ</rt></ruby>の<ruby>相性<rt>あいしょう</rt></ruby>**: 「〜でしょう」「〜と<ruby>思<rt>おも</rt></ruby>われます」など<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>表現<rt>ひょうげん</rt></ruby>と<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>相性<rt>あいしょう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>いです。
+* ニュース：「<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>は、**おそらく<ruby>大雪<rt>おおゆき</rt></ruby>になるでしょう**」（<ruby>天気<rt>てんき</rt></ruby><ruby>図<rt>ず</rt></ruby>などの<ruby>気象<rt>きしょう</rt></ruby>データに<ruby>基<rt>もと</rt></ruby>づく<ruby>冷静<rt>れいせい</rt></ruby>な<ruby>予測<rt>よそく</rt></ruby>）
+* ビジネス：「<ruby>進捗<rt>しんちょく</rt></ruby>は<ruby>順調<rt>じゅんちょう</rt></ruby>ですので、**おそらく<ruby>予定<rt>よてい</rt></ruby><ruby>通<rt>どお</rt></ruby>り<ruby>納品<rt>のうひん</rt></ruby>できる<ruby>見込<rt>みこ</rt></ruby>みです**」（<ruby>実績<rt>じっせき</rt></ruby>と<ruby>計算<rt>けいさん</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>報告<rt>ほうこく</rt></ruby>）
 
-### ③「きっと（屹度）」＝ 話し手の心と願いが乗る言葉（80〜90%）
-* **特徴**: データや理屈ではなく、**話し手の「強い主観（気持ち）」「直感」「そうあってほしいという願い」**がギュッと詰まった言葉。
-* **場面**: 相手を励ますとき、お祝いするとき、自分の強い確信を伝えるとき。
-* **最大のポイント**: **3つの中で唯一、「相手を励ます」ことができる言葉です！**
-  * ⭕️「大丈夫だよ、**きっと**試験に合格するよ！」（強い励ましと祈り）
-  * ❌「大丈夫だよ、**おそらく**試験に合格するよ」（データ分析みたいで冷たい！）
-  * ❌「大丈夫だよ、**たぶん**試験に合格するよ」（五分五分で不安にさせる！）
-
----
-
-## 3. シチュエーション別クイズ！どれを使うのが正解？
-
-理解を深めるために、クイズに挑戦してみましょう！
-
-### Q1. 落ち込んでいる同僚を元気づけたいとき
-> 🗣️ 「落ち込まないで！ 次は（　　　）うまくいくよ！」
-
-**正解は……？**
-👉 **「きっと」が正解！**
-相手への応援や祈りの気持ちを込めて「強く信じているよ」と伝えるため、「きっと」が100点満点です。
-
-### Q2. 上司にプロジェクトの進捗を報告するとき
-> 👨‍💼 「このペースでいけば、来週中には（　　　）完了するかと思います。」
-
-**正解は……？**
-👉 **「おそらく」が正解！**
-現在の進捗ペースという客観的な根拠があるため、ビジネスでは「おそらく」を使うことで、誠実で信頼できる印象を与えられます。
-
-### Q3. 週末の予定を友達から聞かれたとき
-> 👧 「日曜日の午後、空いてる？」
-> 👦 「うーん、午前中の用事が長引かなければ、（　　　）空いてると思う！」
-
-**正解は……？**
-👉 **「たぶん」が正解！**
-気心知れた友人との会話で、まだ確定していない予定を気軽に答えるには「たぶん」が一番リラックスしていて自然です。
+### ③「きっと（<ruby>屹度<rt>*</rt></ruby>）」＝ <ruby>話し手<rt>はなして</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>と<ruby>願<rt>ねが</rt></ruby>いが<ruby>乗<rt>の</rt></ruby>る<ruby>言葉<rt>ことば</rt></ruby>（80〜90%）
+* **<ruby>特徴<rt>とくちょう</rt></ruby>**: データや<ruby>理屈<rt>りくつ</rt></ruby>ではなく、**<ruby>話し手<rt>はなして</rt></ruby>の「<ruby>強<rt>つよ</rt></ruby>い<ruby>主観<rt>しゅかん</rt></ruby>（<ruby>気持<rt>きも</rt></ruby>ち）」「<ruby>直感<rt>ちょっかん</rt></ruby>」「そうあってほしいという<ruby>願<rt>ねが</rt></ruby>い」**がギュッと<ruby>詰<rt>つ</rt></ruby>まった<ruby>言葉<rt>ことば</rt></ruby>。
+* **<ruby>場面<rt>ばめん</rt></ruby>**: <ruby>相手<rt>あいて</rt></ruby>を<ruby>励<rt>はげ</rt></ruby>ますとき、お<ruby>祝<rt>いわ</rt></ruby>いするとき、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>確信<rt>かくしん</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えるとき。
+* **<ruby>最大<rt>さいだい</rt></ruby>のポイント**: **3つの<ruby>中<rt>なか</rt></ruby>で<ruby>唯一<rt>ゆいいつ</rt></ruby>、「<ruby>相手<rt>あいて</rt></ruby>を<ruby>励<rt>はげ</rt></ruby>ます」ことができる<ruby>言葉<rt>ことば</rt></ruby>です！**
+* ⭕️「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だよ、**きっと**<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するよ！」（<ruby>強<rt>つよ</rt></ruby>い<ruby>励<rt>はげ</rt></ruby>ましと<ruby>祈<rt>いの</rt></ruby>り）
+* ❌「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だよ、**おそらく**<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するよ」（データ<ruby>分析<rt>ぶんせき</rt></ruby>みたいで<ruby>冷<rt>つめ</rt></ruby>たい！）
+* ❌「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だよ、**たぶん**<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するよ」（<ruby>五分五分<rt>ごぶごぶ</rt></ruby>で<ruby>不安<rt>ふあん</rt></ruby>にさせる！）
 
 ---
 
-## まとめ：パーセンテージと「心」を使い分けよう！
+## 3. シチュエーション<ruby>別<rt>べつ</rt></ruby>クイズ！どれを<ruby>使<rt>つか</rt></ruby>うのが<ruby>正解<rt>せいかい</rt></ruby>？
+
+<ruby>理解<rt>りかい</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>めるために、クイズに<ruby>挑戦<rt>ちょうせん</rt></ruby>してみましょう！
+
+### Q1. <ruby>落ち込<rt>おちこ</rt></ruby>んでいる<ruby>同僚<rt>どうりょう</rt></ruby>を<ruby>元気<rt>げんき</rt></ruby>づけたいとき
+> 🗣️ 「<ruby>落ち込<rt>おちこ</rt></ruby>まないで！ <ruby>次<rt>つぎ</rt></ruby>は（　　　）うまくいくよ！」
+
+**<ruby>正解<rt>せいかい</rt></ruby>は……？**
+👉 **「きっと」が<ruby>正解<rt>せいかい</rt></ruby>！**
+<ruby>相手<rt>あいて</rt></ruby>への<ruby>応援<rt>おうえん</rt></ruby>や<ruby>祈<rt>いの</rt></ruby>りの<ruby>気持<rt>きも</rt></ruby>ちを<ruby>込<rt>こ</rt></ruby>めて「<ruby>強<rt>つよ</rt></ruby>く<ruby>信<rt>しん</rt></ruby>じているよ」と<ruby>伝<rt>つた</rt></ruby>えるため、「きっと」が100<ruby>点<rt>てん</rt></ruby><ruby>満点<rt>まんてん</rt></ruby>です。
+
+### Q2. <ruby>上司<rt>じょうし</rt></ruby>にプロジェクトの<ruby>進捗<rt>しんちょく</rt></ruby>を<ruby>報告<rt>ほうこく</rt></ruby>するとき
+> 👨‍💼 「このペースでいけば、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>には（　　　）<ruby>完了<rt>かんりょう</rt></ruby>するかと<ruby>思<rt>おも</rt></ruby>います。」
+
+**<ruby>正解<rt>せいかい</rt></ruby>は……？**
+👉 **「おそらく」が<ruby>正解<rt>せいかい</rt></ruby>！**
+<ruby>現在<rt>げんざい</rt></ruby>の<ruby>進捗<rt>しんちょく</rt></ruby>ペースという<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>根拠<rt>こんきょ</rt></ruby>があるため、ビジネスでは「おそらく」を<ruby>使<rt>つか</rt></ruby>うことで、<ruby>誠実<rt>せいじつ</rt></ruby>で<ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えられます。
+
+### Q3. <ruby>週末<rt>しゅうまつ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>を<ruby>友達<rt>ともだち</rt></ruby>から<ruby>聞<rt>き</rt></ruby>かれたとき
+> 👧 「<ruby>日曜日<rt>にちようび</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、<ruby>空<rt>あ</rt></ruby>いてる？」
+> 👦 「うーん、<ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>用事<rt>ようじ</rt></ruby>が<ruby>長引<rt>ながび</rt></ruby>かなければ、（　　　）<ruby>空<rt>あ</rt></ruby>いてると<ruby>思<rt>おも</rt></ruby>う！」
+
+**<ruby>正解<rt>せいかい</rt></ruby>は……？**
+👉 **「たぶん」が<ruby>正解<rt>せいかい</rt></ruby>！**
+<ruby>気心<rt>きごころ</rt></ruby><ruby>知<rt>し</rt></ruby>れた<ruby>友人<rt>ゆうじん</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>で、まだ<ruby>確定<rt>かくてい</rt></ruby>していない<ruby>予定<rt>よてい</rt></ruby>を<ruby>気軽<rt>きがる</rt></ruby>に<ruby>答<rt>こた</rt></ruby>えるには「たぶん」が<ruby>一番<rt>いちばん</rt></ruby>リラックスしていて<ruby>自然<rt>しぜん</rt></ruby>です。
+
+---
+
+## まとめ：パーセンテージと「<ruby>心<rt>こころ</rt></ruby>」を<ruby>使い分<rt>つかいわ</rt></ruby>けよう！
 
 「たぶん」「おそらく」「きっと」。
-どれも推測を表す言葉ですが、その根底にある「確信度」と「感情の温度」はまったく違います。
+どれも<ruby>推測<rt>すいそく</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>言葉<rt>ことば</rt></ruby>ですが、その<ruby>根底<rt>こんてい</rt></ruby>にある「<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>」と「<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>」はまったく<ruby>違<rt>ちが</rt></ruby>います。
 
-* 🎲 **たぶん（50%）**: 気軽な日常会話で「五分五分かな」というとき。
-* 📊 **おそらく（70〜80%）**: ビジネスでデータや状況をもとに「冷静に報告」するとき。
-* 💖 **きっと（80〜90%）**: 相手を「全力で励ます」「強く信じている」とき。
+* 🎲 **たぶん（50%）**: <ruby>気軽<rt>きがる</rt></ruby>な<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で「<ruby>五分五分<rt>ごぶごぶ</rt></ruby>かな」というとき。
+* 📊 **おそらく（70〜80%）**: ビジネスでデータや<ruby>状況<rt>じょうきょう</rt></ruby>をもとに「<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>」するとき。
+* 💖 **きっと（80〜90%）**: <ruby>相手<rt>あいて</rt></ruby>を「<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>励<rt>はげ</rt></ruby>ます」「<ruby>強<rt>つよ</rt></ruby>く<ruby>信<rt>しん</rt></ruby>じている」とき。
 
-この使い分けができるようになると、あなたの日本語はグッと説得力が増し、相手の心にスッと届くようになりますよ！
+この<ruby>使い分<rt>つかいわ</rt></ruby>けができるようになると、あなたの<ruby>日本語<rt>にほんご</rt></ruby>はグッと<ruby>説得<rt>せっとく</rt></ruby><ruby>力<rt>りょく</rt></ruby>が<ruby>増<rt>ま</rt></ruby>し、<ruby>相手<rt>あいて</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>にスッと<ruby>届<rt>とど</rt></ruby>くようになりますよ！

@@ -14,92 +14,93 @@ tags:
   - "形容詞と動詞"
   - "誤用分析"
 ---
-日本語を勉強している外国人学習者が、友達の写真を見ながらポロッと言ってしまいがちな<strong>「超危険な間違い」</strong>があります。
 
-> 🚗 クルマ：「あ、この写真、高校のときの友達なんだ！ ほら、この右側の子……<strong>最近、太るよ！</strong>」
+<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながらポロッと<ruby>言<rt>い</rt></ruby>ってしまいがちな<strong>「<ruby>超<rt>ちょう</rt></ruby><ruby>危険<rt>きけん</rt></ruby>な<ruby>間違<rt>まちが</rt></ruby>い」</strong>があります。
+
+> 🚗 クルマ：「あ、この<ruby>写真<rt>しゃしん</rt></ruby>、<ruby>高校<rt>こうこう</rt></ruby>のときの<ruby>友達<rt>ともだち</rt></ruby>なんだ！ ほら、この<ruby>右側<rt>みぎがわ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>……<strong><ruby>最近<rt>さいきん</rt></ruby>、<ruby>太<rt>ふと</rt></ruby>るよ！</strong>」
 > 
-> 先生：「えっ！？ クルマさん、その友達は<strong>『未来への予言』</strong>をしているの？ それとも今まさに風船みたいに膨らんでいる最中なの！？」
+> <ruby>先生<rt>せんせい</rt></ruby>：「えっ！？ クルマさん、その<ruby>友達<rt>ともだち</rt></ruby>は<strong>『<ruby>未来<rt>みらい</rt></ruby>への<ruby>予言<rt>よげん</rt></ruby>』</strong>をしているの？ それとも<ruby>今<rt>いま</rt></ruby>まさに<ruby>風船<rt>ふうせん</rt></ruby>みたいに<ruby>膨<rt>ふく</rt></ruby>らんでいる<ruby>最中<rt>さいちゅう</rt></ruby>なの！？」
 > 
-> 🚗 クルマ：「<strong>えええっ！？ 予言！？ 違う違う！ 英語で『He is fat（彼は太っている）』って言いたいだけなのに、なんで『太る』じゃダメなんですかーーーっ！？</strong>」
+> 🚗 クルマ：「<strong>えええっ！？ <ruby>予言<rt>よげん</rt></ruby>！？ <ruby>違<rt>ちが</rt></ruby>う<ruby>違<rt>ちが</rt></ruby>う！ <ruby>英語<rt>えいご</rt></ruby>で『He is fat（<ruby>彼<rt>かれ</rt></ruby>は<ruby>太<rt>ふと</rt></ruby>っている）』って<ruby>言<rt>い</rt></ruby>いたいだけなのに、なんで『<ruby>太<rt>ふと</rt></ruby>る』じゃダメなんですかーーーっ！？</strong>」
 
-英語の "fat" は形容詞なので、"He is fat" や "She is slim" と言えば「現在の状態」をシンプルに表せます。
+<ruby>英語<rt>えいご</rt></ruby>の "fat" は<ruby>形容詞<rt>けいようし</rt></ruby>なので、"He is fat" や "She is slim" と<ruby>言<rt>い</rt></ruby>えば「<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>」をシンプルに<ruby>表<rt>あらわ</rt></ruby>せます。
 
-しかし、日本語の「太る」は形容詞ではなく<strong>「動詞（変化を表す言葉）」</strong>なのです！
-そのため、うっかり「太る」と言ってしまうと、日本人の耳には<strong>「彼はこれから未来に太る（未来形・予言）」</strong>に聞こえてしまいます。
+しかし、<ruby>日本語<rt>にほんご</rt></ruby>の「<ruby>太<rt>ふと</rt></ruby>る」は<ruby>形容詞<rt>けいようし</rt></ruby>ではなく<strong>「<ruby>動詞<rt>どうし</rt></ruby>（<ruby>変化<rt>へんか</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>言葉<rt>ことば</rt></ruby>）」</strong>なのです！
+そのため、うっかり「<ruby>太<rt>ふと</rt></ruby>る」と<ruby>言<rt>い</rt></ruby>ってしまうと、<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>耳<rt>みみ</rt></ruby>には<strong>「<ruby>彼<rt>かれ</rt></ruby>はこれから<ruby>未来<rt>みらい</rt></ruby>に<ruby>太<rt>ふと</rt></ruby>る（<ruby>未来<rt>みらい</rt></ruby><ruby>形<rt>がた</rt></ruby>・<ruby>予言<rt>よげん</rt></ruby>）」</strong>に<ruby>聞<rt>き</rt></ruby>こえてしまいます。
 
-今回は、初級〜中級の学習者が必ず混乱する<strong>「太る vs 太っている」の決定的な違い</strong>と、日本語の超重要文法<strong>「〜ている（変化の結果の状態）」の魔法</strong>をスッキリ解き明かします！
+<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>初級<rt>しょきゅう</rt></ruby>〜<ruby>中級<rt>ちゅうきゅう</rt></ruby>の<ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>必<rt>かなら</rt></ruby>ず<ruby>混乱<rt>こんらん</rt></ruby>する<strong>「<ruby>太<rt>ふと</rt></ruby>る vs <ruby>太<rt>ふと</rt></ruby>っている」の<ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い</strong>と、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>超<rt>ちょう</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby><ruby>文法<rt>ぶんぽう</rt></ruby><strong>「〜ている（<ruby>変化<rt>へんか</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>）」の<ruby>魔法<rt>まほう</rt></ruby></strong>をスッキリ<ruby>解き明<rt>ときあ</rt></ruby>かします！
 
 ---
 
-## 1. タイムラインで一発納得！「太る」と「太っている」の違い
+## 1. タイムラインで<ruby>一<rt>いち</rt></ruby><ruby>発<rt>はつ</rt></ruby><ruby>納得<rt>なっとく</rt></ruby>！「<ruby>太<rt>ふと</rt></ruby>る」と「<ruby>太<rt>ふと</rt></ruby>っている」の<ruby>違<rt>ちが</rt></ruby>い
 
-なぜ「太る」ではなく「太っている」と言わなければならないのでしょうか？
-時間の流れ（タイムライン）で整理すると、一瞬で納得できます！
+なぜ「<ruby>太<rt>ふと</rt></ruby>る」ではなく「<ruby>太<rt>ふと</rt></ruby>っている」と<ruby>言<rt>い</rt></ruby>わなければならないのでしょうか？
+<ruby>時間<rt>じかん</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れ（タイムライン）で<ruby>整理<rt>せいり</rt></ruby>すると、<ruby>一瞬<rt>いっしゅん</rt></ruby>で<ruby>納得<rt>なっとく</rt></ruby>できます！
 
-| 表現 | 品詞 | 意味・ニュアンス | 時間軸のイメージ | 実例 |
+| <ruby>表現<rt>ひょうげん</rt></ruby> | <ruby>品詞<rt>ひんし</rt></ruby> | <ruby>意味<rt>いみ</rt></ruby>・ニュアンス | <ruby>時間<rt>じかん</rt></ruby><ruby>軸<rt>じく</rt></ruby>のイメージ | <ruby>実例<rt>じつれい</rt></ruby> |
 | :--- | :--- | :--- | :--- | :--- |
-| <strong><ruby>太<rt>ふと</rt></ruby>る</strong> | 瞬間的な変化動詞（基本形・辞書形） | <strong>これから体重が増える（未来・習慣）</strong> | ➡️ 過去から未来へ体重が増加していくプロセス | 「夜中にラーメンを食べると<strong>太る</strong>よ」 |
-| <strong><ruby>太<rt>ふと</rt></ruby>っている</strong> | 「〜ている」形（状態動詞化） | <strong>太った結果、今その体型がキープされている（現在の状態）</strong> | 📍 変化が完了し、現在の姿として定着している | 「あの力士はとても<strong>太っている</strong>」 |
+| <strong><ruby>太<rt>ふと</rt></ruby>る</strong>| <ruby>瞬間<rt>しゅんかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>（<ruby>基本形<rt>きほんけい</rt></ruby>・<ruby>辞書<rt>じしょ</rt></ruby><ruby>形<rt>がた</rt></ruby>） |<strong>これから<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える（<ruby>未来<rt>みらい</rt></ruby>・<ruby>習慣<rt>しゅうかん</rt></ruby>）</strong>| ➡️ <ruby>過去<rt>かこ</rt></ruby>から<ruby>未来<rt>みらい</rt></ruby>へ<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増加<rt>ぞうか</rt></ruby>していくプロセス | 「<ruby>夜中<rt>やちゅう</rt></ruby>にラーメンを<ruby>食<rt>た</rt></ruby>べると<strong><ruby>太<rt>ふと</rt></ruby>る</strong>よ」 |
+| <strong><ruby>太<rt>ふと</rt></ruby>っている</strong>| 「〜ている」<ruby>形<rt>かたち</rt></ruby>（<ruby>状態<rt>じょうたい</rt></ruby><ruby>動詞<rt>どうし</rt></ruby><ruby>化<rt>か</rt></ruby>） |<strong><ruby>太<rt>ふと</rt></ruby>った<ruby>結果<rt>けっか</rt></ruby>、<ruby>今<rt>いま</rt></ruby>その<ruby>体型<rt>たいけい</rt></ruby>がキープされている（<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>）</strong>| 📍 <ruby>変化<rt>へんか</rt></ruby>が<ruby>完了<rt>かんりょう</rt></ruby>し、<ruby>現在<rt>げんざい</rt></ruby>の<ruby>姿<rt>すがた</rt></ruby>として<ruby>定着<rt>ていちゃく</rt></ruby>している | 「あの<ruby>力士<rt>りきし</rt></ruby>はとても<strong><ruby>太<rt>ふと</rt></ruby>っている</strong>」 |
 
 ![太るという未来への変化と太っているという現在の状態を比べるクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/futoru-futotteiru-aspect-scale.jpg)
 
-### 💡 「太る」は【体重が増加する変化そのもの】！
-「太る」は「体重が増える」という<strong>変化の瞬間（プロセス）</strong>を表す動詞です。
-* 「最近甘いものを食べすぎて、<strong>太った</strong>（過去の変化完了）」
-* 「これ以上食べたら、もっと<strong>太る</strong>（未来の予測）」
+### 💡 「<ruby>太<rt>ふと</rt></ruby>る」は【<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増加<rt>ぞうか</rt></ruby>する<ruby>変化<rt>へんか</rt></ruby>そのもの】！
+「<ruby>太<rt>ふと</rt></ruby>る」は「<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える」という<strong><ruby>変化<rt>へんか</rt></ruby>の<ruby>瞬間<rt>しゅんかん</rt></ruby>（プロセス）</strong>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>動詞<rt>どうし</rt></ruby>です。
+* 「<ruby>最近<rt>さいきん</rt></ruby><ruby>甘<rt>あま</rt></ruby>いものを<ruby>食<rt>た</rt></ruby>べすぎて、<strong><ruby>太<rt>ふと</rt></ruby>った</strong>（<ruby>過去<rt>かこ</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>）」
+* 「これ<ruby>以上<rt>いじょう</rt></ruby><ruby>食<rt>た</rt></ruby>べたら、もっと<strong><ruby>太<rt>ふと</rt></ruby>る</strong>（<ruby>未来<rt>みらい</rt></ruby>の<ruby>予測<rt>よそく</rt></ruby>）」
 
-### 📍 「太っている」は【変化した結果のキープ】！
-「太る」という変化が起きたあと、<strong>「その結果の体型が今も続いている状態」</strong>を言いたいときは、必ず<strong>「〜ている」</strong>をつけなければなりません。
+### 📍 「<ruby>太<rt>ふと</rt></ruby>っている」は【<ruby>変化<rt>へんか</rt></ruby>した<ruby>結果<rt>けっか</rt></ruby>のキープ】！
+「<ruby>太<rt>ふと</rt></ruby>る」という<ruby>変化<rt>へんか</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたあと、<strong>「その<ruby>結果<rt>けっか</rt></ruby>の<ruby>体型<rt>たいけい</rt></ruby>が<ruby>今<rt>いま</rt></ruby>も<ruby>続<rt>つづ</rt></ruby>いている<ruby>状態<rt>じょうたい</rt></ruby>」</strong>を<ruby>言<rt>い</rt></ruby>いたいときは、<ruby>必<rt>かなら</rt></ruby>ず<strong>「〜ている」</strong>をつけなければなりません。
 
-これが、日本語で「彼は太っている」と言わなければならない最大の理由です！
-
----
-
-## 2. 実は全部同じ仲間！「〜ている」が必要な「結果の状態動詞」リスト
-
-「太る」と同じように、英語では形容詞や現在形なのに、日本語では絶対に「〜ている」にしなきゃいけない単語がたくさんあります。
-
-学習者がよく間違える<strong>「5大・結果の状態動詞」</strong>をマスターしましょう！
-
-### ① 結婚する ➔ 💍 結婚している
-* ❌ 「私は去年、結婚する」（これから結婚するの？）
-* ⭕ 「私は去年、<strong>結婚した</strong>」（過去のイベント）
-* ⭕ 「私は今、<strong>結婚している</strong>」（既婚という現在の状態）
-
-### ② 知る ➔ 🧠 知っている
-* ❌ 「彼の電話番号を知る」（これから知るの？）
-* ⭕ 「彼の電話番号を<strong>知っている</strong>」（頭に入っている現在の状態）
-  * ⚠️ 否定のときは「知っていない」ではなく「知らない」になる日本語の超トラップ！
-
-### ③ 死ぬ ➔ 💀 死んでいる
-* ❌ 「あの虫は死ぬ」（これから死ぬところ？）
-* ⭕ 「あの虫はもう<strong>死んでいる</strong>」（生命活動が停止した状態）
-
-### ④ 着る / かける ➔ 👓 着ている / かけている
-* ❌ 「彼は今日、丸メガネをかける」（今まさに手でメガネを顔に乗せている最中？）
-* ⭕ 「彼は今日、丸メガネを<strong>かけている</strong>」（装着した状態）
+これが、<ruby>日本語<rt>にほんご</rt></ruby>で「<ruby>彼<rt>かれ</rt></ruby>は<ruby>太<rt>ふと</rt></ruby>っている」と<ruby>言<rt>い</rt></ruby>わなければならない<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>です！
 
 ---
 
-## 3. 日本人に「太っている」と直接言うのはタブー！？ スマートな言い換え術
+## 2. <ruby>実<rt>じつ</rt></ruby>は<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>同<rt>おな</rt></ruby>じ<ruby>仲間<rt>なかま</rt></ruby>！「〜ている」が<ruby>必要<rt>ひつよう</rt></ruby>な「<ruby>結果<rt>けっか</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>」リスト
 
-文法的に「太っている」が正しいとわかっても、実生活で日本人の友達や同僚に向かって直接「あなた、太っていますね！」と言うと、<strong>大ショックを与えてしまいます</strong>（笑）。
+「<ruby>太<rt>ふと</rt></ruby>る」と<ruby>同<rt>おな</rt></ruby>じように、<ruby>英語<rt>えいご</rt></ruby>では<ruby>形容詞<rt>けいようし</rt></ruby>や<ruby>現在<rt>げんざい</rt></ruby><ruby>形<rt>かたち</rt></ruby>なのに、<ruby>日本語<rt>にほんご</rt></ruby>では<ruby>絶対<rt>ぜったい</rt></ruby>に「〜ている」にしなきゃいけない<ruby>単語<rt>たんご</rt></ruby>がたくさんあります。
 
-相手を傷つけず、上品に体型を褒めたり言及したりするための<strong>「大人のポジティブ表現」</strong>を覚えておきましょう！
+<ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>がよく<ruby>間違<rt>まちが</rt></ruby>える<strong>「5<ruby>大<rt>だい</rt></ruby>・<ruby>結果<rt>けっか</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>」</strong>をマスターしましょう！
 
-### 🛡️ 角を立てない大人の言い換え表現
-* <strong>「<ruby>恰幅<rt>かっぷく</rt></ruby>がいいですね」</strong>：ビジネスマンや目上の男性に対して、堂々として立派な体格を褒める表現。
-* <strong>「ふくよかですね」</strong>：女性に対して、豊かで優しげな体型を上品に表現する褒め言葉。
-* <strong>「がっしりしていますね」「体格がいいですね」</strong>：筋肉質で健康的な男性を褒めるときに最適。
-* <strong>「ぽっちゃりしていて可愛い」</strong>：親しい間柄で、愛嬌のある丸みのある体型を好意的に表現する言葉。
+### ① <ruby>結婚<rt>けっこん</rt></ruby>する ➔ 💍 <ruby>結婚<rt>けっこん</rt></ruby>している
+* ❌ 「<ruby>私<rt>わたし</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>する」（これから<ruby>結婚<rt>けっこん</rt></ruby>するの？）
+* ⭕ 「<ruby>私<rt>わたし</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>、<strong><ruby>結婚<rt>けっこん</rt></ruby>した</strong>」（<ruby>過去<rt>かこ</rt></ruby>のイベント）
+* ⭕ 「<ruby>私<rt>わたし</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<strong><ruby>結婚<rt>けっこん</rt></ruby>している</strong>」（<ruby>既婚<rt>きこん</rt></ruby>という<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>）
+
+### ② <ruby>知<rt>し</rt></ruby>る ➔ 🧠 <ruby>知<rt>し</rt></ruby>っている
+* ❌ 「<ruby>彼<rt>かれ</rt></ruby>の<ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を<ruby>知<rt>し</rt></ruby>る」（これから<ruby>知<rt>し</rt></ruby>るの？）
+* ⭕ 「<ruby>彼<rt>かれ</rt></ruby>の<ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>を<strong><ruby>知<rt>し</rt></ruby>っている</strong>」（<ruby>頭<rt>あたま</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っている<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>）
+* ⚠️ <ruby>否定<rt>ひてい</rt></ruby>のときは「<ruby>知<rt>し</rt></ruby>っていない」ではなく「<ruby>知<rt>し</rt></ruby>らない」になる<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>超<rt>ちょう</rt></ruby>トラップ！
+
+### ③ <ruby>死<rt>し</rt></ruby>ぬ ➔ 💀 <ruby>死<rt>し</rt></ruby>んでいる
+* ❌ 「あの<ruby>虫<rt>むし</rt></ruby>は<ruby>死<rt>し</rt></ruby>ぬ」（これから<ruby>死<rt>し</rt></ruby>ぬところ？）
+* ⭕ 「あの<ruby>虫<rt>むし</rt></ruby>はもう<strong><ruby>死<rt>し</rt></ruby>んでいる</strong>」（<ruby>生命<rt>せいめい</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>が<ruby>停止<rt>ていし</rt></ruby>した<ruby>状態<rt>じょうたい</rt></ruby>）
+
+### ④ <ruby>着<rt>き</rt></ruby>る / かける ➔ 👓 <ruby>着<rt>き</rt></ruby>ている / かけている
+* ❌ 「<ruby>彼<rt>かれ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>、<ruby>丸<rt>まる</rt></ruby>メガネをかける」（<ruby>今<rt>いま</rt></ruby>まさに<ruby>手<rt>て</rt></ruby>でメガネを<ruby>顔<rt>かお</rt></ruby>に<ruby>乗<rt>の</rt></ruby>せている<ruby>最中<rt>さいちゅう</rt></ruby>？）
+* ⭕ 「<ruby>彼<rt>かれ</rt></ruby>は<ruby>今日<rt>きょう</rt></ruby>、<ruby>丸<rt>まる</rt></ruby>メガネを<strong>かけている</strong>」（<ruby>装着<rt>そうちゃく</rt></ruby>した<ruby>状態<rt>じょうたい</rt></ruby>）
 
 ---
 
-## 4. まとめ：「太る（変化）」と「太っている（状態）」を使いこなそう！
+## 3. <ruby>日本人<rt>にっぽんじん</rt></ruby>に「<ruby>太<rt>ふと</rt></ruby>っている」と<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>言<rt>い</rt></ruby>うのはタブー！？ スマートな<ruby>言い換<rt>いいか</rt></ruby>え<ruby>術<rt>じゅつ</rt></ruby>
 
-日本語の「〜ている」には、英語の "-ing（進行形）" だけでなく、<strong>「変化した結果がそのまま続いている状態」</strong>を表す重要な役割があります。
+<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>的<rt>てき</rt></ruby>に「<ruby>太<rt>ふと</rt></ruby>っている」が<ruby>正<rt>ただ</rt></ruby>しいとわかっても、<ruby>実生活<rt>じっせいかつ</rt></ruby>で<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>や<ruby>同僚<rt>どうりょう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>直接<rt>ちょくせつ</rt></ruby>「あなた、<ruby>太<rt>ふと</rt></ruby>っていますね！」と<ruby>言<rt>い</rt></ruby>うと、<strong><ruby>大<rt>だい</rt></ruby>ショックを<ruby>与<rt>あた</rt></ruby>えてしまいます</strong>（<ruby>笑<rt>えみ</rt></ruby>）。
 
-* ➡️ <strong>「太る」</strong>＝ これから太る（未来）／太るという現象
-* 📍 <strong>「太っている」</strong>＝ 太った結果、現在その体型である（現在の状態）
+<ruby>相手<rt>あいて</rt></ruby>を<ruby>傷<rt>きず</rt></ruby>つけず、<ruby>上品<rt>じょうひん</rt></ruby>に<ruby>体型<rt>たいけい</rt></ruby>を<ruby>褒<rt>ほ</rt></ruby>めたり<ruby>言及<rt>げんきゅう</rt></ruby>したりするための<strong>「<ruby>大人<rt>おとな</rt></ruby>のポジティブ<ruby>表現<rt>ひょうげん</rt></ruby>」</strong>を<ruby>覚<rt>おぼ</rt></ruby>えておきましょう！
 
-この違いさえ頭に入れておけば、もう「最近、太るよ！」と友達の未来を予言して気まずい空気になる心配はありませんよ！🚗✨
+### 🛡️ <ruby>角<rt>かく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てない<ruby>大人<rt>おとな</rt></ruby>の<ruby>言い換<rt>いいか</rt></ruby>え<ruby>表現<rt>ひょうげん</rt></ruby>
+* <strong>「<ruby>恰幅<rt>かっぷく</rt></ruby>がいいですね」</strong>：ビジネスマンや<ruby>目上<rt>めうえ</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>堂々<rt>どうどう</rt></ruby>として<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>体格<rt>たいかく</rt></ruby>を<ruby>褒<rt>ほ</rt></ruby>める<ruby>表現<rt>ひょうげん</rt></ruby>。
+* <strong>「ふくよかですね」</strong>：<ruby>女性<rt>じょせい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>豊<rt>ゆた</rt></ruby>かで<ruby>優<rt>やさ</rt></ruby>しげな<ruby>体型<rt>たいけい</rt></ruby>を<ruby>上品<rt>じょうひん</rt></ruby>に<ruby>表現<rt>ひょうげん</rt></ruby>する<ruby>褒<rt>ほ</rt></ruby>め<ruby>言葉<rt>ことば</rt></ruby>。
+* <strong>「がっしりしていますね」「<ruby>体格<rt>たいかく</rt></ruby>がいいですね」</strong>：<ruby>筋肉質<rt>きんにくしつ</rt></ruby>で<ruby>健康<rt>けんこう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>男性<rt>だんせい</rt></ruby>を<ruby>褒<rt>ほ</rt></ruby>めるときに<ruby>最適<rt>さいてき</rt></ruby>。
+* <strong>「ぽっちゃりしていて<ruby>可愛<rt>かわい</rt></ruby>い」</strong>：<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>で、<ruby>愛嬌<rt>あいきょう</rt></ruby>のある<ruby>丸<rt>まる</rt></ruby>みのある<ruby>体型<rt>たいけい</rt></ruby>を<ruby>好意<rt>こうい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>表現<rt>ひょうげん</rt></ruby>する<ruby>言葉<rt>ことば</rt></ruby>。
+
+---
+
+## 4. まとめ：「<ruby>太<rt>ふと</rt></ruby>る（<ruby>変化<rt>へんか</rt></ruby>）」と「<ruby>太<rt>ふと</rt></ruby>っている（<ruby>状態<rt>じょうたい</rt></ruby>）」を<ruby>使<rt>つか</rt></ruby>いこなそう！
+
+<ruby>日本語<rt>にほんご</rt></ruby>の「〜ている」には、<ruby>英語<rt>えいご</rt></ruby>の "-ing（<ruby>進行<rt>しんこう</rt></ruby><ruby>形<rt>がた</rt></ruby>）" だけでなく、<strong>「<ruby>変化<rt>へんか</rt></ruby>した<ruby>結果<rt>けっか</rt></ruby>がそのまま<ruby>続<rt>つづ</rt></ruby>いている<ruby>状態<rt>じょうたい</rt></ruby>」</strong>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>役割<rt>やくわり</rt></ruby>があります。
+
+* ➡️ <strong>「<ruby>太<rt>ふと</rt></ruby>る」</strong>＝ これから<ruby>太<rt>ふと</rt></ruby>る（<ruby>未来<rt>みらい</rt></ruby>）／<ruby>太<rt>ふと</rt></ruby>るという<ruby>現象<rt>げんしょう</rt></ruby>
+* 📍 <strong>「<ruby>太<rt>ふと</rt></ruby>っている」</strong>＝ <ruby>太<rt>ふと</rt></ruby>った<ruby>結果<rt>けっか</rt></ruby>、<ruby>現在<rt>げんざい</rt></ruby>その<ruby>体型<rt>たいけい</rt></ruby>である（<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>）
+
+この<ruby>違<rt>ちが</rt></ruby>いさえ<ruby>頭<rt>あたま</rt></ruby>に<ruby>入<rt>い</rt></ruby>れておけば、もう「<ruby>最近<rt>さいきん</rt></ruby>、<ruby>太<rt>ふと</rt></ruby>るよ！」と<ruby>友達<rt>ともだち</rt></ruby>の<ruby>未来<rt>みらい</rt></ruby>を<ruby>予言<rt>よげん</rt></ruby>して<ruby>気<rt>き</rt></ruby>まずい<ruby>空気<rt>くうき</rt></ruby>になる<ruby>心配<rt>しんぱい</rt></ruby>はありませんよ！🚗✨

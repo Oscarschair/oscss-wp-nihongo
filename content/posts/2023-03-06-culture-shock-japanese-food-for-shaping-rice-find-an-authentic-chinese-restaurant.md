@@ -6,90 +6,91 @@ slug: "culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-re
 thumbnail: "assets/images/thumbnails/thumb-culture-onigiri-rice-shape.jpg"
 description: "日本の食卓では一般的な「おにぎり」や「ご飯の形を押し固める」文化。香港出身のオスカーが来日当初に覚えたカルチャーショックと、本場の中華料理店を見極めるチャーハンの盛り付けの秘密を解説します。"
 ---
+
 こんにちは、オスカーです。
 
-今回は、食文化にまつわるカルチャーショックをご紹介します。
+<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>にまつわるカルチャーショックをご<ruby>紹介<rt>しょうかい</rt></ruby>します。
 
-テーマは**「ご飯（白米・チャーハン）の盛り付け方」**について。人によっては「えっ、そんな細かいところに？」と思われるかもしれません。
+テーマは**「ご<ruby>飯<rt>はん</rt></ruby>（<ruby>白米<rt>はくまい</rt></ruby>・チャーハン）の<ruby>盛<rt>も</rt></ruby>り<ruby>付け方<rt>つけかた</rt></ruby>」**について。<ruby>人<rt>ひと</rt></ruby>によっては「えっ、そんな<ruby>細<rt>こま</rt></ruby>かいところに？」と<ruby>思<rt>おも</rt></ruby>われるかもしれません。
 
-記事の後半では、この盛り付け方から見分ける「本当に本場の中華・中国料理店の見つけ方」についてもご紹介します。
+<ruby>記事<rt>きじ</rt></ruby>の<ruby>後半<rt>こうはん</rt></ruby>では、この<ruby>盛<rt>も</rt></ruby>り<ruby>付け方<rt>つけかた</rt></ruby>から<ruby>見分<rt>みわ</rt></ruby>ける「<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>本場<rt>ほんば</rt></ruby>の<ruby>中華<rt>ちゅうか</rt></ruby>・<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>の<ruby>見<rt>み</rt></ruby>つけ<ruby>方<rt>かた</rt></ruby>」についてもご<ruby>紹介<rt>しょうかい</rt></ruby>します。
 
-ぜひ最後までお読みいただければ幸いです。
+ぜひ<ruby>最後<rt>さいご</rt></ruby>までお<ruby>読<rt>よ</rt></ruby>みいただければ<ruby>幸<rt>さいわ</rt></ruby>いです。
 
-*※オスカーは香港出身で、ここでのお話は私個人の実体験や文化背景に基づいています。*
-
----
-
-## ご飯の盛り付け方ショック
-
-日本の飲食店やご家庭でご飯をよそうとき、お茶碗にご飯を盛って、しゃもじで表面をトントンと丸く整えたり、ドーム状にきれいに成形したりすることはよくありますよね。
-
-さらにカレーライスやオムライスのとき、一度お茶碗にご飯をぎゅっと押し込んでから、お皿の上にパカッとひっくり返して盛り付ける場面もよく見かけます。
-
-実はこれこそが、今回お話ししたいカルチャーショックなのです。
-
-私たちが気になるのは、しゃもじで**「ご飯の形を押し固めて整える」**という点です。
-
-実は私の育った環境では、ご飯を押し固める行為は「やってはいけないお作法」として教えられてきました。
+*※オスカーは<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>で、ここでのお<ruby>話<rt>はなし</rt></ruby>は<ruby>私<rt>わたし</rt></ruby><ruby>個人<rt>こじん</rt></ruby>の<ruby>実体験<rt>じつたいけん</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby><ruby>背景<rt>はいけい</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいています。*
 
 ---
 
-## ご先祖様と生きている人間の境界線
+## ご<ruby>飯<rt>はん</rt></ruby>の<ruby>盛<rt>も</rt></ruby>り<ruby>付け方<rt>つけかた</rt></ruby>ショック
 
-家庭によって異なる部分もありますが、私の家では昔からこう教えられていました。
+<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>飲食<rt>いんしょく</rt></ruby><ruby>店<rt>てん</rt></ruby>やご<ruby>家庭<rt>かてい</rt></ruby>でご<ruby>飯<rt>はん</rt></ruby>をよそうとき、お<ruby>茶碗<rt>ちゃわん</rt></ruby>にご<ruby>飯<rt>はん</rt></ruby>を<ruby>盛<rt>も</rt></ruby>って、しゃもじで<ruby>表面<rt>ひょうめん</rt></ruby>をトントンと<ruby>丸<rt>まる</rt></ruby>く<ruby>整<rt>ととの</rt></ruby>えたり、ドーム<ruby>状<rt>じょう</rt></ruby>にきれいに<ruby>成形<rt>せいけい</rt></ruby>したりすることはよくありますよね。
 
-> **「しゃもじでご飯をぎゅっと押し固めるのは、ご先祖様へのお供えご飯だけ。生きている人間が食べるご飯を押して固めてはいけない」**
+さらにカレーライスやオムライスのとき、<ruby>一度<rt>いちど</rt></ruby>お<ruby>茶碗<rt>ちゃわん</rt></ruby>にご<ruby>飯<rt>はん</rt></ruby>をぎゅっと<ruby>押し込<rt>おしこ</rt></ruby>んでから、お<ruby>皿<rt>さら</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にパカッとひっくり<ruby>返<rt>かえ</rt></ruby>して<ruby>盛り付<rt>もりつ</rt></ruby>ける<ruby>場面<rt>ばめん</rt></ruby>もよく<ruby>見<rt>み</rt></ruby>かけます。
 
-我が家にはご先祖様の位牌（仏壇）があり、夕食の際には、炊きたての一番最初のご飯を少しだけご先祖様にお供えしていました。
-その際、神仏やご先祖様にお供えするご飯は、綺麗に形を整えて押し固めるのが作法でした。
+<ruby>実<rt>じつ</rt></ruby>はこれこそが、<ruby>今回<rt>こんかい</rt></ruby>お<ruby>話<rt>はな</rt></ruby>ししたいカルチャーショックなのです。
 
-つまり、「ご飯を押し固めるかどうか」が、**ご先祖様へのお供えと、人間が日常でいただく食事との<ruby>境界線<rt>けじめ</rt></ruby>**を分ける大切な意味を持っていたのです。
+<ruby>私<rt>わたし</rt></ruby>たちが<ruby>気<rt>き</rt></ruby>になるのは、しゃもじで**「ご<ruby>飯<rt>はん</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>を<ruby>押<rt>お</rt></ruby>し<ruby>固<rt>かた</rt></ruby>めて<ruby>整<rt>ととの</rt></ruby>える」**という<ruby>点<rt>てん</rt></ruby>です。
 
-そのため、日本に来た当初、定食屋さんのご飯まで綺麗なドーム型やおにぎり型に整えられているのを見て、思わず「ドキッ」としてしまった記憶があります。
-
-*(※もちろん現在は、日本の美しい盛り付け文化・おにぎり文化として大変美味しくいただいています！)*
+<ruby>実<rt>じつ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>育<rt>そだ</rt></ruby>った<ruby>環境<rt>かんきょう</rt></ruby>では、ご<ruby>飯<rt>はん</rt></ruby>を<ruby>押<rt>お</rt></ruby>し<ruby>固<rt>かた</rt></ruby>める<ruby>行為<rt>こうい</rt></ruby>は「やってはいけないお<ruby>作法<rt>さほう</rt></ruby>」として<ruby>教<rt>おし</rt></ruby>えられてきました。
 
 ---
 
-## 盛り付けでわかる「本場中国料理店」の見つけ方
+## ご<ruby>先祖<rt>せんぞ</rt></ruby><ruby>様<rt>さま</rt></ruby>と<ruby>生<rt>い</rt></ruby>きている<ruby>人間<rt>にんげん</rt></ruby>の<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby>
 
-さて、ここからは「本場中国料理店の見つけ方」についてお話しします。
-実はそれも、**「チャーハンの盛り付け方」**を見れば一目で分かります。
+<ruby>家庭<rt>かてい</rt></ruby>によって<ruby>異<rt>こと</rt></ruby>なる<ruby>部分<rt>ぶぶん</rt></ruby>もありますが、<ruby>私<rt>わたし</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>では<ruby>昔<rt>むかし</rt></ruby>からこう<ruby>教<rt>おし</rt></ruby>えられていました。
 
-日本のみなさんが思い浮かべるチャーハンは、お玉を使ってドーム状に丸く整えられた形ではないでしょうか？
+> **「しゃもじでご<ruby>飯<rt>めし</rt></ruby>をぎゅっと<ruby>押<rt>お</rt></ruby>し<ruby>固<rt>かた</rt></ruby>めるのは、ご<ruby>先祖<rt>せんぞ</rt></ruby><ruby>様<rt>さま</rt></ruby>へのお<ruby>供<rt>そな</rt></ruby>えご<ruby>飯<rt>はん</rt></ruby>だけ。<ruby>生<rt>い</rt></ruby>きている<ruby>人間<rt>にんげん</rt></ruby>が<ruby>食<rt>た</rt></ruby>べるご<ruby>飯<rt>はん</rt></ruby>を<ruby>押<rt>お</rt></ruby>して<ruby>固<rt>かた</rt></ruby>めてはいけない」**
 
-オスカーの個人的な感覚かもしれませんが、綺麗に半球状に押し固められたチャーハンは、香港や中国の感覚からすると「日本向けにアレンジされたスタイル（町中華）」と言えます。
+<ruby>我が家<rt>わがや</rt></ruby>にはご<ruby>先祖<rt>せんぞ</rt></ruby><ruby>様<rt>さま</rt></ruby>の<ruby>位牌<rt>いはい</rt></ruby>（<ruby>仏壇<rt>ぶつだん</rt></ruby>）があり、<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>際<rt>さい</rt></ruby>には、<ruby>炊<rt>た</rt></ruby>きたての<ruby>一番<rt>いちばん</rt></ruby><ruby>最初<rt>さいしょ</rt></ruby>のご<ruby>飯<rt>はん</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>しだけご<ruby>先祖<rt>せんぞ</rt></ruby><ruby>様<rt>さま</rt></ruby>にお<ruby>供<rt>そな</rt></ruby>えしていました。
+その<ruby>際<rt>さい</rt></ruby>、<ruby>神仏<rt>しんぶつ</rt></ruby>やご<ruby>先祖<rt>せんぞ</rt></ruby><ruby>様<rt>さま</rt></ruby>にお<ruby>供<rt>そな</rt></ruby>えするご<ruby>飯<rt>はん</rt></ruby>は、<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>形<rt>かたち</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>えて<ruby>押<rt>お</rt></ruby>し<ruby>固<rt>かた</rt></ruby>めるのが<ruby>作法<rt>さほう</rt></ruby>でした。
 
-本場の中国料理店では、中華鍋からそのままフワッとお皿に移され、パラパラとしたお米の質感がそのまま残るように無造作に盛られます。
+つまり、「ご<ruby>飯<rt>はん</rt></ruby>を<ruby>押<rt>お</rt></ruby>し<ruby>固<rt>かた</rt></ruby>めるかどうか」が、**ご<ruby>先祖<rt>せんぞ</rt></ruby><ruby>様<rt>さま</rt></ruby>へのお<ruby>供<rt>そな</rt></ruby>えと、<ruby>人間<rt>にんげん</rt></ruby>が<ruby>日常<rt>にちじょう</rt></ruby>でいただく<ruby>食事<rt>しょくじ</rt></ruby>との<ruby>境界線<rt>けじめ</rt></ruby>**を<ruby>分<rt>わ</rt></ruby>ける<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>意味<rt>いみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていたのです。
 
-もし街で中華料理店に入った際、チャーハンがドーム型ではなく、お皿の上にふわっとパラパラに盛られて出てきたら、そのお店は「本場の味付け・調理法」に強いこだわりを持っている可能性が高いです！
+そのため、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>当初<rt>とうしょ</rt></ruby>、<ruby>定食<rt>ていしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>さんのご<ruby>飯<rt>はん</rt></ruby>まで<ruby>綺麗<rt>きれい</rt></ruby>なドーム<ruby>型<rt>がた</rt></ruby>やおにぎり<ruby>型<rt>がた</rt></ruby>に<ruby>整<rt>ととの</rt></ruby>えられているのを<ruby>見<rt>み</rt></ruby>て、<ruby>思<rt>おも</rt></ruby>わず「ドキッ」としてしまった<ruby>記憶<rt>きおく</rt></ruby>があります。
+
+*(※もちろん<ruby>現在<rt>げんざい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しい<ruby>盛り付<rt>もりつ</rt></ruby>け<ruby>文化<rt>ぶんか</rt></ruby>・おにぎり<ruby>文化<rt>ぶんか</rt></ruby>として<ruby>大変<rt>たいへん</rt></ruby><ruby>美味<rt>おい</rt></ruby>しくいただいています！)*
 
 ---
 
-## 一目でわかる！日本と中華圏の「ご飯の盛り付け・食文化」比較表
+## <ruby>盛<rt>も</rt></ruby>り<ruby>付<rt>づ</rt></ruby>けでわかる「<ruby>本場<rt>ほんば</rt></ruby><ruby>中国<rt>ちゅうごく</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>」の<ruby>見<rt>み</rt></ruby>つけ<ruby>方<rt>かた</rt></ruby>
 
-| 項目 | 日本の食文化 | 中華圏（香港・中国・台湾）の食文化 |
+さて、ここからは「<ruby>本場<rt>ほんば</rt></ruby><ruby>中国<rt>ちゅうごく</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>の<ruby>見<rt>み</rt></ruby>つけ<ruby>方<rt>かた</rt></ruby>」についてお<ruby>話<rt>はな</rt></ruby>しします。
+<ruby>実<rt>じつ</rt></ruby>はそれも、**「チャーハンの<ruby>盛<rt>も</rt></ruby>り<ruby>付け方<rt>つけかた</rt></ruby>」**を<ruby>見<rt>み</rt></ruby>れば<ruby>一目<rt>いちもく</rt></ruby>で<ruby>分<rt>わ</rt></ruby>かります。
+
+<ruby>日本<rt>にっぽん</rt></ruby>のみなさんが<ruby>思い浮<rt>おもいう</rt></ruby>かべるチャーハンは、お<ruby>玉<rt>たま</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってドーム<ruby>状<rt>じょう</rt></ruby>に<ruby>丸<rt>まる</rt></ruby>く<ruby>整<rt>ととの</rt></ruby>えられた<ruby>形<rt>かたち</rt></ruby>ではないでしょうか？
+
+オスカーの<ruby>個人<rt>こじん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>感覚<rt>かんかく</rt></ruby>かもしれませんが、<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>半球<rt>はんきゅう</rt></ruby><ruby>状<rt>じょう</rt></ruby>に<ruby>押<rt>お</rt></ruby>し<ruby>固<rt>かた</rt></ruby>められたチャーハンは、<ruby>香港<rt>ほんこん</rt></ruby>や<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>からすると「<ruby>日本<rt>にっぽん</rt></ruby><ruby>向<rt>む</rt></ruby>けにアレンジされたスタイル（<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>）」と<ruby>言<rt>い</rt></ruby>えます。
+
+<ruby>本場<rt>ほんば</rt></ruby>の<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>では、<ruby>中華<rt>ちゅうか</rt></ruby><ruby>鍋<rt>なべ</rt></ruby>からそのままフワッとお<ruby>皿<rt>さら</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>され、パラパラとしたお<ruby>米<rt>べい</rt></ruby>の<ruby>質感<rt>しつかん</rt></ruby>がそのまま<ruby>残<rt>のこ</rt></ruby>るように<ruby>無造作<rt>むぞうさ</rt></ruby>に<ruby>盛<rt>も</rt></ruby>られます。
+
+もし<ruby>街<rt>まち</rt></ruby>で<ruby>中華<rt>ちゅうか</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>った<ruby>際<rt>さい</rt></ruby>、チャーハンがドーム<ruby>型<rt>がた</rt></ruby>ではなく、お<ruby>皿<rt>さら</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にふわっとパラパラに<ruby>盛<rt>も</rt></ruby>られて<ruby>出<rt>で</rt></ruby>てきたら、そのお<ruby>店<rt>みせ</rt></ruby>は「<ruby>本場<rt>ほんば</rt></ruby>の<ruby>味付<rt>あじつ</rt></ruby>け・<ruby>調理<rt>ちょうり</rt></ruby><ruby>法<rt>ほう</rt></ruby>」に<ruby>強<rt>つよ</rt></ruby>いこだわりを<ruby>持<rt>も</rt></ruby>っている<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです！
+
+---
+
+## <ruby>一目<rt>いちもく</rt></ruby>でわかる！<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>の「ご<ruby>飯<rt>はん</rt></ruby>の<ruby>盛り付<rt>もりつ</rt></ruby>け・<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>」<ruby>比較<rt>ひかく</rt></ruby><ruby>表<rt>ひょう</rt></ruby>
+
+| <ruby>項目<rt>こうもく</rt></ruby> | <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby> | <ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>（<ruby>香港<rt>ほんこん</rt></ruby>・<ruby>中国<rt>ちゅうごく</rt></ruby>・<ruby>台湾<rt>たいわん</rt></ruby>）の<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby> |
 | :--- | :--- | :--- |
-| **ご飯の形** | **おにぎり・俵型・ドーム型など美しく整える** | **鍋からふわっと自然に盛る（押し固めない）** |
-| **押し固める形への印象** | 「丁寧」「可愛い」「持ち運びに便利」 | 「お墓の盛り土（陰宅）」「ご先祖様へのお供え」を連想 |
-| **チャーハンの盛り付け** | お玉で綺麗な半球状に整える（町中華スタイル） | パラパラ感を活かして平皿に無造作に盛る（本場スタイル） |
-| **食に対する美意識** | 造形美・器との一体感・整然とした美しさ | 「鑊気（ウォックヘイ＝鍋の熱気・香ばしさ）」と自然な食感 |
+| **ご<ruby>飯<rt>はん</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>** | **おにぎり・<ruby>俵<rt>たわら</rt></ruby><ruby>型<rt>がた</rt></ruby>・ドーム<ruby>型<rt>がた</rt></ruby>など<ruby>美<rt>うつく</rt></ruby>しく<ruby>整<rt>ととの</rt></ruby>える** | **<ruby>鍋<rt>なべ</rt></ruby>からふわっと<ruby>自然<rt>しぜん</rt></ruby>に<ruby>盛<rt>も</rt></ruby>る（<ruby>押<rt>お</rt></ruby>し<ruby>固<rt>かた</rt></ruby>めない）** |
+| **<ruby>押<rt>お</rt></ruby>し<ruby>固<rt>かた</rt></ruby>める<ruby>形<rt>かたち</rt></ruby>への<ruby>印象<rt>いんしょう</rt></ruby>** | 「<ruby>丁寧<rt>ていねい</rt></ruby>」「<ruby>可愛<rt>かわい</rt></ruby>い」「<ruby>持ち運<rt>もちはこ</rt></ruby>びに<ruby>便利<rt>べんり</rt></ruby>」 | 「お<ruby>墓<rt>はか</rt></ruby>の<ruby>盛り土<rt>もりつち</rt></ruby>（<ruby>陰<rt>かげ</rt></ruby><ruby>宅<rt>たく</rt></ruby>）」「ご<ruby>先祖<rt>せんぞ</rt></ruby><ruby>様<rt>さま</rt></ruby>へのお<ruby>供<rt>そな</rt></ruby>え」を<ruby>連想<rt>れんそう</rt></ruby> |
+| **チャーハンの<ruby>盛り付<rt>もりつ</rt></ruby>け** | お<ruby>玉<rt>たま</rt></ruby>で<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>半球<rt>はんきゅう</rt></ruby><ruby>状<rt>じょう</rt></ruby>に<ruby>整<rt>ととの</rt></ruby>える（<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>スタイル） | パラパラ<ruby>感<rt>かん</rt></ruby>を<ruby>活<rt>い</rt></ruby>かして<ruby>平皿<rt>ひらざら</rt></ruby>に<ruby>無造作<rt>むぞうさ</rt></ruby>に<ruby>盛<rt>も</rt></ruby>る（<ruby>本場<rt>ほんば</rt></ruby>スタイル） |
+| **<ruby>食<rt>しょく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>美意識<rt>びいしき</rt></ruby>** | <ruby>造形<rt>ぞうけい</rt></ruby><ruby>美<rt>び</rt></ruby>・<ruby>器<rt>うつわ</rt></ruby>との<ruby>一体<rt>いったい</rt></ruby><ruby>感<rt>かん</rt></ruby>・<ruby>整然<rt>せいぜん</rt></ruby>とした<ruby>美<rt>うつく</rt></ruby>しさ | 「<ruby>鑊気<rt>*</rt></ruby>（ウォックヘイ＝<ruby>鍋<rt>なべ</rt></ruby>の<ruby>熱気<rt>ねっき</rt></ruby>・<ruby>香<rt>こう</rt></ruby>ばしさ）」と<ruby>自然<rt>しぜん</rt></ruby>な<ruby>食<rt>しょく</rt></ruby><ruby>感<rt>かん</rt></ruby> |
 
 ---
 
 ## おわりに
 
-今回は、ご飯の盛り付け方にまつわる食文化のカルチャーショックについてお話ししました。
+<ruby>今回<rt>こんかい</rt></ruby>は、ご<ruby>飯<rt>はん</rt></ruby>の<ruby>盛り付<rt>もりつ</rt></ruby>け<ruby>方<rt>かた</rt></ruby>にまつわる<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>のカルチャーショックについてお<ruby>話<rt>はな</rt></ruby>ししました。
 
-「え、そんなところにも違いがあるの？」という日常のちょっとした発見は、異文化のとても面白い魅力です。
+「え、そんなところにも<ruby>違<rt>ちが</rt></ruby>いがあるの？」という<ruby>日常<rt>にちじょう</rt></ruby>のちょっとした<ruby>発見<rt>はっけん</rt></ruby>は、<ruby>異<rt>い</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>のとても<ruby>面白<rt>おもしろ</rt></ruby>い<ruby>魅力<rt>みりょく</rt></ruby>です。
 
-今後もこうした体験談や文化の違いを発信していきますので、ぜひお楽しみに！
+<ruby>今後<rt>こんご</rt></ruby>もこうした<ruby>体験<rt>たいけん</rt></ruby><ruby>談<rt>だん</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いを<ruby>発信<rt>はっしん</rt></ruby>していきますので、ぜひお<ruby>楽<rt>たの</rt></ruby>しみに！
 
-今日も最後まで読んでいただき、ありがとうございました。それでは！
+<ruby>今日<rt>きょう</rt></ruby>も<ruby>最後<rt>さいご</rt></ruby>まで<ruby>読<rt>よ</rt></ruby>んでいただき、ありがとうございました。それでは！
 
 ---
 
-## 📖 あわせて読みたい関連記事
+## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>
 
-[oscss_related slug="culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli" label="カルチャーショック：餃子も炒飯も主食！？炭水化物×炭水化物文化"]
-[oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：街中にゴミ箱がないのになぜ綺麗？"]
+[oscss_related slug="culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli" label="カルチャーショック：<ruby>餃子<rt>ぎょうざ</rt></ruby>も<ruby>炒飯<rt>ちゃーはん</rt></ruby>も<ruby>主食<rt>しゅしょく</rt></ruby>！？<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>×<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>"]
+[oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がないのになぜ<ruby>綺麗<rt>きれい</rt></ruby>？"]
