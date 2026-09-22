@@ -35,7 +35,7 @@ description: "教科書では同じ「否定の強調（Not at all）」とし�
 
 まずは、この2つの言葉が持っている根本的なキャラクターの違いを見てみましょう。
 
-| 比較項目 | <strong><ruby>全然<rt>ぜんぜん</rt></ruby></strong> | <strong><ruby>全く<rt>まったく</rt></ruby></strong> |
+| 比較項目 | <strong><ruby>全然<rt>ぜんぜん</rt></ruby></strong> | <strong><ruby>全<rt>まった</rt></ruby>く</strong> |
 | :--- | :--- | :--- |
 | <strong>視点の置き場所</strong> | <strong>主観的・感情・気持ち</strong>（会話の体感） | <strong>客観的・事実・論理</strong>（白黒の判定） |
 | <strong>肯定文での使用</strong> | ⭕️ <strong>日常会話で大活躍</strong><br>（例: 全然大丈夫、全然平気、全然いいよ） | ❌ <strong>基本的に使わない</strong><br>（「全く大丈夫」は極めて不自然） |
@@ -47,7 +47,7 @@ description: "教科書では同じ「否定の強調（Not at all）」とし�
 
 ## 2. 「全く」の正体：白黒ハッキリ判定する「論理のゼロ」
 
-「<ruby>全く<rt>まったく</rt></ruby>」という言葉の漢字をよく見てみてください。「<ruby>全<rt>すべて</rt></ruby>」という文字が使われています。
+「<ruby>全<rt>まった</rt></ruby>く」という言葉の漢字をよく見てみてください。「<ruby>全<rt>すべて</rt></ruby>」という文字が使われています。
 
 この言葉の核にあるのは、<strong>「100%（すべて）」か「0%（ゼロ）」かの客観的な事実判定</strong>です。
 

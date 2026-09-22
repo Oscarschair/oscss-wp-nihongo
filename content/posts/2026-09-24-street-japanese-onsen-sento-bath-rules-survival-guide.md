@@ -41,7 +41,7 @@ description: "全裸で他人と同じ湯船に浸かる日本の温泉・銭湯
 
 ## クエスト1：最初の関門「かけ湯」の儀式
 
-大浴場の扉を開けてまず目に入るのが、入り口付近にある大きな湯だまり、通称<strong>「<ruby>かけ湯<rt>かけゆ</rt></ruby>」</strong>コーナーです。
+大浴場の扉を開けてまず目に入るのが、入り口付近にある大きな湯だまり、通称<strong>「かけ<ruby>湯<rt>ゆ</rt></ruby>」</strong>コーナーです。
 
 ![銭湯の洗い場で木桶のお湯を足先や肩に丁寧にかけ、笑顔で「かけ湯」の作法を実践するオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/onsen-kakeyu-towel-head-oscar.jpg)
 

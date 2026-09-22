@@ -69,7 +69,7 @@ description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に
 
 ### 「すみません」の語源は「私の心が澄まない（済まない）」
 
-「すみません」は、動詞<strong>「<ruby>済む<rt>すむ</rt></ruby>」</strong>の否定形です。
+「すみません」は、動詞<strong>「<ruby>済<rt>す</rt></ruby>む」</strong>の否定形です。
 
 * 物事が完了して一件落着する。
 * 自分の気持ちがスッキリと納得し、澄み渡る（おさまりがつく）。

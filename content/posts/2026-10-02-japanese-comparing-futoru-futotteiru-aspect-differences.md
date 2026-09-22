@@ -38,8 +38,8 @@ tags:
 
 | 表現 | 品詞 | 意味・ニュアンス | 時間軸のイメージ | 実例 |
 | :--- | :--- | :--- | :--- | :--- |
-| <strong><ruby>太る<rt>ふとる</rt></ruby></strong> | 瞬間的な変化動詞（基本形・辞書形） | <strong>これから体重が増える（未来・習慣）</strong> | ➡️ 過去から未来へ体重が増加していくプロセス | 「夜中にラーメンを食べると<strong>太る</strong>よ」 |
-| <strong><ruby>太っている<rt>ふとっている</rt></ruby></strong> | 「〜ている」形（状態動詞化） | <strong>太った結果、今その体型がキープされている（現在の状態）</strong> | 📍 変化が完了し、現在の姿として定着している | 「あの力士はとても<strong>太っている</strong>」 |
+| <strong><ruby>太<rt>ふと</rt></ruby>る</strong> | 瞬間的な変化動詞（基本形・辞書形） | <strong>これから体重が増える（未来・習慣）</strong> | ➡️ 過去から未来へ体重が増加していくプロセス | 「夜中にラーメンを食べると<strong>太る</strong>よ」 |
+| <strong><ruby>太<rt>ふと</rt></ruby>っている</strong> | 「〜ている」形（状態動詞化） | <strong>太った結果、今その体型がキープされている（現在の状態）</strong> | 📍 変化が完了し、現在の姿として定着している | 「あの力士はとても<strong>太っている</strong>」 |
 
 ![太るという未来への変化と太っているという現在の状態を比べるクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/futoru-futotteiru-aspect-scale.jpg)
 
