@@ -3,7 +3,7 @@ title: "カフェで「スマホを置いて席を離れる」日本人の謎—
 description: "日本のカフェで、最新のスマホや財布、ノートパソコンをテーブルに置いたままトイレに行く日本人を見て驚愕したことはありませんか？海外では「1秒で盗まれる」タブー行為が、なぜ日本では平然と行われているのか？日本独特の「席取り」事情と、落とし物が戻ってくる驚異の治安の深層に迫ります！"
 slug: "culture-shock-leaving-smartphone-unattended-cafe-japan"
 date: "2026-09-30T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-cafe-leaving-smartphone-v2.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-cafe-leaving-smartphone.jpg"
 categories:
   - "カルチャーショック！"
 tags:
@@ -42,7 +42,7 @@ tags:
 理由はとてもシンプルです。
 日本のカフェでは、<strong>「注文する前に、まず自分の座る席を確保（キープ）しなければならない」</strong>という暗黙のルール（通称：<strong>席取り・場所取り</strong>）があるからです！
 
-![カフェのテーブルにスマホを置いたまま席を離れる光景に目を丸くして驚くクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/cafe-leaving-smartphone-unattended-confusion-v2.jpg)
+![カフェのテーブルにスマホを置いたまま席を離れる光景に目を丸くして驚くクルマ](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/cafe-leaving-smartphone-unattended-confusion.jpg)
 
 ### ☕ 「注文後に行き場を失う」恐怖！
 海外のカフェでは、レジで注文してドリンクを受け取ってから空いている席を探すスタイルも一般的です。
