@@ -341,14 +341,59 @@ foreach ($data as $item) {
 
     // カテゴリーIDの特定
     $cat_ids = array();
+    $cat_map = array(
+        '街角サバイバル' => 7,
+        '街角日本語サバイバル' => 7,
+        '街角日本語' => 7,
+        'street-survival' => 7,
+        'street-japanese' => 7,
+        'くらべてみました' => 2,
+        'くらべて納得！' => 2,
+        'くらべて納得' => 2,
+        'comparing' => 2,
+        'comparing-japanese' => 2,
+        'ことばのあや' => 4,
+        'kotoba-no-aya' => 4,
+        'カルチャーショック' => 5,
+        'カルチャーショック！' => 5,
+        'culture-shock' => 5,
+    );
     if (!empty($item['cats'])) {
-        foreach ($item['cats'] as $cslug) {
-            $cat_obj = get_category_by_slug($cslug);
+        foreach ($item['cats'] as $cval) {
+            $cval_clean = trim(str_replace(array('"', "'", '！', '!'), '', $cval));
+            if (isset($cat_map[$cval])) {
+                $cat_ids[] = $cat_map[$cval];
+                continue;
+            }
+            if (isset($cat_map[$cval_clean])) {
+                $cat_ids[] = $cat_map[$cval_clean];
+                continue;
+            }
+            $cat_obj = get_category_by_slug($cval);
             if ($cat_obj) {
                 $cat_ids[] = $cat_obj->term_id;
+                continue;
+            }
+            $cat_obj = get_term_by('name', $cval, 'category');
+            if ($cat_obj) {
+                $cat_ids[] = $cat_obj->term_id;
+                continue;
             }
         }
     }
+    // フォールバック: スラッグプレフィックスから特定
+    if (empty($cat_ids)) {
+        if (strpos($slug, 'street-japanese') !== false || strpos($slug, 'street-') !== false) {
+            $cat_ids[] = 7;
+        } elseif (strpos($slug, 'culture-shock') !== false) {
+            $cat_ids[] = 5;
+        } elseif (strpos($slug, 'comparing') !== false) {
+            $cat_ids[] = 2;
+        } elseif (strpos($slug, 'kotoba-no-aya') !== false) {
+            $cat_ids[] = 4;
+        }
+    }
+    $cat_ids = array_values(array_unique($cat_ids));
 
     // アイキャッチ画像の取得/登録
     $thumb_id = 0;
@@ -397,12 +442,23 @@ foreach ($data as $item) {
         if (!empty($cat_ids)) {
             $post_arr['post_category'] = $cat_ids;
         }
+        if (!empty($item['date'])) {
+            $post_date = substr(str_replace('T', ' ', $item['date']), 0, 19);
+            $post_status = (strtotime($post_date) > current_time('timestamp')) ? 'future' : 'publish';
+            $post_arr['post_date'] = $post_date;
+            $post_arr['post_date_gmt'] = get_gmt_from_date($post_date);
+            $post_arr['post_status'] = $post_status;
+        }
         wp_update_post($post_arr);
+
+        if (!empty($cat_ids)) {
+            wp_set_post_categories($p->ID, $cat_ids);
+        }
 
         if ($thumb_id > 0) {
             set_post_thumbnail($p->ID, $thumb_id);
         }
-        echo "Successfully repaired post ID: {$p->ID} (slug: {$slug})\n";
+        echo "Successfully repaired post ID: {$p->ID} (slug: {$slug}, cats: " . implode(',', $cat_ids) . ")\n";
         $updated++;
     } else {
         // 新規投稿の作成
