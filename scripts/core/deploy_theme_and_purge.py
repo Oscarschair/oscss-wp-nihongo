@@ -38,10 +38,11 @@ def sftp_mkdir_p(remote_directory):
             sftp.mkdir(d)
 
 def upload_file_smart(local_path, target_remote):
-    local_size = os.path.getsize(local_path)
+    local_mtime = os.path.getmtime(local_path)
     try:
         r_stat = sftp.stat(target_remote)
-        if r_stat.st_size == local_size:
+        # If remote is newer or equal and same size, skip
+        if r_stat.st_size == os.path.getsize(local_path) and r_stat.st_mtime >= local_mtime:
             return  # Already up-to-date
     except:
         pass

@@ -26,10 +26,10 @@ function oscss_nihongo_vs_shortcode( $atts ) {
 		'nihongo_vs'
 	);
 
-	$title = esc_html( $atts['title'] );
-	$word1 = esc_html( $atts['word1'] );
+	$title = wp_kses_post( $atts['title'] );
+	$word1 = wp_kses_post( $atts['word1'] );
 	$desc1 = wp_kses_post( $atts['desc1'] );
-	$word2 = esc_html( $atts['word2'] );
+	$word2 = wp_kses_post( $atts['word2'] );
 	$desc2 = wp_kses_post( $atts['desc2'] );
 
 	return sprintf(
@@ -72,9 +72,9 @@ function oscss_nihongo_nuance_shortcode( $atts ) {
 		'nihongo_nuance'
 	);
 
-	$word    = esc_html( $atts['word'] );
-	$meaning = esc_html( $atts['meaning'] );
-	$example = esc_html( $atts['example'] );
+	$word    = wp_kses_post( $atts['word'] );
+	$meaning = wp_kses_post( $atts['meaning'] );
+	$example = wp_kses_post( $atts['example'] );
 
 	$html  = '<div class="c-nihongo-nuance">';
 	$html .= '<div class="c-nihongo-nuance__word">💡 ' . $word . '</div>';
@@ -182,7 +182,7 @@ function oscss_related_post_shortcode( $atts ) {
 	$title     = get_the_title( $post_id );
 	$thumb_url = oscss_get_thumbnail_url( $post_id, 'medium' );
 	$excerpt   = oscss_get_clean_excerpt( $target_post, 90 );
-	$label     = esc_html( $atts['label'] );
+	$label     = wp_kses_post( $atts['label'] );
 
 	return sprintf(
 		'<aside class="c-blog-card-wrap">
@@ -193,16 +193,17 @@ function oscss_related_post_shortcode( $atts ) {
 					</div>
 					<div class="c-blog-card__body">
 						<span class="c-blog-card__label">📖 %4$s</span>
-						<div class="c-blog-card__title">%3$s</div>
-						<div class="c-blog-card__desc">%5$s</div>
+						<div class="c-blog-card__title">%5$s</div>
+						<div class="c-blog-card__desc">%6$s</div>
 					</div>
 				</div>
 			</a>
 		</aside>',
 		esc_url( $permalink ),
 		esc_url( $thumb_url ),
-		esc_attr( $title ),
+		esc_attr( oscss_get_clean_title( $post_id ) ),
 		$label,
+		wp_kses_post( $title ),
 		esc_html( $excerpt )
 	);
 }
@@ -259,13 +260,13 @@ function oscss_series_list_shortcode( $atts ) {
 		return '';
 	}
 
-	$title      = esc_html( $atts['title'] );
+	$title      = wp_kses_post( $atts['title'] );
 	$items_html = '';
 	$index      = 1;
 
 	foreach ( $posts as $p ) {
 		$is_current = ( $p->ID === $current_id );
-		$item_title = esc_html( get_the_title( $p->ID ) );
+		$item_title = wp_kses_post( get_the_title( $p->ID ) );
 		$url        = esc_url( get_permalink( $p->ID ) );
 
 		if ( $is_current ) {

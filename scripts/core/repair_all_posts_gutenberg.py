@@ -48,8 +48,31 @@ def md_to_gutenberg(md_text):
                 i += 1
             if i < len(lines):
                 i += 1 # skip closing ```
-            code_content = html.escape("\n".join(codelines))
-            blocks.append(f"<!-- wp:preformatted -->\n<pre class=\"wp-block-preformatted\">{code_content}</pre>\n<!-- /wp:preformatted -->")
+            
+            raw_joined = "\n".join(codelines)
+            # Check if this is an RPG command block (contains 【, コマンド, ▶, or ➔)
+            if any(k in raw_joined for k in ['【', 'コマンド', '▶', '➔']):
+                cmd_title = ""
+                items = []
+                for cl in codelines:
+                    cl_str = cl.strip()
+                    if not cl_str or re.match(r'^-+$', cl_str):
+                        continue
+                    if cl_str.startswith('【') and '】' in cl_str:
+                        cmd_title = format_inline_markdown(cl_str)
+                    elif cl_str.startswith('▶'):
+                        item_content = re.sub(r'^▶\s*', '', cl_str)
+                        items.append(format_inline_markdown(item_content))
+                    else:
+                        items.append(format_inline_markdown(cl_str))
+                
+                title_html = f'<div class="c-command-box__title">{cmd_title}</div>' if cmd_title else ''
+                items_html = "\n".join([f'<li class="c-command-box__item"><span class="c-command-box__cursor">▶</span><span>{it}</span></li>' for it in items])
+                cmd_box_html = f'<div class="c-command-box">\n  {title_html}\n  <ul class="c-command-box__list">\n{items_html}\n  </ul>\n</div>'
+                blocks.append(f"<!-- wp:html -->\n{cmd_box_html}\n<!-- /wp:html -->")
+            else:
+                code_content = html.escape(raw_joined)
+                blocks.append(f"<!-- wp:preformatted -->\n<pre class=\"wp-block-preformatted\">{code_content}</pre>\n<!-- /wp:preformatted -->")
             continue
 
         # 1. Blockquote / Dialogue (> ...)
@@ -120,22 +143,26 @@ def md_to_gutenberg(md_text):
                         avatar = "https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/my-icon.png"
                     else:
                         position = "r"
-                        if any(k in clean_sp for k in ['店員', '美容師', '女性', '同僚B']):
-                            avatar = "https://nihongo.oscarchair.jp/wp-content/themes/cocoon-master/images/woman.png"
-                        else:
-                            avatar = "https://nihongo.oscarchair.jp/wp-content/themes/cocoon-master/images/man.png"
+                        avatar = "https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/avatar-staff.svg"
                     
                     body_formatted = [format_inline_markdown(bl) for bl in ct_lines if bl]
                     body_html = "<br />".join(body_formatted) if body_formatted else ""
                     
-                    blocks.append(f"""<!-- wp:cocoon-blocks/balloon {{"balloonIcon":"{avatar}","balloonName":"{clean_sp}","balloonType":"{position}"}} -->
-<div class="speech-wrap sb-id-1 sbs-stn speaker-{position} sb-color-none"><div class="speech-person"><figure class="speech-icon"><img src="{avatar}" alt="{clean_sp}" class="speech-icon-image"/></figure><div class="speech-name">{clean_sp}</div></div><div class="speech-comment"><p>{body_html}</p></div></div>
-<!-- /wp:cocoon-blocks/balloon -->""")
+                    balloon_html = f"""<div class="c-balloon c-balloon--{position}">
+  <div class="c-balloon__speaker">
+    <img src="{avatar}" alt="{clean_sp}" class="c-balloon__avatar" loading="lazy" />
+    <span class="c-balloon__name">{clean_sp}</span>
+  </div>
+  <div class="c-balloon__bubble">
+    <p>{body_html}</p>
+  </div>
+</div>"""
+                    blocks.append(f"<!-- wp:html -->\n{balloon_html}\n<!-- /wp:html -->")
             else:
                 # Normal quote / information box
                 box_lines = [format_inline_markdown(ql) for ql in qlines]
                 box_fmt = "<br />".join(box_lines)
-                blocks.append(f"<!-- wp:paragraph -->\n<div class=\"information-box\"><p>{box_fmt}</p></div>\n<!-- /wp:paragraph -->")
+                blocks.append(f"<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>{box_fmt}</p></blockquote>\n<!-- /wp:quote -->")
             continue
 
         # 2. Headings
