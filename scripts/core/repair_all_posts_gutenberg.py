@@ -136,6 +136,7 @@ def md_to_gutenberg(md_text):
                 for sp, ct_lines in dialogue_items:
                     # Clean speaker name from icons or emojis
                     clean_sp = re.sub(r'^[💬💡🗣️\s]+', '', sp).strip()
+                    clean_sp_plain = html.escape(re.sub(r'<[^>]+>', '', clean_sp))
                     
                     # Determine avatar and position
                     if any(k in clean_sp for k in ['オスカー', 'あなた', '私', '僕', '客側', '本音']):
@@ -150,7 +151,7 @@ def md_to_gutenberg(md_text):
                     
                     balloon_html = f"""<div class="c-balloon c-balloon--{position}">
   <div class="c-balloon__speaker">
-    <img src="{avatar}" alt="{clean_sp}" class="c-balloon__avatar" loading="lazy" />
+    <img src="{avatar}" alt="{clean_sp_plain}" class="c-balloon__avatar" loading="lazy" />
     <span class="c-balloon__name">{clean_sp}</span>
   </div>
   <div class="c-balloon__bubble">
@@ -488,16 +489,20 @@ foreach ($data as $item) {
         }
         wp_update_post($post_arr);
 
-        // sanitize_post による <ruby> タグ除去を回避し、HTMLルビを正本として保存
+        // sanitize_post / kses による <ruby> や HTMLタグのエスケープ・除去を回避し、正本として直接保存
+        global $wpdb;
+        $update_fields = array(
+            'post_content' => $item['html']
+        );
         if (!empty($item['title'])) {
-            global $wpdb;
-            $wpdb->update(
-                $wpdb->posts,
-                array('post_title' => $item['title']),
-                array('ID' => $p->ID)
-            );
-            clean_post_cache($p->ID);
+            $update_fields['post_title'] = $item['title'];
         }
+        $wpdb->update(
+            $wpdb->posts,
+            $update_fields,
+            array('ID' => $p->ID)
+        );
+        clean_post_cache($p->ID);
 
         if (!empty($cat_ids)) {
             wp_set_post_categories($p->ID, $cat_ids);
@@ -526,15 +531,19 @@ foreach ($data as $item) {
         );
         $new_id = wp_insert_post($new_post);
         if (!is_wp_error($new_id) && $new_id > 0) {
+            global $wpdb;
+            $update_fields = array(
+                'post_content' => $item['html']
+            );
             if (!empty($item['title'])) {
-                global $wpdb;
-                $wpdb->update(
-                    $wpdb->posts,
-                    array('post_title' => $item['title']),
-                    array('ID' => $new_id)
-                );
-                clean_post_cache($new_id);
+                $update_fields['post_title'] = $item['title'];
             }
+            $wpdb->update(
+                $wpdb->posts,
+                $update_fields,
+                array('ID' => $new_id)
+            );
+            clean_post_cache($new_id);
             update_post_meta($new_id, '_oscss_post_views', 0);
             if ($thumb_id > 0) {
                 set_post_thumbnail($new_id, $thumb_id);

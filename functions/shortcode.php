@@ -260,8 +260,10 @@ function oscss_series_list_shortcode( $atts ) {
 		return '';
 	}
 
-	$title      = wp_kses_post( $atts['title'] );
-	$items_html = '';
+	$title = wp_kses_post( $atts['title'] );
+	if ( preg_match( '/^(.*?[」』])\s*(.*)$/u', $title, $m ) ) {
+		$title = '<span class="c-series-box__title-part">' . $m[1] . '</span> <span class="c-series-box__title-part">' . $m[2] . '</span>';
+	}
 	$index      = 1;
 
 	foreach ( $posts as $p ) {
