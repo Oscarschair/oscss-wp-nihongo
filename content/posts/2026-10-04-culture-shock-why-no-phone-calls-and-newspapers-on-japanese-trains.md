@@ -1,6 +1,8 @@
 ---
 title: "カルチャーショック：なぜ日本の電車では電話もダメで、新聞紙を広げるのもNGなの！？——「音と空間」の沈黙マナーと、嫌な電話を1秒で切る最強の裏ワザ"
-date: "2026-10-04 07:00:00"
+description: "香港や欧米の地下鉄では当たり前の大声通話や新聞広げが、なぜ日本の満員電車では一発アウトなのか？「片側だけの会話（ハーフログ）」が脳に与えるストレス心理学と、1人45cmのパーソナルスペースを守る「電車折り」の職人技を徹底解剖。さらに、面倒な電話を「今、電車なので…」と1秒で平和に遮断する日本社会最強の無敵ライフハックまで完全伝授！"
+slug: "culture-shock-why-no-phone-calls-and-newspapers-on-japanese-trains"
+date: "2026-10-04T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-train-silence-phone.jpg"
 categories:
   - "カルチャーショック！"
