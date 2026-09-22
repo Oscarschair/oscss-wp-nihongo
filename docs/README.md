@@ -14,6 +14,11 @@
 | **ADR（意思決定ログ）** | 設計判断・技術選定の経緯記録 | [adr/](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/) |
 | **運用・障害対応手順書** | キャッシュ管理、日常保守、トラブルシューティング | [ops/](file:///c:/Users/user/git/oscss-wp-nihongo/docs/ops/) |
 
+### 📝 主な Architecture Decision Records (ADR)
+- [0001: テーマ基本アーキテクチャ設計](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0001-theme-architecture.md)
+- [0002: SEOモジュラーリファクタリング](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0002-seo-modular-refactoring.md)
+- [0003: 外国人学習者向け全記事・全漢字へのHTML5ルビ（<ruby><rt>）標準適用方針](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0003-universal-kanji-ruby-policy.md)
+
 ---
 
 ## 📜 プロジェクト開発・ドキュメント運用憲章 4 大原則

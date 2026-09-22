@@ -46,3 +46,32 @@
 | `oscss_posted_on()` | `void` (HTML出力) | 公開日および更新日のフォーマット済みHTMLを出力 |
 | `oscss_entry_category()` | `void` (HTML出力) | カテゴリーバッジ一覧を出力 |
 | `oscss_breadcrumb()` | `void` (HTML出力) | 構造化されたパンくずリストを出力 |
+
+---
+
+## 4. タイポグラフィ・組版仕様（ルビースタイル）
+
+外国人学習者向けに、記事本文内のすべての漢字に対してHTML5ルビタグ（`<ruby><rt>`）を標準適用する（詳細は [ADR 0003](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0003-universal-kanji-ruby-policy.md) 参照）。
+
+### 4.1 組版ルール
+- **漢字限定原則**: 送り仮名・接頭辞・カタカナ語にはルビを付与せず、純粋な漢字部分のみを `<ruby>` で囲む（例: `<ruby>太<rt>ふと</rt></ruby>る`、`お<ruby>冷<rt>ひや</rt></ruby>`、`<ruby>紙<rt>かみ</rt></ruby>エプロン`）。
+- **カッコ読み行の廃止**: 漢字頭上へのルビ配置に伴い、文末や直下の重複ひらがな読み行（例: `（すみません、おひやは どこに ありますか？）`）は全廃する。
+
+### 4.2 CSSスタイル仕様
+```css
+ruby {
+	ruby-position: over;
+	ruby-align: center;
+	display: inline-ruby;
+}
+
+rt {
+	font-size: 0.62em;
+	color: var(--color-primary);
+	font-weight: 600;
+	letter-spacing: 0.02em;
+	line-height: 1;
+	user-select: none; /* コピペ時のルビ文字混入防止 */
+}
+```
+
