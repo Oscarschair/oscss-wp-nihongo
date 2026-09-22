@@ -1,6 +1,12 @@
 {
   "description": "oscss-wp-nihongo Lifecycle Hooks Configuration",
   "hooks": {
+    "topic_proposal": [
+      {
+        "agent": "theme-planner",
+        "description": "新規テーマ提案時の過去全記事（37記事以上）との重複・カニバリゼーション自動監査および4大カテゴリーローテーション最適化"
+      }
+    ],
     "post_image_generation": [
       {
         "agent": "image-reviewer",
