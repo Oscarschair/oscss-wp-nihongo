@@ -187,7 +187,7 @@ def md_to_gutenberg(md_text):
                 for row_line in tlines[2:]:
                     cols = [format_inline_markdown(c.strip()) for c in row_line.strip('|').split('|')]
                     rows.append(cols)
-                table_html = "<figure class=\"wp-block-table\"><table><thead><tr>"
+                table_html = "<figure class=\"wp-block-table c-article-table-wrap\"><table class=\"c-article-table\"><thead><tr>"
                 for h in header_cols:
                     table_html += f"<th>{h}</th>"
                 table_html += "</tr></thead><tbody>"
@@ -197,7 +197,7 @@ def md_to_gutenberg(md_text):
                         table_html += f"<td>{cell}</td>"
                     table_html += "</tr>"
                 table_html += "</tbody></table></figure>"
-                blocks.append(f"<!-- wp:table -->\n{table_html}\n<!-- /wp:table -->")
+                blocks.append(f"<!-- wp:table {{\"className\":\"c-article-table-wrap\"}} -->\n{table_html}\n<!-- /wp:table -->")
             continue
 
         # 6. Shortcode block ([...])

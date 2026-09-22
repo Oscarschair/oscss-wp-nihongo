@@ -159,11 +159,21 @@ a:hover {
 
 @media (max-width: 640px) {
 	.l-header__logo-main {
-		font-size: 1.18rem;
+		font-size: 1.15rem;
 	}
 	.l-header__logo-sub {
-		font-size: 0.59rem;
-		letter-spacing: 0.29em;
+		font-size: 0.58rem;
+		letter-spacing: 0.25em;
+	}
+}
+
+@media (max-width: 380px) {
+	.l-header__logo-main {
+		font-size: 1.02rem;
+	}
+	.l-header__logo-sub {
+		font-size: 0.52rem;
+		letter-spacing: 0.16em;
 	}
 }
 
@@ -3021,6 +3031,73 @@ section .ad-placeholder,
 	margin-bottom: 0;
 }
 
+/* PC時の関連記事カード：抜粋文を最大3行に制限して高さを揃える */
+.c-related-posts__grid .c-card__excerpt {
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	margin-bottom: var(--space-3);
+}
+
+/* SP時の関連記事：コンパクト横並びリスト形式（縦スクロール約80%削減） */
+@media (max-width: 639px) {
+	.c-related-posts__grid {
+		display: flex !important;
+		flex-direction: column !important;
+		gap: var(--space-3) !important;
+	}
+
+	.c-related-posts__grid .c-card {
+		flex-direction: row !important;
+		align-items: center !important;
+		padding: var(--space-3) !important;
+		gap: var(--space-3) !important;
+		border-radius: var(--radius-md) !important;
+		box-shadow: none !important;
+	}
+
+	.c-related-posts__grid .c-card__media {
+		width: 96px !important;
+		height: 64px !important;
+		flex-shrink: 0 !important;
+		border-radius: var(--radius-sm) !important;
+		aspect-ratio: auto !important;
+	}
+
+	.c-related-posts__grid .c-card__media .c-card__category {
+		display: none !important;
+	}
+
+	.c-related-posts__grid .c-card__body {
+		padding: 0 !important;
+		flex-grow: 1 !important;
+		min-width: 0 !important;
+	}
+
+	.c-related-posts__grid .c-card__title {
+		font-size: var(--text-sm) !important;
+		line-height: 1.35 !important;
+		margin-bottom: 4px !important;
+		display: -webkit-box !important;
+		-webkit-line-clamp: 2 !important;
+		-webkit-box-orient: vertical !important;
+		overflow: hidden !important;
+	}
+
+	.c-related-posts__grid .c-card__meta {
+		margin-bottom: 0 !important;
+		font-size: 11px !important;
+		gap: var(--space-1) !important;
+	}
+
+	.c-related-posts__grid .c-card__excerpt,
+	.c-related-posts__grid .c-card__footer,
+	.c-related-posts__grid .c-post-meta__views {
+		display: none !important;
+	}
+}
+
 /* ==========================================================================
    20. Inline Blog Card (記事内ブログカード / 内部リンク強化)
    ========================================================================== */
@@ -3241,6 +3318,95 @@ section .ad-placeholder,
 		font-size: 11px;
 	}
 }
+
+/* ==========================================================================
+   21. Article Tables (投稿内テーブル / レスポンシブ横スクロール設計)
+   ========================================================================== */
+.wp-block-table,
+.c-article-table-wrap {
+	margin: var(--space-6) 0;
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+	border-radius: var(--radius-md);
+	border: 1px solid var(--color-border);
+	background: #ffffff;
+	box-shadow: var(--shadow-sm);
+	position: relative;
+}
+
+.wp-block-table table,
+.c-article-table {
+	width: 100%;
+	min-width: 500px; /* SPでセルが1文字改行で潰れるのを完全に防止 */
+	border-collapse: collapse;
+	font-size: var(--text-sm);
+	text-align: left;
+}
+
+.wp-block-table th,
+.c-article-table th {
+	background-color: #f1f5f9;
+	color: var(--color-text-main);
+	font-weight: 700;
+	padding: var(--space-3) var(--space-4);
+	border-bottom: 2px solid var(--color-border);
+	border-right: 1px solid var(--color-border);
+	white-space: nowrap; /* ヘッダーの文字が縦書きのように改行されるのを防止 */
+	font-size: var(--text-xs);
+	letter-spacing: 0.04em;
+}
+
+.wp-block-table th:last-child,
+.c-article-table th:last-child {
+	border-right: none;
+}
+
+.wp-block-table td,
+.c-article-table td {
+	padding: var(--space-3) var(--space-4);
+	border-bottom: 1px solid var(--color-border);
+	border-right: 1px solid var(--color-border);
+	color: var(--color-text-main);
+	line-height: var(--lh-normal);
+	vertical-align: top;
+	font-size: var(--text-sm);
+}
+
+.wp-block-table td:last-child,
+.c-article-table td:last-child {
+	border-right: none;
+}
+
+.wp-block-table tr:last-child td,
+.c-article-table tr:last-child td {
+	border-bottom: none;
+}
+
+.wp-block-table tbody tr:nth-child(even),
+.c-article-table tbody tr:nth-child(even) {
+	background-color: #f8fafc;
+}
+
+.wp-block-table tbody tr:hover,
+.c-article-table tbody tr:hover {
+	background-color: #f1f5f9;
+}
+
+/* SP用横スクロールヒント */
+@media (max-width: 639px) {
+	.wp-block-table::after,
+	.c-article-table-wrap::after {
+		content: "👉 横スクロールで全体を表示できます";
+		display: block;
+		text-align: right;
+		font-size: 11px;
+		color: var(--color-text-muted);
+		padding: 4px 10px;
+		background: #f8fafc;
+		border-top: 1px dashed var(--color-border);
+	}
+}
+
 
 
 
