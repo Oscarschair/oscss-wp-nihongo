@@ -72,11 +72,15 @@ function oscss_enqueue_scripts() {
 	);
 
 	// Design Tokens CSS
+	$tokens_css_ver = file_exists( OSCSS_THEME_DIR . '/assets/css/tokens.css' )
+		? filemtime( OSCSS_THEME_DIR . '/assets/css/tokens.css' )
+		: OSCSS_THEME_VERSION;
+
 	wp_enqueue_style(
 		'oscss-tokens',
 		OSCSS_THEME_URI . '/assets/css/tokens.css',
 		array(),
-		OSCSS_THEME_VERSION
+		$tokens_css_ver
 	);
 
 	// Main CSS

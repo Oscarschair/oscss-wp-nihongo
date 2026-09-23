@@ -97,7 +97,7 @@ a:hover {
 }
 
 .l-container--narrow {
-	max-width: var(--container-narrow);
+	max-width: var(--container-max);
 }
 
 .l-header {
@@ -3989,13 +3989,31 @@ rt {
 }
 
 /* --------------------------------------------------
- * Google AdSense サイドレール広告 / 自動広告の前面被り完全防止
+ * Google AdSense サイドレール広告（画面両側固定広告）の画面幅制御
+ * メインコンテンツ幅(1120px) + 左右広告スペース(各160px) = 1440px
+ * 1440px未満ではコンテンツへの被り・浸食を防ぐため両側のサイドレール広告を非表示にする
+ * 1440px以上のワイドスクリーンでのみ両側に表示
  * -------------------------------------------------- */
-.google-auto-placed,
-ins.adsbygoogle[data-ad-status],
-iframe[id^="aswift_"],
-#google_esf {
-	z-index: 80 !important;
+@media screen and (max-width: 1439px) {
+	.google-auto-placed[style*="fixed"],
+	.google-auto-placed:has(ins[data-ad-format*="rail"]),
+	ins.adsbygoogle[data-ad-format*="rail"],
+	div[id^="google_ads_iframe"][style*="fixed"],
+	div:has(> iframe[id^="aswift_"][style*="fixed"]) {
+		display: none !important;
+		visibility: hidden !important;
+		opacity: 0 !important;
+		pointer-events: none !important;
+	}
+}
+
+@media screen and (min-width: 1440px) {
+	.google-auto-placed,
+	ins.adsbygoogle[data-ad-status],
+	iframe[id^="aswift_"],
+	#google_esf {
+		z-index: 80 !important;
+	}
 }
 
 

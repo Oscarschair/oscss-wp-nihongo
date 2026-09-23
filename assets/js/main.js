@@ -15,7 +15,45 @@
 		initViewTracker();
 		cleanWidgets();
 		initAdSenseSectionGuard();
+		initSideRailAdsGuard();
 	});
+
+	/**
+	 * サイドレール広告（Side Rail Ads）の画面幅判定制御
+	 * メインコンテンツ(1120px) + 左右広告(各160px) = 1440px
+	 * 1440px未満ではコンテンツへの被り・浸食を防ぐため非表示にし、1440px以上でのみ両側に表示
+	 */
+	function initSideRailAdsGuard() {
+		var handleSideRails = function () {
+			var isWideScreen = window.innerWidth >= 1440;
+			var fixedAds = document.querySelectorAll(
+				'.google-auto-placed[style*="fixed"], ' +
+				'ins.adsbygoogle[data-ad-format*="rail"], ' +
+				'div[id^="google_ads_iframe"][style*="fixed"]'
+			);
+
+			fixedAds.forEach(function (el) {
+				if (isWideScreen) {
+					el.style.removeProperty('display');
+					el.style.removeProperty('visibility');
+					el.style.setProperty('z-index', '80', 'important');
+				} else {
+					el.style.setProperty('display', 'none', 'important');
+					el.style.setProperty('visibility', 'hidden', 'important');
+				}
+			});
+		};
+
+		handleSideRails();
+		window.addEventListener('resize', handleSideRails);
+		setTimeout(handleSideRails, 1500);
+		setTimeout(handleSideRails, 3500);
+
+		if (window.MutationObserver) {
+			var observer = new MutationObserver(handleSideRails);
+			observer.observe(document.body, { childList: true, subtree: true });
+		}
+	}
 
 	/**
 	 * Sectionタグおよび指定コンポーネント内へのAdSense自動広告侵入の動的排除ガード
