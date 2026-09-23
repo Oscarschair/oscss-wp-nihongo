@@ -1,11 +1,12 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>試練<rt>しれん</rt></ruby>｜<ruby>視界<rt>しかい</rt></ruby>ゼロのシャンプー<ruby>台<rt>だい</rt></ruby>で「<ruby>痒<rt>かゆ</rt></ruby>いところは？」と<ruby>聞<rt>き</rt></ruby>かれた<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>決断<rt>けつだん</rt></ruby>"
+title: "街角サバイバル：<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>試練<rt>しれん</rt></ruby>｜<ruby>視界<rt>しかい</rt></ruby>ゼロのシャンプー<ruby>台<rt>だい</rt></ruby>で「<ruby>痒<rt>かゆ</rt></ruby>いところは？」と<ruby>聞<rt>き</rt></ruby>かれた<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>決断<rt>けつだん</rt></ruby>"
 slug: "street-japanese-hair-salon-survival-shampoo-trap-guide"
 date: "2026-09-11T09:00:00+09:00"
 categories:
-  - "street-japanese"
+  - "街角サバイバル"
 tags:
   - "街角サバイバル"
+  - "サバイバル"
   - "美容室"
   - "日常会話"
   - "接客日本語"
@@ -70,16 +71,16 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 
 <ruby>香港<rt>ほんこん</rt></ruby>のサロンで<ruby>日常<rt>にちじょう</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>使<rt>つか</rt></ruby>う<ruby>広東<rt>かんとん</rt></ruby><ruby>語<rt>ご</rt></ruby>と、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>対照<rt>たいしょう</rt></ruby><ruby>表<rt>ひょう</rt></ruby>です。これを<ruby>知<rt>し</rt></ruby>っておくだけで、オーダー<ruby>時<rt>じ</rt></ruby>の<ruby>迷<rt>まよ</rt></ruby>いが<ruby>一瞬<rt>いっしゅん</rt></ruby>で<ruby>吹き飛<rt>ふきと</rt></ruby>びます！
 
-| <ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>での<ruby>希望<rt>きぼう</rt></ruby>・<ruby>部位<rt>ぶい</rt></ruby> | <ruby>日本語<rt>にほんご</rt></ruby>のオーダーフレーズ | <ruby>広東<rt>かんとん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>言い方<rt>いいかた</rt></ruby>（<ruby>繁<rt>しげる</rt></ruby><ruby>体<rt>たい</rt></ruby><ruby>字<rt>じ</rt></ruby>） | <ruby>読<rt>よ</rt></ruby>み・<ruby>解説<rt>かいせつ</rt></ruby> |
+| <ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>での<ruby>希望<rt>きぼう</rt></ruby>・<ruby>部位<rt>ぶい</rt></ruby> | <ruby>日本語<rt>にほんご</rt></ruby>のオーダーフレーズ | <ruby>広東<rt>かんとん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>言い方<rt>いいかた</rt></ruby>（<ruby>繁体字<rt>はんたいじ</rt></ruby>） | <ruby>解説<rt>かいせつ</rt></ruby> |
 | :--- | :--- | :--- | :--- |
-| **<ruby>毛<rt>け</rt></ruby><ruby>量<rt>りょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす** | **「すいてください / <ruby>軽<rt>かる</rt></ruby>くしてください」** | **<ruby>偸薄<rt>*</rt></ruby>（tau1 bok6）** | <ruby>長<rt>なが</rt></ruby>さは<ruby>変<rt>か</rt></ruby>えずボリュームだけ<ruby>落<rt>お</rt></ruby>とすこと |
-| **<ruby>少<rt>すこ</rt></ruby>し<ruby>整<rt>ととの</rt></ruby>える** | **「<ruby>揃<rt>そろ</rt></ruby>えるくらいで / <ruby>少<rt>すこ</rt></ruby>し<ruby>整<rt>ととの</rt></ruby>えてください」** | **<ruby>執<rt>と</rt></ruby><ruby>修<rt>おさむ</rt></ruby>（zap1 sau1）** | スタイルを<ruby>維持<rt>いじ</rt></ruby>して<ruby>毛<rt>け</rt></ruby><ruby>先<rt>さき</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>える |
-| **<ruby>刈り上<rt>かりあ</rt></ruby>げ** | **「<ruby>刈り上<rt>かりあ</rt></ruby>げてください」** | **<ruby>鏟青<rt>*</rt></ruby>（caan2 ceng1）** | バリカン<ruby>等<rt>とう</rt></ruby>で<ruby>短<rt>みじか</rt></ruby>く<ruby>刈<rt>か</rt></ruby>ること |
-| **ツーブロック** | **「ツーブロックで」** | **<ruby>兩邊鏟<rt>*</rt></ruby><ruby>青<rt>あお</rt></ruby>（Undercut）** | サイドの<ruby>内側<rt>うちがわ</rt></ruby>を<ruby>短<rt>みじか</rt></ruby>く<ruby>刈り上<rt>かりあ</rt></ruby>げるスタイル |
-| **<ruby>襟足<rt>えりあし</rt></ruby>** | **「<ruby>襟足<rt>えりあし</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>めで」** | **<ruby>髮腳<rt>*</rt></ruby>（faat3 goek3）** | <ruby>首<rt>くび</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろの<ruby>生え際<rt>はえぎわ</rt></ruby> |
-| **<ruby>前髪<rt>まえがみ</rt></ruby>** | **「<ruby>前髪<rt>まえがみ</rt></ruby>は<ruby>眉毛<rt>まゆげ</rt></ruby>くらいで」** | **<ruby>前<rt>ぜん</rt></ruby><ruby>陰<rt>かげ</rt></ruby>（cin4 jam1）** | <ruby>額<rt>がく</rt></ruby>にかかる<ruby>髪<rt>かみ</rt></ruby> |
-| **もみあげ** | **「もみあげは<ruby>自然<rt>しぜん</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>してください」** | **<ruby>側<rt>がわ</rt></ruby><ruby>頭<rt>あたま</rt></ruby><ruby>水<rt>すい</rt></ruby> / <ruby>鬢<rt>びん</rt></ruby><ruby>角<rt>かく</rt></ruby>** | <ruby>耳<rt>みみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>生え際<rt>はえぎわ</rt></ruby> |
-| **おまかせ** | **「おまかせでお<ruby>願<rt>ねが</rt></ruby>いします」** | **<ruby>幫我話<rt>*</rt></ruby><ruby>事<rt>ごと</rt></ruby> / <ruby>睇你點<rt>*</rt></ruby><ruby>剪<rt>*</rt></ruby>** | <ruby>美容<rt>びよう</rt></ruby><ruby>師<rt>し</rt></ruby>さんのセンスに<ruby>委<rt>ゆだ</rt></ruby>ねる<ruby>最強<rt>さいきょう</rt></ruby><ruby>呪文<rt>じゅもん</rt></ruby> |
+| **<ruby>毛<rt>け</rt></ruby><ruby>量<rt>りょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす** | **「すいてください / <ruby>軽<rt>かる</rt></ruby>くしてください」** | **偸薄** | <ruby>長<rt>なが</rt></ruby>さは<ruby>変<rt>か</rt></ruby>えずボリュームだけ<ruby>落<rt>お</rt></ruby>とすこと |
+| **<ruby>少<rt>すこ</rt></ruby>し<ruby>整<rt>ととの</rt></ruby>える** | **「<ruby>揃<rt>そろ</rt></ruby>えるくらいで / <ruby>少<rt>すこ</rt></ruby>し<ruby>整<rt>ととの</rt></ruby>えてください」** | **執修** | スタイルを<ruby>維持<rt>いじ</rt></ruby>して<ruby>毛<rt>け</rt></ruby><ruby>先<rt>さき</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>える |
+| **<ruby>刈り上<rt>かりあ</rt></ruby>げ** | **「<ruby>刈り上<rt>かりあ</rt></ruby>げてください」** | **鏟青** | バリカン<ruby>等<rt>とう</rt></ruby>で<ruby>短<rt>みじか</rt></ruby>く<ruby>刈<rt>か</rt></ruby>ること |
+| **ツーブロック** | **「ツーブロックで」** | **兩邊鏟青** | サイドの<ruby>内側<rt>うちがわ</rt></ruby>を<ruby>短<rt>みじか</rt></ruby>く<ruby>刈り上<rt>かりあ</rt></ruby>げるスタイル |
+| **<ruby>襟足<rt>えりあし</rt></ruby>** | **「<ruby>襟足<rt>えりあし</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>めで」** | **髮腳** | <ruby>首<rt>くび</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろの<ruby>生え際<rt>はえぎわ</rt></ruby> |
+| **<ruby>前髪<rt>まえがみ</rt></ruby>** | **「<ruby>前髪<rt>まえがみ</rt></ruby>は<ruby>眉毛<rt>まゆげ</rt></ruby>くらいで」** | **前陰** | <ruby>額<rt>がく</rt></ruby>にかかる<ruby>髪<rt>かみ</rt></ruby> |
+| **もみあげ** | **「もみあげは<ruby>自然<rt>しぜん</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>してください」** | **側頭水 / 鬢角** | <ruby>耳<rt>みみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>生え際<rt>はえぎわ</rt></ruby> |
+| **おまかせ** | **「おまかせでお<ruby>願<rt>ねが</rt></ruby>いします」** | **幫我話事 / 睇你點剪** | <ruby>美容<rt>びよう</rt></ruby><ruby>師<rt>し</rt></ruby>さんのセンスに<ruby>委<rt>ゆだ</rt></ruby>ねる<ruby>最強<rt>さいきょう</rt></ruby><ruby>呪文<rt>じゅもん</rt></ruby> |
 
 ---
 

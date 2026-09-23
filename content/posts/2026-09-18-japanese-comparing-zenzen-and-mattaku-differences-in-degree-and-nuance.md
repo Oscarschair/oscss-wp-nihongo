@@ -3,7 +3,7 @@ title: "くらべてみました：「<ruby>全然<rt>ぜんぜん</rt></ruby>�
 slug: "japanese-comparing-zenzen-and-mattaku-differences"
 date: "2026-09-18T08:00:00+09:00"
 categories:
-  - "comparing-japanese"
+  - "くらべてみました"
 tags:
   - "くらべてみました"
   - "全然"

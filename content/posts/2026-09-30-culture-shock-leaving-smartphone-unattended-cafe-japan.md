@@ -1,11 +1,11 @@
 ---
-title: "カフェで「スマホを<ruby>置<rt>お</rt></ruby>いて<ruby>席<rt>せき</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れる」<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>——なぜ<ruby>誰<rt>だれ</rt></ruby>も<ruby>盗<rt>ぬす</rt></ruby>まないの！？<ruby>世界<rt>せかい</rt></ruby>が<ruby>震<rt>ふる</rt></ruby>える<ruby>治安<rt>ちあん</rt></ruby>と“<ruby>場所<rt>ばしょ</rt></ruby><ruby>取<rt>と</rt></ruby>り”<ruby>文化<rt>ぶんか</rt></ruby>"
+title: "カルチャーショック：カフェで「スマホを<ruby>置<rt>お</rt></ruby>いて<ruby>席<rt>せき</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れる」<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>——なぜ<ruby>誰<rt>だれ</rt></ruby>も<ruby>盗<rt>ぬす</rt></ruby>まないの！？<ruby>世界<rt>せかい</rt></ruby>が<ruby>震<rt>ふる</rt></ruby>える<ruby>治安<rt>ちあん</rt></ruby>と“<ruby>場所<rt>ばしょ</rt></ruby><ruby>取<rt>と</rt></ruby>り”<ruby>文化<rt>ぶんか</rt></ruby>"
 description: "日本のカフェで、最新のスマホや財布、ノートパソコンをテーブルに置いたままトイレに行く日本人を見て驚愕したことはありませんか？海外では「1秒で盗まれる」タブー行為が、なぜ日本では平然と行われているのか？日本独特の「席取り」事情と、落とし物が戻ってくる驚異の治安の深層に迫ります！"
 slug: "culture-shock-leaving-smartphone-unattended-cafe-japan"
 date: "2026-09-30T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-cafe-leaving-smartphone.jpg"
 categories:
-  - "カルチャーショック！"
+  - "カルチャーショック"
 tags:
   - "カフェ"
   - "治安"

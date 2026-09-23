@@ -3,7 +3,7 @@ title: "ことばのあや：「すみません」の7<ruby>変化<rt>へんか<
 slug: "kotoba-no-aya-the-seven-faces-of-sumimasen"
 date: "2026-09-19T08:00:00+09:00"
 categories:
-  - "kotoba-no-aya"
+  - "ことばのあや"
 tags:
   - "ことばのあや"
   - "すみません"

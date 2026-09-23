@@ -1,12 +1,13 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：カフェ<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>波状<rt>はじょう</rt></ruby><ruby>攻撃<rt>こうげき</rt></ruby>｜「<ruby>店内<rt>てんない</rt></ruby>？」「<ruby>手渡<rt>てわた</rt></ruby>し？」「マグカップ？」…<ruby>次々<rt>つぎつぎ</rt></ruby>と<ruby>繰り出<rt>くりだ</rt></ruby>される<ruby>謎<rt>なぞ</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>を<ruby>突破<rt>とっぱ</rt></ruby>せよ！"
+title: "街角サバイバル：カフェ<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>波状<rt>はじょう</rt></ruby><ruby>攻撃<rt>こうげき</rt></ruby>｜「<ruby>店内<rt>てんない</rt></ruby>？」「<ruby>手渡<rt>てわた</rt></ruby>し？」「マグカップ？」…<ruby>次々<rt>つぎつぎ</rt></ruby>と<ruby>繰り出<rt>くりだ</rt></ruby>される<ruby>謎<rt>なぞ</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>を<ruby>突破<rt>とっぱ</rt></ruby>せよ！"
 
 slug: "street-japanese-cafe-order-survival-mug-or-paper-guide"
 date: "2026-09-21 08:00:00"
 categories:
-  - "street-japanese"
+  - "街角サバイバル"
 tags:
   - "街角サバイバル"
+  - "サバイバル"
   - "カフェ"
   - "注文"
   - "接客日本語"
@@ -165,19 +166,19 @@ thumbnail: "assets/images/thumbnails/thumb-street-cafe-order-rpg.jpg"
 
 |<ruby>店員<rt>てんいん</rt></ruby>のセリフ（<ruby>日本語<rt>にほんご</rt></ruby>）|<ruby>広東<rt>かんとん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>（<ruby>解説<rt>かいせつ</rt></ruby>）|<ruby>英語<rt>えいご</rt></ruby>|あなたの<ruby>推奨<rt>すいしょう</rt></ruby><ruby>返答<rt>へんとう</rt></ruby>コマンド|
 | :--- | :--- | :--- | :--- |
-|**<ruby>店内<rt>てんない</rt></ruby>でお<ruby>召し上<rt>めしあ</rt></ruby>がりですか？**|<ruby>喺度食<rt>*</rt></ruby>（<ruby>堂<rt>どう</rt></ruby><ruby>食<rt>しょく</rt></ruby>）<ruby>定<rt>じょう</rt></ruby><ruby>係<rt>がかり</rt></ruby><ruby>外<rt>がい</rt></ruby><ruby>賣<rt>う</rt></ruby>？|For here or to go?|<strong>「<ruby>店内<rt>てんない</rt></ruby>で」</strong>/<strong>「<ruby>持ち帰<rt>もちかえ</rt></ruby>りで」</strong>|
-|**そのままお<ruby>渡<rt>わた</rt></ruby>ししていいですか？**|<ruby>就咁俾<rt>*</rt></ruby><ruby>你得唔<rt>*</rt></ruby><ruby>得<rt>とく</rt></ruby>？（<ruby>唔使膠<rt>*</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>，<ruby>淨<rt>きよし</rt></ruby><ruby>係<rt>がかり</rt></ruby><ruby>貼<rt>は</rt></ruby><ruby>貼紙<rt>はりがみ</rt></ruby>）|Without a bag? (As is)|<strong>「そのままで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です！」</strong>/<strong>「<ruby>袋<rt>ふくろ</rt></ruby>1<ruby>枚<rt>まい</rt></ruby>ください」</strong>|
-|**マグカップでお<ruby>出<rt>だ</rt></ruby>ししていいですか？**|<ruby>用<rt>よう</rt></ruby><ruby>瓷杯<rt>*</rt></ruby>/<ruby>玻璃<rt>はり</rt></ruby><ruby>杯<rt>はい</rt></ruby><ruby>上<rt>じょう</rt></ruby><ruby>得<rt>とく</rt></ruby><ruby>唔得<rt>*</rt></ruby>？|Is a mug/glass OK?|<strong>「マグカップで」</strong>/<strong>「<ruby>紙<rt>かみ</rt></ruby>コップでお<ruby>願<rt>ねが</rt></ruby>いします」</strong>|
-|**サイズはいかがなさいますか？**|<ruby>想<rt>そう</rt></ruby><ruby>要<rt>よう</rt></ruby><ruby>咩<rt>*</rt></ruby>size？（S/M/L）|What size would you like?|<strong>「Mサイズで」</strong>/<strong>「トールで」</strong>|
-|**お<ruby>砂糖<rt>さとう</rt></ruby>やミルクはご<ruby>利用<rt>りよう</rt></ruby>ですか？**|<ruby>要<rt>よう</rt></ruby><ruby>唔要糖<rt>*</rt></ruby><ruby>同<rt>どう</rt></ruby><ruby>奶精<rt>*</rt></ruby>？|Do you need sugar or milk?|<strong>「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」</strong>（<ruby>不要<rt>ふよう</rt></ruby><ruby>時<rt>じ</rt></ruby>） /<strong>「お<ruby>願<rt>ねが</rt></ruby>いします」</strong>|
-|**レシートはご<ruby>利用<rt>りよう</rt></ruby>ですか？**|<ruby>要<rt>よう</rt></ruby><ruby>唔要收<rt>*</rt></ruby><ruby>據<rt>*</rt></ruby>？|Would you like your receipt?|<strong>「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」</strong>/<strong>「お<ruby>願<rt>ねが</rt></ruby>いします」</strong>|
+|**<ruby>店内<rt>てんない</rt></ruby>でお<ruby>召し上<rt>めしあ</rt></ruby>がりですか？**|喺度食（堂食）定係外賣？|For here or to go?|<strong>「<ruby>店内<rt>てんない</rt></ruby>で」</strong>/<strong>「<ruby>持ち帰<rt>もちかえ</rt></ruby>りで」</strong>|
+|**そのままお<ruby>渡<rt>わた</rt></ruby>ししていいですか？**|就咁俾你得唔得？（唔使膠袋，淨係貼貼紙）|Without a bag? (As is)|<strong>「そのままで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です！」</strong>/<strong>「<ruby>袋<rt>ふくろ</rt></ruby>1<ruby>枚<rt>まい</rt></ruby>ください」</strong>|
+|**マグカップでお<ruby>出<rt>だ</rt></ruby>ししていいですか？**|用瓷杯/玻璃杯上得唔得？|Is a mug/glass OK?|<strong>「マグカップで」</strong>/<strong>「<ruby>紙<rt>かみ</rt></ruby>コップでお<ruby>願<rt>ねが</rt></ruby>いします」</strong>|
+|**サイズはいかがなさいますか？**|想要咩size？（S/M/L）|What size would you like?|<strong>「Mサイズで」</strong>/<strong>「トールで」</strong>|
+|**お<ruby>砂糖<rt>さとう</rt></ruby>やミルクはご<ruby>利用<rt>りよう</rt></ruby>ですか？**|要唔要糖同奶精？|Do you need sugar or milk?|<strong>「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」</strong>（<ruby>不要<rt>ふよう</rt></ruby><ruby>時<rt>じ</rt></ruby>） /<strong>「お<ruby>願<rt>ねが</rt></ruby>いします」</strong>|
+|**レシートはご<ruby>利用<rt>りよう</rt></ruby>ですか？**|要唔要收據？|Would you like your receipt?|<strong>「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」</strong>/<strong>「お<ruby>願<rt>ねが</rt></ruby>いします」</strong>|
 
 ---
 
 ## 6. オスカーのひとことメモ
 
 > 💬 **オスカー**
-> <ruby>香港<rt>ほんこん</rt></ruby>の<ruby>茶<rt>ちゃ</rt></ruby><ruby>餐廳<rt>*</rt></ruby>（チャーチャーンテーン）やカフェだと、「<ruby>凍<rt>こお</rt></ruby><ruby>檸茶<rt>*</rt></ruby>、<ruby>唔該<rt>*</rt></ruby>！（アイスレモンティーよろしく！）」と<ruby>言<rt>い</rt></ruby>えば、<ruby>甘<rt>あま</rt></ruby>さや<ruby>持ち帰<rt>もちかえ</rt></ruby>りかどうかが<ruby>阿吽<rt>あうん</rt></ruby>の<ruby>呼吸<rt>こきゅう</rt></ruby>でササッと<ruby>進<rt>すす</rt></ruby>みますよね。
+> <ruby>香港<rt>ほんこん</rt></ruby>の茶餐廳（チャーチャーンテーン）やカフェだと、「凍檸茶、唔該！（アイスレモンティーよろしく！）」と<ruby>言<rt>い</rt></ruby>えば、<ruby>甘<rt>あま</rt></ruby>さや<ruby>持ち帰<rt>もちかえ</rt></ruby>りかどうかが<ruby>阿吽<rt>あうん</rt></ruby>の<ruby>呼吸<rt>こきゅう</rt></ruby>でササッと<ruby>進<rt>すす</rt></ruby>みますよね。
 >
 > <ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>のカフェは「<ruby>店内<rt>てんない</rt></ruby>か<ruby>持ち帰<rt>もちかえ</rt></ruby>りか」「サイズ」「<ruby>温<rt>あたた</rt></ruby>めるか」「マグか<ruby>紙<rt>し</rt></ruby>コップか」「<ruby>袋<rt>ふくろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れるか」まで、**お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>を1ミリも<ruby>外<rt>はず</rt></ruby>さないように<ruby>徹底的<rt>てっていてき</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>してくれる**のが<ruby>特徴<rt>とくちょう</rt></ruby>です。
 >

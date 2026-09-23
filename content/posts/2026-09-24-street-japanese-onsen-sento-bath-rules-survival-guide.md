@@ -1,11 +1,12 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>温泉<rt>おんせん</rt></ruby>・<ruby>銭湯<rt>せんとう</rt></ruby>の<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>作法<rt>さほう</rt></ruby>｜<ruby>服<rt>ふく</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いだ<ruby>勇者<rt>ゆうしゃ</rt></ruby>を<ruby>待ち受<rt>まちう</rt></ruby>ける「かけ<ruby>湯<rt>ゆ</rt></ruby>」と「<ruby>湯船<rt>ゆぶね</rt></ruby>タオル<ruby>禁止<rt>きんし</rt></ruby>」の<ruby>鉄則<rt>てっそく</rt></ruby>"
+title: "街角サバイバル：<ruby>温泉<rt>おんせん</rt></ruby>・<ruby>銭湯<rt>せんとう</rt></ruby>の<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>作法<rt>さほう</rt></ruby>｜<ruby>服<rt>ふく</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いだ<ruby>勇者<rt>ゆうしゃ</rt></ruby>を<ruby>待ち受<rt>まちう</rt></ruby>ける「かけ<ruby>湯<rt>ゆ</rt></ruby>」と「<ruby>湯船<rt>ゆぶね</rt></ruby>タオル<ruby>禁止<rt>きんし</rt></ruby>」の<ruby>鉄則<rt>てっそく</rt></ruby>"
 slug: "street-japanese-onsen-sento-bath-rules-survival-guide"
 date: "2026-09-24T08:00:00+09:00"
 categories:
-  - "street-japanese"
+  - "街角サバイバル"
 tags:
   - "街角サバイバル"
+  - "サバイバル"
   - "温泉マナー"
   - "銭湯"
   - "日本の文化"

@@ -1,11 +1,11 @@
 ---
-title: "なぜ<ruby>日本<rt>にっぽん</rt></ruby>のトイレには<ruby>川<rt>かわ</rt></ruby>のせせらぎが<ruby>流<rt>なが</rt></ruby>れるの？——「<ruby>音<rt>おん</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>（おとひめ）」の<ruby>謎<rt>なぞ</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby>の“<ruby>恥<rt>は</rt></ruby>じらい”ハイテク<ruby>文化<rt>ぶんか</rt></ruby>"
+title: "カルチャーショック：なぜ<ruby>日本<rt>にっぽん</rt></ruby>のトイレには<ruby>川<rt>かわ</rt></ruby>のせせらぎが<ruby>流<rt>なが</rt></ruby>れるの？——「<ruby>音<rt>おん</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>（おとひめ）」の<ruby>謎<rt>なぞ</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby>の“<ruby>恥<rt>は</rt></ruby>じらい”ハイテク<ruby>文化<rt>ぶんか</rt></ruby>"
 description: "日本のトイレに入って壁のボタンを押したら、突然スピーカーから川のせせらぎや大音量の流水音が流れて驚いたことはありませんか？外国人旅行者が必ずカルチャーショックを受ける「音姫（おとひめ）」の正体と、日本の「恥じらい」と「超節水」が生んだ驚きの歴史を徹底解説！"
 slug: "culture-shock-why-japanese-toilets-play-water-sounds-otohime"
 date: "2026-09-26T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-otohime-toilet-sound.jpg"
 categories:
-  - "カルチャーショック！"
+  - "カルチャーショック"
 tags:
   - "音姫"
   - "トイレ"

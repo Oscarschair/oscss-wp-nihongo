@@ -5,7 +5,7 @@ slug: "culture-shock-why-no-phone-calls-and-newspapers-on-japanese-trains"
 date: "2026-10-05T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-train-silence-phone.jpg"
 categories:
-  - "カルチャーショック！"
+  - "カルチャーショック"
 tags:
   - "電車マナー"
   - "電話"

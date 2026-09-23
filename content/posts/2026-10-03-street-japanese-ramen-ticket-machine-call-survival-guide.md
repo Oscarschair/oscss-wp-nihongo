@@ -1,5 +1,5 @@
 ---
-title: "ラーメン<ruby>屋<rt>や</rt></ruby>の「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>」はボタンだらけのダンジョン！？——<ruby>早口<rt>はやくち</rt></ruby>の「お<ruby>好<rt>この</rt></ruby>みコール」を<ruby>突破<rt>とっぱ</rt></ruby>する<ruby>完全<rt>かんぜん</rt></ruby>サバイバル<ruby>術<rt>じゅつ</rt></ruby>"
+title: "街角サバイバル：ラーメン<ruby>屋<rt>や</rt></ruby>の「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>」はボタンだらけのダンジョン！？——<ruby>早口<rt>はやくち</rt></ruby>の「お<ruby>好<rt>この</rt></ruby>みコール」を<ruby>突破<rt>とっぱ</rt></ruby>する<ruby>完全<rt>かんぜん</rt></ruby>サバイバル<ruby>術<rt>じゅつ</rt></ruby>"
 description: "日本のラーメン屋に入った瞬間、立ちはだかる100個以上のボタンが並ぶ巨大な食券機！後ろに人が並んで焦る「券売機ダンジョン」の攻略法から、席に着いた直後に浴びせられる早口の「麺の硬さは？味の濃さは？」というお好みコールを乗り切る最強の呪文まで、街角ラーメンを120%美味しく味わう完全サバイバル術！"
 slug: "street-japanese-ramen-ticket-machine-call-survival-guide"
 date: "2026-10-03T08:00:00+09:00"
@@ -7,13 +7,13 @@ thumbnail: "assets/images/thumbnails/thumb-street-ramen-ticket-rpg.jpg"
 categories:
   - "街角サバイバル"
 tags:
+  - "街角サバイバル"
   - "ラーメン"
   - "券売機"
   - "サバイバル"
   - "日本食"
   - "街角日本語"
   - "家系ラーメン"
----
 <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たら<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>食<rt>た</rt></ruby>べたいソウルフード、<strong>「<ruby>日本<rt>にっぽん</rt></ruby>のラーメン」</strong>！
 
 しかし、<ruby>暖簾<rt>のれん</rt></ruby>をくぐって<ruby>店内<rt>てんない</rt></ruby>に<ruby>足<rt>あし</rt></ruby>を<ruby>踏み入<rt>ふみい</rt></ruby>れた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、いきなり<strong><ruby>巨大<rt>きょだい</rt></ruby>なモンスターのように<ruby>立<rt>た</rt></ruby>ちはだかる<ruby>壁<rt>かべ</rt></ruby></strong>があります。
@@ -31,7 +31,6 @@ tags:
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>のラーメン<ruby>屋<rt>や</rt></ruby>を<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>攻略<rt>こうりゃく</rt></ruby>するための<strong>「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>法則<rt>ほうそく</rt></ruby>」</strong>と、<ruby>店員<rt>てんいん</rt></ruby>さんの<ruby>質問<rt>しつもん</rt></ruby>を<ruby>鮮<rt>あざ</rt></ruby>やかに<ruby>切り抜<rt>きりぬ</rt></ruby>ける<strong>「お<ruby>好<rt>この</rt></ruby>みコールの<ruby>魔法<rt>まほう</rt></ruby>」</strong>を<ruby>徹底<rt>てってい</rt></ruby><ruby>伝授<rt>でんじゅ</rt></ruby>します！
 
 ---
-
 ## 1. <ruby>第<rt>だい</rt></ruby>1の<ruby>試練<rt>しれん</rt></ruby>：100<ruby>個<rt>こ</rt></ruby>のボタンから<ruby>正解<rt>せいかい</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>法則<rt>ほうそく</rt></ruby>」
 
 <ruby>日本<rt>にっぽん</rt></ruby>のラーメン<ruby>屋<rt>や</rt></ruby>（<ruby>特<rt>とく</rt></ruby>に<ruby>個人<rt>こじん</rt></ruby><ruby>店<rt>てん</rt></ruby>や<ruby>老舗<rt>しにせ</rt></ruby>）では、レジではなく<ruby>入口<rt>いりぐち</rt></ruby>の<strong>「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>（<ruby>食券<rt>しょっけん</rt></ruby><ruby>機<rt>き</rt></ruby>）」</strong>で<ruby>前払<rt>まえばら</rt></ruby>いするシステムが<ruby>主流<rt>しゅりゅう</rt></ruby>です。

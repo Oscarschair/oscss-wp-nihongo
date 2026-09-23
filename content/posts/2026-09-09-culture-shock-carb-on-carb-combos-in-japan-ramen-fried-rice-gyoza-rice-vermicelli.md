@@ -3,7 +3,7 @@ title: "カルチャーショック：<ruby>餃子<rt>ぎょうざ</rt></ruby>�
 slug: "culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli"
 date: "2026-09-09T08:00:00+09:00"
 categories:
-  - "culture-shock"
+  - "カルチャーショック"
 tags:
   - "カルチャーショック"
   - "日本食"

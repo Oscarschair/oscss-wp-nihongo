@@ -3,7 +3,7 @@ title: "カルチャーショック：<ruby>手<rt>て</rt></ruby>を<ruby>挙<r
 slug: "culture-shock-cars-stop-when-you-raise-your-hand-pedestrian-crosswalk-in-japan"
 date: "2026-09-12T08:00:00+09:00"
 categories:
-  - "culture-shock"
+  - "カルチャーショック"
 tags:
   - "カルチャーショック"
   - "横断歩道"

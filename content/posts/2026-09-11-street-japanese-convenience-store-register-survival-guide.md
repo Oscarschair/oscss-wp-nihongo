@@ -1,11 +1,12 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：コンビニのレジ<ruby>攻防<rt>こうぼう</rt></ruby><ruby>戦<rt>せん</rt></ruby>｜<ruby>香港<rt>ほんこん</rt></ruby>では「ほぼ<ruby>無言<rt>むごん</rt></ruby>」だった<ruby>私<rt>わたし</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>のレジで<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>剣<rt>けん</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>りしめた<ruby>理由<rt>りゆう</rt></ruby>"
+title: "街角サバイバル：コンビニのレジ<ruby>攻防<rt>こうぼう</rt></ruby><ruby>戦<rt>せん</rt></ruby>｜<ruby>香港<rt>ほんこん</rt></ruby>では「ほぼ<ruby>無言<rt>むごん</rt></ruby>」だった<ruby>私<rt>わたし</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>のレジで<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>剣<rt>けん</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>りしめた<ruby>理由<rt>りゆう</rt></ruby>"
 slug: "street-japanese-convenience-store-register-survival-guide"
 date: "2026-09-11T00:18:00+09:00"
 categories:
-  - "street-japanese"
+  - "街角サバイバル"
 tags:
   - "街角サバイバル"
+  - "サバイバル"
   - "コンビニ"
   - "日常会話"
   - "接客日本語"

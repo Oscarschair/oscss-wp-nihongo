@@ -1,11 +1,12 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>駅<rt>えき</rt></ruby>・<ruby>改札<rt>かいさつ</rt></ruby>ダンジョン｜「ピンポーン！」で<ruby>赤<rt>あか</rt></ruby>い<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まった<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>勇者<rt>ゆうしゃ</rt></ruby>が<ruby>唱<rt>とな</rt></ruby>える<ruby>脱出<rt>だっしゅつ</rt></ruby>の<ruby>呪文<rt>じゅもん</rt></ruby>"
+title: "街角サバイバル：<ruby>駅<rt>えき</rt></ruby>・<ruby>改札<rt>かいさつ</rt></ruby>ダンジョン｜「ピンポーン！」で<ruby>赤<rt>あか</rt></ruby>い<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まった<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>勇者<rt>ゆうしゃ</rt></ruby>が<ruby>唱<rt>とな</rt></ruby>える<ruby>脱出<rt>だっしゅつ</rt></ruby>の<ruby>呪文<rt>じゅもん</rt></ruby>"
 slug: "street-japanese-station-ticket-gate-dungeon-guide"
 date: "2026-09-16T08:00:00+09:00"
 categories:
-  - "street-japanese"
+  - "街角サバイバル"
 tags:
   - "街角サバイバル"
+  - "サバイバル"
   - "駅・電車"
   - "日常会話"
   - "接客日本語"

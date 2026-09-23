@@ -3,7 +3,7 @@ title: "カルチャーショック：<ruby>日本<rt>にっぽん</rt></ruby>�
 slug: "culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison"
 date: "2026-09-10T12:00:00+09:00"
 categories:
-  - "culture-shock"
+  - "カルチャーショック"
 tags:
   - "カルチャーショック"
   - "美容室"
@@ -83,9 +83,10 @@ description: "香港なら約1,200円で切れる散髪が、日本では5,000�
 <ruby>一番<rt>いちばん</rt></ruby><ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたのがこれです。シャンプー<ruby>台<rt>だい</rt></ruby>がない<ruby>代<rt>か</rt></ruby>わりに、カットが<ruby>終<rt>お</rt></ruby>わると<strong><ruby>業務<rt>ぎょうむ</rt></ruby><ruby>用<rt>よう</rt></ruby>の<ruby>巨大<rt>きょだい</rt></ruby>な<ruby>掃除<rt>そうじ</rt></ruby><ruby>機<rt>き</rt></ruby>のようなノズルで、<ruby>頭<rt>あたま</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>った<ruby>細<rt>こま</rt></ruby>かい<ruby>髪の毛<rt>かみのけ</rt></ruby>をズゴゴゴゴッと<ruby>一気<rt>いっき</rt></ruby>に<ruby>吸い取<rt>すいと</rt></ruby>ってくれる</strong>のです！  
 <ruby>最初<rt>さいしょ</rt></ruby>は「<ruby>頭<rt>あたま</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby><ruby>機<rt>き</rt></ruby>で<ruby>吸<rt>す</rt></ruby>われるの！？」と<ruby>焦<rt>あせ</rt></ruby>りましたが、これが<ruby>驚<rt>おどろ</rt></ruby>くほどスッキリして<ruby>爽快<rt>そうかい</rt></ruby>でした。
 
-### ② 10<ruby>分<rt>ふん</rt></ruby>タイマーと<ruby>無駄<rt>むだ</rt></ruby>のない<ruby>職人<rt>しょくにん</rt></ruby><ruby>技<rt>わざ</rt></ruby>
-<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>でチケットを<ruby>買<rt>か</rt></ruby>い、<ruby>席<rt>せき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>くと、タイマーがセットされて<ruby>流<rt>なが</rt></ruby>れるような<ruby>手<rt>て</rt></ruby>さばきでカットが<ruby>進<rt>すす</rt></ruby>みます。
-<ruby>無駄<rt>むだ</rt></ruby>なおしゃべりもなく、10<ruby>分<rt>ふん</rt></ruby>〜15<ruby>分<rt>ふん</rt></ruby>で<ruby>清潔<rt>せいけつ</rt></ruby><ruby>感<rt>かん</rt></ruby>のある<ruby>髪型<rt>かみがた</rt></ruby>に<ruby>仕上<rt>しあ</rt></ruby>がるスピード<ruby>感<rt>かん</rt></ruby>は、<ruby>忙<rt>いそが</rt></ruby>しい<ruby>現代<rt>げんだい</rt></ruby><ruby>人<rt>じん</rt></ruby>にとって<ruby>最高<rt>さいこう</rt></ruby>のシステムだと<ruby>感動<rt>かんどう</rt></ruby>しました。
+### ② <ruby>約<rt>やく</rt></ruby>10<ruby>分<rt>ふん</rt></ruby>のスピードと<ruby>無駄<rt>むだ</rt></ruby>のない<ruby>職人<rt>しょくにん</rt></ruby><ruby>技<rt>わざ</rt></ruby>
+<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>でチケットを<ruby>買<rt>か</rt></ruby>い、<ruby>席<rt>せき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>くと、すぐに<ruby>流<rt>なが</rt></ruby>れるような<ruby>手<rt>て</rt></ruby>さばきでカットが<ruby>始<rt>はじ</rt></ruby>まります。  
+（かつては<ruby>席<rt>せき</rt></ruby>ごとに「10<ruby>分<rt>ふん</rt></ruby>タイマー」が<ruby>置<rt>お</rt></ruby>かれていたそうですが、<ruby>現在<rt>げんざい</rt></ruby>は<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>施術<rt>せじゅつ</rt></ruby>を<ruby>重視<rt>じゅうし</rt></ruby>してタイマーは<ruby>撤去<rt>てっきょ</rt></ruby>され、およそ10<ruby>分<rt>ふん</rt></ruby>〜15<ruby>分<rt>ふん</rt></ruby>を<ruby>目安<rt>めやす</rt></ruby>にカットしてくれます。）  
+<ruby>無駄<rt>むだ</rt></ruby>なおしゃべりもなく、あっという<ruby>間<rt>ま</rt></ruby>に<ruby>清潔<rt>せいけつ</rt></ruby><ruby>感<rt>かん</rt></ruby>のある<ruby>髪型<rt>かみがた</rt></ruby>に<ruby>仕上<rt>しあ</rt></ruby>がるスピード<ruby>感<rt>かん</rt></ruby>は、<ruby>忙<rt>いそが</rt></ruby>しい<ruby>現代<rt>げんだい</rt></ruby><ruby>人<rt>じん</rt></ruby>にとって<ruby>最高<rt>さいこう</rt></ruby>のシステムだと<ruby>感動<rt>かんどう</rt></ruby>しました。
 
 ---
 

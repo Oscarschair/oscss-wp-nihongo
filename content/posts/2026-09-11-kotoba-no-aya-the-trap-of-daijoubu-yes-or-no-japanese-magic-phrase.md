@@ -3,7 +3,7 @@ title: "ことばのあや：「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby
 slug: "kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase"
 date: "2026-09-11T08:00:00+09:00"
 categories:
-  - "kotoba-no-aya"
+  - "ことばのあや"
 tags:
   - "ことばのあや"
   - "大丈夫"

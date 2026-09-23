@@ -3,7 +3,7 @@ title: "ことばのあや：「その<ruby>節<rt>ふし</rt></ruby>はどう�
 slug: "kotoba-no-aya-sonosetsu-wa-doumo"
 date: "2026-09-20T08:00:00+09:00"
 categories:
-  - "kotoba-no-aya"
+  - "ことばのあや"
 tags:
   - "ことばのあや"
   - "その節はどうも"

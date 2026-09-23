@@ -1,11 +1,11 @@
 ---
-title: "「たぶん」「おそらく」「きっと」の<ruby>違<rt>ちが</rt></ruby>いとは？——<ruby>相手<rt>あいて</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>度<rt>ど</rt></ruby>が<ruby>激変<rt>げきへん</rt></ruby>する“<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>のグラデーション”<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "くらべてみました：「たぶん」「おそらく」「きっと」の<ruby>違<rt>ちが</rt></ruby>いとは？——<ruby>相手<rt>あいて</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby><ruby>度<rt>ど</rt></ruby>が<ruby>激変<rt>げきへん</rt></ruby>する“<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>のグラデーション”<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
 description: "「明日の会議、来られる？」「これ合ってる？」と聞かれたとき、「たぶん」「おそらく」「きっと」のどれを使うかで相手の受け取り方は180度変わります！50%の日常語から80%のビジネス表現、90%の感情表現まで、確信度のパーセンテージと使い分けを徹底比較！"
 slug: "japanese-comparing-tabun-osoraku-kitto-differences"
 date: "2026-09-28T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kurabete-tabun-osoraku-kitto.jpg"
 categories:
-  - "くらべて納得！"
+  - "くらべてみました"
 tags:
   - "たぶん"
   - "おそらく"

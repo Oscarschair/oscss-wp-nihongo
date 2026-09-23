@@ -3,7 +3,7 @@ title: "ことばのあや：<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>�
 slug: "kotoba-no-aya-particles-zo-and-ze-anime-vs-real-life-japanese"
 date: "2026-09-14T08:00:00+09:00"
 categories:
-  - "kotoba-no-aya"
+  - "ことばのあや"
 tags:
   - "ことばのあや"
   - "終助詞"

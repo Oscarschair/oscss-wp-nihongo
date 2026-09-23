@@ -3,7 +3,7 @@ title: "カルチャーショック：<ruby>代<rt>だい</rt></ruby><ruby>引<r
 slug: "culture-shock-cash-on-delivery-refused-tip-keep-the-change"
 date: "2026-09-10T08:00:00+09:00"
 categories:
-  - "culture-shock"
+  - "カルチャーショック"
 tags:
   - "カルチャーショック"
   - "チップ文化"

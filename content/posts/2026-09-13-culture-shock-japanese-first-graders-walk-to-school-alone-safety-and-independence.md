@@ -3,7 +3,7 @@ title: "カルチャーショック：<ruby>小<rt>しょう</rt></ruby>1が1<ru
 slug: "culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence"
 date: "2026-09-13T08:00:00+09:00"
 categories:
-  - "culture-shock"
+  - "カルチャーショック"
 tags:
   - "カルチャーショック"
   - "通学"

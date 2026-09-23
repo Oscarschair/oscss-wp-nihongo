@@ -3,7 +3,7 @@ title: "くらべてみました：「あげる」VS「くれる」VS「もら�
 slug: "japanese-comparing-ageru-kureru-morau-differences-in-giving-and-receiving"
 date: "2026-09-15T08:00:00+09:00"
 categories:
-  - "comparing-japanese"
+  - "くらべてみました"
 tags:
   - "くらべてみました"
   - "あげる"

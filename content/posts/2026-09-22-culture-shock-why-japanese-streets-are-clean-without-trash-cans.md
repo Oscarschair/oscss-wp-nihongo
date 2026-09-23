@@ -3,7 +3,7 @@ title: "カルチャーショック：<ruby>街<rt>まち</rt></ruby><ruby>中<r
 slug: "culture-shock-why-japanese-streets-are-clean-without-trash-cans"
 date: "2026-09-22T08:00:00+09:00"
 categories:
-  - "culture-shock"
+  - "カルチャーショック"
 tags:
   - "カルチャーショック"
   - "日本のマナー"

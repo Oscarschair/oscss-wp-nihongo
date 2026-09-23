@@ -3,7 +3,7 @@ title: "くらべてみました：「さようなら」VS「またね」の<rub
 slug: "japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions"
 date: "2026-09-10T18:00:00+09:00"
 categories:
-  - "comparing-japanese"
+  - "くらべてみました"
 tags:
   - "くらべてみました"
   - "さようなら"

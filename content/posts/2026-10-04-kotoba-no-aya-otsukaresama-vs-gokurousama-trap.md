@@ -5,7 +5,7 @@ slug: "kotoba-no-aya-otsukaresama-vs-gokurousama-trap"
 date: "2026-10-04T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-otsukaresama-vs-gokurousama.jpg"
 categories:
-  - "言葉のあや"
+  - "ことばのあや"
 tags:
   - "お疲れ様"
   - "ご苦労様"

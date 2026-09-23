@@ -1,11 +1,12 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>居酒屋<rt>いざかや</rt></ruby>の<ruby>洗礼<rt>せんれい</rt></ruby>｜<ruby>頼<rt>たの</rt></ruby>んでないのに<ruby>出<rt>で</rt></ruby>てくる「お<ruby>通<rt>とお</rt></ruby>し」の<ruby>謎<rt>なぞ</rt></ruby>と、<ruby>入<rt>いり</rt></ruby><ruby>店<rt>てん</rt></ruby><ruby>直後<rt>ちょくご</rt></ruby>の<ruby>呪文<rt>じゅもん</rt></ruby>「とりあえず<ruby>生<rt>なま</rt></ruby>」の<ruby>攻略<rt>こうりゃく</rt></ruby><ruby>法<rt>ほう</rt></ruby>"
+title: "街角サバイバル：<ruby>居酒屋<rt>いざかや</rt></ruby>の<ruby>洗礼<rt>せんれい</rt></ruby>｜<ruby>頼<rt>たの</rt></ruby>んでないのに<ruby>出<rt>で</rt></ruby>てくる「お<ruby>通<rt>とお</rt></ruby>し」の<ruby>謎<rt>なぞ</rt></ruby>と、<ruby>入<rt>いり</rt></ruby><ruby>店<rt>てん</rt></ruby><ruby>直後<rt>ちょくご</rt></ruby>の<ruby>呪文<rt>じゅもん</rt></ruby>「とりあえず<ruby>生<rt>なま</rt></ruby>」の<ruby>攻略<rt>こうりゃく</rt></ruby><ruby>法<rt>ほう</rt></ruby>"
 slug: "street-japanese-izakaya-survival-guide"
 date: "2026-09-17T08:00:00+09:00"
 categories:
-  - "street-japanese"
+  - "街角サバイバル"
 tags:
   - "街角サバイバル"
+  - "サバイバル"
   - "居酒屋"
   - "日常会話"
   - "接客日本語"

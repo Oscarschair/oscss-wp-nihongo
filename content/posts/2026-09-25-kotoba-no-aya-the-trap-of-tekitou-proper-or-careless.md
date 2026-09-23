@@ -1,11 +1,11 @@
 ---
-title: "「<ruby>適当<rt>てきとう</rt></ruby>にやって」は<ruby>褒<rt>ほ</rt></ruby>め<ruby>言葉<rt>ことば</rt></ruby>？<ruby>手抜<rt>てぬ</rt></ruby>き？——<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>・<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>意味<rt>いみ</rt></ruby>が<ruby>真<rt>ま</rt></ruby><ruby>逆<rt>ぎゃく</rt></ruby>になる「<ruby>適当<rt>てきとう</rt></ruby>（テキトー）」の<ruby>不思議<rt>ふしぎ</rt></ruby>な<ruby>正体<rt>しょうたい</rt></ruby>"
+title: "ことばのあや：「<ruby>適当<rt>てきとう</rt></ruby>にやって」は<ruby>褒<rt>ほ</rt></ruby>め<ruby>言葉<rt>ことば</rt></ruby>？<ruby>手抜<rt>てぬ</rt></ruby>き？——<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>・<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>意味<rt>いみ</rt></ruby>が<ruby>真<rt>ま</rt></ruby><ruby>逆<rt>ぎゃく</rt></ruby>になる「<ruby>適当<rt>てきとう</rt></ruby>（テキトー）」の<ruby>不思議<rt>ふしぎ</rt></ruby>な<ruby>正体<rt>しょうたい</rt></ruby>"
 description: "「これ適当にやっておいて」と言われて全力で完璧な正解を探していませんか？中国語・広東語では「適切・正当」を意味する「適当」が、なぜ日本語の会話では「そこそこで・いい加減」になるのか？日常会話と公文書・契約書の明確な境界線を徹底解説！"
 slug: "kotoba-no-aya-the-trap-of-tekitou-proper-or-careless"
 date: "2026-09-25T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-tekitou-trap.jpg"
 categories:
-  - "言葉のあや"
+  - "ことばのあや"
 tags:
   - "適当"
   - "テキトー"
@@ -36,8 +36,8 @@ tags:
 
 | <ruby>言語<rt>げんご</rt></ruby> | <ruby>単語<rt>たんご</rt></ruby> | <ruby>意味<rt>いみ</rt></ruby> | <ruby>英語<rt>えいご</rt></ruby> |
 | :--- | :--- | :--- | :--- |
-| **<ruby>中国語<rt>ちゅうごくご</rt></ruby> / <ruby>繁<rt>しげる</rt></ruby><ruby>体<rt>たい</rt></ruby><ruby>字<rt>じ</rt></ruby>** | **<ruby>適<rt>てき</rt></ruby><ruby>當<rt>*</rt></ruby>（shìdàng）** | **<ruby>適切<rt>てきせつ</rt></ruby>、<ruby>妥当<rt>だとう</rt></ruby>、<ruby>正当<rt>せいとう</rt></ruby>、ピッタリ<ruby>合<rt>あ</rt></ruby>っている** | Proper, Suitable, Appropriate |
-| **<ruby>広東<rt>かんとん</rt></ruby><ruby>語<rt>ご</rt></ruby>** | **<ruby>適<rt>てき</rt></ruby><ruby>當<rt>*</rt></ruby>（sik1 dong3）** | **ふさわしい、<ruby>正当<rt>せいとう</rt></ruby>である** | Appropriate, Fitting |
+| **<ruby>中国語<rt>ちゅうごくご</rt></ruby> / <ruby>繁体字<rt>はんたいじ</rt></ruby>** | **適當** | **<ruby>適切<rt>てきせつ</rt></ruby>、<ruby>妥当<rt>だとう</rt></ruby>、<ruby>正当<rt>せいとう</rt></ruby>、ピッタリ<ruby>合<rt>あ</rt></ruby>っている** | Proper, Suitable, Appropriate |
+| **<ruby>広東<rt>かんとん</rt></ruby><ruby>語<rt>ご</rt></ruby>** | **適當** | **ふさわしい、<ruby>正当<rt>せいとう</rt></ruby>である** | Appropriate, Fitting |
 | **<ruby>日本語<rt>にほんご</rt></ruby>（<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>）** | **<ruby>適当<rt>てきとう</rt></ruby>（テキトー）** | **そこそこで、ほどほどに、いい<ruby>加減<rt>かげん</rt></ruby>に** | Careless, Casual, Rough |
 
 そうなんです！ <ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>や<ruby>広東<rt>かんとん</rt></ruby><ruby>語<rt>ご</rt></ruby>において、「<ruby>適<rt>てき</rt></ruby><ruby>當<rt>*</rt></ruby>」は**「100%<ruby>適切<rt>てきせつ</rt></ruby>で、<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>正当<rt>せいとう</rt></ruby>で、<ruby>一<rt>いち</rt></ruby><ruby>点<rt>てん</rt></ruby>の<ruby>非の打ち所<rt>ひのうちどころ</rt></ruby>もない<ruby>状態<rt>じょうたい</rt></ruby>」**を<ruby>表<rt>あらわ</rt></ruby>す<ruby>非常<rt>ひじょう</rt></ruby>にポジティブで<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>です。
