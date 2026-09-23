@@ -275,6 +275,10 @@ def md_to_gutenberg(md_text):
 # 記事リストを読み込んで Gutenberg HTML に変換
 posts_dir = "content/posts"
 files = sorted(glob.glob(os.path.join(posts_dir, "*.md")))
+if len(sys.argv) > 1 and sys.argv[1].strip():
+    filter_arg = sys.argv[1].strip()
+    files = [f for f in files if filter_arg in f]
+    print(f"Filtered files by '{filter_arg}': {len(files)} files matched.")
 
 updates = []
 for fpath in files:
@@ -287,7 +291,9 @@ for fpath in files:
     if len(parts) >= 3:
         fm = parts[1]
         slug_match = re.search(r'slug:\s*["\']?([^"\']+)["\']?', fm)
-        title_match = re.search(r'title:\s*["\']?([^"\']+)["\']?', fm)
+        title_match = re.search(r'title:\s*["\'](.*?)["\']\s*$', fm, flags=re.MULTILINE)
+        if not title_match:
+            title_match = re.search(r'title:\s*(.+)$', fm, flags=re.MULTILINE)
         desc_match = re.search(r'description:\s*["\']?([^"\']+)["\']?', fm)
         date_match = re.search(r'date:\s*["\']?([^"\']+)["\']?', fm)
         thumb_match = re.search(r'thumbnail:\s*["\']?([^"\']+)["\']?', fm)
@@ -310,6 +316,35 @@ for fpath in files:
             desc = desc_match.group(1).strip() if desc_match else ""
             date_val = date_match.group(1).strip() if date_match else ""
             thumb_path = thumb_match.group(1).strip() if thumb_match else ""
+
+            # タイトルルール強制ガード: カテゴリプレフィックスが漏れている場合の自動付与
+            expected_prefix = None
+            if slug.startswith('culture-shock') or (cats and 'カルチャー' in cats[0]):
+                expected_prefix = 'カルチャーショック：'
+            elif slug.startswith('street-japanese') or slug.startswith('street-') or (cats and ('街角' in cats[0] or 'サバイバル' in cats[0])):
+                expected_prefix = '街角サバイバル：'
+            elif slug.startswith('kotoba-no-aya') or (cats and 'ことば' in cats[0]):
+                expected_prefix = 'ことばのあや：'
+            elif slug.startswith('japanese-comparing') or 'comparing' in slug or (cats and ('くらべて' in cats[0] or '納得' in cats[0])):
+                expected_prefix = 'くらべてみました：'
+
+            if expected_prefix:
+                clean_t = title
+                # 既存の各種プレフィックス（ルビ付き・表記揺れ含む）を除去
+                prefixes_to_clean = [
+                    r'^(?:<ruby>街角<rt>.*?</rt></ruby>|街角)サバイバル[：:]\s*',
+                    r'^街角サバイバル[：:]\s*',
+                    r'^(?:<ruby>言葉<rt>.*?</rt></ruby>|ことば)のあや[：:]\s*',
+                    r'^ことばのあや[：:]\s*',
+                    r'^カルチャーショック[：:]\s*',
+                    r'^くらべてみました[：:]\s*',
+                    r'^くらべて<ruby>納得<rt>.*?</rt></ruby>[！!]?[：:]\s*',
+                    r'^くらべて納得[！!]?[：:]\s*',
+                ]
+                for p_pat in prefixes_to_clean:
+                    clean_t = re.sub(p_pat, '', clean_t)
+                title = f"{expected_prefix}{clean_t}"
+
             html_body = md_to_gutenberg(c)
             updates.append({
                 "slug": slug,
@@ -506,6 +541,10 @@ foreach ($data as $item) {
 
         if (!empty($cat_ids)) {
             wp_set_post_categories($p->ID, $cat_ids);
+        }
+
+        if (!empty($item['tags'])) {
+            wp_set_post_tags($p->ID, $item['tags'], false);
         }
 
         if ($thumb_id > 0) {
