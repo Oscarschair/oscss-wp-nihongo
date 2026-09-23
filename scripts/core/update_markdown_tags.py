@@ -4,7 +4,7 @@ import os
 
 # 全39記事に対する新タグ10種類の精密割り当て
 TAG_MAPPING = {
-    # くらべて納得！系 (8記事)
+    # くらべてみました系 (8記事)
     "japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions": [
         "ニュアンスの違い", "日常会話"
     ],

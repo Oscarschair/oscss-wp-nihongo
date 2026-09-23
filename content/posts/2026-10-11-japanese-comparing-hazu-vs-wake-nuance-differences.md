@@ -111,7 +111,7 @@ JLPT（<ruby>日本語<rt>にほんご</rt></ruby><ruby>能力<rt>のうりょ�
 
 ---
 
-[oscss_series category="comparing" title="⚖️ 「くらべて納得！」連載シリーズ"]
+[oscss_series category="comparing" title="⚖️ 「くらべてみました」連載シリーズ"]
 
-[oscss_related slug="japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions" label="くらべて納得：「さようなら」VS「またね」の違い"]
-[oscss_related slug="japanese-comparing-zenzen-and-mattaku-differences" label="くらべて納得：「全然」VS「全く」の違い"]
+[oscss_related slug="japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions" label="くらべてみました：「さようなら」VS「またね」の違い"]
+[oscss_related slug="japanese-comparing-zenzen-and-mattaku-differences" label="くらべてみました：「全然」VS「全く」の違い"]

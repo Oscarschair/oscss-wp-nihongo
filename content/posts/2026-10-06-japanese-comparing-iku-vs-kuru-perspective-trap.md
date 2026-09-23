@@ -102,7 +102,7 @@ tags:
 
 ---
 
-[oscss_series category="comparing" title="⚖️ 「くらべて納得！」連載シリーズ"]
+[oscss_series category="comparing" title="⚖️ 「くらべてみました」連載シリーズ"]
 
-[oscss_related slug="japanese-comparing-chotto-and-sukoshi-differences" label="くらべて納得：「ちょっと」VS「少し」の違い"]
-[oscss_related slug="japanese-comparing-futoru-futotteiru-aspect-differences" label="くらべて納得：「太る」と「太っている」の違い"]
+[oscss_related slug="japanese-comparing-chotto-and-sukoshi-differences" label="くらべてみました：「ちょっと」VS「少し」の違い"]
+[oscss_related slug="japanese-comparing-futoru-futotteiru-aspect-differences" label="くらべてみました：「太る」と「太っている」の違い"]
