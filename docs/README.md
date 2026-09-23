@@ -11,6 +11,7 @@
 | **全体アーキテクチャ** | テンプレート階層、PHPモジュール構造、CSS/JSアーキテクチャ | [architecture.md](file:///c:/Users/user/git/oscss-wp-nihongo/docs/architecture.md) |
 | **デプロイ・環境構築手順** | テーマのインストール、有効化、更新、ローカル開発手順 | [deployment.md](file:///c:/Users/user/git/oscss-wp-nihongo/docs/deployment.md) |
 | **機能・テンプレート仕様書** | 各テンプレート・コンポーネント・ショートコードの詳細仕様 | [domains/theme-spec.md](file:///c:/Users/user/git/oscss-wp-nihongo/docs/domains/theme-spec.md) |
+| **投稿タイトル規格ガイドライン** | カテゴリー名プレフィックス必須化・表記揺れ防止ルール | [domains/post-title-guidelines.md](file:///c:/Users/user/git/oscss-wp-nihongo/docs/domains/post-title-guidelines.md) |
 | **ADR（意思決定ログ）** | 設計判断・技術選定の経緯記録 | [adr/](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/) |
 | **運用・障害対応手順書** | キャッシュ管理、日常保守、トラブルシューティング | [ops/](file:///c:/Users/user/git/oscss-wp-nihongo/docs/ops/) |
 
@@ -18,6 +19,7 @@
 - [0001: テーマ基本アーキテクチャ設計](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0001-theme-architecture.md)
 - [0002: SEOモジュラーリファクタリング](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0002-seo-modular-refactoring.md)
 - [0003: 外国人学習者向け全記事・全漢字へのHTML5ルビ（<ruby><rt>）標準適用方針](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0003-universal-kanji-ruby-policy.md)
+- [0004: 投稿タイトルのカテゴリー名プレフィックス必須化および表記統一](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0004-post-title-category-prefix-standardization.md)
 
 ---
 
