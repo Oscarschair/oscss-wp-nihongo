@@ -189,7 +189,7 @@ function oscss_related_post_shortcode( $atts ) {
 			<a href="%1$s" class="c-blog-card">
 				<div class="c-blog-card__inner">
 					<div class="c-blog-card__media">
-						<img src="%2$s" alt="%3$s" class="c-blog-card__img" loading="lazy" width="140" height="100">
+						<img src="%2$s" alt="%3$s" class="c-blog-card__img" loading="lazy" width="240" height="135">
 					</div>
 					<div class="c-blog-card__body">
 						<span class="c-blog-card__label">📖 %4$s</span>
