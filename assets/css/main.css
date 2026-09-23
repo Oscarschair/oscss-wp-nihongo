@@ -105,8 +105,18 @@ a:hover {
 	border-bottom: 1px solid var(--color-border);
 	position: sticky;
 	top: 0;
-	z-index: 100;
+	z-index: 99990 !important;
 	transition: box-shadow var(--transition-normal);
+}
+
+body.admin-bar .l-header {
+	top: 32px;
+}
+
+@media screen and (max-width: 782px) {
+	body.admin-bar .l-header {
+		top: 46px;
+	}
 }
 
 .l-header.is-scrolled {
@@ -294,18 +304,19 @@ a:hover {
 	.l-header__menu .sub-menu {
 		position: absolute;
 		top: 100%;
-		left: 0;
+		right: 0;
+		left: auto;
 		min-width: 220px;
 		background: #ffffff;
 		border: 1px solid var(--color-border);
 		border-radius: var(--radius-md);
-		box-shadow: var(--shadow-xl);
+		box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
 		padding: var(--space-2) 0;
 		opacity: 0;
 		visibility: hidden;
 		transform: translateY(8px);
 		transition: opacity var(--transition-fast), transform var(--transition-fast), visibility var(--transition-fast);
-		z-index: 1000;
+		z-index: 99999 !important;
 		pointer-events: none;
 	}
 
@@ -3975,6 +3986,16 @@ rt {
 		font-size: 0.85rem;
 		line-height: 1.7;
 	}
+}
+
+/* --------------------------------------------------
+ * Google AdSense サイドレール広告 / 自動広告の前面被り完全防止
+ * -------------------------------------------------- */
+.google-auto-placed,
+ins.adsbygoogle[data-ad-status],
+iframe[id^="aswift_"],
+#google_esf {
+	z-index: 80 !important;
 }
 
 
