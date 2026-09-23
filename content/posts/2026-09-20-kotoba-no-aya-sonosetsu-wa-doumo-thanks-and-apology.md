@@ -4,12 +4,12 @@ slug: "kotoba-no-aya-sonosetsu-wa-doumo"
 date: "2026-09-20T08:00:00+09:00"
 categories:
   - "ことばのあや"
-jlpt: "N2"
+jlpt: "N3"
 tags:
   - ニュアンスの違い
   - 敬語・ビジネスマナー
   - 日本文化・マナー
-  - JLPT N2
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-kotoba-sonosetsu-doumo.jpg"
 description: "「あ、その節はどうも…」の『その節』って一体いつの話！？感謝なのかお詫びなのか、なぜ語尾を濁すのか？日本人が過去の出来事をあえて具体的に言わずに共有する「察しの美学」と大人の処世術を徹底解剖！"
 ---

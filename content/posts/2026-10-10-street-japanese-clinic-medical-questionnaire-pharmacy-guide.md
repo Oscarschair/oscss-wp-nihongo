@@ -11,9 +11,9 @@ jlpt: "N3〜N2"
 tags:
   - 日常会話
   - 生活・手続き
+  - 
   - JLPT N3
   - JLPT N2
----
 <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしていて、<ruby>突然<rt>とつぜん</rt></ruby>の<ruby>高熱<rt>こうねつ</rt></ruby>や<ruby>腹痛<rt>はらいた</rt></ruby>に<ruby>襲<rt>おそ</rt></ruby>われたとき。
 ただでさえ<ruby>体<rt>からだ</rt></ruby>がだるくて<ruby>弱<rt>よわ</rt></ruby>っているのに、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>にとって<ruby>最大<rt>さいだい</rt></ruby>の<ruby>試練<rt>しれん</rt></ruby>となるのが**「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>（クリニック）サバイバル」**です。
 

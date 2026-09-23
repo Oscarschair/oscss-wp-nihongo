@@ -6,13 +6,14 @@ date: "2026-09-30T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-cafe-leaving-smartphone.jpg"
 categories:
   - "カルチャーショック"
-jlpt: "N3"
+jlpt: "N4〜N3"
 tags:
   - 異文化比較・香港
   - 日本文化・マナー
   - 生活・手続き
+  - 
+  - JLPT N4
   - JLPT N3
----
 <ruby>日本<rt>にっぽん</rt></ruby>のスターバックスやカフェ、フードコートに<ruby>初<rt>はじ</rt></ruby>めて<ruby>足<rt>あし</rt></ruby>を<ruby>踏み入<rt>ふみい</rt></ruby>れた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>観光<rt>かんこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>が、<ruby>間違<rt>まちが</rt></ruby>いなく<strong><ruby>息<rt>いき</rt></ruby>を<ruby>呑<rt>の</rt></ruby>んで<ruby>目<rt>め</rt></ruby>を<ruby>疑<rt>うたが</rt></ruby>う<ruby>光景<rt>こうけい</rt></ruby></strong>があります。
 
 > 🚗 クルマ：「ふぅ〜、<ruby>歩き疲<rt>あるきつか</rt></ruby>れたから<ruby>渋谷<rt>しぶや</rt></ruby>のおしゃれなカフェでアイスラテでも<ruby>飲<rt>の</rt></ruby>もうかな。……あれ？ あの<ruby>窓際<rt>まどぎわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>も<ruby>座<rt>すわ</rt></ruby>ってないのにテーブルの<ruby>上<rt>うえ</rt></ruby>に<strong><ruby>最新<rt>さいしん</rt></ruby>のピカピカなiPhone</strong>がポツンと<ruby>置<rt>お</rt></ruby>かれてるぞ？」

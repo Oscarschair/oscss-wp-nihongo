@@ -7,13 +7,14 @@ date: "2026-10-06T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-iku-kuru.jpg"
 categories:
   - "くらべてみました"
-jlpt: "N3"
+jlpt: "N4〜N3"
 tags:
   - ニュアンスの違い
   - 日本語文法
   - 日常会話
+  - 
+  - JLPT N4
   - JLPT N3
----
 <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>なら、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>はこんな「<ruby>事件<rt>じけん</rt></ruby>」を<ruby>経験<rt>けいけん</rt></ruby>したことがあるはずです。
 
 > 🇯🇵 **<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>**：「オスカーくん、<ruby>準備<rt>じゅんび</rt></ruby>できたよー！ <ruby>早<rt>はや</rt></ruby>くおいで〜！」

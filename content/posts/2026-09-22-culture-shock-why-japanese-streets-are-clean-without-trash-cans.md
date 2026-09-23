@@ -4,12 +4,12 @@ slug: "culture-shock-why-japanese-streets-are-clean-without-trash-cans"
 date: "2026-09-22T08:00:00+09:00"
 categories:
   - "カルチャーショック"
-jlpt: "N3"
+jlpt: "N2"
 tags:
   - 異文化比較・香港
   - 日本文化・マナー
   - 生活・手続き
-  - JLPT N3
+  - JLPT N2
 thumbnail: "assets/images/thumbnails/thumb-culture-no-trash-cans-clean-streets.jpg"
 description: "香港には数十メートルおきにゴミ箱を設置する法律・基準があり、ポイ捨ては即座に高額罰金。一方、日本の街角にはゴミ箱が一切ないのに、なぜ道はピカピカなのか？自販機横の「リサイクルBOX」の罠と、日本人がゴミを持ち帰る3つの秘密。"
 ---

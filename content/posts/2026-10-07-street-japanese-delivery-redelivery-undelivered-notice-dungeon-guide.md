@@ -7,13 +7,13 @@ date: "2026-10-07T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-street-delivery-redelivery.jpg"
 categories:
   - "街角サバイバル"
-jlpt: "N3"
+jlpt: "N2"
 tags:
   - 日常会話
   - 生活・手続き
   - 日本文化・マナー
-  - JLPT N3
----
+  - 
+  - JLPT N2
 <ruby>日本<rt>にっぽん</rt></ruby>での<ruby>新<rt>しん</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まり、<ruby>待<rt>ま</rt></ruby>ちに<ruby>待<rt>ま</rt></ruby>ったネットショッピングの<ruby>荷物<rt>にもつ</rt></ruby>。
 「<ruby>今日<rt>きょう</rt></ruby><ruby>届<rt>とど</rt></ruby>くはず！」とワクワクしながら<ruby>夕方<rt>ゆうがた</rt></ruby>に<ruby>帰宅<rt>きたく</rt></ruby>して<ruby>郵便受<rt>ゆうびんう</rt></ruby>けを<ruby>開<rt>あ</rt></ruby>けた<ruby>瞬間<rt>しゅんかん</rt></ruby>、あなたの<ruby>目<rt>め</rt></ruby>に<ruby>飛び込<rt>とびこ</rt></ruby>んでくる**1<ruby>枚<rt>まい</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さな<ruby>紙片<rt>しへん</rt></ruby>**があります。
 

@@ -10,8 +10,8 @@ jlpt: "N3"
 tags:
   - ニュアンスの違い
   - 日常会話
+  - 
   - JLPT N3
----
 <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>していると、「<ruby>推測<rt>すいそく</rt></ruby>（たぶん〜だと<ruby>思<rt>おも</rt></ruby>う）」を<ruby>表<rt>あらわ</rt></ruby>す<ruby>言葉<rt>ことば</rt></ruby>がたくさんあって<ruby>迷<rt>まよ</rt></ruby>ったことはありませんか？
 
 > 👨‍💼 <ruby>上司<rt>じょうし</rt></ruby>：「オスカーくん、<ruby>明日<rt>あした</rt></ruby>の<ruby>納品<rt>のうひん</rt></ruby>データ、<ruby>午後<rt>ごご</rt></ruby>イチまでに<ruby>間に合<rt>まにあ</rt></ruby>いそう？」

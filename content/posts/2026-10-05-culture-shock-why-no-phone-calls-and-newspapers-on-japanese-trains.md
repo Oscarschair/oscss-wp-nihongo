@@ -6,13 +6,13 @@ date: "2026-10-05T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-train-silence-phone.jpg"
 categories:
   - "カルチャーショック"
-jlpt: "N3"
+jlpt: "N2"
 tags:
   - 異文化比較・香港
   - 街歩き・交通
   - 日本文化・マナー
-  - JLPT N3
----
+  - 
+  - JLPT N2
 # カルチャーショック：なぜ<ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>では<ruby>電話<rt>でんわ</rt></ruby>もダメで、<ruby>新聞紙<rt>しんぶんし</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるのもNGなの！？——「<ruby>音<rt>おと</rt></ruby>と<ruby>空間<rt>くうかん</rt></ruby>」の<ruby>沈黙<rt>ちんもく</rt></ruby>マナーと、<ruby>嫌<rt>いや</rt></ruby>な<ruby>電話<rt>でんわ</rt></ruby>を1<ruby>秒<rt>びょう</rt></ruby>で<ruby>切<rt>き</rt></ruby>る<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>ワザ
 
 <ruby>香港<rt>ほんこん</rt></ruby>や<ruby>欧米<rt>おうべい</rt></ruby>、アジア<ruby>各地<rt>かくち</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったことがある<ruby>方<rt>かた</rt></ruby>なら、<ruby>車内<rt>しゃない</rt></ruby>のにぎやかさに<ruby>慣<rt>な</rt></ruby>れているはずです。

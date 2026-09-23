@@ -12,8 +12,8 @@ tags:
   - 異文化比較・香港
   - 食文化
   - 生活・手続き
+  - 
   - JLPT N3
----
 <ruby>日本<rt>にっぽん</rt></ruby>のスーパーやコンビニでお<ruby>弁当<rt>べんとう</rt></ruby>やお<ruby>菓子<rt>かし</rt></ruby>を<ruby>買<rt>か</rt></ruby>うとき、パッケージの<ruby>裏面<rt>りめん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>誰<rt>だれ</rt></ruby>もが<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>はフリーズする<ruby>瞬間<rt>しゅんかん</rt></ruby>があります。
 
 > 🥛 **<ruby>牛乳パック<rt>ぎゅうにゅうぱっく</rt></ruby>の<ruby>表示<rt>ひょうじ</rt></ruby>**：「**<ruby>賞味<rt>しょうみ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>**：26.10.15」

@@ -11,8 +11,8 @@ tags:
   - ニュアンスの違い
   - 日本文化・マナー
   - 敬語・ビジネスマナー
+  - 
   - JLPT N2
----
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>や<ruby>友人<rt>ゆうじん</rt></ruby>からお<ruby>土産<rt>みやげ</rt></ruby>（<ruby>手土産<rt>てみやげ</rt></ruby>）をもらったとき、こんな<ruby>衝撃<rt>しょうげき</rt></ruby><ruby>的<rt>てき</rt></ruby>なセリフを<ruby>聞<rt>き</rt></ruby>いたことはありませんか？
 
 > 👨‍💼 <ruby>日本人<rt>にっぽんじん</rt></ruby>：「オスカーさん、これ、<strong><ruby>本当<rt>ほんとう</rt></ruby>につまらないものですが……</strong>どうぞお<ruby>納<rt>おさ</rt></ruby>めください」

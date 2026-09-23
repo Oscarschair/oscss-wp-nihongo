@@ -4,10 +4,11 @@ slug: "japanese-comparing-chotto-and-sukoshi-differences"
 date: "2026-09-23T08:00:00+09:00"
 categories:
   - "くらべてみました"
-jlpt: "N3"
+jlpt: "N4〜N3"
 tags:
   - ニュアンスの違い
   - 日常会話
+  - JLPT N4
   - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-kurabete-chotto-sukoshi.jpg"
 description: "「少し」と「ちょっと」、どちらも「少ない量」を指す言葉ですが、なぜ日本人は誘いを断る時に「今夜はちょっと…」とだけ言って語尾を消すのか？客観的な物理量を表す「少し」と、心理的クッション・遠慮を込める「ちょっと」の決定的な違いと文化の深層を徹底比較！"

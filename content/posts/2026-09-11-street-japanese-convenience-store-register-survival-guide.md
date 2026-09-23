@@ -4,12 +4,11 @@ slug: "street-japanese-convenience-store-register-survival-guide"
 date: "2026-09-11T00:18:00+09:00"
 categories:
   - "街角サバイバル"
-jlpt: "N4〜N3"
+jlpt: "N3"
 tags:
   - 日常会話
   - 接客・レジ日本語
   - 生活・手続き
-  - JLPT N4
   - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-street-convenience-register.jpg"
 description: "香港のコンビニは無言でスピーディー。でも日本のコンビニは「袋・温め・ポイントカード」と次々に回答を求めてくる！？来日初心者が一番緊張する「レジの3大トラップ」を突破する神フレーズとRPG攻略チャート。"

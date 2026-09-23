@@ -6,11 +6,12 @@ date: "2026-09-29T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-street-umbrella-stand-rpg.jpg"
 categories:
   - "街角サバイバル"
-jlpt: "N3"
+jlpt: "N4〜N3"
 tags:
   - 日常会話
   - 街歩き・交通
   - 日本文化・マナー
+  - JLPT N4
   - JLPT N3
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby>する<strong>「<ruby>最大<rt>さいだい</rt></ruby>のミステリー」</strong>があります。
 

@@ -11,8 +11,8 @@ tags:
   - ニュアンスの違い
   - 日常会話
   - 敬語・ビジネスマナー
+  - 
   - JLPT N2
----
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>職場<rt>しょくば</rt></ruby>で、<ruby>先輩<rt>せんぱい</rt></ruby>や<ruby>上司<rt>じょうし</rt></ruby>からこんな<ruby>風<rt>かぜ</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかけられたことはありませんか？
 
 > 👨‍💼 <ruby>上司<rt>じょうし</rt></ruby>：「オスカーくん、この<ruby>資料<rt>しりょう</rt></ruby>、<ruby>夕方<rt>ゆうがた</rt></ruby>までに<strong><ruby>適当<rt>てきとう</rt></ruby>にまとめておいて〜</strong>」

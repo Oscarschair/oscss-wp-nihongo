@@ -12,8 +12,8 @@ tags:
   - 異文化比較・香港
   - 日本文化・マナー
   - 生活・手続き
+  - 
   - JLPT N2
----
 <ruby>香港<rt>ほんこん</rt></ruby>や<ruby>欧米<rt>おうべい</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれ<ruby>育<rt>そだ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>にとって、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>身元<rt>みもと</rt></ruby>や<ruby>意思<rt>いし</rt></ruby>を<ruby>証明<rt>しょうめい</rt></ruby>する<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>武器<rt>ぶき</rt></ruby>は**「<ruby>手書<rt>てが</rt></ruby>きのサイン（<ruby>署名<rt>しょめい</rt></ruby>）」**です。
 パスポートも、クレジットカードも、<ruby>家<rt>いえ</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby>も、すべて<ruby>自分<rt>じぶん</rt></ruby>の<ruby>手<rt>て</rt></ruby>でサラサラッとサインを<ruby>書<rt>か</rt></ruby>けばクリアできます。
 

@@ -12,8 +12,8 @@ tags:
   - ニュアンスの違い
   - 日本語文法
   - 日常会話
+  - 
   - JLPT N3
----
 JLPT（<ruby>日本語<rt>にほんご</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>）のN3やN2を<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が、100%<ruby>頭<rt>あたま</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えるツートップ<ruby>文法<rt>ぶんぽう</rt></ruby>。
 それが**「〜はずです」**と**「〜わけです」**です。
 

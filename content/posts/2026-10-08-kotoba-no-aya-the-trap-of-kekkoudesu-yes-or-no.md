@@ -7,13 +7,14 @@ date: "2026-10-08T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-kekkoudesu-trap.jpg"
 categories:
   - "ことばのあや"
-jlpt: "N2"
+jlpt: "N4〜N3"
 tags:
   - ニュアンスの違い
   - 日常会話
   - 敬語・ビジネスマナー
-  - JLPT N2
----
+  - 
+  - JLPT N4
+  - JLPT N3
 <ruby>日本<rt>にっぽん</rt></ruby>のカフェやレストラン、そして<ruby>会社<rt>かいしゃ</rt></ruby>のオフィスで、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>は<ruby>背筋<rt>せすじ</rt></ruby>を<ruby>凍<rt>こお</rt></ruby>らせたことがあるこのフレーズ。
 
 > ☕ **<ruby>店員<rt>てんいん</rt></ruby>さん**：「お<ruby>客様<rt>きゃくさま</rt></ruby>、<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>のおかわりはいかがですか？」
