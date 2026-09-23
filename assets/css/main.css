@@ -3705,13 +3705,22 @@ rt {
 }
 
 .c-series-list__item--current {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
 	font-weight: 700;
 	color: #0f172a;
 	background: #f8faff;
 	margin: 0 -10px;
-	padding: 8px 10px;
+	padding: 10px 14px;
 	border-radius: 8px;
 	border-bottom: none;
+}
+
+.c-series-list__meta {
+	display: flex;
+	align-items: center;
+	gap: 8px;
 }
 
 .c-series-list__item--current .c-series-list__badge {
@@ -3719,13 +3728,42 @@ rt {
 	color: #ffffff;
 }
 
-.c-series-list__current-label {
-	display: inline-block;
+.c-series-list__current-pill {
+	display: inline-flex;
+	align-items: center;
+	background: #ecfdf5;
 	color: #059669;
-	font-size: 0.8rem;
-	font-weight: 600;
-	margin-left: 8px;
+	border: 1px solid #a7f3d0;
+	font-size: 0.72rem;
+	font-weight: 700;
+	padding: 1px 8px;
+	border-radius: 9999px;
 	white-space: nowrap;
+	line-height: 1.4;
+}
+
+.c-series-list__text {
+	font-size: 0.95rem;
+	line-height: 1.8;
+	color: #0f172a;
+	padding-left: 2px;
+}
+
+/* 連載枠内への広告混入完全防止 */
+.c-series-box ins,
+.c-series-box .adsbygoogle,
+.c-series-box .google-auto-placed,
+.c-series-box [data-ad-client],
+.c-series-box [data-ad-slot],
+.c-series-box [id^="google_ads"] {
+	display: none !important;
+	width: 0 !important;
+	height: 0 !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	opacity: 0 !important;
+	pointer-events: none !important;
+	visibility: hidden !important;
 }
 
 @media (max-width: 639px) {
@@ -3750,12 +3788,13 @@ rt {
 	}
 	.c-series-list__item--current {
 		margin: 0 -6px;
-		padding: 6px 6px;
+		padding: 8px 10px;
+		gap: 6px;
 	}
-	.c-series-list__current-label {
-		width: 100%;
-		margin-left: 0;
-		padding-left: 44px;
+	.c-series-list__text {
+		font-size: 0.88rem;
+		line-height: 1.7;
+		padding-left: 0;
 	}
 }
 

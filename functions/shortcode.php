@@ -273,13 +273,13 @@ function oscss_series_list_shortcode( $atts ) {
 
 		if ( $is_current ) {
 			$items_html .= sprintf(
-				'<li class="c-series-list__item c-series-list__item--current"><span class="c-series-list__badge">第%d弾</span><span class="c-series-list__text">%s</span><span class="c-series-list__current-label">（今読んでいる記事）</span></li>',
+				'<li class="c-series-list__item c-series-list__item--current google-anno-skip"><div class="c-series-list__meta"><span class="c-series-list__badge">第%d弾</span><span class="c-series-list__current-pill">今読んでいる記事</span></div><span class="c-series-list__text">%s</span></li>',
 				$index,
 				$item_title
 			);
 		} else {
 			$items_html .= sprintf(
-				'<li class="c-series-list__item"><span class="c-series-list__badge">第%d弾</span><a href="%s" class="c-series-list__link">%s</a></li>',
+				'<li class="c-series-list__item google-anno-skip"><span class="c-series-list__badge">第%d弾</span><a href="%s" class="c-series-list__link">%s</a></li>',
 				$index,
 				$url,
 				$item_title
@@ -289,7 +289,7 @@ function oscss_series_list_shortcode( $atts ) {
 	}
 
 	return sprintf(
-		'<aside class="c-series-box"><div class="c-series-box__header">%s</div><ul class="c-series-list">%s</ul></aside>',
+		'<aside class="c-series-box google-anno-skip no-ads adsbygoogle-noab" data-google-anno-skip="true"><div class="c-series-box__header">%s</div><ul class="c-series-list google-anno-skip">%s</ul></aside>',
 		$title,
 		$items_html
 	);
