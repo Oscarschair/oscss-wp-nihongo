@@ -4,12 +4,12 @@ slug: "culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-ve
 date: "2026-09-09T08:00:00+09:00"
 categories:
   - "カルチャーショック"
+jlpt: "N3"
 tags:
-  - "カルチャーショック"
-  - "日本食"
-  - "炭水化物"
-  - "餃子"
-  - "食文化の違い"
+  - 異文化比較・香港
+  - 食文化
+  - 日本文化・マナー
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-culture-carb-combo.jpg"
 description: "香港や中華圏では炒飯も餃子もビーフンも1品で完結する「主食」。なのに日本の定食屋では「ラーメン＋半チャーハン」「餃子定食」「焼きそばパン」と主食×主食のオンパレード！？食文化の決定的な違いと魅力を徹底解説。"
 ---

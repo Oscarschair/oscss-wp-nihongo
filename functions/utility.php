@@ -68,6 +68,19 @@ function oscss_posted_on() {
 }
 
 /**
+ * カード用の投稿日HTMLを出力（更新日は省略して省スペース化）
+ */
+function oscss_posted_on_card() {
+	$time_string = sprintf(
+		'<time class="entry-date published" datetime="%1$s">%2$s</time>',
+		esc_attr( get_the_date( DATE_W3C ) ),
+		esc_html( get_the_date() )
+	);
+
+	echo '<span class="c-post-meta__item c-post-meta__date"><span class="c-post-meta__icon" aria-hidden="true">' . oscss_get_icon( 'calendar', 13 ) . '</span> ' . $time_string . '</span>';
+}
+
+/**
  * カテゴリーバッジを出力
  */
 function oscss_entry_category() {
@@ -271,6 +284,40 @@ function oscss_posted_views( $post_id = null ) {
 		esc_attr( sprintf( __( '閲覧数: %d回', 'oscss-wp-nihongo' ), $views ) ),
 		oscss_get_icon( 'eye', 13 ),
 		esc_html( number_format_i18n( $views ) )
+	);
+}
+
+/**
+ * JLPT目安レベルバッジHTMLを出力
+ *
+ * @param int|null $post_id 投稿ID
+ */
+function oscss_posted_jlpt_badge( $post_id = null ) {
+	if ( ! $post_id ) {
+		$post_id = get_the_ID();
+	}
+	$level = get_post_meta( $post_id, '_oscss_jlpt_level', true );
+	if ( empty( $level ) ) {
+		return;
+	}
+
+	// レベル判定用のクラス抽出 (n1, n2, n3, n4)
+	$class_level = 'other';
+	if ( stripos( $level, 'N1' ) !== false ) {
+		$class_level = 'n1';
+	} elseif ( stripos( $level, 'N2' ) !== false ) {
+		$class_level = 'n2';
+	} elseif ( stripos( $level, 'N3' ) !== false ) {
+		$class_level = 'n3';
+	} elseif ( stripos( $level, 'N4' ) !== false ) {
+		$class_level = 'n4';
+	}
+
+	printf(
+		'<span class="c-badge c-badge--jlpt c-badge--jlpt-%1$s" title="%2$s"><span class="c-badge__icon" aria-hidden="true">🎯</span> %3$s</span>',
+		esc_attr( $class_level ),
+		esc_attr( sprintf( __( '日本語能力試験の目安: %s', 'oscss-wp-nihongo' ), $level ) ),
+		esc_html( 'JLPT ' . $level )
 	);
 }
 

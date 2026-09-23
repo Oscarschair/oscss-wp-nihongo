@@ -6,14 +6,12 @@ date: "2026-10-01T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-street-kaitenzushi-rpg.jpg"
 categories:
   - "街角サバイバル"
+jlpt: "N3"
 tags:
-  - "街角サバイバル"
-  - "回転寿司"
-  - "寿司"
-  - "サバイバル"
-  - "日本食"
-  - "街角日本語"
-  - "レストラン"
+  - 日常会話
+  - 食文化
+  - 接客・レジ日本語
+  - JLPT N3
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>大人気<rt>だいにんき</rt></ruby>グルメスポット、<strong>「<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>（スシロー、くら<ruby>寿司<rt>すし</rt></ruby>、はま<ruby>寿司<rt>すし</rt></ruby>など）」</strong>！
 
 <ruby>安<rt>やす</rt></ruby>くて<ruby>美味<rt>おい</rt></ruby>しいお<ruby>寿司<rt>すし</rt></ruby>がレーンを<ruby>流<rt>なが</rt></ruby>れる<ruby>夢<rt>ゆめ</rt></ruby>のような<ruby>場所<rt>ばしょ</rt></ruby>ですが、<ruby>実<rt>じつ</rt></ruby>は<ruby>初<rt>はじ</rt></ruby>めて<ruby>訪<rt>おとず</rt></ruby>れた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>にとって、そこは<strong><ruby>未知<rt>みち</rt></ruby>のハイテクギミックが<ruby>仕掛<rt>しか</rt></ruby>けられた「<ruby>超<rt>ちょう</rt></ruby><ruby>高<rt>こう</rt></ruby><ruby>難<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>ダンジョン」</strong>でもあります！
@@ -30,7 +28,6 @@ tags:
 しかし、<ruby>試練<rt>しれん</rt></ruby>はこれだけではありません。<ruby>頭上<rt>ずじょう</rt></ruby>を<ruby>突如<rt>とつじょ</rt></ruby>ビュンッと<ruby>高速<rt>こうそく</rt></ruby>で<ruby>走り抜<rt>はしりぬ</rt></ruby>ける<strong>「<ruby>新幹線<rt>しんかんせん</rt></ruby><ruby>特急<rt>とっきゅう</rt></ruby>レーン」</strong>、テーブルの<ruby>横<rt>よこ</rt></ruby>にある<ruby>謎<rt>なぞ</rt></ruby>の<strong>「お<ruby>皿<rt>さら</rt></ruby>の<ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>」</strong>……！
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>ダンジョンに<ruby>挑<rt>いど</rt></ruby>むすべての<ruby>冒険<rt>ぼうけん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のために、<ruby>席<rt>せき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いてからお<ruby>会計<rt>かいけい</rt></ruby>までをスマートに<ruby>生き抜<rt>いきぬ</rt></ruby>く<strong>「<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>サバイバル<ruby>術<rt>じゅつ</rt></ruby>」</strong>を<ruby>徹底<rt>てってい</rt></ruby><ruby>伝授<rt>でんじゅ</rt></ruby>します！
-
 ---
 ## 1. <ruby>第<rt>だい</rt></ruby>1の<ruby>試練<rt>しれん</rt></ruby>：カウンターの「<ruby>激<rt>げき</rt></ruby><ruby>熱<rt>ねつ</rt></ruby>お<ruby>湯<rt>ゆ</rt></ruby><ruby>蛇口<rt>じゃぐち</rt></ruby> ＆ <ruby>粉末<rt>ふんまつ</rt></ruby><ruby>茶<rt>ちゃ</rt></ruby>」を<ruby>攻略<rt>こうりゃく</rt></ruby>せよ！
 

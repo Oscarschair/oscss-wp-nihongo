@@ -4,13 +4,13 @@ slug: "japanese-comparing-ageru-kureru-morau-differences-in-giving-and-receiving
 date: "2026-09-15T08:00:00+09:00"
 categories:
   - "くらべてみました"
+jlpt: "N4〜N3"
 tags:
-  - "くらべてみました"
-  - "あげる"
-  - "くれる"
-  - "もらう"
-  - "授受動詞"
-  - "日本語文法"
+  - ニュアンスの違い
+  - 日本語文法
+  - 日常会話
+  - JLPT N4
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-kurabete-ageru-kureru.jpg"
 description: "英語なら「give」1語で済むのに、日本語ではなぜ「あげる」と「くれる」で単語が分かれるのか？矢印が内側（自分側）に向くか外側に向くか、日本人の「ウチとソト」の人間関係がそのまま言葉になった授受表現の完全攻略ガイド。"
 ---

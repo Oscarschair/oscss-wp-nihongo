@@ -6,13 +6,12 @@ date: "2026-09-25T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-tekitou-trap.jpg"
 categories:
   - "ことばのあや"
+jlpt: "N2"
 tags:
-  - "適当"
-  - "テキトー"
-  - "ビジネス日本語"
-  - "中国語と日本語の違い"
-  - "ニュアンス"
-  - "言葉のあや"
+  - ニュアンスの違い
+  - 日常会話
+  - 敬語・ビジネスマナー
+  - JLPT N2
 ---
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>職場<rt>しょくば</rt></ruby>で、<ruby>先輩<rt>せんぱい</rt></ruby>や<ruby>上司<rt>じょうし</rt></ruby>からこんな<ruby>風<rt>かぜ</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかけられたことはありませんか？
 

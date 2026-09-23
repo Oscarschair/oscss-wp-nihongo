@@ -24,6 +24,7 @@ get_header();
 				<header class="c-entry__header">
 					<div class="c-entry__meta">
 						<?php oscss_entry_category(); ?>
+						<?php oscss_posted_jlpt_badge(); ?>
 						<?php oscss_posted_on(); ?>
 						<?php oscss_posted_reading_time(); ?>
 						<?php oscss_posted_views(); ?>

@@ -7,13 +7,12 @@ date: "2026-10-08T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-kekkoudesu-trap.jpg"
 categories:
   - "ことばのあや"
+jlpt: "N2"
 tags:
-  - "言葉のあや"
-  - "結構です"
-  - "本音と建前"
-  - "接客日本語"
-  - "ビジネス日本語"
-  - "ニュアンス"
+  - ニュアンスの違い
+  - 日常会話
+  - 敬語・ビジネスマナー
+  - JLPT N2
 ---
 <ruby>日本<rt>にっぽん</rt></ruby>のカフェやレストラン、そして<ruby>会社<rt>かいしゃ</rt></ruby>のオフィスで、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>は<ruby>背筋<rt>せすじ</rt></ruby>を<ruby>凍<rt>こお</rt></ruby>らせたことがあるこのフレーズ。
 
@@ -60,6 +59,8 @@ tags:
 
 <ruby>日本人<rt>にっぽんじん</rt></ruby>は「いりません！」「<ruby>嫌<rt>いや</rt></ruby>です！」とストレートに<ruby>拒絶<rt>きょぜつ</rt></ruby>するのを<ruby>嫌<rt>きら</rt></ruby>います。
 そこで、「あなたの<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>提案<rt>ていあん</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>ありがたいですが、**<ruby>私<rt>わたし</rt></ruby>は<ruby>今<rt>いま</rt></ruby>すでに<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>満ち足<rt>みちた</rt></ruby>りていますので**」という<ruby>極<rt>きわ</rt></ruby>めて<ruby>上品<rt>じょうひん</rt></ruby>なクッション<ruby>言葉<rt>ことば</rt></ruby>として「<ruby>結構<rt>けっこう</rt></ruby>です」を<ruby>使<rt>つか</rt></ruby>うようになったのです。
+
+![レジで差し出されたレシートに両手を添えて笑顔で「あ、結構です」と辞退するオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/kotoba-kekkoudesu-register-smile.jpg)
 
 ---
 

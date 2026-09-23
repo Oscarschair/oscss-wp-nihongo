@@ -5,6 +5,12 @@ category: "culture-shock"
 slug: "culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-restaurant"
 thumbnail: "assets/images/thumbnails/thumb-culture-onigiri-rice-shape.jpg"
 description: "日本の食卓では一般的な「おにぎり」や「ご飯の形を押し固める」文化。香港出身のオスカーが来日当初に覚えたカルチャーショックと、本場の中華料理店を見極めるチャーハンの盛り付けの秘密を解説します。"
+jlpt: "N3"
+tags:
+  - 異文化比較・香港
+  - 食文化
+  - 日本文化・マナー
+  - JLPT N3
 ---
 こんにちは、オスカーです。
 

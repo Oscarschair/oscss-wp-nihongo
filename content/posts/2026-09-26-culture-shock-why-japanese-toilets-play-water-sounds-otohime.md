@@ -6,13 +6,12 @@ date: "2026-09-26T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-otohime-toilet-sound.jpg"
 categories:
   - "カルチャーショック"
+jlpt: "N3"
 tags:
-  - "音姫"
-  - "トイレ"
-  - "日本のトイレ"
-  - "カルチャーショック"
-  - "TOTO"
-  - "日本文化"
+  - 異文化比較・香港
+  - 日本文化・マナー
+  - 生活・手続き
+  - JLPT N3
 ---
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>空港<rt>くうこう</rt></ruby>や<ruby>駅<rt>えき</rt></ruby>、デパートのトイレに<ruby>初<rt>はじ</rt></ruby>めて<ruby>入<rt>はい</rt></ruby>ったとき、こんな<ruby>不思議<rt>ふしぎ</rt></ruby>な<ruby>体験<rt>たいけん</rt></ruby>をしたことはありませんか？
 

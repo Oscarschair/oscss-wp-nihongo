@@ -6,14 +6,12 @@ date: "2026-10-03T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-street-ramen-ticket-rpg.jpg"
 categories:
   - "街角サバイバル"
+jlpt: "N3"
 tags:
-  - "街角サバイバル"
-  - "ラーメン"
-  - "券売機"
-  - "サバイバル"
-  - "日本食"
-  - "街角日本語"
-  - "家系ラーメン"
+  - 日常会話
+  - 食文化
+  - 接客・レジ日本語
+  - JLPT N3
 <ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たら<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>食<rt>た</rt></ruby>べたいソウルフード、<strong>「<ruby>日本<rt>にっぽん</rt></ruby>のラーメン」</strong>！
 
 しかし、<ruby>暖簾<rt>のれん</rt></ruby>をくぐって<ruby>店内<rt>てんない</rt></ruby>に<ruby>足<rt>あし</rt></ruby>を<ruby>踏み入<rt>ふみい</rt></ruby>れた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、いきなり<strong><ruby>巨大<rt>きょだい</rt></ruby>なモンスターのように<ruby>立<rt>た</rt></ruby>ちはだかる<ruby>壁<rt>かべ</rt></ruby></strong>があります。
@@ -29,7 +27,6 @@ tags:
 > 🚗 クルマ：「<strong>ヒエエエエッ！？ じゅ、<ruby>呪文<rt>じゅもん</rt></ruby>ですか！？ <ruby>私<rt>わたし</rt></ruby>、<ruby>何<rt>なに</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かれてるんですかーーーっ！？！？</strong>」
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>のラーメン<ruby>屋<rt>や</rt></ruby>を<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>攻略<rt>こうりゃく</rt></ruby>するための<strong>「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>法則<rt>ほうそく</rt></ruby>」</strong>と、<ruby>店員<rt>てんいん</rt></ruby>さんの<ruby>質問<rt>しつもん</rt></ruby>を<ruby>鮮<rt>あざ</rt></ruby>やかに<ruby>切り抜<rt>きりぬ</rt></ruby>ける<strong>「お<ruby>好<rt>この</rt></ruby>みコールの<ruby>魔法<rt>まほう</rt></ruby>」</strong>を<ruby>徹底<rt>てってい</rt></ruby><ruby>伝授<rt>でんじゅ</rt></ruby>します！
-
 ---
 ## 1. <ruby>第<rt>だい</rt></ruby>1の<ruby>試練<rt>しれん</rt></ruby>：100<ruby>個<rt>こ</rt></ruby>のボタンから<ruby>正解<rt>せいかい</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>法則<rt>ほうそく</rt></ruby>」
 

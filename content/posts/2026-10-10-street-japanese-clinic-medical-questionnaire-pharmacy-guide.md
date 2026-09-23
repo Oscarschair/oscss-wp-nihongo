@@ -7,14 +7,12 @@ date: "2026-10-10T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-street-clinic-hospital.jpg"
 categories:
   - "街角サバイバル"
+jlpt: "N3〜N2"
 tags:
-  - "街角サバイバル"
-  - "サバイバル"
-  - "病院"
-  - "クリニック"
-  - "処方箋"
-  - "日常会話"
-  - "医療日本語"
+  - 日常会話
+  - 生活・手続き
+  - JLPT N3
+  - JLPT N2
 ---
 <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしていて、<ruby>突然<rt>とつぜん</rt></ruby>の<ruby>高熱<rt>こうねつ</rt></ruby>や<ruby>腹痛<rt>はらいた</rt></ruby>に<ruby>襲<rt>おそ</rt></ruby>われたとき。
 ただでさえ<ruby>体<rt>からだ</rt></ruby>がだるくて<ruby>弱<rt>よわ</rt></ruby>っているのに、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>にとって<ruby>最大<rt>さいだい</rt></ruby>の<ruby>試練<rt>しれん</rt></ruby>となるのが**「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>病院<rt>びょういん</rt></ruby>（クリニック）サバイバル」**です。
@@ -42,6 +40,8 @@ tags:
 ## 1. <ruby>第<rt>だい</rt></ruby>1の<ruby>関門<rt>かんもん</rt></ruby>：<ruby>問診<rt>もんしん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>で<ruby>必<rt>かなら</rt></ruby>ず<ruby>出会<rt>であ</rt></ruby>う「<ruby>頻出<rt>ひんしゅつ</rt></ruby><ruby>医療<rt>いりょう</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>」
 
 <ruby>問診<rt>もんしん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>でよく<ruby>見<rt>み</rt></ruby>かけるチェックボックスの<ruby>漢字<rt>かんじ</rt></ruby>をまとめました。これさえスクショしておけば、<ruby>病院<rt>びょういん</rt></ruby>の<ruby>待合室<rt>まちあいしつ</rt></ruby>で<ruby>慌<rt>あわ</rt></ruby>てることはありません！
+
+![待合室で体温計をくわえたまま問診票の医療漢字に集中してペンを走らせるオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/street-clinic-questionnaire-fill.jpg)
 
 | <ruby>漢字<rt>かんじ</rt></ruby> | <ruby>読み方<rt>よみかた</rt></ruby> | <ruby>意味<rt>いみ</rt></ruby>（どういう<ruby>状態<rt>じょうたい</rt></ruby>か？） |
 | :--- | :--- | :--- |

@@ -4,13 +4,13 @@ slug: "street-japanese-station-ticket-gate-dungeon-guide"
 date: "2026-09-16T08:00:00+09:00"
 categories:
   - "街角サバイバル"
+jlpt: "N4〜N3"
 tags:
-  - "街角サバイバル"
-  - "サバイバル"
-  - "駅・電車"
-  - "日常会話"
-  - "接客日本語"
-  - "香港と日本の違い"
+  - 日常会話
+  - 街歩き・交通
+  - 生活・手続き
+  - JLPT N4
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-street-station-gate-rpg.jpg"
 description: "香港の地下鉄は残高マイナスでも出してくれる。でも日本の自動改札機は1円でも足りないと「ピンポーン！」と容赦なく赤い扉が閉まる！？朝のラッシュ時に背後から突き刺さる無言のプレッシャーと、駅員窓口で唱える脱出の神フレーズ。"
 ---

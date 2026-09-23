@@ -1499,13 +1499,24 @@ body.admin-bar .l-header {
 
 .c-card__meta {
 	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	justify-content: space-between;
-	gap: var(--space-2);
+	flex-direction: column;
+	gap: 6px;
 	font-size: var(--text-xs);
 	color: var(--color-text-muted);
 	margin-bottom: var(--space-3);
+}
+
+.c-card__meta-top {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 100%;
+	gap: var(--space-2);
+}
+
+.c-card__meta-badge {
+	display: flex;
+	align-items: center;
 }
 
 .c-post-meta__item {
@@ -1513,6 +1524,11 @@ body.admin-bar .l-header {
 	align-items: center;
 	gap: 4px;
 	line-height: 1.4;
+}
+
+.c-post-meta__views {
+	white-space: nowrap;
+	flex-shrink: 0;
 }
 
 .c-post-meta__date {
@@ -1646,6 +1662,63 @@ body.admin-bar .l-header {
 .c-badge--tag:hover {
 	background: var(--color-primary-light);
 	color: var(--color-primary);
+}
+
+/* JLPT 目安レベルバッジ (ピル型・上品なアクセント) */
+.c-badge--jlpt {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	font-size: 0.72rem;
+	font-weight: 700;
+	letter-spacing: 0.02em;
+	padding: 2px 9px;
+	border-radius: var(--radius-full);
+	line-height: 1.35;
+	vertical-align: middle;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+	border: 1px solid transparent;
+	transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.c-badge--jlpt .c-badge__icon {
+	font-size: 0.75rem;
+	line-height: 1;
+}
+
+/* N1: 上級 (淡いゴールド/アンバー) */
+.c-badge--jlpt-n1 {
+	background: #fef3c7;
+	color: #92400e;
+	border-color: #fde68a;
+}
+
+/* N2: 中上級 (淡いバイオレット/パープル) */
+.c-badge--jlpt-n2 {
+	background: #ede9fe;
+	color: #5b21b6;
+	border-color: #ddd6fe;
+}
+
+/* N3: 中級 (淡いスカイブルー) */
+.c-badge--jlpt-n3 {
+	background: #e0f2fe;
+	color: #0369a1;
+	border-color: #bae6fd;
+}
+
+/* N4: 初中級 (淡いミントグリーン) */
+.c-badge--jlpt-n4 {
+	background: #dcfce7;
+	color: #15803d;
+	border-color: #bbf7d0;
+}
+
+/* その他/未分類 */
+.c-badge--jlpt-other {
+	background: #f1f5f9;
+	color: #475569;
+	border-color: #e2e8f0;
 }
 
 /* ==========================================================================
@@ -3482,7 +3555,6 @@ section .ad-placeholder,
 ruby {
 	ruby-position: over;
 	ruby-align: center;
-	display: inline-ruby;
 }
 
 rt {
@@ -3546,10 +3618,10 @@ rt {
 .c-balloon__bubble {
 	position: relative;
 	max-width: calc(100% - 90px);
-	padding: 14px 18px;
+	padding: 16px 20px;
 	border-radius: 16px;
 	font-size: 15px;
-	line-height: 1.65;
+	line-height: 2.1;
 	color: #1e293b;
 	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
 }
@@ -3557,10 +3629,11 @@ rt {
 .c-balloon__bubble p {
 	margin: 0;
 	padding: 0;
+	line-height: 2.1;
 }
 
 .c-balloon__bubble p + p {
-	margin-top: 8px;
+	margin-top: 14px;
 }
 
 .c-balloon--l {

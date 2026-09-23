@@ -7,14 +7,12 @@ date: "2026-10-12T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-expiry-discount.jpg"
 categories:
   - "カルチャーショック"
+jlpt: "N3"
 tags:
-  - "カルチャーショック！"
-  - "賞味期限"
-  - "消費期限"
-  - "スーパー"
-  - "半額シール"
-  - "日本文化"
-  - "節約生活"
+  - 異文化比較・香港
+  - 食文化
+  - 生活・手続き
+  - JLPT N3
 ---
 <ruby>日本<rt>にっぽん</rt></ruby>のスーパーやコンビニでお<ruby>弁当<rt>べんとう</rt></ruby>やお<ruby>菓子<rt>かし</rt></ruby>を<ruby>買<rt>か</rt></ruby>うとき、パッケージの<ruby>裏面<rt>りめん</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>誰<rt>だれ</rt></ruby>もが<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>はフリーズする<ruby>瞬間<rt>しゅんかん</rt></ruby>があります。
 
@@ -70,6 +68,8 @@ tags:
 > <ruby>店員<rt>てんいん</rt></ruby>さんが<ruby>黄色<rt>きいろ</rt></ruby>いシール<ruby>機<rt>き</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってカゴの<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つと、<ruby>後<rt>うし</rt></ruby>ろからさりげなく<ruby>買い物<rt>かいもの</rt></ruby><ruby>客<rt>きゃく</rt></ruby>が3〜4<ruby>人<rt>にん</rt></ruby>、**「<ruby>決<rt>けっ</rt></ruby>して<ruby>店員<rt>てんいん</rt></ruby>さんを<ruby>急<rt>せ</rt></ruby>かさないように、でも<ruby>一番<rt>いちばん</rt></ruby><ruby>近<rt>ちか</rt></ruby>い<ruby>距離<rt>きょり</rt></ruby>」を<ruby>保<rt>たも</rt></ruby>ちながらソーシャルディスタンスで<ruby>行列<rt>ぎょうれつ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る**という、<ruby>無言<rt>むごん</rt></ruby>の<ruby>連携<rt>れんけい</rt></ruby>プレーが<ruby>繰り広<rt>くりひろ</rt></ruby>げられます（<ruby>笑<rt>えみ</rt></ruby>）。
 
 <ruby>高級<rt>こうきゅう</rt></ruby>なお<ruby>刺身<rt>さしみ</rt></ruby>や<ruby>黒毛<rt>くろげ</rt></ruby><ruby>和牛<rt>わぎゅう</rt></ruby>のお<ruby>肉<rt>にく</rt></ruby>が「<ruby>半額<rt>はんがく</rt></ruby>」になった<ruby>瞬間<rt>しゅんかん</rt></ruby>、カゴにサッと<ruby>入<rt>い</rt></ruby>れる<ruby>時<rt>とき</rt></ruby>の<ruby>快感<rt>かいかん</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをする<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>にとって<ruby>最高<rt>さいこう</rt></ruby>のエンターテインメントです！
+
+![夕方のスーパーで半額シールが貼られたお弁当を見つけて嬉しそうにカゴに入れるオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/culture-expiry-discount-supermarket.jpg)
 
 ---
 

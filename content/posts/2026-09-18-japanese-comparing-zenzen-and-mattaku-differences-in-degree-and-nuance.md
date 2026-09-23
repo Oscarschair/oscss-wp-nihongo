@@ -4,13 +4,11 @@ slug: "japanese-comparing-zenzen-and-mattaku-differences"
 date: "2026-09-18T08:00:00+09:00"
 categories:
   - "くらべてみました"
+jlpt: "N3"
 tags:
-  - "くらべてみました"
-  - "全然"
-  - "全く"
-  - "日本語文法"
-  - "日常会話"
-  - "言葉のニュアンス"
+  - ニュアンスの違い
+  - 日常会話
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-kurabete-zenzen-mattaku.jpg"
 description: "教科書では同じ「否定の強調（Not at all）」として習う「全然」と「全く」。でも街中では「全然大丈夫！」「全然いいよ！」と肯定文で連発されるのに、なぜ「全く大丈夫」とは言わないのか？客観の「全く」と共感の「全然」の決定的な違いと使い分け。"
 ---

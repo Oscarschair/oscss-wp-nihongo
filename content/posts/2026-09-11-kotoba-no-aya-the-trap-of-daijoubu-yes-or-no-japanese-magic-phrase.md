@@ -4,12 +4,13 @@ slug: "kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase"
 date: "2026-09-11T08:00:00+09:00"
 categories:
   - "ことばのあや"
+jlpt: "N3〜N2"
 tags:
-  - "ことばのあや"
-  - "大丈夫"
-  - "YESとNO"
-  - "接客日本語"
-  - "クッション言葉"
+  - ニュアンスの違い
+  - 日常会話
+  - 日本文化・マナー
+  - JLPT N3
+  - JLPT N2
 thumbnail: "assets/images/thumbnails/thumb-kotoba-daijoubu-trap.jpg"
 description: "「レシート大丈夫です」はNOなのに、「この席大丈夫です」はYES！？肯定と否定の両方で使われる日本の魔法の言葉「大丈夫」。イントネーション・手振り・表情から真意を一瞬で見分ける解読術を分かりやすく解説。"
 ---

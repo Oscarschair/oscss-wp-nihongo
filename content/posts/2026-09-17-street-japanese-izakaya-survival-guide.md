@@ -4,13 +4,12 @@ slug: "street-japanese-izakaya-survival-guide"
 date: "2026-09-17T08:00:00+09:00"
 categories:
   - "街角サバイバル"
+jlpt: "N3"
 tags:
-  - "街角サバイバル"
-  - "サバイバル"
-  - "居酒屋"
-  - "日常会話"
-  - "接客日本語"
-  - "香港と日本の違い"
+  - 日常会話
+  - 食文化
+  - 接客・レジ日本語
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-street-izakaya-rpg.jpg"
 description: "香港のレストランはお茶代だけで小鉢は出ない。でも日本の居酒屋は頼んでもいない小鉢（お通し）が自動で出てきて課金される！？着席3秒で迫られる「とりあえず生」の儀式と、お酒が飲めない勇者のためのノンアル脱出コマンド。"
 ---

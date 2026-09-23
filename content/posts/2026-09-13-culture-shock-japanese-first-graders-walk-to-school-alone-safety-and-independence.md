@@ -4,12 +4,12 @@ slug: "culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-inde
 date: "2026-09-13T08:00:00+09:00"
 categories:
   - "カルチャーショック"
+jlpt: "N3"
 tags:
-  - "カルチャーショック"
-  - "通学"
-  - "治安"
-  - "自立心"
-  - "日本社会"
+  - 異文化比較・香港
+  - 街歩き・交通
+  - 日本文化・マナー
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-culture-kids-school.jpg"
 description: "大きなランドセルを背負った6歳の男の子が、親もつけずにたった1人で電車に乗って登校！？欧米や海外なら「保護者遺棄」で親が即逮捕されるレベルの光景が、なぜ日本では安全に成立しているのか？地域社会の見守りネットワークの秘密。"
 ---

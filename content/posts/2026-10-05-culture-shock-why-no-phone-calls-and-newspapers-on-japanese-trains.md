@@ -6,12 +6,12 @@ date: "2026-10-05T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-train-silence-phone.jpg"
 categories:
   - "カルチャーショック"
+jlpt: "N3"
 tags:
-  - "電車マナー"
-  - "電話"
-  - "パーソナルスペース"
-  - "日常会話"
-  - "日本文化"
+  - 異文化比較・香港
+  - 街歩き・交通
+  - 日本文化・マナー
+  - JLPT N3
 ---
 # カルチャーショック：なぜ<ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>では<ruby>電話<rt>でんわ</rt></ruby>もダメで、<ruby>新聞紙<rt>しんぶんし</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるのもNGなの！？——「<ruby>音<rt>おと</rt></ruby>と<ruby>空間<rt>くうかん</rt></ruby>」の<ruby>沈黙<rt>ちんもく</rt></ruby>マナーと、<ruby>嫌<rt>いや</rt></ruby>な<ruby>電話<rt>でんわ</rt></ruby>を1<ruby>秒<rt>びょう</rt></ruby>で<ruby>切<rt>き</rt></ruby>る<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>ワザ
 

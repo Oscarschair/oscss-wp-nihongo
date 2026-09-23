@@ -6,12 +6,12 @@ date: "2026-10-04T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-otsukaresama-vs-gokurousama.jpg"
 categories:
   - "ことばのあや"
+jlpt: "N2"
 tags:
-  - "お疲れ様"
-  - "ご苦労様"
-  - "ビジネスマナー"
-  - "敬語"
-  - "職場日本語"
+  - ニュアンスの違い
+  - 敬語・ビジネスマナー
+  - 日本文化・マナー
+  - JLPT N2
 ---
 # ことばのあや：「お<ruby>疲<rt>つか</rt></ruby>れ<ruby>様<rt>さま</rt></ruby>」VS「ご<ruby>苦労<rt>くろう</rt></ruby><ruby>様<rt>さま</rt></ruby>」の<ruby>罠<rt>わな</rt></ruby>｜<ruby>上司<rt>じょうし</rt></ruby>に「Good job!」<ruby>感覚<rt>かんかく</rt></ruby>で<ruby>言<rt>い</rt></ruby>って<ruby>大事故<rt>だいじこ</rt></ruby>！？<ruby>目上<rt>めうえ</rt></ruby>・<ruby>目下<rt>めした</rt></ruby>の<ruby>地雷<rt>じらい</rt></ruby>フレーズ<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>
 

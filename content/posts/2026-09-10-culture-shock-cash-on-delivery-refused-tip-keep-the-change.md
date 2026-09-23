@@ -4,12 +4,12 @@ slug: "culture-shock-cash-on-delivery-refused-tip-keep-the-change"
 date: "2026-09-10T08:00:00+09:00"
 categories:
   - "カルチャーショック"
+jlpt: "N3"
 tags:
-  - "カルチャーショック"
-  - "チップ文化"
-  - "代引き"
-  - "接客マナー"
-  - "文化の違い"
+  - 異文化比較・香港
+  - 日本文化・マナー
+  - 生活・手続き
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-culture-cash-on-delivery.jpg"
 description: "海外では常識の「お釣りは取っておいて（Keep the change）」。日本の代引きで配達員さんに言ったら「1円たりとも受け取れません！」と全力で断られた！？日本人がチップを頑なに受け取らない本当の理由とおもてなし哲学。"
 ---

@@ -4,13 +4,12 @@ slug: "street-japanese-hair-salon-survival-shampoo-trap-guide"
 date: "2026-09-11T09:00:00+09:00"
 categories:
   - "街角サバイバル"
+jlpt: "N3"
 tags:
-  - "街角サバイバル"
-  - "サバイバル"
-  - "美容室"
-  - "日常会話"
-  - "接客日本語"
-  - "香港と日本の違い"
+  - 日常会話
+  - 接客・レジ日本語
+  - 生活・手続き
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-street-haircut-rpg.jpg"
 description: "香港の散髪は15分・無言で完了。でも日本の美容室は「すく・痒いところ・お流し・雑談」と超高難易度の対話ダンジョンだった！？視界ゼロのシャンプー台で繰り広げられる心理戦と、確実に生還する攻略フレーズ集。"
 ---

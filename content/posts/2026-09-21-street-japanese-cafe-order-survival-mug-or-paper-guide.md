@@ -5,13 +5,13 @@ slug: "street-japanese-cafe-order-survival-mug-or-paper-guide"
 date: "2026-09-21 08:00:00"
 categories:
   - "街角サバイバル"
+jlpt: "N4〜N3"
 tags:
-  - "街角サバイバル"
-  - "サバイバル"
-  - "カフェ"
-  - "注文"
-  - "接客日本語"
-  - "実用会話"
+  - 日常会話
+  - 食文化
+  - 接客・レジ日本語
+  - JLPT N4
+  - JLPT N3
 description: "日本のカフェで直面する連続質問トラップ！「店内ですか？」「商品は手渡しで？」「マグカップでよろしいですか？（途中で出たい時はどうする！？）」。レジ前でフリーズしないための攻略法と実用コマンドを徹底解説！"
 thumbnail: "assets/images/thumbnails/thumb-street-cafe-order-rpg.jpg"
 ---

@@ -6,13 +6,12 @@ date: "2026-10-02T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kurabete-futoru-futotteiru.jpg"
 categories:
   - "くらべてみました"
+jlpt: "N3"
 tags:
-  - "日本語文法"
-  - "くらべて納得"
-  - "ている"
-  - "アスペクト"
-  - "形容詞と動詞"
-  - "誤用分析"
+  - ニュアンスの違い
+  - 日本語文法
+  - 日常会話
+  - JLPT N3
 ---
 <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が、<ruby>友達<rt>ともだち</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>ながらポロッと<ruby>言<rt>い</rt></ruby>ってしまいがちな<strong>「<ruby>超<rt>ちょう</rt></ruby><ruby>危険<rt>きけん</rt></ruby>な<ruby>間違<rt>まちが</rt></ruby>い」</strong>があります。
 

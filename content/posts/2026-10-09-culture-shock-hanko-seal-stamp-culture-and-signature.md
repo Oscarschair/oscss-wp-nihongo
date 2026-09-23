@@ -7,14 +7,12 @@ date: "2026-10-09T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-culture-hanko-stamp.jpg"
 categories:
   - "カルチャーショック"
+jlpt: "N2"
 tags:
-  - "カルチャーショック！"
-  - "ハンコ"
-  - "印鑑"
-  - "日本文化"
-  - "シャチハタ"
-  - "文化の違い"
-  - "サイン"
+  - 異文化比較・香港
+  - 日本文化・マナー
+  - 生活・手続き
+  - JLPT N2
 ---
 <ruby>香港<rt>ほんこん</rt></ruby>や<ruby>欧米<rt>おうべい</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれ<ruby>育<rt>そだ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>にとって、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>身元<rt>みもと</rt></ruby>や<ruby>意思<rt>いし</rt></ruby>を<ruby>証明<rt>しょうめい</rt></ruby>する<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>武器<rt>ぶき</rt></ruby>は**「<ruby>手書<rt>てが</rt></ruby>きのサイン（<ruby>署名<rt>しょめい</rt></ruby>）」**です。
 パスポートも、クレジットカードも、<ruby>家<rt>いえ</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby>も、すべて<ruby>自分<rt>じぶん</rt></ruby>の<ruby>手<rt>て</rt></ruby>でサラサラッとサインを<ruby>書<rt>か</rt></ruby>けばクリアできます。
@@ -49,6 +47,8 @@ tags:
 
 > 💬 **<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>あるある**
 > <ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>は「100<ruby>円<rt>えん</rt></ruby>で<ruby>即<rt>そく</rt></ruby><ruby>買<rt>か</rt></ruby>える」のに、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>はハンコ<ruby>屋<rt>や</rt></ruby>さんに<ruby>行<rt>い</rt></ruby>って**<ruby>数<rt>すう</rt></ruby><ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>払<rt>はら</rt></ruby>って「<ruby>特注<rt>とくちゅう</rt></ruby>（カタカナやアルファベット）」で<ruby>作<rt>つく</rt></ruby>ってもらわないといけない**という、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>関門<rt>かんもん</rt></ruby>が<ruby>待ち受<rt>まちう</rt></ruby>けています（<ruby>笑<rt>えみ</rt></ruby>）。
+
+![窓口でシャチハタは使えないと言われ頭を掻きながら困惑するオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/culture-hanko-counter-shachihata-rejection.jpg)
 
 ---
 

@@ -7,13 +7,12 @@ date: "2026-10-11T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-hazu-wake.jpg"
 categories:
   - "くらべてみました"
+jlpt: "N3"
 tags:
-  - "くらべて納得！"
-  - "はず"
-  - "わけ"
-  - "日本語文法"
-  - "JLPT"
-  - "ニュアンスの違い"
+  - ニュアンスの違い
+  - 日本語文法
+  - 日常会話
+  - JLPT N3
 ---
 JLPT（<ruby>日本語<rt>にほんご</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>）のN3やN2を<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が、100%<ruby>頭<rt>あたま</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えるツートップ<ruby>文法<rt>ぶんぽう</rt></ruby>。
 それが**「〜はずです」**と**「〜わけです」**です。
@@ -60,11 +59,13 @@ JLPT（<ruby>日本語<rt>にほんご</rt></ruby><ruby>能力<rt>のうりょ�
 
 * 💡 **<ruby>解説<rt>かいせつ</rt></ruby>**：「<ruby>田中<rt>たなか</rt></ruby>さんの<ruby>料理<rt>りょうり</rt></ruby>が<ruby>美味<rt>おい</rt></ruby>しい」という<ruby>事実<rt>じじつ</rt></ruby>はすでに<ruby>知<rt>し</rt></ruby>っています。そこに「<ruby>母親<rt>ははおや</rt></ruby>がプロのシェフ」という**<ruby>理由<rt>りゆう</rt></ruby>（<ruby>タネ明<rt>たねあ</rt></ruby>かし）を<ruby>聞<rt>き</rt></ruby>いて、「あぁ〜！なるほど、だから<ruby>美味<rt>おい</rt></ruby>しかったのか！」と<ruby>深<rt>ふか</rt></ruby>く<ruby>納得<rt>なっとく</rt></ruby>**しています。
 
+![友達から電車の遅延証明書を見せられ納得して「それなら遅れるわけだ！」と手を打つオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/comparing-hazu-wake-understanding-proof.jpg)
+
 ---
 
-## 3. <ruby>否<rt>いな</rt></ruby><ruby>定形<rt>ていけい</rt></ruby>のバトル！「はずがない」VS「わけがない」
+## 3. <ruby>否定<rt>ひてい</rt></ruby><ruby>形<rt>けい</rt></ruby>のバトル！「はずがない」VS「わけがない」
 
-<ruby>否<rt>いな</rt></ruby><ruby>定形<rt>ていけい</rt></ruby>になると、さらに<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>さが<ruby>現<rt>あらわ</rt></ruby>れます。
+<ruby>否定<rt>ひてい</rt></ruby><ruby>形<rt>けい</rt></ruby>になると、さらに<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>さが<ruby>現<rt>あらわ</rt></ruby>れます。
 
 ```
 【 否定形のニュアンス比較 】

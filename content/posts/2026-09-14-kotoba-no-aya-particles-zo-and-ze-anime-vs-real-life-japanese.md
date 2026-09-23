@@ -4,12 +4,12 @@ slug: "kotoba-no-aya-particles-zo-and-ze-anime-vs-real-life-japanese"
 date: "2026-09-14T08:00:00+09:00"
 categories:
   - "ことばのあや"
+jlpt: "N3"
 tags:
-  - "ことばのあや"
-  - "終助詞"
-  - "ぞとぜ"
-  - "アニメ日本語"
-  - "役割語"
+  - ニュアンスの違い
+  - 日本語文法
+  - 日常会話
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-kotoba-zo-ze.jpg"
 description: "「行くぞ！」「うまいぜ！」アニメで主人公たちが毎日かっこよく連発する終助詞「ぞ」「ぜ」。でも現実の日本人が居酒屋や職場で使ったら超不自然！？アニメ独自のキャラクター記号（役割語）と現実会話での正しい使い分け。"
 ---

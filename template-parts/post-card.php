@@ -34,8 +34,15 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 	<div class="c-card__body">
 		<div class="c-card__meta">
-			<?php oscss_posted_on(); ?>
-			<?php oscss_posted_views(); ?>
+			<div class="c-card__meta-top">
+				<?php oscss_posted_on_card(); ?>
+				<?php oscss_posted_views(); ?>
+			</div>
+			<?php if ( get_post_meta( get_the_ID(), '_oscss_jlpt_level', true ) ) : ?>
+				<div class="c-card__meta-badge">
+					<?php oscss_posted_jlpt_badge(); ?>
+				</div>
+			<?php endif; ?>
 		</div>
 
 		<h3 class="c-card__title">

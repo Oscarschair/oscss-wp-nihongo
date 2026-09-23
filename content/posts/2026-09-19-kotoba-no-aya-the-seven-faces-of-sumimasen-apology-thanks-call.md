@@ -4,13 +4,12 @@ slug: "kotoba-no-aya-the-seven-faces-of-sumimasen"
 date: "2026-09-19T08:00:00+09:00"
 categories:
   - "ことばのあや"
+jlpt: "N3"
 tags:
-  - "ことばのあや"
-  - "すみません"
-  - "日常会話"
-  - "日本人の心理"
-  - "感謝と謝罪"
-  - "マナー"
+  - ニュアンスの違い
+  - 日常会話
+  - 日本文化・マナー
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-kotoba-sumimasen-faces.jpg"
 description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に集約された驚異の言葉「すみません」。なぜ日本人はエレベーターを開けてもらったとき「ありがとう」ではなく「すみません」と謝るのか？日本人の「配慮と負い目」の心理を解き明かす。"
 ---

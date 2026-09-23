@@ -4,12 +4,12 @@ slug: "culture-shock-cars-stop-when-you-raise-your-hand-pedestrian-crosswalk-in-
 date: "2026-09-12T08:00:00+09:00"
 categories:
   - "カルチャーショック"
+jlpt: "N3"
 tags:
-  - "カルチャーショック"
-  - "横断歩道"
-  - "交通マナー"
-  - "歩行者優先"
-  - "日本と海外"
+  - 異文化比較・香港
+  - 街歩き・交通
+  - 日本文化・マナー
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-culture-cars-stop.jpg"
 description: "香港や海外では「車が途切れる隙を狙って命がけでダッシュ」が当たり前。なのに日本の信号のない横断歩道で右手をピッと挙げたら、車がスーッと減速して完全停止！？日本の歩行者優先文化とドライバーの優しさに感動した話。"
 ---

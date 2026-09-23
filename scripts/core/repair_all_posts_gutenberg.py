@@ -146,8 +146,23 @@ def md_to_gutenberg(md_text):
                         position = "r"
                         avatar = "https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/avatar-staff.svg"
                     
-                    body_formatted = [format_inline_markdown(bl) for bl in ct_lines if bl]
-                    body_html = "<br />".join(body_formatted) if body_formatted else ""
+                    # Split ct_lines by empty lines into paragraphs for proper line-height calculation
+                    paragraphs = []
+                    current_p = []
+                    for bl in ct_lines:
+                        if not bl.strip():
+                            if current_p:
+                                paragraphs.append("<br />".join(current_p))
+                                current_p = []
+                        else:
+                            current_p.append(format_inline_markdown(bl))
+                    if current_p:
+                        paragraphs.append("<br />".join(current_p))
+                    
+                    if not paragraphs:
+                        paragraphs = [""]
+                    
+                    p_tags = "\n    ".join([f"<p>{p}</p>" for p in paragraphs])
                     
                     balloon_html = f"""<div class="c-balloon c-balloon--{position}">
   <div class="c-balloon__speaker">
@@ -155,7 +170,7 @@ def md_to_gutenberg(md_text):
     <span class="c-balloon__name">{clean_sp}</span>
   </div>
   <div class="c-balloon__bubble">
-    <p>{body_html}</p>
+    {p_tags}
   </div>
 </div>"""
                     blocks.append(f"<!-- wp:html -->\n{balloon_html}\n<!-- /wp:html -->")
@@ -297,6 +312,7 @@ for fpath in files:
         desc_match = re.search(r'description:\s*["\']?([^"\']+)["\']?', fm)
         date_match = re.search(r'date:\s*["\']?([^"\']+)["\']?', fm)
         thumb_match = re.search(r'thumbnail:\s*["\']?([^"\']+)["\']?', fm)
+        jlpt_match = re.search(r'jlpt:\s*["\']?([^"\']+)["\']?', fm)
 
         # Categories extraction
         cats = []
@@ -316,6 +332,7 @@ for fpath in files:
             desc = desc_match.group(1).strip() if desc_match else ""
             date_val = date_match.group(1).strip() if date_match else ""
             thumb_path = thumb_match.group(1).strip() if thumb_match else ""
+            jlpt_val = jlpt_match.group(1).strip() if jlpt_match else ""
 
             # タイトルルール強制ガード: カテゴリプレフィックスが漏れている場合の自動付与
             expected_prefix = None
@@ -354,6 +371,7 @@ for fpath in files:
                 "cats": cats,
                 "tags": tags,
                 "thumb_path": thumb_path,
+                "jlpt": jlpt_val,
                 "html": html_body
             })
 
@@ -550,6 +568,9 @@ foreach ($data as $item) {
         if ($thumb_id > 0) {
             set_post_thumbnail($p->ID, $thumb_id);
         }
+        if (!empty($item['jlpt'])) {
+            update_post_meta($p->ID, '_oscss_jlpt_level', $item['jlpt']);
+        }
         echo "Successfully repaired post ID: {$p->ID} (slug: {$slug}, cats: " . implode(',', $cat_ids) . ")\n";
         $updated++;
     } else {
@@ -584,6 +605,9 @@ foreach ($data as $item) {
             );
             clean_post_cache($new_id);
             update_post_meta($new_id, '_oscss_post_views', 0);
+            if (!empty($item['jlpt'])) {
+                update_post_meta($new_id, '_oscss_jlpt_level', $item['jlpt']);
+            }
             if ($thumb_id > 0) {
                 set_post_thumbnail($new_id, $thumb_id);
             }

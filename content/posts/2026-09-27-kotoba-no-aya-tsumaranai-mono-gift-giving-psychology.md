@@ -6,13 +6,12 @@ date: "2026-09-27T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-tsumaranai-mono.jpg"
 categories:
   - "ことばのあや"
+jlpt: "N2"
 tags:
-  - "つまらないものですが"
-  - "お土産"
-  - "手土産マナー"
-  - "へりくだり"
-  - "日本文化"
-  - "言葉のあや"
+  - ニュアンスの違い
+  - 日本文化・マナー
+  - 敬語・ビジネスマナー
+  - JLPT N2
 ---
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>や<ruby>友人<rt>ゆうじん</rt></ruby>からお<ruby>土産<rt>みやげ</rt></ruby>（<ruby>手土産<rt>てみやげ</rt></ruby>）をもらったとき、こんな<ruby>衝撃<rt>しょうげき</rt></ruby><ruby>的<rt>てき</rt></ruby>なセリフを<ruby>聞<rt>き</rt></ruby>いたことはありませんか？
 

@@ -4,12 +4,12 @@ slug: "culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison
 date: "2026-09-10T12:00:00+09:00"
 categories:
   - "カルチャーショック"
+jlpt: "N3"
 tags:
-  - "カルチャーショック"
-  - "美容室"
-  - "1000円カット"
-  - "物価の違い"
-  - "香港と日本"
+  - 異文化比較・香港
+  - 生活・手続き
+  - 日本文化・マナー
+  - JLPT N3
 thumbnail: "assets/images/thumbnails/thumb-culture-haircut-price.jpg"
 description: "香港なら約1,200円で切れる散髪が、日本では5,000円〜！？最初は「高すぎる！」と怯えていた香港出身のオスカーが、シャンプー・マッサージの極上ホスピタリティと1,000円カットの職人技を体験して納得した真実。"
 ---

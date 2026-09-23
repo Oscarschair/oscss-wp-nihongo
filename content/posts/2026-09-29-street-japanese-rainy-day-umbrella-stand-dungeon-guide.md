@@ -6,14 +6,12 @@ date: "2026-09-29T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-street-umbrella-stand-rpg.jpg"
 categories:
   - "街角サバイバル"
+jlpt: "N3"
 tags:
-  - "ビニール傘"
-  - "傘立て"
-  - "雨の日"
-  - "日本文化"
-  - "街角サバイバル"
-  - "サバイバル"
-  - "トラブル対策"
+  - 日常会話
+  - 街歩き・交通
+  - 日本文化・マナー
+  - JLPT N3
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>は<ruby>経験<rt>けいけん</rt></ruby>する<strong>「<ruby>最大<rt>さいだい</rt></ruby>のミステリー」</strong>があります。
 
 > 🌧️ （<ruby>土砂降<rt>どしゃぶ</rt></ruby>りの<ruby>雨<rt>あめ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>、コンビニに<ruby>駆け込<rt>かけこ</rt></ruby>むクルマ）
@@ -27,7 +25,6 @@ tags:
 「<ruby>財布<rt>さいふ</rt></ruby>を<ruby>落<rt>お</rt></ruby>としても<ruby>中身<rt>なかみ</rt></ruby>が<ruby>無傷<rt>むきず</rt></ruby>で<ruby>返<rt>かえ</rt></ruby>ってくる」と<ruby>言<rt>い</rt></ruby>われる<ruby>世界一<rt>せかいいち</rt></ruby><ruby>治安<rt>ちあん</rt></ruby>の<ruby>良<rt>よ</rt></ruby>い<ruby>日本<rt>にっぽん</rt></ruby>ですが、なぜか<strong>「<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>てのビニール<ruby>傘<rt>かさ</rt></ruby>だけは<ruby>一瞬<rt>いっしゅん</rt></ruby>で<ruby>消<rt>き</rt></ruby>える」</strong>という<ruby>不可解<rt>ふかかい</rt></ruby>な<ruby>現象<rt>げんしょう</rt></ruby>が<ruby>日常<rt>にちじょう</rt></ruby><ruby>茶飯事<rt>さはんじ</rt></ruby>で<ruby>起<rt>お</rt></ruby>きています。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>で<ruby>生き残<rt>いきのこ</rt></ruby>るための<strong>「<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>てダンジョン」<ruby>攻略<rt>こうりゃく</rt></ruby><ruby>法<rt>ほう</rt></ruby></strong>と、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>を<ruby>死守<rt>ししゅ</rt></ruby>する<ruby>最強<rt>さいきょう</rt></ruby>サバイバル<ruby>術<rt>じゅつ</rt></ruby>を<ruby>伝授<rt>でんじゅ</rt></ruby>します！
-
 ---
 ## 1. <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>：なぜ<ruby>財布<rt>さいふ</rt></ruby>は<ruby>盗<rt>ぬす</rt></ruby>まないのに「ビニール<ruby>傘<rt>かさ</rt></ruby>」は<ruby>盗<rt>ぬす</rt></ruby>むの？
 

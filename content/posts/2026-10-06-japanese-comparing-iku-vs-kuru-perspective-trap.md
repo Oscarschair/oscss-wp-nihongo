@@ -7,13 +7,12 @@ date: "2026-10-06T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-iku-kuru.jpg"
 categories:
   - "くらべてみました"
+jlpt: "N3"
 tags:
-  - "くらべて納得！"
-  - "行く"
-  - "来る"
-  - "視点"
-  - "日本語文法"
-  - "英語と日本語の違い"
+  - ニュアンスの違い
+  - 日本語文法
+  - 日常会話
+  - JLPT N3
 ---
 <ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>している<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>なら、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>はこんな「<ruby>事件<rt>じけん</rt></ruby>」を<ruby>経験<rt>けいけん</rt></ruby>したことがあるはずです。
 
@@ -43,6 +42,8 @@ tags:
 
 しかし、<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>います！
 <ruby>日本語<rt>にほんご</rt></ruby>はどこまでも**「<ruby>今<rt>いま</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>立<rt>た</rt></ruby>っている<ruby>場所<rt>ばしょ</rt></ruby>」にカメラを<ruby>固定<rt>こてい</rt></ruby>する<ruby>言語<rt>げんご</rt></ruby>**なのです。
+
+![待ち合わせ相手と電話しながら笑顔で「今行くよ！」と小走りで向かうオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/comparing-iku-kuru-phone-running.jpg)
 
 ---
 
