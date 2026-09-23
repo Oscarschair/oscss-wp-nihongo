@@ -3934,6 +3934,87 @@ rt {
 	}
 }
 
+/* --------------------------------------------------
+ * 記事内対照表テーブル (.c-article-table-wrap / .c-article-table)
+ * -------------------------------------------------- */
+.c-article-table-wrap {
+	border: 1px solid #e2e8f0;
+	border-radius: 12px;
+	overflow: hidden;
+	overflow-x: auto;
+	margin: 28px 0;
+	background: #ffffff;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+	padding: 0 !important;
+}
+
+.c-article-table-wrap table,
+.c-article-table {
+	width: 100%;
+	margin: 0 !important;
+	padding: 0 !important;
+	border-collapse: collapse;
+	border: none !important;
+}
+
+.c-article-table thead tr {
+	background: #f8faff;
+	border-bottom: 2px solid #0f172a;
+}
+
+.c-article-table th {
+	background: #f8faff;
+	padding: 14px 16px;
+	font-weight: 700;
+	color: #0f172a;
+	text-align: left;
+	font-size: 0.92rem;
+	line-height: 1.8;
+	border: none;
+	border-right: 1px solid #e2e8f0;
+	white-space: nowrap;
+}
+
+.c-article-table th:last-child {
+	border-right: none;
+}
+
+.c-article-table td {
+	padding: 14px 16px;
+	font-size: 0.92rem;
+	line-height: 1.8;
+	border-bottom: 1px solid #e2e8f0;
+	border-right: 1px solid #f1f5f9;
+	color: #334155;
+	vertical-align: top;
+}
+
+.c-article-table td:last-child {
+	border-right: none;
+}
+
+.c-article-table tbody tr:last-child td {
+	border-bottom: none;
+}
+
+.c-article-table tbody tr:hover {
+	background-color: #fafbfc;
+}
+
+@media (max-width: 639px) {
+	.c-article-table-wrap {
+		margin: 20px 0;
+		border-radius: 8px;
+	}
+	.c-article-table th,
+	.c-article-table td {
+		padding: 10px 12px;
+		font-size: 0.85rem;
+		line-height: 1.7;
+	}
+}
+
+
 
 
 
