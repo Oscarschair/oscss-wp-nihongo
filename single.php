@@ -27,7 +27,6 @@ get_header();
 						<?php oscss_posted_on(); ?>
 						<?php oscss_posted_reading_time(); ?>
 						<?php oscss_posted_views(); ?>
-						<?php oscss_posted_ruby_badge(); ?>
 					</div>
 
 					<h1 class="c-entry__title"><?php the_title(); ?></h1>

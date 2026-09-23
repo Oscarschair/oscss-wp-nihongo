@@ -432,26 +432,15 @@ function oscss_get_clean_excerpt( $post = null, $length = 120, $add_ruby_badge =
 	$text = preg_replace( '/\s+/', ' ', $text );
 	$text = trim( $text );
 
-	// 投稿（ブログ記事）かつ有効な場合、全漢字ルビ付きをアピールするプレフィックスを付与
-	$prefix = ( $add_ruby_badge && 'post' === get_post_type( $post ) ) ? '【全漢字ふりがな付き】' : '';
-	$prefix_len = mb_strlen( $prefix, 'UTF-8' );
-	$target_len = max( 20, $length - $prefix_len );
+	$target_len = max( 20, $length );
 
 	if ( mb_strlen( $text, 'UTF-8' ) > $target_len ) {
 		$text = mb_substr( $text, 0, $target_len, 'UTF-8' ) . '...';
 	}
 
-	return $prefix . $text;
+	return $text;
 }
 
-/**
- * 記事詳細ヘッダー用: 「全漢字ふりがな付き」バッジを出力
- */
-function oscss_posted_ruby_badge() {
-	if ( 'post' === get_post_type() ) {
-		echo '<span class="c-entry__badge c-entry__badge--furigana" title="すべての漢字にふりがな（ルビ）が付いています" aria-label="全漢字ふりがな付き">📖 全漢字ふりがな付き</span>';
-	}
-}
 
 /**
  * 記事の読了目安時間（分）を算出（日本語 500文字/分 基準）

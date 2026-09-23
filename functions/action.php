@@ -309,6 +309,20 @@ function oscss_sort_posts_by_views( $query ) {
 add_action( 'pre_get_posts', 'oscss_sort_posts_by_views' );
 
 /**
+ * ログイン中管理者向けにアーカイブや検索で予約投稿（future）や下書き（draft）をプレビュー表示可能にする
+ */
+function oscss_allow_preview_future_posts_in_archives( $query ) {
+	if ( ! is_admin() && $query->is_main_query() ) {
+		if ( current_user_can( 'edit_posts' ) ) {
+			if ( $query->is_archive() || $query->is_search() || $query->is_home() ) {
+				$query->set( 'post_status', array( 'publish', 'future', 'draft' ) );
+			}
+		}
+	}
+}
+add_action( 'pre_get_posts', 'oscss_allow_preview_future_posts_in_archives' );
+
+/**
  * 管理画面の投稿一覧用スタイリング
  */
 function oscss_admin_custom_css() {
@@ -322,10 +336,43 @@ function oscss_admin_custom_css() {
 			.oscss-admin-thumb:hover { transform: scale(1.15); z-index: 10; position: relative; box-shadow: 0 4px 10px rgba(0,0,0,0.25); }
 			.oscss-admin-no-thumb { color: #ccc; font-size: 14px; }
 			.oscss-admin-views { font-variant-numeric: tabular-nums; font-size: 13px; }
+			/* プランA: タイトル視認性向上 */
+			.row-title { font-weight: 600; font-size: 14px; line-height: 1.5; color: #1d2327; }
+			.row-title:hover { color: #2271b1; }
 		</style>';
 	}
 }
 add_action( 'admin_head', 'oscss_admin_custom_css' );
+
+/**
+ * 管理画面の投稿一覧タイトルをプランA（漢字のみスッキリ表示）に整形
+ */
+function oscss_admin_clean_titles_js() {
+	$screen = get_current_screen();
+	if ( $screen && 'edit-post' === $screen->id ) {
+		?>
+		<script>
+		document.addEventListener('DOMContentLoaded', function() {
+			function cleanTitles() {
+				var titles = document.querySelectorAll('.row-title');
+				titles.forEach(function(el) {
+					var raw = el.innerHTML;
+					// エスケープ済み (&lt;rt&gt;...&lt;/rt&gt;) および通常タグ (<rt>...</rt>) の中身を除去
+					var cleaned = raw.replace(/(&lt;|<)rt(&gt;|>).*?(&lt;|<)\/rt(&gt;|>)/gi, '');
+					cleaned = cleaned.replace(/(&lt;|<)rp(&gt;|>).*?(&lt;|<)\/rp(&gt;|>)/gi, '');
+					cleaned = cleaned.replace(/(&lt;|<)\/?ruby(&gt;|>)/gi, '');
+					if (raw !== cleaned) {
+						el.innerHTML = cleaned.trim();
+					}
+				});
+			}
+			cleanTitles();
+		});
+		</script>
+		<?php
+	}
+}
+add_action( 'admin_footer', 'oscss_admin_clean_titles_js' );
 
 
 
