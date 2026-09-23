@@ -12,6 +12,7 @@
 | **デプロイ・環境構築手順** | テーマのインストール、有効化、更新、ローカル開発手順 | [deployment.md](file:///c:/Users/user/git/oscss-wp-nihongo/docs/deployment.md) |
 | **機能・テンプレート仕様書** | 各テンプレート・コンポーネント・ショートコードの詳細仕様 | [domains/theme-spec.md](file:///c:/Users/user/git/oscss-wp-nihongo/docs/domains/theme-spec.md) |
 | **投稿タイトル規格ガイドライン** | カテゴリー名プレフィックス必須化・表記揺れ防止ルール | [domains/post-title-guidelines.md](file:///c:/Users/user/git/oscss-wp-nihongo/docs/domains/post-title-guidelines.md) |
+| **JLPT語彙標準＆判定基準** | 公式語彙辞書に基づく難易度判定ロジック・読者レベル基準 | [domains/jlpt-vocabulary-standard.md](file:///c:/Users/user/git/oscss-wp-nihongo/docs/domains/jlpt-vocabulary-standard.md) |
 | **ADR（意思決定ログ）** | 設計判断・技術選定の経緯記録 | [adr/](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/) |
 | **運用・障害対応手順書** | キャッシュ管理、日常保守、トラブルシューティング | [ops/](file:///c:/Users/user/git/oscss-wp-nihongo/docs/ops/) |
 

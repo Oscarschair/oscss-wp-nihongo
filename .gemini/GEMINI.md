@@ -188,3 +188,13 @@
    - 新規作成・公開するすべての投稿は、初期閲覧数（`_oscss_post_views`）を **0** からスタートさせる（シードデータやダミーの数値を絶対に付与しない）。
    - 実際のユーザーアクセス（閲覧）によってのみインクリメント（+1）される運用を徹底する。
 
+---
+
+## 🎯 JLPT目安レベル判定 ＆ 語彙標準 (JLPT Vocabulary Standard)
+
+1. **公式語彙辞書に基づく客観的判定**:
+   - 各記事のJLPTレベル判定は、[elzup/jlpt-word-list](https://github.com/elzup/jlpt-word-list/tree/master/src) の公式語彙データ（N5〜N1・約8,000語）に基づく語彙カバレッジ解析（累積85%〜90%到達基準）によって客観的に決定する。
+   - 詳細は [`docs/domains/jlpt-vocabulary-standard.md`](file:///c:/Users/user/git/oscss-wp-nihongo/docs/domains/jlpt-vocabulary-standard.md) を参照。
+   - 記事執筆・校正時は `python scripts/core/check_post_jlpt.py <記事パス>` で難易度を検証すること。
+
+
