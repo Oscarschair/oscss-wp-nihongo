@@ -249,23 +249,98 @@ def md_to_gutenberg(md_text):
             i += 1
             continue
 
-        # 7. Unordered Lists
+        # 7. Unordered Lists (Supports multi-line items with descriptions)
         if line.startswith('* ') or line.startswith('- '):
             items = []
-            while i < len(lines) and (lines[i].strip().startswith('* ') or lines[i].strip().startswith('- ')):
-                it_text = format_inline_markdown(lines[i].strip()[2:])
-                items.append(it_text)
-                i += 1
+            while i < len(lines):
+                cur_line = lines[i].strip()
+                if not cur_line:
+                    peek = i + 1
+                    while peek < len(lines) and not lines[peek].strip():
+                        peek += 1
+                    if peek < len(lines) and (lines[peek].strip().startswith('* ') or lines[peek].strip().startswith('- ')):
+                        i += 1
+                        continue
+                    else:
+                        break
+                
+                if cur_line.startswith('* ') or cur_line.startswith('- '):
+                    item_head = format_inline_markdown(cur_line[2:])
+                    item_parts = [item_head]
+                    i += 1
+                    while i < len(lines):
+                        sub_line = lines[i].strip()
+                        if not sub_line:
+                            peek = i + 1
+                            while peek < len(lines) and not lines[peek].strip():
+                                peek += 1
+                            if peek < len(lines) and (lines[peek].strip().startswith('* ') or lines[peek].strip().startswith('- ')):
+                                break
+                            elif peek < len(lines) and (lines[peek].strip().startswith(('#', '>', '|', '---', '***', '___', '![', '```')) or re.match(r'^\d+\.\s+', lines[peek].strip())):
+                                break
+                            else:
+                                i += 1
+                                continue
+                        
+                        if sub_line.startswith('* ') or sub_line.startswith('- ') or sub_line.startswith(('#', '>', '|', '---', '***', '___', '![', '```')) or re.match(r'^\d+\.\s+', sub_line):
+                            break
+                        
+                        item_parts.append(format_inline_markdown(sub_line))
+                        i += 1
+                    
+                    item_content = "<br />".join([p for p in item_parts if p])
+                    items.append(item_content)
+                else:
+                    break
+            
             blocks.append("<!-- wp:list -->\n<ul>" + "".join([f"<li>{it}</li>" for it in items]) + "</ul>\n<!-- /wp:list -->")
             continue
 
-        # 8. Ordered Lists
+        # 8. Ordered Lists (Supports multi-line items with descriptions)
         if re.match(r'^\d+\.\s+', line):
             items = []
-            while i < len(lines) and re.match(r'^\d+\.\s+', lines[i].strip()):
-                it_text = format_inline_markdown(re.sub(r'^\d+\.\s+', '', lines[i].strip()))
-                items.append(it_text)
-                i += 1
+            while i < len(lines):
+                cur_line = lines[i].strip()
+                if not cur_line:
+                    peek = i + 1
+                    while peek < len(lines) and not lines[peek].strip():
+                        peek += 1
+                    if peek < len(lines) and re.match(r'^\d+\.\s+', lines[peek].strip()):
+                        i += 1
+                        continue
+                    else:
+                        break
+                
+                m = re.match(r'^\d+\.\s+(.*)', cur_line)
+                if m:
+                    item_head = format_inline_markdown(m.group(1))
+                    item_parts = [item_head]
+                    i += 1
+                    while i < len(lines):
+                        sub_line = lines[i].strip()
+                        if not sub_line:
+                            peek = i + 1
+                            while peek < len(lines) and not lines[peek].strip():
+                                peek += 1
+                            if peek < len(lines) and re.match(r'^\d+\.\s+', lines[peek].strip()):
+                                break
+                            elif peek < len(lines) and (lines[peek].strip().startswith(('#', '>', '|', '---', '***', '___', '![', '* ', '- ', '```')) or (lines[peek].strip().startswith('[') and lines[peek].strip().endswith(']'))):
+                                break
+                            else:
+                                i += 1
+                                continue
+                        
+                        if re.match(r'^\d+\.\s+', sub_line) or sub_line.startswith(('#', '>', '|', '---', '***', '___', '![', '* ', '- ', '```')) or (sub_line.startswith('[') and sub_line.endswith(']')):
+                            break
+                        
+                        item_parts.append(format_inline_markdown(sub_line))
+                        i += 1
+                    
+                    item_content = "<br />".join([p for p in item_parts if p])
+                    items.append(item_content)
+                else:
+                    break
+            
             blocks.append("<!-- wp:list {\"ordered\":true} -->\n<ol>" + "".join([f"<li>{it}</li>" for it in items]) + "</ol>\n<!-- /wp:list -->")
             continue
 
