@@ -4089,6 +4089,122 @@ rt {
 	}
 }
 
+/* ==========================================================================
+   Articles Page Filter & View Controls (.c-category-filter-nav)
+   ========================================================================== */
+.c-category-filter-nav {
+	margin-bottom: var(--space-8);
+	overflow-x: auto;
+	-webkit-overflow-scrolling: touch;
+	scrollbar-width: none;
+	padding-bottom: var(--space-2);
+}
+
+.c-category-filter-nav::-webkit-scrollbar {
+	display: none;
+}
+
+.c-category-filter-list {
+	display: flex;
+	align-items: center;
+	gap: var(--space-2);
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	flex-wrap: wrap;
+}
+
+@media (max-width: 639px) {
+	.c-category-filter-list {
+		flex-wrap: nowrap;
+		padding: 0 var(--space-1);
+	}
+}
+
+.c-category-filter-item {
+	flex-shrink: 0;
+}
+
+.c-category-filter-btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 8px 16px;
+	font-size: var(--text-sm);
+	font-weight: 600;
+	color: var(--color-text-main);
+	background: #ffffff;
+	border: 1px solid var(--color-border);
+	border-radius: var(--radius-full, 9999px);
+	text-decoration: none;
+	transition: all var(--transition-fast);
+	white-space: nowrap;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.c-category-filter-btn:hover {
+	border-color: var(--color-primary);
+	color: var(--color-primary);
+	background: #f8fafc;
+	transform: translateY(-1px);
+}
+
+.c-category-filter-btn.is-active {
+	background: var(--color-primary);
+	color: #ffffff !important;
+	border-color: var(--color-primary);
+	box-shadow: 0 2px 8px rgba(44, 94, 153, 0.25);
+}
+
+/* Specific Category Highlights when active */
+.c-category-filter-btn--orange.is-active {
+	background: #ea580c !important;
+	border-color: #ea580c !important;
+	box-shadow: 0 2px 8px rgba(234, 88, 12, 0.3) !important;
+}
+
+.c-category-filter-btn--teal.is-active {
+	background: #0d9488 !important;
+	border-color: #0d9488 !important;
+	box-shadow: 0 2px 8px rgba(13, 148, 136, 0.3) !important;
+}
+
+.c-category-filter-btn--indigo.is-active {
+	background: #4f46e5 !important;
+	border-color: #4f46e5 !important;
+	box-shadow: 0 2px 8px rgba(79, 70, 229, 0.3) !important;
+}
+
+.c-category-filter-btn--rose.is-active {
+	background: #e11d48 !important;
+	border-color: #e11d48 !important;
+	box-shadow: 0 2px 8px rgba(225, 29, 72, 0.3) !important;
+}
+
+/* All Articles CTA Button on Front Page */
+.c-btn--all-articles {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	padding: 14px 32px;
+	font-size: var(--text-base);
+	font-weight: 700;
+	color: #ffffff !important;
+	background: linear-gradient(135deg, var(--color-primary) 0%, #1e40af 100%);
+	border-radius: var(--radius-full, 9999px);
+	text-decoration: none !important;
+	box-shadow: 0 4px 14px rgba(44, 94, 153, 0.3);
+	transition: all 0.2s ease;
+}
+
+.c-btn--all-articles:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 6px 20px rgba(44, 94, 153, 0.4);
+	color: #ffffff !important;
+	background: linear-gradient(135deg, #1e40af 0%, #172554 100%);
+}
+
+
 
 
 

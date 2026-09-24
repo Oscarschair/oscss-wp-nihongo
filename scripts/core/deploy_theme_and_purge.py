@@ -67,6 +67,7 @@ theme_files = [
     'single.php',
     'archive.php',
     'page.php',
+    'page-articles.php',
     'comments.php',
     'searchform.php',
     '404.php',

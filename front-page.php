@@ -29,8 +29,8 @@ $series_cats = oscss_get_series_categories();
 					「オスカーの日本語学習帳」は、香港出身のオスカーが、日本語特有のニュアンスや文化の違い、日常の気づきを分かりやすく綴るメディアです。
 				</p>
 				<div class="c-hero__actions">
-					<a href="#categories" class="c-btn c-btn--primary">テーマ別に見る</a>
-					<a href="#latest-posts" class="c-btn c-btn--outline">最新記事を読む</a>
+					<a href="<?php echo esc_url( home_url( '/articles/' ) ); ?>" class="c-btn c-btn--primary">すべての学習ノートを見る</a>
+					<a href="#categories" class="c-btn c-btn--outline">テーマ別に見る</a>
 				</div>
 			</div>
 			<div class="c-hero__visual">
@@ -139,6 +139,13 @@ $series_cats = oscss_get_series_categories();
 					endwhile;
 					wp_reset_postdata();
 					?>
+				</div>
+
+				<div class="c-section-cta u-text-center u-mt-xl" style="margin-top: 2.5rem;">
+					<a href="<?php echo esc_url( home_url( '/articles/' ) ); ?>" class="c-btn--all-articles">
+						<span>すべての学習ノートを見る（全<?php echo (int) wp_count_posts()->publish; ?>件）</span>
+						<span aria-hidden="true">&rarr;</span>
+					</a>
 				</div>
 			<?php else : ?>
 				<p class="u-text-center">投稿はまだありません。</p>

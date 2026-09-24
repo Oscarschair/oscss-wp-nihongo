@@ -50,6 +50,11 @@ $series_cats = oscss_get_series_categories();
 							</a>
 						</li>
 					<?php endforeach; ?>
+					<li class="u-mt-sm">
+						<a href="<?php echo esc_url( home_url( '/articles/' ) ); ?>" class="l-footer__category-link" style="font-weight: 700; color: #ffffff;">
+							<span>📚 <?php esc_html_e( 'すべての学習ノートを見る', 'oscss-wp-nihongo' ); ?></span> &rarr;
+						</a>
+					</li>
 				</ul>
 			</div>
 
@@ -92,6 +97,7 @@ $series_cats = oscss_get_series_categories();
 		<div class="l-footer__bottom">
 			<ul class="l-footer__bottom-links">
 				<li><a href="<?php echo esc_url( home_url( '/' ) ); ?>">HOME</a></li>
+				<li><a href="<?php echo esc_url( home_url( '/articles/' ) ); ?>">記事一覧</a></li>
 				<?php foreach ( $series_cats as $key => $cat_info ) : ?>
 					<li><a href="<?php echo esc_url( oscss_get_series_category_url( $key ) ); ?>"><?php echo esc_html( $cat_info['name'] ); ?></a></li>
 				<?php endforeach; ?>
