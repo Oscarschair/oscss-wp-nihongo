@@ -170,6 +170,21 @@ description: "香港のレストランはお茶代だけで小鉢は出ない。
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **とりあえず（とりあえず）** 【JLPT N1】
+  * 意味：at once, first of all, for the time being
+  * 例文：🍺 ビールが好きなら　　 ➔ 「とりあえず生でお願いします。
+* **直後（ちょくご）** 【JLPT N2】
+  * 意味：immediately following
+  * 例文：入店直後は無理せず**「ウーロン茶で。
+* **店員（てんいん）** 【JLPT N4】
+  * 意味：clerk; shop-employee
+  * 例文：」と店員さんの威勢のいい大声が響き渡る日本の居酒屋。
+
 ## まとめ：<ruby>居酒屋<rt>いざかや</rt></ruby>のルールを<ruby>知<rt>し</rt></ruby>れば、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>はもっと<ruby>楽<rt>たの</rt></ruby>しい！
 
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>居酒屋<rt>いざかや</rt></ruby>は、<ruby>一見<rt>いっけん</rt></ruby>すると「お<ruby>通<rt>とお</rt></ruby>し」や「<ruby>独特<rt>どくとく</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby><ruby>作法<rt>さほう</rt></ruby>」など<ruby>謎<rt>なぞ</rt></ruby>のルールが<ruby>多<rt>おお</rt></ruby>く<ruby>見<rt>み</rt></ruby>えます。

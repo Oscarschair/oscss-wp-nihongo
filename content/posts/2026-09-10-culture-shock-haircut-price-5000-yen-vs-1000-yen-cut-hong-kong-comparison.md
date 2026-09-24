@@ -126,6 +126,21 @@ description: "香港なら約1,200円で切れる散髪が、日本では5,000�
 * 💴 お<ruby>金<rt>かね</rt></ruby>とマナー：[カルチャーショック：<ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>きで「お<ruby>釣<rt>つ</rt></ruby>り<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>ったら「いやダメです！」と<ruby>断<rt>ことわ</rt></ruby>られた<ruby>話<rt>はなし</rt></ruby>｜<ruby>日本<rt>にっぽん</rt></ruby>にチップ<ruby>文化<rt>ぶんか</rt></ruby>がない<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-cash-on-delivery-refused-tip-keep-the-change/)
 * 🍜 <ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>い：[カルチャーショック：<ruby>餃子<rt>ぎょうざ</rt></ruby>も<ruby>炒飯<rt>ちゃーはん</rt></ruby>もビーフンも<ruby>全部<rt>ぜんぶ</rt></ruby>「<ruby>主食<rt>しゅしょく</rt></ruby>」！<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>×<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>」<ruby>文化<rt>ぶんか</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli/)
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **カット（カット）** 【JLPT N1】
+  * 意味：cut, cutting
+  * 例文：香港では、繁華街や住宅街のあちこちにローカルな床屋さんや「クイックカット（速剪）」のお店があります。
+* **納得（なっとく）** 【JLPT N3】
+  * 意味：consent, assent, understanding
+  * 例文：納得の使い方に注意しましょう。
+* **美容（びよう）** 【JLPT N2】
+  * 意味：beauty of figure or form
+  * 例文：そんな私ですから、日本のオシャレな5,000円の美容室には……。
+
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>

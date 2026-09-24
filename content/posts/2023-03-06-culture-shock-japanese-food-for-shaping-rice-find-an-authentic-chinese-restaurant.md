@@ -93,6 +93,21 @@ tags:
 
 <ruby>今日<rt>きょう</rt></ruby>も<ruby>最後<rt>さいご</rt></ruby>まで<ruby>読<rt>よ</rt></ruby>んでいただき、ありがとうございました。それでは！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **本場（ほんば）** 【JLPT N1】
+  * 意味：home, best place, genuine
+  * 例文：さて、ここからは「本場中国料理店の見つけ方」についてお話しします。
+* **盛り（さかり）** 【JLPT N3】
+  * 意味：helping, serving
+  * 例文：実はそれも、**「チャーハンの盛り付け方」**を見れば一目で分かります。
+* **整える（ととのえる）** 【JLPT N1】
+  * 意味：to put in order, to arrange, to adjust; to get ready, to prepare; to raise money
+  * 例文：私たちが気になるのは、しゃもじで**「ご飯の形を押し固めて整える」**という点です。
+
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>

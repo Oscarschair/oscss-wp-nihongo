@@ -125,6 +125,21 @@ AmazonやヤマトのWeb<ruby>画面<rt>がめん</rt></ruby>で「<ruby>玄関<
 >   
 > ドライバーさんは<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>も<ruby>階段<rt>かいだん</rt></ruby>を<ruby>駆<rt>か</rt></ruby>け<ruby>上<rt>あ</rt></ruby>がって<ruby>届<rt>とど</rt></ruby>けてくれます。<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>受け取<rt>うけと</rt></ruby>ったら、ぜひ<ruby>最高<rt>さいこう</rt></ruby>の<ruby>笑顔<rt>えがお</rt></ruby>で**「いつもありがとうございます！」**と<ruby>感謝<rt>かんしゃ</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えてみてくださいね！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **配達（はいたつ）** 【JLPT N3】
+  * 意味：delivery, distribution
+  * 例文：再配達を依頼する方法は大きく分けて3つあります。
+* **不在（ふざい）** 【JLPT N1】
+  * 意味：absence
+  * 例文：不在票ダンジョンを攻略するための「勇者の基本装備」はこちら。
+* **スト（スト）** 【JLPT N1】
+  * 意味：(abbr.) strike
+  * 例文：## 🎒 今回のダンジョン装備（持ち物リスト）。
+
 ---
 
 [oscss_series category="street-japanese" title="🗺️ 「街角サバイバル」連載シリーズ"]

@@ -99,6 +99,21 @@ description: "大きなランドセルを背負った6歳の男の子が、親�
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **通学（つうがく）** 【JLPT N3】
+  * 意味：commuting to school
+  * 例文：」と腰を抜かす、日本の驚くべき通学文化と社会の仕組みについてお話しします。
+* **海外（かいがい）** 【JLPT N3】
+  * 意味：foreign, abroad, overseas
+  * 例文：まず、海外における「子供の登下校」の常識をご紹介します。
+* **登校（とうこう）** 【JLPT N1】
+  * 意味：attendance (at school)
+  * 例文：## 🚨 海外の常識：子供を1人で登校させたら「即・警察通報」。
+
 ## 📝 まとめ：<ruby>小<rt>ちい</rt></ruby>さな<ruby>背中<rt>せなか</rt></ruby>を<ruby>包<rt>つつ</rt></ruby>む、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>大<rt>おお</rt></ruby>きな<ruby>優<rt>やさ</rt></ruby>しさ
 
 <ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>黄色<rt>きいろ</rt></ruby>い<ruby>帽子<rt>ぼうし</rt></ruby>をかぶって<ruby>小<rt>ちい</rt></ruby>さな<ruby>体<rt>からだ</rt></ruby>で<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>歩<rt>ある</rt></ruby>く<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>小学生<rt>しょうがくせい</rt></ruby>たち。

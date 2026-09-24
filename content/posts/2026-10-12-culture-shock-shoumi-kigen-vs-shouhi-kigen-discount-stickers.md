@@ -95,6 +95,21 @@ tags:
 > 「<ruby>賞味<rt>しょうみ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>」と「<ruby>消費<rt>しょうひ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>」の<ruby>違<rt>ちが</rt></ruby>いさえしっかり<ruby>理解<rt>りかい</rt></ruby>していれば、<ruby>日本<rt>にっぽん</rt></ruby>のスーパーは<ruby>最高<rt>さいこう</rt></ruby>に<ruby>安全<rt>あんぜん</rt></ruby>で、<ruby>美味<rt>おい</rt></ruby>しくて、お<ruby>財布<rt>さいふ</rt></ruby>にも<ruby>優<rt>やさ</rt></ruby>しいワンダーランドです。
 > <ruby>皆<rt>みな</rt></ruby>さんもぜひ、<ruby>夕方<rt>ゆうがた</rt></ruby>のスーパーでお<ruby>買い物<rt>かいもの</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでみてくださいね！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **期限（きげん）** 【JLPT N3】
+  * 意味：deadline, term
+  * 例文：「賞味期限」VS「消費期限」。
+* **消費（しょうひ）** 【JLPT N3】
+  * 意味：consumption, expenditure
+  * 例文：「賞味期限」VS「消費期限」。
+* **現れる（あらわれる）** 【JLPT N3】
+  * 意味：to appear (v.i.), to become visible; to express
+  * 例文：## 2. 夕方18時のスーパーに現れる「黄色いシールの魔法使い」。
+
 ---
 
 [oscss_series category="culture-shock" title="⚡ 「カルチャーショック！」連載シリーズ"]

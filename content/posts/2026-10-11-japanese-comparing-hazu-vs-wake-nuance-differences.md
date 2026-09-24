@@ -109,6 +109,21 @@ JLPT（<ruby>日本語<rt>にほんご</rt></ruby><ruby>能力<rt>のうりょ�
 > 「あぁ〜なるほど、<ruby>謎<rt>なぞ</rt></ruby>が<ruby>解<rt>と</rt></ruby>けた！」と<ruby>納得<rt>なっとく</rt></ruby>したときは**【わけ】**。
 > この2つの<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きを<ruby>身体<rt>しんたい</rt></ruby>で<ruby>覚<rt>おぼ</rt></ruby>えると、<ruby>日本語<rt>にほんご</rt></ruby>のニュアンス<ruby>表現<rt>ひょうげん</rt></ruby>が<ruby>劇的<rt>げきてき</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しくなりますよ！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **納得（なっとく）** 【JLPT N3】
+  * 意味：consent, assent, understanding
+  * 例文：」** | **理由を知った上での【納得】・合点** | すでに目の前にある事実の原因を理解する |。
+* **違い（ちがい）** 【JLPT N3】
+  * 意味：difference, discrepancy
+  * 例文：## 1. 決定的な違いは「推測」か「納得」か。
+* **推測（すいそく）** 【JLPT N1】
+  * 意味：guess, conjecture
+  * 例文：」** | **客観的な【推測】・予想** | まだ確定していない未来や現在の状況へ向かう |。
+
 ---
 
 [oscss_series category="comparing" title="⚖️ 「くらべてみました」連載シリーズ"]

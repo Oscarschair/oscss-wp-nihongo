@@ -102,6 +102,21 @@ tags:
 > <strong>「お<ruby>会計<rt>かいけい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします」</strong>
 > 💡 タッチパネルの「お<ruby>会計<rt>かいけい</rt></ruby>」ボタンを<ruby>押<rt>お</rt></ruby>すと、お<ruby>皿<rt>さら</rt></ruby><ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>で<ruby>自動<rt>じどう</rt></ruby><ruby>計算<rt>けいさん</rt></ruby>される<ruby>店舗<rt>てんぽ</rt></ruby>（くら<ruby>寿司<rt>すし</rt></ruby><ruby>等<rt>とう</rt></ruby>）ではそのまま<ruby>伝票<rt>でんぴょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってレジへ、それ<ruby>以外<rt>いがい</rt></ruby>の<ruby>店舗<rt>てんぽ</rt></ruby>（スシロー・はま<ruby>寿司<rt>すし</rt></ruby><ruby>等<rt>とう</rt></ruby>）では<ruby>店員<rt>てんいん</rt></ruby>さんが<ruby>席<rt>せき</rt></ruby>にお<ruby>皿<rt>さら</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えに<ruby>来<rt>き</rt></ruby>てくれます。
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **回転（かいてん）** 【JLPT N2】
+  * 意味：rotation, turning
+  * 例文：回転寿司で使える必須フレーズ。
+* **蛇口（じゃぐち）** 【JLPT N2】
+  * 意味：faucet, tap
+  * 例文：冷たいお水が飲みたいときは、蛇口を押してはいけません。
+* **特急（とっきゅう）** 【JLPT N4】
+  * 意味：limited express (train faster than an express)
+  * 例文：## 2. 第2の試練：タッチパネル注文 ＆ 「超特急レーン」の受け取り術。
+
 ---
 
 ## 5. まとめ：ルールを<ruby>知<rt>し</rt></ruby>れば、<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>は<ruby>最高<rt>さいこう</rt></ruby>のテーマパーク！

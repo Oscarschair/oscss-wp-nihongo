@@ -131,6 +131,21 @@ tags:
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **適当（てきとう）** 【JLPT N4】
+  * 意味：fitness, suitability
+  * 例文：そのため、香港や台湾、中国から来たビジネスパーソンが日本の職場で「適当にやっておいて」と指示されると：。
+* **国語（こくご）** 【JLPT N3】
+  * 意味：national language
+  * 例文：中国語の「適當」vs 日本語の「テキトー」。
+* **適切（てきせつ）** 【JLPT N3】
+  * 意味：appropriate, adequate, relevance
+  * 例文：会社にとって最も『適切かつ正当』な判断を下さねば。
+
 ## まとめ：<ruby>日本<rt>にっぽん</rt></ruby>で「<ruby>適当<rt>てきとう</rt></ruby>に」と<ruby>言<rt>い</rt></ruby>われたら、ホッとして<ruby>力<rt>ちから</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>こう！
 
 <ruby>真面目<rt>まじめ</rt></ruby>な<ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>ほど、「<ruby>適当<rt>てきとう</rt></ruby>にやっておいて」と<ruby>言<rt>い</rt></ruby>われるとプレッシャーを<ruby>感<rt>かん</rt></ruby>じてしまいがちです。

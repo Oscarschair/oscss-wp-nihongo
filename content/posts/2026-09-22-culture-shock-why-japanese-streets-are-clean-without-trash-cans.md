@@ -137,6 +137,21 @@ description: "香港には数十メートルおきにゴミ箱を設置する法
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **文化（ぶんか）** 【JLPT N4】
+  * 意味：culture
+  * 例文：### 秘密③：「食べ歩き」をあまりしない文化。
+* **本人（ほんにん）** 【JLPT N3】
+  * 意味：the person himself
+  * 例文：そこには、世界中が称賛する日本人の「3つの驚くべき行動規範」がありました。
+* **帰り（かえり）** 【JLPT N4】
+  * 意味：return, coming back
+  * 例文：「自分の出したゴミは、お家まで責任を持って持ち帰りましょう」。
+
 ## まとめ：<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がないことは「<ruby>不親切<rt>ふしんせつ</rt></ruby>」ではなく、<ruby>社会<rt>しゃかい</rt></ruby>への「<ruby>信頼<rt>しんらい</rt></ruby>」の<ruby>証<rt>あかし</rt></ruby>
 
 <ruby>香港<rt>ほんこん</rt></ruby>のように「<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>を<ruby>数<rt>すう</rt></ruby><ruby>十<rt>じゅう</rt></ruby>メートルおきに<ruby>並<rt>なら</rt></ruby>べて<ruby>罰金<rt>ばっきん</rt></ruby>で<ruby>取り締<rt>とりし</rt></ruby>まる」アプローチも<ruby>合理<rt>ごうり</rt></ruby><ruby>的<rt>てき</rt></ruby>で<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>都市<rt>とし</rt></ruby><ruby>管理<rt>かんり</rt></ruby>です。

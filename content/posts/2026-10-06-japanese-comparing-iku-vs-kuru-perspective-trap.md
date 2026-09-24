@@ -100,6 +100,21 @@ tags:
 > でも、「<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>常<rt>つね</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>足元<rt>あしもと</rt></ruby>に<ruby>定点<rt>ていてん</rt></ruby>カメラがあるんだ」とイメージするようになってから、<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>間違<rt>まちが</rt></ruby>えなくなりました！
 > 「<ruby>相手<rt>あいて</rt></ruby>の<ruby>元<rt>もと</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かうときは『<ruby>今<rt>いま</rt></ruby><ruby>行<rt>い</rt></ruby>きます！』」。この<ruby>感覚<rt>かんかく</rt></ruby>を<ruby>掴<rt>つか</rt></ruby>むと、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>空間<rt>くうかん</rt></ruby><ruby>認知<rt>にんち</rt></ruby>が<ruby>一気<rt>いっき</rt></ruby>に<ruby>日本人<rt>にっぽんじん</rt></ruby>ネイティブに<ruby>近<rt>ちか</rt></ruby>づきますよ！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **相手（あいて）** 【JLPT N3】
+  * 意味：partner; addressee; the person you are talking to
+  * 例文：（ngo5 lai4 gan2 laa1）** | **「相手（聞き手）」**の場所にカメラを置く |。
+* **行き（いき）** 【JLPT N3】
+  * 意味：going
+  * 例文：➔ 相手が待っている場所へ自分が移動するときは、必ず「行きます。
+* **ました（ました）** 【JLPT N1】
+  * 意味：right under, directly below
+  * 例文：でも、「日本語は常に自分の足元に定点カメラがあるんだ」とイメージするようになってから、一度も間違えなくなりました。
+
 ---
 
 [oscss_series category="comparing" title="⚖️ 「くらべてみました」連載シリーズ"]

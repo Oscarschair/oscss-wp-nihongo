@@ -93,6 +93,21 @@ tags:
 * <strong>「がっしりしていますね」「<ruby>体格<rt>たいかく</rt></ruby>がいいですね」</strong>：<ruby>筋肉質<rt>きんにくしつ</rt></ruby>で<ruby>健康<rt>けんこう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>男性<rt>だんせい</rt></ruby>を<ruby>褒<rt>ほ</rt></ruby>めるときに<ruby>最適<rt>さいてき</rt></ruby>。
 * <strong>「ぽっちゃりしていて<ruby>可愛<rt>かわい</rt></ruby>い」</strong>：<ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>で、<ruby>愛嬌<rt>あいきょう</rt></ruby>のある<ruby>丸<rt>まる</rt></ruby>みのある<ruby>体型<rt>たいけい</rt></ruby>を<ruby>好意<rt>こうい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>表現<rt>ひょうげん</rt></ruby>する<ruby>言葉<rt>ことば</rt></ruby>。
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **太る（ふとる）** 【JLPT N4】
+  * 意味：to gain weight
+  * 例文：「太る」と「太っている」の違い。
+* **状態（じょうたい）** 【JLPT N3】
+  * 意味：condition, situation
+  * 例文：「〜ている」が必要な「結果の状態動詞」リスト。
+* **変化（へんか）** 【JLPT N3】
+  * 意味：change, variation, shift
+  * 例文：「太る」は「体重が増える」という変化の瞬間（プロセス）を表す動詞です。
+
 ---
 
 ## 4. まとめ：「<ruby>太<rt>ふと</rt></ruby>る（<ruby>変化<rt>へんか</rt></ruby>）」と「<ruby>太<rt>ふと</rt></ruby>っている（<ruby>状態<rt>じょうたい</rt></ruby>）」を<ruby>使<rt>つか</rt></ruby>いこなそう！

@@ -160,6 +160,21 @@ ICカードやスマホを<ruby>駅員<rt>えきいん</rt></ruby>さんに<ruby
 
 [oscss_related slug="culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture" label="<ruby>電車<rt>でんしゃ</rt></ruby>カルチャーショック"]
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **改札（かいさつ）** 【JLPT N2】
+  * 意味：examination of tickets
+  * 例文：日本の改札は「1円の妥協も許さない鉄壁の門」。
+* **脱出（だっしゅつ）** 【JLPT N1】
+  * 意味：escape
+  * 例文：## 4. 第3の試練：駅員窓口（有人改札）で唱える「脱出の神フレーズ」。
+* **唱える（となえる）** 【JLPT N1】
+  * 意味：to recite, to chant, to call upon
+  * 例文：## 4. 第3の試練：駅員窓口（有人改札）で唱える「脱出の神フレーズ」。
+
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>

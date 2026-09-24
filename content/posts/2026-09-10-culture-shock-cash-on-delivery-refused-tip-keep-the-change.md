@@ -128,6 +128,21 @@ description: "海外では常識の「お釣りは取っておいて（Keep the 
 * 🧊 サービスの<ruby>違<rt>ちが</rt></ruby>い：[カルチャーショック：<ruby>真冬<rt>まふゆ</rt></ruby>でも<ruby>氷水<rt>こおりみず</rt></ruby>！？<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>冷<rt>つめ</rt></ruby>たいおもてなし」と<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>の「<ruby>温<rt>あたた</rt></ruby>かいお<ruby>湯<rt>ゆ</rt></ruby>」<ruby>文化<rt>ぶんか</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture/)
 * 🔍 <ruby>謝罪<rt>しゃざい</rt></ruby>と<ruby>感謝<rt>かんしゃ</rt></ruby>：[くらべてみました：「ごめんなさい」VS「すみません」の<ruby>違<rt>ちが</rt></ruby>い｜<ruby>謝罪<rt>しゃざい</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>け](https://nihongo.oscarchair.jp/japanese-comparing-sorry-excuse-me-differences-in-apology-expressions/)
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **チップ（チップ）** 【JLPT N2】
+  * 意味：gratuity, tip; chip
+  * 例文：海外のチップ文化圏では、「基本給が低く抑えられており、チップが従業員の直接の生活費になる」という社会構造があります。
+* **文化（ぶんか）** 【JLPT N4】
+  * 意味：culture
+  * 例文：海外のチップ文化圏では、「基本給が低く抑えられており、チップが従業員の直接の生活費になる」という社会構造があります。
+* **理由（りゆう）** 【JLPT N4】
+  * 意味：reason
+  * 例文：日本でチップやお釣りの辞退が断られるのには、日本社会ならではの3つの明確な理由があります。
+
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>

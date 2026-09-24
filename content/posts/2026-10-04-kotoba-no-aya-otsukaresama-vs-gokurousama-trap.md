@@ -106,6 +106,21 @@ tags:
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **疲れ（つかれ）** 【JLPT N3】
+  * 意味：tiredness, fatigue
+  * 例文：オスカーは「部長、大変なお仕事、本当にお疲れさまでした。
+* **苦労（くろう）** 【JLPT N3】
+  * 意味：hardship; suffering
+  * 例文：ご苦労様さまです。
+* **目上（めうえ）** 【JLPT N3】
+  * 意味：person of higher status; one's senior
+  * 例文：## なぜ「ご苦労様」を目上に使うと大事故になるのか。
+
 ## まとめ：<ruby>迷<rt>まよ</rt></ruby>ったら「お<ruby>疲れ様<rt>つかれさま</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>っておけば100<ruby>点<rt>てん</rt></ruby>！
 
 「ご<ruby>苦労<rt>くろう</rt><ruby>様<rt>さま</rt>」という<ruby>言葉<rt>ことば</rt></ruby>は、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>では<strong>「<ruby>社長<rt>しゃちょう</rt></ruby>や<ruby>役員<rt>やくいん</rt></ruby>クラスが、<ruby>全社員<rt>ぜんしゃいん</rt></ruby>をねぎらう<ruby>時<rt>とき</rt></ruby>」</strong>くらいしか<ruby>使<rt>つか</rt></ruby>われません。

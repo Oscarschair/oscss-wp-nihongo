@@ -181,6 +181,95 @@ def md_to_gutenberg(md_text):
                 blocks.append(f"<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>{box_fmt}</p></blockquote>\n<!-- /wp:quote -->")
             continue
 
+        # 1.8. Vocabulary Section (## 🎯 今回の語彙)
+        if line.startswith('## 🎯 今回の語彙') or line.startswith('## 今回の語彙'):
+            v_title = format_inline_markdown(re.sub(r'^##\s*', '', line).strip())
+            i += 1
+            lead_text = ""
+            vocab_items = []
+            current_item = None
+            
+            while i < len(lines):
+                cur = lines[i].strip()
+                if not cur:
+                    i += 1
+                    continue
+                if cur.startswith(('## ', '### ', '---', '***', '___')):
+                    break
+                
+                # Check if this line is a main vocabulary entry: e.g. * **温泉（おんせん）** 【JLPT N2】
+                # Can start with '* **' or '- **'
+                if (cur.startswith('* **') or cur.startswith('- **')) and ('【' in cur or 'JLPT' in cur):
+                    if current_item:
+                        vocab_items.append(current_item)
+                    
+                    w_match = re.search(r'\*\*(.+?)\*\*\s*【(?:JLPT\s*)?([Nn][1-5])】', cur)
+                    if w_match:
+                        word_and_reading = w_match.group(1).strip()
+                        jlpt_lvl = w_match.group(2).upper()
+                    else:
+                        item_text = re.sub(r'^[*\-]\s+', '', cur).strip()
+                        word_and_reading = re.sub(r'\*+', '', item_text).strip()
+                        jlpt_lvl = "N3"
+                    
+                    current_item = {
+                        "word": word_and_reading,
+                        "jlpt": jlpt_lvl,
+                        "meaning": "",
+                        "example": ""
+                    }
+                    i += 1
+                    continue
+                
+                # Sub-attributes (意味 / 例文) or lead text
+                if current_item:
+                    clean_line = re.sub(r'^[*\-\s]+', '', cur).strip()
+                    if '意味：' in clean_line or '意味:' in clean_line:
+                        current_item["meaning"] = re.sub(r'^意味[：:]\s*', '', clean_line).strip()
+                    elif '例文：' in clean_line or '例文:' in clean_line:
+                        current_item["example"] = re.sub(r'^例文[：:]\s*', '', clean_line).strip()
+                    else:
+                        if not current_item["meaning"]:
+                            current_item["meaning"] = clean_line
+                        elif not current_item["example"]:
+                            current_item["example"] = clean_line
+                        else:
+                            current_item["example"] += " " + clean_line
+                else:
+                    if not lead_text:
+                        lead_text = format_inline_markdown(cur)
+                    else:
+                        lead_text += "<br>" + format_inline_markdown(cur)
+                i += 1
+            
+            if current_item:
+                vocab_items.append(current_item)
+            
+            vocab_cards = []
+            for item in vocab_items:
+                badge_cls = f"c-badge--jlpt-{item['jlpt'].lower()}"
+                card_html = f"""    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">{item['word']}</span>
+        <span class="c-badge c-badge--jlpt {badge_cls}">JLPT {item['jlpt']}</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>{format_inline_markdown(item['meaning'])}</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>{format_inline_markdown(item['example'])}</p>
+    </div>"""
+                vocab_cards.append(card_html)
+            
+            lead_html = f'<p class="c-vocab-box__lead">{lead_text}</p>' if lead_text else ''
+            cards_joined = "\n".join(vocab_cards)
+            box_html = f"""<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">{v_title}</h3>
+  {lead_html}
+  <div class="c-vocab-grid">
+{cards_joined}
+  </div>
+</div>"""
+            blocks.append(f"<!-- wp:html -->\n{box_html}\n<!-- /wp:html -->")
+            continue
+
         # 2. Headings
         if line.startswith('## '):
             h_text = format_inline_markdown(line[3:].strip())

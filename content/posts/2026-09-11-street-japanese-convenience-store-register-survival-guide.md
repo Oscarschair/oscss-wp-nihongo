@@ -152,6 +152,21 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 
 [oscss_related slug="culture-shock-cash-on-delivery-refused-tip-keep-the-change" label="お<ruby>金<rt>かね</rt></ruby>とマナー"]
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **レジ（レジ）** 【JLPT N4】
+  * 意味：register
+  * 例文：第1弾のテーマは、私たちが日本で最も頻繁に訪れる場所……そう、「コンビニのレジ」です。
+* **無言（むごん）** 【JLPT N1】
+  * 意味：silence
+  * 例文：無言のあうんの呼吸で世界が回っています。
+* **カー（カー）** 【JLPT N3】
+  * 意味：car
+  * 例文：日本はPonta、dポイント、楽天ポイント、Vポイントなど「ポイントカード戦国時代」です。
+
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>

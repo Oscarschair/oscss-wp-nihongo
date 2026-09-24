@@ -100,6 +100,21 @@ tags:
 * 🗣️ <strong>コンビニで<ruby>傘<rt>かさ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いたいとき</strong>:
   「すみません、<strong><ruby>傘<rt>かさ</rt></ruby>はどこに<ruby>置<rt>お</rt></ruby>いてありますか？</strong>」
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **ビニール（ビニール）** 【JLPT N2】
+  * 意味：vinyl
+  * 例文：ビニール傘を置くと高確率で消える。
+* **完全（かんぜん）** 【JLPT N3】
+  * 意味：perfection, completeness
+  * 例文：折りたたみ傘なら、使い終わったら付属のケースやカサポンに入れて常に自分のバッグに入れておけるため、盗難リスクは完全にゼロになります。
+* **絶対（ぜったい）** 【JLPT N3】
+  * 意味：definitely, without fail, absoluteness
+  * 例文：そんなあなたのために、日本人が実践している「絶対に取り違えられない裏ワザ」を伝授します。
+
 ---
 
 ## 5. まとめ：<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は「<ruby>油断大敵<rt>ゆだんたいてき</rt></ruby>」！スマートに<ruby>自分<rt>じぶん</rt></ruby>の<ruby>身<rt>み</rt></ruby>（と<ruby>傘<rt>かさ</rt></ruby>）を<ruby>守<rt>まも</rt></ruby>ろう

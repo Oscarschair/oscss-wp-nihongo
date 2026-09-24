@@ -113,6 +113,21 @@ description: "教科書で一番最初に習う「さようなら」。でも実
 * 💡 [くらべてみました：「わかる」VS「<ruby>知<rt>し</rt></ruby>る」の<ruby>違<rt>ちが</rt></ruby>い｜「<ruby>知<rt>し</rt></ruby>っていますか？」と「<ruby>分<rt>わ</rt></ruby>かりますか？」で<ruby>相手<rt>あいて</rt></ruby>への<ruby>印象<rt>いんしょう</rt></ruby>が180<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>わる<ruby>理由<rt>りゆう</rt></ruby>](https://nihongo.oscarchair.jp/japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing/)
 * 🔍 [くらべてみました：「ごめんなさい」VS「すみません」の<ruby>違<rt>ちが</rt></ruby>い｜<ruby>謝罪<rt>しゃざい</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>け](https://nihongo.oscarchair.jp/japanese-comparing-sorry-excuse-me-differences-in-apology-expressions/)
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **さよう（さよう）** 【JLPT N1】
+  * 意味：operation, effect, function
+  * 例文：日本人って、普段『さようなら』って全然言わなくない。
+* **ました（ました）** 【JLPT N1】
+  * 意味：right under, directly below
+  * 例文：相手やシチュエーションによって、どの言葉を使うのが最も自然なのかを一覧表にまとめました。
+* **違い（ちがい）** 【JLPT N3】
+  * 意味：difference, discrepancy
+  * 例文：表現の使い分けとニュアンスの違いをスッキリ解決するおすすめ記事。
+
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>

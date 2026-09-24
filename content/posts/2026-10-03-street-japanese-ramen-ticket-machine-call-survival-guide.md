@@ -89,6 +89,21 @@ tags:
 
 この3ステップを<ruby>実践<rt>じっせん</rt></ruby>すれば、<ruby>頑固<rt>がんこ</rt></ruby>な<ruby>職人<rt>しょくにん</rt></ruby><ruby>風<rt>ふう</rt></ruby>の<ruby>店主<rt>てんしゅ</rt></ruby>もニッコリ<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>見送<rt>みおく</rt></ruby>ってくれますよ！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **好み（このみ）** 【JLPT N3】
+  * 意味：liking, taste, choice
+  * 例文：食券を買って店員さんに渡すと、多くのラーメン店（特に横浜家系ラーメンなど）で「お好みはどうされますか。
+* **作法（さほう）** 【JLPT N3】
+  * 意味：manners, etiquette, propriety
+  * 例文：### ③ 食べ終わった後のスマートな退店作法。
+* **一瞬（いっしゅん）** 【JLPT N3】
+  * 意味：a moment, an instant
+  * 例文：### 🧙‍♂️ 一瞬で解決する最強の呪文：『全部ふつうで。
+
 ---
 
 ## 4. まとめ：<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>もお<ruby>好<rt>この</rt></ruby>みも、<ruby>怖<rt>こわ</rt></ruby>がらずに<ruby>飛び込<rt>とびこ</rt></ruby>もう！

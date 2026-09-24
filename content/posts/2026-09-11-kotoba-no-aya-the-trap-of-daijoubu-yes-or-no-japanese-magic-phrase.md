@@ -122,6 +122,21 @@ description: "「レシート大丈夫です」はNOなのに、「この席大�
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **本人（ほんにん）** 【JLPT N3】
+  * 意味：the person himself
+  * 例文：日本人の「無言のボディランゲージ」にも決定的な違いが現れます。
+* **それとも（それとも）** 【JLPT N3】
+  * 意味：or, or else
+  * 例文：それともの使い方に注意しましょう。
+* **サイン（サイン）** 【JLPT N3】
+  * 意味：autograph; sign; sine
+  * 例文：この3つのサインさえ掴めば、瞬時に真意を解読できるようになります。
+
 ## 📝 まとめ：<ruby>文脈<rt>ぶんみゃく</rt></ruby>とジェスチャーを<ruby>読<rt>よ</rt></ruby>めば「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>」は<ruby>怖<rt>こわ</rt></ruby>くない！
 
 「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」は、<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>敵<rt>てき</rt></ruby>のように<ruby>難解<rt>なんかい</rt></ruby>に<ruby>思<rt>おも</rt></ruby>えますが、<ruby>仕組<rt>しく</rt></ruby>みが<ruby>分<rt>わ</rt></ruby>かれば<ruby>日本<rt>にっぽん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>を<ruby>円滑<rt>えんかつ</rt></ruby>に<ruby>生<rt>い</rt></ruby>きるための<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>味方<rt>みかた</rt></ruby>になります。

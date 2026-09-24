@@ -104,6 +104,21 @@ tags:
 >   
 > デジタル<ruby>化<rt>か</rt></ruby>でハンコをなくす<ruby>動<rt>うご</rt></ruby>きも<ruby>進<rt>すす</rt></ruby>んでいますが、あの「<ruby>朱肉<rt>しゅにく</rt></ruby>の<ruby>香<rt>かお</rt></ruby>りと、<ruby>紙<rt>かみ</rt></ruby>に<ruby>魂<rt>たましい</rt></ruby>を<ruby>込<rt>こ</rt></ruby>めて<ruby>押<rt>お</rt></ruby>す<ruby>儀式<rt>ぎしき</rt></ruby>」は、<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>誇<rt>ほこ</rt></ruby>る<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>伝統<rt>でんとう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>だと<ruby>今<rt>いま</rt></ruby>では<ruby>心<rt>こころ</rt></ruby>から<ruby>感<rt>かん</rt></ruby>じています！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **印鑑（いんかん）** 【JLPT N1】
+  * 意味：stamp, seal
+  * 例文：」と意気込んで100円ショップや文房具屋に向かうと、そこには回転式の巨大な**「印鑑タワー」**がそびえ立っています。
+* **文化（ぶんか）** 【JLPT N4】
+  * 意味：culture
+  * 例文：デジタル化でハンコをなくす動きも進んでいますが、あの「朱肉の香りと、紙に魂を込めて押す儀式」は、日本が誇る素晴らしい伝統文化だと今では心から感じています。
+* **サイン（サイン）** 【JLPT N3】
+  * 意味：autograph; sign; sine
+  * 例文：最初は「サインのほうが偽造できないし合理的じゃん。
+
 ---
 
 [oscss_series category="culture-shock" title="⚡ 「カルチャーショック！」連載シリーズ"]

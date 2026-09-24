@@ -116,6 +116,21 @@ tags:
 >   
 > <ruby>手<rt>て</rt></ruby>を<ruby>軽<rt>かる</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>にかざしながら「あ、<ruby>結構<rt>けっこう</rt></ruby>です〜」と<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>会釈<rt>えしゃく</rt></ruby>できたら、あなたも<ruby>今日<rt>きょう</rt></ruby>から<ruby>完全<rt>かんぜん</rt></ruby>な<ruby>日本<rt>にっぽん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>マスターです！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **笑顔（えがお）** 【JLPT N3】
+  * 意味：smile (on one's face)
+  * 例文：手を軽く前にかざしながら「あ、結構です〜」と笑顔で会釈できたら、あなたも今日から完全な日本文化マスターです。
+* **混乱（こんらん）** 【JLPT N3】
+  * 意味：chaos, confusion, mayhem
+  * 例文：混乱を解く鍵は、漢字の語源にあります。
+* **レジ（レジ）** 【JLPT N4】
+  * 意味：register
+  * 例文：➔ 例：「レジ袋は結構です」「お茶は結構です」。
+
 ---
 
 [oscss_series category="kotoba-no-aya" title="🎭 「ことばのあや」連載シリーズ"]

@@ -120,6 +120,21 @@ description: "英語のSorry、Thank you、Excuse me、Pardonがすべて1語に
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **本人（ほんにん）** 【JLPT N3】
+  * 意味：the person himself
+  * 例文：〜日本人の「負い目」の心理〜。
+* **感謝（かんしゃ）** 【JLPT N3】
+  * 意味：thanks, gratitude
+  * 例文：1. 感謝：「わざわざ拾って届けてくれて嬉しい。
+* **場面（ばめん）** 【JLPT N3】
+  * 意味：scene, setting (e.g., of novel)
+  * 例文：ｗ」と笑ってしまう「すみません」の驚異の7変化と、なぜ日本人は感謝の場面でも謝ってしまうのかというディープな心理を徹底解剖します。
+
 ## まとめ：「すみません」は、<ruby>相手<rt>あいて</rt></ruby>を<ruby>思<rt>おも</rt></ruby>いやる<ruby>優<rt>やさ</rt></ruby>しさの<ruby>結晶<rt>けっしょう</rt></ruby>
 
 「<ruby>謝<rt>あやま</rt></ruby>ってばかりで<ruby>自分<rt>じぶん</rt></ruby>を<ruby>卑下<rt>ひげ</rt></ruby>している」と<ruby>誤解<rt>ごかい</rt></ruby>されがちな<ruby>日本<rt>にっぽん</rt></ruby>の「すみません」。

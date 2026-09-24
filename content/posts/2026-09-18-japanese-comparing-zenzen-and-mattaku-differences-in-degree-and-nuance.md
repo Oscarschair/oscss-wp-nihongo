@@ -137,6 +137,21 @@ description: "教科書では同じ「否定の強調（Not at all）」とし�
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **全く（まったく）** 【JLPT N3】
+  * 意味：really, completely
+  * 例文：「全然」VS「全く」の比較チャート。
+* **全然（ぜんぜん）** 【JLPT N4】
+  * 意味：not at all; wholly, entirely
+  * 例文：」「これ、全然おいしいじゃん。
+* **違い（ちがい）** 【JLPT N3】
+  * 意味：difference, discrepancy
+  * 例文：まずは、この2つの言葉が持っている根本的なキャラクターの違いを見てみましょう。
+
 ## まとめ：<ruby>頭<rt>あたま</rt></ruby>の「<ruby>全<rt>まった</rt></ruby>く」、<ruby>心<rt>こころ</rt></ruby>の「<ruby>全然<rt>ぜんぜん</rt></ruby>」
 
 <ruby>教科書<rt>きょうかしょ</rt></ruby>では<ruby>同<rt>おな</rt></ruby>じ「<ruby>否定<rt>ひてい</rt></ruby>のペア」として<ruby>並<rt>なら</rt></ruby>べられている2つの<ruby>言葉<rt>ことば</rt></ruby>ですが、その<ruby>本質<rt>ほんしつ</rt></ruby>は<ruby>全<rt>まった</rt></ruby>く<ruby>違<rt>ちが</rt></ruby>います。

@@ -123,6 +123,21 @@ tags:
 > <strong>「ここ、<ruby>使<rt>つか</rt></ruby>ってます」</strong>
 > 💡 トイレから<ruby>戻<rt>もど</rt></ruby>ってきたとき、<ruby>他<rt>た</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>座<rt>すわ</rt></ruby>りそうになっていたら<ruby>優<rt>やさ</rt></ruby>しくこう<ruby>伝<rt>つた</rt></ruby>えましょう。
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **本人（ほんにん）** 【JLPT N3】
+  * 意味：the person himself
+  * 例文：日本人が物を置いて席を離れる「席取り」文化。
+* **世界（せかい）** 【JLPT N4】
+  * 意味：world
+  * 例文：世界の常識 vs 日本の治安システム。
+* **離れる（はなれる）** 【JLPT N3】
+  * 意味：(something, someone) separates; parts from; to be apart
+  * 例文：日本人が物を置いて席を離れる「席取り」文化。
+
 ---
 
 ## 5. まとめ：<ruby>信頼<rt>しんらい</rt></ruby>が<ruby>生<rt>う</rt></ruby>んだ、<ruby>世界<rt>せかい</rt></ruby>がうらやむ「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>平和<rt>へいわ</rt></ruby>のカタチ」

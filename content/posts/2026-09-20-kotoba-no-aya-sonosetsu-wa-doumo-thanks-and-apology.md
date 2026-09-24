@@ -133,6 +133,21 @@ description: "「あ、その節はどうも…」の『その節』って一体
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **感謝（かんしゃ）** 【JLPT N3】
+  * 意味：thanks, gratitude
+  * 例文：この言葉の最大の謎は、「感謝」と「お詫び」が1つのフレーズに完璧に同居している点です。
+* **具体（ぐたい）** 【JLPT N3】
+  * 意味：concrete, tangible, material
+  * 例文：」と具体的に言われて、もし相手が忘れていたら「えっ、誰だっけ…やばい、思い出せない…」と気まずい空気になってしまいます。
+* **本人（ほんにん）** 【JLPT N3】
+  * 意味：the person himself
+  * 例文：大人の日本人は申し合わせたように笑顔で会釈しながらこう口にします。
+
 ## まとめ：「その<ruby>節<rt>ふし</rt></ruby>はどうも」は、お<ruby>互<rt>たが</rt></ruby>いを<ruby>思<rt>おも</rt></ruby>いやる<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>余白<rt>よはく</rt></ruby>の<ruby>美学<rt>びがく</rt></ruby>」
 
 「<ruby>白黒<rt>しろくろ</rt></ruby>ハッキリ<ruby>言<rt>い</rt></ruby>わない」「<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>言<rt>い</rt></ruby>わない」というのは、<ruby>一見<rt>いっけん</rt></ruby>すると<ruby>不親切<rt>ふしんせつ</rt></ruby>に<ruby>思<rt>おも</rt></ruby>えるかもしれません。

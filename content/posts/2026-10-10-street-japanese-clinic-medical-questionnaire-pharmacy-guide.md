@@ -118,6 +118,21 @@ tags:
 > システムを<ruby>知<rt>し</rt></ruby>らないと<ruby>戸惑<rt>とまど</rt></ruby>うことも<ruby>多<rt>おお</rt></ruby>いですが、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>医療<rt>いりょう</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>トップクラスに<ruby>親切<rt>しんせつ</rt></ruby>で<ruby>安心<rt>あんしん</rt></ruby>です。
 > <ruby>体調<rt>たいちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>したときは<ruby>我慢<rt>がまん</rt></ruby>せず、<ruby>保険<rt>ほけん</rt></ruby><ruby>証<rt>しょう</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>りしめて<ruby>近<rt>ちか</rt></ruby>くのクリニックに<ruby>駆け込<rt>かけこ</rt></ruby>んでくださいね！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **薬局（やっきょく）** 【JLPT N2】
+  * 意味：pharmacy, drugstore
+  * 例文：薬局に入ると、必ずこう聞かれます。
+* **手帳（てちょう）** 【JLPT N2】
+  * 意味：notebook
+  * 例文：」**（手帳を渡すとお薬代が少し安くなります）。
+* **保険（ほけん）** 【JLPT N1】
+  * 意味：insurance, guarantee
+  * 例文：体調を崩したときは我慢せず、保険証を握りしめて近くのクリニックに駆け込んでくださいね。
+
 ---
 
 [oscss_series category="street-japanese" title="🗺️ 「街角サバイバル」連載シリーズ"]

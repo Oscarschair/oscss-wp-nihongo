@@ -184,6 +184,21 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 
 [oscss_related slug="culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison" label="<ruby>散髪<rt>さんぱつ</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>"]
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **美容（びよう）** 【JLPT N2】
+  * 意味：beauty of figure or form
+  * 例文：日本の美容室は「対話ダンジョン」。
+* **いとこ（いとこ）** 【JLPT N3】
+  * 意味：cousin (male)
+  * 例文：痒いところはございませんか。
+* **用語（ようご）** 【JLPT N2】
+  * 意味：term, terminology
+  * 例文：### 🇭🇰 香港×🇯🇵 日本：美容室オーダー用語・表現対照表。
+
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>

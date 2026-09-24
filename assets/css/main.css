@@ -4283,6 +4283,87 @@ rt {
 	background: linear-gradient(135deg, #1e40af 0%, #172554 100%);
 }
 
+/* ==========================================================================
+   Vocabulary Section (.c-vocab-box)
+   ========================================================================== */
+.c-vocab-box {
+	margin: var(--space-10) 0;
+	padding: var(--space-6);
+	background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+	border: 1px solid var(--color-border);
+	border-left: 5px solid var(--color-primary);
+	border-radius: var(--radius-lg);
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.c-vocab-box__title {
+	font-size: var(--text-lg);
+	font-weight: 700;
+	color: var(--color-text-main);
+	margin-top: 0;
+	margin-bottom: var(--space-2);
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.c-vocab-box__lead {
+	font-size: var(--text-sm);
+	color: var(--color-text-muted);
+	margin-bottom: var(--space-5);
+	line-height: 1.5;
+}
+
+.c-vocab-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+	gap: var(--space-4);
+}
+
+.c-vocab-card {
+	background: #ffffff;
+	border: 1px solid var(--color-border);
+	border-radius: var(--radius-md);
+	padding: var(--space-4);
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-2);
+}
+
+.c-vocab-card__header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px dashed var(--color-border);
+	padding-bottom: var(--space-2);
+	gap: var(--space-2);
+}
+
+.c-vocab-card__word {
+	font-size: 1.15rem;
+	font-weight: 700;
+	color: var(--color-primary);
+}
+
+.c-vocab-card__meaning {
+	font-size: var(--text-sm);
+	color: var(--color-text-main);
+	line-height: 1.5;
+	margin: 0;
+}
+
+.c-vocab-card__example {
+	font-size: var(--text-xs);
+	color: var(--color-text-muted);
+	background: #f8fafc;
+	padding: var(--space-2) var(--space-3);
+	border-radius: var(--radius-sm);
+	margin: 0;
+	line-height: 1.6;
+}
+
+
 
 
 

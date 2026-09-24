@@ -112,6 +112,21 @@ description: "香港や海外では「車が途切れる隙を狙って命がけ
 
 ---
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **横断（おうだん）** 【JLPT N3】
+  * 意味：crossing
+  * 例文：海外だと信号のない横断歩道でも車は止まってくれないの。
+* **歩道（ほどう）** 【JLPT N3】
+  * 意味：walkway
+  * 例文：海外だと信号のない横断歩道でも車は止まってくれないの。
+* **海外（かいがい）** 【JLPT N3】
+  * 意味：foreign, abroad, overseas
+  * 例文：まず、海外（特に香港や東南アジア、欧米の一部都市）の過酷な道路事情をご紹介します。
+
 ## 📝 まとめ：<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げれば<ruby>心<rt>こころ</rt></ruby>がつながる<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>マナー
 
 <ruby>香港<rt>ほんこん</rt></ruby>の<ruby>激<rt>はげ</rt></ruby>しい<ruby>交通<rt>こうつう</rt></ruby>ラッシュの<ruby>中<rt>なか</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>った<ruby>私<rt>わたし</rt></ruby>にとって、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってくれたときの<ruby>感動<rt>かんどう</rt></ruby>は<ruby>今<rt>いま</rt></ruby>でも<ruby>忘<rt>わす</rt></ruby>れられません。

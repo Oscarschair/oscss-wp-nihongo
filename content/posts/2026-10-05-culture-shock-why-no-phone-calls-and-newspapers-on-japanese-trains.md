@@ -111,6 +111,21 @@ tags:
 3. <strong><ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>雑踏<rt>ざっとう</rt></ruby>でも<ruby>使<rt>つか</rt></ruby>える「<ruby>擬似<rt>ぎじ</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>」シールド</strong>  
 <ruby>実<rt>じつ</rt></ruby>は<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>では、<ruby>駅<rt>えき</rt></ruby>のホームのベンチや<ruby>静<rt>しず</rt></ruby>かなカフェにいながら、「ガタンゴトン」という<ruby>環境<rt>かんきょう</rt></ruby><ruby>音<rt>おん</rt></ruby>を<ruby>背中<rt>せなか</rt></ruby>に「あ、<ruby>今<rt>こん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>で……」と<ruby>囁<rt>ささや</rt></ruby>いて<ruby>平和<rt>へいわ</rt></ruby>にやり<ruby>過<rt>す</rt></ruby>ごすツワモノもたくさんいます（<ruby>笑<rt>えみ</rt></ruby>）。
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **広げる（ひろげる）** 【JLPT N3】
+  * 意味：to spread, to extend, to expand, to enlarge
+  * 例文：ところが、一般的な新聞紙を両手で見開きに広げると、その幅は約80センチ以上。
+* **空間（くうかん）** 【JLPT N1】
+  * 意味：space, room, airspace
+  * 例文：ここには、日本の「空間のパーソナルスペース」に関する鉄則が隠れています。
+* **沈黙（ちんもく）** 【JLPT N1】
+  * 意味：silence, reticence
+  * 例文：「電車の中で誰も電話をしない」のは、冷たいからではなく、「狭い空間でみんなが心地よく過ごすための優しい沈黙」。
+
 ---
 
 ## <ruby>明日<rt>あした</rt></ruby>から<ruby>使<rt>つか</rt></ruby>える！<ruby>電車<rt>でんしゃ</rt></ruby>マナー<ruby>攻略<rt>こうりゃく</rt></ruby>の<ruby>合言葉<rt>あいことば</rt></ruby>

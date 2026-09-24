@@ -187,6 +187,21 @@ thumbnail: "assets/images/thumbnails/thumb-street-cafe-order-rpg.jpg"
 > <ruby>合言葉<rt>あいことば</rt></ruby>は**「<ruby>店内<rt>てんない</rt></ruby>で・そのままで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です！」**（<ruby>持ち帰<rt>もちかえ</rt></ruby>りたいときは「<ruby>紙<rt>かみ</rt></ruby>コップで！」）。
 > この<ruby>三<rt>さん</rt></ruby><ruby>大<rt>だい</rt></ruby>コマンドさえ<ruby>唱<rt>とな</rt></ruby>えられれば、あなたも<ruby>今日<rt>きょう</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>のカフェやテイクアウト<ruby>店<rt>てん</rt></ruby>の<ruby>常連<rt>じょうれん</rt></ruby>マスターです！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **注文（ちゅうもん）** 【JLPT N3】
+  * 意味：order, request
+  * 例文：今回は、日本で暮らす外国人や旅行者が必ず一度はフリーズする**「カフェ注文の重要関門」の攻略法**を完全伝授します。
+* **攻撃（こうげき）** 【JLPT N3】
+  * 意味：attack, strike, offensive
+  * 例文：店員さんに聞かれる前に、最初の注文で**「店内で、アイスラテのMサイズを1つください」**と先制攻撃を仕掛けると、一瞬でスムーズにクリアできます。
+* **帰り（かえり）** 【JLPT N4】
+  * 意味：return, coming back
+  * 例文：それともお持ち帰りですか。
+
 ---
 
 [oscss_series category="street-japanese" title="🗺️ 「<ruby>街角<rt>まちかど</rt></ruby>サバイバル」<ruby>連載<rt>れんさい</rt></ruby>シリーズ"]

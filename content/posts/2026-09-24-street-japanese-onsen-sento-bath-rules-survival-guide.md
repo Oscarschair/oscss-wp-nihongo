@@ -132,6 +132,21 @@ description: "全裸で他人と同じ湯船に浸かる日本の温泉・銭湯
 
 <ruby>皆<rt>みな</rt></ruby>さんも<ruby>日本<rt>にっぽん</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れた<ruby>際<rt>さい</rt></ruby>は、ぜひ<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>胸<rt>むね</rt></ruby>を<ruby>張<rt>は</rt></ruby>って、<ruby>温泉<rt>おんせん</rt></ruby>・<ruby>銭湯<rt>せんとう</rt></ruby>という<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby>ダンジョンを<ruby>攻略<rt>こうりゃく</rt></ruby>してみてくださいね！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **温泉（おんせん）** 【JLPT N2】
+  * 意味：spa, hot spring
+  * 例文：1. 身体の防衛（HP保護）：日本の温泉や銭湯のお湯は41℃〜43℃とかなり熱めです。
+* **タオル（タオル）** 【JLPT N3】
+  * 意味：(hand) towel
+  * 例文：アニメや漫画でよく見る「頭の上にたたんだタオルを乗せるポーズ」。
+* **作法（さほう）** 【JLPT N3】
+  * 意味：manners, etiquette, propriety
+  * 例文：これが、日本の銭湯マスターたちが共通して守っている美しい作法です。
+
 ---
 
 ### 🗺️ 「<ruby>街角<rt>まちかど</rt></ruby>サバイバル」<ruby>連載<rt>れんさい</rt></ruby>シリーズ

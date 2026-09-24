@@ -116,6 +116,21 @@ description: "「少し」と「ちょっと」、どちらも「少ない量」
 
 <ruby>皆<rt>みな</rt></ruby>さんも、<ruby>角<rt>かく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てずに<ruby>柔<rt>やわ</rt></ruby>らかく<ruby>断<rt>ことわ</rt></ruby>りたい<ruby>時<rt>とき</rt></ruby>や、<ruby>親<rt>した</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>に<ruby>優<rt>やさ</rt></ruby>しくお<ruby>願<rt>ねが</rt></ruby>いしたい<ruby>時<rt>とき</rt></ruby>は、ぜひこの「ちょっと」の<ruby>魔法<rt>まほう</rt></ruby>を<ruby>味方<rt>みかた</rt></ruby>にしてみてくださいね！
 
+
+## 🎯 今回の語彙（重要ボキャブラリー）
+
+この学習ノートに登場した、覚えておきたい重要日本語：
+
+* **ました（ました）** 【JLPT N1】
+  * 意味：right under, directly below
+  * 例文：」と思ったこともありました。
+* **断る（ことわる）** 【JLPT N3】
+  * 意味：to refuse, to decline, to dismiss
+  * 例文：「ちょっと」の凄さは、断る時だけではありません。
+* **本人（ほんにん）** 【JLPT N3】
+  * 意味：the person himself
+  * 例文：どちらも「Wait a moment」と訳されますが、日本人の友人に聞くと「少し待ってくださいは少し硬くてビジネス調。
+
 ---
 
 ### 📚 「くらべてみました」<ruby>連載<rt>れんさい</rt></ruby>の<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>
