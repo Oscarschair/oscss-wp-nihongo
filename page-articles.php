@@ -230,14 +230,12 @@ $jlpt_levels = array(
 
 				if ( ! empty( $paginate_links ) ) :
 					?>
-					<nav class="c-pagination" aria-label="<?php esc_attr_e( 'ページ送り', 'oscss-wp-nihongo' ); ?>">
-						<ul class="c-pagination__list">
+					<nav class="navigation c-pagination" aria-label="<?php esc_attr_e( 'ページ送り', 'oscss-wp-nihongo' ); ?>">
+						<div class="nav-links">
 							<?php foreach ( $paginate_links as $link ) : ?>
-								<li class="c-pagination__item">
-									<?php echo wp_kses_post( $link ); ?>
-								</li>
+								<?php echo wp_kses_post( $link ); ?>
 							<?php endforeach; ?>
-						</ul>
+						</div>
 					</nav>
 					<?php
 				endif;
