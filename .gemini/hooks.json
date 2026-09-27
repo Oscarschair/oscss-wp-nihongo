@@ -26,7 +26,27 @@
         "description": "記事本文の日本語校正・てにをは・誤字脱字チェック"
       }
     ],
+    "manga_creation": [
+      {
+        "agent": "manga-scenario-writer",
+        "description": "4コマ漫画起案時の起承転結・視線誘導（右上→左）・名前表記完全排除・空席整合性シナリオ設計"
+      },
+      {
+        "agent": "manga-visual-artist",
+        "description": "4コマ漫画生成時のクルマ確定規格（ふんわり茶髪・丸メガネ）・発話者方向・左下オチ作画＆デプロイ"
+      }
+    ],
     "post_file_save": [
+      {
+        "pattern": "content/manga/**/*.md",
+        "agent": "manga-scenario-writer",
+        "description": "4コマ漫画Markdown保存時のシナリオ整合性・名前なしルール・発話順序自動検証"
+      },
+      {
+        "pattern": "content/manga/**/*.md",
+        "agent": "manga-visual-artist",
+        "description": "4コマ漫画Markdown保存時のアイキャッチ画像・クルマ髪型規格・フキダシ方向検品"
+      },
       {
         "pattern": "content/posts/**/*.md",
         "agent": "seo-reviewer",

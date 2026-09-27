@@ -24,10 +24,27 @@
   * 「えっ……！？ 漢字の通りじゃないの！？（汗）」
   * 「なるほど〜！ 日本人ってそんなこと考えてたのか！」
   * 「（目を丸くして）……知らなかった！！」
-* **ビジュアル絶対規格**:
-  * 参照正本: [`assets/images/hero-oscar.png`](file:///c:/Users/user/git/oscss-wp-nihongo/assets/images/hero-oscar.png)
-  * 頭身: 約5頭身（スリムなVラインの顎、丸顔・幼児顔は厳禁）
-  * 着彩: `zenzen-daijoubu-reassurance.jpg` 準拠のクリーンなアニメ調セルシェーディング
+* **ビジュアル絶対規格（公式正本仕様）**:
+  * **参照正本画像**:
+    1. [`assets/images/hero-oscar.png`](file:///c:/Users/user/git/oscss-wp-nihongo/assets/images/hero-oscar.png)（全体スタイル・顔立ち・メガネ規格）
+    2. [`assets/images/posts/zenzen-daijoubu-reassurance.jpg`](file:///c:/Users/user/git/oscss-wp-nihongo/assets/images/posts/zenzen-daijoubu-reassurance.jpg)（着彩・セルシェーディング規格）
+    3. [`assets/images/posts/manga-01-daijoubu-trap.jpg`](file:///c:/Users/user/git/oscss-wp-nihongo/assets/images/posts/manga-01-daijoubu-trap.jpg)（4コマ漫画作画・表情・コマ割り確定正本）
+  * **髪型・髪色（重要・確定規格）**:
+    * **カラー**: 温かみのあるダークチョコレートブラウン（栗色）。
+    * **シルエット**: トップからサイドにかけて**ふんわりとボリューム感のあるエアリーな無造作ウェーブ・マッシュ**（Fluffy, voluminous brown wavy hair）。
+    * **毛束のディテール**: ペタッとしたキノコマッシュや直線的な切り揃え前髪は厳禁。毛先が軽快に外側やサイドに遊んだ立体的な束感を持たせ、躍動感・清潔感を演出する。
+    * **ハイライト**: 毛束のうねりに沿って、柔らかく自然なアニメ調の光（ハイライト）を入れる。
+  * **メガネ（重要・確定規格）**:
+    * **形状**: やや大きめの真ん丸に近い黒縁ラウンドメガネ（Large circular black round-rim glasses）。
+    * **配置**: 目元をゆったりと囲むサイズ。太い眉毛がメガネの上またはレンズ越しにはっきりと見えていること。
+  * **顔立ち・頭身**:
+    * **輪郭**: 20代前半の爽やかな青年。スリムなVラインの顎（丸顔・幼児体型・2頭身ちびキャラ化は厳禁）。
+    * **瞳**: 大きめの生き生きとしたアニメアイ（茶褐色〜黒）。驚いたときは丸く大きく見開き、笑顔のときは優しい三日月目。
+    * **頭身**: 約5頭身（コミカルなリアクション時もプロポーションを維持）。
+  * **標準衣装**:
+    * **トップス**: くすみ水色（ダスティライトブルー / ペールブルー）のシンプルな長袖クルーネックスウェット（袖口がリブ仕様）。
+  * **作画・着彩スタイル**:
+    * 現代日本のライトノベル・深夜アニメのような、明るくクリアで温かみのある**アニメ調セルシェーディング（Cel-shading）**。太めの均一なクリーンな主線で描く（劇画調・新聞4コマ風の細密線やハッチングは禁止）。
 
 ### ② 田中先輩（Tanaka-senpai）
 * **背景**: オスカーが働く職場の直属の先輩。入社7年目の頼れるディレクター。
