@@ -5,7 +5,7 @@ import paramiko
 if sys.platform == 'win32':
     sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
-src = r"C:\Users\user\.gemini\antigravity-ide\brain\c8ff313e-4ec8-47e9-b866-72ee31d60fa5\manga_01_daijoubu_v7_1790551112689.jpg"
+src = r"C:\Users\user\.gemini\antigravity-ide\brain\c8ff313e-4ec8-47e9-b866-72ee31d60fa5\manga_01_daijoubu_v11_1790551689197.jpg"
 dst = "assets/images/posts/manga-01-daijoubu-trap.jpg"
 dst_webp = "assets/images/posts/manga-01-daijoubu-trap.webp"
 shutil.copy2(src, dst)
