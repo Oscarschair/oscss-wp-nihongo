@@ -502,6 +502,8 @@ function oscss_get_reading_time( $post = null ) {
 	}
 
 	$content = strip_shortcodes( $post->post_content );
+	// ルビのふりがな（<rt>〜</rt>）は本文文字数の二重カウント防止のため事前に除去
+	$content = preg_replace( '/<rt>.*?<\/rt>/su', '', $content );
 	$content = wp_strip_all_tags( $content );
 	$content = preg_replace( '/\s+/', '', $content );
 	$char_count = mb_strlen( $content, 'UTF-8' );
