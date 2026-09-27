@@ -24,6 +24,7 @@ $oscss_includes = array(
 	'/functions/action.php',    // add_action フック（セットアップ、エンキュー等）
 	'/functions/filter.php',    // add_filter フック（抜粋、タイトル制御等）
 	'/functions/shortcode.php', // カスタムショートコード
+	'/functions/cpt.php',       // 4コマ漫画 (manga) カスタム投稿タイプ & 相互リンク
 );
 
 foreach ( $oscss_includes as $file ) {
