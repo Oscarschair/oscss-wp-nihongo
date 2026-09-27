@@ -38,6 +38,10 @@ def align_ruby(surface, reading_kata):
     if not re.search(r'[\u4e00-\u9faf]', kanji_part) or not rt_part or rt_part == '*':
         return surface
 
+    # Override reading for isolated 笑 (e.g. （笑）) so it reads "わら", not "えみ"
+    if kanji_part == '笑' and rt_part == 'えみ':
+        rt_part = 'わら'
+
     return f'{prefix}<ruby>{kanji_part}<rt>{rt_part}</rt></ruby>{suffix}'
 
 def process_text_segment(text):
@@ -119,13 +123,9 @@ def apply_ruby_to_markdown(content):
     return header + new_body
 
 target_files = [
-    "content/posts/2026-10-06-japanese-comparing-iku-vs-kuru-perspective-trap.md",
-    "content/posts/2026-10-07-street-japanese-delivery-redelivery-undelivered-notice-dungeon-guide.md",
-    "content/posts/2026-10-08-kotoba-no-aya-the-trap-of-kekkoudesu-yes-or-no.md",
-    "content/posts/2026-10-09-culture-shock-hanko-seal-stamp-culture-and-signature.md",
-    "content/posts/2026-10-10-street-japanese-clinic-medical-questionnaire-pharmacy-guide.md",
-    "content/posts/2026-10-11-japanese-comparing-hazu-vs-wake-nuance-differences.md",
-    "content/posts/2026-10-12-culture-shock-shoumi-kigen-vs-shouhi-kigen-discount-stickers.md",
+    "content/posts/2026-10-13-kotoba-no-aya-is-shouchidesu-wrong-business-japanese-trap.md",
+    "content/posts/2026-10-14-street-japanese-city-hall-resident-registration-dungeon-guide.md",
+    "content/posts/2026-10-15-japanese-comparing-rashii-souda-youda-differences.md",
 ]
 
 for tf in target_files:

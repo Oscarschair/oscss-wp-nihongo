@@ -33,92 +33,21 @@ tags:
 <ruby>自分<rt>じぶん</rt></ruby>の<ruby>手<rt>て</rt></ruby>で<ruby>書<rt>か</rt></ruby>くサインが<ruby>断<rt>ことわ</rt></ruby>られ、せっかく<ruby>用意<rt>ようい</rt></ruby>したシャチハタまで「NG」を<ruby>食<rt>く</rt></ruby>らうという、<ruby>外国人<rt>がいこくじん</rt></ruby>を<ruby>襲<rt>おそ</rt></ruby>う<strong>「ハンコの<ruby>二重<rt>にじゅう</rt></ruby>トラップ」</strong>。  
 なぜ<ruby>日本<rt>にっぽん</rt></ruby>ではサインもシャチハタもダメで、わざわざ<ruby>朱肉<rt>しゅにく</rt></ruby>をつけた「<ruby>固<rt>かた</rt></ruby>い<ruby>木<rt>き</rt></ruby>の<ruby>棒<rt>ぼう</rt></ruby>（<ruby>印鑑<rt>いんかん</rt></ruby>）」が<ruby>求<rt>もと</rt></ruby>められるのでしょうか？  
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby><ruby>独自<rt>どくじ</rt></ruby>の<ruby>奥深<rt>おくふか</rt></ruby>き「ハンコ（<ruby>印鑑<rt>いんかん</rt></ruby>）ワールド」の<ruby>全貌<rt>ぜんぼう</rt></ruby>をお<ruby>届<rt>とど</rt></ruby>けします！
-
 ---
-
-## 1. 100<ruby>円<rt>えん</rt></ruby>ショップの「<ruby>印鑑<rt>いんかん</rt></ruby>タワー」で<ruby>打<rt>う</rt></ruby>ちのめされる<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>
-
-「ハンコが<ruby>必要<rt>ひつよう</rt></ruby>なら、<ruby>今<rt>いま</rt></ruby>すぐ<ruby>買<rt>か</rt></ruby>えばいいや！」と<ruby>意気込<rt>いきご</rt></ruby>んで100<ruby>円<rt>えん</rt></ruby>ショップや<ruby>文房具<rt>ぶんぼうぐ</rt></ruby><ruby>屋<rt>や</rt></ruby>に<ruby>向<rt>む</rt></ruby>かうと、そこには<ruby>回転<rt>かいてん</rt></ruby><ruby>式<rt>しき</rt></ruby>の<ruby>巨大<rt>きょだい</rt></ruby>な**「<ruby>印鑑<rt>いんかん</rt></ruby>タワー」**がそびえ<ruby>立<rt>た</rt></ruby>っています。
-
-* 「<ruby>佐藤<rt>さとう</rt></ruby>」「<ruby>鈴木<rt>すずき</rt></ruby>」「<ruby>高橋<rt>たかはし</rt></ruby>」「<ruby>田中<rt>たなか</rt></ruby>」「<ruby>渡辺<rt>わたなべ</rt></ruby>」「<ruby>伊藤<rt>いとう</rt></ruby>」……
-
-ずらりと<ruby>並<rt>なら</rt></ruby>ぶ<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>名字<rt>みょうじ</rt></ruby>たち。しかし！
-どれだけ<ruby>目<rt>め</rt></ruby>を<ruby>皿<rt>さら</rt></ruby>のようにして<ruby>探<rt>さが</rt></ruby>しても、**「オスカー」や「スミス」「チェン」なんて<ruby>印鑑<rt>いんかん</rt></ruby>は1<ruby>本<rt>ほん</rt></ruby>も<ruby>売<rt>う</rt></ruby>っていません！（<ruby>涙<rt>なみだ</rt></ruby>）**
-
-> 💬 **<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>あるある**
-> <ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>は「100<ruby>円<rt>えん</rt></ruby>で<ruby>即<rt>そく</rt></ruby><ruby>買<rt>か</rt></ruby>える」のに、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>はハンコ<ruby>屋<rt>や</rt></ruby>さんに<ruby>行<rt>い</rt></ruby>って**<ruby>数<rt>すう</rt></ruby><ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>払<rt>はら</rt></ruby>って「<ruby>特注<rt>とくちゅう</rt></ruby>（カタカナやアルファベット）」で<ruby>作<rt>つく</rt></ruby>ってもらわないといけない**という、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>関門<rt>かんもん</rt></ruby>が<ruby>待ち受<rt>まちう</rt></ruby>けています（<ruby>笑<rt>えみ</rt></ruby>）。
-
-![窓口でシャチハタは使えないと言われ頭を掻きながら困惑するオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/culture-hanko-counter-shachihata-rejection.jpg)
-
----
-
-## 2. <ruby>実<rt>じつ</rt></ruby>は3<ruby>種類<rt>しゅるい</rt></ruby>もある！？ ハンコの「3<ruby>大<rt>だい</rt></ruby>ヒエラルキー」
-
-<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らしていると、「ハンコなら<ruby>何<rt>なに</rt></ruby>でもいい」わけではないという、さらなる<ruby>難関<rt>なんかん</rt></ruby>にぶつかります。
-
-| ハンコの<ruby>種類<rt>しゅるい</rt></ruby> | <ruby>読み方<rt>よみかた</rt></ruby> | <ruby>使<rt>つか</rt></ruby>われる<ruby>場面<rt>ばめん</rt></ruby> | <ruby>重要<rt>じゅうよう</rt></ruby><ruby>度<rt>ど</rt></ruby> |
-| :--- | :--- | :--- | :--- |
-| **<ruby>実印<rt>じついん</rt></ruby>** | **じついん** | マンションの<ruby>購入<rt>こうにゅう</rt></ruby>、<ruby>車<rt>くるま</rt></ruby>の<ruby>売買<rt>ばいばい</rt></ruby>、<ruby>遺産<rt>いさん</rt></ruby><ruby>相続<rt>そうぞく</rt></ruby>など | ★★★★★（<ruby>市区<rt>しく</rt></ruby><ruby>町村<rt>ちょうそん</rt></ruby>に<ruby>登録<rt>とうろく</rt></ruby>する<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>印<rt>しるし</rt></ruby>） |
-| **<ruby>銀行<rt>ぎんこう</rt></ruby><ruby>印<rt>しるし</rt></ruby>** | **ぎんこういん** | <ruby>銀行<rt>ぎんこう</rt></ruby><ruby>口座<rt>こうざ</rt></ruby>の<ruby>開設<rt>かいせつ</rt></ruby>、<ruby>口座<rt>こうざ</rt></ruby><ruby>振替<rt>ふりかえ</rt></ruby>の<ruby>申し込<rt>もうしこ</rt></ruby>み | ★★★★☆（お<ruby>金<rt>かね</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かすための<ruby>印<rt>しるし</rt></ruby>） |
-| **<ruby>認印<rt>みとめいん</rt></ruby>** | **みとめいん** | <ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>の<ruby>受取<rt>うけとり</rt></ruby>、<ruby>社内<rt>しゃない</rt></ruby><ruby>書類<rt>しょるい</rt></ruby>の<ruby>回覧<rt>かいらん</rt></ruby>、<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>申請<rt>しんせい</rt></ruby> | ★★☆☆☆（<ruby>日常<rt>にちじょう</rt></ruby>の「<ruby>確認<rt>かくにん</rt></ruby>しました」の<ruby>印<rt>しるし</rt></ruby>） |
-
-なんと、<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>用途<rt>ようと</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて**2〜3<ruby>本<rt>ほん</rt></ruby>の<ruby>異<rt>こと</rt></ruby>なるハンコを<ruby>使い分<rt>つかいわ</rt></ruby>けている**のです！
-
----
-
-## 3. なぜ「シャチハタ（インク<ruby>付<rt>つ</rt></ruby>きスタンプ）」はダメと<ruby>言<rt>い</rt></ruby>われるの？
-
-<ruby>役所<rt>やくしょ</rt></ruby>や<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>書類<rt>しょるい</rt></ruby>を<ruby>書<rt>か</rt></ruby>いていると、<ruby>必<rt>かなら</rt></ruby>ずこう<ruby>注意<rt>ちゅうい</rt></ruby>されます。
-
-> 🗣️ **「※シャチハタ（<ruby>浸透<rt>しんとう</rt></ruby><ruby>印<rt>いん</rt></ruby>）は<ruby>不可<rt>ふか</rt></ruby>です」**
-
-「えっ、シャチハタも<ruby>同<rt>おな</rt></ruby>じ<ruby>私<rt>わたし</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>押<rt>お</rt></ruby>せるハンコなのに、なんでダメなの！？」と<ruby>思<rt>おも</rt></ruby>いますよね。
-<ruby>実<rt>じつ</rt></ruby>は、ちゃんとした<ruby>理由<rt>りゆう</rt></ruby>があるのです。
-
-```
-【 シャチハタが公式書類でNGな理由 】
---------------------------------------------------
-① 印面がゴムでできているため
-   ➔ 長年使っているとゴムがすり減ったり変形して、印影（押した形）が変わってしまうから。
-
-② インクが特殊（浸透インク）だから
-   ➔ 朱肉（赤い油性のインク）に比べて、紫外線や経年劣化で文字が消えやすいから。
-
-③ 大量生産で誰でも同じものが手に入るから
-   ➔ 重要な契約では、1本1本手彫りされた「世界に1つだけの印影」が求められるから。
---------------------------------------------------
-```
-
-<ruby>日々<rt>ひび</rt></ruby>の<ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>の<ruby>受取<rt>うけとり</rt></ruby>や<ruby>社内<rt>しゃない</rt></ruby>メモならシャチハタで100<ruby>点<rt>てん</rt></ruby><ruby>満点<rt>まんてん</rt></ruby>ですが、**<ruby>銀行<rt>ぎんこう</rt></ruby>や<ruby>役所<rt>やくしょ</rt></ruby>などの「<ruby>一生<rt>いっしょう</rt></ruby><ruby>残<rt>のこ</rt></ruby>る<ruby>公的<rt>こうてき</rt></ruby><ruby>書類<rt>しょるい</rt></ruby>」には、<ruby>固<rt>かた</rt></ruby>い<ruby>木<rt>き</rt></ruby>や<ruby>角<rt>かく</rt></ruby>（つの）でできたハンコ＋<ruby>朱肉<rt>しゅにく</rt></ruby>（<ruby>赤<rt>あか</rt></ruby>いスタンプ<ruby>台<rt>だい</rt></ruby>）**を<ruby>使<rt>つか</rt></ruby>うのが<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>鉄<rt>てつ</rt></ruby>の<ruby>掟<rt>おきて</rt></ruby>なのです。
-
----
-
-## 4. オスカーのひとことメモ
-
-> 💬 **オスカー**  
-> <ruby>最初<rt>さいしょ</rt></ruby>は「サインのほうが<ruby>偽造<rt>ぎぞう</rt></ruby>できないし<ruby>合理<rt>ごうり</rt></ruby><ruby>的<rt>てき</rt></ruby>じゃん！」と<ruby>不満<rt>ふまん</rt></ruby>タラタラでした（<ruby>笑<rt>えみ</rt></ruby>）。
->   
-> でも、<ruby>印鑑<rt>いんかん</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>（カタカナ）を<ruby>職人<rt>しょくにん</rt></ruby>さんに<ruby>彫<rt>ほ</rt></ruby>ってもらい、<ruby>木<rt>き</rt></ruby><ruby>箱<rt>ばこ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったピカピカの「マイ<ruby>印鑑<rt>いんかん</rt></ruby>」を<ruby>受け取<rt>うけと</rt></ruby>った<ruby>瞬間<rt>しゅんかん</rt></ruby>……**ものすごくテンションが<ruby>上<rt>あ</rt></ruby>がりました！！**
->   
-> <ruby>朱肉<rt>しゅにく</rt></ruby>をトントンと<ruby>優<rt>やさ</rt></ruby>しくつけて、<ruby>紙<rt>かみ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>にまっすぐ<ruby>押<rt>お</rt></ruby>し、<ruby>美<rt>うつく</rt></ruby>しい<ruby>円<rt>えん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>がクッキリ<ruby>浮かび上<rt>うかびあ</rt></ruby>がったとき、「あぁ、<ruby>自分<rt>じぶん</rt></ruby>は<ruby>今<rt>いま</rt></ruby>、<ruby>日本<rt>にっぽん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>一員<rt>いちいん</rt></ruby>として<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>約束<rt>やくそく</rt></ruby>を<ruby>交<rt>か</rt></ruby>わしたんだな」という<ruby>独特<rt>どくとく</rt></ruby>の<ruby>重<rt>おも</rt></ruby>みと<ruby>誇<rt>ほこ</rt></ruby>りを<ruby>感<rt>かん</rt></ruby>じたのです。
->   
-> デジタル<ruby>化<rt>か</rt></ruby>でハンコをなくす<ruby>動<rt>うご</rt></ruby>きも<ruby>進<rt>すす</rt></ruby>んでいますが、あの「<ruby>朱肉<rt>しゅにく</rt></ruby>の<ruby>香<rt>かお</rt></ruby>りと、<ruby>紙<rt>かみ</rt></ruby>に<ruby>魂<rt>たましい</rt></ruby>を<ruby>込<rt>こ</rt></ruby>めて<ruby>押<rt>お</rt></ruby>す<ruby>儀式<rt>ぎしき</rt></ruby>」は、<ruby>日本<rt>にっぽん</rt></ruby>が<ruby>誇<rt>ほこ</rt></ruby>る<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>伝統<rt>でんとう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>だと<ruby>今<rt>いま</rt></ruby>では<ruby>心<rt>こころ</rt></ruby>から<ruby>感<rt>かん</rt></ruby>じています！
-
 
 ## 🎯 今回の語彙（重要ボキャブラリー）
 
 この学習ノートに登場した、覚えておきたい重要日本語：
 
 * **印鑑（いんかん）** 【JLPT N1】
-  * 意味：stamp, seal
-  * 例文：」と意気込んで100円ショップや文房具屋に向かうと、そこには回転式の巨大な**「印鑑タワー」**がそびえ立っています。
-* **文化（ぶんか）** 【JLPT N4】
-  * 意味：culture
-  * 例文：デジタル化でハンコをなくす動きも進んでいますが、あの「朱肉の香りと、紙に魂を込めて押す儀式」は、日本が誇る素晴らしい伝統文化だと今では心から感じています。
-* **サイン（サイン）** 【JLPT N3】
-  * 意味：autograph; sign; sine
-  * 例文：最初は「サインのほうが偽造できないし合理的じゃん。
-
+  * 意味：personal seal, stamp
+  * 例文：銀行で新しい口座を開設するため、持参した印鑑を押印した。
+* **押印（おういん）** 【JLPT N1】
+  * 意味：affixing a seal
+  * 例文：契約書の内容をしっかり確認した上で、署名と押印を行った。
+* **署名（しょめい）** 【JLPT N3】
+  * 意味：signature
+  * 例文：クレジットカード決済のレシートに、漢字で丁寧に署名した。
 ---
 
 [oscss_series category="culture-shock" title="⚡ 「カルチャーショック！」連載シリーズ"]
