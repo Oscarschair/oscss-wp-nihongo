@@ -43,7 +43,7 @@ get_header();
 					</div>
 
 					<?php if ( has_post_thumbnail() ) : ?>
-						<div class="c-entry__thumbnail <?php echo $is_manga ? 'c-entry__thumbnail--manga' : ''; ?>">
+						<div class="c-entry__thumbnail google-anno-skip no-ads adsbygoogle-noab <?php echo $is_manga ? 'c-entry__thumbnail--manga' : ''; ?>" data-ad-exclude="true" data-google-anno-skip="true">
 							<?php
 							the_post_thumbnail(
 								'full',

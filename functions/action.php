@@ -365,6 +365,13 @@ function oscss_admin_clean_titles_js() {
 }
 add_action( 'admin_footer', 'oscss_admin_clean_titles_js' );
 
-
-
-
+/**
+ * 個別投稿ページでのキャッシュ制御
+ * LiteSpeed・ブラウザのキャッシュ肥大化を防ぎ、最新のコンテンツ配信を保証
+ */
+function oscss_set_cache_headers() {
+	if ( ! is_admin() ) {
+		header( 'Cache-Control: public, max-age=300, stale-while-revalidate=60' );
+	}
+}
+add_action( 'send_headers', 'oscss_set_cache_headers' );

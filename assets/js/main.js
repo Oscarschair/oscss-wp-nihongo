@@ -17,42 +17,118 @@
 		cleanWidgets();
 		initAdSenseSectionGuard();
 		initSideRailAdsGuard();
+		initFullscreenAdBlocker();
 	});
 
 	/**
+	 * 全画面広告（Vignette / インタースティシャル広告）の完全遮断ガード
+	 * スクロール時や画面遷移時に画面全体（60%以上）を覆う固定ポップアップ広告を即座に非表示化
+	 */
+	function initFullscreenAdBlocker() {
+		var killFullscreenAds = function () {
+			var overlays = document.querySelectorAll(
+				'div[style*="position: fixed"], ' +
+				'div[style*="position:fixed"], ' +
+				'ins.adsbygoogle-noablate, ' +
+				'ins[data-anchor-status], ' +
+				'.google-auto-placed:has(> ins[data-anchor-status]), ' +
+				'iframe[id^="aswift_"][style*="fixed"]'
+			);
+
+			overlays.forEach(function (el) {
+				// PC表示時のサイドレール広告枠（左右端の縦長枠）は除外して許可
+				if (window.innerWidth >= 1024 && (el.matches('[data-ad-format*="rail"]') || el.matches('.google-auto-placed:has(ins[data-ad-format*="rail"])'))) {
+					return;
+				}
+
+				// アンカー広告（画面上下・アイキャッチ等に被る固定バー）を即座に排除
+				if (el.matches('ins[data-anchor-status]') || el.matches('.google-auto-placed:has(> ins[data-anchor-status])') || el.querySelector('ins[data-anchor-status]')) {
+					el.style.setProperty('display', 'none', 'important');
+					el.style.setProperty('visibility', 'hidden', 'important');
+					el.style.setProperty('pointer-events', 'none', 'important');
+					return;
+				}
+
+				var rect = el.getBoundingClientRect();
+				// 画面幅および高さの65%以上を覆う巨大な固定要素（全画面広告）を検出
+				if (rect.width >= window.innerWidth * 0.65 && rect.height >= window.innerHeight * 0.65) {
+					// Google AdSense関連の要素か確認
+					var isGoogle = el.id.indexOf('aswift') !== -1 ||
+					               el.id.indexOf('google') !== -1 ||
+					               el.className.indexOf('google') !== -1 ||
+					               el.className.indexOf('adsbygoogle') !== -1 ||
+					               el.querySelector('iframe[id*="aswift"], iframe[id*="google"]');
+					if (isGoogle) {
+						el.style.setProperty('display', 'none', 'important');
+						el.style.setProperty('visibility', 'hidden', 'important');
+						el.style.setProperty('pointer-events', 'none', 'important');
+						el.style.setProperty('opacity', '0', 'important');
+						el.style.setProperty('height', '0', 'important');
+						el.style.setProperty('width', '0', 'important');
+					}
+				}
+			});
+		};
+
+		killFullscreenAds();
+		window.addEventListener('scroll', killFullscreenAds, { passive: true });
+		window.addEventListener('resize', killFullscreenAds, { passive: true });
+
+		if (window.MutationObserver) {
+			var obs = new MutationObserver(killFullscreenAds);
+			obs.observe(document.documentElement, { childList: true, subtree: true });
+		}
+	}
+
+	/**
 	 * サイドレール広告（Side Rail Ads）の画面幅判定制御
-	 * メインコンテンツ(1120px) + 左右広告(各160px) = 1440px
-	 * 1440px未満ではコンテンツへの被り・浸食を防ぐため非表示にし、1440px以上でのみ両側に表示
+	 * PC（1024px以上）: 両側広告あってOK
+	 * SP（1024px未満）: 画面両端の固定広告・サイドレール・オーバーレイ広告を完全排除
 	 */
 	function initSideRailAdsGuard() {
 		var handleSideRails = function () {
-			var isWideScreen = window.innerWidth >= 1440;
-			var fixedAds = document.querySelectorAll(
+			var isPcScreen = window.innerWidth >= 1024;
+			var sideRailAndFixedAds = document.querySelectorAll(
 				'.google-auto-placed[style*="fixed"], ' +
 				'ins.adsbygoogle[data-ad-format*="rail"], ' +
-				'div[id^="google_ads_iframe"][style*="fixed"]'
+				'div[id^="google_ads_iframe"][style*="fixed"], ' +
+				'html > ins.adsbygoogle, ' +
+				'html > .adsbygoogle-noablate, ' +
+				'body > ins.adsbygoogle-noablate, ' +
+				'div[id*="aswift"][style*="fixed"], ' +
+				'iframe[id^="aswift_"][style*="fixed"]'
 			);
 
-			fixedAds.forEach(function (el) {
-				if (isWideScreen) {
+			sideRailAndFixedAds.forEach(function (el) {
+				if (isPcScreen) {
+					// PCでは両側広告を表示
 					el.style.removeProperty('display');
 					el.style.removeProperty('visibility');
+					el.style.removeProperty('opacity');
+					el.style.removeProperty('pointer-events');
 					el.style.setProperty('z-index', '80', 'important');
 				} else {
+					// SPでは両側の広告を完全排除
 					el.style.setProperty('display', 'none', 'important');
 					el.style.setProperty('visibility', 'hidden', 'important');
+					el.style.setProperty('opacity', '0', 'important');
+					el.style.setProperty('pointer-events', 'none', 'important');
 				}
 			});
 		};
 
 		handleSideRails();
 		window.addEventListener('resize', handleSideRails);
-		setTimeout(handleSideRails, 1500);
-		setTimeout(handleSideRails, 3500);
+		setTimeout(handleSideRails, 1000);
+		setTimeout(handleSideRails, 2500);
+		setTimeout(handleSideRails, 4500);
 
 		if (window.MutationObserver) {
 			var observer = new MutationObserver(handleSideRails);
 			observer.observe(document.body, { childList: true, subtree: true });
+			if (document.documentElement) {
+				observer.observe(document.documentElement, { childList: true, subtree: true });
+			}
 		}
 	}
 
@@ -64,8 +140,19 @@
 			var forbiddenSelectors = [
 				'section ins.adsbygoogle',
 				'section .google-auto-placed',
+				'section iframe[id^="aswift_"]',
+				'section div[id^="google_ads_iframe"]',
+				'.c-entry__section ins.adsbygoogle',
+				'.c-entry__section .google-auto-placed',
+				'.c-entry__section iframe[id^="aswift_"]',
+				'.c-entry__section div[id^="google_ads_iframe"]',
+				'.c-entry__section .adsbygoogle',
 				'[data-ad-exclude="true"] ins.adsbygoogle',
 				'[data-ad-exclude="true"] .google-auto-placed',
+				'[data-ad-exclude="true"] iframe[id^="aswift_"]',
+				'[data-ad-exclude="true"] div[id^="google_ads_iframe"]',
+				'.c-vocab-box ins.adsbygoogle',
+				'.c-vocab-box .google-auto-placed',
 				'.c-hero ins.adsbygoogle',
 				'.c-features ins.adsbygoogle',
 				'.c-latest-posts ins.adsbygoogle',

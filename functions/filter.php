@@ -183,24 +183,74 @@ function oscss_filter_widget_block_content( $content, $id, $sidebar_id ) {
 add_filter( 'widget_block_content', 'oscss_filter_widget_block_content', 10, 3 );
 
 /**
- * 本文中の <section> タグに data-ad-exclude="true" を自動付与し、AdSense自動広告の侵入を防止
+ * 記事本文を見出し＋内容単位で <section> タグで構造化し、かつ全セクション内部の広告を完全除外
  */
-function oscss_exclude_ads_from_sections( $content ) {
-	if ( empty( $content ) ) {
+function oscss_wrap_and_protect_entry_sections( $content ) {
+	if ( is_admin() || empty( $content ) || ( ! is_single() && ! is_singular( 'post' ) ) ) {
 		return $content;
 	}
-	return preg_replace_callback(
-		'/<section([^>]*)>/i',
-		function( $matches ) {
-			if ( strpos( $matches[1], 'data-ad-exclude' ) === false ) {
-				return '<section' . $matches[1] . ' data-ad-exclude="true">';
-			}
-			return $matches[0];
-		},
-		$content
-	);
+
+	// Gutenbergブロックコメントが残っている場合は先にブロック解決
+	if ( strpos( $content, '<!-- wp:' ) !== false && function_exists( 'do_blocks' ) ) {
+		$content = do_blocks( $content );
+	}
+
+	// すでに <section class="c-entry__section"> が含まれている場合、除外属性とクラスを保証
+	if ( preg_match( '/<section[^>]*class=["\'][^"\']*c-entry__section/i', $content ) ) {
+		return preg_replace_callback(
+			'/<section([^>]*)>/i',
+			function( $matches ) {
+				$attrs = $matches[1];
+				if ( strpos( $attrs, 'data-ad-exclude' ) === false ) {
+					$attrs .= ' data-ad-exclude="true"';
+				}
+				if ( strpos( $attrs, 'google-anno-skip' ) === false ) {
+					if ( preg_match( '/class=["\']([^"\']*)["\']/', $attrs, $cm ) ) {
+						$new_class = trim( $cm[1] . ' google-anno-skip no-ads adsbygoogle-noab' );
+						$attrs = str_replace( $cm[0], 'class="' . esc_attr( $new_class ) . '"', $attrs );
+					} else {
+						$attrs .= ' class="google-anno-skip no-ads adsbygoogle-noab"';
+					}
+				}
+				return '<section' . $attrs . '>';
+			},
+			$content
+		);
+	}
+
+	// H2見出しまたは語彙ボックスで分割（先頭からのリード文、各H2章、語彙ボックス、まとめ）
+	$pattern = '/(?=<h2\b|<div\s+class=["\'][^"\']*c-vocab-box)/iu';
+	$parts = preg_split( $pattern, $content );
+
+	if ( ! is_array( $parts ) || count( $parts ) <= 1 ) {
+		// 見出しがない、または分割できない場合は全体を1つのセクションで保護
+		return '<section class="c-entry__section google-anno-skip no-ads adsbygoogle-noab" data-ad-exclude="true">' . "\n" . $content . "\n</section>";
+	}
+
+	$sections = array();
+	foreach ( $parts as $i => $part ) {
+		$trimmed = trim( $part );
+		if ( empty( $trimmed ) ) {
+			continue;
+		}
+
+		$is_vocab = ( strpos( $trimmed, 'c-vocab-box' ) !== false );
+		$is_lead  = ( 0 === $i && ! preg_match( '/<h2\b/i', $trimmed ) );
+
+		if ( $is_vocab ) {
+			$sec_class = 'c-entry__section c-entry__section--vocab google-anno-skip no-ads adsbygoogle-noab';
+		} elseif ( $is_lead ) {
+			$sec_class = 'c-entry__section c-entry__section--lead google-anno-skip no-ads adsbygoogle-noab';
+		} else {
+			$sec_class = 'c-entry__section google-anno-skip no-ads adsbygoogle-noab';
+		}
+
+		$sections[] = '<section class="' . $sec_class . '" data-ad-exclude="true">' . "\n" . $trimmed . "\n</section>";
+	}
+
+	return implode( "\n\n", $sections );
 }
-add_filter( 'the_content', 'oscss_exclude_ads_from_sections', 25 );
+add_filter( 'the_content', 'oscss_wrap_and_protect_entry_sections', 25 );
 
 /**
  * 投稿一覧画面に「アイキャッチ画像」と「閲覧数」のカラムを追加
