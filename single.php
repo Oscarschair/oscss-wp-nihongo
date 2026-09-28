@@ -19,26 +19,29 @@ get_header();
 		<?php
 		while ( have_posts() ) :
 			the_post();
+			$is_manga = ( get_post_type() === 'manga' || has_category( 'manga' ) || strpos( get_post_field( 'post_name' ), 'manga-' ) === 0 );
 			?>
-			<article id="post-<?php the_ID(); ?>" <?php post_class( 'c-entry' ); ?> data-post-id="<?php the_ID(); ?>">
-				<header class="c-entry__header">
-					<div class="c-entry__meta">
-						<?php oscss_entry_category(); ?>
-						<?php oscss_posted_jlpt_badge(); ?>
-						<?php oscss_posted_on(); ?>
-						<?php oscss_posted_reading_time(); ?>
-						<?php oscss_posted_views(); ?>
+			<article id="post-<?php the_ID(); ?>" <?php post_class( 'c-entry' . ( $is_manga ? ' c-entry--manga' : '' ) ); ?> data-post-id="<?php the_ID(); ?>">
+				<header class="c-entry__header <?php echo $is_manga ? 'c-entry__header--manga' : ''; ?>" data-ad-break="ignore">
+					<div class="c-entry__heading-group">
+						<div class="c-entry__meta">
+							<?php oscss_entry_category(); ?>
+							<?php oscss_posted_jlpt_badge(); ?>
+							<?php oscss_posted_on(); ?>
+							<?php oscss_posted_reading_time(); ?>
+							<?php oscss_posted_views(); ?>
+						</div>
+
+						<h1 class="c-entry__title"><?php the_title(); ?></h1>
 					</div>
 
-					<h1 class="c-entry__title"><?php the_title(); ?></h1>
-
 					<?php if ( has_post_thumbnail() ) : ?>
-						<div class="c-entry__thumbnail">
+						<div class="c-entry__thumbnail <?php echo $is_manga ? 'c-entry__thumbnail--manga' : ''; ?>">
 							<?php
 							the_post_thumbnail(
 								'full',
 								array(
-									'class'         => 'c-entry__thumbnail-img',
+									'class'         => 'c-entry__thumbnail-img' . ( $is_manga ? ' c-entry__thumbnail-img--manga' : '' ),
 									'loading'       => 'eager',
 									'fetchpriority' => 'high',
 									'alt'           => oscss_get_clean_title(),
