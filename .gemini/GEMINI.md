@@ -197,4 +197,24 @@
    - 詳細は [`docs/domains/jlpt-vocabulary-standard.md`](file:///c:/Users/user/git/oscss-wp-nihongo/docs/domains/jlpt-vocabulary-standard.md) を参照。
    - 記事執筆・校正時は `python scripts/core/check_post_jlpt.py <記事パス>` で難易度を検証すること。
 
+---
 
+## 🧱 記事コンポーネント・表示制御 ＆ 先祖返り絶対防止憲章 (Component Integrity & Regression Prevention)
+
+1. **見出し単位の `<section>` 管理 ＆ セクション内広告完全遮断 (ADR 0006)**:
+   - 記事本文は `functions/filter.php` の `oscss_wrap_and_protect_entry_sections()` により、見出し（`<h2>`）および `.c-vocab-box` の境界で `<section class="c-entry__section ...">` に自動分割される。
+   - **セクション内部への広告挿入は HTML / CSS / JS の三重防御で 100% 遮断する**。
+   - **PC/SP広告規約**: PC（1280px+）の両側サイドバー広告は許可、SP（375px〜414px）の両側・本文内割り込み広告は完全排除（誤タップ・横スクロール防止）。
+   - 詳細は [`docs/domains/article-display-and-ad-standards.md`](file:///c:/Users/user/git/oscss-wp-nihongo/docs/domains/article-display-and-ad-standards.md) および [`docs/adr/0006-article-section-wrapping-and-ad-exclusion.md`](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0006-article-section-wrapping-and-ad-exclusion.md) を参照。
+
+2. **「今回の語彙」カードBOXの正本構造 ＆ 箇条書き二重化の完全禁止**:
+   - 本文末尾の語彙セクションは、ローカルMarkdown内に `<div class="c-vocab-box">` として保持する（Single Source of Truth）。
+   - **手書きマークダウン箇条書き（`* **単語**`）の残存は厳格禁止**（二重表示・先祖返りの原因を完全遮断）。
+
+3. **読了目安時間 7〜9分基準（3,500〜4,200文字規模）**:
+   - 全記事の文字数は 3,500文字以上、読了目安時間 **約7〜9分** を標準とし、2〜5分の短小記事は本番掲載禁止。
+   - 計算ロジック: `ceil(文字数 / 500)`（`<rt>` タグ内のふりがなは二重カウント防止のため自動除外）。
+
+4. **全漢字HTML5安全ルビ標準 (ADR 0003)**:
+   - 記事タイトル（frontmatterの `title:`）にはルビを付与しない。
+   - 本文中の漢字のみに `<ruby>漢字<rt>ふりがな</rt></ruby>` を付与し、送り仮名は分離する。
