@@ -35,12 +35,18 @@ def parse_markdown_to_gutenberg_full(md_path):
             i += 1
             continue
 
-        # HTML Block (e.g. <div class="c-dungeon-route">)
-        if stripped.startswith('<div class="c-dungeon-route"'):
+        # HTML Block (e.g. <div class="c-dungeon-route">, <div class="c-vocab-box">)
+        if stripped.startswith(('<div class="c-dungeon-route"', '<div class="c-vocab-box"')):
             div_lines = []
+            depth = 0
             while i < len(lines):
-                div_lines.append(lines[i])
-                if '</div>' in lines[i] and len(div_lines) > 5:
+                cur = lines[i]
+                div_lines.append(cur)
+                if '<div' in cur:
+                    depth += cur.count('<div')
+                if '</div>' in cur:
+                    depth -= cur.count('</div>')
+                if depth <= 0 and len(div_lines) > 1:
                     break
                 i += 1
             div_html = "\n".join(div_lines)
@@ -81,83 +87,7 @@ def parse_markdown_to_gutenberg_full(md_path):
             i += 1
             continue
 
-        # Vocabulary Section
-        if '今回の語彙' in stripped or '語彙（重要ボキャブラリー）' in stripped:
-            v_title = format_inline_markdown(re.sub(r'^##\s*', '', stripped).strip())
-            i += 1
-            lead_text = ""
-            vocab_items = []
-            current_item = None
 
-            while i < len(lines):
-                cur = lines[i].strip()
-                if not cur:
-                    i += 1
-                    continue
-                if cur.startswith(('## ', '### ', '---', '***', '___', '[oscss_')):
-                    break
-
-                header_m = re.search(r'^\*\s*\*\*(.+?)\*\*\s*【(?:JLPT\s*)?([Nn][1-5])】', cur)
-                if header_m:
-                    if current_item:
-                        vocab_items.append(current_item)
-                    current_item = {
-                        "word": header_m.group(1).strip(),
-                        "jlpt": header_m.group(2).upper(),
-                        "meaning": "",
-                        "example": ""
-                    }
-                    i += 1
-                    continue
-
-                if current_item:
-                    clean = re.sub(r'^\*\s*', '', cur).strip()
-                    clean_plain = re.sub(r'<ruby>(.*?)<rt>.*?</rt></ruby>', r'\1', clean)
-                    if '意味：' in clean_plain or '意味:' in clean_plain:
-                        val = re.sub(r'^.*?意味[：:]\s*', '', clean).strip()
-                        current_item['meaning'] = format_inline_markdown(val)
-                    elif '例文：' in clean_plain or '例文:' in clean_plain:
-                        val = re.sub(r'^.*?例文[：:]\s*', '', clean).strip()
-                        current_item['example'] = format_inline_markdown(val)
-                    else:
-                        if not current_item['meaning']:
-                            current_item['meaning'] = format_inline_markdown(clean)
-                        elif not current_item['example']:
-                            current_item['example'] = format_inline_markdown(clean)
-                else:
-                    if not lead_text:
-                        lead_text = format_inline_markdown(cur)
-                    else:
-                        lead_text += "<br>" + format_inline_markdown(cur)
-                i += 1
-
-            if current_item:
-                vocab_items.append(current_item)
-
-            cards_html = []
-            for it in vocab_items:
-                badge_cls = f"c-badge--jlpt-{it['jlpt'].lower()}"
-                card = f"""    <div class="c-vocab-card">
-      <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">{it['word']}</span>
-        <span class="c-badge c-badge--jlpt {badge_cls}">JLPT {it['jlpt']}</span>
-      </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>{it['meaning']}</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>{it['example']}</p>
-    </div>"""
-                cards_html.append(card)
-
-            cards_joined = "\n".join(cards_html)
-            lead_html = f'<p class="c-vocab-box__lead">{lead_text}</p>' if lead_text else ''
-            box_html = f"""<div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">{v_title}</h3>
-  {lead_html}
-  <div class="c-vocab-grid">
-{cards_joined}
-  </div>
-</div>"""
-            blocks.append(f"<!-- wp:html -->\n{box_html}\n<!-- /wp:html -->")
-            continue
 
         # Headings
         if line.startswith('## '):

@@ -19,9 +19,17 @@ remote_theme_base = "web/nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihong
 sftp.put("single.php", remote_theme_base + "single.php")
 print("Uploaded single.php")
 
+# Upload functions/filter.php
+sftp.put("functions/filter.php", remote_theme_base + "functions/filter.php")
+print("Uploaded functions/filter.php")
+
 # Upload main.css
 sftp.put("assets/css/main.css", remote_theme_base + "assets/css/main.css")
 print("Uploaded assets/css/main.css")
+
+# Upload main.js
+sftp.put("assets/js/main.js", remote_theme_base + "assets/js/main.js")
+print("Uploaded assets/js/main.js")
 
 sftp.close()
 

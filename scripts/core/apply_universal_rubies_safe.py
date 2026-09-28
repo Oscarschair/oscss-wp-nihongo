@@ -101,13 +101,13 @@ def apply_ruby_to_content(content):
         frontmatter = ""
         body = content
 
-    # 1. Update frontmatter title if not yet rubied
+    # 1. Keep frontmatter title clean without ruby tags (ADR 0003 & SEO standard)
+    # Strip any ruby tags from title if accidentally present
     title_match = re.search(r'^(title:\s*["\']?)(.*?)(["\']?\s*)$', frontmatter, flags=re.MULTILINE)
-    if title_match and '<ruby>' not in title_match.group(2):
-        orig_t = title_match.group(2)
-        # Preserve 【4コマ漫画】or emojis without extra spaces
-        new_t = process_text_segment(orig_t)
-        frontmatter = frontmatter.replace(title_match.group(0), f'title: "{new_t}"\n')
+    if title_match and '<ruby>' in title_match.group(2):
+        clean_t = re.sub(r'<rt>.*?</rt>', '', title_match.group(2))
+        clean_t = re.sub(r'<[^>]+>', '', clean_t)
+        frontmatter = frontmatter.replace(title_match.group(0), f'title: "{clean_t}"\n')
 
     # 2. Process body with rich protection
     placeholders = []
@@ -115,6 +115,9 @@ def apply_ruby_to_content(content):
         idx = len(placeholders)
         placeholders.append(m.group(0))
         return f"__PROTECTED_{idx}__"
+
+    # Protect entire c-vocab-box HTML block
+    body = re.sub(r'<div class="c-vocab-box"[\s\S]*?</div>\s*</div>\s*</div>', repl, body)
 
     # Protect code blocks
     body = re.sub(r'```[\s\S]*?```', repl, body)
