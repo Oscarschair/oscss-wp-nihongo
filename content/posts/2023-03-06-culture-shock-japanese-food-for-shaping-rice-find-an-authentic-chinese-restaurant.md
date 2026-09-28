@@ -70,10 +70,10 @@ tags:
 
 |<ruby>見分<rt>みわ</rt></ruby>けポイント|<ruby>日本<rt>にほん</rt></ruby><ruby>風<rt>ふう</rt></ruby>の<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>|<ruby>本場<rt>ほんば</rt></ruby>のガチ<ruby>中華<rt>ちゅうか</rt></ruby>|
 | :--- | :--- | :--- |
-|**メニューの<ruby>言語<rt>げんご</rt></ruby>**|<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>のみ（ひらがな<ruby>多<rt>おお</rt></ruby>め）| **中国語（簡体字/繁体字）が大きく書かれている** |
-|**<ruby>定番<rt>ていばん</rt></ruby>メニュー**|ラーメン、<ruby>半<rt>はん</rt></ruby>チャーハン、<ruby>餃子<rt>ぎょうざ</rt></ruby>、<ruby>天津飯<rt>てんしんはん</rt></ruby>| **麻辣燙（マーラータン）、羊肉串（ヤンロウチュアン）、水餃子、米線** |
-|**<ruby>卓上<rt>たくじょう</rt></ruby><ruby>調味<rt>ちょうみ</rt></ruby><ruby>料<rt>りょう</rt></ruby>**|<ruby>醤油<rt>しょうゆ</rt></ruby>、<ruby>酢<rt>す</rt></ruby>、<ruby>ラー油<rt>らーゆ</rt></ruby>、コショウ| **黒酢（鎮江香醋）、自家製麻辣油、花椒油** |
-|**<ruby>店内<rt>てんない</rt></ruby>のBGM・テレビ**|<ruby>日本<rt>にほん</rt></ruby>のテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>、J-POP| **中国の流行歌、C-POP、抖音（TikTok）のBGM** |
+|**メニューの<ruby>言語<rt>げんご</rt></ruby>**|<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>のみ（ひらがな<ruby>多<rt>おお</rt></ruby>め）| **<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>（<ruby>簡体字<rt>*</rt></ruby>/<ruby>繁<rt>しげる</rt></ruby><ruby>体<rt>たい</rt></ruby><ruby>字<rt>じ</rt></ruby>）が<ruby>大<rt>おお</rt></ruby>きく<ruby>書<rt>か</rt></ruby>かれている** |
+|**<ruby>定番<rt>ていばん</rt></ruby>メニュー**|ラーメン、<ruby>半<rt>はん</rt></ruby>チャーハン、<ruby>餃子<rt>ぎょうざ</rt></ruby>、<ruby>天津飯<rt>てんしんはん</rt></ruby>|**<ruby>麻<rt>あさ</rt></ruby><ruby>辣燙<rt>*</rt></ruby>（マーラータン）、<ruby>羊<rt>ひつじ</rt></ruby><ruby>肉<rt>にく</rt></ruby><ruby>串<rt>くし</rt></ruby>（ヤンロウチュアン）、<ruby>水<rt>みず</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>、<ruby>米<rt>べい</rt></ruby><ruby>線<rt>せん</rt></ruby>**|
+|**<ruby>卓上<rt>たくじょう</rt></ruby><ruby>調味<rt>ちょうみ</rt></ruby><ruby>料<rt>りょう</rt></ruby>**|<ruby>醤油<rt>しょうゆ</rt></ruby>、<ruby>酢<rt>す</rt></ruby>、<ruby>ラー油<rt>らーゆ</rt></ruby>、コショウ| **<ruby>黒<rt>くろ</rt></ruby><ruby>酢<rt>す</rt></ruby>（<ruby>鎮江香<rt>*</rt></ruby><ruby>醋<rt>す</rt></ruby>）、<ruby>自家製<rt>じかせい</rt></ruby><ruby>麻<rt>あさ</rt></ruby><ruby>辣油<rt>*</rt></ruby>、<ruby>花<rt>はな</rt></ruby><ruby>椒<rt>はじかみ</rt></ruby><ruby>油<rt>あぶら</rt></ruby>** |
+|**<ruby>店内<rt>てんない</rt></ruby>のBGM・テレビ**|<ruby>日本<rt>にほん</rt></ruby>のテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>、J-POP| **<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>流行<rt>りゅうこう</rt></ruby><ruby>歌<rt>か</rt></ruby>、C-POP、<ruby>抖音<rt>*</rt></ruby>（TikTok）のBGM** |
 
 ### <ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>の「ご<ruby>飯<rt>はん</rt></ruby>をドーム<ruby>型<rt>がた</rt></ruby>に<ruby>整<rt>ととの</rt></ruby>える<ruby>美学<rt>びがく</rt></ruby>」
 <ruby>日本<rt>にほん</rt></ruby>のチャーハンを<ruby>注文<rt>ちゅうもん</rt></ruby>すると、お<ruby>玉<rt>たま</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>半球<rt>はんきゅう</rt></ruby><ruby>状<rt>じょう</rt></ruby>（ドーム<ruby>型<rt>がた</rt></ruby>）に<ruby>整<rt>ととの</rt></ruby>えられてテーブルに<ruby>運<rt>はこ</rt></ruby>ばれてきます。
@@ -99,15 +99,55 @@ tags:
 <ruby>昭和<rt>しょうわ</rt></ruby>の<ruby>面影<rt>おもかげ</rt></ruby>を<ruby>色濃<rt>いろこ</rt></ruby>く<ruby>残<rt>のこ</rt></ruby>す<ruby>赤<rt>あか</rt></ruby>いカウンター、<ruby>油<rt>あぶら</rt></ruby>で<ruby>少<rt>すこ</rt></ruby>しギトギトしたメニュー<ruby>表<rt>ひょう</rt></ruby>、<ruby>威勢<rt>いせい</rt></ruby>のいい<ruby>店主<rt>てんしゅ</rt></ruby>とおかみさん。
 <ruby>近年<rt>きんねん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>のテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>やSNS（InstagramやYouTube）を<ruby>中心<rt>ちゅうしん</rt></ruby>に、<ruby>若<rt>わか</rt></ruby>い<ruby>世代<rt>せだい</rt></ruby>の<ruby>間<rt>ま</rt></ruby>でこうした<ruby>古<rt>ふる</rt></ruby>い「<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>」を<ruby>巡<rt>めぐ</rt></ruby>り、<ruby>昼<rt>ひる</rt></ruby>から<ruby>瓶ビール<rt>びんびーる</rt></ruby>と<ruby>餃子<rt>ぎょうざ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむレトロ<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>大<rt>だい</rt></ruby><ruby>流行<rt>りゅうこう</rt></ruby>しています。<ruby>高級<rt>こうきゅう</rt></ruby><ruby>中華<rt>ちゅうか</rt></ruby>やファミレスにはない「<ruby>人情味<rt>にんじょうみ</rt></ruby>と<ruby>圧倒的<rt>あっとうてき</rt></ruby>な<ruby>安<rt>やす</rt></ruby>さ、そしてどこか<ruby>懐<rt>なつ</rt></ruby>かしい<ruby>味<rt>あじ</rt></ruby>」こそが、<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>が<ruby>半<rt>はん</rt></ruby><ruby>世紀<rt>せいき</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>にわたって<ruby>愛<rt>あい</rt></ruby>され<ruby>続<rt>つづ</rt></ruby>ける<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>です。
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
+---
 
-* **<ruby>町<rt>まち</rt></ruby><ruby>中華<rt>ちゅうか</rt></ruby>（まちちゅうか）** 【<ruby>日常<rt>にちじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>】
-* <ruby>意味<rt>いみ</rt></ruby>：<ruby>昭和<rt>しょうわ</rt></ruby>の<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>残<rt>のこ</rt></ruby>す、<ruby>地域<rt>ちいき</rt></ruby><ruby>密着<rt>みっちゃく</rt></ruby><ruby>型<rt>がた</rt></ruby>の<ruby>大衆<rt>たいしゅう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby><ruby>風<rt>ふう</rt></ruby><ruby>中華<rt>ちゅうか</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>。
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>で、チャーハンと<ruby>餃子<rt>ぎょうざ</rt></ruby>のセットを<ruby>注文<rt>ちゅうもん</rt></ruby>した。
-* **アレンジ（あれんじ）** 【<ruby>外来<rt>がいらい</rt></ruby><ruby>語<rt>ご</rt></ruby>】
-* <ruby>意味<rt>いみ</rt></ruby>：<ruby>元<rt>もと</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>さず、<ruby>新<rt>あたら</rt></ruby>しい<ruby>要素<rt>ようそ</rt></ruby>を<ruby>加<rt>くわ</rt></ruby>えて<ruby>改良<rt>かいりょう</rt></ruby>すること。
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>のエビチリは、<ruby>本場<rt>ほんば</rt></ruby>の<ruby>四川<rt>しせん</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>を<ruby>日本人<rt>にっぽんじん</rt></ruby><ruby>向<rt>む</rt></ruby>けにアレンジしたものだ。
-* **<ruby>美学<rt>びがく</rt></ruby>（びがく）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：aesthetic, philosophy of beauty
-* <ruby>例文<rt>れいぶん</rt></ruby>：チャーハンを<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>半球<rt>はんきゅう</rt></ruby><ruby>状<rt>じょう</rt></ruby>に<ruby>整<rt>ととの</rt></ruby>えて<ruby>提供<rt>ていきょう</rt></ruby>する、<ruby>職人<rt>しょくにん</rt></ruby>の<ruby>美学<rt>びがく</rt></ruby>に<ruby>感動<rt>かんどう</rt></ruby>した。
+### 💡 <ruby>実践<rt>じっせん</rt></ruby>ダイアログ：<ruby>日本<rt>にほん</rt></ruby>の<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>で<ruby>常連<rt>じょうれん</rt></ruby>のように<ruby>注文<rt>ちゅうもん</rt></ruby>する<ruby>会話<rt>かいわ</rt></ruby><ruby>劇<rt>げき</rt></ruby>
 
+<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>の<ruby>暖簾<rt>のれん</rt></ruby>（のれん）をくぐり、<ruby>威勢<rt>いせい</rt></ruby>のいい<ruby>店主<rt>てんしゅ</rt></ruby>とやり<ruby>取<rt>と</rt></ruby>りしながら<ruby>注文<rt>ちゅうもん</rt></ruby>するリアルな<ruby>会話<rt>かいわ</rt></ruby>をシミュレーションしてみましょう。
+
+> 👨‍🍳 **<ruby>店主<rt>てんしゅ</rt></ruby>**：「いらっしゃい！ <ruby>空<rt>あ</rt></ruby>いてるカウンターへどうぞ！」
+> 🚗 **クルマ**：「ありがとうございます。えーと、チャーハンと<ruby>餃子<rt>ぎょうざ</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします！」
+> 👨‍🍳 **<ruby>店主<rt>てんしゅ</rt></ruby>**：「あいよ！ チャーハンと<ruby>餃子<rt>ぎょうざ</rt></ruby><ruby>一<rt>いち</rt></ruby><ruby>枚<rt>まい</rt></ruby>ね。<ruby>餃子<rt>ぎょうざ</rt></ruby>はニンニク<ruby>入<rt>い</rt></ruby>れても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>かい？」
+> 🚗 **クルマ**：「はい、ニンニクバッチリでお<ruby>願<rt>ねが</rt></ruby>いします！」
+> 👨‍🍳 **<ruby>店主<rt>てんしゅ</rt></ruby>**：「<ruby>餃子<rt>ぎょうざ</rt></ruby>のタレはカウンターの<ruby>ラー油<rt>らーゆ</rt></ruby>とお<ruby>酢<rt>す</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby><ruby>好<rt>この</rt></ruby>みに<ruby>作<rt>つく</rt></ruby>ってね！」
+> 🚗 **クルマ**：「<ruby>分<rt>わ</rt></ruby>かりました！ あと、スープってついてきますか？」
+> 👨‍🍳 **<ruby>店主<rt>てんしゅ</rt></ruby>**：「もちろん！ <ruby>熱々<rt>あつあつ</rt></ruby>の<ruby>醤油<rt>しょうゆ</rt></ruby><ruby>中華<rt>ちゅうか</rt></ruby>スープがついてくるよ！」
+> （5<ruby>分<rt>ふん</rt></ruby><ruby>後<rt>ご</rt></ruby>、<ruby>見事<rt>みごと</rt></ruby>な<ruby>半球<rt>はんきゅう</rt></ruby><ruby>状<rt>じょう</rt></ruby>ドーム<ruby>型<rt>がた</rt></ruby>チャーハンが<ruby>登場<rt>とうじょう</rt></ruby>）
+> 🚗 **クルマ**：「うわあ、<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>形<rt>かたち</rt></ruby>！ いただきます！（パクリ）……<ruby>熱々<rt>あつあつ</rt></ruby>で<ruby>香<rt>こう</rt></ruby>ばしくて<ruby>最高<rt>さいこう</rt></ruby>です！」
+> 👨‍🍳 **<ruby>店主<rt>てんしゅ</rt></ruby>**：「おっ、<ruby>兄<rt>にい</rt></ruby>ちゃんいい<ruby>食<rt>た</rt></ruby>べっぷりだね！ ゆっくり<ruby>味<rt>あじ</rt></ruby>わっていってよ！」
+
+#### ガチ<ruby>中華<rt>ちゅうか</rt></ruby>vs<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>けまとめ
+<ruby>気分<rt>きぶん</rt></ruby>やシチュエーションに<ruby>合<rt>あ</rt></ruby>わせて、2つの<ruby>中華<rt>ちゅうか</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>を<ruby>使い分<rt>つかいわ</rt></ruby>けるのが<ruby>日本<rt>にほん</rt></ruby>での<ruby>賢<rt>かしこ</rt></ruby>い<ruby>外食<rt>がいしょく</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>です：
+- **<ruby>故郷<rt>こきょう</rt></ruby>のガツンとした<ruby>辛<rt>つら</rt></ruby>さやハーブを<ruby>味<rt>あじ</rt></ruby>わいたい<ruby>時<rt>とき</rt></ruby>**: <ruby>池袋<rt>いけぶくろ</rt></ruby>や<ruby>高田馬場<rt>たかだのばば</rt></ruby>、<ruby>西川口<rt>にしかわぐち</rt></ruby>のガチ<ruby>中華<rt>ちゅうか</rt></ruby><ruby>街<rt>がい</rt></ruby>へ<ruby>直行<rt>ちょっこう</rt></ruby>。
+- **<ruby>昭和<rt>しょうわ</rt></ruby>の<ruby>懐<rt>なつ</rt></ruby>かしい<ruby>雰囲気<rt>ふんいき</rt></ruby>と、<ruby>優<rt>やさ</rt></ruby>しい<ruby>甘酸<rt>あまず</rt></ruby>っぱさや<ruby>醤油<rt>しょうゆ</rt></ruby>の<ruby>香<rt>こう</rt></ruby>ばしさに<ruby>癒<rt>いや</rt></ruby>されたい<ruby>時<rt>とき</rt></ruby>**: <ruby>最寄<rt>もよ</rt></ruby>りの<ruby>駅前<rt>えきまえ</rt></ruby>にある<ruby>老舗<rt>しにせ</rt></ruby>の<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>へ。
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">定食（ていしょく）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>set meal, combo</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>お昼休みに近くの食堂で日替わり定食を注文した。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">本格的（ほんかくてき）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>authentic, genuine</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>横浜の中華街で、本格的な四川料理を味わった。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">おかず（おかず）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>side dish</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>白いご飯によく合う、味の濃いおかずが好きです。</p>
+    </div>
+  </div>
+</div>

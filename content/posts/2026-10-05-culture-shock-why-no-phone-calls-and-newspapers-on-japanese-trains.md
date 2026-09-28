@@ -36,23 +36,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>車内<rt>しゃない</rt></ruby>（しゃない）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：inside the train / car
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>電車<rt>でんしゃ</rt></ruby><ruby>内<rt>ない</rt></ruby>ではマナーモードに<ruby>設定<rt>せってい</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、<ruby>通話<rt>つうわ</rt></ruby>はご<ruby>遠慮<rt>えんりょ</rt></ruby>ください。
-* **マナーモード（まなーもーど）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：silent mode, vibrate mode
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>駅<rt>えき</rt></ruby>のホームで<ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>つ<ruby>間<rt>ま</rt></ruby>に、スマホをマナーモードに<ruby>切り替<rt>きりか</rt></ruby>えておく。
-* **<ruby>配慮<rt>はいりょ</rt></ruby>（はいりょ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：consideration, thoughtfulness for others
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>混雑<rt>こんざつ</rt></ruby>した<ruby>公共<rt>こうきょう</rt></ruby><ruby>交通<rt>こうつう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>では、<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>への<ruby>細<rt>こま</rt></ruby>やかな<ruby>配慮<rt>はいりょ</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。
-* **トラブル（とらぶる）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：trouble, dispute
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>些細<rt>ささい</rt></ruby>なマナー<ruby>違反<rt>いはん</rt></ruby>がきっかけで、<ruby>乗客<rt>じょうきゃく</rt></ruby><ruby>同士<rt>どうし</rt></ruby>のトラブルに<ruby>発展<rt>はってん</rt></ruby>することがある。
-
 ---
 
 ## 1. なぜ「<ruby>小声<rt>こごえ</rt></ruby>の<ruby>電話<rt>でんわ</rt></ruby>」でも<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>不快<rt>ふかい</rt></ruby>に<ruby>感<rt>かん</rt></ruby>じるのか？
@@ -159,3 +142,34 @@ Step 3: すぐに耳から離して赤い終話ボタンをタップ！
 4. **<ruby>万が一<rt>まんがいち</rt></ruby><ruby>鳴<rt>な</rt></ruby>ったら、1<ruby>秒<rt>びょう</rt></ruby>で「<ruby>電車<rt>でんしゃ</rt></ruby>なので<ruby>後<rt>のち</rt></ruby>ほどかけ<ruby>直<rt>なお</rt></ruby>します」と<ruby>言<rt>い</rt></ruby>って<ruby>切<rt>き</rt></ruby>る！**
 
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>静<rt>しず</rt></ruby>けさは、<ruby>冷<rt>つめ</rt></ruby>たさではなく「<ruby>満員<rt>まんいん</rt></ruby>で<ruby>見知<rt>みし</rt></ruby>らぬ<ruby>人<rt>ひと</rt></ruby><ruby>同士<rt>どうし</rt></ruby>が<ruby>密集<rt>みっしゅう</rt></ruby>する<ruby>空間<rt>くうかん</rt></ruby>で、お<ruby>互<rt>たが</rt></ruby>いが<ruby>快適<rt>かいてき</rt></ruby>に<ruby>過<rt>す</rt></ruby>ごすための<ruby>最大限<rt>さいだいげん</rt></ruby>の<ruby>優<rt>やさ</rt></ruby>しさ（<ruby>配慮<rt>はいりょ</rt></ruby>）」から<ruby>生<rt>う</rt></ruby>まれています。この<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>すると、<ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby><ruby>移動<rt>いどう</rt></ruby>がより<ruby>一層<rt>いっそう</rt></ruby><ruby>心地<rt>ここち</rt></ruby>よく<ruby>感<rt>かん</rt></ruby>じられるはずですよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">マナーモード（マナーモード）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>silent mode</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>電車に乗る前に、スマートフォンの着信音を消してマナーモードに設定する。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">配慮（はいりょ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>consideration, concern</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>静かな車内空間を守るため、大声での会話や通話を控える配慮が求められる。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">沈黙（ちんもく）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>silence</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>朝の通勤電車は乗客の沈黙が守られており、とても落ち着いた雰囲気だ。</p>
+    </div>
+  </div>
+</div>

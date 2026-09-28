@@ -2,7 +2,7 @@
 title: "くらべてみました：「全然」VS「全く」の違いとは？｜日常会話の『全然いいよ』とビジネスの『全く問題ございません』！否定と肯定のニュアンス完全解説"
 
 description: "「全然わかりません」と「全くわかりません」って何が違うの！？本来は否定を伴う言葉だった『全然』が、なぜ若者言葉で『全然おいしい！』『全然平気！』と肯定で使われるようになったのか？フォーマル度の決定的な差から、JLPT頻出の否定呼応構文まで徹底解説！"
-slug: "japanese-comparing-zenzen-and-mattaku-differences-in-degree-and-nuance"
+slug: "japanese-comparing-zenzen-and-mattaku-differences"
 date: "2026-09-18T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-zenzen-mattaku.jpg"
 categories:
@@ -35,29 +35,6 @@ tags:
 <ruby>今回<rt>こんかい</rt></ruby>は、JLPT<ruby>試験<rt>しけん</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>としても<ruby>日常<rt>にちじょう</rt></ruby>・ビジネスの<ruby>会話<rt>かいわ</rt></ruby><ruby>力<rt>りょく</rt></ruby>アップとしても<ruby>欠<rt>か</rt></ruby>かせない、「<ruby>全然<rt>ぜんぜん</rt></ruby>」と「<ruby>全<rt>まった</rt></ruby>く」の<ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>いをスッキリ<ruby>整理<rt>せいり</rt></ruby>します！
 
 ---
-
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>程度<rt>ていど</rt></ruby>（ていど）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：degree, extent, level
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>痛<rt>いた</rt></ruby>みの<ruby>程度<rt>ていど</rt></ruby>を<ruby>医師<rt>いし</rt></ruby>に<ruby>詳<rt>くわ</rt></ruby>しく<ruby>説明<rt>せつめい</rt></ruby>する。
-* **<ruby>呼応<rt>こおう</rt></ruby>（こおう）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：agreement, concordance, correspondence (<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>用語<rt>ようご</rt></ruby>)
-* <ruby>例文<rt>れいぶん</rt></ruby>：「<ruby>決<rt>けっ</rt></ruby>して」や「<ruby>全<rt>まった</rt></ruby>く」は、<ruby>文末<rt>ぶんまつ</rt></ruby>の<ruby>否定<rt>ひてい</rt></ruby><ruby>形<rt>がた</rt></ruby>「〜ない」と<ruby>呼応<rt>こおう</rt></ruby>して<ruby>使<rt>つか</rt></ruby>われる。
-* **<ruby>違和感<rt>いわかん</rt></ruby>（いわかん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：sense of discomfort, feeling that something is off
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>彼<rt>かれ</rt></ruby>の<ruby>敬語<rt>けいご</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>に、どことなく<ruby>不自然<rt>ふしぜん</rt></ruby>な<ruby>違和感<rt>いわかん</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えた。
-* **<ruby>文脈<rt>ぶんみゃく</rt></ruby>（ぶんみゃく）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：context
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>をしっかり<ruby>読み取<rt>よみと</rt></ruby>らないと、<ruby>単語<rt>たんご</rt></ruby>の<ruby>真意<rt>しんい</rt></ruby>を<ruby>見<rt>み</rt></ruby><ruby>誤<rt>あやま</rt></ruby>る。
-* **<ruby>強調<rt>きょうちょう</rt></ruby>（きょうちょう）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：emphasis, stress
-* <ruby>例文<rt>れいぶん</rt></ruby>：プレゼンで<ruby>最<rt>もっと</rt></ruby>も<ruby>伝<rt>つた</rt></ruby>えたいメッセージを<ruby>強<rt>つよ</rt></ruby>い<ruby>口調<rt>くちょう</rt></ruby>で<ruby>強調<rt>きょうちょう</rt></ruby>した。
-* **<ruby>容認<rt>ようにん</rt></ruby>（ようにん）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：admission, acceptance, tolerance
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>現代<rt>げんだい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>では、「<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>」という<ruby>肯定<rt>こうてい</rt></ruby><ruby>用法<rt>ようほう</rt></ruby>も<ruby>広<rt>ひろ</rt></ruby>く<ruby>容認<rt>ようにん</rt></ruby>されている。
 
 ---
 
@@ -178,3 +155,34 @@ tags:
 4. **「<ruby>全<rt>まった</rt></ruby>くその<ruby>通<rt>とお</rt></ruby>り」「<ruby>全<rt>まった</rt></ruby>く<ruby>同感<rt>どうかん</rt></ruby>」はビジネスでも<ruby>使<rt>つか</rt></ruby>える<ruby>知的<rt>ちてき</rt></ruby>な<ruby>完全<rt>かんぜん</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>フレーズ！**
 
 <ruby>相手<rt>あいて</rt></ruby>との<ruby>距離<rt>きょり</rt></ruby><ruby>感<rt>かん</rt></ruby>や<ruby>場面<rt>ばめん</rt></ruby>のフォーマルさに<ruby>合<rt>あ</rt></ruby>わせて「<ruby>全然<rt>ぜんぜん</rt></ruby>」と「<ruby>全<rt>まった</rt></ruby>く」を<ruby>使い分<rt>つかいわ</rt></ruby>ければ、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>はより<ruby>自然<rt>しぜん</rt></ruby>で、<ruby>信頼<rt>しんらい</rt></ruby>されるコミュニケーションへと<ruby>進化<rt>しんか</rt></ruby>しますよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">全然（ぜんぜん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>not at all (colloquial: completely)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>昨日ぐっすり眠ったので、今日は全然疲れていません。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">全く（まったく）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>entirely, completely</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>初めて聞く専門用語ばかりで、話の内容が全く分からなかった。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">否定（ひてい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>negation, denial</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>「全然」「全く」のどちらも、後ろに否定の言葉が続くのが本来の形です。</p>
+    </div>
+  </div>
+</div>

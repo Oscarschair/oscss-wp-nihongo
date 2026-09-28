@@ -35,29 +35,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>適切<rt>てきせつ</rt></ruby>（てきせつ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：appropriate, suitable, proper
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じて、<ruby>迅速<rt>じんそく</rt></ruby>かつ<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>判断<rt>はんだん</rt></ruby>を<ruby>下<rt>くだ</rt></ruby>すことが<ruby>求<rt>もと</rt></ruby>められる。
-* **<ruby>適当<rt>てきとう</rt></ruby>（てきとう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：① suitable/proper, ② careless/irresponsible/random
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>適当<rt>てきとう</rt></ruby>な<ruby>温度<rt>おんど</rt></ruby>に<ruby>冷<rt>さ</rt></ruby>ましてから<ruby>飲<rt>の</rt></ruby>む（①）。<ruby>適当<rt>てきとう</rt></ruby>な<ruby>嘘<rt>うそ</rt></ruby>をついて<ruby>誤魔化<rt>ごまか</rt></ruby>す（②）。
-* **いい<ruby>加減<rt>かげん</rt></ruby>（いいかげん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：irresponsible, careless, halfway
-* <ruby>例文<rt>れいぶん</rt></ruby>：そんな<ruby>大切<rt>たいせつ</rt></ruby>なお<ruby>金<rt>かね</rt></ruby>を、いい<ruby>加減<rt>かげん</rt></ruby>に<ruby>管理<rt>かんり</rt></ruby>してはいけません。
-* **<ruby>塩梅<rt>あんばい</rt></ruby>（あんばい）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：condition, balance, state of affairs
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>味付<rt>あじつ</rt></ruby>けの<ruby>塩梅<rt>あんばい</rt></ruby>がちょうどよく、スープがとても<ruby>美味<rt>おい</rt></ruby>しかった。
-* **<ruby>加減<rt>かげん</rt></ruby>（かげん）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：adjustment, degree, condition
-* <ruby>例文<rt>れいぶん</rt></ruby>：お<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>火加減<rt>ひかげん</rt></ruby>を<ruby>調節<rt>ちょうせつ</rt></ruby>して、<ruby>快適<rt>かいてき</rt></ruby>な<ruby>温度<rt>おんど</rt></ruby>にする。
-* **<ruby>手抜<rt>てぬ</rt></ruby>き（てぬき）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：cutting corners, neglecting, shoddy work
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>見<rt>み</rt></ruby>えない<ruby>部分<rt>ぶぶん</rt></ruby>だからといって、<ruby>手抜<rt>てぬ</rt></ruby>き<ruby>工事<rt>こうじ</rt></ruby>をしてはならない。
-
 ---
 
 ## 1. なぜ<ruby>真<rt>ま</rt></ruby><ruby>逆<rt>ぎゃく</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>に？「<ruby>適当<rt>てきとう</rt></ruby>」の<ruby>光<rt>ひかり</rt></ruby>と<ruby>影<rt>かげ</rt></ruby>
@@ -179,3 +156,34 @@ tags:
 5. **「よしなに」と<ruby>言<rt>い</rt></ruby>われたら、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>裁量<rt>さいりょう</rt></ruby>で<ruby>良<rt>よ</rt></ruby>い<ruby>加減<rt>かげん</rt></ruby>に<ruby>進<rt>すす</rt></ruby>める！**
 
 <ruby>曖昧<rt>あいまい</rt></ruby>だからこそ<ruby>奥<rt>おく</rt></ruby>が<ruby>深<rt>ふか</rt></ruby>い<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>。「<ruby>適当<rt>てきとう</rt></ruby>」の<ruby>二<rt>に</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>して、<ruby>肩<rt>かた</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>きつつスマートにコミュニケーションをこなしていきましょう！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">適当（てきとう）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>suitable / careless, random</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>野菜を適当な大きさに切って、鍋に入れて煮込みます。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">いい加減（いいかげん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>careless, irresponsible</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>約束の時間を守らないようないい加減な態度は、信用を失ってしまう。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">適切（てきせつ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>appropriate, adequate</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>状況に応じて、最も適切で丁寧な言葉遣いを選ぶことが大切だ。</p>
+    </div>
+  </div>
+</div>

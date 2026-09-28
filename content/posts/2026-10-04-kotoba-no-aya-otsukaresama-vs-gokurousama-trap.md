@@ -39,23 +39,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>労<rt>ねぎら</rt></ruby>う（ねぎらう）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：to appreciate one's hard work, to thank for service
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>上司<rt>じょうし</rt></ruby>がプロジェクトを<ruby>完遂<rt>かんすい</rt></ruby>した<ruby>部下<rt>ぶか</rt></ruby>の<ruby>苦労<rt>くろう</rt></ruby>を<ruby>優<rt>やさ</rt></ruby>しく<ruby>労<rt>ねぎら</rt></ruby>った。
-* **<ruby>目<rt>め</rt></ruby><ruby>上<rt>じょう</rt></ruby>・<ruby>目下<rt>もっか</rt></ruby>（めうえ・めした）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：superiors and subordinates
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>のビジネス<ruby>敬語<rt>けいご</rt></ruby>では、<ruby>相手<rt>あいて</rt></ruby>が<ruby>目上<rt>めうえ</rt></ruby>か<ruby>目下<rt>もっか</rt></ruby>かによって<ruby>使<rt>つか</rt></ruby>える<ruby>表現<rt>ひょうげん</rt></ruby>が<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>分<rt>わ</rt></ruby>かれている。
-* **<ruby>地雷<rt>じらい</rt></ruby>（じらい）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：landmine (metaphor: hidden taboo topic or offensive phrase)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>敬語<rt>けいご</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えると、<ruby>職場<rt>しょくば</rt></ruby>で<ruby>思<rt>おも</rt></ruby>わぬ<ruby>地雷<rt>じらい</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>んでしまうことがある。
-* **<ruby>退社<rt>たいしゃ</rt></ruby>（たいしゃ）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：leaving the office (for the day)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終<rt>お</rt></ruby>えて<ruby>退社<rt>たいしゃ</rt></ruby>する<ruby>際<rt>さい</rt></ruby>は、<ruby>周囲<rt>しゅうい</rt></ruby>に「お<ruby>先<rt>さき</rt></ruby>に<ruby>失礼<rt>しつれい</rt></ruby>します」と<ruby>声<rt>こえ</rt></ruby>をかける。
-
 ---
 
 ## 1. <ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い：「<ruby>誰<rt>だれ</rt></ruby>から<ruby>誰<rt>だれ</rt></ruby>へ」<ruby>使<rt>つか</rt></ruby>う<ruby>言葉<rt>ことば</rt></ruby>なのか？
@@ -183,3 +166,34 @@ tags:
 4. **<ruby>上司<rt>じょうし</rt></ruby>を<ruby>褒<rt>ほ</rt></ruby>めたいときは、<ruby>評価<rt>ひょうか</rt></ruby>ではなく「<ruby>大変<rt>たいへん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>になりました！」と<ruby>感動<rt>かんどう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>える！**
 
 「お<ruby>疲れ様<rt>つかれさま</rt></ruby>」という<ruby>一言<rt>ひとこと</rt></ruby>は、<ruby>過酷<rt>かこく</rt></ruby>なビジネス<ruby>社会<rt>しゃかい</rt></ruby>でお<ruby>互<rt>たが</rt></ruby>いを<ruby>支<rt>ささ</rt></ruby>え<ruby>合<rt>あ</rt></ruby>う<ruby>魔法<rt>まほう</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>です。<ruby>正<rt>ただ</rt></ruby>しいマナーで<ruby>使<rt>つか</rt></ruby>いこなして、<ruby>職場<rt>しょくば</rt></ruby>の<ruby>仲間<rt>なかま</rt></ruby>から<ruby>愛<rt>あい</rt></ruby>されるビジネスパーソンになりましょう！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">お疲れ様（おつかれさま）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>thank you for your hard work</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>先輩や上司に対して仕事を終えたときは、「お疲れ様でした」と声をかける。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">ご苦労様（ごくろうさま）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>good job (to subordinates)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>社長が部下の労をねぎらう際に「ご苦労様」と言葉をかけた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">目上（めうえ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>superior, senior</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>日本のビジネス社会では、目上の人に対する敬語の使い分けがとても大切だ。</p>
+    </div>
+  </div>
+</div>

@@ -33,29 +33,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>根拠<rt>こんきょ</rt></ruby>（こんきょ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：basis, foundation, ground
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>確<rt>たし</rt></ruby>かなデータと<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>事実<rt>じじつ</rt></ruby>を<ruby>根拠<rt>こんきょ</rt></ruby>にして、<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>予測<rt>よそく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てる。
-* **<ruby>納得<rt>なっとく</rt></ruby>（なっとく）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：consent, understanding, conviction
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>複雑<rt>ふくざつ</rt></ruby>な<ruby>問題<rt>もんだい</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>を<ruby>知<rt>し</rt></ruby>って、ようやくその<ruby>結論<rt>けつろん</rt></ruby>に<ruby>深<rt>ふか</rt></ruby>く<ruby>納得<rt>なっとく</rt></ruby>した。
-* **<ruby>推測<rt>すいそく</rt></ruby>（すいそく）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：guess, conjecture, estimation
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>限<rt>かぎ</rt></ruby>られた<ruby>情報<rt>じょうほう</rt></ruby>だけに<ruby>基<rt>もと</rt></ruby>づいて<ruby>推測<rt>すいそく</rt></ruby>するのは<ruby>危険<rt>きけん</rt></ruby>だ。
-* **<ruby>辻褄<rt>つじつま</rt></ruby>が<ruby>合<rt>あ</rt></ruby>う（つじつまがあう）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：to make sense, to be coherent/consistent
-* <ruby>例文<rt>れいぶん</rt></ruby>：すべての<ruby>証拠<rt>しょうこ</rt></ruby>が<ruby>揃<rt>そろ</rt></ruby>ったことで、<ruby>事件<rt>じけん</rt></ruby>の<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>辻褄<rt>つじつま</rt></ruby>が<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>合<rt>あ</rt></ruby>った。
-* **<ruby>当然<rt>とうぜん</rt></ruby>（とうぜん）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：natural, as a matter of course
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>努力<rt>どりょく</rt></ruby>を<ruby>重<rt>かさ</rt></ruby>ねてきたのだから、<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>するのは<ruby>当然<rt>とうぜん</rt></ruby>だ。
-* **からくり（からくり）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：mechanism, inner workings, trick
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>手品<rt>てじな</rt></ruby>の<ruby>種明<rt>たねあ</rt></ruby>かしを<ruby>聞<rt>き</rt></ruby>いて、どういうからくりで<ruby>消<rt>き</rt></ruby>えたのかが<ruby>分<rt>わ</rt></ruby>かった。
-
 ---
 
 ## 1. <ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い：「<ruby>未来<rt>みらい</rt></ruby>への<ruby>推測<rt>すいそく</rt></ruby>（はず）」VS「<ruby>謎<rt>なぞ</rt></ruby>の<ruby>解明<rt>かいめい</rt></ruby>（わけ）」
@@ -181,3 +158,34 @@ tags:
 4. **「〜はずがない（あり<ruby>得<rt>え</rt></ruby>ない）」と「〜わけがない（<ruby>納得<rt>なっとく</rt></ruby>できない）」の<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いを<ruby>意識<rt>いしき</rt></ruby>する！**
 
 「はず」と「わけ」の<ruby>論理<rt>ろんり</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby>をマスターすれば、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>は<ruby>中級<rt>ちゅうきゅう</rt></ruby>から<ruby>一気<rt>いっき</rt></ruby>にネイティブレベルの<ruby>説得<rt>せっとく</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>持<rt>も</rt></ruby>つようになりますよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">はず（はず）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>should be, expected to</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>念入りに準備を整えたので、明日のプレゼンはうまくいくはずです。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">わけ（わけ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>reason, naturally so</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>毎日三時間も日本語を特訓しているのだから、上達が早いわけだ。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">納得（なっとく）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>convinced, understanding</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>先輩の丁寧な解説を聞いて、複雑なルールの理由がようやく納得できた。</p>
+    </div>
+  </div>
+</div>

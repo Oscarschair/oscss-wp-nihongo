@@ -34,23 +34,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>様子<rt>ようす</rt></ruby>（ようす）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：state, appearance, condition
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>窓<rt>まど</rt></ruby>の<ruby>外<rt>そと</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると、<ruby>外<rt>そと</rt></ruby>はもう<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているようだ。
-* **<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>（てんきよほう）** 【JLPT N4/N3】
-* <ruby>意味<rt>いみ</rt></ruby>：weather forecast
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>によると、<ruby>午後<rt>ごご</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るそうだ。
-* **<ruby>雲行<rt>くもゆ</rt></ruby>き（くもゆき）** 【JLPT N3/N2】
-* <ruby>意味<rt>いみ</rt></ruby>：look of the sky, situation
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>怪<rt>あや</rt></ruby>しい<ruby>雲行<rt>くもゆ</rt></ruby>きを<ruby>見<rt>み</rt></ruby>て「<ruby>今<rt>いま</rt></ruby>にも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうだ」と<ruby>感<rt>かん</rt></ruby>じた。
-* **<ruby>確信<rt>かくしん</rt></ruby>（かくしん）** 【JLPT N3/N2】
-* <ruby>意味<rt>いみ</rt></ruby>：conviction, confidence
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>自分<rt>じぶん</rt></ruby>の<ruby>目<rt>め</rt></ruby>で<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>見<rt>み</rt></ruby>たことには<ruby>強<rt>つよ</rt></ruby>い<ruby>確信<rt>かくしん</rt></ruby>が<ruby>持<rt>も</rt></ruby>てる。
-
 ---
 
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>情報<rt>じょうほう</rt></ruby><ruby>源<rt>げん</rt></ruby>と<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>の<ruby>全体<rt>ぜんたい</rt></ruby>マップ
@@ -252,3 +235,34 @@ tags:
 * **<ruby>状況<rt>じょうきょう</rt></ruby><ruby>証拠<rt>しょうこ</rt></ruby>（じょうきょうしょうこ）**：<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>から<ruby>推測<rt>すいそく</rt></ruby>できる<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>手<rt>て</rt></ruby>がかり。
 
 「<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>たのか？ <ruby>耳<rt>みみ</rt></ruby>で<ruby>聞<rt>き</rt></ruby>いたのか？ <ruby>頭<rt>あたま</rt></ruby>で<ruby>推理<rt>すいり</rt></ruby>したのか？」を<ruby>意識<rt>いしき</rt></ruby>して、<ruby>自信<rt>じしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>使い分<rt>つかいわ</rt></ruby>けてみてくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">らしい（らしい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>seems like, I hear that</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>天気予報によると、明日は午後から激しい雨が降るらしいです。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">そうだ（そうだ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>looks like (appearance)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>空に真っ黒な雨雲が広がってきて、今にも雨が降りそうだ。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">ようだ（ようだ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>seems like (sensory inference)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>外を歩く人たちがみんな傘を差しているところを見ると、雨が降っているようだ。</p>
+    </div>
+  </div>
+</div>

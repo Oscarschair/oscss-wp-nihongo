@@ -39,23 +39,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>印鑑<rt>いんかん</rt></ruby>（いんかん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：seal, stamp (personal or official)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>契約<rt>けいやく</rt></ruby><ruby>書<rt>しょ</rt></ruby>には、<ruby>自筆<rt>じひつ</rt></ruby>の<ruby>署名<rt>しょめい</rt></ruby>だけでなく<ruby>印鑑<rt>いんかん</rt></ruby>の<ruby>押印<rt>おういん</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。
-* **<ruby>押印<rt>おういん</rt></ruby>（おういん）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：affixing a seal, stamping
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>書類<rt>しょるい</rt></ruby>の<ruby>指定<rt>してい</rt></ruby>された<ruby>枠<rt>わく</rt></ruby><ruby>内<rt>ない</rt></ruby>に、かすれないようにしっかりと<ruby>押印<rt>おういん</rt></ruby>してください。
-* **<ruby>実印<rt>じついん</rt></ruby>（じついん）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：registered seal (officially registered at the city hall)
-* <ruby>例文<rt>れいぶん</rt></ruby>：マンションの<ruby>購入<rt>こうにゅう</rt></ruby>や<ruby>車<rt>くるま</rt></ruby>の<ruby>登録<rt>とうろく</rt></ruby>など、<ruby>人生<rt>じんせい</rt></ruby>の<ruby>重大<rt>じゅうだい</rt></ruby>な<ruby>局面<rt>きょくめん</rt></ruby>では<ruby>市役所<rt>しやくしょ</rt></ruby>に<ruby>登録<rt>とうろく</rt></ruby>された<ruby>実印<rt>じついん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になる。
-* **<ruby>朱肉<rt>しゅにく</rt></ruby>（しゅにく）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：red ink pad (for traditional seals)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>印鑑<rt>いんかん</rt></ruby>を<ruby>朱肉<rt>しゅにく</rt></ruby>に<ruby>軽<rt>かる</rt></ruby>く<ruby>押<rt>お</rt></ruby>し<ruby>当<rt>あ</rt></ruby>てて、<ruby>均等<rt>きんとう</rt></ruby>に<ruby>赤<rt>あか</rt></ruby>いインクをつける。
-
 ---
 
 ## 1. <ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>使い分<rt>つかいわ</rt></ruby>ける「ハンコの3<ruby>大<rt>だい</rt></ruby>ピラミッド」
@@ -146,3 +129,34 @@ tags:
 4. **<ruby>押<rt>お</rt></ruby>すときは<ruby>下<rt>した</rt></ruby>に<ruby>柔<rt>やわ</rt></ruby>らかい<ruby>紙<rt>かみ</rt></ruby>を<ruby>敷<rt>し</rt></ruby>いて、<ruby>均等<rt>きんとう</rt></ruby>に<ruby>体重<rt>たいじゅう</rt></ruby>をかける！**
 
 <ruby>最初<rt>さいしょ</rt></ruby>は「<ruby>面倒<rt>めんどう</rt></ruby>くさい」と<ruby>感<rt>かん</rt></ruby>じるハンコ<ruby>文化<rt>ぶんか</rt></ruby>ですが、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>彫<rt>ほ</rt></ruby>られた<ruby>世界<rt>せかい</rt></ruby>で<ruby>一<rt>いち</rt></ruby><ruby>本<rt>ほん</rt></ruby>だけの<ruby>印鑑<rt>いんかん</rt></ruby>を<ruby>手<rt>て</rt></ruby>にし、<ruby>朱肉<rt>しゅにく</rt></ruby>をつけて<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>に「ポンッ」と<ruby>押<rt>お</rt></ruby>す<ruby>瞬間<rt>しゅんかん</rt></ruby>は、<ruby>不思議<rt>ふしぎ</rt></ruby>と<ruby>誇<rt>ほこ</rt></ruby>らしく、<ruby>日本<rt>にほん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>一員<rt>いちいん</rt></ruby>として<ruby>認<rt>みと</rt></ruby>められたような<ruby>温<rt>あたた</rt></ruby>かい<ruby>感慨<rt>かんがい</rt></ruby>が<ruby>湧<rt>わ</rt></ruby>いてくるはずですよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">印鑑（いんかん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>personal seal, stamp</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>銀行で新しい口座を開設するため、持参した印鑑を押印した。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">押印（おういん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>affixing a seal</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>契約書の内容をしっかり確認した上で、署名と押印を行った。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">署名（しょめい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>signature</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>クレジットカード決済のレシートに、漢字で丁寧に署名した。</p>
+    </div>
+  </div>
+</div>

@@ -39,23 +39,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>食券<rt>しょっけん</rt></ruby>（しょっけん）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：meal ticket, food coupon
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>店<rt>みせ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったらまず<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>を<ruby>入<rt>い</rt></ruby>れ、<ruby>食<rt>た</rt></ruby>べたいラーメンの<ruby>食券<rt>しょっけん</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>する。
-* **お<ruby>好<rt>この</rt></ruby>み（おこのみ）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：one's preference, custom choice
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>家系<rt>かけい</rt></ruby>ラーメンでは、<ruby>食券<rt>しょっけん</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>す<ruby>際<rt>さい</rt></ruby>に<ruby>麺<rt>めん</rt></ruby>の<ruby>硬<rt>かた</rt></ruby>さや<ruby>味<rt>あじ</rt></ruby>の<ruby>濃<rt>こ</rt></ruby>さのお<ruby>好<rt>この</rt></ruby>みを<ruby>聞<rt>き</rt></ruby>かれます。
-* **<ruby>替玉<rt>かえだま</rt></ruby>（かえだま）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：refill of noodles (extra serving)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>博多<rt>はかた</rt></ruby>とんこつラーメンでは、スープを<ruby>残<rt>のこ</rt></ruby>しておいて「<ruby>替玉<rt>かえだま</rt></ruby>」を<ruby>現金<rt>げんきん</rt></ruby>で<ruby>頼<rt>たの</rt></ruby>む<ruby>文化<rt>ぶんか</rt></ruby>がある。
-* **セルフサービス（せるふさーびす）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：self-service
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>多<rt>おお</rt></ruby>くのラーメン<ruby>店<rt>てん</rt></ruby>では、お<ruby>冷<rt>ひや</rt></ruby>（<ruby>水<rt>みず</rt></ruby>）や<ruby>紙<rt>かみ</rt></ruby>エプロンはセルフサービスになっています。
-
 ---
 
 ## 1. <ruby>入口<rt>いりぐち</rt></ruby>の<ruby>関門<rt>かんもん</rt></ruby>：「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>ダンジョン」を<ruby>最速<rt>さいそく</rt></ruby>で<ruby>突破<rt>とっぱ</rt></ruby>するコツ
@@ -180,3 +163,34 @@ tags:
 4. **<ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>わったら「<ruby>丼<rt>どんぶり</rt></ruby>をカウンター<ruby>上<rt>じょう</rt></ruby>に<ruby>上<rt>あ</rt></ruby>げる」「テーブルを<ruby>拭<rt>ふ</rt></ruby>く」「ごちそうさまを<ruby>言<rt>い</rt></ruby>う」！**
 
 <ruby>独特<rt>どくとく</rt></ruby>のルールやお<ruby>好<rt>この</rt></ruby>みコールは、<ruby>自分<rt>じぶん</rt></ruby>のためだけに<ruby>最高<rt>さいこう</rt></ruby>の<ruby>一<rt>いち</rt></ruby><ruby>杯<rt>はい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ってもらうためのカスタマイズシステムです。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>緊張<rt>きんちょう</rt></ruby>するかもしれませんが、<ruby>一度<rt>いちど</rt></ruby>コールが<ruby>通<rt>つう</rt></ruby>じると<ruby>最高<rt>さいこう</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しい<ruby>体験<rt>たいけん</rt></ruby>になりますよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">食券（しょっけん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>meal ticket</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>お店の入口にある自動券売機で、ラーメンと味玉の食券を購入した。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">好み（このみ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>preference, taste</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>ラーメンの食券を店員に渡す際、「麺硬め、味濃いめ」と好みを伝えた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">コール（コール）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>ordering call</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>二郎系ラーメンの独特なコールに最初は緊張したが、無事に注文できた。</p>
+    </div>
+  </div>
+</div>

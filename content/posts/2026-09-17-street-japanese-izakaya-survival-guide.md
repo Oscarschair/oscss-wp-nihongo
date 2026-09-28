@@ -32,29 +32,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **お<ruby>通<rt>とお</rt></ruby>し（おとおし）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：appetizer served automatically / table charge (<ruby>突き出<rt>つきだ</rt></ruby>し)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>居酒屋<rt>いざかや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にお<ruby>通<rt>とお</rt></ruby>しとして<ruby>小鉢<rt>こばち</rt></ruby>が<ruby>出<rt>だ</rt></ruby>される。
-* **とりあえず（とりあえず）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：for the time being, first of all
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>料理<rt>りょうり</rt></ruby>はじっくり<ruby>選<rt>えら</rt></ruby>ぶとして、とりあえず<ruby>生ビール<rt>なまびーる</rt></ruby>を2つ<ruby>頼<rt>たの</rt></ruby>みましょう。
-* **<ruby>席料<rt>せきりょう</rt></ruby>（せきりょう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：table charge, seating fee
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>高級<rt>こうきゅう</rt></ruby><ruby>店<rt>てん</rt></ruby>や<ruby>居酒屋<rt>いざかや</rt></ruby>では、<ruby>料理<rt>りょうり</rt></ruby><ruby>代<rt>だい</rt></ruby>とは<ruby>別<rt>べつ</rt></ruby>に<ruby>席料<rt>せきりょう</rt></ruby>が<ruby>加算<rt>かさん</rt></ruby>される<ruby>場合<rt>ばあい</rt></ruby>がある。
-* **<ruby>飲<rt>の</rt></ruby>み<ruby>放題<rt>ほうだい</rt></ruby>（のみほうだい）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：all-you-can-drink
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>宴会<rt>えんかい</rt></ruby>コースに2<ruby>時間<rt>じかん</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>放題<rt>ほうだい</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けて<ruby>予約<rt>よやく</rt></ruby>した。
-* **お<ruby>冷<rt>ひや</rt></ruby>や（おひや）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：cold water (used in restaurants)
-* <ruby>例文<rt>れいぶん</rt></ruby>：お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んでいる<ruby>合間<rt>あいま</rt></ruby>に、<ruby>店員<rt>てんいん</rt></ruby>さんにお<ruby>冷<rt>ひ</rt></ruby>やを<ruby>頼<rt>たの</rt></ruby>んで<ruby>水分<rt>すいぶん</rt></ruby><ruby>補給<rt>ほきゅう</rt></ruby>する。
-* **<ruby>割り勘<rt>わりかん</rt></ruby>（わりかん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：splitting the bill / Dutch treat
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>同期<rt>どうき</rt></ruby>との<ruby>飲<rt>の</rt></ruby>み<ruby>会<rt>かい</rt></ruby>なので、<ruby>合計<rt>ごうけい</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>を<ruby>人数<rt>にんずう</rt></ruby>で<ruby>割<rt>わ</rt></ruby>って<ruby>割り勘<rt>わりかん</rt></ruby>にした。
-
 ---
 
 ## 1. なぜ<ruby>勝手<rt>かって</rt></ruby>に<ruby>出<rt>で</rt></ruby>てくるの？「お<ruby>通<rt>とお</rt></ruby>し（<ruby>席料<rt>せきりょう</rt></ruby>）」の<ruby>歴史<rt>れきし</rt></ruby><ruby>的<rt>てき</rt></ruby>カラクリ
@@ -151,3 +128,34 @@ tags:
 5. **お<ruby>会計<rt>かいけい</rt></ruby>は<ruby>指<rt>ゆび</rt></ruby>で「✕（バツ）」を<ruby>作<rt>つく</rt></ruby>るか「お<ruby>会計<rt>かいけい</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします」！**
 
 <ruby>居酒屋<rt>いざかや</rt></ruby>は、<ruby>堅苦<rt>かたくる</rt></ruby>しいビジネスマナーを<ruby>脱ぎ捨<rt>ぬぎす</rt></ruby>てて、<ruby>人<rt>ひと</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>が<ruby>本音<rt>ほんね</rt></ruby>で<ruby>笑<rt>わら</rt></ruby>い<ruby>合<rt>あ</rt></ruby>える<ruby>日本<rt>にほん</rt></ruby>で<ruby>最高<rt>さいこう</rt></ruby>のエンターテインメント<ruby>空間<rt>くうかん</rt></ruby>です。ルールを<ruby>味方<rt>みかた</rt></ruby>につけて、<ruby>今夜<rt>こんや</rt></ruby>もおいしい<ruby>乾杯<rt>かんぱい</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">お通し（おとおし）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>table appetizer</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>居酒屋で席に座ると、注文する前に小鉢のお通しが運ばれてきた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">乾杯（かんぱい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>toast, cheers</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>ビールが全員に行き渡ったところで、元気に「乾杯！」と声を合わせた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">とりあえず（とりあえず）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>for now, first of all</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>席に着いたら、まずは「とりあえず生ビールを二つ」と頼むのが定番だ。</p>
+    </div>
+  </div>
+</div>

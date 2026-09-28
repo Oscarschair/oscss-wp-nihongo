@@ -32,29 +32,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>賞味<rt>しょうみ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>（しょうみきげん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：best-before date (quality guaranteed until this date)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>スナック菓子<rt>すなっくがし</rt></ruby>は<ruby>賞味<rt>しょうみ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>が<ruby>切<rt>き</rt></ruby>れても、すぐに<ruby>傷<rt>いた</rt></ruby>むわけではありません。
-* **<ruby>消費<rt>しょうひ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>（しょうひきげん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：use-by date / expiration date (safety guaranteed until this date)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>生肉<rt>せいにく</rt></ruby>や<ruby>刺身<rt>さしみ</rt></ruby>の<ruby>消費<rt>しょうひ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>が<ruby>過<rt>す</rt></ruby>ぎたら、<ruby>衛生<rt>えいせい</rt></ruby><ruby>上<rt>じょう</rt></ruby><ruby>食<rt>た</rt></ruby>べない<ruby>方<rt>ほう</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>です。
-* **<ruby>見切<rt>みき</rt></ruby>り<ruby>品<rt>ひん</rt></ruby>（みきりひん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：discounted goods nearing expiration, clearance items
-* <ruby>例文<rt>れいぶん</rt></ruby>：スーパーの<ruby>見切<rt>みき</rt></ruby>り<ruby>品<rt>ひん</rt></ruby>コーナーで、<ruby>半額<rt>はんがく</rt></ruby>の<ruby>高級<rt>こうきゅう</rt></ruby><ruby>牛肉<rt>ぎゅうにく</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
-* **<ruby>値引<rt>ねび</rt></ruby>き（ねびき）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：discount, price reduction
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>閉店<rt>へいてん</rt></ruby>の1<ruby>時間<rt>じかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>になると、お<ruby>惣菜<rt>そうざい</rt></ruby>に<ruby>値引<rt>ねび</rt></ruby>きシールが<ruby>貼<rt>は</rt></ruby>られます。
-* **<ruby>品質<rt>ひんしつ</rt></ruby><ruby>保持<rt>ほじ</rt></ruby>（ひんしつほじ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：maintenance of quality, preservation
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>未<rt>み</rt></ruby><ruby>開封<rt>かいふう</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>で<ruby>正<rt>ただ</rt></ruby>しい<ruby>保存<rt>ほぞん</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることが、<ruby>品質<rt>ひんしつ</rt></ruby><ruby>保持<rt>ほじ</rt></ruby>の<ruby>条件<rt>じょうけん</rt></ruby>です。
-* **<ruby>食品<rt>しょくひん</rt></ruby>ロス（しょくひんろす）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：food loss, food waste
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>賞味<rt>しょうみ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>を<ruby>正<rt>ただ</rt></ruby>しく<ruby>理解<rt>りかい</rt></ruby>することは、<ruby>家庭<rt>かてい</rt></ruby>からの<ruby>食品<rt>しょくひん</rt></ruby>ロス<ruby>削減<rt>さくげん</rt></ruby>に<ruby>繋<rt>つな</rt></ruby>がります。
-
 ---
 
 ## 1. <ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い：「おいしさの<ruby>保証<rt>ほしょう</rt></ruby>（<ruby>賞味<rt>しょうみ</rt></ruby>）」VS「<ruby>安全<rt>あんぜん</rt></ruby>の<ruby>限界<rt>げんかい</rt></ruby>（<ruby>消費<rt>しょうひ</rt></ruby>）」
@@ -152,3 +129,34 @@ tags:
 6. **ローリングストックで<ruby>普段<rt>ふだん</rt></ruby>の<ruby>食材<rt>しょくざい</rt></ruby>をおいしく<ruby>防災<rt>ぼうさい</rt></ruby><ruby>備蓄<rt>びちく</rt></ruby>！**
 
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>食品<rt>しょくひん</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby>ルールを<ruby>正<rt>ただ</rt></ruby>しく<ruby>理解<rt>りかい</rt></ruby>すれば、<ruby>無駄<rt>むだ</rt></ruby>な<ruby>廃棄<rt>はいき</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らせるだけでなく、お<ruby>財布<rt>さいふ</rt></ruby>にも<ruby>地球<rt>ちきゅう</rt></ruby>にも<ruby>優<rt>やさ</rt></ruby>しいスマートな<ruby>日本<rt>にほん</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>が<ruby>送<rt>おく</rt></ruby>れますよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">賞味期限（しょうみきげん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>best-before date</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>賞味期限はおいしく食べられる目安なので、一日過ぎてもすぐに傷むわけではない。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">消費期限（しょうひきげん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>expiration date</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>サンドイッチやお刺身などの生ものは、消費期限内に食べる必要があります。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">見切り品（みきりひん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>discounted goods</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>夕方のスーパーで見切り品に貼られた半額シールを見つけて嬉しくなった。</p>
+    </div>
+  </div>
+</div>

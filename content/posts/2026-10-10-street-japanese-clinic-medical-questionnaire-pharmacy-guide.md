@@ -29,29 +29,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>初診<rt>しょしん</rt></ruby>（しょしん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：first medical examination / first visit
-* <ruby>例文<rt>れいぶん</rt></ruby>：その<ruby>病院<rt>びょういん</rt></ruby>を<ruby>初<rt>はじ</rt></ruby>めて<ruby>受診<rt>じゅしん</rt></ruby>するときは「<ruby>初診料<rt>しょしんりょう</rt></ruby>」がかかります。
-* **<ruby>問診<rt>もんしん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>（もんしんひょう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：medical questionnaire
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>渡<rt>わた</rt></ruby>された<ruby>問診<rt>もんしん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>に、<ruby>現在<rt>げんざい</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>や<ruby>過去<rt>かこ</rt></ruby>の<ruby>病歴<rt>びょうれき</rt></ruby>を<ruby>記入<rt>きにゅう</rt></ruby>する。
-* **<ruby>処方箋<rt>しょほうせん</rt></ruby>（しょほうせん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：prescription
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>医師<rt>いし</rt></ruby>から<ruby>発行<rt>はっこう</rt></ruby>された<ruby>処方箋<rt>しょほうせん</rt></ruby>を<ruby>調剤<rt>ちょうざい</rt></ruby><ruby>薬局<rt>やっきょく</rt></ruby>に<ruby>提出<rt>ていしゅつ</rt></ruby>して、<ruby>薬<rt>くすり</rt></ruby>を<ruby>受け取<rt>うけと</rt></ruby>る。
-* **<ruby>副作用<rt>ふくさよう</rt></ruby>（ふくさよう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：side effect
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>眠気<rt>ねむけ</rt></ruby>の<ruby>副作用<rt>ふくさよう</rt></ruby>が<ruby>出<rt>で</rt></ruby>やすい<ruby>薬<rt>くすり</rt></ruby>なので、<ruby>運転<rt>うんてん</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>服用<rt>ふくよう</rt></ruby>は<ruby>控<rt>ひか</rt></ruby>えてください。
-* **<ruby>頓服<rt>とんぷく</rt></ruby>（とんぷく）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：medicine taken only when needed (e.g. painkiller, fever reducer)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>解熱剤<rt>げねつざい</rt></ruby>は<ruby>毎食<rt>まいしょく</rt></ruby><ruby>後<rt>ご</rt></ruby>ではなく、<ruby>熱<rt>ねつ</rt></ruby>が38.5℃<ruby>以上<rt>いじょう</rt></ruby><ruby>出<rt>で</rt></ruby>たときの<ruby>頓服<rt>とんぷく</rt></ruby><ruby>薬<rt>やく</rt></ruby>として<ruby>処方<rt>しょほう</rt></ruby>された。
-* **ジェネリック<ruby>医薬品<rt>いやくひん</rt></ruby>（じぇねりっくいひん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：generic drugs (<ruby>後発<rt>こうはつ</rt></ruby><ruby>医薬品<rt>いやくひん</rt></ruby>)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>先発<rt>せんぱつ</rt></ruby><ruby>品<rt>ひん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>有効<rt>ゆうこう</rt></ruby><ruby>成分<rt>せいぶん</rt></ruby>のジェネリック<ruby>医薬品<rt>いやくひん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶことで、お<ruby>薬代<rt>くすりだい</rt></ruby>を<ruby>節約<rt>せつやく</rt></ruby>できます。
-
 ---
 
 ## 1. <ruby>病院<rt>びょういん</rt></ruby>に<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>知<rt>し</rt></ruby>っておくべき「<ruby>受診<rt>じゅしん</rt></ruby>の3<ruby>大<rt>だい</rt></ruby><ruby>持ち物<rt>もちもの</rt></ruby>」
@@ -168,3 +145,34 @@ tags:
 6. **「<ruby>食間<rt>しょっかん</rt></ruby>」は<ruby>食事<rt>しょくじ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>ではなく「<ruby>食後<rt>しょくご</rt></ruby>2<ruby>時間<rt>じかん</rt></ruby><ruby>後<rt>ご</rt></ruby>」のこと！**
 
 <ruby>病気<rt>びょうき</rt></ruby>の<ruby>時<rt>とき</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でも<ruby>心細<rt>こころぼそ</rt></ruby>くなりますが、<ruby>受診<rt>じゅしん</rt></ruby>と<ruby>薬局<rt>やっきょく</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れさえ<ruby>知<rt>し</rt></ruby>っていれば<ruby>日本<rt>にほん</rt></ruby>の<ruby>医療<rt>いりょう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>で<ruby>高<rt>こう</rt></ruby><ruby>品質<rt>ひんしつ</rt></ruby>です。<ruby>体調<rt>たいちょう</rt></ruby>がおかしいなと<ruby>思<rt>おも</rt></ruby>ったら<ruby>無理<rt>むり</rt></ruby>をせず、<ruby>早<rt>はや</rt></ruby>めに<ruby>近所<rt>きんじょ</rt></ruby>のクリニックを<ruby>受診<rt>じゅしん</rt></ruby>してくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">問診票（もんしんひょう）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>medical questionnaire</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>病院の受付で問診票を渡され、現在の症状やアレルギーの有無を記入した。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">保険証（ほけんしょう）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>health insurance card</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>クリニックにかかるときは、忘れずに健康保険証を受付へ提示する。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">お薬手帳（おくすりてちょう）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>medication notebook</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>過去に処方された薬の重複を防ぐため、薬局でお薬手帳を見せた。</p>
+    </div>
+  </div>
+</div>

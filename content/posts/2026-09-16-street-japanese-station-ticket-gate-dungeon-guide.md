@@ -35,29 +35,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>改札<rt>かいさつ</rt></ruby><ruby>口<rt>ぐち</rt></ruby>（かいさつぐち）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：ticket gate / turnstile
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>友達<rt>ともだち</rt></ruby>と<ruby>待ち合<rt>まちあ</rt></ruby>わせをするため、<ruby>駅<rt>えき</rt></ruby>の<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>口前<rt>くちまえ</rt></ruby>で<ruby>待機<rt>たいき</rt></ruby>した。
-* **<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>（ざんだかぶそく）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：insufficient balance
-* <ruby>例文<rt>れいぶん</rt></ruby>：Suicaの<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>で<ruby>改札<rt>かいさつ</rt></ruby>の<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まり、<ruby>後<rt>うし</rt></ruby>ろの<ruby>人<rt>ひと</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけてしまった。
-* **チャージ（ちゃーじ）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：topping up, loading money onto an IC card
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>改札<rt>かいさつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>で<ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>ICカードに2,000<ruby>円<rt>えん</rt></ruby>チャージした。
-* **のりこし<ruby>精算<rt>せいさん</rt></ruby>（のりこしせいさん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：fare adjustment for riding past one's ticket/balance
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>遠<rt>とお</rt></ruby>くの<ruby>駅<rt>えき</rt></ruby>まで<ruby>乗り越<rt>のりこ</rt></ruby>してしまったので、<ruby>出口<rt>でぐち</rt></ruby>の<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>で<ruby>差額<rt>さがく</rt></ruby>を<ruby>支払<rt>しはら</rt></ruby>った。
-* **<ruby>定期<rt>ていき</rt></ruby><ruby>券<rt>けん</rt></ruby>（ていきけん）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：commuter pass
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>自宅<rt>じたく</rt></ruby>の<ruby>最寄り駅<rt>もよりえき</rt></ruby>から<ruby>会社<rt>かいしゃ</rt></ruby>のオフィスまでの<ruby>区間<rt>くかん</rt></ruby>を<ruby>定期<rt>ていき</rt></ruby><ruby>券<rt>けん</rt></ruby>で<ruby>購入<rt>こうにゅう</rt></ruby>する。
-* **<ruby>入場<rt>にゅうじょう</rt></ruby><ruby>規制<rt>きせい</rt></ruby>（にゅうじょうきせい）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：crowd control entry restriction
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>花火<rt>はなび</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りでホームが<ruby>危険<rt>きけん</rt></ruby>な<ruby>混雑<rt>こんざつ</rt></ruby>となり、<ruby>改札<rt>かいさつ</rt></ruby><ruby>口<rt>ぐち</rt></ruby>で<ruby>一時<rt>いちじ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>入場<rt>にゅうじょう</rt></ruby><ruby>規制<rt>きせい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われた。
-
 ---
 
 ## 1. なぜ<ruby>詰<rt>つ</rt></ruby>まる？ <ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>で<ruby>起<rt>お</rt></ruby>きる「3<ruby>大<rt>だい</rt></ruby>トラップ」
@@ -188,3 +165,34 @@ tags:
 5. **<ruby>原因<rt>げんいん</rt></ruby><ruby>不明<rt>ふめい</rt></ruby>のエラーは<ruby>一番<rt>いちばん</rt></ruby><ruby>端<rt>たん</rt></ruby>の「<ruby>駅員<rt>えきいん</rt></ruby><ruby>窓口<rt>まどぐち</rt></ruby>」へ<ruby>持<rt>も</rt></ruby>っていけば<ruby>一<rt>いち</rt></ruby><ruby>発<rt>はつ</rt></ruby><ruby>解決<rt>かいけつ</rt></ruby>！**
 
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>は、<ruby>慣<rt>な</rt></ruby>れてしまえば<ruby>世界一<rt>せかいいち</rt></ruby>スムーズで<ruby>爽快<rt>そうかい</rt></ruby>なシステムです。マナーと<ruby>仕組<rt>しく</rt></ruby>みを<ruby>身<rt>み</rt></ruby>につけて、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>通勤<rt>つうきん</rt></ruby>や<ruby>旅<rt>たび</rt></ruby>を<ruby>風<rt>かぜ</rt></ruby>のように<ruby>軽<rt>かろ</rt></ruby>やかに<ruby>駆け抜<rt>かけぬ</rt></ruby>けましょう！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">改札（かいさつ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>ticket gate</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>交通系ICカードをタッチして、電車の改札を通過した。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">精算（せいさん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>fare adjustment, settlement</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>チャージの残高が足りなかったので、精算機で百円を入金した。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">乗り換え（のりかえ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>transfer (trains)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>新宿駅は路線が多くて複雑なので、乗り換えに十分な時間を取る。</p>
+    </div>
+  </div>
+</div>

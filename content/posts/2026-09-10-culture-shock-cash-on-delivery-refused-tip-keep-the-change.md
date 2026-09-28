@@ -24,7 +24,6 @@ description: "海外では常識の「お釣りは取っておいて（Keep the 
 
 ---
 
-
 ### 💡 なぜ<ruby>配達員<rt>はいたついん</rt></ruby>やタクシー<ruby>運転<rt>うんてん</rt></ruby><ruby>手<rt>しゅ</rt></ruby>はお<ruby>釣<rt>つ</rt></ruby>りを<ruby>受け取<rt>うけと</rt></ruby>らないのか？「レジ<ruby>金<rt>きん</rt></ruby><ruby>違算<rt>いさん</rt></ruby>」の<ruby>恐怖<rt>きょうふ</rt></ruby>
 
 <ruby>海外<rt>かいがい</rt></ruby>から<ruby>来<rt>き</rt></ruby>た<ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が、タクシーや<ruby>飲食<rt>いんしょく</rt></ruby><ruby>店<rt>てん</rt></ruby>の<ruby>会計<rt>かいけい</rt></ruby>、あるいは<ruby>宅配<rt>たくはい</rt></ruby><ruby>便<rt>びん</rt></ruby>の<ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>き（<ruby>代金<rt>だいきん</rt></ruby><ruby>引換<rt>ひきかえ</rt></ruby>）で「お<ruby>釣<rt>つ</rt></ruby>りは<ruby>取<rt>と</rt></ruby>っておいてください（チップです）」と<ruby>言<rt>い</rt></ruby>った<ruby>時<rt>とき</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>の<ruby>店員<rt>てんいん</rt></ruby>や<ruby>配達員<rt>はいたついん</rt></ruby>がまるで<ruby>悪<rt>わる</rt></ruby>いことでもしたかのように「いえいえ、とんでもないです！<ruby>受け取<rt>うけと</rt></ruby>れません！」と<ruby>頑<rt>かたく</rt></ruby>なに<ruby>拒否<rt>きょひ</rt></ruby>する<ruby>光景<rt>こうけい</rt></ruby>をよく<ruby>目<rt>め</rt></ruby>にします。
@@ -47,8 +46,6 @@ description: "海外では常識の「お釣りは取っておいて（Keep the 
 
 <ruby>日本<rt>にほん</rt></ruby>のサービス<ruby>業<rt>ぎょう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>最高<rt>さいこう</rt></ruby>の<ruby>感謝<rt>かんしゃ</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えたい<ruby>時<rt>とき</rt></ruby>は、お<ruby>金<rt>かね</rt></ruby>ではなく、<ruby>笑顔<rt>えがお</rt></ruby>で「**ごちそうさまでした！とても<ruby>美味<rt>おい</rt></ruby>しかったです**」「**<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>配達<rt>はいたつ</rt></ruby>ありがとうございました！**」と<ruby>言葉<rt>ことば</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>えるのが、<ruby>最<rt>もっと</rt></ruby>も<ruby>喜<rt>よろこ</rt></ruby>ばれる<ruby>最高<rt>さいこう</rt></ruby>のマナーです。
 
-
-
 ### 💡 <ruby>実践<rt>じっせん</rt></ruby>サバイバル：<ruby>小銭<rt>こぜに</rt></ruby>を<ruby>増<rt>ふ</rt></ruby>やさない「<ruby>小銭<rt>こぜに</rt></ruby>ピッタリ<ruby>払<rt>はら</rt></ruby>い」の<ruby>心理<rt>しんり</rt></ruby>ゲーム
 
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>現金<rt>げんきん</rt></ruby><ruby>決済<rt>けっさい</rt></ruby>において、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>直面<rt>ちょくめん</rt></ruby>するもう<ruby>一<rt>ひと</rt></ruby>つの<ruby>壁<rt>かべ</rt></ruby>が「<ruby>財布<rt>さいふ</rt></ruby>が1<ruby>円<rt>えん</rt></ruby><ruby>玉<rt>だま</rt></ruby>と5<ruby>円<rt>えん</rt></ruby><ruby>玉<rt>だま</rt></ruby>、10<ruby>円<rt>えん</rt></ruby><ruby>玉<rt>だま</rt></ruby>でパンパンになる<ruby>問題<rt>もんだい</rt></ruby>」です。
@@ -64,23 +61,78 @@ description: "海外では常識の「お釣りは取っておいて（Keep the 
 
 <ruby>最初<rt>さいしょ</rt></ruby>は<ruby>計算<rt>けいさん</rt></ruby>に<ruby>戸惑<rt>とまど</rt></ruby>うかもしれませんが、レジの<ruby>自動<rt>じどう</rt></ruby><ruby>釣銭<rt>つりせん</rt></ruby><ruby>機<rt>き</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>投入<rt>とうにゅう</rt></ruby>するタイプのお<ruby>店<rt>みせ</rt></ruby>なら、<ruby>財布<rt>さいふ</rt></ruby>にある<ruby>端数<rt>はすう</rt></ruby>の<ruby>小銭<rt>こぜに</rt></ruby>をジャラッとまとめて<ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてしまえば、<ruby>機械<rt>きかい</rt></ruby>が<ruby>勝手<rt>かって</rt></ruby>に<ruby>計算<rt>けいさん</rt></ruby>して<ruby>最<rt>もっと</rt></ruby>も<ruby>少<rt>すく</rt></ruby>ない<ruby>枚数<rt>まいすう</rt></ruby>でお<ruby>釣<rt>つ</rt></ruby>りを<ruby>返<rt>かえ</rt></ruby>してくれます。チップ<ruby>文化<rt>ぶんか</rt></ruby>がないからこそ、<ruby>日本<rt>にほん</rt></ruby>の<ruby>現金<rt>げんきん</rt></ruby>システムは<ruby>極限<rt>きょくげん</rt></ruby>まで<ruby>計算<rt>けいさん</rt></ruby>し<ruby>尽<rt>つ</rt></ruby>くされているのです。
 
-
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>代<rt>だい</rt></ruby><ruby>引<rt>び</rt></ruby>き（だいびき）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：cash on delivery
-* <ruby>例文<rt>れいぶん</rt></ruby>：ネット<ruby>通販<rt>つうはん</rt></ruby>で<ruby>注文<rt>ちゅうもん</rt></ruby>した<ruby>商品<rt>しょうひん</rt></ruby>を、<ruby>配達員<rt>はいたついん</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>って<ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>きで<ruby>受け取<rt>うけと</rt></ruby>った。
-* **お<ruby>釣<rt>つ</rt></ruby>り（おつり）** 【JLPT N4】
-* <ruby>意味<rt>いみ</rt></ruby>：change (money)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>小銭<rt>こぜに</rt></ruby>がなかったので<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>札<rt>さつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>し、レジでお<ruby>釣<rt>つ</rt></ruby>りをもらった。
-* **<ruby>心付<rt>こころづ</rt></ruby>け（こころづけ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：tip, gratuity
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>にはチップの<ruby>習慣<rt>しゅうかん</rt></ruby>がないため、タクシーでお<ruby>釣<rt>つ</rt></ruby>りの<ruby>心付<rt>こころづ</rt></ruby>けを<ruby>断<rt>ことわ</rt></ruby>られた。
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>
 
 [oscss_related slug="kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase" label="ことばのあや：「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」の<ruby>罠<rt>わな</rt></ruby>"]
 [oscss_related slug="street-japanese-convenience-store-register-survival-guide" label="<ruby>街角<rt>まちかど</rt></ruby>サバイバル：コンビニレジ<ruby>攻防<rt>こうぼう</rt></ruby><ruby>戦<rt>せん</rt></ruby>"]
+
+---
+
+### 💡 <ruby>実践<rt>じっせん</rt></ruby>ダイアログ：<ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>きの<ruby>玄関<rt>げんかん</rt></ruby><ruby>先<rt>さき</rt></ruby>で<ruby>配達員<rt>はいたついん</rt></ruby>さんと<ruby>笑顔<rt>えがお</rt></ruby>でやり<ruby>取<rt>と</rt></ruby>りする<ruby>会話<rt>かいわ</rt></ruby><ruby>劇<rt>げき</rt></ruby>
+
+ネット<ruby>通販<rt>つうはん</rt></ruby>で<ruby>頼<rt>たの</rt></ruby>んだ<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>き（<ruby>着払<rt>ちゃくばら</rt></ruby>い）で<ruby>受け取<rt>うけと</rt></ruby>る<ruby>際<rt>さい</rt></ruby>の、<ruby>日本<rt>にほん</rt></ruby>のプロトコルです。
+
+> 📦 **<ruby>配達員<rt>はいたついん</rt></ruby>さん**：「ピンポーン！ <ruby>ヤマト運輸<rt>やまとうんゆ</rt></ruby>です！ <ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>きのお<ruby>荷物<rt>にもつ</rt></ruby>をお<ruby>届<rt>とど</rt></ruby>けに<ruby>上<rt>あ</rt></ruby>がりました！」
+> 🚗 **クルマ**：「はーい！ ありがとうございます！ おいくらですか？」
+> 📦 **<ruby>配達員<rt>はいたついん</rt></ruby>さん**：「<ruby>合計<rt>ごうけい</rt></ruby>で4,680<ruby>円<rt>えん</rt></ruby>になります。」
+> 🚗 **クルマ**：「（5,000<ruby>円<rt>えん</rt></ruby><ruby>札<rt>さつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して……）320<ruby>円<rt>えん</rt></ruby>のお<ruby>釣<rt>つ</rt></ruby>りは<ruby>取<rt>と</rt></ruby>っておいてください！ いつも<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>階段<rt>かいだん</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>んでくれてありがとう！」
+> 📦 **<ruby>配達員<rt>はいたついん</rt></ruby>さん**：「<ruby>滅相<rt>めっそう</rt></ruby>もございません！ <ruby>当社<rt>とうしゃ</rt></ruby>ではお<ruby>客様<rt>きゃくさま</rt></ruby>からのお<ruby>心付<rt>こころづ</rt></ruby>けは<ruby>一切<rt>いっさい</rt></ruby><ruby>受け取<rt>うけと</rt></ruby>れない<ruby>決<rt>き</rt></ruby>まりになっております！ 320<ruby>円<rt>えん</rt></ruby>、しっかりお<ruby>受け取<rt>うけと</rt></ruby>りください！」
+> 🚗 **クルマ**：「ええっ！？ <ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちなのに、<ruby>頑<rt>*</rt></ruby>なに<ruby>断<rt>ことわ</rt></ruby>るんですか！？」
+> 📦 **<ruby>配達員<rt>はいたついん</rt></ruby>さん**：「お<ruby>気持<rt>きも</rt></ruby>ちだけで<ruby>胸<rt>むね</rt></ruby>がいっぱいです！ その『ありがとう』の<ruby>一言<rt>ひとこと</rt></ruby>が<ruby>最高<rt>さいこう</rt></ruby>のエネルギーになります！」
+
+#### <ruby>日本<rt>にほん</rt></ruby>でチップを<ruby>渡<rt>わた</rt></ruby>すと「<ruby>迷惑<rt>めいわく</rt></ruby>」になってしまう3つの<ruby>理由<rt>りゆう</rt></ruby>
+1. **<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>服務<rt>ふくむ</rt></ruby><ruby>規程<rt>きてい</rt></ruby><ruby>違反<rt>いはん</rt></ruby>になる**: <ruby>勝手<rt>かって</rt></ruby>に<ruby>金銭<rt>きんせん</rt></ruby>を<ruby>受け取<rt>うけと</rt></ruby>ると、<ruby>横領<rt>おうりょう</rt></ruby>や<ruby>着服<rt>ちゃくふく</rt></ruby>を<ruby>疑<rt>うたが</rt></ruby>われて<ruby>社内<rt>しゃない</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby>になる。
+2. **<ruby>会計<rt>かいけい</rt></ruby>の<ruby>帳尻<rt>ちょうじり</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わなくなる**: <ruby>業務<rt>ぎょうむ</rt></ruby><ruby>終了<rt>しゅうりょう</rt></ruby><ruby>後<rt>ご</rt></ruby>にレジを<ruby>締<rt>し</rt></ruby>める<ruby>際<rt>さい</rt></ruby>、1<ruby>円<rt>えん</rt></ruby>でも<ruby>売上<rt>うりあげ</rt></ruby>と<ruby>現金<rt>げんきん</rt></ruby>がズレると<ruby>原因<rt>げんいん</rt></ruby><ruby>究明<rt>きゅうめい</rt></ruby>で<ruby>大騒<rt>おおさわ</rt></ruby>ぎになる。
+3. **サービスは「<ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>平等<rt>びょうどう</rt></ruby>に<ruby>最高<rt>さいこう</rt></ruby><ruby>水準<rt>すいじゅん</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>する」のが<ruby>日本<rt>にほん</rt></ruby>の<ruby>誇<rt>ほこ</rt></ruby>り**: お<ruby>金<rt>かね</rt></ruby>を<ruby>多<rt>おお</rt></ruby>く<ruby>払<rt>はら</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>だけを<ruby>優遇<rt>ゆうぐう</rt></ruby>するのではなく、すべてのお<ruby>客様<rt>きゃくさま</rt></ruby>に<ruby>均一<rt>きんいつ</rt></ruby>な<ruby>神<rt>かみ</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>をするのが<ruby>日本<rt>にほん</rt></ruby>のプロ<ruby>意識<rt>いしき</rt></ruby>です。
+
+## 5. <ruby>日本<rt>にほん</rt></ruby>で<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>えるための「お<ruby>金<rt>かね</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の3つの<ruby>贈り物<rt>おくりもの</rt></ruby>」
+
+チップを<ruby>受け取<rt>うけと</rt></ruby>れない<ruby>日本<rt>にほん</rt></ruby>のサービス<ruby>従事<rt>じゅうじ</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>心<rt>こころ</rt></ruby>からのリスペクトを<ruby>伝<rt>つた</rt></ruby>えるための<ruby>最<rt>もっと</rt></ruby>も<ruby>喜<rt>よろこ</rt></ruby>ばれる<ruby>方法<rt>ほうほう</rt></ruby>です。
+
+### 1. 「ごちそうさまでした」「<ruby>助<rt>たす</rt></ruby>かりました」を<ruby>目<rt>め</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>伝<rt>つた</rt></ruby>える
+<ruby>言葉<rt>ことば</rt></ruby>は<ruby>無料<rt>むりょう</rt></ruby>ですが、<ruby>日本<rt>にほん</rt></ruby>の<ruby>店員<rt>てんいん</rt></ruby>さんにとっては<ruby>最<rt>もっと</rt></ruby>も<ruby>嬉<rt>うれ</rt></ruby>しい<ruby>報酬<rt>ほうしゅう</rt></ruby>です。<ruby>退<rt>しさ</rt></ruby><ruby>店<rt>てん</rt></ruby><ruby>時<rt>じ</rt></ruby>や<ruby>荷物<rt>にもつ</rt></ruby><ruby>受け取<rt>うけと</rt></ruby>り<ruby>時<rt>じ</rt></ruby>に、しっかり<ruby>相手<rt>あいて</rt></ruby>の<ruby>目<rt>め</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>会釈<rt>えしゃく</rt></ruby>しながら<ruby>感謝<rt>かんしゃ</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えると、<ruby>現場<rt>げんば</rt></ruby>のスタッフの<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れが<ruby>一瞬<rt>いっしゅん</rt></ruby>で<ruby>吹き飛<rt>ふきと</rt></ruby>びます。
+
+### 2. お<ruby>客様<rt>きゃくさま</rt></ruby>アンケートやGoogleマップの<ruby>高<rt>こう</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>レビューに<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>く
+レシートに<ruby>記載<rt>きさい</rt></ruby>されているアンケートQRコードや、<ruby>配送<rt>はいそう</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>メールの<ruby>評価<rt>ひょうか</rt></ruby>リンクから「〇〇さんの<ruby>対応<rt>たいおう</rt></ruby>が<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>親切<rt>しんせつ</rt></ruby>で<ruby>感動<rt>かんどう</rt></ruby>しました」と<ruby>名指<rt>なざ</rt></ruby>しでポジティブなコメントを<ruby>送信<rt>そうしん</rt></ruby>しましょう。
+これは<ruby>社内<rt>しゃない</rt></ruby>の<ruby>人事<rt>じんじ</rt></ruby><ruby>評価<rt>ひょうか</rt></ruby>や<ruby>表彰<rt>ひょうしょう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>に<ruby>直結<rt>ちょっけつ</rt></ruby>し、<ruby>金銭<rt>きんせん</rt></ruby>のチップ<ruby>以上<rt>いじょう</rt></ruby>にそのスタッフのキャリアを<ruby>力強<rt>ちからづよ</rt></ruby>く<ruby>後押<rt>あとお</rt></ruby>しすることになります。
+
+## 6. <ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>驚<rt>おどろ</rt></ruby>く！ <ruby>日本<rt>にほん</rt></ruby>のサービスが「ノーチップ」で<ruby>世界一<rt>せかいいち</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>
+
+### Q1: <ruby>日本<rt>にほん</rt></ruby>ではなぜチップがないのに、<ruby>店員<rt>てんいん</rt></ruby>さんはあんなに<ruby>親切<rt>しんせつ</rt></ruby>なのですか？
+A: <ruby>日本<rt>にほん</rt></ruby>の<ruby>労働<rt>ろうどう</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>には「おもてなし」「<ruby>職人<rt>しょくにん</rt></ruby><ruby>魂<rt>たましい</rt></ruby>（プロ<ruby>意識<rt>いしき</rt></ruby>）」が<ruby>深<rt>ふか</rt></ruby>く<ruby>根付<rt>ねつ</rt></ruby>いており、「<ruby>給料<rt>きゅうりょう</rt></ruby>とは<ruby>別<rt>べつ</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>をもらうから<ruby>働<rt>はたら</rt></ruby>く」のではなく、「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>担当<rt>たんとう</rt></ruby>する<ruby>仕事<rt>しごと</rt></ruby>を<ruby>完璧<rt>かんぺき</rt></ruby>にこなすこと<ruby>自体<rt>じたい</rt></ruby>が<ruby>美徳<rt>びとく</rt></ruby>」という<ruby>職業<rt>しょくぎょう</rt></ruby><ruby>倫理<rt>りんり</rt></ruby>があるからです。
+
+### Q2: ホテルで<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>運<rt>はこ</rt></ruby>んでもらった<ruby>時<rt>とき</rt></ruby>もチップは<ruby>不要<rt>ふよう</rt></ruby>ですか？
+A: <ruby>高級<rt>こうきゅう</rt></ruby>ホテルであっても<ruby>原則<rt>げんそく</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>です。<ruby>宿泊<rt>しゅくはく</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>やサービス<ruby>料<rt>りょう</rt></ruby>（10〜15%）の<ruby>中<rt>なか</rt></ruby>に<ruby>正規<rt>せいき</rt></ruby>のサービス<ruby>対価<rt>たいか</rt></ruby>が<ruby>含<rt>ふく</rt></ruby>まれています。<ruby>笑顔<rt>えがお</rt></ruby>で「ありがとうございます」と<ruby>会釈<rt>えしゃく</rt></ruby>するだけで<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気持<rt>きも</rt></ruby>ちが<ruby>伝<rt>つた</rt></ruby>わります。
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">代引き（だいびき）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>cash on delivery</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>ネット通販で注文した商品を、配達員にお金を払って代引きで受け取った。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">お釣り（おつり）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>change (money)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>小銭がなかったので千円札を出し、レジでお釣りをもらった。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">心付け（こころづけ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>tip, gratuity</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>日本にはチップの習慣がないため、タクシーでお釣りの心付けを断られた。</p>
+    </div>
+  </div>
+</div>

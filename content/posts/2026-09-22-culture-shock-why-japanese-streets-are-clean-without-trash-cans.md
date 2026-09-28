@@ -38,29 +38,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>（ごみばこ）** 【JLPT N4】
-* <ruby>意味<rt>いみ</rt></ruby>：trash can, garbage bin
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>駅<rt>えき</rt></ruby>のホームから<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>撤去<rt>てっきょ</rt></ruby>され、<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りが<ruby>呼<rt>よ</rt></ruby>びかけられている。
-* **<ruby>ポイ捨<rt>ぽいす</rt></ruby>て（ぽいすて）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：littering, dropping trash carelessly
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>道路<rt>どうろ</rt></ruby>や<ruby>公園<rt>こうえん</rt></ruby>へのタバコやゴミの<ruby>ポイ捨<rt>ぽいす</rt></ruby>ては、<ruby>条例<rt>じょうれい</rt></ruby>で<ruby>禁止<rt>きんし</rt></ruby>されている。
-* **<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り（もちかえり）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：taking home, carrying back
-* <ruby>例文<rt>れいぶん</rt></ruby>：イベント<ruby>会場<rt>かいじょう</rt></ruby>で<ruby>出<rt>で</rt></ruby>たゴミは、<ruby>各自<rt>かくじ</rt></ruby>が<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>持ち帰<rt>もちかえ</rt></ruby>るのがルールだ。
-* **<ruby>分別<rt>ふんべつ</rt></ruby>（ぶんべつ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：separation, sorting (of garbage)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>燃<rt>も</rt></ruby>えるゴミ、プラスチック、<ruby>缶<rt>かん</rt></ruby>・ビンを<ruby>正<rt>ただ</rt></ruby>しく<ruby>分別<rt>ふんべつ</rt></ruby>してゴミステーションに<ruby>出<rt>だ</rt></ruby>す。
-* **<ruby>撤去<rt>てっきょ</rt></ruby>（てっきょ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：removal, dismantling, withdrawal
-* <ruby>例文<rt>れいぶん</rt></ruby>：テロ<ruby>対策<rt>たいさく</rt></ruby>と<ruby>治安<rt>ちあん</rt></ruby><ruby>維持<rt>いじ</rt></ruby>のため、<ruby>公共<rt>こうきょう</rt></ruby>スペースの<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>一斉<rt>いっせい</rt></ruby>に<ruby>撤去<rt>てっきょ</rt></ruby>された。
-* **<ruby>美化<rt>びか</rt></ruby>（びか）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：beautification, keeping clean
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>地域<rt>ちいき</rt></ruby>の<ruby>住民<rt>じゅうみん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>河川敷<rt>かせんしき</rt></ruby>の<ruby>環境<rt>かんきょう</rt></ruby><ruby>美化<rt>びか</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った。
-
 ---
 
 ## 1. なぜ<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>消<rt>き</rt></ruby>えた？ 1995<ruby>年<rt>ねん</rt></ruby>の「<ruby>地下鉄<rt>ちかてつ</rt></ruby>サリン<ruby>事件<rt>じけん</rt></ruby>」と<ruby>防犯<rt>ぼうはん</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>
@@ -190,3 +167,34 @@ tags:
 6. **「<ruby>自分<rt>じぶん</rt></ruby>のゴミは<ruby>持ち帰<rt>もちかえ</rt></ruby>る」ことが、<ruby>日本<rt>にほん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>への<ruby>最大<rt>さいだい</rt></ruby>のリスペクト！**
 
 <ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がない<ruby>不便<rt>ふべん</rt></ruby>さを<ruby>嘆<rt>なげ</rt></ruby>くのではなく、「<ruby>一人<rt>ひとり</rt></ruby>ひとりのモラルで<ruby>世界一<rt>せかいいち</rt></ruby><ruby>美<rt>うつく</rt></ruby>しい<ruby>街<rt>まち</rt></ruby>が<ruby>維持<rt>いじ</rt></ruby>されている」という<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>を<ruby>知<rt>し</rt></ruby>ることで、<ruby>日本<rt>にほん</rt></ruby>の<ruby>旅<rt>たび</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby>はより<ruby>深<rt>ふか</rt></ruby>い<ruby>感動<rt>かんどう</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれますよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">ゴミ箱（ごみばこ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>trash can</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>日本の街中にはゴミ箱が少ないため、ゴミは家に持ち帰るのがマナーだ。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">分別（ぶんべつ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>sorting, separation (garbage)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>燃えるゴミとプラスチックを正しく分別して指定の日に出す。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">美化（びか）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>beautification</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>住民が交代で道路を掃除することで、街の美化が保たれている。</p>
+    </div>
+  </div>
+</div>

@@ -27,7 +27,6 @@ description: "香港や海外では「車が途切れる隙を狙って命がけ
 
 ---
 
-
 ## <ruby>信号<rt>しんごう</rt></ruby>のない<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>で「<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まる」<ruby>驚異<rt>きょうい</rt></ruby>のメカニズム
 
 <ruby>海外<rt>かいがい</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くの<ruby>都市<rt>とし</rt></ruby>では、「<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>」は<ruby>道路<rt>どうろ</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>いペンキが<ruby>塗<rt>ぬ</rt></ruby>ってあるだけの<ruby>場所<rt>ばしょ</rt></ruby>にすぎず、<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>立<rt>た</rt></ruby>っていても<ruby>車<rt>くるま</rt></ruby>は<ruby>猛<rt>もう</rt></ruby>スピードで<ruby>走り去<rt>はしりさ</rt></ruby>っていきます。
@@ -51,20 +50,6 @@ description: "香港や海外では「車が途切れる隙を狙って命がけ
 <ruby>手前<rt>てまえ</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>が<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>止<rt>と</rt></ruby>まってくれても、その<ruby>奥<rt>おく</rt></ruby>の<ruby>車線<rt>しゃせん</rt></ruby>（<ruby>対向<rt>たいこう</rt></ruby><ruby>車線<rt>しゃせん</rt></ruby>やすり<ruby>抜<rt>ぬ</rt></ruby>けのバイク）が<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に<ruby>気<rt>き</rt></ruby>づかずに<ruby>突っ込<rt>つっこ</rt></ruby>んでくることがあります。
 <ruby>親切<rt>しんせつ</rt></ruby>に<ruby>止<rt>と</rt></ruby>まってもらえた<ruby>時<rt>とき</rt></ruby>こそ、<ruby>焦<rt>あせ</rt></ruby>らずに<ruby>左右<rt>さゆう</rt></ruby>をしっかり<ruby>確認<rt>かくにん</rt></ruby>しながら<ruby>渡<rt>わた</rt></ruby>るのが、<ruby>日本<rt>にほん</rt></ruby>での<ruby>賢<rt>かしこ</rt></ruby>い<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>サバイバル<ruby>術<rt>じゅつ</rt></ruby>です。
 
-
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>（おうだんほどう）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：pedestrian crossing
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>小学生<rt>しょうがくせい</rt></ruby>が<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げると、<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>の<ruby>手前<rt>てまえ</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>がピタッと<ruby>止<rt>と</rt></ruby>まった。
-* **<ruby>一<rt>いち</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>停止<rt>ていし</rt></ruby>（いちじていし）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：temporary stop
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>見通<rt>みとお</rt></ruby>しの<ruby>悪<rt>わる</rt></ruby>い<ruby>交差点<rt>こうさてん</rt></ruby>では、<ruby>標識<rt>ひょうしき</rt></ruby>に<ruby>従<rt>したが</rt></ruby>って<ruby>必<rt>かなら</rt></ruby>ず<ruby>一時<rt>いちじ</rt></ruby><ruby>停止<rt>ていし</rt></ruby>する。
-* **<ruby>優先<rt>ゆうせん</rt></ruby>（ゆうせん）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：priority, preference
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>の<ruby>交通<rt>こうつう</rt></ruby>ルールでは、<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>よりも<ruby>常<rt>つね</rt></ruby>に<ruby>優先<rt>ゆうせん</rt></ruby>されます。
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>治安<rt>ちあん</rt></ruby>＆マナー<ruby>特集<rt>とくしゅう</rt></ruby>
@@ -80,3 +65,78 @@ description: "香港や海外では「車が途切れる隙を狙って命がけ
 
 [oscss_related slug="culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence" label="カルチャーショック：<ruby>小<rt>しょう</rt></ruby>1の<ruby>単独<rt>たんどく</rt></ruby><ruby>登校<rt>とうこう</rt></ruby>に<ruby>世界<rt>せかい</rt></ruby>が<ruby>仰天<rt>ぎょうてん</rt></ruby>"]
 [oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がない<ruby>謎<rt>なぞ</rt></ruby>"]
+
+---
+
+### 💡 <ruby>実践<rt>じっせん</rt></ruby>サバイバル：<ruby>日本<rt>にほん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>を<ruby>安全<rt>あんぜん</rt></ruby>・<ruby>快適<rt>かいてき</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>るマナーとルール
+
+<ruby>信号<rt>しんごう</rt></ruby><ruby>機<rt>き</rt></ruby>のない<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>で、ドライバーとお<ruby>互<rt>たが</rt></ruby>いに<ruby>気持<rt>きも</rt></ruby>ちよく<ruby>道<rt>みち</rt></ruby>を<ruby>譲り合<rt>ゆずりあ</rt></ruby>うための<ruby>知恵<rt>ちえ</rt></ruby>です。
+
+```
+【横断歩道をスマートに渡る3ステップ】
+1. 手を腰の高さ〜胸の高さに軽く挙げ、ドライバーに「渡りたい意思」を示す。
+2. 車が完全に停止したのを確認してから、足を一歩踏み出す。
+3. 止まってくれたドライバーに対して、ペコッと小さく頭を下げて感謝を示す。
+```
+
+#### <ruby>海外<rt>かいがい</rt></ruby>との<ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い：<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>優先<rt>ゆうせん</rt></ruby>の<ruby>法<rt>ほう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby><ruby>交通<rt>こうつう</rt></ruby><ruby>法<rt>ほう</rt></ruby><ruby>第<rt>だい</rt></ruby>38<ruby>条<rt>じょう</rt></ruby>では、「<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>に<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>がいる<ruby>場合<rt>ばあい</rt></ruby>、<ruby>車両<rt>しゃりょう</rt></ruby>は<ruby>直前<rt>ちょくぜん</rt></ruby>で<ruby>一時<rt>いちじ</rt></ruby><ruby>停止<rt>ていし</rt></ruby>しなければならない」と<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>定<rt>さだ</rt></ruby>められています。<ruby>違反<rt>いはん</rt></ruby>すると<ruby>罰金<rt>ばっきん</rt></ruby>や<ruby>点数<rt>てんすう</rt></ruby><ruby>加算<rt>かさん</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby>になります。
+<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まるのはドライバー<ruby>個人<rt>こじん</rt></ruby>の<ruby>優<rt>やさ</rt></ruby>しさだけでなく、**<ruby>国<rt>こく</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>で「<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>命<rt>いのち</rt></ruby>を<ruby>最<rt>さい</rt></ruby><ruby>優先<rt>ゆうせん</rt></ruby>にする」という<ruby>法律<rt>ほうりつ</rt></ruby>と<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>合意<rt>ごうい</rt></ruby>が<ruby>徹底<rt>てってい</rt></ruby>されているから**なのです。
+
+## 5. <ruby>日本<rt>にほん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>で<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>絶対<rt>ぜったい</rt></ruby>にやってはいけない3つのNG<ruby>行動<rt>こうどう</rt></ruby>
+
+<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってくれる<ruby>優<rt>やさ</rt></ruby>しい<ruby>日本<rt>にほん</rt></ruby>だからこそ、<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>側<rt>がわ</rt></ruby>にも<ruby>安全<rt>あんぜん</rt></ruby>と<ruby>円滑<rt>えんかつ</rt></ruby>な<ruby>交通<rt>こうつう</rt></ruby>への<ruby>責任<rt>せきにん</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められます。
+
+### 1. スマホを<ruby>見<rt>み</rt></ruby>ながらダラダラ<ruby>横断<rt>おうだん</rt></ruby>する「<ruby>歩<rt>ある</rt></ruby>きスマホ」
+<ruby>車<rt>くるま</rt></ruby>が<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のために<ruby>停止<rt>ていし</rt></ruby>して<ruby>待<rt>ま</rt></ruby>ってくれている<ruby>間<rt>ま</rt></ruby>、ドライバーの<ruby>視線<rt>しせん</rt></ruby>は<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>しています。<ruby>下<rt>した</rt></ruby>を<ruby>向<rt>む</rt></ruby>いてノロノロ<ruby>歩<rt>ある</rt></ruby>く<ruby>行為<rt>こうい</rt></ruby>はドライバーに<ruby>強<rt>つよ</rt></ruby>いストレスを<ruby>与<rt>あた</rt></ruby>えるだけでなく、<ruby>万が一<rt>まんがいち</rt></ruby>の<ruby>死角<rt>しかく</rt></ruby>からのバイクなどの<ruby>接近<rt>せっきん</rt></ruby>に<ruby>気<rt>き</rt></ruby>づけず<ruby>極<rt>きわ</rt></ruby>めて<ruby>危険<rt>きけん</rt></ruby>です。<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>は<ruby>小走<rt>こばし</rt></ruby>りとまではいかなくても、サッと<ruby>速<rt>すみ</rt></ruby>やかに<ruby>渡<rt>わた</rt></ruby>りましょう。
+
+### 2. <ruby>横断<rt>おうだん</rt></ruby>する<ruby>気<rt>き</rt></ruby>がないのに<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>の<ruby>端<rt>はじ</rt></ruby>に<ruby>立ち止<rt>たちど</rt></ruby>まる
+<ruby>友達<rt>ともだち</rt></ruby>との<ruby>待ち合<rt>まちあ</rt></ruby>わせやスマホの<ruby>操作<rt>そうさ</rt></ruby>を<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>のすぐ<ruby>手前<rt>てまえ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>うと、<ruby>走行<rt>そうこう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>車<rt>くるま</rt></ruby>は「<ruby>渡<rt>わた</rt></ruby>るのかな？」と<ruby>判断<rt>はんだん</rt></ruby>して<ruby>急<rt>きゅう</rt></ruby>ブレーキを<ruby>踏<rt>ふ</rt></ruby>んでしまいます。<ruby>横断<rt>おうだん</rt></ruby>しない<ruby>時<rt>とき</rt></ruby>は、<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>から<ruby>数<rt>すう</rt></ruby><ruby>歩<rt>ほ</rt></ruby><ruby>離<rt>はな</rt></ruby>れた<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>待機<rt>たいき</rt></ruby>するのがマナーです。
+
+### 3. <ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってくれた<ruby>時<rt>とき</rt></ruby>のお<ruby>礼<rt>れい</rt></ruby>（<ruby>会釈<rt>えしゃく</rt></ruby>）の<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>効果<rt>こうか</rt></ruby>
+<ruby>会釈<rt>えしゃく</rt></ruby>（ペコッとお<ruby>辞儀<rt>じぎ</rt></ruby>をする）は<ruby>法律<rt>ほうりつ</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>義務<rt>ぎむ</rt></ruby>ではありませんが、お<ruby>互<rt>たが</rt></ruby>いに<ruby>気持<rt>きも</rt></ruby>ちよく<ruby>道<rt>みち</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>り<ruby>合<rt>あ</rt></ruby>える<ruby>日本<rt>にほん</rt></ruby><ruby>特有<rt>とくゆう</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しいコミュニケーションです。ドライバーも「<ruby>止<rt>と</rt></ruby>まってよかったな」と<ruby>温<rt>あたた</rt></ruby>かい<ruby>気持<rt>きも</rt></ruby>ちになり、<ruby>街<rt>まち</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby><ruby>運転<rt>うんてん</rt></ruby><ruby>意識<rt>いしき</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まります。
+
+## 6. <ruby>日本<rt>にほん</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby><ruby>横断<rt>おうだん</rt></ruby>マナーに<ruby>関<rt>かん</rt></ruby>する<ruby>素朴<rt>そぼく</rt></ruby>な<ruby>疑問<rt>ぎもん</rt></ruby>
+
+### Q1: <ruby>信号<rt>しんごう</rt></ruby><ruby>機<rt>き</rt></ruby>のない<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>で、<ruby>車<rt>くるま</rt></ruby>が<ruby>止<rt>と</rt></ruby>まってくれない<ruby>時<rt>とき</rt></ruby>はどうする？
+A: <ruby>手<rt>て</rt></ruby>を<ruby>胸<rt>むね</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さまでしっかり<ruby>上<rt>あ</rt></ruby>げ、<ruby>運転<rt>うんてん</rt></ruby><ruby>手<rt>しゅ</rt></ruby>の<ruby>目<rt>め</rt></ruby>（アイコンタクト）を<ruby>見<rt>み</rt></ruby>ながら<ruby>渡<rt>わた</rt></ruby>る<ruby>意思<rt>いし</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>しましょう。<ruby>遠<rt>とお</rt></ruby>くからでも<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>が<ruby>伝<rt>つた</rt></ruby>わり、<ruby>停止<rt>ていし</rt></ruby><ruby>率<rt>りつ</rt></ruby>が<ruby>劇的<rt>げきてき</rt></ruby>に<ruby>上<rt>あ</rt></ruby>がります。
+
+### Q2: <ruby>自転車<rt>じてんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったまま<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>ってもいいですか？
+A: <ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>に「<ruby>自転車<rt>じてんしゃ</rt></ruby><ruby>横断<rt>おうだん</rt></ruby><ruby>帯<rt>たい</rt></ruby>」の<ruby>白線<rt>はくせん</rt></ruby>がない<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>原則<rt>げんそく</rt></ruby>として<ruby>自転車<rt>じてんしゃ</rt></ruby>から<ruby>降<rt>お</rt></ruby>りて<ruby>押<rt>お</rt></ruby>して<ruby>渡<rt>わた</rt></ruby>るのが<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>としての<ruby>正規<rt>せいき</rt></ruby>マナーです。
+
+### 💡 <ruby>編集<rt>へんしゅう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>からのまとめメッセージ：<ruby>思<rt>おも</rt></ruby>いやりの<ruby>連鎖<rt>れんさ</rt></ruby>が<ruby>街<rt>まち</rt></ruby>を<ruby>作<rt>つく</rt></ruby>る
+<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げる<ruby>行為<rt>こうい</rt></ruby>、そしてそれに<ruby>応<rt>こた</rt></ruby>えて<ruby>止<rt>と</rt></ruby>まってくれるドライバーのブレーキ。この<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>小<rt>ちい</rt></ruby>さなやり<ruby>取<rt>と</rt></ruby>りの<ruby>中<rt>なか</rt></ruby>には、<ruby>世界<rt>せかい</rt></ruby>が<ruby>賞賛<rt>しょうさん</rt></ruby>する<ruby>日本<rt>にほん</rt></ruby>の<ruby>相互<rt>そうご</rt></ruby><ruby>信頼<rt>しんらい</rt></ruby>の<ruby>精神<rt>せいしん</rt></ruby>が<ruby>息<rt>いき</rt></ruby>づいています。お<ruby>互<rt>たが</rt></ruby>いへの<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>会釈<rt>えしゃく</rt></ruby><ruby>一<rt>ひと</rt></ruby>つで、<ruby>街<rt>まち</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>はもっと<ruby>優<rt>やさ</rt></ruby>しくなります。<ruby>日本<rt>にほん</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れた<ruby>際<rt>さい</rt></ruby>は、ぜひ<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げてみてくださいね！
+
+#### <ruby>夜間<rt>やかん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby>で<ruby>命<rt>いのち</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る<ruby>反射<rt>はんしゃ</rt></ruby><ruby>材<rt>ざい</rt></ruby>とライトの<ruby>活用<rt>かつよう</rt></ruby>
+<ruby>夜間<rt>やかん</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>の<ruby>住宅<rt>じゅうたく</rt></ruby><ruby>街<rt>がい</rt></ruby>は<ruby>街灯<rt>がいとう</rt></ruby>が<ruby>控<rt>ひか</rt></ruby>えめな<ruby>場所<rt>ばしょ</rt></ruby>も<ruby>多<rt>おお</rt></ruby>く、ドライバーから<ruby>黒<rt>くろ</rt></ruby>い<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>見<rt>み</rt></ruby>えづらくなります。<ruby>夜間<rt>やかん</rt></ruby>に<ruby>外出<rt>がいしゅつ</rt></ruby>する<ruby>際<rt>さい</rt></ruby>は、<ruby>白<rt>しろ</rt></ruby>や<ruby>明<rt>あか</rt></ruby>るい<ruby>色<rt>いろ</rt></ruby>の<ruby>服<rt>ふく</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだり、バッグに<ruby>小<rt>ちい</rt></ruby>さな<ruby>反射<rt>はんしゃ</rt></ruby>キーホルダーをつけたり、スマートフォンの<ruby>画面<rt>がめん</rt></ruby>を<ruby>軽<rt>かる</rt></ruby>く<ruby>地面<rt>じめん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>歩<rt>ある</rt></ruby>くなどの<ruby>自衛<rt>じえい</rt></ruby><ruby>意識<rt>いしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つと<ruby>一層<rt>いっそう</rt></ruby><ruby>安心<rt>あんしん</rt></ruby>です。
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">横断歩道（おうだんほどう）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>pedestrian crossing</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>小学生が手を挙げると、横断歩道の手前で車がピタッと止まった。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">一時停止（いちじていし）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>temporary stop</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>見通しの悪い交差点では、標識に従って必ず一時停止する。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">優先（ゆうせん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>priority, preference</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>日本の交通ルールでは、歩行者が車よりも常に優先されます。</p>
+    </div>
+  </div>
+</div>

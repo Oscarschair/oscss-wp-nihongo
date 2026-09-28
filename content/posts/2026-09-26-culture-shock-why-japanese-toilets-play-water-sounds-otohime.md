@@ -42,29 +42,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>擬音<rt>ぎおん</rt></ruby><ruby>装置<rt>そうち</rt></ruby>（ぎおんそうち）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：sound-simulating device (sound masking device in restrooms)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>商業<rt>しょうぎょう</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>トイレには、<ruby>流水<rt>りゅうすい</rt></ruby><ruby>音<rt>おん</rt></ruby>を<ruby>流<rt>なが</rt></ruby>す<ruby>擬音<rt>ぎおん</rt></ruby><ruby>装置<rt>そうち</rt></ruby>が<ruby>標準<rt>ひょうじゅん</rt></ruby><ruby>装備<rt>そうび</rt></ruby>されている。
-* **<ruby>恥<rt>は</rt></ruby>じらい（はじらい）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：shyness, modesty, bashfulness
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>人前<rt>ひとまえ</rt></ruby>で<ruby>恥<rt>は</rt></ruby>ずかしい<ruby>思<rt>おも</rt></ruby>いをしたくないという<ruby>恥<rt>は</rt></ruby>じらいの<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>根付<rt>ねつ</rt></ruby>いている。
-* **<ruby>節水<rt>せっすい</rt></ruby>（せっすい）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：water conservation, saving water
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>環境<rt>かんきょう</rt></ruby><ruby>保護<rt>ほご</rt></ruby>と<ruby>水道<rt>すいどう</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>の<ruby>削減<rt>さくげん</rt></ruby>のため、オフィスビルで<ruby>節水<rt>せっすい</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>を<ruby>推進<rt>すいしん</rt></ruby>する。
-* **<ruby>音<rt>おん</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>（おとひめ）** 【<ruby>固有名詞<rt>こゆうめいし</rt></ruby>】
-* <ruby>意味<rt>いみ</rt></ruby>：Otohime (trademark of TOTO's sound simulator for toilets)
-* <ruby>例文<rt>れいぶん</rt></ruby>：TOTOが<ruby>開発<rt>かいはつ</rt></ruby>した<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>は、<ruby>年間<rt>ねんかん</rt></ruby><ruby>数<rt>すう</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>万<rt>まん</rt></ruby>トンもの<ruby>水<rt>みず</rt></ruby><ruby>資源<rt>しげん</rt></ruby>を<ruby>救<rt>すく</rt></ruby>った。
-* **<ruby>便座<rt>べんざ</rt></ruby>（べんざ）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：toilet seat
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>寒<rt>さむ</rt></ruby>い<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>でも、<ruby>日本<rt>にほん</rt></ruby>の<ruby>暖房<rt>だんぼう</rt></ruby><ruby>便座<rt>べんざ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ると<ruby>温<rt>あたた</rt></ruby>かくて<ruby>快適<rt>かいてき</rt></ruby>だ。
-* **<ruby>配慮<rt>はいりょ</rt></ruby>（はいりょ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：consideration, thoughtfulness
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>不快<rt>ふかい</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えないよう、<ruby>公共<rt>こうきょう</rt></ruby>の<ruby>場<rt>ば</rt></ruby>での<ruby>音<rt>おと</rt></ruby>に<ruby>細<rt>こま</rt></ruby>かく<ruby>配慮<rt>はいりょ</rt></ruby>する。
-
 ---
 
 ## 1. なぜ<ruby>生<rt>う</rt></ruby>まれた？ <ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>の<ruby>誕生<rt>たんじょう</rt></ruby>と「<ruby>驚異<rt>きょうい</rt></ruby>の<ruby>節水<rt>せっすい</rt></ruby><ruby>効果<rt>こうか</rt></ruby>」
@@ -190,3 +167,34 @@ tags:
 5. **<ruby>流<rt>なが</rt></ruby>すボタンと「<ruby>非常<rt>ひじょう</rt></ruby><ruby>呼び出<rt>よびだ</rt></ruby>しボタン」の<ruby>押<rt>お</rt></ruby>し<ruby>間違<rt>まちが</rt></ruby>いに<ruby>注意<rt>ちゅうい</rt></ruby>！**
 
 <ruby>一見<rt>いっけん</rt></ruby>すると<ruby>不思議<rt>ふしぎ</rt></ruby>に<ruby>見<rt>み</rt></ruby>える<ruby>日本<rt>にほん</rt></ruby>のトイレ<ruby>機能<rt>きのう</rt></ruby>ですが、そのすべてに「<ruby>人<rt>ひと</rt></ruby>を<ruby>思<rt>おも</rt></ruby>いやる<ruby>優<rt>やさ</rt></ruby>しさ」と「<ruby>環境<rt>かんきょう</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>」が<ruby>詰<rt>つ</rt></ruby>まっています。<ruby>安心<rt>あんしん</rt></ruby>して<ruby>快適<rt>かいてき</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby>のトイレ<ruby>空間<rt>くうかん</rt></ruby>を<ruby>体験<rt>たいけん</rt></ruby>してくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">消音（しょうおん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>muting, sound suppression</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>トイレの音を周囲に聞かれないように、音姫のボタンを押して消音する。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">羞恥心（しゅうちしん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>sense of shame</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>他人に流水音を聞かれるのが恥ずかしいという羞恥心から開発された。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">節水（せっすい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>saving water</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>何度も水を流す無駄をなくすため、音姫は大きな節水効果を発揮する。</p>
+    </div>
+  </div>
+</div>

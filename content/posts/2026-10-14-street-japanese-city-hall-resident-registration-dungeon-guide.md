@@ -34,23 +34,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>転入<rt>てんにゅう</rt></ruby><ruby>届<rt>とどけ</rt></ruby>（てんにゅうとどけ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：notification of moving in
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>引っ越<rt>ひっこ</rt></ruby>してから14<ruby>日<rt>にち</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>市役所<rt>しやくしょ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って<ruby>転入<rt>てんにゅう</rt></ruby><ruby>届<rt>とどけ</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>しなければならない。
-* **<ruby>転出<rt>てんしゅつ</rt></ruby><ruby>証明<rt>しょうめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>（てんしゅつしょうめいしょ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：certificate of moving out
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>前<rt>まえ</rt></ruby>の<ruby>住所<rt>じゅうしょ</rt></ruby>の<ruby>役所<rt>やくしょ</rt></ruby>で<ruby>発行<rt>はっこう</rt></ruby>してもらった<ruby>転出<rt>てんしゅつ</rt></ruby><ruby>証明<rt>しょうめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>窓口<rt>まどぐち</rt></ruby>に<ruby>提出<rt>ていしゅつ</rt></ruby>した。
-* **<ruby>在留<rt>ざいりゅう</rt></ruby>カード（ざいりゅうかーど）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：residence card
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>で<ruby>在留<rt>ざいりゅう</rt></ruby>カードを<ruby>提示<rt>ていじ</rt></ruby>し、<ruby>裏面<rt>りめん</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>住所<rt>じゅうしょ</rt></ruby>を<ruby>印字<rt>いんじ</rt></ruby>してもらった。
-* **<ruby>窓口<rt>まどぐち</rt></ruby>（まどぐち）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：service counter, contact window
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>番号<rt>ばんごう</rt></ruby><ruby>札<rt>さつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってロビーの<ruby>椅子<rt>いす</rt></ruby>で<ruby>待<rt>ま</rt></ruby>っていると、3<ruby>番<rt>ばん</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>から<ruby>呼び出<rt>よびだ</rt></ruby>された。
-
 ---
 
 ## 1. <ruby>市役所<rt>しやくしょ</rt></ruby>ダンジョン<ruby>全体<rt>ぜんたい</rt></ruby>マップと「<ruby>黄金<rt>おうごん</rt></ruby>の<ruby>攻略<rt>こうりゃく</rt></ruby>4<ruby>大<rt>だい</rt></ruby>ステップ」
@@ -238,3 +221,34 @@ tags:
 <ruby>持ち物<rt>もちもの</rt></ruby>を<ruby>揃<rt>そろ</rt></ruby>えて、<ruby>自信<rt>じしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってスマートに<ruby>手続<rt>てつづ</rt></ruby>きを<ruby>済<rt>す</rt></ruby>ませましょう！
 
 <ruby>新<rt>あたら</rt></ruby>しい<ruby>街<rt>まち</rt></ruby>での<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>応援<rt>おうえん</rt></ruby>しています！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">転入届（てんにゅうとどけ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>moving-in notification</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>新しい街に引っ越してきたので、十四日以内に市役所へ転入届を提出する。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">窓口（まどぐち）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>service counter, window</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>番号札を取ってロビーの椅子で待ち、自分の番号が呼ばれたら市民課の窓口へ向かう。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">住民票（じゅうみんひょう）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>certificate of residence</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>銀行口座の開設や就職手続きで必要になるため、市役所で住民票の写しを取得した。</p>
+    </div>
+  </div>
+</div>

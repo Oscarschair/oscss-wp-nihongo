@@ -40,29 +40,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>手土産<rt>てみやげ</rt></ruby>（てみやげ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：present/gift brought when visiting someone
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>への<ruby>表敬<rt>ひょうけい</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby>の<ruby>際<rt>さい</rt></ruby>、<ruby>評判<rt>ひょうばん</rt></ruby>の<ruby>洋菓子<rt>ようがし</rt></ruby>を<ruby>手土産<rt>てみやげ</rt></ruby>として<ruby>持参<rt>じさん</rt></ruby>した。
-* **<ruby>謙遜<rt>けんそん</rt></ruby>（けんそん）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：modesty, humility, self-effacement
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>自分<rt>じぶん</rt></ruby>の<ruby>実績<rt>じっせき</rt></ruby>を<ruby>誇<rt>ほこ</rt></ruby>らず、<ruby>常<rt>つね</rt></ruby>に<ruby>謙遜<rt>けんそん</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つことが<ruby>美徳<rt>びとく</rt></ruby>とされる。
-* **<ruby>恩<rt>おん</rt></ruby><ruby>着<rt>き</rt></ruby>せがましい（おんきせがましい）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：patronizing, acting like one is doing a huge favor
-* <ruby>例文<rt>れいぶん</rt></ruby>：プレゼントの<ruby>値段<rt>ねだん</rt></ruby>をいちいち<ruby>強調<rt>きょうちょう</rt></ruby>するのは、<ruby>恩<rt>おん</rt></ruby><ruby>着<rt>き</rt></ruby>せがましくて<ruby>不快<rt>ふかい</rt></ruby>だ。
-* **お<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う（おくちにあう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：to suit one's taste (palatable)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>皆様<rt>みなさま</rt></ruby>のお<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>えば<ruby>嬉<rt>うれ</rt></ruby>しいのですが、どうぞお<ruby>召し上<rt>めしあ</rt></ruby>がりください。
-* **<ruby>熨斗<rt>のし</rt></ruby>（のし）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：gift-wrapping paper with decorative knot for formal occasions
-* <ruby>例文<rt>れいぶん</rt></ruby>：お<ruby>祝<rt>いわ</rt></ruby>いの<ruby>品物<rt>しなもの</rt></ruby>には、<ruby>用途<rt>ようと</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせた<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>熨斗紙<rt>のしがみ</rt></ruby>を<ruby>掛<rt>か</rt></ruby>けてもらう。
-* **<ruby>心<rt>しん</rt></ruby>ばかり（こころばかり）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：small token of my gratitude/appreciation (modest gift)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日頃<rt>ひごろ</rt></ruby>の<ruby>感謝<rt>かんしゃ</rt></ruby>のしるしとして、<ruby>心<rt>こころ</rt></ruby>ばかりの<ruby>品<rt>しな</rt></ruby>をお<ruby>贈<rt>おく</rt></ruby>りいたします。
-
 ---
 
 ## 1. 「つまらないものですが」の<ruby>真意<rt>しんい</rt></ruby>：あなた<ruby>様<rt>さま</rt></ruby>があまりにも<ruby>偉大<rt>いだい</rt></ruby>だから！
@@ -165,3 +142,34 @@ tags:
 4. **<ruby>挨拶<rt>あいさつ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わって<ruby>席<rt>せき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>く<ruby>直前<rt>ちょくぜん</rt></ruby>のタイミングで<ruby>渡<rt>わた</rt></ruby>すのが<ruby>最<rt>もっと</rt></ruby>もスマート！**
 
 <ruby>相手<rt>あいて</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い、<ruby>相手<rt>あいて</rt></ruby>の<ruby>喜<rt>よろこ</rt></ruby>ぶ<ruby>顔<rt>かお</rt></ruby>を<ruby>想像<rt>そうぞう</rt></ruby>しながら<ruby>選<rt>えら</rt></ruby>んだ<ruby>品物<rt>しなもの</rt></ruby>。「<ruby>心<rt>こころ</rt></ruby>ばかりの<ruby>品<rt>しな</rt></ruby>ですが」という<ruby>優<rt>やさ</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>を<ruby>添<rt>そ</rt></ruby>えて、<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>の<ruby>架け橋<rt>かけはし</rt></ruby>を<ruby>築<rt>きず</rt></ruby>いていってくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">謙遜（けんそん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>modesty, humility</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>自分の成果を誇らず、控えめに話すのが日本の伝統的な謙遜の文化だ。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">贈り物（おくりもの）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>gift, present</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>お世話になった先生へ、「つまらないものですが」と感謝の贈り物を渡した。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">心配り（こころくばり）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>thoughtfulness</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>相手の好みをあらかじめリサーチして手土産を選ぶ優しい心配り。</p>
+    </div>
+  </div>
+</div>

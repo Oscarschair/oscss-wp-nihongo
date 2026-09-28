@@ -32,23 +32,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>（ふざいひょう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：delivery notice, missed delivery slip
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>留守<rt>るす</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いたため、ポストにご<ruby>不在<rt>ふざい</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby><ruby>票<rt>ひょう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っていた。
-* **<ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby>（さいはいたつ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：redelivery
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>に<ruby>記載<rt>きさい</rt></ruby>されているQRコードを<ruby>読み取<rt>よみと</rt></ruby>って、<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>に<ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby>を<ruby>依頼<rt>いらい</rt></ruby>した。
-* **<ruby>伝票<rt>でんぴょう</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>（でんぴょうばんごう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：tracking number, slip number
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby>の<ruby>申し込<rt>もうしこ</rt></ruby>みには、<ruby>用紙<rt>ようし</rt></ruby>に<ruby>印字<rt>いんじ</rt></ruby>された12<ruby>桁<rt>けた</rt></ruby>のお<ruby>問い合<rt>といあ</rt></ruby>わせ<ruby>伝票<rt>でんぴょう</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。
-* **<ruby>置<rt>お</rt></ruby>き<ruby>配<rt>はい</rt></ruby>（おきはい）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：unattended delivery (leaving package at the front door)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日<rt>にち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby><ruby>留守<rt>るす</rt></ruby>にすることが<ruby>多<rt>おお</rt></ruby>いので、<ruby>玄関<rt>げんかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>への<ruby>置<rt>お</rt></ruby>き<ruby>配<rt>はい</rt></ruby>を<ruby>指定<rt>してい</rt></ruby>した。
-
 ---
 
 ## 1. <ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>の<ruby>解読<rt>かいどく</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>：どこに<ruby>何<rt>なに</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてあるのか？
@@ -167,3 +150,34 @@ tags:
 4. **<ruby>忙<rt>いそが</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>は「<ruby>置<rt>お</rt></ruby>き<ruby>配<rt>はい</rt></ruby>」や「コンビニ<ruby>受け取<rt>うけと</rt></ruby>り」を<ruby>活用<rt>かつよう</rt></ruby>して<ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>をゼロにする！**
 
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>宅配<rt>たくはい</rt></ruby>システムは、<ruby>仕組<rt>しく</rt></ruby>みさえ<ruby>分<rt>わ</rt></ruby>かれば<ruby>世界一<rt>せかいいち</rt></ruby><ruby>便利<rt>べんり</rt></ruby>で<ruby>正確<rt>せいかく</rt></ruby>なインフラです。<ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>をサクッと<ruby>攻略<rt>こうりゃく</rt></ruby>して、<ruby>快適<rt>かいてき</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">不在票（ふざいひょう）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>delivery notice</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>留守中に荷物が届いたようで、ポストに不在票が入っていた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">再配達（さいはいたつ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>redelivery</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>不在票のQRコードをスマホで読み取り、今夜の再配達を申し込んだ。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">追跡（ついせき）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>tracking</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>荷物の問い合わせ番号をネットに入力して、配送状況を追跡する。</p>
+    </div>
+  </div>
+</div>

@@ -37,29 +37,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>推量<rt>すいりょう</rt></ruby>（すいりょう）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：conjecture, guess, estimation, inference
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>状況<rt>じょうきょう</rt></ruby><ruby>証拠<rt>しょうこ</rt></ruby>から<ruby>事件<rt>じけん</rt></ruby>の<ruby>真相<rt>しんそう</rt></ruby>を<ruby>推量<rt>すいりょう</rt></ruby>する。
-* **<ruby>確信<rt>かくしん</rt></ruby>（かくしん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：conviction, firm belief, certainty
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>彼<rt>かれ</rt></ruby>なら<ruby>必<rt>かなら</rt></ruby>ずプロジェクトを<ruby>成功<rt>せいこう</rt></ruby>させると<ruby>強<rt>つよ</rt></ruby>く<ruby>確信<rt>かくしん</rt></ruby>している。
-* **<ruby>根拠<rt>こんきょ</rt></ruby>（こんきょ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：basis, ground, foundation
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>明確<rt>めいかく</rt></ruby>な<ruby>数字<rt>すうじ</rt></ruby>とデータを<ruby>根拠<rt>こんきょ</rt></ruby>にして<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>見通<rt>みとお</rt></ruby>しを<ruby>立<rt>た</rt></ruby>てる。
-* **<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby>（しゅかんてき）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：subjective
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>個人<rt>こじん</rt></ruby>の<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>思い込<rt>おもいこ</rt></ruby>みだけで<ruby>判断<rt>はんだん</rt></ruby>してはならない。
-* **<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>（きゃっかんてき）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：objective
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>第三者<rt>だいさんしゃ</rt></ruby>の<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>視点<rt>してん</rt></ruby>を<ruby>取り入<rt>とりい</rt></ruby>れて<ruby>分析<rt>ぶんせき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。
-* **<ruby>当<rt>あ</rt></ruby>てずっぽう（あてずっぽう）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：random guess, shot in the dark, conjecture
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>当<rt>あ</rt></ruby>てずっぽうで<ruby>選<rt>えら</rt></ruby>んだマークシートの<ruby>答<rt>こた</rt></ruby>えが<ruby>偶然<rt>ぐうぜん</rt></ruby><ruby>当<rt>あ</rt></ruby>たった。
-
 ---
 
 ## 1. <ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い：<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>パーセンテージと<ruby>根拠<rt>こんきょ</rt></ruby>の<ruby>性質<rt>せいしつ</rt></ruby>
@@ -205,3 +182,34 @@ tags:
 4. **ビジネスで「たぶん」は<ruby>使<rt>つか</rt></ruby>わない！ 「おそらく」へ<ruby>格上<rt>かくあ</rt></ruby>げする！**
 
 3つの<ruby>言葉<rt>ことば</rt></ruby>の<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>とキャラクターを<ruby>意識<rt>いしき</rt></ruby>するだけで、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>は<ruby>感情<rt>かんじょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>もビジネスの<ruby>説得<rt>せっとく</rt></ruby><ruby>力<rt>りょく</rt></ruby>も<ruby>一気<rt>いっき</rt></ruby>にレベルアップしますよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">多分（たぶん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>probably, perhaps</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>空が少し曇ってきたので、多分夜には雨が降るでしょう。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">恐らく（おそらく）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>probably, likely (formal)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>交通渋滞が発生しているため、恐らく電車の到着は遅れる見込みです。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">きっと（きっと）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>surely, definitely</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>これだけ真剣に勉強したのだから、明日のJLPT試験はきっと合格できます。</p>
+    </div>
+  </div>
+</div>

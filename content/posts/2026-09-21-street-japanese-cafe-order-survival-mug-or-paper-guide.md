@@ -36,29 +36,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>店内<rt>てんない</rt></ruby>（てんない）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：inside the store / dining in
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>店内<rt>てんない</rt></ruby>の<ruby>席<rt>せき</rt></ruby>が<ruby>満席<rt>まんせき</rt></ruby>だったため、テイクアウトに<ruby>変更<rt>へんこう</rt></ruby>した。
-* **<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り（もちかえり）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：takeout, to go (テイクアウト)
-* <ruby>例文<rt>れいぶん</rt></ruby>：オフィスで<ruby>飲<rt>の</rt></ruby>むために、アイスコーヒーを<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りで<ruby>注文<rt>ちゅうもん</rt></ruby>した。
-* **<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>（けいげんぜいりつ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：reduced tax rate (8% for groceries/takeout vs 10% standard)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>では<ruby>飲食料品<rt>いんしょくりょうひん</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りに<ruby>対<rt>たい</rt></ruby>して、8%の<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>が<ruby>適用<rt>てきよう</rt></ruby>される。
-* **<ruby>提供<rt>ていきょう</rt></ruby>（ていきょう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：offer, providing, serving
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>環境<rt>かんきょう</rt></ruby><ruby>保護<rt>ほご</rt></ruby>のため、<ruby>店内<rt>てんない</rt></ruby>でのお<ruby>召し上<rt>めしあ</rt></ruby>がりはグラスやマグカップで<ruby>提供<rt>ていきょう</rt></ruby>されます。
-* **<ruby>変更<rt>へんこう</rt></ruby>（へんこう）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：change, alteration
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>豆乳<rt>とうにゅう</rt></ruby>（ソイミルク）やオーツミルクに<ruby>変更<rt>へんこう</rt></ruby>して<ruby>注文<rt>ちゅうもん</rt></ruby>する。
-* **<ruby>受取<rt>うけとり</rt></ruby><ruby>口<rt>ぐち</rt></ruby>（うけとりぐち）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：pickup counter
-* <ruby>例文<rt>れいぶん</rt></ruby>：レジでお<ruby>会計<rt>かいけい</rt></ruby>を<ruby>済<rt>す</rt></ruby>ませた<ruby>後<rt>のち</rt></ruby>、<ruby>左側<rt>ひだりがわ</rt></ruby>の<ruby>受取<rt>うけとり</rt></ruby><ruby>口<rt>ぐち</rt></ruby>でお<ruby>待<rt>ま</rt></ruby>ちください。
-
 ---
 
 ## 1. なぜ<ruby>聞<rt>き</rt></ruby>かれる？ カフェのレジでの「3<ruby>大<rt>だい</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>」と<ruby>理由<rt>りゆう</rt></ruby>
@@ -197,3 +174,34 @@ tags:
 6. **<ruby>朝<rt>あさ</rt></ruby>11<ruby>時<rt>じ</rt></ruby><ruby>前<rt>まえ</rt></ruby>ならモーニングサービスを<ruby>狙<rt>ねら</rt></ruby>ってみる！**
 
 <ruby>質問<rt>しつもん</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>さえ<ruby>分<rt>わ</rt></ruby>かっていれば、<ruby>日本<rt>にほん</rt></ruby>のカフェほど<ruby>居心地<rt>いごこち</rt></ruby>がよく<ruby>清潔<rt>せいけつ</rt></ruby>で<ruby>美味<rt>おい</rt></ruby>しい<ruby>場所<rt>ばしょ</rt></ruby>はありません。スマートに<ruby>注文<rt>ちゅうもん</rt></ruby>をこなして、<ruby>至福<rt>しふく</rt></ruby>のコーヒーブレイクを<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">店内（てんない）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>inside the shop</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>「店内でお召し上がりですか、それともお持ち帰りですか」と聞かれた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">持ち帰り（もちかえり）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>takeout, to go</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>時間がないので、ホットコーヒーを紙コップで持ち帰りにした。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">注文（ちゅうもん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>order</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>カウンターで自分の好みのサイズとミルクの種類を指定して注文する。</p>
+    </div>
+  </div>
+</div>

@@ -39,29 +39,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>て（かさたて）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：umbrella stand, umbrella rack
-* <ruby>例文<rt>れいぶん</rt></ruby>：お<ruby>店<rt>みせ</rt></ruby>の<ruby>入り口<rt>いりくち</rt></ruby>にある<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>てに<ruby>傘<rt>かさ</rt></ruby>を<ruby>預<rt>あづ</rt></ruby>けてから<ruby>入<rt>にゅう</rt></ruby><ruby>店<rt>みせ</rt></ruby>する。
-* **ビニール<ruby>傘<rt>かさ</rt></ruby>（びにーるがさ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：clear plastic umbrella (cheaply sold at convenience stores)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>急<rt>きゅう</rt></ruby>な<ruby>雨<rt>あめ</rt></ruby>に<ruby>降<rt>ふ</rt></ruby>られたので、<ruby>駅前<rt>えきまえ</rt></ruby>のコンビニでビニール<ruby>傘<rt>かさ</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>した。
-* **<ruby>取り違<rt>とりちが</rt></ruby>え（とりちがえ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：mistaking one thing for another, accidental mix-up
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>見た目<rt>みため</rt></ruby>がそっくりな<ruby>傘<rt>かさ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いため、<ruby>他人<rt>たにん</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>と<ruby>取り違<rt>とりちが</rt></ruby>えやすい。
-* **<ruby>傘<rt>かさ</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>（かさぶくろ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：plastic umbrella bag / sleeve
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>店内<rt>てんない</rt></ruby>の<ruby>床<rt>ゆか</rt></ruby>を<ruby>雨水<rt>あまみず</rt></ruby>で<ruby>濡<rt>ぬ</rt></ruby>らさないよう、<ruby>入り口<rt>いりくち</rt></ruby>で<ruby>傘<rt>かさ</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる。
-* **<ruby>施錠<rt>せじょう</rt></ruby>（せじょう）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：locking, locking up
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>盗難<rt>とうなん</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐため、<ruby>鍵<rt>かぎ</rt></ruby><ruby>付<rt>つ</rt></ruby>きの<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>てにしっかり<ruby>施錠<rt>せじょう</rt></ruby>する。
-* **<ruby>置き忘<rt>おきわす</rt></ruby>れ（おきわすれ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：leaving something behind, mislaying
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>網棚<rt>あみだな</rt></ruby>や<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>てに、<ruby>買<rt>か</rt></ruby>ったばかりの<ruby>傘<rt>かさ</rt></ruby>を<ruby>置き忘<rt>おきわす</rt></ruby>れてしまった。
-
 ---
 
 ## 1. なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>は「ビニール<ruby>傘<rt>かさ</rt></ruby>」を<ruby>平気<rt>へいき</rt></ruby>で<ruby>持<rt>も</rt></ruby>っていくのか？
@@ -188,3 +165,34 @@ tags:
 5. **<ruby>傘<rt>かさ</rt></ruby>シェアサービス「アイカサ」を<ruby>活用<rt>かつよう</rt></ruby>して<ruby>身軽<rt>みがる</rt></ruby>に<ruby>雨<rt>あめ</rt></ruby>を<ruby>乗り切<rt>のりき</rt></ruby>る！**
 
 ちょっとしたマナーと<ruby>知恵<rt>ちえ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っていれば、<ruby>日本<rt>にほん</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>情緒<rt>じょうちょ</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かでとても<ruby>風情<rt>ふぜい</rt></ruby>がある<ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>に<ruby>変<rt>か</rt></ruby>わります。お<ruby>気に入<rt>きにい</rt></ruby>りの<ruby>傘<rt>かさ</rt></ruby>とともに、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の<ruby>街<rt>まち</rt></ruby><ruby>歩<rt>ある</rt></ruby>きを<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">傘立て（かさたて）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>umbrella stand</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>店頭の傘立てに鍵付きの番号札があったので、施錠して預けた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">ビニール袋（ビニールぶくろ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>plastic bag</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>雨の日はお店の入口で、濡れた傘を入れる細長いビニール袋をもらう。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">盗難（とうなん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>theft</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>ビニール傘の取り違えや盗難を防ぐため、目印のシールを貼っておく。</p>
+    </div>
+  </div>
+</div>

@@ -37,29 +37,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>少量<rt>しょうりょう</rt></ruby>（しょうりょう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：small quantity, a little bit
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>料理<rt>りょうり</rt></ruby>の<ruby>隠<rt>かく</rt></ruby>し<ruby>味<rt>み</rt></ruby>として、<ruby>少量<rt>しょうりょう</rt></ruby>の<ruby>醤油<rt>しょうゆ</rt></ruby>を<ruby>加<rt>くわ</rt></ruby>える。
-* **<ruby>緩和<rt>かんわ</rt></ruby>（かんわ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：relief, mitigation, softening (e.g. of an impact)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>角<rt>かく</rt></ruby>が<ruby>立<rt>た</rt></ruby>たないクッション<ruby>言葉<rt>ことば</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って、<ruby>断<rt>ことわ</rt></ruby>りのショックを<ruby>緩和<rt>かんわ</rt></ruby>する。
-* **<ruby>配慮<rt>はいりょ</rt></ruby>（はいりょ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：consideration, concern
-* <ruby>例文<rt>れいぶん</rt></ruby>：ビジネスの<ruby>場<rt>ば</rt></ruby>では、<ruby>相手<rt>あいて</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>に<ruby>配慮<rt>はいりょ</rt></ruby>した<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby><ruby>遣<rt>づか</rt></ruby>いが<ruby>求<rt>もと</rt></ruby>められる。
-* **<ruby>婉曲<rt>えんきょく</rt></ruby>（えんきょく）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：euphemistic, roundabout, indirect
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>直接的<rt>ちょくせつてき</rt></ruby>に「<ruby>嫌<rt>いや</rt></ruby>だ」と<ruby>言<rt>い</rt></ruby>わず、<ruby>婉曲<rt>えんきょく</rt></ruby>な<ruby>表現<rt>ひょうげん</rt></ruby>でやんわりとお<ruby>断<rt>ことわ</rt></ruby>りする。
-* **<ruby>曖昧<rt>あいまい</rt></ruby>（あいまい）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：ambiguous, vague
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>返事<rt>へんじ</rt></ruby>を<ruby>曖昧<rt>あいまい</rt></ruby>にしておくと、<ruby>後<rt>あと</rt></ruby>で<ruby>誤解<rt>ごかい</rt></ruby>を<ruby>招<rt>まね</rt></ruby>く<ruby>原因<rt>げんいん</rt></ruby>になる。
-* **<ruby>少々<rt>しょうしょう</rt></ruby>（しょうしょう）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：a little, a few minutes (formal/polite)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>確認<rt>かくにん</rt></ruby>いたしますので、<ruby>恐れ入<rt>おそれい</rt></ruby>りますが<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください。
-
 ---
 
 ## 1. <ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い：「<ruby>口語<rt>こうご</rt></ruby>・<ruby>感情<rt>かんじょう</rt></ruby>（ちょっと）」VS「<ruby>改<rt>あらた</rt></ruby>まった<ruby>客観<rt>きゃっかん</rt></ruby>（<ruby>少<rt>すこ</rt></ruby>し）」
@@ -202,3 +179,34 @@ tags:
 6. **「<ruby>少<rt>すこ</rt></ruby>しチクッと」で<ruby>相手<rt>あいて</rt></ruby>の<ruby>不安<rt>ふあん</rt></ruby>を<ruby>和<rt>やわ</rt></ruby>らげる<ruby>魔法<rt>まほう</rt></ruby>のコミュニケーション！**
 
 「ちょっと」と「<ruby>少<rt>すこ</rt></ruby>し」の<ruby>使い分<rt>つかいわ</rt></ruby>けをマスターすれば、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>はより<ruby>柔<rt>やわ</rt></ruby>らかく、<ruby>相手<rt>あいて</rt></ruby>を<ruby>思<rt>おも</rt></ruby>いやる<ruby>洗練<rt>せんれん</rt></ruby>されたネイティブの<ruby>響<rt>ひび</rt></ruby>きを<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れることができますよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">少々（しょうしょう）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>a little, just a minute</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>「確認いたしますので、少々お待ちください」と丁寧に案内された。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">遠慮（えんりょ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>hesitation, declining</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>飲み会に誘われたが、明日は朝が早いので「ちょっと…」と遠慮した。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">程度（ていど）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>degree, amount</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>「少し」は客観的な量を表し、「ちょっと」は話し言葉でよく使われる。</p>
+    </div>
+  </div>
+</div>

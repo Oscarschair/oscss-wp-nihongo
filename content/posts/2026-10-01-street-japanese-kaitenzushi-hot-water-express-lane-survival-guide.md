@@ -33,23 +33,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>蛇口<rt>じゃぐち</rt></ruby>（じゃぐち）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：faucet, tap
-* <ruby>例文<rt>れいぶん</rt></ruby>：カウンター<ruby>席<rt>せき</rt></ruby>にある<ruby>給湯<rt>きゅうとう</rt></ruby><ruby>用<rt>よう</rt></ruby>の<ruby>黒<rt>くろ</rt></ruby>い<ruby>蛇口<rt>じゃぐち</rt></ruby>に<ruby>湯呑<rt>ゆの</rt></ruby>みを<ruby>強<rt>つよ</rt></ruby>く<ruby>押<rt>お</rt></ruby>し<ruby>当<rt>あ</rt></ruby>てて、<ruby>熱湯<rt>ねっとう</rt></ruby>を<ruby>注<rt>そそ</rt></ruby>ぐ。
-* **<ruby>特急<rt>とっきゅう</rt></ruby>レーン（とっきゅうれーん）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：express delivery lane
-* <ruby>例文<rt>れいぶん</rt></ruby>：タッチパネルで<ruby>注文<rt>ちゅうもん</rt></ruby>した<ruby>握<rt>にぎ</rt></ruby>り<ruby>寿司<rt>すし</rt></ruby>が、<ruby>特急<rt>とっきゅう</rt></ruby>レーンの<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にピタッと<ruby>止<rt>と</rt></ruby>まった。
-* **<ruby>湯呑<rt>ゆの</rt></ruby>み（ゆのみ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：teacup (Japanese style)
-* <ruby>例文<rt>れいぶん</rt></ruby>：レーンの<ruby>上棚<rt>うわだな</rt></ruby>から<ruby>湯呑<rt>ゆの</rt></ruby>みを<ruby>取<rt>と</rt></ruby>り、<ruby>粉末<rt>ふんまつ</rt></ruby>の<ruby>緑茶<rt>りょくちゃ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてからお<ruby>湯<rt>ゆ</rt></ruby>を<ruby>注<rt>そそ</rt></ruby>ぎます。
-* **お<ruby>会計<rt>かいけい</rt></ruby>（おかいけい）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：bill, check, payment
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>わったらタッチパネルの「お<ruby>会計<rt>かいけい</rt></ruby>」ボタンを<ruby>押<rt>お</rt></ruby>し、<ruby>店員<rt>てんいん</rt></ruby>さんに<ruby>確認<rt>かくにん</rt></ruby>してもらいます。
-
 ---
 
 ## 1. <ruby>席<rt>せき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いた<ruby>瞬間<rt>しゅんかん</rt></ruby>の3<ruby>大<rt>だい</rt></ruby>トラップと「お<ruby>茶<rt>ちゃ</rt></ruby>の<ruby>淹<rt>い</rt></ruby>れ<ruby>方<rt>かた</rt></ruby>」<ruby>作法<rt>さほう</rt></ruby>
@@ -175,3 +158,34 @@ tags:
 5. **<ruby>最後<rt>さいご</rt></ruby>はタッチパネルで「お<ruby>会計<rt>かいけい</rt></ruby>」を<ruby>押<rt>お</rt></ruby>してからレジへ<ruby>進<rt>すす</rt></ruby>む！**
 
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>は、<ruby>美味<rt>おい</rt></ruby>しい<ruby>魚<rt>さかな</rt></ruby>を<ruby>安<rt>やす</rt></ruby>く<ruby>食<rt>た</rt></ruby>べられるだけでなく、<ruby>日本<rt>にほん</rt></ruby>のテクノロジーとおもてなし<ruby>精神<rt>せいしん</rt></ruby>がぎっしり<ruby>詰<rt>つ</rt></ruby>まったテーマパークです。ルールとマナーを<ruby>覚<rt>おぼ</rt></ruby>えて、ぜひ<ruby>日本<rt>にほん</rt></ruby>の<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>を120%<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">蛇口（じゃぐち）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>faucet, tap</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>席にある給茶用の蛇口に湯飲みを押し当てて、熱いお茶を淹れる。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">特急（とっきゅう）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>express train / lane</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>タッチパネルで注文した寿司が、特急レーンに乗って席まで素早く届いた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">お会計（おかいけい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>bill, check</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>食べ終わった後、店員さんを呼んでお皿の枚数を数えてもらいお会計へ向かう。</p>
+    </div>
+  </div>
+</div>

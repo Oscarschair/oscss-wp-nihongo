@@ -38,29 +38,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>治安<rt>ちあん</rt></ruby>（ちあん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：public order, public safety
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でも<ruby>夜間<rt>やかん</rt></ruby>の<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>歩<rt>ある</rt></ruby>きができるほど<ruby>治安<rt>ちあん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い<ruby>国<rt>くに</rt></ruby>だ。
-* **<ruby>無<rt>む</rt></ruby><ruby>防備<rt>ぼうび</rt></ruby>（むぼうび）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：defenseless, unprotected, vulnerable
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>貴重<rt>きちょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>をテーブルに<ruby>置<rt>お</rt></ruby>いたまま<ruby>席<rt>せき</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れるのは、あまりにも<ruby>無<rt>む</rt></ruby><ruby>防備<rt>ぼうび</rt></ruby>だ。
-* **<ruby>平和<rt>へいわ</rt></ruby>ボケ（へいわぼけ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：taking peace and safety for granted, complacent
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>長年<rt>ながねん</rt></ruby><ruby>犯罪<rt>はんざい</rt></ruby>の<ruby>少<rt>すく</rt></ruby>ない<ruby>環境<rt>かんきょう</rt></ruby>にいると、つい<ruby>平和<rt>へいわ</rt></ruby>ボケして<ruby>危機<rt>きき</rt></ruby><ruby>管理<rt>かんり</rt></ruby>が<ruby>甘<rt>あま</rt></ruby>くなる。
-* **<ruby>落とし物<rt>おとしもの</rt></ruby>（おとしもの）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：lost item, lost property
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>駅<rt>えき</rt></ruby>で<ruby>財布<rt>さいふ</rt></ruby>の<ruby>落とし物<rt>おとしもの</rt></ruby>をしてしまったが、<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>が<ruby>交番<rt>こうばん</rt></ruby>に<ruby>届<rt>とど</rt></ruby>けてくれた。
-* **<ruby>遺失<rt>いしつ</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>（いしつぶつ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：lost article (legal/formal term for <ruby>落とし物<rt>おとしもの</rt></ruby>)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>警察<rt>けいさつ</rt></ruby><ruby>署<rt>しょ</rt></ruby>の<ruby>遺失<rt>いしつ</rt></ruby><ruby>物<rt>ぶつ</rt></ruby><ruby>係<rt>がかり</rt></ruby>へ<ruby>行<rt>い</rt></ruby>き、<ruby>紛失<rt>ふんしつ</rt></ruby><ruby>届<rt>とどけ</rt></ruby>の<ruby>手続<rt>てつづ</rt></ruby>きを<ruby>行<rt>おこな</rt></ruby>った。
-* **<ruby>防犯<rt>ぼうはん</rt></ruby><ruby>意識<rt>いしき</rt></ruby>（ぼうはんいしき）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：awareness of crime prevention
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>に<ruby>出<rt>で</rt></ruby>かける<ruby>際<rt>さい</rt></ruby>は、<ruby>普段<rt>ふだん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>に<ruby>高<rt>たか</rt></ruby>い<ruby>防犯<rt>ぼうはん</rt></ruby><ruby>意識<rt>いしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>必要<rt>ひつよう</rt></ruby>がある。
-
 ---
 
 ## 1. なぜ<ruby>盗<rt>ぬす</rt></ruby>まれない？ <ruby>日本<rt>にほん</rt></ruby>の<ruby>治安<rt>ちあん</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>える「3<ruby>大<rt>だい</rt></ruby><ruby>奇跡<rt>きせき</rt></ruby>」
@@ -180,3 +157,34 @@ tags:
 5. **<ruby>万が一<rt>まんがいち</rt></ruby><ruby>落とし物<rt>おとしもの</rt></ruby>をしたら、<ruby>諦<rt>あきら</rt></ruby>めずに<ruby>最寄<rt>もよ</rt></ruby>りの<ruby>交番<rt>こうばん</rt></ruby>へ<ruby>相談<rt>そうだん</rt></ruby>する！**
 
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>治安<rt>ちあん</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さは<ruby>世界<rt>せかい</rt></ruby>が<ruby>羨<rt>うらや</rt></ruby>む<ruby>宝物<rt>ほうもつ</rt></ruby>です。その<ruby>安心<rt>あんしん</rt></ruby><ruby>感<rt>かん</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>しつつ、<ruby>賢<rt>かしこ</rt></ruby>い<ruby>防犯<rt>ぼうはん</rt></ruby><ruby>意識<rt>いしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>快適<rt>かいてき</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">席取り（せきとり）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>securing a seat</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>カフェで注文する前に、テーブルにハンカチを置いて席取りをした。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">治安（ちあん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>public safety, security</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>財布やスマホを机に置いたまま離れても盗まれないほど、日本の治安は良い。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">油断（ゆだん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>carelessness, inattention</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>いくら安全な街でも、海外旅行のときは決して油断してはいけない。</p>
+    </div>
+  </div>
+</div>

@@ -22,7 +22,6 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 
 ---
 
-
 ### 💡 コンビニレジの<ruby>波状<rt>はじょう</rt></ruby><ruby>攻撃<rt>こうげき</rt></ruby>を<ruby>突破<rt>とっぱ</rt></ruby>する「5<ruby>大<rt>だい</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>」<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>マニュアル
 
 <ruby>日本<rt>にほん</rt></ruby>のコンビニ（セブンイレブン、ファミリーマート、ローソン<ruby>等<rt>ひとし</rt></ruby>）のレジに<ruby>立<rt>た</rt></ruby>つと、<ruby>店員<rt>てんいん</rt></ruby>さんからまるで<ruby>機関<rt>きかん</rt></ruby><ruby>銃<rt>じゅう</rt></ruby>のように<ruby>連続<rt>れんぞく</rt></ruby>して<ruby>質問<rt>しつもん</rt></ruby>が<ruby>飛<rt>と</rt></ruby>んできます。<ruby>事前<rt>じぜん</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>の<ruby>順番<rt>じゅんばん</rt></ruby>と<ruby>答<rt>こた</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>頭<rt>あたま</rt></ruby>に<ruby>入<rt>い</rt></ruby>れておけば、<ruby>一切<rt>いっさい</rt></ruby><ruby>慌<rt>あわ</rt></ruby>てる<ruby>必要<rt>ひつよう</rt></ruby>はありません。
@@ -42,8 +41,6 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 
 #### セルフレジ（<ruby>無人<rt>むじん</rt></ruby>レジ）<ruby>活用<rt>かつよう</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>
 <ruby>最近<rt>さいきん</rt></ruby><ruby>増<rt>ふ</rt></ruby>えている<ruby>完全<rt>かんぜん</rt></ruby>セルフレジでは、<ruby>言語<rt>げんご</rt></ruby><ruby>切り替<rt>きりか</rt></ruby>えボタン（English, <ruby>中<rt>ちゅう</rt></ruby><ruby>文<rt>ぶん</rt></ruby>, 한국어）が<ruby>右<rt>みぎ</rt></ruby><ruby>上<rt>じょう</rt></ruby>に<ruby>用意<rt>ようい</rt></ruby>されています。<ruby>有人<rt>ゆうじん</rt></ruby>レジでの<ruby>会話<rt>かいわ</rt></ruby>にまだ<ruby>自信<rt>じしん</rt></ruby>がない<ruby>時<rt>とき</rt></ruby>は、セルフレジを<ruby>選<rt>えら</rt></ruby>ぶと<ruby>自分<rt>じぶん</rt></ruby>のペースで<ruby>落ち着<rt>おちつ</rt></ruby>いて<ruby>買い物<rt>かいもの</rt></ruby>ができるのでおすすめです。
-
-
 
 ### 💡 レジ<ruby>袋<rt>ぶくろ</rt></ruby><ruby>有料<rt>ゆうりょう</rt></ruby><ruby>化<rt>か</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>と「<ruby>袋<rt>ふくろ</rt></ruby>いりません」のスマートな<ruby>意思<rt>いし</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby>
 
@@ -68,22 +65,92 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 - 「**<ruby>肉<rt>にく</rt></ruby>まん**を1つ<ruby>温<rt>あたた</rt></ruby>かいのでお<ruby>願<rt>ねが</rt></ruby>いします」
 <ruby>商品<rt>しょうひん</rt></ruby><ruby>名<rt>めい</rt></ruby>を<ruby>言<rt>い</rt></ruby>うだけで、トングでサッと<ruby>取<rt>と</rt></ruby>って<ruby>専用<rt>せんよう</rt></ruby>の<ruby>耐熱<rt>たいねつ</rt></ruby><ruby>紙袋<rt>かみぶくろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れてくれます。お<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>あ</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>の<ruby>最高<rt>さいこう</rt></ruby>の<ruby>相棒<rt>あいぼう</rt></ruby>ですので、ぜひ<ruby>恐<rt>おそ</rt></ruby>れずに<ruby>注文<rt>ちゅうもん</rt></ruby>してみてください！
 
-
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **レジ<ruby>袋<rt>ぶくろ</rt></ruby>（レジぶくろ）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：plastic shopping bag
-* <ruby>例文<rt>れいぶん</rt></ruby>：エコバッグを<ruby>持<rt>も</rt></ruby>ってきたので、「レジ<ruby>袋<rt>ぶくろ</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby>です」と<ruby>断<rt>ことわ</rt></ruby>った。
-* **<ruby>温<rt>あたた</rt></ruby>め（あたため）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：heating up
-* <ruby>例文<rt>れいぶん</rt></ruby>：コンビニでお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>買<rt>か</rt></ruby>ったら、<ruby>店員<rt>てんいん</rt></ruby>さんに「<ruby>温<rt>あたた</rt></ruby>めますか」と<ruby>聞<rt>き</rt></ruby>かれた。
-* **<ruby>会計<rt>かいけい</rt></ruby>（かいけい）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：payment, bill
-* <ruby>例文<rt>れいぶん</rt></ruby>：スマホのバーコード<ruby>決済<rt>けっさい</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>して、スムーズに<ruby>会計<rt>かいけい</rt></ruby>を<ruby>済<rt>す</rt></ruby>ませた。
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>
 
 [oscss_related slug="street-japanese-cafe-order-survival-mug-or-paper-guide" label="<ruby>街角<rt>まちかど</rt></ruby>サバイバル：カフェ<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>波状<rt>はじょう</rt></ruby><ruby>攻撃<rt>こうげき</rt></ruby>"]
+
+---
+
+### 💡 <ruby>実践<rt>じっせん</rt></ruby>サバイバル：コンビニレジの「4<ruby>大<rt>だい</rt></ruby><ruby>連続<rt>れんぞく</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>」をノーミスで<ruby>切り抜<rt>きりぬ</rt></ruby>ける<ruby>呪文<rt>じゅもん</rt></ruby>
+
+レジに<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>置<rt>お</rt></ruby>いた<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>店員<rt>てんいん</rt></ruby>さんからマシンガンのように<ruby>繰り出<rt>くりだ</rt></ruby>される4つの<ruby>質問<rt>しつもん</rt></ruby>と、そのパーフェクト<ruby>回答<rt>かいとう</rt></ruby>です。
+
+```
+【店員さんの4連撃と模範解答】
+1. 店員：「ポイントカードはお持ちですか？」
+   ➔ あなた：「大丈夫です（持っていません）」or「アプリで出します」
+2. 店員：「お弁当、温めますか？」
+   ➔ あなた：「お願いします！」or「そのままで大丈夫です」
+3. 店員：「レジ袋はご利用ですか？」
+   ➔ あなた：「あ、結構です（マイバッグ持参）」or「大きいの一枚ください」
+4. 店員：「お箸やスプーンはお付けしますか？」
+   ➔ あなた：「一膳（ぜん）お願いします！」
+```
+
+#### <ruby>店員<rt>てんいん</rt></ruby>さんの<ruby>早口<rt>はやくち</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>を<ruby>聞き取<rt>ききと</rt></ruby>るコツ
+コンビニの<ruby>店員<rt>てんいん</rt></ruby>さんは1<ruby>日<rt>にち</rt></ruby>に<ruby>何<rt>なん</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>人<rt>にん</rt></ruby>ものお<ruby>客様<rt>きゃくさま</rt></ruby>をさばくため、<ruby>言葉<rt>ことば</rt></ruby>が<ruby>短縮<rt>たんしゅく</rt></ruby>されがちです。
+「<ruby>温<rt>あたた</rt></ruby>めますか？」が「アタタメマスカ〜？」と<ruby>聞<rt>き</rt></ruby>こえたら、<ruby>温<rt>あたた</rt></ruby>めるかどうかの<ruby>質問<rt>しつもん</rt></ruby>。「<ruby>袋<rt>ふくろ</rt></ruby>は〜？」と<ruby>聞<rt>き</rt></ruby>こえたらレジ<ruby>袋<rt>ぶくろ</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>です。
+<ruby>落ち着<rt>おちつ</rt></ruby>いて<ruby>笑顔<rt>えがお</rt></ruby>で「お<ruby>願<rt>ねが</rt></ruby>いします」「<ruby>結構<rt>けっこう</rt></ruby>です」を<ruby>使い分<rt>つかいわ</rt></ruby>けましょう！
+
+## 5. レジ<ruby>前<rt>まえ</rt></ruby>の<ruby>沈黙<rt>ちんもく</rt></ruby>を<ruby>制<rt>せい</rt></ruby>する「コンビニ<ruby>入<rt>いり</rt></ruby><ruby>店<rt>てん</rt></ruby>から<ruby>退<rt>しさ</rt></ruby><ruby>店<rt>みせ</rt></ruby>までの<ruby>完全<rt>かんぜん</rt></ruby>ノーカット<ruby>台本<rt>だいほん</rt></ruby>」
+
+これさえ<ruby>覚<rt>おぼ</rt></ruby>えれば、<ruby>日本<rt>にほん</rt></ruby>のどのコンビニでも<ruby>一切<rt>いっさい</rt></ruby><ruby>焦<rt>あせ</rt></ruby>らずにレジを<ruby>通過<rt>つうか</rt></ruby>できます。
+
+> 🏪 **<ruby>店員<rt>てんいん</rt></ruby>さん**：「いらっしゃいませー！ <ruby>温<rt>あたた</rt></ruby>めますか？」
+> 🚗 **あなた**：「あ、お<ruby>弁当<rt>べんとう</rt></ruby>だけ<ruby>温<rt>あたた</rt></ruby>めてください！」（おにぎりやサラダは<ruby>温<rt>あたた</rt></ruby>めない<ruby>旨<rt>むね</rt></ruby>を<ruby>明確<rt>めいかく</rt></ruby>にする）
+> 🏪 **<ruby>店員<rt>てんいん</rt></ruby>さん**：「<ruby>温<rt>あたた</rt></ruby>め<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください。ポイントカードはお<ruby>持<rt>も</rt></ruby>ちですか？」
+> 🚗 **あなた**：「ないです！」（またはスマホのバーコードを<ruby>無言<rt>むごん</rt></ruby>で<ruby>差し出<rt>さしだ</rt></ruby>す）
+> 🏪 **<ruby>店員<rt>てんいん</rt></ruby>さん**：「<ruby>袋<rt>ぶくろ</rt></ruby>はおつけしますか？」
+> 🚗 **あなた**：「<ruby>小<rt>ちい</rt></ruby>さいの1<ruby>枚<rt>まい</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします！」（または「カバンに<ruby>入<rt>はい</rt></ruby>るので<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」）
+> 🏪 **<ruby>店員<rt>てんいん</rt></ruby>さん**：「お<ruby>会計<rt>かいけい</rt></ruby>〇〇<ruby>円<rt>えん</rt></ruby>になります。」
+> 🚗 **あなた**：「Suica（またはPayPay、クレジットカード）で！」  
+> 🏪 **<ruby>店員<rt>てんいん</rt></ruby>さん**：「こちらにタッチしてください。お<ruby>弁当<rt>べんとう</rt></ruby><ruby>大変<rt>たいへん</rt></ruby><ruby>熱<rt>あつ</rt></ruby>くなっておりますのでお<ruby>気<rt>き</rt></ruby>をつけてどうぞ！」
+> 🚗 **あなた**：「ありがとうございます！」  
+
+<ruby>無駄<rt>むだ</rt></ruby>のないリズミカルなやり<ruby>取<rt>と</rt></ruby>りこそが、<ruby>日本<rt>にほん</rt></ruby>のコンビニレジを<ruby>最<rt>もっと</rt></ruby>も<ruby>気持<rt>きも</rt></ruby>ちよく<ruby>利用<rt>りよう</rt></ruby>する<ruby>秘訣<rt>ひけつ</rt></ruby>です。
+
+## 6. コンビニの「セルフレジ」を<ruby>攻略<rt>こうりゃく</rt></ruby>する<ruby>完全<rt>かんぜん</rt></ruby>ガイド
+
+<ruby>最近<rt>さいきん</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>のコンビニでは、<ruby>店員<rt>てんいん</rt></ruby>さんと<ruby>会話<rt>かいわ</rt></ruby>せずに<ruby>済<rt>す</rt></ruby>む「セルフレジ」が<ruby>急増<rt>きゅうぞう</rt></ruby>しています。
+
+### セルフレジの<ruby>操作<rt>そうさ</rt></ruby>ステップ
+1. **<ruby>商品<rt>しょうひん</rt></ruby>のバーコードをスキャン**: <ruby>画面<rt>がめん</rt></ruby><ruby>右<rt>みぎ</rt></ruby><ruby>下<rt>か</rt></ruby>のリーダーにかざします。
+2. **ポイントカードの<ruby>有無<rt>うむ</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>**: 「<ruby>持<rt>も</rt></ruby>っている」「<ruby>持<rt>も</rt></ruby>っていない」をタッチ。
+3. **レジ<ruby>袋<rt>ぶくろ</rt></ruby>の<ruby>枚数<rt>まいすう</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>**: <ruby>必要<rt>ひつよう</rt></ruby>なサイズを<ruby>画面<rt>がめん</rt></ruby>で<ruby>選<rt>えら</rt></ruby>び、<ruby>横<rt>よこ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてある<ruby>袋<rt>ふくろ</rt></ruby>を<ruby>取<rt>と</rt></ruby>ります。
+4. **<ruby>決済<rt>けっさい</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>**: クレジットカード、<ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>IC（Suica<ruby>等<rt>とう</rt></ruby>）、コード<ruby>決済<rt>けっさい</rt></ruby>（PayPay<ruby>等<rt>とう</rt></ruby>）をタッチ。
+5. **レシートを<ruby>受け取<rt>うけと</rt></ruby>って<ruby>完了<rt>かんりょう</rt></ruby>**！
+
+<ruby>焦<rt>あせ</rt></ruby>らず<ruby>画面<rt>がめん</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>に<ruby>従<rt>したが</rt></ruby>えば、<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>一切<rt>いっさい</rt></ruby><ruby>喋<rt>しゃべ</rt></ruby>らなくても1<ruby>分<rt>ふん</rt></ruby>で<ruby>買い物<rt>かいもの</rt></ruby>が<ruby>完了<rt>かんりょう</rt></ruby>します！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">レジ袋（レジぶくろ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>plastic shopping bag</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>エコバッグを持ってきたので、「レジ袋は結構です」と断った。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">温め（あたため）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>heating up</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>コンビニでお弁当を買ったら、店員さんに「温めますか」と聞かれた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">会計（かいけい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>payment, bill</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>スマホのバーコード決済を提示して、スムーズに会計を済ませた。</p>
+    </div>
+  </div>
+</div>

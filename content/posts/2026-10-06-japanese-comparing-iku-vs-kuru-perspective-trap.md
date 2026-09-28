@@ -34,23 +34,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>視点<rt>してん</rt></ruby>（してん）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：point of view, perspective
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby>では、<ruby>話し手<rt>はなして</rt></ruby>の<ruby>視点<rt>してん</rt></ruby>がどこに<ruby>置<rt>お</rt></ruby>かれているかが<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>重要<rt>じゅうよう</rt></ruby>です。
-* **<ruby>移動<rt>いどう</rt></ruby>（いどう）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：movement, transfer
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>目的<rt>もくてき</rt></ruby><ruby>地<rt>ち</rt></ruby>へ<ruby>移動<rt>いどう</rt></ruby>する<ruby>際<rt>さい</rt></ruby>の<ruby>方向<rt>ほうこう</rt></ruby>によって、「<ruby>行<rt>い</rt></ruby>く」と「<ruby>来<rt>く</rt></ruby>る」を<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>使い分<rt>つかいわ</rt></ruby>ける。
-* **<ruby>向<rt>む</rt></ruby>かう（むかう）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：to head toward, to go towards
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>今<rt>いま</rt></ruby>から<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>口<rt>ぐち</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かいますので、5<ruby>分<rt>ふん</rt></ruby>ほど<ruby>待<rt>ま</rt></ruby>っていてください。
-* **<ruby>伺<rt>うかが</rt></ruby>う（うかがう）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：to visit, to go (humble form of <ruby>行<rt>い</rt></ruby>く/<ruby>来<rt>く</rt></ruby>る)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>明日<rt>あした</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>3<ruby>時<rt>じ</rt></ruby>に、<ruby>御社<rt>おんしゃ</rt></ruby>のオフィスへ<ruby>伺<rt>うかが</rt></ruby>います。
-
 ---
 
 ## 1. <ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い：「カメラの<ruby>視点<rt>してん</rt></ruby>」がどこにあるか？
@@ -171,3 +154,34 @@ tags:
 3. **<ruby>相手<rt>あいて</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かう<ruby>敬語<rt>けいご</rt></ruby>は「<ruby>参<rt>まい</rt></ruby>ります」「<ruby>伺<rt>うかが</rt></ruby>います」を<ruby>使<rt>つか</rt></ruby>いこなす！**
 
 「<ruby>来<rt>く</rt></ruby>る」と<ruby>言<rt>い</rt></ruby>いそうになったら、<ruby>一瞬<rt>いっしゅん</rt></ruby><ruby>深呼吸<rt>しんこきゅう</rt></ruby>して「<ruby>相手<rt>あいて</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>自分<rt>じぶん</rt></ruby>が<ruby>離<rt>はな</rt></ruby>れていくんだから、<ruby>行<rt>い</rt></ruby>く！」と<ruby>思い出<rt>おもいだ</rt></ruby>してください。これだけで、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>は<ruby>劇的<rt>げきてき</rt></ruby>に<ruby>自然<rt>しぜん</rt></ruby>になりますよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">行く（いく）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n5">JLPT N5</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>to go</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>友達が待っているカフェへ、今から自転車で行きます。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">来る（くる）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n5">JLPT N5</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>to come</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>日本語では、自分が相手の家へ向かうときも「今から行きます」と表現する。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">視点（してん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>point of view, perspective</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>話し手と聞き手のどちらの視点から空間を捉えるかが重要になる。</p>
+    </div>
+  </div>
+</div>

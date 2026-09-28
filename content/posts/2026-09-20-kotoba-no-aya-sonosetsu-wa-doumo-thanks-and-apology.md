@@ -2,7 +2,7 @@
 title: "ことばのあや：久しぶりに会った日本人が口にする「その節はどうも」の謎｜『その節』って具体的にいつ！？過去の恩義をフワッと包み込む大人の挨拶完全攻略"
 
 description: "数ヶ月ぶり、あるいは数年ぶりに再会した仕事相手や知人から『あ、クルマさん！ その節はどうも！』と頭を下げられてパニック！？『その節って具体的にいつのこと！？何のお礼！？』と記憶喪失に陥る外国人多数！日本の人間関係を円滑にする『その節』の魔法の役割からビジネスでの再会プロトコルまで徹底解説！"
-slug: "kotoba-no-aya-sonosetsu-wa-doumo-thanks-and-apology"
+slug: "kotoba-no-aya-sonosetsu-wa-doumo"
 date: "2026-09-20T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-sonosetsu.jpg"
 categories:
@@ -38,29 +38,6 @@ tags:
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>頭<rt>あたま</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えてしまいがちな「その<ruby>節<rt>ふし</rt></ruby>はどうも」の<ruby>深層<rt>しんそう</rt></ruby><ruby>心理<rt>しんり</rt></ruby>と、ビジネスで<ruby>使<rt>つか</rt></ruby>える<ruby>美<rt>うつく</rt></ruby>しい<ruby>再会<rt>さいかい</rt></ruby>フレーズ<ruby>集<rt>しゅう</rt></ruby>をお<ruby>届<rt>とど</rt></ruby>けします！
 
 ---
-
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **その<ruby>節<rt>ふし</rt></ruby>（そのせつ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：at that time, on that occasion
-* <ruby>例文<rt>れいぶん</rt></ruby>：その<ruby>節<rt>ふし</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になり、<ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます。
-* **ご<ruby>無沙汰<rt>ぶさた</rt></ruby>（ごぶさた）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：not being in touch for a long time
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>大変<rt>たいへん</rt></ruby>ご<ruby>無沙汰<rt>ぶさた</rt></ruby>しておりますが、<ruby>皆様<rt>みなさま</rt></ruby>お<ruby>変<rt>か</rt></ruby>わりございませんでしょうか。
-* **<ruby>恩義<rt>おんぎ</rt></ruby>（おんぎ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：favor, debt of gratitude
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>困<rt>こま</rt></ruby>っていた<ruby>時<rt>とき</rt></ruby>に<ruby>助<rt>たす</rt></ruby>けていただいた<ruby>恩義<rt>おんぎ</rt></ruby>は、<ruby>一生<rt>いっしょう</rt></ruby><ruby>忘<rt>わす</rt></ruby>れません。
-* **<ruby>配慮<rt>はいりょ</rt></ruby>（はいりょ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：consideration, thoughtfulness
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>相手<rt>あいて</rt></ruby>に<ruby>余計<rt>よけい</rt></ruby>な<ruby>気<rt>き</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わせないよう、<ruby>言葉<rt>ことば</rt></ruby>の<ruby>選び方<rt>えらびかた</rt></ruby>に<ruby>配慮<rt>はいりょ</rt></ruby>する。
-* **<ruby>再会<rt>さいかい</rt></ruby>（さいかい）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：reunion, meeting again
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>大学<rt>だいがく</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、10<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>再会<rt>さいかい</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。
-* **<ruby>社交<rt>しゃこう</rt></ruby><ruby>辞令<rt>じれい</rt></ruby>（しゃこうじれい）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：diplomatic flattery, social courtesy / polite compliment
-* <ruby>例文<rt>れいぶん</rt></ruby>：「<ruby>今度<rt>こんど</rt></ruby>ぜひご<ruby>飯<rt>はん</rt></ruby>でも」というのは、<ruby>大人<rt>おとな</rt></ruby>の<ruby>社交<rt>しゃこう</rt></ruby><ruby>辞令<rt>じれい</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つだ。
 
 ---
 
@@ -187,3 +164,34 @@ tags:
 5. **チャットの<ruby>冒頭<rt>ぼうとう</rt></ruby>に<ruby>添<rt>そ</rt></ruby>えてコミュニケーションの<ruby>潤滑<rt>じゅんかつ</rt></ruby><ruby>油<rt>ゆ</rt></ruby>にする！**
 
 <ruby>言葉<rt>ことば</rt></ruby>の<ruby>曖昧<rt>あいまい</rt></ruby>さは、<ruby>相手<rt>あいて</rt></ruby>への<ruby>優<rt>やさ</rt></ruby>しさの<ruby>裏返<rt>うらがえ</rt></ruby>し。「その<ruby>節<rt>ふし</rt></ruby>はどうも」をサラリと<ruby>使<rt>つか</rt></ruby>いこなして、<ruby>日本<rt>にほん</rt></ruby>での<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>をより<ruby>豊<rt>ゆた</rt></ruby>かで<ruby>心地<rt>ここち</rt></ruby>よいものに<ruby>育<rt>そだ</rt></ruby>てていきましょう！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">先日（せんじつ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>the other day, recently</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>先日は大変お世話になり、心よりお礼申し上げます。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">挨拶（あいさつ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>greeting</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>久しぶりに会った取引先の担当者に「その節はどうも」と挨拶した。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">感謝（かんしゃ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>gratitude</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>過去に助けてもらった親切への感謝を、改めて言葉にして伝える。</p>
+    </div>
+  </div>
+</div>

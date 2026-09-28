@@ -32,23 +32,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>体型<rt>たいけい</rt></ruby>（たいけい）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：body shape, figure
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>運動<rt>うんどう</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて、<ruby>最近<rt>さいきん</rt></ruby><ruby>自分<rt>じぶん</rt></ruby>の<ruby>体型<rt>たいけい</rt></ruby>が<ruby>気<rt>き</rt></ruby>になってきた。
-* **<ruby>変化<rt>へんか</rt></ruby>（へんか）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：change, transition
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>季節<rt>きせつ</rt></ruby>の<ruby>変わり目<rt>かわりめ</rt></ruby>には、<ruby>気温<rt>きおん</rt></ruby>の<ruby>急激<rt>きゅうげき</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。
-* **<ruby>維持<rt>いじ</rt></ruby>する（いじする）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：to maintain, to preserve
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>毎日<rt>まいにち</rt></ruby>ジョギングを<ruby>続<rt>つづ</rt></ruby>けて、<ruby>理想<rt>りそう</rt></ruby>の<ruby>体重<rt>たいじゅう</rt></ruby>をしっかり<ruby>維持<rt>いじ</rt></ruby>している。
-* **ふくよか（ふくよか）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：plump, pleasantly full-figured (polite/soft expression)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>直接<rt>ちょくせつ</rt></ruby>「<ruby>太<rt>ふと</rt></ruby>っている」と<ruby>言<rt>い</rt></ruby>うと<ruby>角<rt>かく</rt></ruby>が<ruby>立<rt>た</rt></ruby>つので、「ふくよかな<ruby>方<rt>ほう</rt></ruby>」と<ruby>上品<rt>じょうひん</rt></ruby>に<ruby>表現<rt>ひょうげん</rt></ruby>することがある。
-
 ---
 
 ## 1. <ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い：「<ruby>変化<rt>へんか</rt></ruby>のプロセス」か「<ruby>結果<rt>けっか</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>」か
@@ -185,3 +168,34 @@ tags:
 3. **「<ruby>結婚<rt>けっこん</rt></ruby>している」「<ruby>知<rt>し</rt></ruby>っている」「<ruby>持<rt>も</rt></ruby>っている」など、<ruby>結果<rt>けっか</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>く<ruby>動詞<rt>どうし</rt></ruby>はすべて「〜ている」の<ruby>仲間<rt>なかま</rt></ruby>！**
 
 「<ruby>太<rt>ふと</rt></ruby>る」と「<ruby>太<rt>ふと</rt></ruby>っている」の<ruby>区別<rt>くべつ</rt></ruby>ができるようになると、<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>捉<rt>とら</rt></ruby>え<ruby>方<rt>かた</rt></ruby>（アスペクト）が<ruby>手<rt>て</rt></ruby>に<ruby>取<rt>と</rt></ruby>るようにわかるようになります。<ruby>自信<rt>じしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>使い分<rt>つかいわ</rt></ruby>けてみてくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">太る（ふとる）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>to gain weight (action)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>毎晩甘い夜食を食べていたら、一ヶ月で二キロも太ってしまった。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">太っている（ふとっている）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>to be plump (state)</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>あの公園にいる猫は、近所の人からご飯をもらって丸々と太っている。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">状態（じょうたい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>condition, state</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>薬を飲んで安静にしていたおかげで、熱も下がって健康な状態に戻った。</p>
+    </div>
+  </div>
+</div>

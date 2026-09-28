@@ -40,29 +40,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>湯船<rt>ゆぶね</rt></ruby>（ゆぶね）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：bathtub (in a hot spring or public bath)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>温泉<rt>おんせん</rt></ruby>の<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>肩<rt>かた</rt></ruby>まで<ruby>浸<rt>つ</rt></ruby>かって、<ruby>旅<rt>たび</rt></ruby>の<ruby>疲<rt>つか</rt></ruby>れをじっくり<ruby>癒<rt>い</rt></ruby>やした。
-* **<ruby>掛<rt>か</rt></ruby>け<ruby>湯<rt>ゆ</rt></ruby>（かけゆ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：pouring hot water over oneself before entering the bath
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、お<ruby>湯<rt>ゆ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>を<ruby>慣<rt>な</rt></ruby>らすため<ruby>掛<rt>か</rt></ruby>け<ruby>湯<rt>ゆ</rt></ruby>をする。
-* **<ruby>洗い場<rt>あらいば</rt></ruby>（あらいば）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：washing area (with mirrors, stools, and showers)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>洗い場<rt>あらいば</rt></ruby>の<ruby>椅子<rt>いす</rt></ruby>や<ruby>洗面<rt>せんめん</rt></ruby><ruby>器<rt>き</rt></ruby>は、<ruby>使<rt>つか</rt></ruby>い<ruby>終<rt>お</rt></ruby>わったら<ruby>綺麗<rt>きれい</rt></ruby>にお<ruby>湯<rt>ゆ</rt></ruby>で<ruby>流<rt>なが</rt></ruby>しておく。
-* **<ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>（だついじょ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：changing room, dressing room
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>服<rt>ふく</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでロッカーに<ruby>入<rt>い</rt></ruby>れ、<ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>から<ruby>浴室<rt>よくしつ</rt></ruby>へと<ruby>向<rt>む</rt></ruby>かう。
-* **<ruby>浸<rt>つ</rt></ruby>かる（つかる）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：to soak, to be submerged
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>熱<rt>あつ</rt></ruby>いお<ruby>湯<rt>ゆ</rt></ruby>にじっくり<ruby>浸<rt>つ</rt></ruby>かると、<ruby>血行<rt>けっこう</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くなって<ruby>体<rt>からだ</rt></ruby>が<ruby>温<rt>あたた</rt></ruby>まる。
-* **のぼせる（のぼせる）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：to feel dizzy/flushed from a hot bath
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>長<rt>ちょう</rt></ruby><ruby>風呂<rt>ふろ</rt></ruby>をしすぎて<ruby>頭<rt>あたま</rt></ruby>がクラクラし、のぼせてしまった。
-
 ---
 
 ## 1. なぜダメ？ <ruby>温泉<rt>おんせん</rt></ruby>の「3<ruby>大<rt>だい</rt></ruby>タブー」とその<ruby>理由<rt>りゆう</rt></ruby>
@@ -207,3 +184,34 @@ tags:
 6. **お<ruby>風呂<rt>ふろ</rt></ruby><ruby>上<rt>あ</rt></ruby>がりは「<ruby>腰<rt>こし</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>当<rt>あ</rt></ruby>てて<ruby>瓶<rt>びん</rt></ruby>のコーヒー<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>」で<ruby>優勝<rt>ゆうしょう</rt></ruby>！**
 
 <ruby>裸<rt>はだか</rt></ruby>の<ruby>付き合<rt>つきあ</rt></ruby>いを<ruby>通<rt>つう</rt></ruby>じて、<ruby>日頃<rt>ひごろ</rt></ruby>のストレスや<ruby>肩書<rt>かたが</rt></ruby>きを<ruby>忘<rt>わす</rt></ruby>れ、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>平等<rt>びょうどう</rt></ruby>に<ruby>癒<rt>い</rt></ruby>やされる<ruby>場所<rt>ばしょ</rt></ruby>。それが<ruby>日本<rt>にほん</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby>です。マナーを<ruby>守<rt>まも</rt></ruby>って、<ruby>日本<rt>にほん</rt></ruby>が<ruby>誇<rt>ほこ</rt></ruby>る<ruby>極楽<rt>ごくらく</rt></ruby>の<ruby>湯<rt>ゆ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>ゆくまで<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">温泉（おんせん）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>hot spring</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>旅行で箱根の温泉に行き、露天風呂でゆっくりと疲れを癒やした。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">湯船（ゆぶね）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>bathtub</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>体を石鹸で洗ってから湯船に入るのが、日本の温泉の基本マナーです。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">脱衣所（だついじょ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>dressing room</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>お風呂から上がる前に、脱衣所の手前で体をタオルでよく拭く。</p>
+    </div>
+  </div>
+</div>

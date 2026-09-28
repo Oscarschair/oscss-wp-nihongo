@@ -2,7 +2,7 @@
 title: "ことばのあや：日本人が1日に100回言う「すみません」の7つの顔｜謝罪・感謝・呼び止め・挨拶！なぜありがとうの代わりに謝るのか？日本人の心理構造完全解剖"
 
 description: "エレベーターのドアを開けてもらった時、親切にしてもらった時に日本人が口にする『あ、すみません！』。親切にされたのになぜ謝るの！？『ごめんなさい』『ありがとう』『あのー』『失礼します』と万能に化ける魔法の言葉『すみません』の深層心理から、ビジネスで使える上位互換敬語まで徹底解説！"
-slug: "kotoba-no-aya-the-seven-faces-of-sumimasen-apology-thanks-call"
+slug: "kotoba-no-aya-the-seven-faces-of-sumimasen"
 date: "2026-09-19T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-sumimasen-faces.jpg"
 categories:
@@ -36,29 +36,6 @@ tags:
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>不思議<rt>ふしぎ</rt></ruby>に<ruby>思<rt>おも</rt></ruby>う「すみませんの7つの<ruby>顔<rt>かお</rt></ruby>」と、その<ruby>奥<rt>おく</rt></ruby>にある<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>繊細<rt>せんさい</rt></ruby>な<ruby>心理<rt>しんり</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby>を<ruby>完全<rt>かんぜん</rt></ruby><ruby>解き明<rt>ときあ</rt></ruby>かします！
 
 ---
-
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>済<rt>す</rt></ruby>む（すむ）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：to finish, to be resolved, to feel at ease
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>大事<rt>だいじ</rt></ruby>な<ruby>用事<rt>ようじ</rt></ruby>が<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>済<rt>す</rt></ruby>み、<ruby>肩<rt>かた</rt></ruby>の<ruby>荷<rt>に</rt></ruby>が<ruby>下<rt>お</rt></ruby>りた。
-* **<ruby>配慮<rt>はいりょ</rt></ruby>（はいりょ）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：consideration, thoughtfulness, concern
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人々<rt>ひとびと</rt></ruby>への<ruby>細<rt>こま</rt></ruby>やかな<ruby>配慮<rt>はいりょ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れないように<ruby>行動<rt>こうどう</rt></ruby>する。
-* **<ruby>恐縮<rt>きょうしゅく</rt></ruby>（きょうしゅく）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：feeling obliged, being grateful with humility
-* <ruby>例文<rt>れいぶん</rt></ruby>：お<ruby>忙<rt>いそが</rt></ruby>しい<ruby>中<rt>ちゅう</rt></ruby>わざわざお<ruby>越<rt>こ</rt></ruby>しいただき、<ruby>大変<rt>たいへん</rt></ruby><ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます。
-* **<ruby>申し訳<rt>もうしわけ</rt></ruby>ない（もうしわけない）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：inexcusable, deeply sorry
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>私<rt>わたし</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>でご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけし、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>申し訳<rt>もうしわけ</rt></ruby>ありませんでした。
-* **<ruby>感謝<rt>かんしゃ</rt></ruby>（かんしゃ）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：gratitude, appreciation, thanks
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>長年<rt>ながねん</rt></ruby><ruby>支<rt>ささ</rt></ruby>えてくれた<ruby>家族<rt>かぞく</rt></ruby>と<ruby>恩師<rt>おんし</rt></ruby>に、<ruby>心<rt>こころ</rt></ruby>からの<ruby>感謝<rt>かんしゃ</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>える。
-* **<ruby>恩義<rt>おんぎ</rt></ruby>（おんぎ）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：favor, debt of gratitude, obligation
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>受<rt>う</rt></ruby>けた<ruby>恩義<rt>おんぎ</rt></ruby>には<ruby>必<rt>かなら</rt></ruby>ず<ruby>報<rt>むく</rt></ruby>いなければならない。
 
 ---
 
@@ -201,3 +178,34 @@ tags:
 5. **ただしビジネスでは「<ruby>申し訳<rt>もうしわけ</rt></ruby>ございません」「<ruby>恐縮<rt>きょうしゅく</rt></ruby>です」にアップグレード！**
 
 「すみません」という<ruby>言葉<rt>ことば</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>にある「<ruby>相手<rt>あいて</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>への<ruby>細<rt>こま</rt></ruby>やかな<ruby>配慮<rt>はいりょ</rt></ruby>」を<ruby>理解<rt>りかい</rt></ruby>すれば、<ruby>日本<rt>にほん</rt></ruby>での<ruby>人付き合<rt>ひとづきあ</rt></ruby>いは<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>温<rt>あたた</rt></ruby>かく、<ruby>心地<rt>ここち</rt></ruby>よいものになりますよ！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">謝罪（しゃざい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>apology</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>相手の足を踏んでしまったときは、すぐに「すみません」と謝罪する。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">感謝（かんしゃ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>thanks, gratitude</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>落としたハンカチを拾ってくれた親切な人に、「すみません」とお礼を言った。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">呼びかけ（よびかけ）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>calling out</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>居酒屋で忙しそうな店員さんを呼ぶときは、「すみません」と呼びかける。</p>
+    </div>
+  </div>
+</div>

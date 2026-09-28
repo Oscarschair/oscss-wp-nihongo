@@ -40,23 +40,6 @@ tags:
 
 ---
 
-## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
-
-この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
-
-* **<ruby>結構<rt>けっこう</rt></ruby>（けっこう）** 【JLPT N3】
-* <ruby>意味<rt>いみ</rt></ruby>：splendid, fine, sufficient / no thank you
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>相手<rt>あいて</rt></ruby>の<ruby>好意<rt>こうい</rt></ruby>を<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>断<rt>ことわ</rt></ruby>る<ruby>際<rt>さい</rt></ruby>、「お<ruby>気持<rt>きも</rt></ruby>ちだけで<ruby>結構<rt>けっこう</rt></ruby>です」と<ruby>伝<rt>つた</rt></ruby>える。
-* **<ruby>辞退<rt>じたい</rt></ruby>（じたい）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：declining, refusal, stepping back
-* <ruby>例文<rt>れいぶん</rt></ruby>：せっかくのお<ruby>誘<rt>さそ</rt></ruby>いでしたが、<ruby>先約<rt>せんやく</rt></ruby>があったため<ruby>今回<rt>こんかい</rt></ruby>は<ruby>辞退<rt>じたい</rt></ruby>させていただいた。
-* **<ruby>充足<rt>じゅうそく</rt></ruby>（じゅうそく）** 【JLPT N1】
-* <ruby>意味<rt>いみ</rt></ruby>：sufficiency, being full/satisfied
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>現在<rt>げんざい</rt></ruby>の<ruby>設備<rt>せつび</rt></ruby>で<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>充足<rt>じゅうそく</rt></ruby>しているため、<ruby>追加<rt>ついか</rt></ruby>の<ruby>購入<rt>こうにゅう</rt></ruby>は<ruby>必要<rt>ひつよう</rt></ruby>ない。
-* **クッション<ruby>言葉<rt>ことば</rt></ruby>（くっしょんことば）** 【JLPT N2】
-* <ruby>意味<rt>いみ</rt></ruby>：cushion words (softening expressions used before asking or refusing)
-* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>相手<rt>あいて</rt></ruby>に<ruby>角<rt>かく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てずに<ruby>断<rt>ことわ</rt></ruby>るために、<ruby>適切<rt>てきせつ</rt></ruby>なクッション<ruby>言葉<rt>ことば</rt></ruby>を<ruby>添<rt>そ</rt></ruby>えるのが<ruby>大人<rt>おとな</rt></ruby>のマナーです。
-
 ---
 
 ## 1. なぜ「<ruby>結構<rt>けっこう</rt></ruby>」は「YES」と「NO」の<ruby>両方<rt>りょうほう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>われるのか？
@@ -166,3 +149,34 @@ tags:
 4. **<ruby>部下<rt>ぶか</rt></ruby>から<ruby>上司<rt>じょうし</rt></ruby>に「<ruby>結構<rt>けっこう</rt></ruby>です」は<ruby>上<rt>うえ</rt></ruby>から<ruby>目線<rt>めせん</rt></ruby>になるので<ruby>絶対<rt>ぜったい</rt></ruby>NG！**
 
 <ruby>言葉<rt>ことば</rt></ruby>の<ruby>二<rt>に</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>すると、<ruby>相手<rt>あいて</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>にある「<ruby>気遣<rt>きづか</rt></ruby>い」や「<ruby>遠慮<rt>えんりょ</rt></ruby>の<ruby>美学<rt>びがく</rt></ruby>」が<ruby>見<rt>み</rt></ruby>えてきます。「<ruby>結構<rt>けっこう</rt></ruby>です」を<ruby>恐<rt>おそ</rt></ruby>れず、<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>繊細<rt>せんさい</rt></ruby>なコミュニケーションを<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
+
+<div class="c-vocab-box">
+  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <div class="c-vocab-grid">
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">結構です（けっこうです）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>no thank you / that is fine</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>「レジ袋をお付けしますか」と聞かれ、手を軽く振って「結構です」と断った。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">承諾（しょうだく）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>consent, agreement</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>企画の変更を上司に相談したところ、快く承諾してもらえた。</p>
+    </div>
+    <div class="c-vocab-card">
+      <div class="c-vocab-card__header">
+        <span class="c-vocab-card__word">辞退（じたい）</span>
+        <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
+      </div>
+      <p class="c-vocab-card__meaning"><strong>意味：</strong>declining, refusal</p>
+      <p class="c-vocab-card__example"><strong>例文：</strong>せっかく推薦をいただいたが、今回は都合により辞退することにした。</p>
+    </div>
+  </div>
+</div>
