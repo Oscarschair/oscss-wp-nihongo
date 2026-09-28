@@ -1,5 +1,6 @@
 ---
-title: "ことばのあや：久しぶりに会った日本人が口にする「その節はどうも」の謎｜『その節』って具体的にいつ！？過去の恩義をフワッと包み込む大人の挨拶完全攻略"
+title: "ことばのあや：<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会<rt>あ</rt></ruby>った<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>口<rt>くち</rt></ruby>にする「その<ruby>節<rt>ふし</rt></ruby>はどうも」の<ruby>謎<rt>なぞ</rt></ruby>｜『その<ruby>節<rt>ふし</rt></ruby>』って<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>にいつ！？<ruby>過去<rt>かこ</rt></ruby>の<ruby>恩義<rt>おんぎ</rt></ruby>をフワッと<ruby>包み込<rt>つつみこ</rt></ruby>む<ruby>大人<rt>おとな</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>"
+
 description: "数ヶ月ぶり、あるいは数年ぶりに再会した仕事相手や知人から『あ、クルマさん！ その節はどうも！』と頭を下げられてパニック！？『その節って具体的にいつのこと！？何のお礼！？』と記憶喪失に陥る外国人多数！日本の人間関係を円滑にする『その節』の魔法の役割からビジネスでの再会プロトコルまで徹底解説！"
 slug: "kotoba-no-aya-sonosetsu-wa-doumo-thanks-and-apology"
 date: "2026-09-20T08:00:00+09:00"
@@ -13,60 +14,59 @@ tags:
   - 挨拶・マナー
   - JLPT N1
 ---
+<ruby>日本<rt>にほん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いていると、<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>の<ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>や、<ruby>以前<rt>いぜん</rt></ruby>のプロジェクトで<ruby>一緒<rt>いっしょ</rt></ruby>だった<ruby>同僚<rt>どうりょう</rt></ruby>とバッタリ<ruby>再会<rt>さいかい</rt></ruby>する<ruby>場面<rt>ばめん</rt></ruby>がよくあります。
 
-日本で働いていると、取引先の担当者や、以前のプロジェクトで一緒だった同僚とバッタリ再会する場面がよくあります。
+そのとき、<ruby>相手<rt>あいて</rt></ruby>が<ruby>満面<rt>まんめん</rt></ruby>の<ruby>笑<rt>え</rt></ruby>みでペコッと<ruby>頭<rt>あたま</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げながら<ruby>放<rt>はな</rt></ruby>つ、**「<ruby>謎<rt>なぞ</rt></ruby>の<ruby>決<rt>き</rt></ruby>まり<ruby>文句<rt>もんく</rt></ruby>」**があります。
 
-そのとき、相手が満面の笑みでペコッと頭を下げながら放つ、**「謎の決まり文句」**があります。
+それが、**「その<ruby>節<rt>ふし</rt></ruby>はどうも！」**です！
 
-それが、**「その節はどうも！」**です！
+ある<ruby>日<rt>ひ</rt></ruby>、<ruby>業界<rt>ぎょうかい</rt></ruby>の<ruby>交流<rt>こうりゅう</rt></ruby><ruby>会<rt>かい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>したクルマの<ruby>体験<rt>たいけん</rt></ruby>を<ruby>見<rt>み</rt></ruby>てみましょう。
 
-ある日、業界の交流会に参加したクルマの体験を見てみましょう。
-
-> 🤝 **取引先の佐藤さん**：「ああっ、クルマさん！ ご無沙汰しております！ **『その節はどうもありがとうございました！』**」  
-> 🚗 **クルマ**：「（えっ……！？ 佐藤さん……！？ その節って……いつ！？ 3ヶ月前の飲み会？ それとも半年前の見積書の提出？ それとも1年前に廊下ですれ違ったとき！？）……あ、あ、はい！ こちらこそ、その節はどうも……！（冷や汗タラタラ）」  
+> 🤝 **<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>の<ruby>佐藤<rt>さとう</rt></ruby>さん**：「ああっ、クルマさん！ ご<ruby>無沙汰<rt>ぶさた</rt></ruby>しております！ **『その<ruby>節<rt>ふし</rt></ruby>はどうもありがとうございました！』**」
+> 🚗 **クルマ**：「（えっ……！？ <ruby>佐藤<rt>さとう</rt></ruby>さん……！？ その<ruby>節<rt>ふし</rt></ruby>って……いつ！？ 3<ruby>ヶ月<rt>かげつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>会<rt>かい</rt></ruby>？ それとも<ruby>半年<rt>はんとし</rt></ruby><ruby>前<rt>まえ</rt></ruby>の<ruby>見積<rt>みつもり</rt></ruby><ruby>書<rt>しょ</rt></ruby>の<ruby>提出<rt>ていしゅつ</rt></ruby>？ それとも1<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>廊下<rt>ろうか</rt></ruby>ですれ<ruby>違<rt>ちが</rt></ruby>ったとき！？）……あ、あ、はい！ こちらこそ、その<ruby>節<rt>ふし</rt></ruby>はどうも……！（<ruby>冷や汗<rt>ひやあせ</rt></ruby>タラタラ）」
 > 
-> 佐藤さんと別れた後、田中先輩に駆け寄るクルマ。  
+> <ruby>佐藤<rt>さとう</rt></ruby>さんと<ruby>別<rt>わか</rt></ruby>れた<ruby>後<rt>のち</rt></ruby>、<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>駆け寄<rt>かけよ</rt></ruby>るクルマ。
 > 
-> 🚗 **クルマ**：「先輩助けてください！ 佐藤さんに『その節はどうも』ってお礼を言われたんですけど、私、佐藤さんに具体的に何をしてあげたのか全然思い出せません！ 失礼なことをしてしまったでしょうか！？」  
-> 👔 **田中先輩**：「あはは、クルマくん大丈夫だよ！ 佐藤さんも具体的に何の件か特定して言ってるわけじゃないんだから！」  
-> 🚗 **クルマ**：「えええっ！？ 何のお礼か自分でも分かってないのに『どうもありがとう』って言ってるんですか！？ なんでそんな曖昧な言葉を使うんですかーーーっ！？」
+> 🚗 **クルマ**：「<ruby>先輩<rt>せんぱい</rt></ruby><ruby>助<rt>たす</rt></ruby>けてください！ <ruby>佐藤<rt>さとう</rt></ruby>さんに『その<ruby>節<rt>ふし</rt></ruby>はどうも』ってお<ruby>礼<rt>れい</rt></ruby>を<ruby>言<rt>い</rt></ruby>われたんですけど、<ruby>私<rt>わたし</rt></ruby>、<ruby>佐藤<rt>さとう</rt></ruby>さんに<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>何<rt>なに</rt></ruby>をしてあげたのか<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>思い出<rt>おもいだ</rt></ruby>せません！ <ruby>失礼<rt>しつれい</rt></ruby>なことをしてしまったでしょうか！？」
+> 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「あはは、クルマくん<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だよ！ <ruby>佐藤<rt>さとう</rt></ruby>さんも<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>何<rt>なに</rt></ruby>の<ruby>件<rt>けん</rt></ruby>か<ruby>特定<rt>とくてい</rt></ruby>して<ruby>言<rt>い</rt></ruby>ってるわけじゃないんだから！」
+> 🚗 **クルマ**：「えええっ！？ <ruby>何<rt>なに</rt></ruby>のお<ruby>礼<rt>れい</rt></ruby>か<ruby>自分<rt>じぶん</rt></ruby>でも<ruby>分<rt>わ</rt></ruby>かってないのに『どうもありがとう』って<ruby>言<rt>い</rt></ruby>ってるんですか！？ なんでそんな<ruby>曖昧<rt>あいまい</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うんですかーーーっ！？」
 
-英語なら「Thanks for your help with the project last month!」のように「いつ、何の件で助けてもらったか」を明確に言うのが自然です。
+<ruby>英語<rt>えいご</rt></ruby>なら「Thanks for your help with the project last month!」のように「いつ、<ruby>何<rt>なに</rt></ruby>の<ruby>件<rt>けん</rt></ruby>で<ruby>助<rt>たす</rt></ruby>けてもらったか」を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>言<rt>い</rt></ruby>うのが<ruby>自然<rt>しぜん</rt></ruby>です。
 
-しかし日本語では、あえて具体的な事実を言わず、**「その節（そのせつ）」**というフワッとした言葉で包み込むのが、最高峰の大人のビジネスマナーとされています。
+しかし<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>では、あえて<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>事実<rt>じじつ</rt></ruby>を<ruby>言<rt>い</rt></ruby>わず、**「その<ruby>節<rt>ふし</rt></ruby>（そのせつ）」**というフワッとした<ruby>言葉<rt>ことば</rt></ruby>で<ruby>包み込<rt>つつみこ</rt></ruby>むのが、<ruby>最高峰<rt>さいこうほう</rt></ruby>の<ruby>大人<rt>おとな</rt></ruby>のビジネスマナーとされています。
 
-今回は、頭を抱えてしまいがちな「その節はどうも」の深層心理と、ビジネスで使える美しい再会フレーズ集をお届けします！
+<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>頭<rt>あたま</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>えてしまいがちな「その<ruby>節<rt>ふし</rt></ruby>はどうも」の<ruby>深層<rt>しんそう</rt></ruby><ruby>心理<rt>しんり</rt></ruby>と、ビジネスで<ruby>使<rt>つか</rt></ruby>える<ruby>美<rt>うつく</rt></ruby>しい<ruby>再会<rt>さいかい</rt></ruby>フレーズ<ruby>集<rt>しゅう</rt></ruby>をお<ruby>届<rt>とど</rt></ruby>けします！
 
 ---
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **その節（そのせつ）** 【JLPT N1】
-  * 意味：at that time, on that occasion
-  * 例文：その節は大変お世話になり、心より感謝申し上げます。
-* **ご無沙汰（ごぶさた）** 【JLPT N2】
-  * 意味：not being in touch for a long time
-  * 例文：大変ご無沙汰しておりますが、皆様お変わりございませんでしょうか。
-* **恩義（おんぎ）** 【JLPT N1】
-  * 意味：favor, debt of gratitude
-  * 例文：困っていた時に助けていただいた恩義は、一生忘れません。
-* **配慮（はいりょ）** 【JLPT N2】
-  * 意味：consideration, thoughtfulness
-  * 例文：相手に余計な気を使わせないよう、言葉の選び方に配慮する。
-* **再会（さいかい）** 【JLPT N2】
-  * 意味：reunion, meeting again
-  * 例文：大学卒業以来、10年ぶりの再会を果たした。
-* **社交辞令（しゃこうじれい）** 【JLPT N1】
-  * 意味：diplomatic flattery, social courtesy / polite compliment
-  * 例文：「今度ぜひご飯でも」というのは、大人の社交辞令の一つだ。
+* **その<ruby>節<rt>ふし</rt></ruby>（そのせつ）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：at that time, on that occasion
+* <ruby>例文<rt>れいぶん</rt></ruby>：その<ruby>節<rt>ふし</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になり、<ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます。
+* **ご<ruby>無沙汰<rt>ぶさた</rt></ruby>（ごぶさた）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：not being in touch for a long time
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>大変<rt>たいへん</rt></ruby>ご<ruby>無沙汰<rt>ぶさた</rt></ruby>しておりますが、<ruby>皆様<rt>みなさま</rt></ruby>お<ruby>変<rt>か</rt></ruby>わりございませんでしょうか。
+* **<ruby>恩義<rt>おんぎ</rt></ruby>（おんぎ）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：favor, debt of gratitude
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>困<rt>こま</rt></ruby>っていた<ruby>時<rt>とき</rt></ruby>に<ruby>助<rt>たす</rt></ruby>けていただいた<ruby>恩義<rt>おんぎ</rt></ruby>は、<ruby>一生<rt>いっしょう</rt></ruby><ruby>忘<rt>わす</rt></ruby>れません。
+* **<ruby>配慮<rt>はいりょ</rt></ruby>（はいりょ）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：consideration, thoughtfulness
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>相手<rt>あいて</rt></ruby>に<ruby>余計<rt>よけい</rt></ruby>な<ruby>気<rt>き</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わせないよう、<ruby>言葉<rt>ことば</rt></ruby>の<ruby>選び方<rt>えらびかた</rt></ruby>に<ruby>配慮<rt>はいりょ</rt></ruby>する。
+* **<ruby>再会<rt>さいかい</rt></ruby>（さいかい）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：reunion, meeting again
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>大学<rt>だいがく</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby><ruby>以来<rt>いらい</rt></ruby>、10<ruby>年<rt>ねん</rt></ruby>ぶりの<ruby>再会<rt>さいかい</rt></ruby>を<ruby>果<rt>は</rt></ruby>たした。
+* **<ruby>社交<rt>しゃこう</rt></ruby><ruby>辞令<rt>じれい</rt></ruby>（しゃこうじれい）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：diplomatic flattery, social courtesy / polite compliment
+* <ruby>例文<rt>れいぶん</rt></ruby>：「<ruby>今度<rt>こんど</rt></ruby>ぜひご<ruby>飯<rt>はん</rt></ruby>でも」というのは、<ruby>大人<rt>おとな</rt></ruby>の<ruby>社交<rt>しゃこう</rt></ruby><ruby>辞令<rt>じれい</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つだ。
 
 ---
 
-## 1. 「その節」とは何なのか？ 漢字と意味の解剖
+## 1. 「その<ruby>節<rt>ふし</rt></ruby>」とは<ruby>何<rt>なに</rt></ruby>なのか？ <ruby>漢字<rt>かんじ</rt></ruby>と<ruby>意味<rt>いみ</rt></ruby>の<ruby>解剖<rt>かいぼう</rt></ruby>
 
-「節（せつ）」という漢字には、「季節（きせつ）」「節目（ふしめ）」のように**「時間の区切り、特別なタイミング」**という意味があります。
+「<ruby>節<rt>ふし</rt></ruby>（せつ）」という<ruby>漢字<rt>かんじ</rt></ruby>には、「<ruby>季節<rt>きせつ</rt></ruby>（きせつ）」「<ruby>節目<rt>ふしめ</rt></ruby>（ふしめ）」のように**「<ruby>時間<rt>じかん</rt></ruby>の<ruby>区切<rt>くぎ</rt></ruby>り、<ruby>特別<rt>とくべつ</rt></ruby>なタイミング」**という<ruby>意味<rt>いみ</rt></ruby>があります。
 
 ```
 【「その節」の構造】
@@ -77,18 +77,18 @@ tags:
 「その節」＝【 あの時（あの機会）には 】
 ```
 
-つまり、「その節はどうも」とは、直訳すれば**「あの機会には、どうもお世話になりました（ありがとうございました）」**という意味になります。
+つまり、「その<ruby>節<rt>ふし</rt></ruby>はどうも」とは、<ruby>直訳<rt>ちょくやく</rt></ruby>すれば**「あの<ruby>機会<rt>きかい</rt></ruby>には、どうもお<ruby>世話<rt>せわ</rt></ruby>になりました（ありがとうございました）」**という<ruby>意味<rt>いみ</rt></ruby>になります。
 
-### なぜ具体的な内容を言わないのか？
-日本文化には**「言わぬが花」「阿吽の呼吸（あうんのこきゅう）」**という美徳があります。
-「〇月〇日のプロジェクトのトラブルで助けてもらった件」と具体的に言ってしまうと、かえって生々しく恩着せがましく聞こえたり、「過去の失敗」を思い出させてしまうリスクがあります。
-あえて「その節」と抽象化することで、**「過去のあらゆるお世話やお付き合いに対する総合的な感謝」**をスマートに伝えることができるのです！
+### なぜ<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>内容<rt>ないよう</rt></ruby>を<ruby>言<rt>い</rt></ruby>わないのか？
+<ruby>日本<rt>にほん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>には**「<ruby>言<rt>い</rt></ruby>わぬが<ruby>花<rt>はな</rt></ruby>」「<ruby>阿吽<rt>あうん</rt></ruby>の<ruby>呼吸<rt>こきゅう</rt></ruby>（あうんのこきゅう）」**という<ruby>美徳<rt>びとく</rt></ruby>があります。
+「〇<ruby>月<rt>つき</rt></ruby>〇<ruby>日<rt>にち</rt></ruby>のプロジェクトのトラブルで<ruby>助<rt>たす</rt></ruby>けてもらった<ruby>件<rt>けん</rt></ruby>」と<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>言<rt>い</rt></ruby>ってしまうと、かえって<ruby>生々<rt>なまなま</rt></ruby>しく<ruby>恩<rt>おん</rt></ruby><ruby>着<rt>き</rt></ruby>せがましく<ruby>聞<rt>き</rt></ruby>こえたり、「<ruby>過去<rt>かこ</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>」を<ruby>思い出<rt>おもいだ</rt></ruby>させてしまうリスクがあります。
+あえて「その<ruby>節<rt>ふし</rt></ruby>」と<ruby>抽象<rt>ちゅうしょう</rt></ruby><ruby>化<rt>か</rt></ruby>することで、**「<ruby>過去<rt>かこ</rt></ruby>のあらゆるお<ruby>世話<rt>せわ</rt></ruby>やお<ruby>付き合<rt>つきあ</rt></ruby>いに<ruby>対<rt>たい</rt></ruby>する<ruby>総合<rt>そうごう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>感謝<rt>かんしゃ</rt></ruby>」**をスマートに<ruby>伝<rt>つた</rt></ruby>えることができるのです！
 
 ---
 
-## 2. 久しぶりに再会した時の「大人の挨拶プロトコル」
+## 2. <ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>再会<rt>さいかい</rt></ruby>した<ruby>時<rt>とき</rt></ruby>の「<ruby>大人<rt>おとな</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>プロトコル」
 
-久しぶりに人と会ったとき、挨拶には決まった「黄金の4ステップ」があります。この順番通りに言葉を紡ぐだけで、完璧なビジネスパーソンに見えます！
+<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>人<rt>ひと</rt></ruby>と<ruby>会<rt>あ</rt></ruby>ったとき、<ruby>挨拶<rt>あいさつ</rt></ruby>には<ruby>決<rt>き</rt></ruby>まった「<ruby>黄金<rt>おうごん</rt></ruby>の4ステップ」があります。この<ruby>順番<rt>じゅんばん</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>言葉<rt>ことば</rt></ruby>を<ruby>紡<rt>つむ</rt></ruby>ぐだけで、<ruby>完璧<rt>かんぺき</rt></ruby>なビジネスパーソンに<ruby>見<rt>み</rt></ruby>えます！
 
 ```
 ［再会の黄金プロトコル］
@@ -108,48 +108,48 @@ tags:
 
 ---
 
-## 3. ビジネスメールで使える！「その節」の洗練表現集
+## 3. ビジネスメールで<ruby>使<rt>つか</rt></ruby>える！「その<ruby>節<rt>ふし</rt></ruby>」の<ruby>洗練<rt>せんれん</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby><ruby>集<rt>しゅう</rt></ruby>
 
-口頭だけでなく、ビジネスメールで久しぶりに連絡を取る際にも「その節」は大活躍します。
+<ruby>口頭<rt>こうとう</rt></ruby>だけでなく、ビジネスメールで<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>る<ruby>際<rt>さい</rt></ruby>にも「その<ruby>節<rt>ふし</rt></ruby>」は<ruby>大<rt>だい</rt></ruby><ruby>活躍<rt>かつやく</rt></ruby>します。
 
-| フレーズ | 使うシチュエーション | 込められた意味 |
+| フレーズ |<ruby>使<rt>つか</rt></ruby>うシチュエーション|<ruby>込<rt>こ</rt></ruby>められた<ruby>意味<rt>いみ</rt></ruby>|
 | :--- | :--- | :--- |
-| **その節は大変お世話になりました。** | 前回の打ち合わせや商談から数ヶ月経ってメールする時 | 基本の丁寧な感謝表現 |
-| **その節は温かいお心遣いをいただき、心より感謝申し上げます。** | 個人的な相談に乗ってもらったり、食事をご馳走になった後 | より深い感謝を込める時 |
-| **その節は私の不手際でご迷惑をおかけし、申し訳ございませんでした。** | 過去のミスやトラブルについて、再会時にもう一度軽くお詫びする時 | 誠実な反省と大人の礼儀 |
-| **その節はお力添えをいただき、誠にありがとうございました。** | プロジェクトの危機を助けてもらった先輩や取引先へ | 相手の実力と協力への敬意 |
+|**その<ruby>節<rt>ふし</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になりました。**|<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>打ち合<rt>うちあ</rt></ruby>わせや<ruby>商談<rt>しょうだん</rt></ruby>から<ruby>数<rt>すう</rt></ruby><ruby>ヶ月<rt>かげつ</rt></ruby><ruby>経<rt>た</rt></ruby>ってメールする<ruby>時<rt>とき</rt></ruby>|<ruby>基本<rt>きほん</rt></ruby>の<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>|
+|**その<ruby>節<rt>ふし</rt></ruby>は<ruby>温<rt>あたた</rt></ruby>かいお<ruby>心遣<rt>こころづか</rt></ruby>いをいただき、<ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます。**|<ruby>個人<rt>こじん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>相談<rt>そうだん</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ってもらったり、<ruby>食事<rt>しょくじ</rt></ruby>をご<ruby>馳走<rt>ちそう</rt></ruby>になった<ruby>後<rt>のち</rt></ruby>|より<ruby>深<rt>ふか</rt></ruby>い<ruby>感謝<rt>かんしゃ</rt></ruby>を<ruby>込<rt>こ</rt></ruby>める<ruby>時<rt>とき</rt></ruby>|
+|**その<ruby>節<rt>ふし</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>不手際<rt>ふてぎわ</rt></ruby>でご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけし、<ruby>申し訳<rt>もうしわけ</rt></ruby>ございませんでした。**|<ruby>過去<rt>かこ</rt></ruby>のミスやトラブルについて、<ruby>再会<rt>さいかい</rt></ruby><ruby>時<rt>じ</rt></ruby>にもう<ruby>一度<rt>いちど</rt></ruby><ruby>軽<rt>かる</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>びする<ruby>時<rt>とき</rt></ruby>|<ruby>誠実<rt>せいじつ</rt></ruby>な<ruby>反省<rt>はんせい</rt></ruby>と<ruby>大人<rt>おとな</rt></ruby>の<ruby>礼儀<rt>れいぎ</rt></ruby>|
+|**その<ruby>節<rt>ふし</rt></ruby>はお<ruby>力添<rt>ちからぞ</rt></ruby>えをいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。**|プロジェクトの<ruby>危機<rt>きき</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けてもらった<ruby>先輩<rt>せんぱい</rt></ruby>や<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>へ|<ruby>相手<rt>あいて</rt></ruby>の<ruby>実力<rt>じつりょく</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>への<ruby>敬意<rt>けいい</rt></ruby>|
 
 ---
 
-## 4. 時系列と硬さで使い分ける！「過去の挨拶」マトリクス表
+## 4. <ruby>時<rt>とき</rt></ruby><ruby>系列<rt>けいれつ</rt></ruby>と<ruby>硬<rt>かた</rt></ruby>さで<ruby>使い分<rt>つかいわ</rt></ruby>ける！「<ruby>過去<rt>かこ</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>」マトリクス<ruby>表<rt>ひょう</rt></ruby>
 
-「その節」以外にも、過去の出来事に言及する挨拶フレーズはたくさんあります。時系列とフォーマル度で整理しましょう！
+「その<ruby>節<rt>ふし</rt></ruby>」<ruby>以外<rt>いがい</rt></ruby>にも、<ruby>過去<rt>かこ</rt></ruby>の<ruby>出来事<rt>できごと</rt></ruby>に<ruby>言及<rt>げんきゅう</rt></ruby>する<ruby>挨拶<rt>あいさつ</rt></ruby>フレーズはたくさんあります。<ruby>時<rt>とき</rt></ruby><ruby>系列<rt>けいれつ</rt></ruby>とフォーマル<ruby>度<rt>ど</rt></ruby>で<ruby>整理<rt>せいり</rt></ruby>しましょう！
 
-| フレーズ | 時間の目安 | フォーマル度 | 使うシチュエーション |
+| フレーズ |<ruby>時間<rt>じかん</rt></ruby>の<ruby>目安<rt>めやす</rt></ruby>|フォーマル<ruby>度<rt>ど</rt></ruby>|<ruby>使<rt>つか</rt></ruby>うシチュエーション|
 | :--- | :--- | :--- | :--- |
-| **さっきは（先ほどは）** | 数分前〜数時間前 | 中〜高 | 同じ日の会議や電話の直後の会話 |
-| **昨日は（きのうは）** | 昨日 | 中 | 昨日の飲み会や打ち合わせのお礼 |
-| **先日は（せんじつは）** | 数日前〜2週間前 | 中〜高 | 直近の商談やお世話になったお礼 |
-| **この間は（このあいだは）**| 数日前〜数週間前 | 低（口語） | 友達や同僚とのカジュアルな会話 |
-| **その節は（そのせつは）** | 数週間前〜数年前 | 高 | 久しぶりに再会したあらゆる場面 |
-| **過日は（かじつは）** | 数週間前〜数ヶ月前 | 最高（文章語） | 公式のビジネスレター、お礼状 |
+|**さっきは（<ruby>先<rt>さき</rt></ruby>ほどは）**|<ruby>数<rt>すう</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>前<rt>まえ</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>|<ruby>中<rt>なか</rt></ruby>〜<ruby>高<rt>こう</rt></ruby>|<ruby>同<rt>おな</rt></ruby>じ<ruby>日<rt>ひ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>や<ruby>電話<rt>でんわ</rt></ruby>の<ruby>直後<rt>ちょくご</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>|
+|**<ruby>昨日<rt>きのう</rt></ruby>は（きのうは）**|<ruby>昨日<rt>きのう</rt></ruby>|<ruby>中<rt>なか</rt></ruby>|<ruby>昨日<rt>きのう</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>会<rt>かい</rt></ruby>や<ruby>打ち合<rt>うちあ</rt></ruby>わせのお<ruby>礼<rt>れい</rt></ruby>|
+|**<ruby>先日<rt>せんじつ</rt></ruby>は（せんじつは）**|<ruby>数<rt>すう</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>前<rt>まえ</rt></ruby>〜2<ruby>週間<rt>しゅうかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>|<ruby>中<rt>なか</rt></ruby>〜<ruby>高<rt>こう</rt></ruby>|<ruby>直近<rt>ちょっきん</rt></ruby>の<ruby>商談<rt>しょうだん</rt></ruby>やお<ruby>世話<rt>せわ</rt></ruby>になったお<ruby>礼<rt>れい</rt></ruby>|
+|**この<ruby>間<rt>かん</rt></ruby>は（このあいだは）**|<ruby>数<rt>すう</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>前<rt>まえ</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>|<ruby>低<rt>てい</rt></ruby>（<ruby>口語<rt>こうご</rt></ruby>）|<ruby>友達<rt>ともだち</rt></ruby>や<ruby>同僚<rt>どうりょう</rt></ruby>とのカジュアルな<ruby>会話<rt>かいわ</rt></ruby>|
+|**その<ruby>節<rt>ふし</rt></ruby>は（そのせつは）**|<ruby>数<rt>すう</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>|<ruby>高<rt>こう</rt></ruby>|<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>再会<rt>さいかい</rt></ruby>したあらゆる<ruby>場面<rt>ばめん</rt></ruby>|
+|**<ruby>過日<rt>かじつ</rt></ruby>は（かじつは）**|<ruby>数<rt>すう</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby><ruby>前<rt>まえ</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>ヶ月<rt>かげつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>|<ruby>最高<rt>さいこう</rt></ruby>（<ruby>文章<rt>ぶんしょう</rt></ruby><ruby>語<rt>ご</rt></ruby>）|<ruby>公式<rt>こうしき</rt></ruby>のビジネスレター、お<ruby>礼状<rt>れいじょう</rt></ruby>|
 
 ---
 
-## 5. 社内チャット（Slack / Teams）でも使える！「その節は」の短縮ワザ
+## 5. <ruby>社内<rt>しゃない</rt></ruby>チャット（Slack / Teams）でも<ruby>使<rt>つか</rt></ruby>える！「その<ruby>節<rt>ふし</rt></ruby>は」の<ruby>短縮<rt>たんしゅく</rt></ruby>ワザ
 
-現代の日本のIT企業やオフィスでは、メールだけでなくチャットツールでも「その節」が大活躍しています。
+<ruby>現代<rt>げんだい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>のIT<ruby>企業<rt>きぎょう</rt></ruby>やオフィスでは、メールだけでなくチャットツールでも「その<ruby>節<rt>ふし</rt></ruby>」が<ruby>大<rt>だい</rt></ruby><ruby>活躍<rt>かつやく</rt></ruby>しています。
 
-* **「田中さん、ご無沙汰しております！ その節はレビューいただきありがとうございました！」**
-* **「先日のリリース対応、大変お疲れ様でした。その節はフォローいただき助かりました！」**
+* **「<ruby>田中<rt>たなか</rt></ruby>さん、ご<ruby>無沙汰<rt>ぶさた</rt></ruby>しております！ その<ruby>節<rt>ふし</rt></ruby>はレビューいただきありがとうございました！」**
+* **「<ruby>先日<rt>せんじつ</rt></ruby>のリリース<ruby>対応<rt>たいおう</rt></ruby>、<ruby>大変<rt>たいへん</rt></ruby>お<ruby>疲れ様<rt>つかれさま</rt></ruby>でした。その<ruby>節<rt>ふし</rt></ruby>はフォローいただき<ruby>助<rt>たす</rt></ruby>かりました！」**
 
-チャットの冒頭に一言添えるだけで、久しぶりにメンション（@）を飛ばすときの心理的ハードルが一気に下がり、相手も気持ちよく返信してくれます！
+チャットの<ruby>冒頭<rt>ぼうとう</rt></ruby>に<ruby>一言<rt>いちげん</rt></ruby><ruby>添<rt>そ</rt></ruby>えるだけで、<ruby>久<rt>ひさ</rt></ruby>しぶりにメンション（@）を<ruby>飛<rt>と</rt></ruby>ばすときの<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby>ハードルが<ruby>一気<rt>いっき</rt></ruby>に<ruby>下<rt>さ</rt></ruby>がり、<ruby>相手<rt>あいて</rt></ruby>も<ruby>気持<rt>きも</rt></ruby>ちよく<ruby>返信<rt>へんしん</rt></ruby>してくれます！
 
 ---
 
-## 6. 理解度チェック！「その節はどうも」実践クイズ
+## 6. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！「その<ruby>節<rt>ふし</rt></ruby>はどうも」<ruby>実践<rt>じっせん</rt></ruby>クイズ
 
-あなたのビジネス日本語力を試す3問クイズです！
+あなたのビジネス<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
 【第1問】
@@ -168,22 +168,22 @@ tags:
 ②「こちらこそ、その節は大変お世話になりました！」
 ```
 
-### 【正解と解説】
-* **第1問の正解：② 不自然**  
-  「その節」はある程度時間が経った過去の出来事に対して使います。昨日のことなら「昨日はありがとうございました」と具体的に言いましょう！
-* **第2問の正解：② 数週間〜数ヶ月以上ぶり**  
-  「無沙汰＝連絡をしないこと」。長期間連絡を取っていなかったことを詫びる言葉です。
-* **第3問の正解：②「こちらこそ、その節は大変お世話になりました！」**  
-  相手の「その節」をそのまま「こちらこそ」で受け止めて返すのが、日本の最も美しく無難な大人のラリーです！
+### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
+* **<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② <ruby>不自然<rt>ふしぜん</rt></ruby>**
+「その<ruby>節<rt>ふし</rt></ruby>」はある<ruby>程度<rt>ていど</rt></ruby><ruby>時間<rt>じかん</rt></ruby>が<ruby>経<rt>た</rt></ruby>った<ruby>過去<rt>かこ</rt></ruby>の<ruby>出来事<rt>できごと</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>使<rt>つか</rt></ruby>います。<ruby>昨日<rt>きのう</rt></ruby>のことなら「<ruby>昨日<rt>きのう</rt></ruby>はありがとうございました」と<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>言<rt>い</rt></ruby>いましょう！
+* **<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② <ruby>数<rt>すう</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>ヶ月<rt>かげつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>ぶり**
+「<ruby>無沙汰<rt>ぶさた</rt></ruby>＝<ruby>連絡<rt>れんらく</rt></ruby>をしないこと」。<ruby>長期間<rt>ちょうきかん</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>っていなかったことを<ruby>詫<rt>わ</rt></ruby>びる<ruby>言葉<rt>ことば</rt></ruby>です。
+* **<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：②「こちらこそ、その<ruby>節<rt>ふし</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になりました！」**
+<ruby>相手<rt>あいて</rt></ruby>の「その<ruby>節<rt>ふし</rt></ruby>」をそのまま「こちらこそ」で<ruby>受け止<rt>うけと</rt></ruby>めて<ruby>返<rt>かえ</rt></ruby>すのが、<ruby>日本<rt>にほん</rt></ruby>の<ruby>最<rt>もっと</rt></ruby>も<ruby>美<rt>うつく</rt></ruby>しく<ruby>無難<rt>ぶなん</rt></ruby>な<ruby>大人<rt>おとな</rt></ruby>のラリーです！
 
 ---
 
-## 7. まとめ：「その節」は過去の絆を瞬時に蘇らせる魔法
+## 7. まとめ：「その<ruby>節<rt>ふし</rt></ruby>」は<ruby>過去<rt>かこ</rt></ruby>の<ruby>絆<rt>きずな</rt></ruby>を<ruby>瞬時<rt>しゅんじ</rt></ruby>に<ruby>蘇<rt>よみがえ</rt></ruby>らせる<ruby>魔法<rt>まほう</rt></ruby>
 
-1. **「その節」は「あの時は（あの機会には）」という意味！**
-2. **具体的な内容をあえて言わずフワッと包むのが日本の大人の配慮！**
-3. **言われたら「こちらこそ、その節はどうも！」とオウム返しで返すのが鉄則！**
-4. **昨日のことには使わない！ 数週間〜数ヶ月のブランクがある時に使う！**
-5. **チャットの冒頭に添えてコミュニケーションの潤滑油にする！**
+1. **「その<ruby>節<rt>ふし</rt></ruby>」は「あの<ruby>時<rt>とき</rt></ruby>は（あの<ruby>機会<rt>きかい</rt></ruby>には）」という<ruby>意味<rt>いみ</rt></ruby>！**
+2. **<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>内容<rt>ないよう</rt></ruby>をあえて<ruby>言<rt>い</rt></ruby>わずフワッと<ruby>包<rt>つつ</rt></ruby>むのが<ruby>日本<rt>にほん</rt></ruby>の<ruby>大人<rt>おとな</rt></ruby>の<ruby>配慮<rt>はいりょ</rt></ruby>！**
+3. **<ruby>言<rt>い</rt></ruby>われたら「こちらこそ、その<ruby>節<rt>ふし</rt></ruby>はどうも！」とオウム<ruby>返<rt>がえ</rt></ruby>しで<ruby>返<rt>かえ</rt></ruby>すのが<ruby>鉄則<rt>てっそく</rt></ruby>！**
+4. **<ruby>昨日<rt>きのう</rt></ruby>のことには<ruby>使<rt>つか</rt></ruby>わない！ <ruby>数<rt>すう</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>ヶ月<rt>かげつ</rt></ruby>のブランクがある<ruby>時<rt>とき</rt></ruby>に<ruby>使<rt>つか</rt></ruby>う！**
+5. **チャットの<ruby>冒頭<rt>ぼうとう</rt></ruby>に<ruby>添<rt>そ</rt></ruby>えてコミュニケーションの<ruby>潤滑<rt>じゅんかつ</rt></ruby><ruby>油<rt>ゆ</rt></ruby>にする！**
 
-言葉の曖昧さは、相手への優しさの裏返し。「その節はどうも」をサラリと使いこなして、日本での人間関係をより豊かで心地よいものに育てていきましょう！
+<ruby>言葉<rt>ことば</rt></ruby>の<ruby>曖昧<rt>あいまい</rt></ruby>さは、<ruby>相手<rt>あいて</rt></ruby>への<ruby>優<rt>やさ</rt></ruby>しさの<ruby>裏返<rt>うらがえ</rt></ruby>し。「その<ruby>節<rt>ふし</rt></ruby>はどうも」をサラリと<ruby>使<rt>つか</rt></ruby>いこなして、<ruby>日本<rt>にほん</rt></ruby>での<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>をより<ruby>豊<rt>ゆた</rt></ruby>かで<ruby>心地<rt>ここち</rt></ruby>よいものに<ruby>育<rt>そだ</rt></ruby>てていきましょう！

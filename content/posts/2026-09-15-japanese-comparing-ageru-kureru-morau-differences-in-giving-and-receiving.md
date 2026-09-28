@@ -26,12 +26,12 @@ description: "英語なら「give」1語で済むのに、日本語ではなぜ�
 ---
 
 
-## 「あげる」「くれる」「もらう」の矢印を完全マスターする物理法則
+## 「あげる」「くれる」「もらう」の<ruby>矢印<rt>やじるし</rt></ruby>を<ruby>完全<rt>かんぜん</rt></ruby>マスターする<ruby>物理<rt>ぶつり</rt></ruby><ruby>法則<rt>ほうそく</rt></ruby>
 
-日本語の授受動詞（もののやり取り）は、英語の「give」や中国語の「給」のように単なる動作を表すのではなく、**「話し手との心理的な距離（ウチとソト）」**を反映する精密なシステムです。
+<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>授受<rt>じゅじゅ</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>（もののやり<ruby>取<rt>と</rt></ruby>り）は、<ruby>英語<rt>えいご</rt></ruby>の「give」や<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>の「<ruby>給<rt>きゅう</rt></ruby>」のように<ruby>単<rt>たん</rt></ruby>なる<ruby>動作<rt>どうさ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すのではなく、**「<ruby>話し手<rt>はなして</rt></ruby>との<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>距離<rt>きょり</rt></ruby>（ウチとソト）」**を<ruby>反映<rt>はんえい</rt></ruby>する<ruby>精密<rt>せいみつ</rt></ruby>なシステムです。
 
-### 迷宮から脱出する「矢印の向き」の絶対ルール
-この3つの動詞は、「矢印が自分に向かっているか、相手に向かっているか」だけで100%区別できます。
+### <ruby>迷宮<rt>めいきゅう</rt></ruby>から<ruby>脱出<rt>だっしゅつ</rt></ruby>する「<ruby>矢印<rt>やじるし</rt></ruby>の<ruby>向<rt>む</rt></ruby>き」の<ruby>絶対<rt>ぜったい</rt></ruby>ルール
+この3つの<ruby>動詞<rt>どうし</rt></ruby>は、「<ruby>矢印<rt>やじるし</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっているか、<ruby>相手<rt>あいて</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっているか」だけで100%<ruby>区別<rt>くべつ</rt></ruby>できます。
 
 ```
 【あげる】（自分 → 相手）
@@ -47,35 +47,35 @@ description: "英語なら「give」1語で済むのに、日本語ではなぜ�
 例：「私は田中さんからプレゼントをもらいました」
 ```
 
-### 💡 外国人が絶対にやってしまうNGパターン
-最も多い間違いが、相手から自分へのプレゼントに対して「あげる」を使ってしまうことです。
-- ❌ **大間違い**: 「先生が私に本を**あげました**」
-  - 👉 これを言うと、「先生を自分より下の存在として扱っている」ように聞こえ、非常に不自然です！
-- ⭕ **正解**: 「先生が私に本を**くださいました**（くれました）」
-- ⭕ **正解**: 「私は先生から本を**いただきました**（もらいました）」
+### 💡 <ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>絶対<rt>ぜったい</rt></ruby>にやってしまうNGパターン
+<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い<ruby>間違<rt>まちが</rt></ruby>いが、<ruby>相手<rt>あいて</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>へのプレゼントに<ruby>対<rt>たい</rt></ruby>して「あげる」を<ruby>使<rt>つか</rt></ruby>ってしまうことです。
+- ❌ **<ruby>大<rt>だい</rt></ruby><ruby>間違<rt>まちが</rt></ruby>い**: 「<ruby>先生<rt>せんせい</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を**あげました**」
+- 👉 これを<ruby>言<rt>い</rt></ruby>うと、「<ruby>先生<rt>せんせい</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>より<ruby>下<rt>した</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>として<ruby>扱<rt>あつか</rt></ruby>っている」ように<ruby>聞<rt>き</rt></ruby>こえ、<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>不自然<rt>ふしぜん</rt></ruby>です！
+- ⭕ **<ruby>正解<rt>せいかい</rt></ruby>**: 「<ruby>先生<rt>せんせい</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を**くださいました**（くれました）」
+- ⭕ **<ruby>正解<rt>せいかい</rt></ruby>**: 「<ruby>私<rt>わたし</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>から<ruby>本<rt>ほん</rt></ruby>を**いただきました**（もらいました）」
 
-#### 敬語への発展形マトリクス
-ビジネスや目上の人との会話では、以下のように敬語へとスライドします：
-- **あげる** → **差し上げる（さしあげる）**
+#### <ruby>敬語<rt>けいご</rt></ruby>への<ruby>発展<rt>はってん</rt></ruby><ruby>形<rt>がた</rt></ruby>マトリクス
+ビジネスや<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>との<ruby>会話<rt>かいわ</rt></ruby>では、<ruby>以下<rt>いか</rt></ruby>のように<ruby>敬語<rt>けいご</rt></ruby>へとスライドします：
+- **あげる** → **<ruby>差し上<rt>さしあ</rt></ruby>げる（さしあげる）**
 - **くれる** → **くださる**
 - **もらう** → **いただく**
 
-「親切にしてもらった恩恵」に対して感謝の矢印を正しく向けること。これこそが、日本語の人間関係を円滑にする最も美しいマナーなのです。
+「<ruby>親切<rt>しんせつ</rt></ruby>にしてもらった<ruby>恩恵<rt>おんけい</rt></ruby>」に<ruby>対<rt>たい</rt></ruby>して<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>矢印<rt>やじるし</rt></ruby>を<ruby>正<rt>ただ</rt></ruby>しく<ruby>向<rt>む</rt></ruby>けること。これこそが、<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>を<ruby>円滑<rt>えんかつ</rt></ruby>にする<ruby>最<rt>もっと</rt></ruby>も<ruby>美<rt>うつく</rt></ruby>しいマナーなのです。
 
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **授受（じゅじゅ）** 【JLPT N1】
-  * 意味：giving and receiving
-  * 例文：「あげる」「くれる」「もらう」は、物の授受を表す重要表現だ。
-* **恩恵（おんけい）** 【JLPT N2】
-  * 意味：grace, favor, blessing
-  * 例文：先輩に親切に教えてもらった恩恵に対して、感謝の気持ちを伝える。
-* **視点（してん）** 【JLPT N1】
-  * 意味：perspective, point of view
-  * 例文：話し手の視点が誰にあるかによって、使う動詞が変化する。
+* **<ruby>授受<rt>じゅじゅ</rt></ruby>（じゅじゅ）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：giving and receiving
+* <ruby>例文<rt>れいぶん</rt></ruby>：「あげる」「くれる」「もらう」は、<ruby>物<rt>もの</rt></ruby>の<ruby>授受<rt>じゅじゅ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>重要<rt>じゅうよう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>だ。
+* **<ruby>恩恵<rt>おんけい</rt></ruby>（おんけい）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：grace, favor, blessing
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えてもらった<ruby>恩恵<rt>おんけい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>える。
+* **<ruby>視点<rt>してん</rt></ruby>（してん）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：perspective, point of view
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>話し手<rt>はなして</rt></ruby>の<ruby>視点<rt>してん</rt></ruby>が<ruby>誰<rt>だれ</rt></ruby>にあるかによって、<ruby>使<rt>つか</rt></ruby>う<ruby>動詞<rt>どうし</rt></ruby>が<ruby>変化<rt>へんか</rt></ruby>する。
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい「くらべてみました」シリーズ

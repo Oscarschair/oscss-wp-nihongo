@@ -25,55 +25,55 @@ description: "教科書で一番最初に習う「さようなら」。でも実
 ---
 
 
-### 💡 シーン別：別れ際の挨拶完全マトリクス
+### 💡 シーン<ruby>別<rt>べつ</rt></ruby>：<ruby>別れ際<rt>わかれぎわ</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby>マトリクス
 
-「さようなら」の代わりに、現代の日本人はどのような表現で別れの挨拶を交わしているのでしょうか？関係性と場面に応じたベストな表現を整理しました。
+「さようなら」の<ruby>代<rt>か</rt></ruby>わりに、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>はどのような<ruby>表現<rt>ひょうげん</rt></ruby>で<ruby>別<rt>わか</rt></ruby>れの<ruby>挨拶<rt>あいさつ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わしているのでしょうか？<ruby>関係<rt>かんけい</rt></ruby><ruby>性<rt>せい</rt></ruby>と<ruby>場面<rt>ばめん</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じたベストな<ruby>表現<rt>ひょうげん</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>しました。
 
-| 相手・シチュエーション | 最も自然な別れ際のフレーズ | 避けるべきNGフレーズ |
+|<ruby>相手<rt>あいて</rt></ruby>・シチュエーション|<ruby>最<rt>もっと</rt></ruby>も<ruby>自然<rt>しぜん</rt></ruby>な<ruby>別れ際<rt>わかれぎわ</rt></ruby>のフレーズ|<ruby>避<rt>さ</rt></ruby>けるべきNGフレーズ|
 | :--- | :--- | :--- |
-| **職場の同僚・先輩へ（退勤時）** | 「**お疲れ様でした〜！お先に失礼します**」 | 「ご苦労様でした」「さようなら」 |
-| **取引先・クライアントへ** | 「**本日はありがとうございました。失礼いたします**」 | 「またね」「さようなら」 |
-| **友人・同級生へ（日常）** | 「**じゃあね！**」「**またね〜！**」「**また明日！**」 | 「さようなら」（よそよそしく感じる） |
-| **しばらく会えない友人へ** | 「**元気でね！**」「**また連絡するね！**」 | 「永遠にさようなら」（不穏） |
-| **学校の先生・教授へ** | 「**先生、ありがとうございました。失礼します**」 | 「バイバイ」「またね」 |
+|**<ruby>職場<rt>しょくば</rt></ruby>の<ruby>同僚<rt>どうりょう</rt></ruby>・<ruby>先輩<rt>せんぱい</rt></ruby>へ（<ruby>退勤<rt>たいきん</rt></ruby><ruby>時<rt>じ</rt></ruby>）**|「**お<ruby>疲れ様<rt>つかれさま</rt></ruby>でした〜！お<ruby>先<rt>さき</rt></ruby>に<ruby>失礼<rt>しつれい</rt></ruby>します**」|「ご<ruby>苦労<rt>くろう</rt></ruby><ruby>様<rt>さま</rt></ruby>でした」「さようなら」|
+|**<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>・クライアントへ**|「**<ruby>本日<rt>ほんじつ</rt></ruby>はありがとうございました。<ruby>失礼<rt>しつれい</rt></ruby>いたします**」| 「またね」「さようなら」 |
+|**<ruby>友人<rt>ゆうじん</rt></ruby>・<ruby>同級生<rt>どうきゅうせい</rt></ruby>へ（<ruby>日常<rt>にちじょう</rt></ruby>）**|「**じゃあね！**」「**またね〜！**」「**また<ruby>明日<rt>あした</rt></ruby>！**」|「さようなら」（よそよそしく<ruby>感<rt>かん</rt></ruby>じる）|
+|**しばらく<ruby>会<rt>あ</rt></ruby>えない<ruby>友人<rt>ゆうじん</rt></ruby>へ**|「**<ruby>元気<rt>げんき</rt></ruby>でね！**」「**また<ruby>連絡<rt>れんらく</rt></ruby>するね！**」|「<ruby>永遠<rt>えいえん</rt></ruby>にさようなら」（<ruby>不穏<rt>ふおん</rt></ruby>）|
+|**<ruby>学校<rt>がっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>・<ruby>教授<rt>きょうじゅ</rt></ruby>へ**|「**<ruby>先生<rt>せんせい</rt></ruby>、ありがとうございました。<ruby>失礼<rt>しつれい</rt></ruby>します**」| 「バイバイ」「またね」 |
 
-#### オンライン会議（Zoom / Teams）での退出マナー
-テレワークが普及した現在、オンライン会議を退出する際のスマートな立ち振る舞いも重要なビジネススキルです。
+#### オンライン<ruby>会議<rt>かいぎ</rt></ruby>（Zoom / Teams）での<ruby>退出<rt>たいしゅつ</rt></ruby>マナー
+テレワークが<ruby>普及<rt>ふきゅう</rt></ruby>した<ruby>現在<rt>げんざい</rt></ruby>、オンライン<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>退出<rt>たいしゅつ</rt></ruby>する<ruby>際<rt>さい</rt></ruby>のスマートな<ruby>立<rt>た</rt></ruby>ち<ruby>振る舞<rt>ふるま</rt></ruby>いも<ruby>重要<rt>じゅうよう</rt></ruby>なビジネススキルです。
 
-1. **最後の挨拶**: 「それでは、本日は貴重なお時間をいただきありがとうございました。失礼いたします。」
-2. **チャットにも一言残す**: 「お時間いただきありがとうございました。失礼いたします。」とチャット欄に素早く打ち込んでおくと非常に好印象です。
-3. **お辞儀をしてから退出ボタン**: 画面に向かって軽く会釈をし、相手の顔が見えなくなるタイミングで「退出」ボタンをクリックするのが、日本的なオンラインの礼儀正しさです。
+1. **<ruby>最後<rt>さいご</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>**: 「それでは、<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>をいただきありがとうございました。<ruby>失礼<rt>しつれい</rt></ruby>いたします。」
+2. **チャットにも<ruby>一言<rt>いちげん</rt></ruby><ruby>残<rt>のこ</rt></ruby>す**: 「お<ruby>時間<rt>じかん</rt></ruby>いただきありがとうございました。<ruby>失礼<rt>しつれい</rt></ruby>いたします。」とチャット<ruby>欄<rt>らん</rt></ruby>に<ruby>素早<rt>すばや</rt></ruby>く<ruby>打ち込<rt>うちこ</rt></ruby>んでおくと<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>好<rt>こう</rt></ruby><ruby>印象<rt>いんしょう</rt></ruby>です。
+3. **お<ruby>辞儀<rt>じぎ</rt></ruby>をしてから<ruby>退出<rt>たいしゅつ</rt></ruby>ボタン**: <ruby>画面<rt>がめん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>軽<rt>かる</rt></ruby>く<ruby>会釈<rt>えしゃく</rt></ruby>をし、<ruby>相手<rt>あいて</rt></ruby>の<ruby>顔<rt>かお</rt></ruby>が<ruby>見<rt>み</rt></ruby>えなくなるタイミングで「<ruby>退出<rt>たいしゅつ</rt></ruby>」ボタンをクリックするのが、<ruby>日本<rt>にほん</rt></ruby><ruby>的<rt>てき</rt></ruby>なオンラインの<ruby>礼儀<rt>れいぎ</rt></ruby><ruby>正<rt>ただ</rt></ruby>しさです。
 
 
 
-### 💡 歴史探訪：そもそも「さようなら」はどんな意味だったのか？
+### 💡 <ruby>歴史<rt>れきし</rt></ruby><ruby>探訪<rt>たんぼう</rt></ruby>：そもそも「さようなら」はどんな<ruby>意味<rt>いみ</rt></ruby>だったのか？
 
-日本語の「さようなら」の語源を知ると、なぜこの言葉がこれほど奥深く、そして日常で軽々しく使われなくなったのかがよく分かります。
+<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の「さようなら」の<ruby>語源<rt>ごげん</rt></ruby>を<ruby>知<rt>し</rt></ruby>ると、なぜこの<ruby>言葉<rt>ことば</rt></ruby>がこれほど<ruby>奥深<rt>おくふか</rt></ruby>く、そして<ruby>日常<rt>にちじょう</rt></ruby>で<ruby>軽々<rt>かるがる</rt></ruby>しく<ruby>使<rt>つか</rt></ruby>われなくなったのかがよく<ruby>分<rt>わ</rt></ruby>かります。
 
-実は「さようなら」は、もともと接続詞の**「左様（さよう）ならば」**が短縮された言葉です。
-- **「左様（さよう）」**: 「そのように」「そういうことであれば」
+<ruby>実<rt>じつ</rt></ruby>は「さようなら」は、もともと<ruby>接続詞<rt>せつぞくし</rt></ruby>の**「<ruby>左様<rt>さよう</rt></ruby>（さよう）ならば」**が<ruby>短縮<rt>たんしゅく</rt></ruby>された<ruby>言葉<rt>ことば</rt></ruby>です。
+- **「<ruby>左様<rt>さよう</rt></ruby>（さよう）」**: 「そのように」「そういうことであれば」
 - **「ならば」**: 「〜であるならば」
 
-つまり、昔の日本人は別れ際に、
-> **「左様ならば（そういう事情であるならば、これにてお別れいたしましょう）」**
-という具合に、「相手の事情や時代の流れを受け入れて、やむを得ず別れる」という情緒的な挨拶をしていたのです。ここには、相手との関係を一方的に断ち切るのではなく、「状況が許すならまだ一緒にいたいけれど、時が来たので去る」という深い余韻と切なさが込められています。
+つまり、<ruby>昔<rt>むかし</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>別れ際<rt>わかれぎわ</rt></ruby>に、
+> **「<ruby>左様<rt>さよう</rt></ruby>ならば（そういう<ruby>事情<rt>じじょう</rt></ruby>であるならば、これにてお<ruby>別<rt>わか</rt></ruby>れいたしましょう）」**
+という<ruby>具合<rt>ぐあい</rt></ruby>に、「<ruby>相手<rt>あいて</rt></ruby>の<ruby>事情<rt>じじょう</rt></ruby>や<ruby>時代<rt>じだい</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れを<ruby>受け入<rt>うけい</rt></ruby>れて、やむを<ruby>得<rt>え</rt></ruby>ず<ruby>別<rt>わか</rt></ruby>れる」という<ruby>情緒<rt>じょうちょ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>挨拶<rt>あいさつ</rt></ruby>をしていたのです。ここには、<ruby>相手<rt>あいて</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>を<ruby>一方<rt>いっぽう</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>断ち切<rt>たちき</rt></ruby>るのではなく、「<ruby>状況<rt>じょうきょう</rt></ruby>が<ruby>許<rt>ゆる</rt></ruby>すならまだ<ruby>一緒<rt>いっしょ</rt></ruby>にいたいけれど、<ruby>時<rt>とき</rt></ruby>が<ruby>来<rt>き</rt></ruby>たので<ruby>去<rt>さ</rt></ruby>る」という<ruby>深<rt>ふか</rt></ruby>い<ruby>余韻<rt>よいん</rt></ruby>と<ruby>切<rt>せつ</rt></ruby>なさが<ruby>込<rt>こ</rt></ruby>められています。
 
-そのため、学校の国語の授業や式典、あるいは一生の別れの場面では格式高い美しさを放ちますが、現代の「また明日すぐ会う同僚や友達」に対して使うと、重厚すぎてドラマチックになりすぎてしまうのです。
+そのため、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>国語<rt>こくご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>や<ruby>式典<rt>しきてん</rt></ruby>、あるいは<ruby>一生<rt>いっしょう</rt></ruby>の<ruby>別<rt>わか</rt></ruby>れの<ruby>場面<rt>ばめん</rt></ruby>では<ruby>格式<rt>かくしき</rt></ruby><ruby>高<rt>たか</rt></ruby>い<ruby>美<rt>うつく</rt></ruby>しさを<ruby>放<rt>はな</rt></ruby>ちますが、<ruby>現代<rt>げんだい</rt></ruby>の「また<ruby>明日<rt>あした</rt></ruby>すぐ<ruby>会<rt>あ</rt></ruby>う<ruby>同僚<rt>どうりょう</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>」に<ruby>対<rt>たい</rt></ruby>して<ruby>使<rt>つか</rt></ruby>うと、<ruby>重厚<rt>じゅうこう</rt></ruby>すぎてドラマチックになりすぎてしまうのです。
 
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **別れ（わかれ）** 【JLPT N3】
-  * 意味：parting, farewell
-  * 例文：卒業式の日、友達と涙を流しながら別れを惜しんだ。
-* **再会（さいかい）** 【JLPT N1】
-  * 意味：reunion, meeting again
-  * 例文：「またね」と笑顔で手を振り、次回の再会を約束した。
-* **挨拶（あいさつ）** 【JLPT N3】
-  * 意味：greeting
-  * 例文：朝起きたら、家族や近所の人に元気よく挨拶を交わす。
+* **<ruby>別<rt>わか</rt></ruby>れ（わかれ）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：parting, farewell
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>式<rt>しき</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>しながら<ruby>別<rt>わか</rt></ruby>れを<ruby>惜<rt>お</rt></ruby>しんだ。
+* **<ruby>再会<rt>さいかい</rt></ruby>（さいかい）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：reunion, meeting again
+* <ruby>例文<rt>れいぶん</rt></ruby>：「またね」と<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>り、<ruby>次回<rt>じかい</rt></ruby>の<ruby>再会<rt>さいかい</rt></ruby>を<ruby>約束<rt>やくそく</rt></ruby>した。
+* **<ruby>挨拶<rt>あいさつ</rt></ruby>（あいさつ）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：greeting
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたら、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>元気<rt>げんき</rt></ruby>よく<ruby>挨拶<rt>あいさつ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わす。
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>

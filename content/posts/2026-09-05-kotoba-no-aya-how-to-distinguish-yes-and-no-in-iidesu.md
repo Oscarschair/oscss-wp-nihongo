@@ -1,43 +1,43 @@
 
 
 
-### 💡 「いいです」「結構です」「大丈夫です」の曖昧3大フレーズ比較表
+### 💡 「いいです」「<ruby>結構<rt>けっこう</rt></ruby>です」「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」の<ruby>曖昧<rt>あいまい</rt></ruby>3<ruby>大<rt>だい</rt></ruby>フレーズ<ruby>比較<rt>ひかく</rt></ruby><ruby>表<rt>ひょう</rt></ruby>
 
-日本語学習者を最も悩ませるのが、この「肯定にも否定にも取れる3大フレーズ」です。ネイティブがどのような感覚で使い分けているのか、危険度とともに整理しました。
+<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を<ruby>最<rt>もっと</rt></ruby>も<ruby>悩<rt>なや</rt></ruby>ませるのが、この「<ruby>肯定<rt>こうてい</rt></ruby>にも<ruby>否定<rt>ひてい</rt></ruby>にも<ruby>取<rt>と</rt></ruby>れる3<ruby>大<rt>だい</rt></ruby>フレーズ」です。ネイティブがどのような<ruby>感覚<rt>かんかく</rt></ruby>で<ruby>使い分<rt>つかいわ</rt></ruby>けているのか、<ruby>危険<rt>きけん</rt></ruby><ruby>度<rt>ど</rt></ruby>とともに<ruby>整理<rt>せいり</rt></ruby>しました。
 
-| フレーズ | 基本の意味 | 誤解されるリスク | 最も安全で誤解のない言い換え |
+| フレーズ |<ruby>基本<rt>きほん</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>|<ruby>誤解<rt>ごかい</rt></ruby>されるリスク|<ruby>最<rt>もっと</rt></ruby>も<ruby>安全<rt>あんぜん</rt></ruby>で<ruby>誤解<rt>ごかい</rt></ruby>のない<ruby>言い換<rt>いいか</rt></ruby>え|
 | :--- | :--- | :---: | :--- |
-| **いいです** | ① 許可・OK（YES）<br>② 不要・断り（NO） | ★★★★★<br>（最大級） | ・YESなら：「**ぜひお願いします**」<br>・NOなら：「**いりません / 必要ありません**」 |
-| **結構です** | ① 十分・満足（YES）<br>② もう十分だから不要（NO） | ★★★★☆ | ・YESなら：「**それで進めてください**」<br>・NOなら：「**お気持ちだけいただきます**」 |
-| **大丈夫です** | ① 問題ない・平気（YES）<br>② 必要ない・構わない（NO） | ★★★★★<br>（頻出） | ・YESなら：「**問題ありません / はい、お願いします**」<br>・NOなら：「**間に合っています / 結構です**」 |
+| **いいです** | ① <ruby>許可<rt>きょか</rt></ruby>・OK（YES）<br>② <ruby>不要<rt>ふよう</rt></ruby>・<ruby>断<rt>ことわ</rt></ruby>り（NO） | ★★★★★<br>（<ruby>最大<rt>さいだい</rt></ruby><ruby>級<rt>きゅう</rt></ruby>） | ・YESなら：「**ぜひお<ruby>願<rt>ねが</rt></ruby>いします**」<br>・NOなら：「**いりません / <ruby>必要<rt>ひつよう</rt></ruby>ありません**」 |
+| **<ruby>結構<rt>けっこう</rt></ruby>です** | ① <ruby>十分<rt>じゅうぶん</rt></ruby>・<ruby>満足<rt>まんぞく</rt></ruby>（YES）<br>② もう<ruby>十分<rt>じゅうぶん</rt></ruby>だから<ruby>不要<rt>ふよう</rt></ruby>（NO） | ★★★★☆ | ・YESなら：「**それで<ruby>進<rt>すす</rt></ruby>めてください**」<br>・NOなら：「**お<ruby>気持<rt>きも</rt></ruby>ちだけいただきます**」 |
+| **<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です** | ① <ruby>問題<rt>もんだい</rt></ruby>ない・<ruby>平気<rt>へいき</rt></ruby>（YES）<br>② <ruby>必要<rt>ひつよう</rt></ruby>ない・<ruby>構<rt>かま</rt></ruby>わない（NO） | ★★★★★<br>（<ruby>頻出<rt>ひんしゅつ</rt></ruby>） | ・YESなら：「**<ruby>問題<rt>もんだい</rt></ruby>ありません / はい、お<ruby>願<rt>ねが</rt></ruby>いします**」<br>・NOなら：「**<ruby>間に合<rt>まにあ</rt></ruby>っています / <ruby>結構<rt>けっこう</rt></ruby>です**」 |
 
-#### コンビニ・スーパーのレジで100%誤解されない黄金ルール
-レジで「レジ袋はいかがですか？」「温めますか？」「ポイントカードはお持ちですか？」と次々に聞かれた時、「いいです」と答えると店員さんが一瞬フリーズすることがあります。
-誤解をゼロにするための黄金ルールは、**「はい / いいえ」＋「具体的なアクション動詞」**で答えることです。
+#### コンビニ・スーパーのレジで100%<ruby>誤解<rt>ごかい</rt></ruby>されない<ruby>黄金<rt>おうごん</rt></ruby>ルール
+レジで「レジ<ruby>袋<rt>ぶくろ</rt></ruby>はいかがですか？」「<ruby>温<rt>あたた</rt></ruby>めますか？」「ポイントカードはお<ruby>持<rt>も</rt></ruby>ちですか？」と<ruby>次々<rt>つぎつぎ</rt></ruby>に<ruby>聞<rt>き</rt></ruby>かれた<ruby>時<rt>とき</rt></ruby>、「いいです」と<ruby>答<rt>こた</rt></ruby>えると<ruby>店員<rt>てんいん</rt></ruby>さんが<ruby>一瞬<rt>いっしゅん</rt></ruby>フリーズすることがあります。
+<ruby>誤解<rt>ごかい</rt></ruby>をゼロにするための<ruby>黄金<rt>おうごん</rt></ruby>ルールは、**「はい / いいえ」＋「<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>なアクション<ruby>動詞<rt>どうし</rt></ruby>」**で<ruby>答<rt>こた</rt></ruby>えることです。
 
-- 🛍 **レジ袋**:
-  - 要る場合：「**はい、1枚お願いします**」
-  - 要らない場合：「**いいえ、持参のバッグがあるので大丈夫です（いりません）**」
-- 🍱 **お弁当の温め**:
-  - 温める場合：「**はい、温めてください**」
-  - そのままの場合：「**このままで大丈夫です**」
+- 🛍 **レジ<ruby>袋<rt>ぶくろ</rt></ruby>**:
+- <ruby>要<rt>い</rt></ruby>る<ruby>場合<rt>ばあい</rt></ruby>：「**はい、1<ruby>枚<rt>まい</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします**」
+- <ruby>要<rt>い</rt></ruby>らない<ruby>場合<rt>ばあい</rt></ruby>：「**いいえ、<ruby>持参<rt>じさん</rt></ruby>のバッグがあるので<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です（いりません）**」
+- 🍱 **お<ruby>弁当<rt>べんとう</rt></ruby>の<ruby>温<rt>あたた</rt></ruby>め**:
+- <ruby>温<rt>あたた</rt></ruby>める<ruby>場合<rt>ばあい</rt></ruby>：「**はい、<ruby>温<rt>あたた</rt></ruby>めてください**」
+- そのままの<ruby>場合<rt>ばあい</rt></ruby>：「**このままで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です**」
 - 💳 **レシート**:
-  - 要る場合：「**レシートお願いします**」
-  - 要らない場合：「**レシートは結構です**」（受け取り口に置かれた小さなゴミ箱へ）
+- <ruby>要<rt>い</rt></ruby>る<ruby>場合<rt>ばあい</rt></ruby>：「**レシートお<ruby>願<rt>ねが</rt></ruby>いします**」
+- <ruby>要<rt>い</rt></ruby>らない<ruby>場合<rt>ばあい</rt></ruby>：「**レシートは<ruby>結構<rt>けっこう</rt></ruby>です**」（<ruby>受け取<rt>うけと</rt></ruby>り<ruby>口<rt>ぐち</rt></ruby>に<ruby>置<rt>お</rt></ruby>かれた<ruby>小<rt>ちい</rt></ruby>さな<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>へ）
 
-これだけで、一切の気まずい沈黙やトラブルなく、スムーズに買い物を完了することができます。
+これだけで、<ruby>一切<rt>いっさい</rt></ruby>の<ruby>気<rt>き</rt></ruby>まずい<ruby>沈黙<rt>ちんもく</rt></ruby>やトラブルなく、スムーズに<ruby>買い物<rt>かいもの</rt></ruby>を<ruby>完了<rt>かんりょう</rt></ruby>することができます。
 
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **遠慮（えんりょ）** 【JLPT N4】
-  * 意味：reservation, restraint
-  * 例文：「お茶のおかわりはいかがですか」と勧められたが、遠慮しておいた。
-* **肯定（こうてい）** 【JLPT N2】
-  * 意味：affirmation, positive
-  * 例文：相手の提案を肯定するときは、明るい表情で返事をする。
-* **否定（ひてい）** 【JLPT N3】
-  * 意味：denial, negation
-  * 例文：手を軽く横に振ることで、相手の申し出をやんわりと否定した。
+* **<ruby>遠慮<rt>えんりょ</rt></ruby>（えんりょ）** 【JLPT N4】
+* <ruby>意味<rt>いみ</rt></ruby>：reservation, restraint
+* <ruby>例文<rt>れいぶん</rt></ruby>：「お<ruby>茶<rt>ちゃ</rt></ruby>のおかわりはいかがですか」と<ruby>勧<rt>すす</rt></ruby>められたが、<ruby>遠慮<rt>えんりょ</rt></ruby>しておいた。
+* **<ruby>肯定<rt>こうてい</rt></ruby>（こうてい）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：affirmation, positive
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>相手<rt>あいて</rt></ruby>の<ruby>提案<rt>ていあん</rt></ruby>を<ruby>肯定<rt>こうてい</rt></ruby>するときは、<ruby>明<rt>あか</rt></ruby>るい<ruby>表情<rt>ひょうじょう</rt></ruby>で<ruby>返事<rt>へんじ</rt></ruby>をする。
+* **<ruby>否定<rt>ひてい</rt></ruby>（ひてい）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：denial, negation
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>手<rt>て</rt></ruby>を<ruby>軽<rt>かる</rt></ruby>く<ruby>横<rt>よこ</rt></ruby>に<ruby>振<rt>ふ</rt></ruby>ることで、<ruby>相手<rt>あいて</rt></ruby>の<ruby>申し出<rt>もうしで</rt></ruby>をやんわりと<ruby>否定<rt>ひてい</rt></ruby>した。

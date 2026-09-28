@@ -1,5 +1,6 @@
 ---
-title: "街角サバイバル：駅の「自動改札ダンジョン」と残高不足の恐怖｜ピンポーンと扉が閉まる赤っ恥！タッチ位置の右側トラップと精算機の救出劇完全ガイド"
+title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>駅<rt>えき</rt></ruby>の「<ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>ダンジョン」と<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>の<ruby>恐怖<rt>きょうふ</rt></ruby>｜ピンポーンと<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まる<ruby>赤<rt>あか</rt></ruby>っ<ruby>恥<rt>はじ</rt></ruby>！タッチ<ruby>位置<rt>いち</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby>トラップと<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>救出<rt>きゅうしゅつ</rt></ruby><ruby>劇<rt>げき</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby>ガイド"
+
 description: "朝のラッシュ時、改札機にICカードをかざした瞬間に『ピンポーン！』と赤いゲートが閉まって後ろの人を玉突き事故に巻き込んだ外国人旅行者たち！なぜ日本の改札はタッチパネルが全部『右側』にあるのか？残高不足時の『のりこし精算機』の使い方からモバイルICカードの電波トラブルまで徹底解説！"
 slug: "street-japanese-station-ticket-gate-dungeon-guide"
 date: "2026-09-16T08:00:00+09:00"
@@ -13,56 +14,55 @@ tags:
   - 日常会話
   - JLPT N2
 ---
+<ruby>世界一<rt>せかいいち</rt></ruby><ruby>正確<rt>せいかく</rt></ruby>で、<ruby>世界一<rt>せかいいち</rt></ruby><ruby>過密<rt>かみつ</rt></ruby>なダイヤを<ruby>誇<rt>ほこ</rt></ruby>る<ruby>日本<rt>にほん</rt></ruby>の<ruby>鉄道<rt>てつどう</rt></ruby><ruby>網<rt>もう</rt></ruby>。
+<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>新宿<rt>しんじゅく</rt></ruby><ruby>駅<rt>えき</rt></ruby>や<ruby>渋谷<rt>しぶや</rt></ruby><ruby>駅<rt>えき</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が、その<ruby>人<rt>ひと</rt></ruby>の<ruby>波<rt>なみ</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさと<ruby>同時<rt>どうじ</rt></ruby>に、<ruby>強烈<rt>きょうれつ</rt></ruby>なプレッシャーを<ruby>感<rt>かん</rt></ruby>じる<ruby>瞬間<rt>しゅんかん</rt></ruby>があります。
 
-世界一正確で、世界一過密なダイヤを誇る日本の鉄道網。
-東京の新宿駅や渋谷駅を訪れた外国人が、その人の波の美しさと同時に、強烈なプレッシャーを感じる瞬間があります。
+それが、**「<ruby>駅<rt>えき</rt></ruby>の<ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>（じどうかいさつき）」の<ruby>通過<rt>つうか</rt></ruby>バトル**です！
 
-それが、**「駅の自動改札機（じどうかいさつき）」の通過バトル**です！
+ある<ruby>朝<rt>あさ</rt></ruby>、<ruby>通勤<rt>つうきん</rt></ruby>ラッシュの<ruby>新宿<rt>しんじゅく</rt></ruby><ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ろうとしたクルマの<ruby>悲劇<rt>ひげき</rt></ruby>を<ruby>見<rt>み</rt></ruby>てみましょう。
 
-ある朝、通勤ラッシュの新宿駅で電車に乗ろうとしたクルマの悲劇を見てみましょう。
+> 🚗 **クルマ**：「（Suicaを<ruby>手<rt>て</rt></ruby>に<ruby>颯爽<rt>さっそう</rt></ruby>と<ruby>改札<rt>かいさつ</rt></ruby>へ<ruby>突進<rt>とっしん</rt></ruby>する）フフン、<ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>はもう<ruby>乗<rt>の</rt></ruby>り<ruby>慣<rt>な</rt></ruby>れたもんね〜！ ピッ！」
+> 🚨 **<ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>**：「**ピンポーン！ ガシャーーーーン！（<ruby>赤<rt>あか</rt></ruby>いランプが<ruby>点滅<rt>てんめつ</rt></ruby>し、プラスチックのゲートが<ruby>激<rt>はげ</rt></ruby>しく<ruby>閉<rt>し</rt></ruby>まる）**」
+> 🚗 **クルマ**：「イテッ！？ お<ruby>腹<rt>なか</rt></ruby>にゲートが<ruby>刺<rt>さ</rt></ruby>さった！？ な、なんで<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まるの！？」
+> 👥 **<ruby>後<rt>うし</rt></ruby>ろの<ruby>会社<rt>かいしゃ</rt></ruby><ruby>員<rt>いん</rt></ruby><ruby>軍団<rt>ぐんだん</rt></ruby>**：「（ズザザーッと<ruby>急<rt>きゅう</rt></ruby>ブレーキ！ <ruby>舌打<rt>したう</rt></ruby>ちしながらクルマを<ruby>避<rt>さ</rt></ruby>けて<ruby>隣<rt>となり</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>へ<ruby>流<rt>なが</rt></ruby>れる）チッ……」
+> 🚗 **クルマ**：「ひ、ひいいいっ！ ごめんなさい！ ごめんなさい！ <ruby>画面<rt>がめん</rt></ruby>を<ruby>見<rt>み</rt></ruby>たら**『<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>（ざんだかぶそく）』**って<ruby>赤<rt>あか</rt></ruby>い<ruby>文字<rt>もじ</rt></ruby>が<ruby>出<rt>で</rt></ruby>てるーーーっ！！ まるで<ruby>犯罪<rt>はんざい</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>扱<rt>あつか</rt></ruby>いだよーーーっ（<ruby>号泣<rt>ごうきゅう</rt></ruby>）！！」
 
-> 🚗 **クルマ**：「（Suicaを手に颯爽と改札へ突進する）フフン、日本の電車はもう乗り慣れたもんね〜！ ピッ！」  
-> 🚨 **自動改札機**：「**ピンポーン！ ガシャーーーーン！（赤いランプが点滅し、プラスチックのゲートが激しく閉まる）**」  
-> 🚗 **クルマ**：「イテッ！？ お腹にゲートが刺さった！？ な、なんで扉が閉まるの！？」  
-> 👥 **後ろの会社員軍団**：「（ズザザーッと急ブレーキ！ 舌打ちしながらクルマを避けて隣の改札へ流れる）チッ……」  
-> 🚗 **クルマ**：「ひ、ひいいいっ！ ごめんなさい！ ごめんなさい！ 画面を見たら**『残高不足（ざんだかぶそく）』**って赤い文字が出てるーーーっ！！ まるで犯罪者扱いだよーーーっ（号泣）！！」
+<ruby>秒<rt>びょう</rt></ruby><ruby>単位<rt>たんい</rt></ruby>で<ruby>歩調<rt>ほちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>さずに<ruby>流<rt>なが</rt></ruby>れる<ruby>東京<rt>とうきょう</rt></ruby>のラッシュアワーにおいて、<ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>を<ruby>詰<rt>つ</rt></ruby>まらせることは「もっとも<ruby>気<rt>き</rt></ruby>まずい<ruby>赤<rt>あか</rt></ruby>っ<ruby>恥<rt>はじ</rt></ruby><ruby>体験<rt>たいけん</rt></ruby>」の<ruby>一<rt>ひと</rt></ruby>つです。
 
-秒単位で歩調を崩さずに流れる東京のラッシュアワーにおいて、改札機を詰まらせることは「もっとも気まずい赤っ恥体験」の一つです。
+さらに、<ruby>左利<rt>ひだりき</rt></ruby>きの<ruby>人<rt>ひと</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>がやりがちな**「<ruby>左側<rt>ひだりがわ</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>にカードをタッチして、<ruby>隣<rt>となり</rt></ruby>のレーンの<ruby>人<rt>ひと</rt></ruby>をブロックしてしまう<ruby>大事<rt>だいじ</rt></ruby><ruby>故<rt>こ</rt></ruby>」**など、<ruby>日本<rt>にほん</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>には<ruby>見<rt>み</rt></ruby>えないルールと<ruby>人間<rt>にんげん</rt></ruby><ruby>工学<rt>こうがく</rt></ruby>の<ruby>罠<rt>わな</rt></ruby>がたくさん<ruby>潜<rt>ひそ</rt></ruby>んでいます。
 
-さらに、左利きの人や外国人がやりがちな**「左側の改札機にカードをタッチして、隣のレーンの人をブロックしてしまう大事故」**など、日本の改札には見えないルールと人間工学の罠がたくさん潜んでいます。
-
-今回は、日本の駅の自動改札機をスマートに通過するための「タッチ＆ゴーの極意」と、ゲートに捕まった時の「救出ステップ完全マニュアル」をお届けします！
+<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>の<ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>をスマートに<ruby>通過<rt>つうか</rt></ruby>するための「タッチ＆ゴーの<ruby>極意<rt>ごくい</rt></ruby>」と、ゲートに<ruby>捕<rt>つか</rt></ruby>まった<ruby>時<rt>とき</rt></ruby>の「<ruby>救出<rt>きゅうしゅつ</rt></ruby>ステップ<ruby>完全<rt>かんぜん</rt></ruby>マニュアル」をお<ruby>届<rt>とど</rt></ruby>けします！
 
 ---
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **改札口（かいさつぐち）** 【JLPT N3】
-  * 意味：ticket gate / turnstile
-  * 例文：友達と待ち合わせをするため、駅の中央改札口前で待機した。
-* **残高不足（ざんだかぶそく）** 【JLPT N2】
-  * 意味：insufficient balance
-  * 例文：Suicaの残高不足で改札の扉が閉まり、後ろの人に迷惑をかけてしまった。
+* **<ruby>改札<rt>かいさつ</rt></ruby><ruby>口<rt>ぐち</rt></ruby>（かいさつぐち）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：ticket gate / turnstile
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>友達<rt>ともだち</rt></ruby>と<ruby>待ち合<rt>まちあ</rt></ruby>わせをするため、<ruby>駅<rt>えき</rt></ruby>の<ruby>中央<rt>ちゅうおう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>口前<rt>くちまえ</rt></ruby>で<ruby>待機<rt>たいき</rt></ruby>した。
+* **<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>（ざんだかぶそく）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：insufficient balance
+* <ruby>例文<rt>れいぶん</rt></ruby>：Suicaの<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>で<ruby>改札<rt>かいさつ</rt></ruby>の<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まり、<ruby>後<rt>うし</rt></ruby>ろの<ruby>人<rt>ひと</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけてしまった。
 * **チャージ（ちゃーじ）** 【JLPT N3】
-  * 意味：topping up, loading money onto an IC card
-  * 例文：改札に入る前に、券売機で交通系ICカードに2,000円チャージした。
-* **のりこし精算（のりこしせいさん）** 【JLPT N2】
-  * 意味：fare adjustment for riding past one's ticket/balance
-  * 例文：遠くの駅まで乗り越してしまったので、出口の精算機で差額を支払った。
-* **定期券（ていきけん）** 【JLPT N3】
-  * 意味：commuter pass
-  * 例文：自宅の最寄り駅から会社のオフィスまでの区間を定期券で購入する。
-* **入場規制（にゅうじょうきせい）** 【JLPT N1】
-  * 意味：crowd control entry restriction
-  * 例文：花火大会の帰りでホームが危険な混雑となり、改札口で一時的な入場規制が行われた。
+* <ruby>意味<rt>いみ</rt></ruby>：topping up, loading money onto an IC card
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>改札<rt>かいさつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>で<ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>ICカードに2,000<ruby>円<rt>えん</rt></ruby>チャージした。
+* **のりこし<ruby>精算<rt>せいさん</rt></ruby>（のりこしせいさん）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：fare adjustment for riding past one's ticket/balance
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>遠<rt>とお</rt></ruby>くの<ruby>駅<rt>えき</rt></ruby>まで<ruby>乗り越<rt>のりこ</rt></ruby>してしまったので、<ruby>出口<rt>でぐち</rt></ruby>の<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>で<ruby>差額<rt>さがく</rt></ruby>を<ruby>支払<rt>しはら</rt></ruby>った。
+* **<ruby>定期<rt>ていき</rt></ruby><ruby>券<rt>けん</rt></ruby>（ていきけん）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：commuter pass
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>自宅<rt>じたく</rt></ruby>の<ruby>最寄り駅<rt>もよりえき</rt></ruby>から<ruby>会社<rt>かいしゃ</rt></ruby>のオフィスまでの<ruby>区間<rt>くかん</rt></ruby>を<ruby>定期<rt>ていき</rt></ruby><ruby>券<rt>けん</rt></ruby>で<ruby>購入<rt>こうにゅう</rt></ruby>する。
+* **<ruby>入場<rt>にゅうじょう</rt></ruby><ruby>規制<rt>きせい</rt></ruby>（にゅうじょうきせい）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：crowd control entry restriction
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>花火<rt>はなび</rt></ruby><ruby>大会<rt>たいかい</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りでホームが<ruby>危険<rt>きけん</rt></ruby>な<ruby>混雑<rt>こんざつ</rt></ruby>となり、<ruby>改札<rt>かいさつ</rt></ruby><ruby>口<rt>ぐち</rt></ruby>で<ruby>一時<rt>いちじ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>入場<rt>にゅうじょう</rt></ruby><ruby>規制<rt>きせい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われた。
 
 ---
 
-## 1. なぜ詰まる？ 自動改札で起きる「3大トラップ」
+## 1. なぜ<ruby>詰<rt>つ</rt></ruby>まる？ <ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>で<ruby>起<rt>お</rt></ruby>きる「3<ruby>大<rt>だい</rt></ruby>トラップ」
 
-日本の自動改札機は世界最速レベル（1分間に60人以上を処理）で設計されていますが、ちょっとした油断でゲートに挟まれます。主な原因は以下の3つです。
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby><ruby>最速<rt>さいそく</rt></ruby>レベル（1<ruby>分間<rt>ふんかん</rt></ruby>に60<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>処理<rt>しょり</rt></ruby>）で<ruby>設計<rt>せっけい</rt></ruby>されていますが、ちょっとした<ruby>油断<rt>ゆだん</rt></ruby>でゲートに<ruby>挟<rt>はさ</rt></ruby>まれます。<ruby>主<rt>おも</rt></ruby>な<ruby>原因<rt>げんいん</rt></ruby>は<ruby>以下<rt>いか</rt></ruby>の3つです。
 
 ```
 【改札機でブロックされる3大原因】
@@ -72,19 +72,19 @@ tags:
 ③【エラー未処理（出場・入場の不一致）】前の駅でタッチが甘く、データが「入場中」のまま！
 ```
 
-### ① 初乗り運賃がないと「入場」すらできない！
-「残高が10円あるから、とりあえず改札に入って、降りる駅でチャージすればいいや」は通用しません！ 日本の鉄道システム（JRや私鉄）は、**「初乗り運賃以上の残高がないと入場ゲートを開けない」**仕組みになっています。
+### ① <ruby>初乗<rt>はつの</rt></ruby>り<ruby>運賃<rt>うんちん</rt></ruby>がないと「<ruby>入場<rt>にゅうじょう</rt></ruby>」すらできない！
+「<ruby>残高<rt>ざんだか</rt></ruby>が10<ruby>円<rt>えん</rt></ruby>あるから、とりあえず<ruby>改札<rt>かいさつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って、<ruby>降<rt>お</rt></ruby>りる<ruby>駅<rt>えき</rt></ruby>でチャージすればいいや」は<ruby>通用<rt>つうよう</rt></ruby>しません！ <ruby>日本<rt>にほん</rt></ruby>の<ruby>鉄道<rt>てつどう</rt></ruby>システム（JRや<ruby>私鉄<rt>してつ</rt></ruby>）は、**「<ruby>初乗<rt>はつの</rt></ruby>り<ruby>運賃<rt>うんちん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>残高<rt>ざんだか</rt></ruby>がないと<ruby>入場<rt>にゅうじょう</rt></ruby>ゲートを<ruby>開<rt>あ</rt></ruby>けない」**<ruby>仕組<rt>しく</rt></ruby>みになっています。
 
-### ② 【最重要】タッチ面は「右側」にある！
-日本の改札機はすべて**「右利き」**を前提に設計されています。
-あなたが歩いているレーンの**「右手側にある青い光のパネル」**があなたのタッチ面です！
-もし左手にスマートフォンを持ち、左側の機械にタッチしてしまうと、**「隣のレーンを通ろうとしている人のゲート」を開けてしまい、自分自身のゲートは固く閉ざされたまま**になります。
+### ② 【<ruby>最<rt>さい</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby>】タッチ<ruby>面<rt>めん</rt></ruby>は「<ruby>右側<rt>みぎがわ</rt></ruby>」にある！
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>はすべて**「<ruby>右<rt>みぎ</rt></ruby><ruby>利<rt>き</rt></ruby>き」**を<ruby>前提<rt>ぜんてい</rt></ruby>に<ruby>設計<rt>せっけい</rt></ruby>されています。
+あなたが<ruby>歩<rt>ある</rt></ruby>いているレーンの**「<ruby>右手<rt>みぎて</rt></ruby><ruby>側<rt>がわ</rt></ruby>にある<ruby>青<rt>あお</rt></ruby>い<ruby>光<rt>ひかり</rt></ruby>のパネル」**があなたのタッチ<ruby>面<rt>めん</rt></ruby>です！
+もし<ruby>左手<rt>ひだりて</rt></ruby>にスマートフォンを<ruby>持<rt>も</rt></ruby>ち、<ruby>左側<rt>ひだりがわ</rt></ruby>の<ruby>機械<rt>きかい</rt></ruby>にタッチしてしまうと、**「<ruby>隣<rt>となり</rt></ruby>のレーンを<ruby>通<rt>とお</rt></ruby>ろうとしている<ruby>人<rt>ひと</rt></ruby>のゲート」を<ruby>開<rt>あ</rt></ruby>けてしまい、<ruby>自分<rt>じぶん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>のゲートは<ruby>固<rt>かた</rt></ruby>く<ruby>閉<rt>と</rt></ruby>ざされたまま**になります。
 
 ---
 
-## 2. 改札機に挟まれたらどうする！？ 瞬時のエスケープ手順
+## 2. <ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>に<ruby>挟<rt>はさ</rt></ruby>まれたらどうする！？ <ruby>瞬時<rt>しゅんじ</rt></ruby>のエスケープ<ruby>手順<rt>てじゅん</rt></ruby>
 
-もし「ピンポーン！」と鳴って扉が閉まってしまったら、慌てて後ろを振り返って謝り続ける必要はありません。スマートに対処しましょう！
+もし「ピンポーン！」と<ruby>鳴<rt>な</rt></ruby>って<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まってしまったら、<ruby>慌<rt>あわ</rt></ruby>てて<ruby>後<rt>うし</rt></ruby>ろを<ruby>振り返<rt>ふりかえ</rt></ruby>って<ruby>謝<rt>あやま</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>ける<ruby>必要<rt>ひつよう</rt></ruby>はありません。スマートに<ruby>対処<rt>たいしょ</rt></ruby>しましょう！
 
 ```
 ［改札に挟まれた時の黄金脱出ルート］
@@ -101,37 +101,37 @@ tags:
 
 ---
 
-## 3. 出口で残高が足りない時の救世主！「のりこし精算機」の使い方
+## 3. <ruby>出口<rt>でぐち</rt></ruby>で<ruby>残高<rt>ざんだか</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない<ruby>時<rt>とき</rt></ruby>の<ruby>救世主<rt>きゅうせいしゅ</rt></ruby>！「のりこし<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>」の<ruby>使い方<rt>つかいかた</rt></ruby>
 
-「入る時は残高があったけれど、遠くまで乗ったので降りる駅の運賃が足りない！」
-そんな時のために、出口改札のすぐ横には必ず黄色やピンク色の**「のりこし精算機（Fare Adjustment）」**が設置されています。
+「<ruby>入<rt>はい</rt></ruby>る<ruby>時<rt>とき</rt></ruby>は<ruby>残高<rt>ざんだか</rt></ruby>があったけれど、<ruby>遠<rt>とお</rt></ruby>くまで<ruby>乗<rt>の</rt></ruby>ったので<ruby>降<rt>お</rt></ruby>りる<ruby>駅<rt>えき</rt></ruby>の<ruby>運賃<rt>うんちん</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない！」
+そんな<ruby>時<rt>とき</rt></ruby>のために、<ruby>出口<rt>いでぐち</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>のすぐ<ruby>横<rt>よこ</rt></ruby>には<ruby>必<rt>かなら</rt></ruby>ず<ruby>黄色<rt>きいろ</rt></ruby>や<ruby>ピンク色<rt>ぴんくいろ</rt></ruby>の**「のりこし<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>（Fare Adjustment）」**が<ruby>設置<rt>せっち</rt></ruby>されています。
 
-| 手順 | 画面表示・操作 | 音声・案内 | 注意ポイント |
+|<ruby>手順<rt>てじゅん</rt></ruby>|<ruby>画面<rt>がめん</rt></ruby><ruby>表示<rt>ひょうじ</rt></ruby>・<ruby>操作<rt>そうさ</rt></ruby>|<ruby>音声<rt>おんせい</rt></ruby>・<ruby>案内<rt>あんない</rt></ruby>|<ruby>注意<rt>ちゅうい</rt></ruby>ポイント|
 | :--- | :--- | :--- | :--- |
-| **STEP 1** | カード投入口にICカードを入れる | 「カードをお入れください」 | モバイルSuicaの場合はトレイにスマホを置く |
-| **STEP 2** | 不足金額が画面に表示される | 「〇〇円不足しています」 | 10円単位でピッタリ支払うか、1,000円チャージを選ぶ |
-| **STEP 3** | 現金（または千円札）を投入 | 「お金を入れてください」 | 精算機はクレジットカードが使えないことが多いので現金必須 |
-| **STEP 4** | カードとお釣りを受け取る | 「カードとお釣りをお取りください」 | チャージ完了したカードをそのまま改札機にタッチして出場！ |
+| **STEP 1** |カード<ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>にICカードを<ruby>入<rt>い</rt></ruby>れる|「カードをお<ruby>入<rt>い</rt></ruby>れください」|モバイルSuicaの<ruby>場合<rt>ばあい</rt></ruby>はトレイにスマホを<ruby>置<rt>お</rt></ruby>く|
+| **STEP 2** |<ruby>不足<rt>ふそく</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>が<ruby>画面<rt>がめん</rt></ruby>に<ruby>表示<rt>ひょうじ</rt></ruby>される|「〇〇<ruby>円<rt>えん</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>しています」|10<ruby>円<rt>えん</rt></ruby><ruby>単位<rt>たんい</rt></ruby>でピッタリ<ruby>支払<rt>しはら</rt></ruby>うか、1,000<ruby>円<rt>えん</rt></ruby>チャージを<ruby>選<rt>えら</rt></ruby>ぶ|
+| **STEP 3** |<ruby>現金<rt>げんきん</rt></ruby>（または<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>札<rt>さつ</rt></ruby>）を<ruby>投入<rt>とうにゅう</rt></ruby>|「お<ruby>金<rt>かね</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてください」|<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>はクレジットカードが<ruby>使<rt>つか</rt></ruby>えないことが<ruby>多<rt>おお</rt></ruby>いので<ruby>現金<rt>げんきん</rt></ruby><ruby>必須<rt>ひっす</rt></ruby>|
+| **STEP 4** |カードとお<ruby>釣<rt>つ</rt></ruby>りを<ruby>受け取<rt>うけと</rt></ruby>る|「カードとお<ruby>釣<rt>つ</rt></ruby>りをお<ruby>取<rt>と</rt></ruby>りください」|チャージ<ruby>完了<rt>かんりょう</rt></ruby>したカードをそのまま<ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>にタッチして<ruby>出場<rt>しゅつじょう</rt></ruby>！|
 
 ---
 
-## 4. 駅員さんに助けを求める時の「レスキュー日本語フレーズ」
+## 4. <ruby>駅員<rt>えきいん</rt></ruby>さんに<ruby>助<rt>たす</rt></ruby>けを<ruby>求<rt>もと</rt></ruby>める<ruby>時<rt>とき</rt></ruby>の「レスキュー<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>フレーズ」
 
-スマートフォンの電池が切れてモバイルSuicaが開けない、または「カードが使えません」と画面に出た場合は、改札の一番端にあるガラス張りの**「有人改札（駅員室）」**へ行きましょう。
+スマートフォンの<ruby>電池<rt>でんち</rt></ruby>が<ruby>切<rt>き</rt></ruby>れてモバイルSuicaが<ruby>開<rt>あ</rt></ruby>けない、または「カードが<ruby>使<rt>つか</rt></ruby>えません」と<ruby>画面<rt>がめん</rt></ruby>に<ruby>出<rt>で</rt></ruby>た<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>改札<rt>かいさつ</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby><ruby>端<rt>たん</rt></ruby>にある<ruby>ガラス張<rt>がらすば</rt></ruby>りの**「<ruby>有人<rt>ゆうじん</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>（<ruby>駅員<rt>えきいん</rt></ruby><ruby>室<rt>しつ</rt></ruby>）」**へ<ruby>行<rt>い</rt></ruby>きましょう。
 
-* **「すみません、改札でエラーが出て出られなくなりました。」**（基本の申告）
-* **「チャージしたいのですが、精算機が混んでいます。」**（窓口での対応依頼）
-* **「〇〇駅から乗ったのですが、タッチできていなかったみたいです。」**（入場記録の修正）
-* **「スマホの充電が切れてしまいました。現金で精算できますか？」**（バッテリー切れ対応）
+* **「すみません、<ruby>改札<rt>かいさつ</rt></ruby>でエラーが<ruby>出<rt>で</rt></ruby>て<ruby>出<rt>で</rt></ruby>られなくなりました。」**（<ruby>基本<rt>きほん</rt></ruby>の<ruby>申告<rt>しんこく</rt></ruby>）
+* **「チャージしたいのですが、<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>が<ruby>混<rt>こ</rt></ruby>んでいます。」**（<ruby>窓口<rt>まどぐち</rt></ruby>での<ruby>対応<rt>たいおう</rt></ruby><ruby>依頼<rt>いらい</rt></ruby>）
+* **「〇〇<ruby>駅<rt>えき</rt></ruby>から<ruby>乗<rt>の</rt></ruby>ったのですが、タッチできていなかったみたいです。」**（<ruby>入場<rt>にゅうじょう</rt></ruby><ruby>記録<rt>きろく</rt></ruby>の<ruby>修正<rt>しゅうせい</rt></ruby>）
+* **「スマホの<ruby>充電<rt>じゅうでん</rt></ruby>が<ruby>切<rt>き</rt></ruby>れてしまいました。<ruby>現金<rt>げんきん</rt></ruby>で<ruby>精算<rt>せいさん</rt></ruby>できますか？」**（バッテリー<ruby>切<rt>ぎ</rt></ruby>れ<ruby>対応<rt>たいおう</rt></ruby>）
 
-駅員さんにカードを渡せば、専用の機械で履歴を読み取り、数秒で入場記録を修正して出してくれますよ！
+<ruby>駅員<rt>えきいん</rt></ruby>さんにカードを<ruby>渡<rt>わた</rt></ruby>せば、<ruby>専用<rt>せんよう</rt></ruby>の<ruby>機械<rt>きかい</rt></ruby>で<ruby>履歴<rt>りれき</rt></ruby>を<ruby>読み取<rt>よみと</rt></ruby>り、<ruby>数<rt>すう</rt></ruby><ruby>秒<rt>びょう</rt></ruby>で<ruby>入場<rt>にゅうじょう</rt></ruby><ruby>記録<rt>きろく</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>して<ruby>出<rt>だ</rt></ruby>してくれますよ！
 
 ---
 
-## 5. 知っておくと便利！「全国交通系ICカード」の相互利用ルール
+## 5. <ruby>知<rt>し</rt></ruby>っておくと<ruby>便利<rt>べんり</rt></ruby>！「<ruby>全国<rt>ぜんこく</rt></ruby><ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>ICカード」の<ruby>相互<rt>そうご</rt></ruby><ruby>利用<rt>りよう</rt></ruby>ルール
 
-東京で作ったSuicaやPASMOは、大阪や京都、福岡でもそのまま使えるのでしょうか？
-答えは**「全国10大交通系ICカードは、ほぼ日本全国で相互利用できる！」**です！
+<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ったSuicaやPASMOは、<ruby>大阪<rt>おおさか</rt></ruby>や<ruby>京都<rt>きょうと</rt></ruby>、<ruby>福岡<rt>ふくおか</rt></ruby>でもそのまま<ruby>使<rt>つか</rt></ruby>えるのでしょうか？
+<ruby>答<rt>こた</rt></ruby>えは**「<ruby>全国<rt>ぜんこく</rt></ruby>10<ruby>大<rt>だい</rt></ruby><ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>ICカードは、ほぼ<ruby>日本<rt>にほん</rt></ruby><ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>相互<rt>そうご</rt></ruby><ruby>利用<rt>りよう</rt></ruby>できる！」**です！
 
 ```
 【相互利用できる日本の10大交通系ICカード】
@@ -142,14 +142,14 @@ tags:
 ● 九州圏：SUGOCA（JR九州）、nimoca（西鉄）、はやかけん（福岡市地下鉄）
 ```
 
-### ⚠️ エリアまたぎの利用（境界線トラップ）に注意！
-新幹線を使わずに在来線で長距離移動する際、「JR東日本エリア（熱海駅など）」から「JR東海エリア（三島駅など）」へ**エリアをまたいで改札を通ることはできません**。エリアの境界駅をまたぐ場合は、あらかじめ紙の切符を購入するか、窓口で精算する必要があります！
+### ⚠️ エリアまたぎの<ruby>利用<rt>りよう</rt></ruby>（<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby>トラップ）に<ruby>注意<rt>ちゅうい</rt></ruby>！
+<ruby>新幹線<rt>しんかんせん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わずに<ruby>在来<rt>ざいらい</rt></ruby><ruby>線<rt>せん</rt></ruby>で<ruby>長距離<rt>ちょうきょり</rt></ruby><ruby>移動<rt>いどう</rt></ruby>する<ruby>際<rt>さい</rt></ruby>、「JR<ruby>東日本<rt>ひがしにっぽん</rt></ruby>エリア（<ruby>熱海<rt>あたみ</rt></ruby><ruby>駅<rt>えき</rt></ruby>など）」から「JR<ruby>東海<rt>とうかい</rt></ruby>エリア（<ruby>三島<rt>みしま</rt></ruby><ruby>駅<rt>えき</rt></ruby>など）」へ**エリアをまたいで<ruby>改札<rt>かいさつ</rt></ruby>を<ruby>通<rt>とお</rt></ruby>ることはできません**。エリアの<ruby>境界<rt>きょうかい</rt></ruby><ruby>駅<rt>えき</rt></ruby>をまたぐ<ruby>場合<rt>ばあい</rt></ruby>は、あらかじめ<ruby>紙<rt>かみ</rt></ruby>の<ruby>切符<rt>きっぷ</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>するか、<ruby>窓口<rt>まどぐち</rt></ruby>で<ruby>精算<rt>せいさん</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>があります！
 
 ---
 
-## 6. 理解度チェック！改札トラブル回避クイズ
+## 6. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！<ruby>改札<rt>かいさつ</rt></ruby>トラブル<ruby>回避<rt>かいひ</rt></ruby>クイズ
 
-あなたの改札サバイバル力を試す3問クイズです！
+あなたの<ruby>改札<rt>かいさつ</rt></ruby>サバイバル<ruby>力<rt>りょく</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
 【第1問】
@@ -169,22 +169,22 @@ tags:
 ② 推奨されない（読み取りエラーの原因になるので、ピタッと0.5秒密着させるべき）
 ```
 
-### 【正解と解説】
-* **第1問の正解：② 右側**  
-  日本の改札はすべて右利き前提で設計されています。左手で左側の機械にタッチすると隣の人を止めてしまいます！
-* **第2問の正解：② 入場できない**  
-  初乗り運賃以上の残高がないと、入場ゲートを開けてくれません。事前にチャージ機でチャージしましょう！
-* **第3問の正解：② 推奨されない**  
-  浮かせすぎると通信エラーになりやすく、背後の人に追突されるリスクが高まります。「ピタッ」と音が鳴るまで0.5秒触れるのが確実です！
+### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
+* **<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② <ruby>右側<rt>みぎがわ</rt></ruby>**
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>はすべて<ruby>右<rt>みぎ</rt></ruby><ruby>利<rt>き</rt></ruby>き<ruby>前提<rt>ぜんてい</rt></ruby>で<ruby>設計<rt>せっけい</rt></ruby>されています。<ruby>左手<rt>ひだりて</rt></ruby>で<ruby>左側<rt>ひだりがわ</rt></ruby>の<ruby>機械<rt>きかい</rt></ruby>にタッチすると<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>止<rt>と</rt></ruby>めてしまいます！
+* **<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② <ruby>入場<rt>にゅうじょう</rt></ruby>できない**
+<ruby>初乗<rt>はつの</rt></ruby>り<ruby>運賃<rt>うんちん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>残高<rt>ざんだか</rt></ruby>がないと、<ruby>入場<rt>にゅうじょう</rt></ruby>ゲートを<ruby>開<rt>あ</rt></ruby>けてくれません。<ruby>事前<rt>じぜん</rt></ruby>にチャージ<ruby>機<rt>き</rt></ruby>でチャージしましょう！
+* **<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② <ruby>推奨<rt>すいしょう</rt></ruby>されない**
+<ruby>浮<rt>う</rt></ruby>かせすぎると<ruby>通信<rt>つうしん</rt></ruby>エラーになりやすく、<ruby>背後<rt>はいご</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>追突<rt>ついとつ</rt></ruby>されるリスクが<ruby>高<rt>たか</rt></ruby>まります。「ピタッ」と<ruby>音<rt>おと</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>るまで0.5<ruby>秒<rt>びょう</rt></ruby><ruby>触<rt>ふ</rt></ruby>れるのが<ruby>確実<rt>かくじつ</rt></ruby>です！
 
 ---
 
-## 7. まとめ：駅の自動改札を風のように通り抜ける心得
+## 7. まとめ：<ruby>駅<rt>えき</rt></ruby>の<ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>を<ruby>風<rt>かぜ</rt></ruby>のように<ruby>通り抜<rt>とおりぬ</rt></ruby>ける<ruby>心得<rt>こころえ</rt></ruby>
 
-1. **ICカードは常に残高1,000円以上をキープしておく！**
-2. **タッチパネルは常に「右手側」！ 右手で軽く「ピタッ」と0.5秒当てる！**
-3. **扉が閉まったら慌てず一歩下がり、後続の人に道を譲る！**
-4. **不足分は改札を出る前の「のりこし精算機」でサクッと精算！**
-5. **原因不明のエラーは一番端の「駅員窓口」へ持っていけば一発解決！**
+1. **ICカードは<ruby>常<rt>つね</rt></ruby>に<ruby>残高<rt>ざんだか</rt></ruby>1,000<ruby>円<rt>えん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>をキープしておく！**
+2. **タッチパネルは<ruby>常<rt>つね</rt></ruby>に「<ruby>右手<rt>みぎて</rt></ruby><ruby>側<rt>がわ</rt></ruby>」！ <ruby>右手<rt>みぎて</rt></ruby>で<ruby>軽<rt>かる</rt></ruby>く「ピタッ」と0.5<ruby>秒<rt>びょう</rt></ruby><ruby>当<rt>あ</rt></ruby>てる！**
+3. **<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まったら<ruby>慌<rt>あわ</rt></ruby>てず<ruby>一<rt>いち</rt></ruby><ruby>歩<rt>ほ</rt></ruby><ruby>下<rt>さ</rt></ruby>がり、<ruby>後続<rt>こうぞく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>る！**
+4. **<ruby>不足<rt>ふそく</rt></ruby><ruby>分<rt>ぶん</rt></ruby>は<ruby>改札<rt>かいさつ</rt></ruby>を<ruby>出<rt>で</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>の「のりこし<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>」でサクッと<ruby>精算<rt>せいさん</rt></ruby>！**
+5. **<ruby>原因<rt>げんいん</rt></ruby><ruby>不明<rt>ふめい</rt></ruby>のエラーは<ruby>一番<rt>いちばん</rt></ruby><ruby>端<rt>たん</rt></ruby>の「<ruby>駅員<rt>えきいん</rt></ruby><ruby>窓口<rt>まどぐち</rt></ruby>」へ<ruby>持<rt>も</rt></ruby>っていけば<ruby>一<rt>いち</rt></ruby><ruby>発<rt>はつ</rt></ruby><ruby>解決<rt>かいけつ</rt></ruby>！**
 
-日本の駅の改札機は、慣れてしまえば世界一スムーズで爽快なシステムです。マナーと仕組みを身につけて、毎日の通勤や旅を風のように軽やかに駆け抜けましょう！
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>は、<ruby>慣<rt>な</rt></ruby>れてしまえば<ruby>世界一<rt>せかいいち</rt></ruby>スムーズで<ruby>爽快<rt>そうかい</rt></ruby>なシステムです。マナーと<ruby>仕組<rt>しく</rt></ruby>みを<ruby>身<rt>み</rt></ruby>につけて、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>通勤<rt>つうきん</rt></ruby>や<ruby>旅<rt>たび</rt></ruby>を<ruby>風<rt>かぜ</rt></ruby>のように<ruby>軽<rt>かろ</rt></ruby>やかに<ruby>駆け抜<rt>かけぬ</rt></ruby>けましょう！

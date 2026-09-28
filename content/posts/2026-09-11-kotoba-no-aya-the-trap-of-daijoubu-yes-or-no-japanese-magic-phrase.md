@@ -25,47 +25,47 @@ description: "「レシート大丈夫です」はNOなのに、「この席大�
 ---
 
 
-### 💡 職場での悲劇：「大丈夫です」と言って大炎上した新人のケーススタディ
+### 💡 <ruby>職場<rt>しょくば</rt></ruby>での<ruby>悲劇<rt>ひげき</rt></ruby>：「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>って<ruby>大<rt>だい</rt></ruby><ruby>炎上<rt>えんじょう</rt></ruby>した<ruby>新人<rt>しんじん</rt></ruby>のケーススタディ
 
-ビジネス現場において、「大丈夫です」という言葉は最も危険な地雷ワードの一つです。
+ビジネス<ruby>現場<rt>げんば</rt></ruby>において、「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」という<ruby>言葉<rt>ことば</rt></ruby>は<ruby>最<rt>もっと</rt></ruby>も<ruby>危険<rt>きけん</rt></ruby>な<ruby>地雷<rt>じらい</rt></ruby>ワードの<ruby>一<rt>ひと</rt></ruby>つです。
 
-#### 実際のトラブル事例
-- **上司**: 「田中くん、来週月曜日のプレゼン資料、進捗はどう？間に合いそう？」
-- **新人（田中くん）**: 「**はい、大丈夫です！**」
-- **上司の解釈**: 「（おお、すでに8〜9割完成していて、順調に進んでいるんだな）」
-- **月曜日の朝**:
-  - 上司: 「資料見せて」
-  - 田中: 「実はまだ全体の3割しかできていません…」
-  - 上司: 「えっ！？金曜日に『大丈夫』って言ったじゃないか！」
-  - 田中: 「『これから徹夜して頑張れば何とかなる（平気）』という意味で大丈夫と言いました…」
+#### <ruby>実際<rt>じっさい</rt></ruby>のトラブル<ruby>事例<rt>じれい</rt></ruby>
+- **<ruby>上司<rt>じょうし</rt></ruby>**: 「<ruby>田中<rt>たなか</rt></ruby>くん、<ruby>来週<rt>らいしゅう</rt></ruby><ruby>月曜日<rt>げつようび</rt></ruby>のプレゼン<ruby>資料<rt>しりょう</rt></ruby>、<ruby>進捗<rt>しんちょく</rt></ruby>はどう？<ruby>間に合<rt>まにあ</rt></ruby>いそう？」
+- **<ruby>新人<rt>しんじん</rt></ruby>（<ruby>田中<rt>たなか</rt></ruby>くん）**: 「**はい、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です！**」
+- **<ruby>上司<rt>じょうし</rt></ruby>の<ruby>解釈<rt>かいしゃく</rt></ruby>**: 「（おお、すでに8〜9<ruby>割<rt>わり</rt></ruby><ruby>完成<rt>かんせい</rt></ruby>していて、<ruby>順調<rt>じゅんちょう</rt></ruby>に<ruby>進<rt>すす</rt></ruby>んでいるんだな）」
+- **<ruby>月曜日<rt>げつようび</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>**:
+- <ruby>上司<rt>じょうし</rt></ruby>: 「<ruby>資料<rt>しりょう</rt></ruby><ruby>見<rt>み</rt></ruby>せて」
+- <ruby>田中<rt>たなか</rt></ruby>: 「<ruby>実<rt>じつ</rt></ruby>はまだ<ruby>全体<rt>ぜんたい</rt></ruby>の3<ruby>割<rt>わり</rt></ruby>しかできていません…」
+- <ruby>上司<rt>じょうし</rt></ruby>: 「えっ！？<ruby>金曜日<rt>きんようび</rt></ruby>に『<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>』って<ruby>言<rt>い</rt></ruby>ったじゃないか！」
+- <ruby>田中<rt>たなか</rt></ruby>: 「『これから<ruby>徹夜<rt>てつや</rt></ruby>して<ruby>頑張<rt>がんば</rt></ruby>れば<ruby>何<rt>なん</rt></ruby>とかなる（<ruby>平気<rt>へいき</rt></ruby>）』という<ruby>意味<rt>いみ</rt></ruby>で<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>と<ruby>言<rt>い</rt></ruby>いました…」
 
-このように、「客観的に見て問題がない（順調）」という意味で使う上司と、「主観的な精神論として平気」という意味で使う部下との間で、致命的な認識のズレが発生します。
+このように、「<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>見<rt>み</rt></ruby>て<ruby>問題<rt>もんだい</rt></ruby>がない（<ruby>順調<rt>じゅんちょう</rt></ruby>）」という<ruby>意味<rt>いみ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>上司<rt>じょうし</rt></ruby>と、「<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>精神<rt>せいしん</rt></ruby><ruby>論<rt>ろん</rt></ruby>として<ruby>平気<rt>へいき</rt></ruby>」という<ruby>意味<rt>いみ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>部下<rt>ぶか</rt></ruby>との<ruby>間<rt>ま</rt></ruby>で、<ruby>致命<rt>ちめい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>認識<rt>にんしき</rt></ruby>のズレが<ruby>発生<rt>はっせい</rt></ruby>します。
 
-#### ビジネスで「大丈夫です」を撲滅する具体化ルール
-ビジネス現場では「大丈夫です」という言葉を極力使わず、**数値と状態**で答えるのが鉄則です。
+#### ビジネスで「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」を<ruby>撲滅<rt>ぼくめつ</rt></ruby>する<ruby>具体<rt>ぐたい</rt></ruby><ruby>化<rt>か</rt></ruby>ルール
+ビジネス<ruby>現場<rt>げんば</rt></ruby>では「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」という<ruby>言葉<rt>ことば</rt></ruby>を<ruby>極力<rt>きょくりょく</rt></ruby><ruby>使<rt>つか</rt></ruby>わず、**<ruby>数値<rt>すうち</rt></ruby>と<ruby>状態<rt>じょうたい</rt></ruby>**で<ruby>答<rt>こた</rt></ruby>えるのが<ruby>鉄則<rt>てっそく</rt></ruby>です。
 
-| 上司の質問 | 危険な回答（NG） | 信頼されるプロの回答（OK） |
+|<ruby>上司<rt>じょうし</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>|<ruby>危険<rt>きけん</rt></ruby>な<ruby>回答<rt>かいとう</rt></ruby>（NG）|<ruby>信頼<rt>しんらい</rt></ruby>されるプロの<ruby>回答<rt>かいとう</rt></ruby>（OK）|
 | :--- | :--- | :--- |
-| **進捗の確認** | 「大丈夫です！」 | 「現在70%完了しており、**明日の15時までに初稿を提出できます**」 |
-| **体調・負荷の確認** | 「大丈夫です…（倒れそう）」 | 「少しタスクが詰まっているため、**Aの作業の優先順位を下げてもよろしいでしょうか**」 |
-| **手伝いの申し出** | 「あ、大丈夫です」 | 「お気遣いありがとうございます。**現時点では自力で対応できそうです**」 |
+|**<ruby>進捗<rt>しんちょく</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>**|「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です！」|「<ruby>現在<rt>げんざい</rt></ruby>70%<ruby>完了<rt>かんりょう</rt></ruby>しており、**<ruby>明日<rt>あした</rt></ruby>の15<ruby>時<rt>じ</rt></ruby>までに<ruby>初稿<rt>しょこう</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>できます**」|
+|**<ruby>体調<rt>たいちょう</rt></ruby>・<ruby>負荷<rt>ふか</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>**|「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です…（<ruby>倒<rt>たお</rt></ruby>れそう）」|「<ruby>少<rt>すこ</rt></ruby>しタスクが<ruby>詰<rt>つ</rt></ruby>まっているため、**Aの<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>優先<rt>ゆうせん</rt></ruby><ruby>順位<rt>じゅんい</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げてもよろしいでしょうか**」|
+|**<ruby>手伝<rt>てつだ</rt></ruby>いの<ruby>申し出<rt>もうしで</rt></ruby>**|「あ、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」|「お<ruby>気<rt>き</rt></ruby><ruby>遣<rt>づか</rt></ruby>いありがとうございます。**<ruby>現時点<rt>げんじてん</rt></ruby>では<ruby>自力<rt>じりき</rt></ruby>で<ruby>対応<rt>たいおう</rt></ruby>できそうです**」|
 
-曖昧さを排除し、具体的な根拠を添えることで、あなたのビジネスパーソンとしての評価は一気に高まります。
+<ruby>曖昧<rt>あいまい</rt></ruby>さを<ruby>排除<rt>はいじょ</rt></ruby>し、<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>根拠<rt>こんきょ</rt></ruby>を<ruby>添<rt>そ</rt></ruby>えることで、あなたのビジネスパーソンとしての<ruby>評価<rt>ひょうか</rt></ruby>は<ruby>一気<rt>いっき</rt></ruby>に<ruby>高<rt>たか</rt></ruby>まります。
 
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **曖昧（あいまい）** 【JLPT N1】
-  * 意味：ambiguous, vague
-  * 例文：「大丈夫」という言葉は、文脈によって意味が曖昧になりやすい。
-* **肯定（こうてい）** 【JLPT N2】
-  * 意味：affirmation
-  * 例文：レジ袋が必要かどうか聞かれて、不要なら「いりません」と明確に答える。
-* **気遣い（きづかい）** 【JLPT N2】
-  * 意味：consideration, concern
-  * 例文：転んだ同僚に「大丈夫ですか」と声をかけ、相手を気遣う。
+* **<ruby>曖昧<rt>あいまい</rt></ruby>（あいまい）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：ambiguous, vague
+* <ruby>例文<rt>れいぶん</rt></ruby>：「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>」という<ruby>言葉<rt>ことば</rt></ruby>は、<ruby>文脈<rt>ぶんみゃく</rt></ruby>によって<ruby>意味<rt>いみ</rt></ruby>が<ruby>曖昧<rt>あいまい</rt></ruby>になりやすい。
+* **<ruby>肯定<rt>こうてい</rt></ruby>（こうてい）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：affirmation
+* <ruby>例文<rt>れいぶん</rt></ruby>：レジ<ruby>袋<rt>ぶくろ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>かどうか<ruby>聞<rt>き</rt></ruby>かれて、<ruby>不要<rt>ふよう</rt></ruby>なら「いりません」と<ruby>明確<rt>めいかく</rt></ruby>に<ruby>答<rt>こた</rt></ruby>える。
+* **<ruby>気遣<rt>きづか</rt></ruby>い（きづかい）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：consideration, concern
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>転<rt>ころ</rt></ruby>んだ<ruby>同僚<rt>どうりょう</rt></ruby>に「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか」と<ruby>声<rt>こえ</rt></ruby>をかけ、<ruby>相手<rt>あいて</rt></ruby>を<ruby>気遣<rt>きづか</rt></ruby>う。
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい「ことばのあや」<ruby>関連<rt>かんれん</rt></ruby><ruby>記事<rt>きじ</rt></ruby>

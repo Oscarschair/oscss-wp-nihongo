@@ -1,5 +1,6 @@
 ---
-title: "街角サバイバル：日本のカフェの「店内ですか？お持ち帰りですか？」の試練｜軽減税率10%VS8%の罠とマグカップか紙コップかの二重尋問完全突破マニュアル"
+title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>日本<rt>にほん</rt></ruby>のカフェの「<ruby>店内<rt>てんない</rt></ruby>ですか？お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りですか？」の<ruby>試練<rt>しれん</rt></ruby>｜<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>10%VS8%の<ruby>罠<rt>わな</rt></ruby>とマグカップか<ruby>紙<rt>し</rt></ruby>コップかの<ruby>二<rt>に</rt></ruby><ruby>重<rt>じゅう</rt></ruby><ruby>尋問<rt>じんもん</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>突破<rt>とっぱ</rt></ruby>マニュアル"
+
 description: "日本のスタバやドトールでコーヒーを頼んだら、店員さんから矢継ぎ早に繰り出される質問攻め！？『店内でお召し上がりですか？』『マグカップでよろしいですか？』『レシートご利用ですか？』。なぜ持ち帰りと店内で税率が変わるのか？サイズ・カスタム注文からスマートな返答フレーズまで徹底解説！"
 slug: "street-japanese-cafe-order-survival-mug-or-paper-guide"
 date: "2026-09-21T08:00:00+09:00"
@@ -13,57 +14,56 @@ tags:
   - グルメ・食事
   - JLPT N3
 ---
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いていて、ちょっと<ruby>一息<rt>ひといき</rt></ruby>つきたい<ruby>時<rt>とき</rt></ruby>に<ruby>立ち寄<rt>たちよ</rt></ruby>るカフェ（スターバックス、ドトール、タリーズ、コメダ<ruby>珈琲<rt>こーひー</rt></ruby>など）。
+「アイスコーヒーを1つ<ruby>頼<rt>たの</rt></ruby>むだけだから<ruby>簡単<rt>かんたん</rt></ruby>でしょ！」と<ruby>高<rt>こう</rt></ruby>を<ruby>括<rt>くく</rt></ruby>ってレジに<ruby>並<rt>なら</rt></ruby>んだ<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が、<ruby>店員<rt>てんいん</rt></ruby>さんの**「<ruby>高速<rt>こうそく</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>ラッシュ」**に<ruby>直面<rt>ちょくめん</rt></ruby>して<ruby>固<rt>かた</rt></ruby>まってしまう<ruby>光景<rt>こうけい</rt></ruby>がよく<ruby>見<rt>み</rt></ruby>られます。
 
-日本の街を歩いていて、ちょっと一息つきたい時に立ち寄るカフェ（スターバックス、ドトール、タリーズ、コメダ珈琲など）。
-「アイスコーヒーを1つ頼むだけだから簡単でしょ！」と高を括ってレジに並んだ外国人旅行者が、店員さんの**「高速の質問ラッシュ」**に直面して固まってしまう光景がよく見られます。
+ある<ruby>日<rt>ひ</rt></ruby>の<ruby>午後<rt>ごご</rt></ruby>、<ruby>近所<rt>きんじょ</rt></ruby>のカフェを<ruby>訪<rt>おとず</rt></ruby>れたクルマの<ruby>体験<rt>たいけん</rt></ruby>を<ruby>見<rt>み</rt></ruby>てみましょう。
 
-ある日の午後、近所のカフェを訪れたクルマの体験を見てみましょう。
-
-> ☕ **店員さん**：「いらっしゃいませ！ ご注文はお決まりですか？」  
+> ☕ **<ruby>店員<rt>てんいん</rt></ruby>さん**：「いらっしゃいませ！ ご<ruby>注文<rt>ちゅうもん</rt></ruby>はお<ruby>決<rt>き</rt></ruby>まりですか？」
 > 🚗 **クルマ**：「アイスカフェラテのMサイズを1つください！」  
-> ☕ **店員さん**：「かしこまりました！ **『店内でお召し上がりですか？ それともお持ち帰りですか？』**」  
-> 🚗 **クルマ**：「あ、店内で飲みます！」  
-> ☕ **店員さん**：「ありがとうございます！ **『お召し上がりでしたら、マグカップでのご提供でよろしいでしょうか？』**」  
-> 🚗 **クルマ**：「（えっ……マグカップ？ 紙コップじゃダメなの？ 何が違うの？）あ、は、はい……」  
-> ☕ **店員さん**：「サイズはトールサイズですね。シロップやミルクの変更はございますか？」  
+> ☕ **<ruby>店員<rt>てんいん</rt></ruby>さん**：「かしこまりました！ **『<ruby>店内<rt>てんない</rt></ruby>でお<ruby>召し上<rt>めしあ</rt></ruby>がりですか？ それともお<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りですか？』**」
+> 🚗 **クルマ**：「あ、<ruby>店内<rt>てんない</rt></ruby>で<ruby>飲<rt>の</rt></ruby>みます！」
+> ☕ **<ruby>店員<rt>てんいん</rt></ruby>さん**：「ありがとうございます！ **『お<ruby>召し上<rt>めしあ</rt></ruby>がりでしたら、マグカップでのご<ruby>提供<rt>ていきょう</rt></ruby>でよろしいでしょうか？』**」
+> 🚗 **クルマ**：「（えっ……マグカップ？ <ruby>紙<rt>かみ</rt></ruby>コップじゃダメなの？ <ruby>何<rt>なに</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うの？）あ、は、はい……」
+> ☕ **<ruby>店員<rt>てんいん</rt></ruby>さん**：「サイズはトールサイズですね。シロップやミルクの<ruby>変更<rt>へんこう</rt></ruby>はございますか？」
 > 🚗 **クルマ**：「な、ないです……！」  
-> ☕ **店員さん**：「お会計〇〇円になります。……**『レシートご利用ですか？』**」  
-> 🚗 **クルマ**：「（ぜえぜえ……息切れ）コーヒー1杯頼むだけで、なんでこんなに尋問（質問）されるのーーーっ！？ しかもレシートに『税率10%』って書いてあるけど、持ち帰りなら8%だったの！？ なんでーーーっ！？」
+> ☕ **<ruby>店員<rt>てんいん</rt></ruby>さん**：「お<ruby>会計<rt>かいけい</rt></ruby>〇〇<ruby>円<rt>えん</rt></ruby>になります。……**『レシートご<ruby>利用<rt>りよう</rt></ruby>ですか？』**」
+> 🚗 **クルマ**：「（ぜえぜえ……<ruby>息切<rt>いきぎ</rt></ruby>れ）コーヒー1<ruby>杯<rt>はい</rt></ruby><ruby>頼<rt>たの</rt></ruby>むだけで、なんでこんなに<ruby>尋問<rt>じんもん</rt></ruby>（<ruby>質問<rt>しつもん</rt></ruby>）されるのーーーっ！？ しかもレシートに『<ruby>税率<rt>ぜいりつ</rt></ruby>10%』って<ruby>書<rt>か</rt></ruby>いてあるけど、<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りなら8%だったの！？ なんでーーーっ！？」
 
-実は、日本のカフェのレジには**「2019年の軽減税率導入」**と**「近年の環境配慮（脱プラスチック）」**が生み出した、独特の選択肢と質問プロトコルが存在します。
+<ruby>実<rt>じつ</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>のカフェのレジには**「2019<ruby>年<rt>ねん</rt></ruby>の<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby><ruby>導入<rt>どうにゅう</rt></ruby>」**と**「<ruby>近年<rt>きんねん</rt></ruby>の<ruby>環境<rt>かんきょう</rt></ruby><ruby>配慮<rt>はいりょ</rt></ruby>（<ruby>脱<rt>だつ</rt></ruby>プラスチック）」**が<ruby>生み出<rt>うみだ</rt></ruby>した、<ruby>独特<rt>どくとく</rt></ruby>の<ruby>選択肢<rt>せんたくし</rt></ruby>と<ruby>質問<rt>しつもん</rt></ruby>プロトコルが<ruby>存在<rt>そんざい</rt></ruby>します。
 
-今回は、レジ前で慌てずに自分の飲みたいドリンクを完璧にゲットするための「カフェ注文サバイバル完全攻略ガイド」をお届けします！
-
----
-
-## 🎯 今回の語彙（重要ボキャブラリー）
-
-この学習ノートに登場した、覚えておきたい重要日本語：
-
-* **店内（てんない）** 【JLPT N3】
-  * 意味：inside the store / dining in
-  * 例文：店内の席が満席だったため、テイクアウトに変更した。
-* **持ち帰り（もちかえり）** 【JLPT N3】
-  * 意味：takeout, to go (テイクアウト)
-  * 例文：オフィスで飲むために、アイスコーヒーを持ち帰りで注文した。
-* **軽減税率（けいげんぜいりつ）** 【JLPT N1】
-  * 意味：reduced tax rate (8% for groceries/takeout vs 10% standard)
-  * 例文：日本では飲食料品の持ち帰りに対して、8%の軽減税率が適用される。
-* **提供（ていきょう）** 【JLPT N2】
-  * 意味：offer, providing, serving
-  * 例文：環境保護のため、店内でのお召し上がりはグラスやマグカップで提供されます。
-* **変更（へんこう）** 【JLPT N3】
-  * 意味：change, alteration
-  * 例文：牛乳を豆乳（ソイミルク）やオーツミルクに変更して注文する。
-* **受取口（うけとりぐち）** 【JLPT N2】
-  * 意味：pickup counter
-  * 例文：レジでお会計を済ませた後、左側の受取口でお待ちください。
+<ruby>今回<rt>こんかい</rt></ruby>は、レジ<ruby>前<rt>まえ</rt></ruby>で<ruby>慌<rt>あわ</rt></ruby>てずに<ruby>自分<rt>じぶん</rt></ruby>の<ruby>飲<rt>の</rt></ruby>みたいドリンクを<ruby>完璧<rt>かんぺき</rt></ruby>にゲットするための「カフェ<ruby>注文<rt>ちゅうもん</rt></ruby>サバイバル<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>ガイド」をお<ruby>届<rt>とど</rt></ruby>けします！
 
 ---
 
-## 1. なぜ聞かれる？ カフェのレジでの「3大質問」と理由
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-レジの店員さんが必ず聞いてくる3つの質問には、すべて法律やお店のルールに基づいた明確な理由があります。
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
+
+* **<ruby>店内<rt>てんない</rt></ruby>（てんない）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：inside the store / dining in
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>店内<rt>てんない</rt></ruby>の<ruby>席<rt>せき</rt></ruby>が<ruby>満席<rt>まんせき</rt></ruby>だったため、テイクアウトに<ruby>変更<rt>へんこう</rt></ruby>した。
+* **<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り（もちかえり）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：takeout, to go (テイクアウト)
+* <ruby>例文<rt>れいぶん</rt></ruby>：オフィスで<ruby>飲<rt>の</rt></ruby>むために、アイスコーヒーを<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りで<ruby>注文<rt>ちゅうもん</rt></ruby>した。
+* **<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>（けいげんぜいりつ）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：reduced tax rate (8% for groceries/takeout vs 10% standard)
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>では<ruby>飲食料品<rt>いんしょくりょうひん</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りに<ruby>対<rt>たい</rt></ruby>して、8%の<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>が<ruby>適用<rt>てきよう</rt></ruby>される。
+* **<ruby>提供<rt>ていきょう</rt></ruby>（ていきょう）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：offer, providing, serving
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>環境<rt>かんきょう</rt></ruby><ruby>保護<rt>ほご</rt></ruby>のため、<ruby>店内<rt>てんない</rt></ruby>でのお<ruby>召し上<rt>めしあ</rt></ruby>がりはグラスやマグカップで<ruby>提供<rt>ていきょう</rt></ruby>されます。
+* **<ruby>変更<rt>へんこう</rt></ruby>（へんこう）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：change, alteration
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>を<ruby>豆乳<rt>とうにゅう</rt></ruby>（ソイミルク）やオーツミルクに<ruby>変更<rt>へんこう</rt></ruby>して<ruby>注文<rt>ちゅうもん</rt></ruby>する。
+* **<ruby>受取<rt>うけとり</rt></ruby><ruby>口<rt>ぐち</rt></ruby>（うけとりぐち）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：pickup counter
+* <ruby>例文<rt>れいぶん</rt></ruby>：レジでお<ruby>会計<rt>かいけい</rt></ruby>を<ruby>済<rt>す</rt></ruby>ませた<ruby>後<rt>のち</rt></ruby>、<ruby>左側<rt>ひだりがわ</rt></ruby>の<ruby>受取<rt>うけとり</rt></ruby><ruby>口<rt>ぐち</rt></ruby>でお<ruby>待<rt>ま</rt></ruby>ちください。
+
+---
+
+## 1. なぜ<ruby>聞<rt>き</rt></ruby>かれる？ カフェのレジでの「3<ruby>大<rt>だい</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>」と<ruby>理由<rt>りゆう</rt></ruby>
+
+レジの<ruby>店員<rt>てんいん</rt></ruby>さんが<ruby>必<rt>かなら</rt></ruby>ず<ruby>聞<rt>き</rt></ruby>いてくる3つの<ruby>質問<rt>しつもん</rt></ruby>には、すべて<ruby>法律<rt>ほうりつ</rt></ruby>やお<ruby>店<rt>みせ</rt></ruby>のルールに<ruby>基<rt>もと</rt></ruby>づいた<ruby>明確<rt>めいかく</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>があります。
 
 ```
 【カフェのレジで聞かれる3大質問】
@@ -81,27 +81,27 @@ tags:
      要らない人に無理に渡さないための日本流の確認。
 ```
 
-### ⚠️ 「持ち帰りで」と言って店内の席に座るのはマナー違反！
-「8%で安く買って、店内の席で飲めばお得じゃん！」と考える人がいますが、これは**税金逃れ（不正行為）**とみなされ、お店にも迷惑がかかる重大なマナー違反です。席を利用するなら、堂々と「店内で」と答えて10%の正規税率を支払いましょう！
+### ⚠️ 「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りで」と<ruby>言<rt>い</rt></ruby>って<ruby>店内<rt>てんない</rt></ruby>の<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>るのはマナー<ruby>違反<rt>いはん</rt></ruby>！
+「8%で<ruby>安<rt>やす</rt></ruby>く<ruby>買<rt>か</rt></ruby>って、<ruby>店内<rt>てんない</rt></ruby>の<ruby>席<rt>せき</rt></ruby>で<ruby>飲<rt>の</rt></ruby>めばお<ruby>得<rt>とく</rt></ruby>じゃん！」と<ruby>考<rt>かんが</rt></ruby>える<ruby>人<rt>ひと</rt></ruby>がいますが、これは**<ruby>税金<rt>ぜいきん</rt></ruby><ruby>逃<rt>のが</rt></ruby>れ（<ruby>不正<rt>ふせい</rt></ruby><ruby>行為<rt>こうい</rt></ruby>）**とみなされ、お<ruby>店<rt>みせ</rt></ruby>にも<ruby>迷惑<rt>めいわく</rt></ruby>がかかる<ruby>重大<rt>じゅうだい</rt></ruby>なマナー<ruby>違反<rt>いはん</rt></ruby>です。<ruby>席<rt>せき</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>するなら、<ruby>堂々<rt>どうどう</rt></ruby>と「<ruby>店内<rt>てんない</rt></ruby>で」と<ruby>答<rt>こた</rt></ruby>えて10%の<ruby>正規<rt>せいき</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>を<ruby>支払<rt>しはら</rt></ruby>いましょう！
 
 ---
 
-## 2. 一瞬で通じる！ レジでのスマート返答フレーズ集
+## 2. <ruby>一瞬<rt>いっしゅん</rt></ruby>で<ruby>通<rt>つう</rt></ruby>じる！ レジでのスマート<ruby>返答<rt>へんとう</rt></ruby>フレーズ<ruby>集<rt>しゅう</rt></ruby>
 
-店員さんの質問に対する、ネイティブの最もシンプルで美しい答え方を覚えましょう！
+<ruby>店員<rt>てんいん</rt></ruby>さんの<ruby>質問<rt>しつもん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する、ネイティブの<ruby>最<rt>もっと</rt></ruby>もシンプルで<ruby>美<rt>うつく</rt></ruby>しい<ruby>答<rt>こた</rt></ruby>え<ruby>方<rt>かた</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えましょう！
 
-| 店員さんの質問 | あなたの返答（店内） | あなたの返答（持ち帰り） |
+|<ruby>店員<rt>てんいん</rt></ruby>さんの<ruby>質問<rt>しつもん</rt></ruby>|あなたの<ruby>返答<rt>へんとう</rt></ruby>（<ruby>店内<rt>てんない</rt></ruby>）|あなたの<ruby>返答<rt>へんとう</rt></ruby>（<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り）|
 | :--- | :--- | :--- |
-| **「店内ですか？ お持ち帰りですか？」** | **「店内で（お願いします）。」** | **「持ち帰りで（お願いします）。」** |
-| **「マグカップでよろしいですか？」** | **「はい、マグで大丈夫です。」**<br>（※紙がいいなら「紙コップでお願いします」） | （聞かれません＝紙/プラカップになります） |
-| **「レシートご利用ですか？」** | **「大丈夫です（要りません）。」** または **「ください。」** | 同左 |
-| **「ポイントカードはお持ちですか？」** | **「ないです。」** または **「これで（アプリ提示）」** | 同左 |
+|**「<ruby>店内<rt>てんない</rt></ruby>ですか？ お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りですか？」**|**「<ruby>店内<rt>てんない</rt></ruby>で（お<ruby>願<rt>ねが</rt></ruby>いします）。」**|**「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りで（お<ruby>願<rt>ねが</rt></ruby>いします）。」**|
+| **「マグカップでよろしいですか？」** | **「はい、マグで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。」**<br>（※<ruby>紙<rt>し</rt></ruby>がいいなら「<ruby>紙<rt>かみ</rt></ruby>コップでお<ruby>願<rt>ねが</rt></ruby>いします」） | （<ruby>聞<rt>き</rt></ruby>かれません＝<ruby>紙<rt>し</rt></ruby>/プラカップになります） |
+|**「レシートご<ruby>利用<rt>りよう</rt></ruby>ですか？」**|**「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です（<ruby>要<rt>い</rt></ruby>りません）。」** または **「ください。」**|<ruby>同左<rt>どうさ</rt></ruby>|
+|**「ポイントカードはお<ruby>持<rt>も</rt></ruby>ちですか？」**|**「ないです。」** または **「これで（アプリ<ruby>提示<rt>ていじ</rt></ruby>）」**|<ruby>同左<rt>どうさ</rt></ruby>|
 
 ---
 
-## 3. 日本のカフェのサイズ表記トラップ
+## 3. <ruby>日本<rt>にほん</rt></ruby>のカフェのサイズ<ruby>表記<rt>ひょうき</rt></ruby>トラップ
 
-お店によってドリンクのサイズ表記が全く異なるのも、初心者が混乱するポイントです。
+お<ruby>店<rt>みせ</rt></ruby>によってドリンクのサイズ<ruby>表記<rt>ひょうき</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>異<rt>こと</rt></ruby>なるのも、<ruby>初心者<rt>しょしんしゃ</rt></ruby>が<ruby>混乱<rt>こんらん</rt></ruby>するポイントです。
 
 ```
 【主なカフェチェーンのサイズ比較】
@@ -110,40 +110,40 @@ tags:
 ● コメダ珈琲店：レギュラー ➔ たっぷりサイズ（約1.5倍！）
 ```
 
-迷ったら、**「Mサイズで」「普通サイズで」**と言えば、店員さんが「トールですね！」と変換して確認してくれます。
+<ruby>迷<rt>まよ</rt></ruby>ったら、**「Mサイズで」「<ruby>普通<rt>ふつう</rt></ruby>サイズで」**と<ruby>言<rt>い</rt></ruby>えば、<ruby>店員<rt>てんいん</rt></ruby>さんが「トールですね！」と<ruby>変換<rt>へんかん</rt></ruby>して<ruby>確認<rt>かくにん</rt></ruby>してくれます。
 
 ---
 
-## 4. ドリンク受け取りの作法：レシートの「番号」に注目！
+## 4. ドリンク<ruby>受け取<rt>うけと</rt></ruby>りの<ruby>作法<rt>さほう</rt></ruby>：レシートの「<ruby>番号<rt>ばんごう</rt></ruby>」に<ruby>注目<rt>ちゅうもく</rt></ruby>！
 
-お会計が終わると、レジの店員さんから**「レシートの下に番号が書いてありますので、受取口でお待ちください！」**と言われます。
+お<ruby>会計<rt>かいけい</rt></ruby>が<ruby>終<rt>お</rt></ruby>わると、レジの<ruby>店員<rt>てんいん</rt></ruby>さんから**「レシートの<ruby>下<rt>した</rt></ruby>に<ruby>番号<rt>ばんごう</rt></ruby>が<ruby>書<rt>か</rt></ruby>いてありますので、<ruby>受取<rt>うけとり</rt></ruby><ruby>口<rt>ぐち</rt></ruby>でお<ruby>待<rt>ま</rt></ruby>ちください！」**と<ruby>言<rt>い</rt></ruby>われます。
 
-1. **レジから少し横に移動する**（後ろのお客様にレジを譲る）。
-2. **バー（受取口・ピックアップカウンター）の前で待つ**。
-3. 店員さんが**「アイスラテ、トールサイズでお待ちの〇〇番のお客様〜！」**と呼んだら、レシートを見せて商品を受け取る。
-4. カウンター横にある**「コンディメントバー（ミルク、砂糖、ストロー、ナプキンの置き場）」**で必要なものを自分で取る。
+1. **レジから<ruby>少<rt>すこ</rt></ruby>し<ruby>横<rt>よこ</rt></ruby>に<ruby>移動<rt>いどう</rt></ruby>する**（<ruby>後<rt>うし</rt></ruby>ろのお<ruby>客様<rt>きゃくさま</rt></ruby>にレジを<ruby>譲<rt>ゆず</rt></ruby>る）。
+2. **バー（<ruby>受取<rt>うけとり</rt></ruby><ruby>口<rt>ぐち</rt></ruby>・ピックアップカウンター）の<ruby>前<rt>まえ</rt></ruby>で<ruby>待<rt>ま</rt></ruby>つ**。
+3. <ruby>店員<rt>てんいん</rt></ruby>さんが**「アイスラテ、トールサイズでお<ruby>待<rt>ま</rt></ruby>ちの〇〇<ruby>番<rt>ばん</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>〜！」**と<ruby>呼<rt>よ</rt></ruby>んだら、レシートを<ruby>見<rt>み</rt></ruby>せて<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>受け取<rt>うけと</rt></ruby>る。
+4. カウンター<ruby>横<rt>よこ</rt></ruby>にある**「コンディメントバー（ミルク、<ruby>砂糖<rt>さとう</rt></ruby>、ストロー、ナプキンの<ruby>置き場<rt>おきば</rt></ruby>）」**で<ruby>必要<rt>ひつよう</rt></ruby>なものを<ruby>自分<rt>じぶん</rt></ruby>で<ruby>取<rt>と</rt></ruby>る。
 
 ---
 
-## 5. 常連気分を味わえる！ 日本のカフェの「神カスタム呪文」
+## 5. <ruby>常連<rt>じょうれん</rt></ruby><ruby>気分<rt>きぶん</rt></ruby>を<ruby>味<rt>あじ</rt></ruby>わえる！ <ruby>日本<rt>にほん</rt></ruby>のカフェの「<ruby>神<rt>かみ</rt></ruby>カスタム<ruby>呪文<rt>じゅもん</rt></ruby>」
 
-慣れてきたら、好みに合わせてドリンクをカスタマイズしてみましょう！
+<ruby>慣<rt>な</rt></ruby>れてきたら、<ruby>好<rt>この</rt></ruby>みに<ruby>合<rt>あ</rt></ruby>わせてドリンクをカスタマイズしてみましょう！
 
-| カスタム内容 | 店員さんへの注文フレーズ | どんな時におすすめ？ |
+|カスタム<ruby>内容<rt>ないよう</rt></ruby>|<ruby>店員<rt>てんいん</rt></ruby>さんへの<ruby>注文<rt>ちゅうもん</rt></ruby>フレーズ|どんな<ruby>時<rt>とき</rt></ruby>におすすめ？|
 | :--- | :--- | :--- |
-| **カフェイン抜き** | **「ディカフェ（カフェインレス）に変更できますか？」** | 夜遅い時間や、妊娠中・体調配慮の時 |
-| **ミルク変更** | **「ソイミルク（豆乳）/ オーツミルクに変更で」** | 牛乳が苦手な方、アレルギー、ヘルシー志向 |
-| **シロップ調整** | **「シロップ少なめ（半分）でお願いします」** | 甘すぎるのが苦手な大人のカスタム |
-| **氷の調整** | **「氷少なめ、ミルク多めでお願いします」** | ドリンクが薄まるのを防ぎ、冷たすぎないようにしたい時 |
+|**カフェイン<ruby>抜<rt>ぬ</rt></ruby>き**|**「ディカフェ（カフェインレス）に<ruby>変更<rt>へんこう</rt></ruby>できますか？」**|<ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>や、<ruby>妊娠<rt>にんしん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>・<ruby>体調<rt>たいちょう</rt></ruby><ruby>配慮<rt>はいりょ</rt></ruby>の<ruby>時<rt>とき</rt></ruby>|
+|**ミルク<ruby>変更<rt>へんこう</rt></ruby>**|**「ソイミルク（<ruby>豆乳<rt>とうにゅう</rt></ruby>）/ オーツミルクに<ruby>変更<rt>へんこう</rt></ruby>で」**|<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>な<ruby>方<rt>ほう</rt></ruby>、アレルギー、ヘルシー<ruby>志向<rt>しこう</rt></ruby>|
+|**シロップ<ruby>調整<rt>ちょうせい</rt></ruby>**|**「シロップ<ruby>少<rt>すく</rt></ruby>なめ（<ruby>半分<rt>はんぶん</rt></ruby>）でお<ruby>願<rt>ねが</rt></ruby>いします」**|<ruby>甘<rt>あま</rt></ruby>すぎるのが<ruby>苦手<rt>にがて</rt></ruby>な<ruby>大人<rt>おとな</rt></ruby>のカスタム|
+|**<ruby>氷<rt>こおり</rt></ruby>の<ruby>調整<rt>ちょうせい</rt></ruby>**|**「<ruby>氷<rt>こおり</rt></ruby><ruby>少<rt>すく</rt></ruby>なめ、ミルク<ruby>多<rt>おお</rt></ruby>めでお<ruby>願<rt>ねが</rt></ruby>いします」**|ドリンクが<ruby>薄<rt>うす</rt></ruby>まるのを<ruby>防<rt>ふせ</rt></ruby>ぎ、<ruby>冷<rt>つめ</rt></ruby>たすぎないようにしたい<ruby>時<rt>とき</rt></ruby>|
 
-### 日本独自の喫茶店文化！「モーニングサービス」の衝撃
-愛知県（名古屋）発祥の「コメダ珈琲店」や街のレトロ喫茶店では、**朝11時までにドリンクを注文すると、無料でトーストとゆで卵（または小倉あん）が付いてくる**という驚異のサービスがあります！ 朝のカフェサバイバルとしてぜひ体験してみてください！
+### <ruby>日本<rt>にほん</rt></ruby><ruby>独自<rt>どくじ</rt></ruby>の<ruby>喫茶店<rt>きっさてん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>！「モーニングサービス」の<ruby>衝撃<rt>しょうげき</rt></ruby>
+<ruby>愛知<rt>あいち</rt></ruby><ruby>県<rt>けん</rt></ruby>（<ruby>名古屋<rt>なごや</rt></ruby>）<ruby>発祥<rt>はっしょう</rt></ruby>の「コメダ<ruby>珈琲<rt>こーひー</rt></ruby><ruby>店<rt>てん</rt></ruby>」や<ruby>街<rt>まち</rt></ruby>のレトロ<ruby>喫茶店<rt>きっさてん</rt></ruby>では、**<ruby>朝<rt>あさ</rt></ruby>11<ruby>時<rt>じ</rt></ruby>までにドリンクを<ruby>注文<rt>ちゅうもん</rt></ruby>すると、<ruby>無料<rt>むりょう</rt></ruby>でトーストとゆで<ruby>卵<rt>たまご</rt></ruby>（または<ruby>小倉<rt>こくら</rt></ruby>あん）が<ruby>付<rt>つ</rt></ruby>いてくる**という<ruby>驚異<rt>きょうい</rt></ruby>のサービスがあります！ <ruby>朝<rt>あさ</rt></ruby>のカフェサバイバルとしてぜひ<ruby>体験<rt>たいけん</rt></ruby>してみてください！
 
 ---
 
-## 6. 並ぶ前に確認！ 日本のカフェの「席取り（場所取り）マナー」
+## 6. <ruby>並<rt>なら</rt></ruby>ぶ<ruby>前<rt>まえ</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>！ <ruby>日本<rt>にほん</rt></ruby>のカフェの「<ruby>席<rt>せき</rt></ruby><ruby>取<rt>と</rt></ruby>り（<ruby>場所<rt>ばしょ</rt></ruby><ruby>取<rt>と</rt></ruby>り）マナー」
 
-混雑した日本のカフェでは、**「レジに並ぶ前に、まず空いている席を確保する」**のが暗黙のルールです。
+<ruby>混雑<rt>こんざつ</rt></ruby>した<ruby>日本<rt>にほん</rt></ruby>のカフェでは、**「レジに<ruby>並<rt>なら</rt></ruby>ぶ<ruby>前<rt>まえ</rt></ruby>に、まず<ruby>空<rt>あ</rt></ruby>いている<ruby>席<rt>せき</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>する」**のが<ruby>暗黙<rt>あんもく</rt></ruby>のルールです。
 
 ```
 【日本のカフェの席取りサバイバル】
@@ -152,13 +152,13 @@ tags:
 3. 席を確保してから、レジの列に並んで注文する！
 ```
 
-※「スマートフォンや財布を置いて席をキープする」日本人も多いですが、盗難防止のため、貴重品ではなくハンカチやポーチを置くのが安全でおすすめです！
+※「スマートフォンや<ruby>財布<rt>さいふ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて<ruby>席<rt>せき</rt></ruby>をキープする」<ruby>日本人<rt>にっぽんじん</rt></ruby>も<ruby>多<rt>おお</rt></ruby>いですが、<ruby>盗難<rt>とうなん</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>のため、<ruby>貴重<rt>きちょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>ではなくハンカチやポーチを<ruby>置<rt>お</rt></ruby>くのが<ruby>安全<rt>あんぜん</rt></ruby>でおすすめです！
 
 ---
 
-## 7. 理解度チェック！カフェ注文サバイバルクイズ
+## 7. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！カフェ<ruby>注文<rt>ちゅうもん</rt></ruby>サバイバルクイズ
 
-あなたのカフェ注文力を試す3問クイズです！
+あなたのカフェ<ruby>注文<rt>ちゅうもん</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
 【第1問】
@@ -177,23 +177,23 @@ tags:
 ② レジに並ぶ前に、ハンカチなどで席をキープしておく
 ```
 
-### 【正解と解説】
-* **第1問の正解：② 10％**  
-  店内飲食（イートイン）は標準税率の10％、持ち帰り（テイクアウト）は軽減税率の8％が適用されます！
-* **第2問の正解：①「はい、マグカップでお願いします。」**  
-  エコ活動に協力して美味しくいただきましょう！ 紙コップがいい場合は「持ち歩きたいので紙コップでお願いします」と伝えれば快く対応してくれます。
-* **第3問の正解：② レジに並ぶ前**  
-  先に注文してしまうと「商品を受け取ったのに座る席がどこにもない！」という悲劇が起きます。先に席を確保するのが日本の鉄則です！
+### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
+* **<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② 10％**
+<ruby>店内<rt>てんない</rt></ruby><ruby>飲食<rt>いんしょく</rt></ruby>（イートイン）は<ruby>標準<rt>ひょうじゅん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>の10％、<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り（テイクアウト）は<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>の8％が<ruby>適用<rt>てきよう</rt></ruby>されます！
+* **<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：①「はい、マグカップでお<ruby>願<rt>ねが</rt></ruby>いします。」**
+エコ<ruby>活動<rt>かつどう</rt></ruby>に<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>美味<rt>おい</rt></ruby>しくいただきましょう！ <ruby>紙<rt>かみ</rt></ruby>コップがいい<ruby>場合<rt>ばあい</rt></ruby>は「<ruby>持ち歩<rt>もちある</rt></ruby>きたいので<ruby>紙<rt>かみ</rt></ruby>コップでお<ruby>願<rt>ねが</rt></ruby>いします」と<ruby>伝<rt>つた</rt></ruby>えれば<ruby>快<rt>こころよ</rt></ruby>く<ruby>対応<rt>たいおう</rt></ruby>してくれます。
+* **<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② レジに<ruby>並<rt>なら</rt></ruby>ぶ<ruby>前<rt>ぜん</rt></ruby>**
+<ruby>先<rt>さき</rt></ruby>に<ruby>注文<rt>ちゅうもん</rt></ruby>してしまうと「<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>受け取<rt>うけと</rt></ruby>ったのに<ruby>座<rt>すわ</rt></ruby>る<ruby>席<rt>せき</rt></ruby>がどこにもない！」という<ruby>悲劇<rt>ひげき</rt></ruby>が<ruby>起<rt>お</rt></ruby>きます。<ruby>先<rt>さき</rt></ruby>に<ruby>席<rt>せき</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>するのが<ruby>日本<rt>にほん</rt></ruby>の<ruby>鉄則<rt>てっそく</rt></ruby>です！
 
 ---
 
-## 8. まとめ：カフェ注文をスムーズにこなす心得
+## 8. まとめ：カフェ<ruby>注文<rt>ちゅうもん</rt></ruby>をスムーズにこなす<ruby>心得<rt>こころえ</rt></ruby>
 
-1. **混んでいる店なら、レジに並ぶ前にハンカチなどで「席をキープ」！**
-2. **レジに立つ前に「店内（10%）」か「持ち帰り（8%）」かを決めておく！**
-3. **店内で飲むなら「マグカップ」を受け入れると環境にも優しい！**
-4. **サイズは迷ったら「普通サイズで！」でOK！**
-5. **レシートの番号札を持って受取口の前で静かに待つ！**
-6. **朝11時前ならモーニングサービスを狙ってみる！**
+1. **<ruby>混<rt>こ</rt></ruby>んでいる<ruby>店<rt>みせ</rt></ruby>なら、レジに<ruby>並<rt>なら</rt></ruby>ぶ<ruby>前<rt>まえ</rt></ruby>にハンカチなどで「<ruby>席<rt>せき</rt></ruby>をキープ」！**
+2. **レジに<ruby>立<rt>た</rt></ruby>つ<ruby>前<rt>まえ</rt></ruby>に「<ruby>店内<rt>てんない</rt></ruby>（10%）」か「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り（8%）」かを<ruby>決<rt>き</rt></ruby>めておく！**
+3. **<ruby>店内<rt>てんない</rt></ruby>で<ruby>飲<rt>の</rt></ruby>むなら「マグカップ」を<ruby>受け入<rt>うけい</rt></ruby>れると<ruby>環境<rt>かんきょう</rt></ruby>にも<ruby>優<rt>やさ</rt></ruby>しい！**
+4. **サイズは<ruby>迷<rt>まよ</rt></ruby>ったら「<ruby>普通<rt>ふつう</rt></ruby>サイズで！」でOK！**
+5. **レシートの<ruby>番号<rt>ばんごう</rt></ruby><ruby>札<rt>さつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>受取<rt>うけとり</rt></ruby><ruby>口<rt>ぐち</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>静<rt>しず</rt></ruby>かに<ruby>待<rt>ま</rt></ruby>つ！**
+6. **<ruby>朝<rt>あさ</rt></ruby>11<ruby>時<rt>じ</rt></ruby><ruby>前<rt>まえ</rt></ruby>ならモーニングサービスを<ruby>狙<rt>ねら</rt></ruby>ってみる！**
 
-質問の意味さえ分かっていれば、日本のカフェほど居心地がよく清潔で美味しい場所はありません。スマートに注文をこなして、至福のコーヒーブレイクを楽しんでくださいね！
+<ruby>質問<rt>しつもん</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>さえ<ruby>分<rt>わ</rt></ruby>かっていれば、<ruby>日本<rt>にほん</rt></ruby>のカフェほど<ruby>居心地<rt>いごこち</rt></ruby>がよく<ruby>清潔<rt>せいけつ</rt></ruby>で<ruby>美味<rt>おい</rt></ruby>しい<ruby>場所<rt>ばしょ</rt></ruby>はありません。スマートに<ruby>注文<rt>ちゅうもん</rt></ruby>をこなして、<ruby>至福<rt>しふく</rt></ruby>のコーヒーブレイクを<ruby>楽<rt>たの</rt></ruby>しんでくださいね！

@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：「承知です」は実は間違い！？｜「承知いたしました」「了解です」との違いとビジネス敬語の落とし穴"
+title: "ことばのあや：「<ruby>承知<rt>しょうち</rt></ruby>です」は<ruby>実<rt>じつ</rt></ruby>は<ruby>間違<rt>まちが</rt></ruby>い！？｜「<ruby>承知<rt>しょうち</rt></ruby>いたしました」「<ruby>了解<rt>りょうかい</rt></ruby>です」との<ruby>違<rt>ちが</rt></ruby>いとビジネス<ruby>敬語<rt>けいご</rt></ruby>の<ruby>落とし穴<rt>おとしあな</rt></ruby>"
 
 description: "日本のオフィスやチャットで、上司からの連絡に「承知です！」と元気よく返信していませんか？怒られはしないけれど、実は日本語として少し不自然なグレーゾーン敬語。「承知＋です」が違和感を持たれる理由と、ビジネスで一目置かれる正しい言い換え表現を徹底解説！"
 slug: "kotoba-no-aya-is-shouchidesu-wrong-business-japanese-trap"
@@ -15,8 +15,7 @@ tags:
   - 日常会話
   - JLPT N2
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>のノートでは、コンビニのレジや<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で「お<ruby>断<rt>ことわ</rt></ruby>り」を<ruby>伝<rt>つた</rt></ruby>えるクッション<ruby>言葉<rt>ことば</rt></ruby>「**[結構です](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-08-kotoba-no-aya-the-trap-of-kekkoudesu-yes-or-no.md)**」の<ruby>罠<rt>わな</rt></ruby>を<ruby>解き明<rt>ときあ</rt></ruby>かしました。
+<ruby>前回<rt>ぜんかい</rt></ruby>のノートでは、コンビニのレジや<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で「お<ruby>断<rt>ことわ</rt></ruby>り」を<ruby>伝<rt>つた</rt></ruby>えるクッション<ruby>言葉<rt>ことば</rt></ruby>「**[<ruby>結構<rt>けっこう</rt></ruby>です](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-08-kotoba-no-aya-the-trap-of-kekkoudesu-yes-or-no.md)**」の<ruby>罠<rt>わな</rt></ruby>を<ruby>解き明<rt>ときあ</rt></ruby>かしました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は<ruby>職場<rt>しょくば</rt></ruby>で「<ruby>引き受<rt>ひきう</rt></ruby>け（YES）」を<ruby>伝<rt>つた</rt></ruby>える<ruby>際<rt>さい</rt></ruby>に、SlackやTeams、メールで<ruby>最<rt>もっと</rt></ruby>も<ruby>使<rt>つか</rt></ruby>ってしまいがちな「あの<ruby>返信<rt>へんしん</rt></ruby>」の<ruby>落とし穴<rt>おとしあな</rt></ruby>です。
 
@@ -32,22 +31,22 @@ tags:
 
 ---
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **承知（しょうち）** 【JLPT N3】
-  * 意味：acknowledgment, consent
-  * 例文：上司からの指示に対して「承知いたしました」と返信した。
-* **了解（りょうかい）** 【JLPT N3】
-  * 意味：understanding, approval (peer/subordinate)
-  * 例文：「了解です」は同僚や後輩に対して使う言葉で、目上の人には適さない。
-* **かしこまる（畏まる）** 【JLPT N1】
-  * 意味：to obey respectfully, to understand (humble)
-  * 例文：大切なお客様からの依頼に「かしこまりました」と深く頭を下げた。
-* **謙譲語（けんじょうご）** 【JLPT N2】
-  * 意味：humble language
-  * 例文：自分の動作をへりくだることで相手に敬意を表すのが謙譲語である。
+* **<ruby>承知<rt>しょうち</rt></ruby>（しょうち）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：acknowledgment, consent
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>上司<rt>じょうし</rt></ruby>からの<ruby>指示<rt>しじ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して「<ruby>承知<rt>しょうち</rt></ruby>いたしました」と<ruby>返信<rt>へんしん</rt></ruby>した。
+* **<ruby>了解<rt>りょうかい</rt></ruby>（りょうかい）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：understanding, approval (peer/subordinate)
+* <ruby>例文<rt>れいぶん</rt></ruby>：「<ruby>了解<rt>りょうかい</rt></ruby>です」は<ruby>同僚<rt>どうりょう</rt></ruby>や<ruby>後輩<rt>こうはい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>使<rt>つか</rt></ruby>う<ruby>言葉<rt>ことば</rt></ruby>で、<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>には<ruby>適<rt>てき</rt></ruby>さない。
+* **かしこまる（<ruby>畏<rt>かしこ</rt></ruby>まる）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：to obey respectfully, to understand (humble)
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>大切<rt>たいせつ</rt></ruby>なお<ruby>客様<rt>きゃくさま</rt></ruby>からの<ruby>依頼<rt>いらい</rt></ruby>に「かしこまりました」と<ruby>深<rt>ふか</rt></ruby>く<ruby>頭<rt>あたま</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げた。
+* **<ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>（けんじょうご）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：humble language
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>自分<rt>じぶん</rt></ruby>の<ruby>動作<rt>どうさ</rt></ruby>をへりくだることで<ruby>相手<rt>あいて</rt></ruby>に<ruby>敬意<rt>けいい</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すのが<ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>である。
 
 ---
 

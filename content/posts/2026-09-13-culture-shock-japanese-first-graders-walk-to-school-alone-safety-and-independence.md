@@ -26,42 +26,42 @@ description: "大きなランドセルを背負った6歳の男の子が、親�
 ---
 
 
-## 小学生が1人で電車に乗って通学する日本の驚異的な治安
+## <ruby>小学生<rt>しょうがくせい</rt></ruby>が1<ruby>人<rt>にん</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>通学<rt>つうがく</rt></ruby>する<ruby>日本<rt>にほん</rt></ruby>の<ruby>驚異<rt>きょうい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>治安<rt>ちあん</rt></ruby>
 
-アメリカやイギリスなどの欧米諸国では、12歳未満の子供を1人で留守番させたり外出させると、親が**「ネグレクト（育児放棄）」**として警察に通報・逮捕される法律があります。
-そのため、日本の小学校1年生（6〜7歳）が大きなランドセルを背負い、たった1人で電車やバスを乗り継いで通学している姿を見た外国人は、文字通り腰を抜かすほど衝撃を受けます。
+アメリカやイギリスなどの<ruby>欧米<rt>おうべい</rt></ruby><ruby>諸国<rt>しょこく</rt></ruby>では、12<ruby>歳<rt>さい</rt></ruby><ruby>未満<rt>みまん</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>を1<ruby>人<rt>にん</rt></ruby>で<ruby>留守番<rt>るすばん</rt></ruby>させたり<ruby>外出<rt>がいしゅつ</rt></ruby>させると、<ruby>親<rt>おや</rt></ruby>が**「ネグレクト（<ruby>育児<rt>いくじ</rt></ruby><ruby>放棄<rt>ほうき</rt></ruby>）」**として<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>通報<rt>つうほう</rt></ruby>・<ruby>逮捕<rt>たいほ</rt></ruby>される<ruby>法律<rt>ほうりつ</rt></ruby>があります。
+そのため、<ruby>日本<rt>にほん</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>1<ruby>年生<rt>ねんせい</rt></ruby>（6〜7<ruby>歳<rt>さい</rt></ruby>）が<ruby>大<rt>おお</rt></ruby>きなランドセルを<ruby>背負<rt>せお</rt></ruby>い、たった1<ruby>人<rt>にん</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>やバスを<ruby>乗り継<rt>のりつ</rt></ruby>いで<ruby>通学<rt>つうがく</rt></ruby>している<ruby>姿<rt>すがた</rt></ruby>を<ruby>見<rt>み</rt></ruby>た<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>は、<ruby>文字通<rt>もじどお</rt></ruby>り<ruby>腰<rt>こし</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>かすほど<ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます。
 
-### なぜ日本では子供の単独通学が可能なのか？
-日本が世界一安全な通学環境を実現できているのには、社会全体で張り巡らされた「3重の防犯セーフティネット」が存在するからです。
+### なぜ<ruby>日本<rt>にほん</rt></ruby>では<ruby>子供<rt>こども</rt></ruby>の<ruby>単独<rt>たんどく</rt></ruby><ruby>通学<rt>つうがく</rt></ruby>が<ruby>可能<rt>かのう</rt></ruby>なのか？
+<ruby>日本<rt>にほん</rt></ruby>が<ruby>世界一<rt>せかいいち</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby>な<ruby>通学<rt>つうがく</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>できているのには、<ruby>社会<rt>しゃかい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>張り巡<rt>はりめぐ</rt></ruby>らされた「3<ruby>重<rt>じゅう</rt></ruby>の<ruby>防犯<rt>ぼうはん</rt></ruby>セーフティネット」が<ruby>存在<rt>そんざい</rt></ruby>するからです。
 
-| セーフティネット | 仕組みと役割 |
+| セーフティネット |<ruby>仕組<rt>しく</rt></ruby>みと<ruby>役割<rt>やくわり</rt></ruby>|
 | :--- | :--- |
-| **地域ボランティア（緑のおじさん・おばさん）** | 毎朝、黄色い旗を持った地域の高齢者やPTAが交差点に立ち、子供たちを安全に誘導。 |
-| **集団登校システム** | 近所の子供たちがグループを作り、高学年のリーダーを先頭に一列になって歩く。 |
-| **子供110番の家・防犯ブザー** | 商店や民家が「駆け込み寺」として登録され、ランドセルには高音の防犯ブザーを常備。 |
+|**<ruby>地域<rt>ちいき</rt></ruby>ボランティア（<ruby>緑<rt>みどり</rt></ruby>のおじさん・おばさん）**|<ruby>毎朝<rt>まいあさ</rt></ruby>、<ruby>黄色<rt>きいろ</rt></ruby>い<ruby>旗<rt>はた</rt></ruby>を<ruby>持<rt>も</rt></ruby>った<ruby>地域<rt>ちいき</rt></ruby>の<ruby>高齢<rt>こうれい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>やPTAが<ruby>交差点<rt>こうさてん</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち、<ruby>子供<rt>こども</rt></ruby>たちを<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>誘導<rt>ゆうどう</rt></ruby>。|
+|**<ruby>集団<rt>しゅうだん</rt></ruby><ruby>登校<rt>とうこう</rt></ruby>システム**|<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>たちがグループを<ruby>作<rt>つく</rt></ruby>り、<ruby>高学年<rt>こうがくねん</rt></ruby>のリーダーを<ruby>先頭<rt>せんとう</rt></ruby>に<ruby>一<rt>いち</rt></ruby><ruby>列<rt>れつ</rt></ruby>になって<ruby>歩<rt>ある</rt></ruby>く。|
+|**<ruby>子供<rt>こども</rt></ruby>110<ruby>番<rt>ばん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>・<ruby>防犯<rt>ぼうはん</rt></ruby>ブザー**|<ruby>商店<rt>しょうてん</rt></ruby>や<ruby>民家<rt>みんか</rt></ruby>が「<ruby>駆け込<rt>かけこ</rt></ruby>み<ruby>寺<rt>てら</rt></ruby>」として<ruby>登録<rt>とうろく</rt></ruby>され、ランドセルには<ruby>高音<rt>たかね</rt></ruby>の<ruby>防犯<rt>ぼうはん</rt></ruby>ブザーを<ruby>常備<rt>じょうび</rt></ruby>。|
 
-### 💡 ランドセルに隠された日本のハイテクと伝統
-小学生が背負っている四角いカバン「ランドセル」は、単なる通学カバンではありません。
-- **6年間壊れない超高耐久性**: 職人の手作りで、雨風に強く6年間毎日の使用に耐える。
-- **後ろに転んだ時のエアバッグ**: 後頭部を地面に強打しないよう、クッションの役割を果たす設計。
-- **水に浮く浮力**: 万が一川や用水路に落ちた場合、ランドセルが浮き輪代わりになる。
+### 💡 ランドセルに<ruby>隠<rt>かく</rt></ruby>された<ruby>日本<rt>にほん</rt></ruby>のハイテクと<ruby>伝統<rt>でんとう</rt></ruby>
+<ruby>小学生<rt>しょうがくせい</rt></ruby>が<ruby>背負<rt>せお</rt></ruby>っている<ruby>四角<rt>しかく</rt></ruby>いカバン「ランドセル」は、<ruby>単<rt>たん</rt></ruby>なる<ruby>通学<rt>つうがく</rt></ruby>カバンではありません。
+- **6<ruby>年間<rt>ねんかん</rt></ruby><ruby>壊<rt>こわ</rt></ruby>れない<ruby>超<rt>ちょう</rt></ruby><ruby>高<rt>こう</rt></ruby><ruby>耐久<rt>たいきゅう</rt></ruby><ruby>性<rt>せい</rt></ruby>**: <ruby>職人<rt>しょくにん</rt></ruby>の<ruby>手作<rt>てづく</rt></ruby>りで、<ruby>雨風<rt>あめかぜ</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>く6<ruby>年間<rt>ねんかん</rt></ruby><ruby>毎日<rt>まいにち</rt></ruby>の<ruby>使用<rt>しよう</rt></ruby>に<ruby>耐<rt>た</rt></ruby>える。
+- **<ruby>後<rt>うし</rt></ruby>ろに<ruby>転<rt>ころ</rt></ruby>んだ<ruby>時<rt>とき</rt></ruby>のエアバッグ**: <ruby>後頭部<rt>こうとうぶ</rt></ruby>を<ruby>地面<rt>じめん</rt></ruby>に<ruby>強打<rt>きょうだ</rt></ruby>しないよう、クッションの<ruby>役割<rt>やくわり</rt></ruby>を<ruby>果<rt>は</rt></ruby>たす<ruby>設計<rt>せっけい</rt></ruby>。
+- **<ruby>水<rt>すい</rt></ruby>に<ruby>浮<rt>う</rt></ruby>く<ruby>浮力<rt>ふりょく</rt></ruby>**: <ruby>万が一<rt>まんがいち</rt></ruby><ruby>川<rt>がわ</rt></ruby>や<ruby>用水路<rt>ようすいろ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちた<ruby>場合<rt>ばあい</rt></ruby>、ランドセルが<ruby>浮<rt>う</rt></ruby>き<ruby>輪<rt>わ</rt></ruby><ruby>代<rt>か</rt></ruby>わりになる。
 
-社会全体が「街の子供はみんなで見守る」という共同体意識を持っているからこそ、日本の子供たちは幼い頃から自立心と公共マナーを自然に身につけていくことができるのです。
+<ruby>社会<rt>しゃかい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>が「<ruby>街<rt>まち</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>はみんなで<ruby>見守<rt>みまも</rt></ruby>る」という<ruby>共同<rt>きょうどう</rt></ruby><ruby>体<rt>たい</rt></ruby><ruby>意識<rt>いしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>っているからこそ、<ruby>日本<rt>にほん</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>たちは<ruby>幼<rt>おさな</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>から<ruby>自立<rt>じりつ</rt></ruby><ruby>心<rt>しん</rt></ruby>と<ruby>公共<rt>こうきょう</rt></ruby>マナーを<ruby>自然<rt>しぜん</rt></ruby>に<ruby>身<rt>み</rt></ruby>につけていくことができるのです。
 
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **通学（つうがく）** 【JLPT N3】
-  * 意味：commuting to school
-  * 例文：日本の小学生は、重いランドセルを背負って一人で通学する。
-* **自立（じりつ）** 【JLPT N1】
-  * 意味：independence, self-reliance
-  * 例文：幼い頃から自分の荷物を自分で持つことで、自立心が育つ。
-* **集団（しゅうだん）** 【JLPT N3】
-  * 意味：group, mass
-  * 例文：安全のために、近所の子供たちが集団で並んで登校している。
+* **<ruby>通学<rt>つうがく</rt></ruby>（つうがく）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：commuting to school
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>の<ruby>小学生<rt>しょうがくせい</rt></ruby>は、<ruby>重<rt>おも</rt></ruby>いランドセルを<ruby>背負<rt>せお</rt></ruby>って<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>通学<rt>つうがく</rt></ruby>する。
+* **<ruby>自立<rt>じりつ</rt></ruby>（じりつ）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：independence, self-reliance
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>幼<rt>おさな</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>持<rt>も</rt></ruby>つことで、<ruby>自立<rt>じりつ</rt></ruby><ruby>心<rt>しん</rt></ruby>が<ruby>育<rt>そだ</rt></ruby>つ。
+* **<ruby>集団<rt>しゅうだん</rt></ruby>（しゅうだん）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：group, mass
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>安全<rt>あんぜん</rt></ruby>のために、<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>たちが<ruby>集団<rt>しゅうだん</rt></ruby>で<ruby>並<rt>なら</rt></ruby>んで<ruby>登校<rt>とうこう</rt></ruby>している。
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>＆<ruby>街角<rt>まちかど</rt></ruby>カルチャー

@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：【徹底比較】「そうだ」「らしい」「ようだ」の使い分け完全マスター｜推量・伝聞のニュアンスと五感の罠"
+title: "くらべてみました：【<ruby>徹底<rt>てってい</rt></ruby><ruby>比較<rt>ひかく</rt></ruby>】「そうだ」「らしい」「ようだ」の<ruby>使い分<rt>つかいわ</rt></ruby>け<ruby>完全<rt>かんぜん</rt></ruby>マスター｜<ruby>推量<rt>すいりょう</rt></ruby>・<ruby>伝聞<rt>でんぶん</rt></ruby>のニュアンスと<ruby>五感<rt>ごかん</rt></ruby>の<ruby>罠<rt>わな</rt></ruby>"
 
 description: "「雨が降りそうだ」「雨が降るらしい」「雨が降るようだ」……全部同じ「推測」に見えて、実は情報源と確信度が全く違う！日本語学習者が最も頭を抱える推量・伝聞の助動詞3兄弟を、五感判定フローチャートとリアルな日常会話でスッキリ整理します！"
 slug: "japanese-comparing-rashii-souda-youda-differences"
@@ -15,8 +15,7 @@ tags:
   - JLPT N3
   - JLPT N2
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>根拠<rt>こんきょ</rt></ruby>の<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>を<ruby>使い分<rt>つかいわ</rt></ruby>ける「**[『はず』と『わけ』のニュアンスの違い](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-11-japanese-comparing-hazu-vs-wake-nuance-differences.md)**」を<ruby>解説<rt>かいせつ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>根拠<rt>こんきょ</rt></ruby>の<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>を<ruby>使い分<rt>つかいわ</rt></ruby>ける「**[『はず』と『わけ』のニュアンスの<ruby>違<rt>ちが</rt></ruby>い](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-11-japanese-comparing-hazu-vs-wake-nuance-differences.md)**」を<ruby>解説<rt>かいせつ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、JLPT（N3〜N2）でも<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>でも**<ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>混乱<rt>こんらん</rt></ruby>する「<ruby>推量<rt>すいりょう</rt></ruby>・<ruby>伝聞<rt>でんぶん</rt></ruby>の3<ruby>大<rt>だい</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>」**を<ruby>取り上<rt>とりあ</rt></ruby>げます！
 それが、**「〜そうだ」「〜らしい」「〜ようだ」**です。
@@ -35,22 +34,22 @@ tags:
 
 ---
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **様子（ようす）** 【JLPT N3】
-  * 意味：state, appearance, condition
-  * 例文：窓の外の様子を見ると、外はもう雨が降っているようだ。
-* **天気予報（てんきよほう）** 【JLPT N4/N3】
-  * 意味：weather forecast
-  * 例文：天気予報によると、午後から雨が降るそうだ。
-* **雲行き（くもゆき）** 【JLPT N3/N2】
-  * 意味：look of the sky, situation
-  * 例文：怪しい雲行きを見て「今にも雨が降りそうだ」と感じた。
-* **確信（かくしん）** 【JLPT N3/N2】
-  * 意味：conviction, confidence
-  * 例文：自分の目で直接見たことには強い確信が持てる。
+* **<ruby>様子<rt>ようす</rt></ruby>（ようす）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：state, appearance, condition
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>窓<rt>まど</rt></ruby>の<ruby>外<rt>そと</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>を<ruby>見<rt>み</rt></ruby>ると、<ruby>外<rt>そと</rt></ruby>はもう<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているようだ。
+* **<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>（てんきよほう）** 【JLPT N4/N3】
+* <ruby>意味<rt>いみ</rt></ruby>：weather forecast
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>によると、<ruby>午後<rt>ごご</rt></ruby>から<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るそうだ。
+* **<ruby>雲行<rt>くもゆ</rt></ruby>き（くもゆき）** 【JLPT N3/N2】
+* <ruby>意味<rt>いみ</rt></ruby>：look of the sky, situation
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>怪<rt>あや</rt></ruby>しい<ruby>雲行<rt>くもゆ</rt></ruby>きを<ruby>見<rt>み</rt></ruby>て「<ruby>今<rt>いま</rt></ruby>にも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうだ」と<ruby>感<rt>かん</rt></ruby>じた。
+* **<ruby>確信<rt>かくしん</rt></ruby>（かくしん）** 【JLPT N3/N2】
+* <ruby>意味<rt>いみ</rt></ruby>：conviction, confidence
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>自分<rt>じぶん</rt></ruby>の<ruby>目<rt>め</rt></ruby>で<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>見<rt>み</rt></ruby>たことには<ruby>強<rt>つよ</rt></ruby>い<ruby>確信<rt>かくしん</rt></ruby>が<ruby>持<rt>も</rt></ruby>てる。
 
 ---
 

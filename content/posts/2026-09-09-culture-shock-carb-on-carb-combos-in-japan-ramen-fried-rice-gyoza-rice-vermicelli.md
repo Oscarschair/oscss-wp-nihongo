@@ -24,39 +24,39 @@ description: "香港や中華圏では炒飯も餃子もビーフンも1品で�
 ---
 
 
-### 💡 なぜ日本では「餃子＋白ご飯」が成立するのか？
+### 💡 なぜ<ruby>日本<rt>にほん</rt></ruby>では「<ruby>餃子<rt>ぎょうざ</rt></ruby>＋<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>」が<ruby>成立<rt>せいりつ</rt></ruby>するのか？
 
-中華圏（中国本土や香港、台湾）では、水餃子や焼き餃子は皮が分厚く、それ自体が完全に**「主食（お米やパンの代わり）」**です。そのため、中国の食堂で「餃子と白ご飯をください」と頼むと、「主食を2つ食べるつもりか！？」と店員に本気で心配されます。
+<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>（<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>本土<rt>ほんど</rt></ruby>や<ruby>香港<rt>ほんこん</rt></ruby>、<ruby>台湾<rt>たいわん</rt></ruby>）では、<ruby>水<rt>みず</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>や<ruby>焼<rt>や</rt></ruby>き<ruby>餃子<rt>ぎょうざ</rt></ruby>は<ruby>皮<rt>かわ</rt></ruby>が<ruby>分厚<rt>ぶあつ</rt></ruby>く、それ<ruby>自体<rt>じたい</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に**「<ruby>主食<rt>しゅしょく</rt></ruby>（お<ruby>米<rt>べい</rt></ruby>やパンの<ruby>代<rt>か</rt></ruby>わり）」**です。そのため、<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>食堂<rt>しょくどう</rt></ruby>で「<ruby>餃子<rt>ぎょうざ</rt></ruby>と<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>をください」と<ruby>頼<rt>たの</rt></ruby>むと、「<ruby>主食<rt>しゅしょく</rt></ruby>を2つ<ruby>食<rt>た</rt></ruby>べるつもりか！？」と<ruby>店員<rt>てんいん</rt></ruby>に<ruby>本気<rt>ほんき</rt></ruby>で<ruby>心配<rt>しんぱい</rt></ruby>されます。
 
-しかし、日本のラーメン屋や中華食堂では、**「餃子ライス定食」や「ラーメン・半チャーハンセット」**が絶対的な大人気メニューとして君臨しています。なぜこのような違いが生まれたのでしょうか？
+しかし、<ruby>日本<rt>にほん</rt></ruby>のラーメン<ruby>屋<rt>や</rt></ruby>や<ruby>中華<rt>ちゅうか</rt></ruby><ruby>食堂<rt>しょくどう</rt></ruby>では、**「<ruby>餃子<rt>ぎょうざ</rt></ruby>ライス<ruby>定食<rt>ていしょく</rt></ruby>」や「ラーメン・<ruby>半<rt>はん</rt></ruby>チャーハンセット」**が<ruby>絶対<rt>ぜったい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>大人気<rt>だいにんき</rt></ruby>メニューとして<ruby>君臨<rt>くんりん</rt></ruby>しています。なぜこのような<ruby>違<rt>ちが</rt></ruby>いが<ruby>生<rt>う</rt></ruby>まれたのでしょうか？
 
-| 項目 | 中華圏の本場餃子 | 日本の焼き餃子 |
+|<ruby>項目<rt>こうもく</rt></ruby>|<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>の<ruby>本場<rt>ほんば</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>|<ruby>日本<rt>にほん</rt></ruby>の<ruby>焼<rt>や</rt></ruby>き<ruby>餃子<rt>ぎょうざ</rt></ruby>|
 | :--- | :--- | :--- |
-| **皮の厚さ** | もちもちと分厚く、小麦粉のボリューム満点 | **極限まで薄く**、パリッとした羽つき |
-| **味付けと役割** | 素材の味を生かした「主食」そのもの | ニンニク・生姜が効いた**「濃い味付けのおかず」** |
-| **タレの文化** | 黒酢などを軽くつける程度 | 醤油・酢・ラー油をたっぷりブレンドして白米にバウンドさせる |
+|**<ruby>皮<rt>がわ</rt></ruby>の<ruby>厚<rt>あつ</rt></ruby>さ**|もちもちと<ruby>分厚<rt>ぶあつ</rt></ruby>く、<ruby>小麦粉<rt>こむぎこ</rt></ruby>のボリューム<ruby>満点<rt>まんてん</rt></ruby>|**<ruby>極限<rt>きょくげん</rt></ruby>まで<ruby>薄<rt>うす</rt></ruby>く**、パリッとした<ruby>羽<rt>はね</rt></ruby>つき|
+|**<ruby>味付<rt>あじつ</rt></ruby>けと<ruby>役割<rt>やくわり</rt></ruby>**|<ruby>素材<rt>そざい</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>を<ruby>生<rt>い</rt></ruby>かした「<ruby>主食<rt>しゅしょく</rt></ruby>」そのもの|ニンニク・<ruby>生姜<rt>しょうが</rt></ruby>が<ruby>効<rt>き</rt></ruby>いた**「<ruby>濃<rt>こ</rt></ruby>い<ruby>味付<rt>あじつ</rt></ruby>けのおかず」**|
+|**タレの<ruby>文化<rt>ぶんか</rt></ruby>**|<ruby>黒<rt>くろ</rt></ruby><ruby>酢<rt>す</rt></ruby>などを<ruby>軽<rt>かる</rt></ruby>くつける<ruby>程度<rt>ていど</rt></ruby>|<ruby>醤油<rt>しょうゆ</rt></ruby>・<ruby>酢<rt>す</rt></ruby>・<ruby>ラー油<rt>らーゆ</rt></ruby>をたっぷりブレンドして<ruby>白米<rt>はくまい</rt></ruby>にバウンドさせる|
 
-日本の餃子は、戦後に中国から持ち帰られた後、**「白ご飯を最高に美味しく食べるためのおかず」**として徹底的に皮を薄くし、ジューシーな肉汁とニンニクを凝縮させる進化を遂げました。だからこそ、白米の上でワンバウンドさせて食べる「餃子オンザライス」が至高の文化となったのです。
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>餃子<rt>ぎょうざ</rt></ruby>は、<ruby>戦後<rt>せんご</rt></ruby>に<ruby>中国<rt>ちゅうごく</rt></ruby>から<ruby>持ち帰<rt>もちかえ</rt></ruby>られた<ruby>後<rt>のち</rt></ruby>、**「<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>最高<rt>さいこう</rt></ruby>に<ruby>美味<rt>おい</rt></ruby>しく<ruby>食<rt>た</rt></ruby>べるためのおかず」**として<ruby>徹底的<rt>てっていてき</rt></ruby>に<ruby>皮<rt>かわ</rt></ruby>を<ruby>薄<rt>うす</rt></ruby>くし、ジューシーな<ruby>肉汁<rt>にくじゅう</rt></ruby>とニンニクを<ruby>凝縮<rt>ぎょうしゅく</rt></ruby>させる<ruby>進化<rt>しんか</rt></ruby>を<ruby>遂<rt>と</rt></ruby>げました。だからこそ、<ruby>白米<rt>はくまい</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>でワンバウンドさせて<ruby>食<rt>た</rt></ruby>べる「<ruby>餃子<rt>ぎょうざ</rt></ruby>オンザライス」が<ruby>至高<rt>しこう</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>となったのです。
 
-#### 関西の伝説「お好み焼き定食」と「焼きそばパン」の二重奏
-炭水化物×炭水化物の極致といえば、関西エリアの**「お好み焼き定食（お好み焼き＋白ご飯＋味噌汁）」**や、日本中の購買部・コンビニにある**「焼きそばパン」**です。
-外から見れば「ソース味の炭水化物をおかずに、別の炭水化物をかっこむ」という驚愕の光景ですが、日本の濃厚なソース文化と甘辛いタレは、不思議なほど白い炭水化物とベストマッチします。
-定食屋さんで炭水化物の量をコントロールしたい時は、食券を渡す際や注文時に「**ご飯少なめでお願いします**（半分で大丈夫です）」と一言伝えるのがスマートです。
+#### <ruby>関西<rt>かんさい</rt></ruby>の<ruby>伝説<rt>でんせつ</rt></ruby>「お<ruby>好み焼<rt>このみや</rt></ruby>き<ruby>定食<rt>ていしょく</rt></ruby>」と「<ruby>焼<rt>や</rt></ruby>きそばパン」の<ruby>二重奏<rt>にじゅうそう</rt></ruby>
+<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>×<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>の<ruby>極致<rt>きょくち</rt></ruby>といえば、<ruby>関西<rt>かんさい</rt></ruby>エリアの**「お<ruby>好み焼<rt>このみや</rt></ruby>き<ruby>定食<rt>ていしょく</rt></ruby>（お<ruby>好み焼<rt>このみや</rt></ruby>き＋<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>＋<ruby>味噌汁<rt>みそしる</rt></ruby>）」**や、<ruby>日本<rt>にほん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の<ruby>購買<rt>こうばい</rt></ruby><ruby>部<rt>ぶ</rt></ruby>・コンビニにある**「<ruby>焼<rt>や</rt></ruby>きそばパン」**です。
+<ruby>外<rt>そと</rt></ruby>から<ruby>見<rt>み</rt></ruby>れば「ソース<ruby>味<rt>み</rt></ruby>の<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>をおかずに、<ruby>別<rt>べつ</rt></ruby>の<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>をかっこむ」という<ruby>驚愕<rt>きょうがく</rt></ruby>の<ruby>光景<rt>こうけい</rt></ruby>ですが、<ruby>日本<rt>にほん</rt></ruby>の<ruby>濃厚<rt>のうこう</rt></ruby>なソース<ruby>文化<rt>ぶんか</rt></ruby>と<ruby>甘辛<rt>あまから</rt></ruby>いタレは、<ruby>不思議<rt>ふしぎ</rt></ruby>なほど<ruby>白<rt>しろ</rt></ruby>い<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>とベストマッチします。
+<ruby>定食<rt>ていしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>をコントロールしたい<ruby>時<rt>とき</rt></ruby>は、<ruby>食券<rt>しょっけん</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>す<ruby>際<rt>さい</rt></ruby>や<ruby>注文<rt>ちゅうもん</rt></ruby><ruby>時<rt>じ</rt></ruby>に「**ご<ruby>飯<rt>はん</rt></ruby><ruby>少<rt>すく</rt></ruby>なめでお<ruby>願<rt>ねが</rt></ruby>いします**（<ruby>半分<rt>はんぶん</rt></ruby>で<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です）」と<ruby>一言<rt>いちげん</rt></ruby><ruby>伝<rt>つた</rt></ruby>えるのがスマートです。
 
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **炭水化物（たんすいかぶつ）** 【JLPT N1】
-  * 意味：carbohydrate
-  * 例文：ラーメンとチャーハンのセットは、炭水化物同士の組み合わせだ。
-* **満腹（まんぷく）** 【JLPT N2】
-  * 意味：full stomach
-  * 例文：安くてボリューム満点の定食を食べて、お腹がいっぱい満腹になった。
-* **組み合わせ（くみあわせ）** 【JLPT N1】
-  * 意味：combination
-  * 例文：餃子と白ご飯の組み合わせは、日本の定食屋で大人気です。
+* **<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>（たんすいかぶつ）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：carbohydrate
+* <ruby>例文<rt>れいぶん</rt></ruby>：ラーメンとチャーハンのセットは、<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby><ruby>同士<rt>どうし</rt></ruby>の<ruby>組み合<rt>くみあ</rt></ruby>わせだ。
+* **<ruby>満腹<rt>まんぷく</rt></ruby>（まんぷく）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：full stomach
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>安<rt>やす</rt></ruby>くてボリューム<ruby>満点<rt>まんてん</rt></ruby>の<ruby>定食<rt>ていしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べて、お<ruby>腹<rt>なか</rt></ruby>がいっぱい<ruby>満腹<rt>まんぷく</rt></ruby>になった。
+* **<ruby>組み合<rt>くみあ</rt></ruby>わせ（くみあわせ）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：combination
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>餃子<rt>ぎょうざ</rt></ruby>と<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>の<ruby>組み合<rt>くみあ</rt></ruby>わせは、<ruby>日本<rt>にほん</rt></ruby>の<ruby>定食<rt>ていしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>で<ruby>大人気<rt>だいにんき</rt></ruby>です。
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>・カルチャーショック<ruby>記事<rt>きじ</rt></ruby>

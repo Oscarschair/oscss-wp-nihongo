@@ -1,35 +1,35 @@
 
 
 
-### 💡 留学生必見：日本の奨学金の種類と「勝ち取るための戦略」
+### 💡 <ruby>留学生<rt>りゅうがくせい</rt></ruby><ruby>必見<rt>ひっけん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>の<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>と「<ruby>勝<rt>か</rt></ruby>ち<ruby>取<rt>と</rt></ruby>るための<ruby>戦略<rt>せんりゃく</rt></ruby>」
 
-海外漢字圏出身者にとって「奨学金＝返さなくていい褒賞金」というイメージが強いため、日本の学生の大半が「借金（貸与型奨学金）」を背負って大学に通っている現実は大きな衝撃です。
-では、日本で学ぶ外国人留学生が「返済不要の給付型奨学金」を獲得するにはどうすればよいのでしょうか？
+<ruby>海外<rt>かいがい</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby><ruby>圏<rt>けん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>にとって「<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>＝<ruby>返<rt>かえ</rt></ruby>さなくていい<ruby>褒賞<rt>ほうしょう</rt></ruby><ruby>金<rt>きん</rt></ruby>」というイメージが<ruby>強<rt>つよ</rt></ruby>いため、<ruby>日本<rt>にほん</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>の<ruby>大半<rt>たいはん</rt></ruby>が「<ruby>借金<rt>しゃっきん</rt></ruby>（<ruby>貸与<rt>たいよ</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>）」を<ruby>背負<rt>せお</rt></ruby>って<ruby>大学<rt>だいがく</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>っている<ruby>現実<rt>げんじつ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<ruby>衝撃<rt>しょうげき</rt></ruby>です。
+では、<ruby>日本<rt>にほん</rt></ruby>で<ruby>学<rt>まな</rt></ruby>ぶ<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>留学生<rt>りゅうがくせい</rt></ruby>が「<ruby>返済<rt>へんさい</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>の<ruby>給付<rt>きゅうふ</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>」を<ruby>獲得<rt>かくとく</rt></ruby>するにはどうすればよいのでしょうか？
 
-| 奨学金の種類 | 主な提供団体 | 特徴と返済義務 | 獲得の難易度 |
+|<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>|<ruby>主<rt>おも</rt></ruby>な<ruby>提供<rt>ていきょう</rt></ruby><ruby>団体<rt>だんたい</rt></ruby>|<ruby>特徴<rt>とくちょう</rt></ruby>と<ruby>返済<rt>へんさい</rt></ruby><ruby>義務<rt>ぎむ</rt></ruby>|<ruby>獲得<rt>かくとく</rt></ruby>の<ruby>難易<rt>なんい</rt></ruby><ruby>度<rt>ど</rt></ruby>|
 | :--- | :--- | :--- | :---: |
-| **文部科学省（国費）奨学金** | 日本国政府（MEXT） | 学費全額免除＋月額11万円〜14万円支給（返済不要） | ★★★★★<br>（最難関） |
-| **JASSO（学習奨励費）** | 日本学生支援機構 | 月額48,000円支給（返済不要）成績・出席率重視 | ★★★☆☆<br>（一般的） |
-| **民間企業・財団奨学金** | ロータリークラブ、似鳥国際、平和中島等 | 月額5万〜15万円支給（返済不要）面接や小論文あり | ★★★★☆ |
-| **大学独自の授業料減免** | 各大学・専門学校 | 学費が30%〜全額免除になる制度 | ★★☆☆☆<br>（狙い目） |
+| **<ruby>文部<rt>もんぶ</rt></ruby><ruby>科学<rt>かがく</rt></ruby><ruby>省<rt>しょう</rt></ruby>（<ruby>国費<rt>こくひ</rt></ruby>）<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>** | <ruby>日本国<rt>にっぽんこく</rt></ruby><ruby>政府<rt>せいふ</rt></ruby>（MEXT） | <ruby>学費<rt>がくひ</rt></ruby><ruby>全額<rt>ぜんがく</rt></ruby><ruby>免除<rt>めんじょ</rt></ruby>＋<ruby>月額<rt>げつがく</rt></ruby>11<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>〜14<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>支給<rt>しきゅう</rt></ruby>（<ruby>返済<rt>へんさい</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>） | ★★★★★<br>（<ruby>最<rt>さい</rt></ruby><ruby>難関<rt>なんかん</rt></ruby>） |
+| **JASSO（<ruby>学習<rt>がくしゅう</rt></ruby><ruby>奨励<rt>しょうれい</rt></ruby><ruby>費<rt>ひ</rt></ruby>）** | <ruby>日本<rt>にほん</rt></ruby><ruby>学生<rt>がくせい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>機構<rt>きこう</rt></ruby> | <ruby>月額<rt>げつがく</rt></ruby>48,000<ruby>円<rt>えん</rt></ruby><ruby>支給<rt>しきゅう</rt></ruby>（<ruby>返済<rt>へんさい</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>）<ruby>成績<rt>せいせき</rt></ruby>・<ruby>出席<rt>しゅっせき</rt></ruby><ruby>率<rt>りつ</rt></ruby><ruby>重視<rt>じゅうし</rt></ruby> | ★★★☆☆<br>（<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>） |
+|**<ruby>民間<rt>みんかん</rt></ruby><ruby>企業<rt>きぎょう</rt></ruby>・<ruby>財団<rt>ざいだん</rt></ruby><ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>**|ロータリークラブ、<ruby>似鳥<rt>にたどり</rt></ruby><ruby>国際<rt>こくさい</rt></ruby>、<ruby>平和<rt>へいわ</rt></ruby><ruby>中島<rt>なかじま</rt></ruby><ruby>等<rt>ひとし</rt></ruby>|<ruby>月額<rt>げつがく</rt></ruby>5<ruby>万<rt>まん</rt></ruby>〜15<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>支給<rt>しきゅう</rt></ruby>（<ruby>返済<rt>へんさい</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>）<ruby>面接<rt>めんせつ</rt></ruby>や<ruby>小論文<rt>しょうろんぶん</rt></ruby>あり| ★★★★☆ |
+| **<ruby>大学<rt>だいがく</rt></ruby><ruby>独自<rt>どくじ</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby><ruby>料<rt>りょう</rt></ruby><ruby>減免<rt>げんめん</rt></ruby>** | <ruby>各<rt>かく</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>・<ruby>専門<rt>せんもん</rt></ruby><ruby>学校<rt>がっこう</rt></ruby> | <ruby>学費<rt>がくひ</rt></ruby>が30%〜<ruby>全額<rt>ぜんがく</rt></ruby><ruby>免除<rt>めんじょ</rt></ruby>になる<ruby>制度<rt>せいど</rt></ruby> | ★★☆☆☆<br>（<ruby>狙<rt>ねら</rt></ruby>い<ruby>目<rt>め</rt></ruby>） |
 
-#### 奨学金面接で受かるための3大ポイント
-民間財団の面接試験では、単に成績が良いだけでなく、以下のポイントが厳しく見られます：
-1. **将来のビジョンと母国・日本への架け橋**: 「将来、日本で学んだ知識を活かして、自分の国と日本の友好関係やビジネスにどう貢献したいか」を明確に語れること。
-2. **出席率と日々の態度**: 日本の教育機関は「出席率（90%以上必須）」を極端に重視します。どんなに頭が良くても遅刻や欠席が多いと推薦されません。
-3. **日本語でのコミュニケーションへの意欲**: 流暢さだけでなく、一生懸命に自分の言葉で伝えようとする熱意と礼儀正しさが選考委員の心を動かします。
+#### <ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby><ruby>面接<rt>めんせつ</rt></ruby>で<ruby>受<rt>う</rt></ruby>かるための3<ruby>大<rt>だい</rt></ruby>ポイント
+<ruby>民間<rt>みんかん</rt></ruby><ruby>財団<rt>ざいだん</rt></ruby>の<ruby>面接<rt>めんせつ</rt></ruby><ruby>試験<rt>しけん</rt></ruby>では、<ruby>単<rt>たん</rt></ruby>に<ruby>成績<rt>せいせき</rt></ruby>が<ruby>良<rt>よ</rt></ruby>いだけでなく、<ruby>以下<rt>いか</rt></ruby>のポイントが<ruby>厳<rt>きび</rt></ruby>しく<ruby>見<rt>み</rt></ruby>られます：
+1. **<ruby>将来<rt>しょうらい</rt></ruby>のビジョンと<ruby>母国<rt>ぼこく</rt></ruby>・<ruby>日本<rt>にほん</rt></ruby>への<ruby>架け橋<rt>かけはし</rt></ruby>**: 「<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>で<ruby>学<rt>まな</rt></ruby>んだ<ruby>知識<rt>ちしき</rt></ruby>を<ruby>活<rt>い</rt></ruby>かして、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>国<rt>くに</rt></ruby>と<ruby>日本<rt>にほん</rt></ruby>の<ruby>友好<rt>ゆうこう</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>やビジネスにどう<ruby>貢献<rt>こうけん</rt></ruby>したいか」を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>語<rt>かた</rt></ruby>れること。
+2. **<ruby>出席<rt>しゅっせき</rt></ruby><ruby>率<rt>りつ</rt></ruby>と<ruby>日々<rt>ひび</rt></ruby>の<ruby>態度<rt>たいど</rt></ruby>**: <ruby>日本<rt>にほん</rt></ruby>の<ruby>教育<rt>きょういく</rt></ruby><ruby>機関<rt>きかん</rt></ruby>は「<ruby>出席<rt>しゅっせき</rt></ruby><ruby>率<rt>りつ</rt></ruby>（90%<ruby>以上<rt>いじょう</rt></ruby><ruby>必須<rt>ひっす</rt></ruby>）」を<ruby>極端<rt>きょくたん</rt></ruby>に<ruby>重視<rt>じゅうし</rt></ruby>します。どんなに<ruby>頭<rt>あたま</rt></ruby>が<ruby>良<rt>よ</rt></ruby>くても<ruby>遅刻<rt>ちこく</rt></ruby>や<ruby>欠席<rt>けっせき</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いと<ruby>推薦<rt>すいせん</rt></ruby>されません。
+3. **<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>でのコミュニケーションへの<ruby>意欲<rt>いよく</rt></ruby>**: <ruby>流暢<rt>りゅうちょう</rt></ruby>さだけでなく、<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>えようとする<ruby>熱意<rt>ねつい</rt></ruby>と<ruby>礼儀<rt>れいぎ</rt></ruby><ruby>正<rt>ただ</rt></ruby>しさが<ruby>選考<rt>せんこう</rt></ruby><ruby>委員<rt>いいん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かします。
 
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **奨学金（しょうがくきん）** 【JLPT N3】
-  * 意味：scholarship, student loan
-  * 例文：大学に進学するために、返済不要の奨学金を申請した。
-* **返済（へんさい）** 【JLPT N1】
-  * 意味：repayment, reimbursement
-  * 例文：卒業後に毎月少しずつ奨学金を返済していく予定です。
-* **制度（せいど）** 【JLPT N3】
-  * 意味：system, institution
-  * 例文：留学生を支援するための新しい制度が発表された。
+* **<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>（しょうがくきん）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：scholarship, student loan
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>大学<rt>だいがく</rt></ruby>に<ruby>進学<rt>しんがく</rt></ruby>するために、<ruby>返済<rt>へんさい</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>の<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>した。
+* **<ruby>返済<rt>へんさい</rt></ruby>（へんさい）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：repayment, reimbursement
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>毎月<rt>まいつき</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>を<ruby>返済<rt>へんさい</rt></ruby>していく<ruby>予定<rt>よてい</rt></ruby>です。
+* **<ruby>制度<rt>せいど</rt></ruby>（せいど）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：system, institution
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>留学生<rt>りゅうがくせい</rt></ruby>を<ruby>支援<rt>しえん</rt></ruby>するための<ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>が<ruby>発表<rt>はっぴょう</rt></ruby>された。

@@ -1,31 +1,31 @@
 
 
 
-### 💡 実践サバイバル：飲食店で「温かいお湯（白湯）」をもらう神フレーズ
+### 💡 <ruby>実践<rt>じっせん</rt></ruby>サバイバル：<ruby>飲食<rt>いんしょく</rt></ruby><ruby>店<rt>てん</rt></ruby>で「<ruby>温<rt>あたた</rt></ruby>かいお<ruby>湯<rt>ゆ</rt></ruby>（<ruby>白湯<rt>さゆ</rt></ruby>）」をもらう<ruby>神<rt>かみ</rt></ruby>フレーズ
 
-冷たいお水が苦手な方や、薬を飲みたい時、あるいは中華圏出身で温かいお湯を飲みたい時は、遠慮せずに店員さんに声をかけてみましょう。日本のお店でも親切に対応してくれます。
+<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>水<rt>みず</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>な<ruby>方<rt>ほう</rt></ruby>や、<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みたい<ruby>時<rt>とき</rt></ruby>、あるいは<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>で<ruby>温<rt>あたた</rt></ruby>かいお<ruby>湯<rt>ゆ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みたい<ruby>時<rt>とき</rt></ruby>は、<ruby>遠慮<rt>えんりょ</rt></ruby>せずに<ruby>店員<rt>てんいん</rt></ruby>さんに<ruby>声<rt>こえ</rt></ruby>をかけてみましょう。<ruby>日本<rt>にほん</rt></ruby>のお<ruby>店<rt>みせ</rt></ruby>でも<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>してくれます。
 
-| シチュエーション | おすすめのフレーズ | 店員の反応・備考 |
+| シチュエーション | おすすめのフレーズ |<ruby>店員<rt>てんいん</rt></ruby>の<ruby>反応<rt>はんのう</rt></ruby>・<ruby>備考<rt>びこう</rt></ruby>|
 | :--- | :--- | :--- |
-| **白湯（お湯）が欲しい時** | 「すみません、**白湯（さゆ）**か**温かいお湯**をいただけますか？」 | ポットから熱湯を少し冷まして持ってきてくれます |
-| **常温の水が欲しい時** | 「氷なしの、**常温（じょうおん）のお水**はありますか？」 | 「氷抜きですね」と対応してくれます |
-| **薬を飲みたい時** | 「薬を飲みたいので、**ぬるま湯**をいただけますか？」 | 最も角が立たず、100%快く対応してもらえる魔法の理由づけ |
+|**<ruby>白湯<rt>さゆ</rt></ruby>（お<ruby>湯<rt>ゆ</rt></ruby>）が<ruby>欲<rt>ほ</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>**|「すみません、**<ruby>白湯<rt>さゆ</rt></ruby>（さゆ）**か**<ruby>温<rt>あたた</rt></ruby>かいお<ruby>湯<rt>ゆ</rt></ruby>**をいただけますか？」|ポットから<ruby>熱湯<rt>ねっとう</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>し<ruby>冷<rt>さ</rt></ruby>まして<ruby>持<rt>も</rt></ruby>ってきてくれます|
+|**<ruby>常温<rt>じょうおん</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>**|「<ruby>氷<rt>こおり</rt></ruby>なしの、**<ruby>常温<rt>じょうおん</rt></ruby>（じょうおん）のお<ruby>水<rt>みず</rt></ruby>**はありますか？」|「<ruby>氷<rt>こおり</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>きですね」と<ruby>対応<rt>たいおう</rt></ruby>してくれます|
+|**<ruby>薬<rt>やく</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みたい<ruby>時<rt>とき</rt></ruby>**|「<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みたいので、**ぬるま<ruby>湯<rt>ゆ</rt></ruby>**をいただけますか？」|<ruby>最<rt>もっと</rt></ruby>も<ruby>角<rt>かく</rt></ruby>が<ruby>立<rt>た</rt></ruby>たず、100%<ruby>快<rt>こころよ</rt></ruby>く<ruby>対応<rt>たいおう</rt></ruby>してもらえる<ruby>魔法<rt>まほう</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>づけ|
 
-#### 近年の「白湯ブーム」：日本のコンビニにも並ぶ温かいペットボトルの謎
-実は近年、日本国内でも健康志向や冷え性対策として「白湯（さゆ）」が空前のブームになっています。冬になると、コンビニのホットウォーマー（温かいペットボトル飲料コーナー）に、緑茶やコーヒーと並んで**『アサヒ おいしい水 天然水 白湯』**が定番商品として並ぶようになりました。
-「ただのお湯がペットボトルで売れるのか！？」と海外の観光客は二度驚きますが、日本の若者や女性の間では「胃腸を温める」「カフェインが入っていない」として大ヒットしています。真冬に街を歩いていて体が冷え切った時は、ぜひコンビニのホットコーナーで白湯を探してみてください。
+#### <ruby>近年<rt>きんねん</rt></ruby>の「<ruby>白湯<rt>さゆ</rt></ruby>ブーム」：<ruby>日本<rt>にほん</rt></ruby>のコンビニにも<ruby>並<rt>なら</rt></ruby>ぶ<ruby>温<rt>あたた</rt></ruby>かいペットボトルの<ruby>謎<rt>なぞ</rt></ruby>
+<ruby>実<rt>じつ</rt></ruby>は<ruby>近年<rt>きんねん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby><ruby>国内<rt>こくない</rt></ruby>でも<ruby>健康<rt>けんこう</rt></ruby><ruby>志向<rt>しこう</rt></ruby>や<ruby>冷え性<rt>ひえしょう</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>として「<ruby>白湯<rt>さゆ</rt></ruby>（さゆ）」が<ruby>空前<rt>くうぜん</rt></ruby>のブームになっています。<ruby>冬<rt>ふゆ</rt></ruby>になると、コンビニのホットウォーマー（<ruby>温<rt>あたた</rt></ruby>かいペットボトル<ruby>飲料<rt>いんりょう</rt></ruby>コーナー）に、<ruby>緑茶<rt>りょくちゃ</rt></ruby>やコーヒーと<ruby>並<rt>なら</rt></ruby>んで**『アサヒ おいしい<ruby>水<rt>みず</rt></ruby> <ruby>天然<rt>てんねん</rt></ruby><ruby>水<rt>すい</rt></ruby> <ruby>白湯<rt>さゆ</rt></ruby>』**が<ruby>定番<rt>ていばん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>として<ruby>並<rt>なら</rt></ruby>ぶようになりました。
+「ただのお<ruby>湯<rt>ゆ</rt></ruby>がペットボトルで<ruby>売<rt>う</rt></ruby>れるのか！？」と<ruby>海外<rt>かいがい</rt></ruby>の<ruby>観光<rt>かんこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>は<ruby>二<rt>に</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>驚<rt>おどろ</rt></ruby>きますが、<ruby>日本<rt>にほん</rt></ruby>の<ruby>若者<rt>わかもの</rt></ruby>や<ruby>女性<rt>じょせい</rt></ruby>の<ruby>間<rt>ま</rt></ruby>では「<ruby>胃腸<rt>いちょう</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>める」「カフェインが<ruby>入<rt>はい</rt></ruby>っていない」として<ruby>大<rt>だい</rt></ruby>ヒットしています。<ruby>真冬<rt>まふゆ</rt></ruby>に<ruby>街<rt>まち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いていて<ruby>体<rt>からだ</rt></ruby>が<ruby>冷<rt>ひ</rt></ruby>え<ruby>切<rt>き</rt></ruby>った<ruby>時<rt>とき</rt></ruby>は、ぜひコンビニのホットコーナーで<ruby>白湯<rt>さゆ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>してみてください。
 
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **お冷（おひや）** 【JLPT N2】
-  * 意味：cold drinking water
-  * 例文：日本の飲食店に入ると、真冬でも冷たいお冷が無料で出される。
+* **お<ruby>冷<rt>ひや</rt></ruby>（おひや）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：cold drinking water
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>日本<rt>にほん</rt></ruby>の<ruby>飲食<rt>いんしょく</rt></ruby><ruby>店<rt>てん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<ruby>真冬<rt>まふゆ</rt></ruby>でも<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>冷<rt>ひや</rt></ruby>が<ruby>無料<rt>むりょう</rt></ruby>で<ruby>出<rt>だ</rt></ruby>される。
 * **もてなし（もてなし）** 【JLPT N1】
-  * 意味：hospitality, reception
-  * 例文：訪れた客に対して、温かいもてなしの心で接する。
-* **習慣（しゅうかん）** 【JLPT N4】
-  * 意味：habit, custom
-  * 例文：食事の前に「いただきます」と言うのが日本の伝統的な習慣です。
+* <ruby>意味<rt>いみ</rt></ruby>：hospitality, reception
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>訪<rt>おとず</rt></ruby>れた<ruby>客<rt>きゃく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>温<rt>あたた</rt></ruby>かいもてなしの<ruby>心<rt>こころ</rt></ruby>で<ruby>接<rt>せっ</rt></ruby>する。
+* **<ruby>習慣<rt>しゅうかん</rt></ruby>（しゅうかん）** 【JLPT N4】
+* <ruby>意味<rt>いみ</rt></ruby>：habit, custom
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に「いただきます」と<ruby>言<rt>い</rt></ruby>うのが<ruby>日本<rt>にほん</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>です。

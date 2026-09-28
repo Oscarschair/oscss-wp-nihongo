@@ -26,45 +26,45 @@ description: "「行くぞ！」「うまいぜ！」アニメで主人公たち
 ---
 
 
-## アニメの主人公は使うのに、なぜ現実の日本人は「ぞ」「ぜ」を使わないのか？
+## アニメの<ruby>主人公<rt>しゅじんこう</rt></ruby>は<ruby>使<rt>つか</rt></ruby>うのに、なぜ<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>は「ぞ」「ぜ」を<ruby>使<rt>つか</rt></ruby>わないのか？
 
-『ドラゴンボール』の孫悟空は「オラ、ワクワクすっ**ぞ**！」と言い、『ONE PIECE』のルフィは「海賊王に俺はなる**ぞ**！」と叫びます。
-日本語学習者がアニメを見て日本語を覚えると、「日本語の男言葉といえば『〜だぞ』『〜だぜ』だ！」と思い込んで、来日直後に同僚や友達に対して連発してしまい、爆笑されるというお決まりのトラップが存在します。
+『ドラゴンボール』の<ruby>孫悟空<rt>そんごくう</rt></ruby>は「オラ、ワクワクすっ**ぞ**！」と<ruby>言<rt>い</rt></ruby>い、『ONE PIECE』のルフィは「<ruby>海賊<rt>かいぞく</rt></ruby><ruby>王<rt>おう</rt></ruby>に<ruby>俺<rt>おれ</rt></ruby>はなる**ぞ**！」と<ruby>叫<rt>さけ</rt></ruby>びます。
+<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>がアニメを<ruby>見<rt>み</rt></ruby>て<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えると、「<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>男<rt>おとこ</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>といえば『〜だぞ』『〜だぜ』だ！」と<ruby>思い込<rt>おもいこ</rt></ruby>んで、<ruby>来日<rt>らいにち</rt></ruby><ruby>直後<rt>ちょくご</rt></ruby>に<ruby>同僚<rt>どうりょう</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>連発<rt>れんぱつ</rt></ruby>してしまい、<ruby>爆笑<rt>ばくしょう</rt></ruby>されるというお<ruby>決<rt>き</rt></ruby>まりのトラップが<ruby>存在<rt>そんざい</rt></ruby>します。
 
-### 「ぞ」「ぜ」が日常会話から消えた理由
-現実の現代日本において、大人の男性が日常会話で「行くぞ！」「そうだぜ！」を使う機会は極めて限定的です。
+### 「ぞ」「ぜ」が<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>から<ruby>消<rt>き</rt></ruby>えた<ruby>理由<rt>りゆう</rt></ruby>
+<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>現代<rt>げんだい</rt></ruby><ruby>日本<rt>にほん</rt></ruby>において、<ruby>大人<rt>おとな</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>が<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で「<ruby>行<rt>い</rt></ruby>くぞ！」「そうだぜ！」を<ruby>使<rt>つか</rt></ruby>う<ruby>機会<rt>きかい</rt></ruby>は<ruby>極<rt>きわ</rt></ruby>めて<ruby>限定<rt>げんてい</rt></ruby><ruby>的<rt>てき</rt></ruby>です。
 
-| 終助詞 | アニメ・漫画の世界 | 現実の日常会話のリアル |
+|<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>|アニメ・<ruby>漫画<rt>まんが</rt></ruby>の<ruby>世界<rt>せかい</rt></ruby>|<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>のリアル|
 | :--- | :--- | :--- |
-| **ぞ** | 主人公の強い決意、命令、警告 | 自分自身への独り言（「よし、やるぞ！」）以外で人に言うと**威圧的・高圧的**に聞こえる |
-| **ぜ** | クールでかっこいい男性の語尾 | 冗談やふざけて話す時以外で使うと**「カッコつけすぎ」「時代劇っぽい」**と笑われる |
+| **ぞ** |<ruby>主人公<rt>しゅじんこう</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>決意<rt>けつい</rt></ruby>、<ruby>命令<rt>めいれい</rt></ruby>、<ruby>警告<rt>けいこく</rt></ruby>|<ruby>自分<rt>じぶん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>への<ruby>独り言<rt>ひとりごと</rt></ruby>（「よし、やるぞ！」）<ruby>以外<rt>いがい</rt></ruby>で<ruby>人<rt>ひと</rt></ruby>に<ruby>言<rt>い</rt></ruby>うと**<ruby>威圧<rt>いあつ</rt></ruby><ruby>的<rt>てき</rt></ruby>・<ruby>高圧<rt>こうあつ</rt></ruby><ruby>的<rt>てき</rt></ruby>**に<ruby>聞<rt>き</rt></ruby>こえる|
+| **ぜ** |クールでかっこいい<ruby>男性<rt>だんせい</rt></ruby>の<ruby>語尾<rt>ごび</rt></ruby>|<ruby>冗談<rt>じょうだん</rt></ruby>やふざけて<ruby>話<rt>はな</rt></ruby>す<ruby>時<rt>とき</rt></ruby><ruby>以外<rt>いがい</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うと**「カッコつけすぎ」「<ruby>時代<rt>じだい</rt></ruby><ruby>劇<rt>げき</rt></ruby>っぽい」**と<ruby>笑<rt>わら</rt></ruby>われる|
 
-### 💡 現代の日本人男性が実際に使っている自然な語尾
-では、現実の日本人男性はどのように語尾を処理しているのでしょうか？
+### 💡 <ruby>現代<rt>げんだい</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby><ruby>男性<rt>だんせい</rt></ruby>が<ruby>実際<rt>じっさい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>っている<ruby>自然<rt>しぜん</rt></ruby>な<ruby>語尾<rt>ごび</rt></ruby>
+では、<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby><ruby>男性<rt>だんせい</rt></ruby>はどのように<ruby>語尾<rt>ごび</rt></ruby>を<ruby>処理<rt>しょり</rt></ruby>しているのでしょうか？
 
-1. **「〜だよ」「〜ね」**: 最も一般的で自然。柔らかく親しみやすい印象を与える。
-   - ⭕「明日、映画行こう**よ**」「これ、美味しい**ね**」
-2. **「〜じゃん」「〜っしょ」**: カジュアルなタメ口表現。
-   - ⭕「それ、いい**じゃん**！」「間に合う**っしょ**」
-3. **「〜だろ」「〜だな」**: 男らしさを少し残した落ち着いた語尾。
-   - ⭕「これでいい**だろ**」「今日は疲れた**な**」
+1. **「〜だよ」「〜ね」**: <ruby>最<rt>もっと</rt></ruby>も<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>で<ruby>自然<rt>しぜん</rt></ruby>。<ruby>柔<rt>やわ</rt></ruby>らかく<ruby>親<rt>した</rt></ruby>しみやすい<ruby>印象<rt>いんしょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>える。
+- ⭕「<ruby>明日<rt>あした</rt></ruby>、<ruby>映画<rt>えいが</rt></ruby><ruby>行<rt>い</rt></ruby>こう**よ**」「これ、<ruby>美味<rt>おい</rt></ruby>しい**ね**」
+2. **「〜じゃん」「〜っしょ」**: カジュアルなタメ<ruby>口<rt>ぐち</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>。
+- ⭕「それ、いい**じゃん**！」「<ruby>間に合<rt>まにあ</rt></ruby>う**っしょ**」
+3. **「〜だろ」「〜だな」**: <ruby>男<rt>おとこ</rt></ruby>らしさを<ruby>少<rt>すこ</rt></ruby>し<ruby>残<rt>のこ</rt></ruby>した<ruby>落ち着<rt>おちつ</rt></ruby>いた<ruby>語尾<rt>ごび</rt></ruby>。
+- ⭕「これでいい**だろ**」「<ruby>今日<rt>きょう</rt></ruby>は<ruby>疲<rt>つか</rt></ruby>れた**な**」
 
-アニメの日本語は「キャラクターの性格を一瞬で強調するための記号（キャラ語）」として誇張されています。現実の会話では、柔らかく共感を生む終助詞を選ぶのが、誰からも愛されるコミュニケーションの秘訣です。
+アニメの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>は「キャラクターの<ruby>性格<rt>せいかく</rt></ruby>を<ruby>一瞬<rt>いっしゅん</rt></ruby>で<ruby>強調<rt>きょうちょう</rt></ruby>するための<ruby>記号<rt>きごう</rt></ruby>（キャラ<ruby>語<rt>ご</rt></ruby>）」として<ruby>誇張<rt>こちょう</rt></ruby>されています。<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>では、<ruby>柔<rt>やわ</rt></ruby>らかく<ruby>共感<rt>きょうかん</rt></ruby>を<ruby>生<rt>う</rt></ruby>む<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶのが、<ruby>誰<rt>だれ</rt></ruby>からも<ruby>愛<rt>あい</rt></ruby>されるコミュニケーションの<ruby>秘訣<rt>ひけつ</rt></ruby>です。
 
 
-## 🎯 今回の語彙（重要ボキャブラリー）
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-この学習ノートに登場した、覚えておきたい重要日本語：
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-* **語尾（ごび）** 【JLPT N2】
-  * 意味：word ending
-  * 例文：アニメの主人公は、語尾に「〜ぞ」や「〜ぜ」をよく使う。
-* **違和感（いわかん）** 【JLPT N2】
-  * 意味：uncomfortable feeling, oddity
-  * 例文：初対面の人に乱暴な言葉遣いをすると、強い違和感を与えてしまう。
-* **現実（げんじつ）** 【JLPT N3】
-  * 意味：reality, actuality
-  * 例文：アニメの世界の日本語と、現実の日常会話の使い分けを理解する。
+* **<ruby>語尾<rt>ごび</rt></ruby>（ごび）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：word ending
+* <ruby>例文<rt>れいぶん</rt></ruby>：アニメの<ruby>主人公<rt>しゅじんこう</rt></ruby>は、<ruby>語尾<rt>ごび</rt></ruby>に「〜ぞ」や「〜ぜ」をよく<ruby>使<rt>つか</rt></ruby>う。
+* **<ruby>違和感<rt>いわかん</rt></ruby>（いわかん）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：uncomfortable feeling, oddity
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>初対面<rt>しょたいめん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>乱暴<rt>らんぼう</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby><ruby>遣<rt>づか</rt></ruby>いをすると、<ruby>強<rt>つよ</rt></ruby>い<ruby>違和感<rt>いわかん</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてしまう。
+* **<ruby>現実<rt>げんじつ</rt></ruby>（げんじつ）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：reality, actuality
+* <ruby>例文<rt>れいぶん</rt></ruby>：アニメの<ruby>世界<rt>せかい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>と、<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>けを<ruby>理解<rt>りかい</rt></ruby>する。
 ---
 
 ## 📖 あわせて<ruby>読<rt>よ</rt></ruby>みたい「<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>マスター」シリーズ

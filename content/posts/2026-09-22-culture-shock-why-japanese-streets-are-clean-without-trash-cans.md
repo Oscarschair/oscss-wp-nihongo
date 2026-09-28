@@ -1,5 +1,6 @@
 ---
-title: "カルチャーショック：なぜ日本の街には「ゴミ箱」がないのに世界一キレイなの！？｜ポイ捨てゼロの謎！自販機横の丸い穴トラップと『ゴミ持ち帰り文化』完全解剖"
+title: "カルチャーショック：なぜ<ruby>日本<rt>にほん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>には「<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>」がないのに<ruby>世界一<rt>せかいいち</rt></ruby>キレイなの！？｜<ruby>ポイ捨<rt>ぽいす</rt></ruby>てゼロの<ruby>謎<rt>なぞ</rt></ruby>！<ruby>自販機<rt>じはんき</rt></ruby><ruby>横<rt>よこ</rt></ruby>の<ruby>丸<rt>まる</rt></ruby>い<ruby>穴<rt>あな</rt></ruby>トラップと『ゴミ<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>』<ruby>完全<rt>かんぜん</rt></ruby><ruby>解剖<rt>かいぼう</rt></ruby>"
+
 description: "日本の観光地や駅を歩いていて、飲み終わったペットボトルを捨てようとしたら……どこを探してもゴミ箱がない！？自販機の横にある穴にゴミを突っ込むのはマナー違反！？1995年のテロ対策から始まったゴミ箱撤去の歴史と、学校教育から染み付いた『自分のゴミは持ち帰る』日本人のモラルを徹底解説！"
 slug: "culture-shock-why-japanese-streets-are-clean-without-trash-cans"
 date: "2026-09-22T08:00:00+09:00"
@@ -14,61 +15,60 @@ tags:
   - 環境・マナー
   - JLPT N2
 ---
+<ruby>世界中<rt>せかいじゅう</rt></ruby>から<ruby>日本<rt>にほん</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れる<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>観光<rt>かんこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>が、SNSやYouTubeで<ruby>口<rt>くち</rt></ruby>を<ruby>揃<rt>そろ</rt></ruby>えて<ruby>発信<rt>はっしん</rt></ruby>する「<ruby>日本<rt>にほん</rt></ruby><ruby>最大<rt>さいだい</rt></ruby>のミステリー」があります。
 
-世界中から日本を訪れる外国人観光客が、SNSやYouTubeで口を揃えて発信する「日本最大のミステリー」があります。
+それが、**「<ruby>街<rt>がい</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>見当<rt>みあ</rt></ruby>たらないのに、<ruby>道路<rt>どうろ</rt></ruby>にゴミが<ruby>一<rt>ひと</rt></ruby>つも<ruby>落<rt>お</rt></ruby>ちていない<ruby>奇跡<rt>きせき</rt></ruby>」**です！
 
-それが、**「街中にゴミ箱が全く見当たらないのに、道路にゴミが一つも落ちていない奇跡」**です！
+ある<ruby>日<rt>ひ</rt></ruby>、<ruby>渋谷<rt>しぶや</rt></ruby>の<ruby>街<rt>まち</rt></ruby>を<ruby>観光<rt>かんこう</rt></ruby>していたクルマのパニックを<ruby>見<rt>み</rt></ruby>てみましょう。
 
-ある日、渋谷の街を観光していたクルマのパニックを見てみましょう。
+> 🚗 **クルマ**：「（コンビニで<ruby>買<rt>か</rt></ruby>った<ruby>肉<rt>にく</rt></ruby>まんを<ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>わり、<ruby>包<rt>つつ</rt></ruby>み<ruby>紙<rt>し</rt></ruby>を<ruby>手<rt>て</rt></ruby>にキョロキョロ）……あれ？ <ruby>ゴミ箱<rt>ごみばこ</rt></ruby>はどこ？ <ruby>駅前<rt>えきまえ</rt></ruby>にも、<ruby>交差点<rt>こうさてん</rt></ruby>にも、<ruby>公園<rt>こうえん</rt></ruby>にも<ruby>全然<rt>ぜんぜん</rt></ruby>ないよ……！？ もう30<ruby>分<rt>ふん</rt></ruby>もゴミを<ruby>持<rt>も</rt></ruby>ったまま<ruby>歩<rt>ある</rt></ruby>いてるんだけど！」
+> 🚗 **クルマ**：「（あっ！ あそこに<ruby>自販機<rt>じはんき</rt></ruby>がある！ <ruby>横<rt>よこ</rt></ruby>に<ruby>ゴミ箱<rt>ごみばこ</rt></ruby><ruby>発見<rt>はっけん</rt></ruby>！！ <ruby>駆け寄<rt>かけよ</rt></ruby>って<ruby>包<rt>つつ</rt></ruby>み<ruby>紙<rt>し</rt></ruby>を<ruby>押し込<rt>おしこ</rt></ruby>もうとする）」
+> 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「ああっ、クルマくんダメダメ！ そこに<ruby>紙<rt>かみ</rt></ruby>ゴミを<ruby>突っ込<rt>つっこ</rt></ruby>んじゃダメだよ！」
+> 🚗 **クルマ**：「ええっ！？ なんでですか！？ <ruby>丸<rt>まる</rt></ruby>い<ruby>穴<rt>あな</rt></ruby>が2つ<ruby>開<rt>ひら</rt></ruby>いてるから<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>じゃないんですか！？」
+> 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「それは<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>じゃなくて、**『<ruby>缶<rt>かん</rt></ruby>・ペットボトル<ruby>専用<rt>せんよう</rt></ruby>のリサイクル<ruby>回収<rt>かいしゅう</rt></ruby>ボックス』**なんだよ！ <ruby>一般<rt>いっぱん</rt></ruby>のゴミを<ruby>入<rt>い</rt></ruby>れると<ruby>回収<rt>かいしゅう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>が<ruby>困<rt>こま</rt></ruby>っちゃうんだ！」
+> 🚗 **クルマ**：「えええっ！？ じゃあこの<ruby>肉<rt>にく</rt></ruby>まんの<ruby>紙<rt>かみ</rt></ruby>はどこに<ruby>捨<rt>す</rt></ruby>てればいいんですか！？ まさか<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>るまでずっと<ruby>持<rt>も</rt></ruby>って<ruby>歩<rt>ある</rt></ruby>くんですかーーーっ！？」
+> 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「うん、そうだよ！ <ruby>日本<rt>にほん</rt></ruby>では**『<ruby>自分<rt>じぶん</rt></ruby>のゴミは<ruby>自分<rt>じぶん</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>まで<ruby>持ち帰<rt>もちかえ</rt></ruby>る』**のが<ruby>当たり前<rt>あたりまえ</rt></ruby>なんだ！」
+> 🚗 **クルマ**：「な、なんというサバイバル<ruby>精神<rt>せいしん</rt></ruby>……！！」
 
-> 🚗 **クルマ**：「（コンビニで買った肉まんを食べ終わり、包み紙を手にキョロキョロ）……あれ？ ゴミ箱はどこ？ 駅前にも、交差点にも、公園にも全然ないよ……！？ もう30分もゴミを持ったまま歩いてるんだけど！」  
-> 🚗 **クルマ**：「（あっ！ あそこに自販機がある！ 横にゴミ箱発見！！ 駆け寄って包み紙を押し込もうとする）」  
-> 👔 **田中先輩**：「ああっ、クルマくんダメダメ！ そこに紙ゴミを突っ込んじゃダメだよ！」  
-> 🚗 **クルマ**：「ええっ！？ なんでですか！？ 丸い穴が2つ開いてるからゴミ箱じゃないんですか！？」  
-> 👔 **田中先輩**：「それはゴミ箱じゃなくて、**『缶・ペットボトル専用のリサイクル回収ボックス』**なんだよ！ 一般のゴミを入れると回収する人が困っちゃうんだ！」  
-> 🚗 **クルマ**：「えええっ！？ じゃあこの肉まんの紙はどこに捨てればいいんですか！？ まさか家に帰るまでずっと持って歩くんですかーーーっ！？」  
-> 👔 **田中先輩**：「うん、そうだよ！ 日本では**『自分のゴミは自分で家まで持ち帰る』**のが当たり前なんだ！」  
-> 🚗 **クルマ**：「な、なんというサバイバル精神……！！」
+<ruby>欧米<rt>おうべい</rt></ruby>やアジアの<ruby>多<rt>おお</rt></ruby>くの<ruby>都市<rt>とし</rt></ruby>では、<ruby>数<rt>すう</rt></ruby>メートルおきに<ruby>巨大<rt>きょだい</rt></ruby>な<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>設置<rt>せっち</rt></ruby>されており、ゴミが<ruby>出<rt>で</rt></ruby>たらすぐに<ruby>捨<rt>す</rt></ruby>てられるのが<ruby>普通<rt>ふつう</rt></ruby>です。
 
-欧米やアジアの多くの都市では、数メートルおきに巨大なゴミ箱が設置されており、ゴミが出たらすぐに捨てられるのが普通です。
+なぜ<ruby>日本<rt>にほん</rt></ruby>には<ruby>街頭<rt>がいとう</rt></ruby><ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がないのでしょうか？ そして、なぜ<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がないのに<ruby>街<rt>まち</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさが<ruby>保<rt>たも</rt></ruby>たれているのでしょうか？
 
-なぜ日本には街頭ゴミ箱がないのでしょうか？ そして、なぜゴミ箱がないのに街の美しさが保たれているのでしょうか？
-
-今回は、歴史的事件が生んだセキュリティの理由と、日本人の美意識「ゴミ持ち帰り文化」の真相を徹底解剖します！
-
----
-
-## 🎯 今回の語彙（重要ボキャブラリー）
-
-この学習ノートに登場した、覚えておきたい重要日本語：
-
-* **ゴミ箱（ごみばこ）** 【JLPT N4】
-  * 意味：trash can, garbage bin
-  * 例文：駅のホームからゴミ箱が撤去され、持ち帰りが呼びかけられている。
-* **ポイ捨て（ぽいすて）** 【JLPT N2】
-  * 意味：littering, dropping trash carelessly
-  * 例文：道路や公園へのタバコやゴミのポイ捨ては、条例で禁止されている。
-* **持ち帰り（もちかえり）** 【JLPT N3】
-  * 意味：taking home, carrying back
-  * 例文：イベント会場で出たゴミは、各自が責任を持って持ち帰るのがルールだ。
-* **分別（ぶんべつ）** 【JLPT N2】
-  * 意味：separation, sorting (of garbage)
-  * 例文：燃えるゴミ、プラスチック、缶・ビンを正しく分別してゴミステーションに出す。
-* **撤去（てっきょ）** 【JLPT N1】
-  * 意味：removal, dismantling, withdrawal
-  * 例文：テロ対策と治安維持のため、公共スペースのゴミ箱が一斉に撤去された。
-* **美化（びか）** 【JLPT N1】
-  * 意味：beautification, keeping clean
-  * 例文：地域の住民が集まって、週末に河川敷の環境美化活動を行った。
+<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>歴史<rt>れきし</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>事件<rt>じけん</rt></ruby>が<ruby>生<rt>う</rt></ruby>んだセキュリティの<ruby>理由<rt>りゆう</rt></ruby>と、<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>美意識<rt>びいしき</rt></ruby>「ゴミ<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>」の<ruby>真相<rt>しんそう</rt></ruby>を<ruby>徹底<rt>てってい</rt></ruby><ruby>解剖<rt>かいぼう</rt></ruby>します！
 
 ---
 
-## 1. なぜゴミ箱が消えた？ 1995年の「地下鉄サリン事件」と防犯対策
+## 🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）
 
-日本の街にも、かつては欧米と同じようにいたるところにゴミ箱が設置されていました。
-それが一気に消え去った決定的な歴史的転換点があります。
+この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：
 
-それが、**1995年3月20日に発生した「地下鉄サリン事件（化学テロ事件）」**です。
+* **<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>（ごみばこ）** 【JLPT N4】
+* <ruby>意味<rt>いみ</rt></ruby>：trash can, garbage bin
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>駅<rt>えき</rt></ruby>のホームから<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>撤去<rt>てっきょ</rt></ruby>され、<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りが<ruby>呼<rt>よ</rt></ruby>びかけられている。
+* **<ruby>ポイ捨<rt>ぽいす</rt></ruby>て（ぽいすて）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：littering, dropping trash carelessly
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>道路<rt>どうろ</rt></ruby>や<ruby>公園<rt>こうえん</rt></ruby>へのタバコやゴミの<ruby>ポイ捨<rt>ぽいす</rt></ruby>ては、<ruby>条例<rt>じょうれい</rt></ruby>で<ruby>禁止<rt>きんし</rt></ruby>されている。
+* **<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り（もちかえり）** 【JLPT N3】
+* <ruby>意味<rt>いみ</rt></ruby>：taking home, carrying back
+* <ruby>例文<rt>れいぶん</rt></ruby>：イベント<ruby>会場<rt>かいじょう</rt></ruby>で<ruby>出<rt>で</rt></ruby>たゴミは、<ruby>各自<rt>かくじ</rt></ruby>が<ruby>責任<rt>せきにん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>持ち帰<rt>もちかえ</rt></ruby>るのがルールだ。
+* **<ruby>分別<rt>ふんべつ</rt></ruby>（ぶんべつ）** 【JLPT N2】
+* <ruby>意味<rt>いみ</rt></ruby>：separation, sorting (of garbage)
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>燃<rt>も</rt></ruby>えるゴミ、プラスチック、<ruby>缶<rt>かん</rt></ruby>・ビンを<ruby>正<rt>ただ</rt></ruby>しく<ruby>分別<rt>ふんべつ</rt></ruby>してゴミステーションに<ruby>出<rt>だ</rt></ruby>す。
+* **<ruby>撤去<rt>てっきょ</rt></ruby>（てっきょ）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：removal, dismantling, withdrawal
+* <ruby>例文<rt>れいぶん</rt></ruby>：テロ<ruby>対策<rt>たいさく</rt></ruby>と<ruby>治安<rt>ちあん</rt></ruby><ruby>維持<rt>いじ</rt></ruby>のため、<ruby>公共<rt>こうきょう</rt></ruby>スペースの<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>一斉<rt>いっせい</rt></ruby>に<ruby>撤去<rt>てっきょ</rt></ruby>された。
+* **<ruby>美化<rt>びか</rt></ruby>（びか）** 【JLPT N1】
+* <ruby>意味<rt>いみ</rt></ruby>：beautification, keeping clean
+* <ruby>例文<rt>れいぶん</rt></ruby>：<ruby>地域<rt>ちいき</rt></ruby>の<ruby>住民<rt>じゅうみん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>河川敷<rt>かせんしき</rt></ruby>の<ruby>環境<rt>かんきょう</rt></ruby><ruby>美化<rt>びか</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った。
+
+---
+
+## 1. なぜ<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>消<rt>き</rt></ruby>えた？ 1995<ruby>年<rt>ねん</rt></ruby>の「<ruby>地下鉄<rt>ちかてつ</rt></ruby>サリン<ruby>事件<rt>じけん</rt></ruby>」と<ruby>防犯<rt>ぼうはん</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>
+
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>にも、かつては<ruby>欧米<rt>おうべい</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じようにいたるところに<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>設置<rt>せっち</rt></ruby>されていました。
+それが<ruby>一気<rt>いっき</rt></ruby>に<ruby>消え去<rt>きえさ</rt></ruby>った<ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>歴史<rt>れきし</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>転換<rt>てんかん</rt></ruby><ruby>点<rt>てん</rt></ruby>があります。
+
+それが、**1995<ruby>年<rt>ねん</rt></ruby>3<ruby>月<rt>つき</rt></ruby>20<ruby>日<rt>にち</rt></ruby>に<ruby>発生<rt>はっせい</rt></ruby>した「<ruby>地下鉄<rt>ちかてつ</rt></ruby>サリン<ruby>事件<rt>じけん</rt></ruby>（<ruby>化学<rt>かがく</rt></ruby>テロ<ruby>事件<rt>じけん</rt></ruby>）」**です。
 
 ```
 【日本のゴミ箱撤去の歴史】
@@ -78,13 +78,13 @@ tags:
 ● 結果として、ゴミ箱を無くしても街が荒れず、逆に「ポイ捨てが減った」ため、現在も復活していない！
 ```
 
-テロ防止と安全確保のために撤去されたゴミ箱ですが、行政が驚いたのは**「ゴミ箱をなくしても、日本人は道路にゴミを投げ捨てず、カバンに入れて持ち帰った」**という事実でした。
+テロ<ruby>防止<rt>ぼうし</rt></ruby>と<ruby>安全<rt>あんぜん</rt></ruby><ruby>確保<rt>かくほ</rt></ruby>のために<ruby>撤去<rt>てっきょ</rt></ruby>された<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>ですが、<ruby>行政<rt>ぎょうせい</rt></ruby>が<ruby>驚<rt>おどろ</rt></ruby>いたのは**「<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>をなくしても、<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>道路<rt>どうろ</rt></ruby>にゴミを<ruby>投げ捨<rt>なげす</rt></ruby>てず、カバンに<ruby>入<rt>い</rt></ruby>れて<ruby>持ち帰<rt>もちかえ</rt></ruby>った」**という<ruby>事実<rt>じじつ</rt></ruby>でした。
 
 ---
 
-## 2. 自販機の横にある「丸い穴の箱」の正体
+## 2. <ruby>自販機<rt>じはんき</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>にある「<ruby>丸<rt>まる</rt></ruby>い<ruby>穴<rt>あな</rt></ruby>の<ruby>箱<rt>はこ</rt></ruby>」の<ruby>正体<rt>しょうたい</rt></ruby>
 
-多くの外国人が「ゴミ箱だ！」と勘違いしてコンビニの袋やお弁当の殻を押し込んでしまうのが、自動販売機の横にあるボックスです。
+<ruby>多<rt>おお</rt></ruby>くの<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が「<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>だ！」と<ruby>勘違<rt>かんちが</rt></ruby>いしてコンビニの<ruby>袋<rt>ふくろ</rt></ruby>やお<ruby>弁当<rt>べんとう</rt></ruby>の<ruby>殻<rt>から</rt></ruby>を<ruby>押し込<rt>おしこ</rt></ruby>んでしまうのが、<ruby>自動<rt>じどう</rt></ruby><ruby>販売<rt>はんばい</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>にあるボックスです。
 
 ```
 【⚠️ 自販機横のボックスは「ゴミ箱」ではない！】
@@ -93,31 +93,31 @@ tags:
 ● 入れてはいけないもの：プラスチック容器、お菓子の袋、ファストフードのカップ、ティッシュなど
 ```
 
-投入口がわざわざ「缶やペットボトルの大きさピッタリ」に丸く作られているのは、一般ゴミを突っ込まれないようにするためです。ここに無理やり一般ゴミを詰め込むと、リサイクル作業の妨げになります。
+<ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>がわざわざ「<ruby>缶<rt>かん</rt></ruby>やペットボトルの<ruby>大<rt>おお</rt></ruby>きさピッタリ」に<ruby>丸<rt>まる</rt></ruby>く<ruby>作<rt>つく</rt></ruby>られているのは、<ruby>一般<rt>いっぱん</rt></ruby>ゴミを<ruby>突っ込<rt>つっこ</rt></ruby>まれないようにするためです。ここに<ruby>無理<rt>むり</rt></ruby>やり<ruby>一般<rt>いっぱん</rt></ruby>ゴミを<ruby>詰め込<rt>つめこ</rt></ruby>むと、リサイクル<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>妨<rt>さまた</rt></ruby>げになります。
 
 ---
 
-## 3. 外国人旅行者が街中でゴミを捨てるための「合法オアシス」
+## 3. <ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>でゴミを<ruby>捨<rt>す</rt></ruby>てるための「<ruby>合法<rt>ごうほう</rt></ruby>オアシス」
 
-「じゃあ、旅行中に出たゴミはどうすればいいの！？」という方のために、街中で合法的にゴミを捨てられる場所をまとめました。
+「じゃあ、<ruby>旅行<rt>りょこう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>出<rt>で</rt></ruby>たゴミはどうすればいいの！？」という<ruby>方<rt>ほう</rt></ruby>のために、<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>で<ruby>合法<rt>ごうほう</rt></ruby><ruby>的<rt>てき</rt></ruby>にゴミを<ruby>捨<rt>す</rt></ruby>てられる<ruby>場所<rt>ばしょ</rt></ruby>をまとめました。
 
-1. **コンビニエンスストアの店内・店前**  
-   コンビニの入り口付近には、燃えるゴミ・プラスチック・缶ビンの分別ゴミ箱が設置されています。（※その店で買った商品のゴミを捨てるのがマナーです）。
-2. **駅の改札内・ホーム**  
-   新幹線の改札内や、一部の主要駅のホームには、新聞・雑誌・一般ゴミの分別ステーションが残っています。
-3. **購入したファストフード店やカフェ**  
-   マクドナルドやスターバックスの店内トレイ返却口にはゴミ箱があります。
-4. **ホテルの部屋**  
-   外出先で出たゴミは小さなビニール袋にまとめてカバンに入れ、夜にホテルの部屋のゴミ箱に捨てましょう！
+1. **コンビニエンスストアの<ruby>店内<rt>てんない</rt></ruby>・<ruby>店<rt>てん</rt></ruby><ruby>前<rt>まえ</rt></ruby>**
+コンビニの<ruby>入り口<rt>いりくち</rt></ruby><ruby>付近<rt>ふきん</rt></ruby>には、<ruby>燃<rt>も</rt></ruby>えるゴミ・プラスチック・<ruby>缶<rt>かん</rt></ruby>ビンの<ruby>分別<rt>ふんべつ</rt></ruby><ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>設置<rt>せっち</rt></ruby>されています。（※その<ruby>店<rt>みせ</rt></ruby>で<ruby>買<rt>か</rt></ruby>った<ruby>商品<rt>しょうひん</rt></ruby>のゴミを<ruby>捨<rt>す</rt></ruby>てるのがマナーです）。
+2. **<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>内<rt>ない</rt></ruby>・ホーム**
+<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>内<rt>ない</rt></ruby>や、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>主要<rt>しゅよう</rt></ruby><ruby>駅<rt>えき</rt></ruby>のホームには、<ruby>新聞<rt>しんぶん</rt></ruby>・<ruby>雑誌<rt>ざっし</rt></ruby>・<ruby>一般<rt>いっぱん</rt></ruby>ゴミの<ruby>分別<rt>ふんべつ</rt></ruby>ステーションが<ruby>残<rt>のこ</rt></ruby>っています。
+3. **<ruby>購入<rt>こうにゅう</rt></ruby>したファストフード<ruby>店<rt>てん</rt></ruby>やカフェ**
+マクドナルドやスターバックスの<ruby>店内<rt>てんない</rt></ruby>トレイ<ruby>返却<rt>へんきゃく</rt></ruby><ruby>口<rt>ぐち</rt></ruby>には<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>があります。
+4. **ホテルの<ruby>部屋<rt>へや</rt></ruby>**
+<ruby>外出<rt>がいしゅつ</rt></ruby><ruby>先<rt>さき</rt></ruby>で<ruby>出<rt>で</rt></ruby>たゴミは<ruby>小<rt>ちい</rt></ruby>さなビニール<ruby>袋<rt>ぶくろ</rt></ruby>にまとめてカバンに<ruby>入<rt>い</rt></ruby>れ、<ruby>夜<rt>よる</rt></ruby>にホテルの<ruby>部屋<rt>へや</rt></ruby>の<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>に<ruby>捨<rt>す</rt></ruby>てましょう！
 
 ---
 
-## 4. なぜキレイ？ 学校教育に根付く「掃除の時間」と「感謝の心」
+## 4. なぜキレイ？ <ruby>学校<rt>がっこう</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>に<ruby>根付<rt>ねつ</rt></ruby>く「<ruby>掃除<rt>そうじ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>」と「<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>」
 
-日本の街がゴミ箱なしでも清潔な最大の理由は、幼少期からの**「学校教育」**にあります。
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>が<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>なしでも<ruby>清潔<rt>せいけつ</rt></ruby>な<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>幼少<rt>ようしょう</rt></ruby><ruby>期<rt>き</rt></ruby>からの**「<ruby>学校<rt>がっこう</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>」**にあります。
 
-多くの国では、学校の清掃は専門の清掃員（ジャニター）が担当します。
-しかし日本の小・中・高校では、**「児童・生徒自身が毎日放課後に教室、廊下、トイレを雑巾がけして掃除する」**という伝統カリキュラムがあります。
+<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>では、<ruby>学校<rt>がっこう</rt></ruby>の<ruby>清掃<rt>せいそう</rt></ruby>は<ruby>専門<rt>せんもん</rt></ruby>の<ruby>清掃<rt>せいそう</rt></ruby><ruby>員<rt>いん</rt></ruby>（ジャニター）が<ruby>担当<rt>たんとう</rt></ruby>します。
+しかし<ruby>日本<rt>にほん</rt></ruby>の<ruby>小<rt>しょう</rt></ruby>・<ruby>中<rt>なか</rt></ruby>・<ruby>高校<rt>こうこう</rt></ruby>では、**「<ruby>児童<rt>じどう</rt></ruby>・<ruby>生徒<rt>せいと</rt></ruby><ruby>自身<rt>じしん</rt></ruby>が<ruby>毎日<rt>まいにち</rt></ruby><ruby>放課後<rt>ほうかご</rt></ruby>に<ruby>教室<rt>きょうしつ</rt></ruby>、<ruby>廊下<rt>ろうか</rt></ruby>、トイレを<ruby>雑巾<rt>ぞうきん</rt></ruby>がけして<ruby>掃除<rt>そうじ</rt></ruby>する」**という<ruby>伝統<rt>でんとう</rt></ruby>カリキュラムがあります。
 
 ```
 【日本の「掃除教育」が生む美意識】
@@ -130,11 +130,11 @@ tags:
 
 ---
 
-## 5. ポイ捨て厳禁！ 日本の「路上喫煙禁止」と「携帯灰皿」ルール
+## 5. <ruby>ポイ捨<rt>ぽいす</rt></ruby>て<ruby>厳禁<rt>げんきん</rt></ruby>！ <ruby>日本<rt>にほん</rt></ruby>の「<ruby>路上<rt>ろじょう</rt></ruby><ruby>喫煙<rt>きつえん</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>」と「<ruby>携帯<rt>けいたい</rt></ruby><ruby>灰皿<rt>はいざら</rt></ruby>」ルール
 
-ゴミのポイ捨てと並んで、日本で厳格に取り締まられているのが**「路上喫煙（歩きタバコ）」**です。
+ゴミの<ruby>ポイ捨<rt>ぽいす</rt></ruby>てと<ruby>並<rt>なら</rt></ruby>んで、<ruby>日本<rt>にほん</rt></ruby>で<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>取り締<rt>とりし</rt></ruby>まられているのが**「<ruby>路上<rt>ろじょう</rt></ruby><ruby>喫煙<rt>きつえん</rt></ruby>（<ruby>歩<rt>ある</rt></ruby>きタバコ）」**です。
 
-東京都内や主要都市のほぼ全域で「路上喫煙禁止条例」が施行されており、歩きながらタバコを吸うと**2,000円〜数万円の過料（罰金）**が科されることがあります。
+<ruby>東京<rt>とうきょう</rt></ruby><ruby>都内<rt>とない</rt></ruby>や<ruby>主要<rt>しゅよう</rt></ruby><ruby>都市<rt>とし</rt></ruby>のほぼ<ruby>全域<rt>ぜんいき</rt></ruby>で「<ruby>路上<rt>ろじょう</rt></ruby><ruby>喫煙<rt>きつえん</rt></ruby><ruby>禁止<rt>きんし</rt></ruby><ruby>条例<rt>じょうれい</rt></ruby>」が<ruby>施行<rt>しこう</rt></ruby>されており、<ruby>歩<rt>ある</rt></ruby>きながらタバコを<ruby>吸<rt>す</rt></ruby>うと**2,000<ruby>円<rt>えん</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>過料<rt>かりょう</rt></ruby>（<ruby>罰金<rt>ばっきん</rt></ruby>）**が<ruby>科<rt>か</rt></ruby>されることがあります。
 
 ```
 【日本の喫煙サバイバルルール】
@@ -143,13 +143,13 @@ tags:
 ● 喫煙所がない場所で吸う愛煙家は、必ず「携帯灰皿（けいたいはいざら）」をポケットに携帯する！
 ```
 
-「道端に吸い殻が落ちていない」のも、こうした厳しい条例と愛煙家のモラルによって支えられています。
+「<ruby>道端<rt>みちばた</rt></ruby>に<ruby>吸い殻<rt>すいがら</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちていない」のも、こうした<ruby>厳<rt>きび</rt></ruby>しい<ruby>条例<rt>じょうれい</rt></ruby>と<ruby>愛煙<rt>あいえん</rt></ruby><ruby>家<rt>か</rt></ruby>のモラルによって<ruby>支<rt>ささ</rt></ruby>えられています。
 
 ---
 
-## 6. 理解度チェック！日本のゴミマナークイズ
+## 6. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！<ruby>日本<rt>にほん</rt></ruby>のゴミマナークイズ
 
-あなたのゴミサバイバル知識を試してみましょう！
+あなたのゴミサバイバル<ruby>知識<rt>ちしき</rt></ruby>を<ruby>試<rt>ため</rt></ruby>してみましょう！
 
 ```
 【第1問】
@@ -170,23 +170,23 @@ tags:
 ② 道路の隅や電柱の根元にこっそり置いておく
 ```
 
-### 【正解と解説】
-* **第1問の正解：② その自販機で買った空き缶やペットボトル**  
-  あれは一般のゴミ箱ではなく「リサイクル専用回収ボックス」です！ プラスチックや紙ゴミを突っ込んではいけません。
-* **第2問の正解：① 1995年の地下鉄サリン事件（テロ対策）**  
-  ゴミ箱の中に危険物や毒劇物が仕掛けられるリスクを防ぐために全国で撤去されました。
-* **第3問の正解：① 自宅やホテルまで持ち帰る**  
-  「自分のゴミは自分で家まで持ち帰る」のが日本の伝統的で美しいマナーです！
+### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
+* **<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② その<ruby>自販機<rt>じはんき</rt></ruby>で<ruby>買<rt>か</rt></ruby>った<ruby>空き缶<rt>あきかん</rt></ruby>やペットボトル**
+あれは<ruby>一般<rt>いっぱん</rt></ruby>の<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>ではなく「リサイクル<ruby>専用<rt>せんよう</rt></ruby><ruby>回収<rt>かいしゅう</rt></ruby>ボックス」です！ プラスチックや<ruby>紙<rt>かみ</rt></ruby>ゴミを<ruby>突っ込<rt>つっこ</rt></ruby>んではいけません。
+* **<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：① 1995<ruby>年<rt>ねん</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>サリン<ruby>事件<rt>じけん</rt></ruby>（テロ<ruby>対策<rt>たいさく</rt></ruby>）**
+<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>危険<rt>きけん</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>や<ruby>毒<rt>どく</rt></ruby><ruby>劇<rt>げき</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が<ruby>仕掛<rt>しか</rt></ruby>けられるリスクを<ruby>防<rt>ふせ</rt></ruby>ぐために<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>撤去<rt>てっきょ</rt></ruby>されました。
+* **<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：① <ruby>自宅<rt>じたく</rt></ruby>やホテルまで<ruby>持ち帰<rt>もちかえ</rt></ruby>る**
+「<ruby>自分<rt>じぶん</rt></ruby>のゴミは<ruby>自分<rt>じぶん</rt></ruby>で<ruby>家<rt>いえ</rt></ruby>まで<ruby>持ち帰<rt>もちかえ</rt></ruby>る」のが<ruby>日本<rt>にほん</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>で<ruby>美<rt>うつく</rt></ruby>しいマナーです！
 
 ---
 
-## 7. まとめ：日本の美しさを守るサバイバルマナー
+## 7. まとめ：<ruby>日本<rt>にほん</rt></ruby>の<ruby>美<rt>うつく</rt></ruby>しさを<ruby>守<rt>まも</rt></ruby>るサバイバルマナー
 
-1. **日本の街にはテロ対策と美化のためゴミ箱が基本的にない！**
-2. **自販機横のボックスは「缶・ペットボトル専用のリサイクル箱」！**
-3. **外出するときはカバンに「小さなゴミ袋」を1枚忍ばせておく！**
-4. **どうしても捨てたい時は、買い物をしたコンビニのゴミ箱を利用する！**
-5. **歩きタバコは罰金対象！ 指定喫煙所を利用する！**
-6. **「自分のゴミは持ち帰る」ことが、日本社会への最大のリスペクト！**
+1. **<ruby>日本<rt>にほん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>にはテロ<ruby>対策<rt>たいさく</rt></ruby>と<ruby>美化<rt>びか</rt></ruby>のため<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>基本<rt>きほん</rt></ruby><ruby>的<rt>てき</rt></ruby>にない！**
+2. **<ruby>自販機<rt>じはんき</rt></ruby><ruby>横<rt>よこ</rt></ruby>のボックスは「<ruby>缶<rt>かん</rt></ruby>・ペットボトル<ruby>専用<rt>せんよう</rt></ruby>のリサイクル<ruby>箱<rt>ばこ</rt></ruby>」！**
+3. **<ruby>外出<rt>がいしゅつ</rt></ruby>するときはカバンに「<ruby>小<rt>ちい</rt></ruby>さなゴミ<ruby>袋<rt>ぶくろ</rt></ruby>」を1<ruby>枚<rt>まい</rt></ruby><ruby>忍<rt>しの</rt></ruby>ばせておく！**
+4. **どうしても<ruby>捨<rt>す</rt></ruby>てたい<ruby>時<rt>とき</rt></ruby>は、<ruby>買い物<rt>かいもの</rt></ruby>をしたコンビニの<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する！**
+5. **<ruby>歩<rt>ある</rt></ruby>きタバコは<ruby>罰金<rt>ばっきん</rt></ruby><ruby>対象<rt>たいしょう</rt></ruby>！ <ruby>指定<rt>してい</rt></ruby><ruby>喫煙<rt>きつえん</rt></ruby><ruby>所<rt>しょ</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する！**
+6. **「<ruby>自分<rt>じぶん</rt></ruby>のゴミは<ruby>持ち帰<rt>もちかえ</rt></ruby>る」ことが、<ruby>日本<rt>にほん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>への<ruby>最大<rt>さいだい</rt></ruby>のリスペクト！**
 
-ゴミ箱がない不便さを嘆くのではなく、「一人ひとりのモラルで世界一美しい街が維持されている」という文化の背景を知ることで、日本の旅や生活はより深い感動に包まれますよ！
+<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がない<ruby>不便<rt>ふべん</rt></ruby>さを<ruby>嘆<rt>なげ</rt></ruby>くのではなく、「<ruby>一人<rt>ひとり</rt></ruby>ひとりのモラルで<ruby>世界一<rt>せかいいち</rt></ruby><ruby>美<rt>うつく</rt></ruby>しい<ruby>街<rt>まち</rt></ruby>が<ruby>維持<rt>いじ</rt></ruby>されている」という<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>を<ruby>知<rt>し</rt></ruby>ることで、<ruby>日本<rt>にほん</rt></ruby>の<ruby>旅<rt>たび</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby>はより<ruby>深<rt>ふか</rt></ruby>い<ruby>感動<rt>かんどう</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれますよ！
