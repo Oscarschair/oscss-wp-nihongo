@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：<ruby>日本<rt>にほん</rt></ruby>のトイレで<ruby>水<rt>みず</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れる<ruby>謎<rt>なぞ</rt></ruby>のボタン「<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>」の<ruby>正体<rt>しょうたい</rt></ruby>｜なぜ<ruby>排泄<rt>はいせつ</rt></ruby><ruby>音<rt>おん</rt></ruby>を<ruby>消<rt>け</rt></ruby>したいの！？<ruby>恥<rt>は</rt></ruby>じらいの<ruby>文化<rt>ぶんか</rt></ruby>が<ruby>生<rt>う</rt></ruby>んだハイテク<ruby>節水<rt>せっすい</rt></ruby>エコ<ruby>革命<rt>かくめい</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>解剖<rt>かいぼう</rt></ruby>"
+title: "カルチャーショック：日本のトイレで水が流れる謎のボタン「音姫」の正体｜なぜ排泄音を消したいの！？恥じらいの文化が生んだハイテク節水エコ革命完全解剖"
 
 description: "日本の女子トイレや公共トイレに入ると、センサーに手をかざした瞬間に『ジャーーーッ！』と大音量で水の流れる音が鳴り響く謎の機械『音姫（おとひめ）』！なぜ外国人は使わないのに、日本人女性は100%鳴らすのか？江戸時代の『音消し壺』から始まった恥じらいの歴史とウォシュレットのボタン操作まで徹底解説！"
 slug: "culture-shock-why-japanese-toilets-play-water-sounds-otohime"

@@ -1,5 +1,6 @@
 ---
-title: "くらべてみました：「あげる」VS「くれる」VS「もらう」の<ruby>違<rt>ちが</rt></ruby>い｜なぜ<ruby>日本語<rt>にほんご</rt></ruby>には「GIVE」が2つもあるのか？"
+title: "くらべてみました：「あげる」VS「くれる」VS「もらう」の違い｜なぜ日本語には「GIVE」が2つもあるのか？"
+
 slug: "japanese-comparing-ageru-kureru-morau-differences-in-giving-and-receiving"
 date: "2026-09-15T08:00:00+09:00"
 categories:

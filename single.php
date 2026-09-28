@@ -30,6 +30,13 @@ get_header();
 							<?php oscss_posted_on(); ?>
 							<?php oscss_posted_reading_time(); ?>
 							<?php oscss_posted_views(); ?>
+							<div class="c-ruby-toggle-wrapper">
+								<button type="button" class="c-ruby-toggle js-ruby-toggle" aria-pressed="true" title="<?php esc_attr_e( 'ふりがな（ルビ）の表示・非表示を切り替えます', 'oscss-wp-nihongo' ); ?>">
+									<span class="c-ruby-toggle__icon" aria-hidden="true">🔤</span>
+									<span class="c-ruby-toggle__label"><?php esc_html_e( 'ふりがな', 'oscss-wp-nihongo' ); ?></span>
+									<span class="c-ruby-toggle__status">ON</span>
+								</button>
+							</div>
 						</div>
 
 						<h1 class="c-entry__title"><?php the_title(); ?></h1>
@@ -114,6 +121,15 @@ get_header();
 			?>
 
 		<?php endwhile; ?>
+	</div>
+
+	<!-- Sticky Ruby Toggle (スクロール追従フロートボタン) -->
+	<div class="c-ruby-toggle-sticky js-ruby-toggle-sticky" id="ruby-sticky-toggle">
+		<button type="button" class="c-ruby-toggle c-ruby-toggle--sticky js-ruby-toggle" aria-pressed="true" title="<?php esc_attr_e( 'ふりがな（ルビ）の表示・非表示を切り替え', 'oscss-wp-nihongo' ); ?>">
+			<span class="c-ruby-toggle__icon" aria-hidden="true">🔤</span>
+			<span class="c-ruby-toggle__label"><?php esc_html_e( 'ふりがな', 'oscss-wp-nihongo' ); ?></span>
+			<span class="c-ruby-toggle__status">ON</span>
+		</button>
 	</div>
 </main>
 

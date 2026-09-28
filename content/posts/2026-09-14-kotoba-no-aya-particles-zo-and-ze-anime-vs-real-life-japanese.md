@@ -1,5 +1,6 @@
 ---
-title: "ことばのあや：<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>「ぞ」「ぜ」の<ruby>話<rt>はなし</rt></ruby>｜アニメで<ruby>毎日<rt>まいにち</rt></ruby><ruby>聞<rt>き</rt></ruby>くのに、なぜ<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>使<rt>つか</rt></ruby>わないのか？"
+title: "ことばのあや：終助詞「ぞ」「ぜ」の話｜アニメで毎日聞くのに、なぜ現実の日本人は使わないのか？"
+
 slug: "kotoba-no-aya-particles-zo-and-ze-anime-vs-real-life-japanese"
 date: "2026-09-14T08:00:00+09:00"
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：なぜ<ruby>日本<rt>にほん</rt></ruby>の<ruby>街<rt>まち</rt></ruby>には「<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>」がないのに<ruby>世界一<rt>せかいいち</rt></ruby>キレイなの！？｜<ruby>ポイ捨<rt>ぽいす</rt></ruby>てゼロの<ruby>謎<rt>なぞ</rt></ruby>！<ruby>自販機<rt>じはんき</rt></ruby><ruby>横<rt>よこ</rt></ruby>の<ruby>丸<rt>まる</rt></ruby>い<ruby>穴<rt>あな</rt></ruby>トラップと『ゴミ<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>』<ruby>完全<rt>かんぜん</rt></ruby><ruby>解剖<rt>かいぼう</rt></ruby>"
+title: "カルチャーショック：なぜ日本の街には「ゴミ箱」がないのに世界一キレイなの！？｜ポイ捨てゼロの謎！自販機横の丸い穴トラップと『ゴミ持ち帰り文化』完全解剖"
 
 description: "日本の観光地や駅を歩いていて、飲み終わったペットボトルを捨てようとしたら……どこを探してもゴミ箱がない！？自販機の横にある穴にゴミを突っ込むのはマナー違反！？1995年のテロ対策から始まったゴミ箱撤去の歴史と、学校教育から染み付いた『自分のゴミは持ち帰る』日本人のモラルを徹底解説！"
 slug: "culture-shock-why-japanese-streets-are-clean-without-trash-cans"

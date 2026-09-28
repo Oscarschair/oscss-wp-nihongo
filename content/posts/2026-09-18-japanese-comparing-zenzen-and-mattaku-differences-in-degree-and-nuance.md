@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「<ruby>全然<rt>ぜんぜん</rt></ruby>」VS「<ruby>全<rt>まった</rt></ruby>く」の<ruby>違<rt>ちが</rt></ruby>いとは？｜<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>の『<ruby>全然<rt>ぜんぜん</rt></ruby>いいよ』とビジネスの『<ruby>全<rt>まった</rt></ruby>く<ruby>問題<rt>もんだい</rt></ruby>ございません』！<ruby>否定<rt>ひてい</rt></ruby>と<ruby>肯定<rt>こうてい</rt></ruby>のニュアンス<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "くらべてみました：「全然」VS「全く」の違いとは？｜日常会話の『全然いいよ』とビジネスの『全く問題ございません』！否定と肯定のニュアンス完全解説"
 
 description: "「全然わかりません」と「全くわかりません」って何が違うの！？本来は否定を伴う言葉だった『全然』が、なぜ若者言葉で『全然おいしい！』『全然平気！』と肯定で使われるようになったのか？フォーマル度の決定的な差から、JLPT頻出の否定呼応構文まで徹底解説！"
 slug: "japanese-comparing-zenzen-and-mattaku-differences-in-degree-and-nuance"

@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>日本<rt>にほん</rt></ruby>のカフェの「<ruby>店内<rt>てんない</rt></ruby>ですか？お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りですか？」の<ruby>試練<rt>しれん</rt></ruby>｜<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>10%VS8%の<ruby>罠<rt>わな</rt></ruby>とマグカップか<ruby>紙<rt>し</rt></ruby>コップかの<ruby>二<rt>に</rt></ruby><ruby>重<rt>じゅう</rt></ruby><ruby>尋問<rt>じんもん</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>突破<rt>とっぱ</rt></ruby>マニュアル"
+title: "街角サバイバル：日本のカフェの「店内ですか？お持ち帰りですか？」の試練｜軽減税率10%VS8%の罠とマグカップか紙コップかの二重尋問完全突破マニュアル"
 
 description: "日本のスタバやドトールでコーヒーを頼んだら、店員さんから矢継ぎ早に繰り出される質問攻め！？『店内でお召し上がりですか？』『マグカップでよろしいですか？』『レシートご利用ですか？』。なぜ持ち帰りと店内で税率が変わるのか？サイズ・カスタム注文からスマートな返答フレーズまで徹底解説！"
 slug: "street-japanese-cafe-order-survival-mug-or-paper-guide"

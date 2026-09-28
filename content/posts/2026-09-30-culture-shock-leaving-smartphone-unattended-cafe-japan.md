@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>はカフェで「スマホや<ruby>財布<rt>さいふ</rt></ruby>」を<ruby>置<rt>お</rt></ruby>いたまま<ruby>席<rt>せき</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れるのか！？｜<ruby>世界<rt>せかい</rt></ruby>が<ruby>戦慄<rt>せんりつ</rt></ruby>する<ruby>治安<rt>ちあん</rt></ruby><ruby>神話<rt>しんわ</rt></ruby>と<ruby>平和<rt>へいわ</rt></ruby>ボケの<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>解剖<rt>かいぼう</rt></ruby>"
+title: "カルチャーショック：なぜ日本人はカフェで「スマホや財布」を置いたまま席を離れるのか！？｜世界が戦慄する治安神話と平和ボケの境界線完全解剖"
 
 description: "日本のスターバックスで、テーブルの上に最新のMacBookやiPhone、さらには財布を置いたままトイレへ消えていく日本人たち！海外なら『3秒で盗まれる』危険行為が、なぜ日本では平然と成立しているのか？落とし物が100%返ってくる奇跡の警察システムから防犯の落とし穴まで徹底解説！"
 slug: "culture-shock-leaving-smartphone-unattended-cafe-japan"

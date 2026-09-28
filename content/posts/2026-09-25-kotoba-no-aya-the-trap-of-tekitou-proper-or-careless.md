@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：<ruby>日本人<rt>にっぽんじん</rt></ruby>の「<ruby>適当<rt>てきとう</rt></ruby>にやっておいて」に<ruby>隠<rt>かく</rt></ruby>された<ruby>巨大<rt>きょだい</rt></ruby>な<ruby>罠<rt>わな</rt></ruby>｜『<ruby>適切<rt>てきせつ</rt></ruby>』なのか『いい<ruby>加減<rt>かげん</rt></ruby>』なのか！？<ruby>辞書<rt>じしょ</rt></ruby>と<ruby>現場<rt>げんば</rt></ruby>で<ruby>真<rt>ま</rt></ruby><ruby>逆<rt>ぎゃく</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>危険<rt>きけん</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>解剖<rt>かいぼう</rt></ruby>"
+title: "ことばのあや：日本人の「適当にやっておいて」に隠された巨大な罠｜『適切』なのか『いい加減』なのか！？辞書と現場で真逆の意味を持つ危険な日本語完全解剖"
 
 description: "上司から『クルマくん、この資料、適当にまとめておいて！』と言われて大パニック！？『テキトーでいい＝手抜きしてOK？それとも適切に完璧にやれってこと！？』。相反する2つの顔を持つ日本語屈指のトラップ単語『適当』の語源から、ビジネスでの正しい対処法まで徹底解説！"
 slug: "kotoba-no-aya-the-trap-of-tekitou-proper-or-careless"

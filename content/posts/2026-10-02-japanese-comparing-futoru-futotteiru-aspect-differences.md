@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「<ruby>太<rt>ふと</rt></ruby>る」VS「<ruby>太<rt>ふと</rt></ruby>っている」の<ruby>違<rt>ちが</rt></ruby>いとは？｜<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>必<rt>かなら</rt></ruby>ず<ruby>混乱<rt>こんらん</rt></ruby>する<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の「〜ている（<ruby>変化<rt>へんか</rt></ruby>と<ruby>状態<rt>じょうたい</rt></ruby>）」<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "くらべてみました：「太る」VS「太っている」の違いとは？｜外国人が必ず混乱する日本語の「〜ている（変化と状態）」完全解説"
 
 description: "「最近太る」「田中さんは太る」って言ったら変な顔をされた！？英語の 'gain weight' と 'be fat' の違いに見えて、実は日本語特有の『アスペクト（動きのプロセスか、結果の状態か）』が関わる超重要文法。「太る」「太っている」の使い分けから、「結婚する」「知る」「死ぬ」などの変化動詞のルールまで徹底解説！"
 slug: "japanese-comparing-futoru-futotteiru-aspect-differences"

@@ -3640,7 +3640,7 @@ section .ad-placeholder,
 }
 
 /* ==========================================================================
-   22. Ruby & Furigana Styles (発音・ルビースタイル)
+   22. Ruby & Furigana Styles (発音・ルビースタイル ＆ ON/OFFトグル)
    ========================================================================== */
 ruby {
 	ruby-position: over;
@@ -3654,6 +3654,138 @@ rt {
 	letter-spacing: 0.02em;
 	line-height: 1;
 	user-select: none; /* コピペ時にルビ文字が混入するのを防止 */
+}
+
+/* ルビOFF（非表示）状態 */
+html.is-ruby-hidden rt,
+body.is-ruby-hidden rt {
+	display: none !important;
+}
+
+/* ルビ切り替えボタン共通（インライン ＆ Sticky） */
+.c-ruby-toggle {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 4px 10px;
+	font-size: 12px;
+	font-weight: 700;
+	color: #475569;
+	background: #ffffff;
+	border: 1.5px solid #cbd5e1;
+	border-radius: 9999px;
+	cursor: pointer;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+	transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+	line-height: 1;
+	user-select: none;
+	text-decoration: none;
+}
+
+.c-ruby-toggle:hover {
+	border-color: var(--color-primary);
+	color: var(--color-primary);
+	box-shadow: 0 2px 6px rgba(37, 99, 235, 0.16);
+	transform: translateY(-1px);
+}
+
+.c-ruby-toggle__icon {
+	font-size: 13px;
+	line-height: 1;
+}
+
+.c-ruby-toggle__label {
+	letter-spacing: 0.02em;
+}
+
+.c-ruby-toggle__status {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	min-width: 28px;
+	height: 18px;
+	padding: 0 6px;
+	font-size: 10px;
+	font-weight: 800;
+	border-radius: 9999px;
+	background: var(--color-primary);
+	color: #ffffff;
+	letter-spacing: 0.05em;
+	transition: background 0.2s ease, color 0.2s ease;
+}
+
+/* OFF状態のボタン表現 */
+body.is-ruby-hidden .c-ruby-toggle {
+	background: #f1f5f9;
+	border-color: #cbd5e1;
+	color: #64748b;
+}
+
+body.is-ruby-hidden .c-ruby-toggle__status {
+	background: #94a3b8;
+	color: #ffffff;
+}
+
+/* 記事メタ情報内のインラインボタンスタイル */
+.c-ruby-toggle-wrapper {
+	display: inline-flex;
+	align-items: center;
+	margin-left: auto;
+}
+
+@media (max-width: 768px) {
+	.c-ruby-toggle-wrapper {
+		margin-left: 0;
+		width: 100%;
+		margin-top: 6px;
+	}
+}
+
+/* Sticky（スクロール追従フロート）ボタンスタイル */
+.c-ruby-toggle-sticky {
+	position: fixed;
+	bottom: calc(var(--space-6, 24px) + 54px);
+	right: var(--space-6, 24px);
+	z-index: 98; /* back-to-top (99) の真上・背面競合防止 */
+	opacity: 0;
+	visibility: hidden;
+	transform: translateY(14px) scale(0.96);
+	transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+	pointer-events: none;
+}
+
+.c-ruby-toggle-sticky.is-visible {
+	opacity: 1;
+	visibility: visible;
+	transform: translateY(0) scale(1);
+	pointer-events: auto;
+}
+
+.c-ruby-toggle--sticky {
+	padding: 7px 14px;
+	font-size: 13px;
+	background: rgba(255, 255, 255, 0.94);
+	backdrop-filter: blur(10px);
+	-webkit-backdrop-filter: blur(10px);
+	border: 1.5px solid rgba(203, 213, 225, 0.9);
+	box-shadow: 0 4px 16px rgba(15, 23, 42, 0.12), 0 1px 3px rgba(15, 23, 42, 0.06);
+}
+
+.c-ruby-toggle--sticky:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 6px 20px rgba(37, 99, 235, 0.22);
+	background: #ffffff;
+}
+
+@media (max-width: 600px) {
+	.c-ruby-toggle-sticky {
+		right: 16px;
+		bottom: 74px; /* スマホSPでback-to-top(右下)と絶妙に並び、押しやすい位置 */
+	}
+	.c-ruby-toggle--sticky {
+		padding: 6px 12px;
+		font-size: 12px;
+	}
 }
 
 /* ==========================================================================

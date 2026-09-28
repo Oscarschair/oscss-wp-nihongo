@@ -1,5 +1,6 @@
 ---
-title: "ことばのあや：「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」の<ruby>罠<rt>わな</rt></ruby>｜YESなの？それともNO？<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>連発<rt>れんぱつ</rt></ruby>する<ruby>万能<rt>ばんのう</rt></ruby>フレーズの<ruby>解読<rt>かいどく</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>"
+title: "ことばのあや：「大丈夫です」の罠｜YESなの？それともNO？日本人が連発する万能フレーズの解読術"
+
 slug: "kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase"
 date: "2026-09-11T08:00:00+09:00"
 categories:

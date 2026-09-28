@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「たぶん」VS「おそらく」VS「きっと」の<ruby>違<rt>ちが</rt></ruby>いとは？｜<ruby>推量<rt>すいりょう</rt></ruby>の<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>パーセンテージ！<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>からビジネスの<ruby>報告<rt>ほうこく</rt></ruby>まで<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "くらべてみました：「たぶん」VS「おそらく」VS「きっと」の違いとは？｜推量の確信度パーセンテージ！日常会話からビジネスの報告まで完全解説"
 
 description: "「明日はたぶん雨です」「明日はおそらく雨です」「明日はきっと雨です」って何が違うの！？すべて英語の『Probably / Maybe / Surely』で片付けられない日本語の三大推量副詞！確信度の違い（50%・80%・90%）からビジネスでの報告マナーまで徹底解説！"
 slug: "japanese-comparing-tabun-osoraku-kitto-differences"

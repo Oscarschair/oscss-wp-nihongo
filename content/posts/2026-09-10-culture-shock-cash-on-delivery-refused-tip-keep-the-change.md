@@ -1,5 +1,6 @@
 ---
-title: "カルチャーショック：<ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>きで「お<ruby>釣<rt>つ</rt></ruby>り<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>ったら「いやダメです！」と<ruby>断<rt>ことわ</rt></ruby>られた<ruby>話<rt>はなし</rt></ruby>｜<ruby>日本<rt>にっぽん</rt></ruby>にチップ<ruby>文化<rt>ぶんか</rt></ruby>がない<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>"
+title: "カルチャーショック：代引きで「お釣り大丈夫です」と言ったら「いやダメです！」と断られた話｜日本にチップ文化がない本当の理由"
+
 slug: "culture-shock-cash-on-delivery-refused-tip-keep-the-change"
 date: "2026-09-10T08:00:00+09:00"
 categories:

@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「はずです」VS「わけです」の<ruby>違<rt>ちが</rt></ruby>いとは？｜<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>推測<rt>すいそく</rt></ruby>と<ruby>納得<rt>なっとく</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>！<ruby>似<rt>に</rt></ruby>ているようで<ruby>全<rt>まった</rt></ruby>く<ruby>違<rt>ちが</rt></ruby>うニュアンス<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "くらべてみました：「はずです」VS「わけです」の違いとは？｜客観的推測と納得の理由！似ているようで全く違うニュアンス完全解説"
 
 description: "「明日は雨が降るはずです」と「明日は雨が降るわけです」って何が違うの！？日本語学習者を最も悩ませる二大形式名詞『はず』と『わけ』。「当然そうなる」という根拠の性質から、日常会話・ビジネスでの使い分け、そして否定形（はずがない VS わけがない）の決定的な違いまで徹底解説！"
 slug: "japanese-comparing-hazu-vs-wake-nuance-differences"

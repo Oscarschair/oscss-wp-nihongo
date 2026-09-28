@@ -1,5 +1,6 @@
 ---
-title: "カルチャーショック：<ruby>餃子<rt>ぎょうざ</rt></ruby>も<ruby>炒飯<rt>ちゃーはん</rt></ruby>もビーフンも<ruby>全部<rt>ぜんぶ</rt></ruby>「<ruby>主食<rt>しゅしょく</rt></ruby>」！<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>の<ruby>私<rt>わたし</rt></ruby>が<ruby>驚<rt>おどろ</rt></ruby>いた<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>×<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>」<ruby>文化<rt>ぶんか</rt></ruby>"
+title: "カルチャーショック：餃子も炒飯もビーフンも全部「主食」！香港出身の私が驚いた日本の「炭水化物×炭水化物」文化"
+
 slug: "culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli"
 date: "2026-09-09T08:00:00+09:00"
 categories:

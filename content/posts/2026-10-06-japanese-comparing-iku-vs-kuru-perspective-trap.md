@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「<ruby>今<rt>いま</rt></ruby><ruby>行<rt>い</rt></ruby>きます」VS「<ruby>今<rt>いま</rt></ruby><ruby>来<rt>き</rt></ruby>ます」の<ruby>罠<rt>わな</rt></ruby>｜なぜ「I'm coming!」を<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>で「<ruby>今<rt>いま</rt></ruby><ruby>行<rt>い</rt></ruby>く」と<ruby>言<rt>い</rt></ruby>うのか？<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>視点<rt>してん</rt></ruby>と<ruby>移動<rt>いどう</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>の<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "くらべてみました：「今行きます」VS「今来ます」の罠｜なぜ「I'm coming!」を日本語で「今行く」と言うのか？心理的視点と移動動詞の完全解説"
 
 description: "友達に『早く来て！』と呼ばれて『今来ます！』と答えたら笑われた！？英語の 'I'm coming!' を直訳すると大間違いになる理由とは？日本語の「行く」と「来る」を決定づける『話し手の視点（カメラの位置）』のルールから、相手の懐に飛び込む敬語『伺います・参ります』まで徹底解説！"
 slug: "japanese-comparing-iku-vs-kuru-perspective-trap"

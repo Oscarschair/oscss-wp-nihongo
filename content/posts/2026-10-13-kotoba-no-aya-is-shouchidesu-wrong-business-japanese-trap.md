@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：「<ruby>承知<rt>しょうち</rt></ruby>です」は<ruby>実<rt>じつ</rt></ruby>は<ruby>間違<rt>まちが</rt></ruby>い！？｜「<ruby>承知<rt>しょうち</rt></ruby>いたしました」「<ruby>了解<rt>りょうかい</rt></ruby>です」との<ruby>違<rt>ちが</rt></ruby>いとビジネス<ruby>敬語<rt>けいご</rt></ruby>の<ruby>落とし穴<rt>おとしあな</rt></ruby>"
+title: "ことばのあや：「承知です」は実は間違い！？｜「承知いたしました」「了解です」との違いとビジネス敬語の落とし穴"
 
 description: "日本のオフィスやチャットで、上司からの連絡に「承知です！」と元気よく返信していませんか？怒られはしないけれど、実は日本語として少し不自然なグレーゾーン敬語。「承知＋です」が違和感を持たれる理由と、ビジネスで一目置かれる正しい言い換え表現を徹底解説！"
 slug: "kotoba-no-aya-is-shouchidesu-wrong-business-japanese-trap"

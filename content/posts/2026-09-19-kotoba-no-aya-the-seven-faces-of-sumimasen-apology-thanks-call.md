@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：<ruby>日本人<rt>にっぽんじん</rt></ruby>が1<ruby>日<rt>にち</rt></ruby>に100<ruby>回<rt>かい</rt></ruby><ruby>言<rt>い</rt></ruby>う「すみません」の7つの<ruby>顔<rt>かお</rt></ruby>｜<ruby>謝罪<rt>しゃざい</rt></ruby>・<ruby>感謝<rt>かんしゃ</rt></ruby>・<ruby>呼び止<rt>よびと</rt></ruby>め・<ruby>挨拶<rt>あいさつ</rt></ruby>！なぜありがとうの<ruby>代<rt>か</rt></ruby>わりに<ruby>謝<rt>あやま</rt></ruby>るのか？<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>心理<rt>しんり</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>解剖<rt>かいぼう</rt></ruby>"
+title: "ことばのあや：日本人が1日に100回言う「すみません」の7つの顔｜謝罪・感謝・呼び止め・挨拶！なぜありがとうの代わりに謝るのか？日本人の心理構造完全解剖"
 
 description: "エレベーターのドアを開けてもらった時、親切にしてもらった時に日本人が口にする『あ、すみません！』。親切にされたのになぜ謝るの！？『ごめんなさい』『ありがとう』『あのー』『失礼します』と万能に化ける魔法の言葉『すみません』の深層心理から、ビジネスで使える上位互換敬語まで徹底解説！"
 slug: "kotoba-no-aya-the-seven-faces-of-sumimasen-apology-thanks-call"

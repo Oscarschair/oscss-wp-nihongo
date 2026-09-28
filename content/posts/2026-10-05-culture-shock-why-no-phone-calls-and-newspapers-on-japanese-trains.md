@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：なぜ<ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>では<ruby>電話<rt>でんわ</rt></ruby>もダメで、<ruby>新聞紙<rt>しんぶんし</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるのもNGなの！？｜「<ruby>音<rt>おと</rt></ruby>と<ruby>空間<rt>くうかん</rt></ruby>」の<ruby>沈黙<rt>ちんもく</rt></ruby>マナーと<ruby>嫌<rt>いや</rt></ruby>な<ruby>電話<rt>でんわ</rt></ruby>を1<ruby>秒<rt>びょう</rt></ruby>で<ruby>切<rt>き</rt></ruby>る<ruby>裏<rt>うら</rt></ruby>ワザ<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "カルチャーショック：なぜ日本の電車では電話もダメで、新聞紙を広げるのもNGなの！？｜「音と空間」の沈黙マナーと嫌な電話を1秒で切る裏ワザ完全解説"
 
 description: "海外の地下鉄なら大声での通話や飲食は日常茶飯事なのに、日本の電車に乗った瞬間、図書館のような異様な静けさに息を呑む外国人！なぜ日本の電車内では通話が絶対NGなのか？新聞や大きな荷物が嫌がられる理由とは？心理的パーソナルスペースの哲学から、急な着信をスマートに切る神対応フレーズまで徹底解説！"
 slug: "culture-shock-why-no-phone-calls-and-newspapers-on-japanese-trains"

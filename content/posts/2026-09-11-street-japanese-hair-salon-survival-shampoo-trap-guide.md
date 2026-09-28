@@ -1,5 +1,6 @@
 ---
-title: "街角サバイバル：<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>の<ruby>試練<rt>しれん</rt></ruby>｜<ruby>視界<rt>しかい</rt></ruby>ゼロのシャンプー<ruby>台<rt>だい</rt></ruby>で「<ruby>痒<rt>かゆ</rt></ruby>いところは？」と<ruby>聞<rt>き</rt></ruby>かれた<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>決断<rt>けつだん</rt></ruby>"
+title: "街角サバイバル：美容室の試練｜視界ゼロのシャンプー台で「痒いところは？」と聞かれた勇者の決断"
+
 slug: "street-japanese-hair-salon-survival-shampoo-trap-guide"
 date: "2026-09-11T09:00:00+09:00"
 categories:

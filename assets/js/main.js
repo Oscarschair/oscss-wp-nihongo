@@ -10,6 +10,7 @@
 		initNavigation();
 		initHeaderScroll();
 		initBackToTop();
+		initRubyToggle();
 		initSmoothScroll();
 		initSortTabs();
 		initViewTracker();
@@ -325,6 +326,75 @@
 				}
 			});
 		});
+	}
+
+	/**
+	 * ふりがな（ルビ）ON/OFF切り替え機能 ＆ Sticky追従制御
+	 */
+	function initRubyToggle() {
+		var STORAGE_KEY = 'oscss_ruby_state';
+		var toggleButtons = document.querySelectorAll('.js-ruby-toggle');
+		var stickyWrapper = document.getElementById('ruby-sticky-toggle');
+
+		// 初期状態（デフォルトはON。過去にOFFが明示的に保存されている場合のみOFF）
+		var savedState = null;
+		try {
+			savedState = localStorage.getItem(STORAGE_KEY);
+		} catch (e) {}
+
+		var isHidden = (savedState === 'off');
+
+		function updateUI(hidden) {
+			if (hidden) {
+				document.documentElement.classList.add('is-ruby-hidden');
+				document.body.classList.add('is-ruby-hidden');
+			} else {
+				document.documentElement.classList.remove('is-ruby-hidden');
+				document.body.classList.remove('is-ruby-hidden');
+			}
+
+			toggleButtons.forEach(function (btn) {
+				var statusEl = btn.querySelector('.c-ruby-toggle__status');
+				if (statusEl) {
+					statusEl.textContent = hidden ? 'OFF' : 'ON';
+				}
+				btn.setAttribute('aria-pressed', hidden ? 'false' : 'true');
+			});
+		}
+
+		// 初期状態の反映
+		if (isHidden) {
+			updateUI(true);
+		}
+
+		// クリックによるトグル切り替え
+		toggleButtons.forEach(function (btn) {
+			btn.addEventListener('click', function (e) {
+				e.preventDefault();
+				var currentlyHidden = document.body.classList.contains('is-ruby-hidden');
+				var nextHidden = !currentlyHidden;
+
+				updateUI(nextHidden);
+
+				try {
+					localStorage.setItem(STORAGE_KEY, nextHidden ? 'off' : 'on');
+				} catch (e) {}
+			});
+		});
+
+		// Stickyボタンのスクロール追従表示（スクロール150px以上でふわっと出現）
+		if (stickyWrapper) {
+			var handleStickyScroll = function () {
+				if (window.scrollY > 150) {
+					stickyWrapper.classList.add('is-visible');
+				} else {
+					stickyWrapper.classList.remove('is-visible');
+				}
+			};
+
+			window.addEventListener('scroll', handleStickyScroll, { passive: true });
+			handleStickyScroll();
+		}
 	}
 })();
 

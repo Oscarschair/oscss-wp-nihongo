@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>駅<rt>えき</rt></ruby>の「<ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>ダンジョン」と<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>の<ruby>恐怖<rt>きょうふ</rt></ruby>｜ピンポーンと<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まる<ruby>赤<rt>あか</rt></ruby>っ<ruby>恥<rt>はじ</rt></ruby>！タッチ<ruby>位置<rt>いち</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby>トラップと<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>救出<rt>きゅうしゅつ</rt></ruby><ruby>劇<rt>げき</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby>ガイド"
+title: "街角サバイバル：駅の「自動改札ダンジョン」と残高不足の恐怖｜ピンポーンと扉が閉まる赤っ恥！タッチ位置の右側トラップと精算機の救出劇完全ガイド"
 
 description: "朝のラッシュ時、改札機にICカードをかざした瞬間に『ピンポーン！』と赤いゲートが閉まって後ろの人を玉突き事故に巻き込んだ外国人旅行者たち！なぜ日本の改札はタッチパネルが全部『右側』にあるのか？残高不足時の『のりこし精算機』の使い方からモバイルICカードの電波トラブルまで徹底解説！"
 slug: "street-japanese-station-ticket-gate-dungeon-guide"

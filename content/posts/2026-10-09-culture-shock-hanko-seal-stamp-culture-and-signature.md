@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：サインじゃダメなの！？<ruby>日本<rt>にほん</rt></ruby>の「ハンコ（<ruby>印鑑<rt>いんかん</rt></ruby>）<ruby>文化<rt>ぶんか</rt></ruby>」｜<ruby>実印<rt>じついん</rt></ruby>・<ruby>銀行<rt>ぎんこう</rt></ruby><ruby>印<rt>しるし</rt></ruby>・<ruby>認印<rt>みとめいん</rt></ruby>の3<ruby>段<rt>だん</rt></ruby><ruby>活用<rt>かつよう</rt></ruby>と100<ruby>均<rt>ひとし</rt></ruby>で<ruby>名前<rt>なまえ</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからない<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>の<ruby>悲哀<rt>ひあい</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "カルチャーショック：サインじゃダメなの！？日本の「ハンコ（印鑑）文化」｜実印・銀行印・認印の3段活用と100均で名前が見つからない外国人の悲哀完全解説"
 
 description: "銀行口座の開設やアパートの契約で『印鑑はお持ちですか？』と聞かれ、『サインじゃダメですか？』と返して断られた外国人旅行者＆在住者たち！なぜデジタル大国のはずの日本でハンコがここまで重宝されるのか？実印・銀行印・認印の決定的な違いから、カタカナ印鑑の作り方まで徹底解説！"
 slug: "culture-shock-hanko-seal-stamp-culture-and-signature"

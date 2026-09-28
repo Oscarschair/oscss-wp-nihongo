@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>ダンジョンと<ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby>の<ruby>試練<rt>しれん</rt></ruby>｜ポストに<ruby>入<rt>はい</rt></ruby>っていた「<ruby>謎<rt>なぞ</rt></ruby>の<ruby>黄色<rt>きいろ</rt></ruby>い<ruby>紙<rt>かみ</rt></ruby>」と<ruby>自動<rt>じどう</rt></ruby><ruby>音声<rt>おんせい</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>・WEB<ruby>受付<rt>うけつけ</rt></ruby>の<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby><ruby>法<rt>ほう</rt></ruby>"
+title: "街角サバイバル：不在票ダンジョンと再配達の試練｜ポストに入っていた「謎の黄色い紙」と自動音声電話・WEB受付の完全攻略法"
 
 description: "日本でネット通販を頼んだら、ポストに謎の紙切れが……！『ご不在連絡票』の解読から、当日再配達のタイムリミット、自動音声電話のプッシュボタン操作、LINEやWEBでの最短申し込み、そして置き配の指定まで、日本の超便利でちょっぴり複雑な宅配サバイバル術を徹底解説！"
 slug: "street-japanese-delivery-redelivery-undelivered-notice-dungeon-guide"

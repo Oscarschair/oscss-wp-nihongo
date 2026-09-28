@@ -1,5 +1,6 @@
 ---
-title: "カルチャーショック：<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げたら<ruby>車<rt>くるま</rt></ruby>がピタッと<ruby>止<rt>と</rt></ruby>まってくれた！？<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>と<ruby>海外<rt>かいがい</rt></ruby>の「<ruby>命<rt>いのち</rt></ruby>がけの<ruby>道路<rt>どうろ</rt></ruby><ruby>横断<rt>おうだん</rt></ruby>」"
+title: "カルチャーショック：手を挙げたら車がピタッと止まってくれた！？日本の横断歩道と海外の「命がけの道路横断」"
+
 slug: "culture-shock-cars-stop-when-you-raise-your-hand-pedestrian-crosswalk-in-japan"
 date: "2026-09-12T08:00:00+09:00"
 categories:

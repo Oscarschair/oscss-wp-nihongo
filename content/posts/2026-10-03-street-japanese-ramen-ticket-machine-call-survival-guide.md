@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：ラーメン<ruby>屋<rt>や</rt></ruby>の「<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>ダンジョン」と「お<ruby>好<rt>この</rt></ruby>みコール」<ruby>攻略<rt>こうりゃく</rt></ruby><ruby>法<rt>ほう</rt></ruby>｜<ruby>食券<rt>しょっけん</rt></ruby>の<ruby>買い方<rt>かいかた</rt></ruby>から<ruby>家系<rt>かけい</rt></ruby>・<ruby>二郎<rt>じろう</rt></ruby><ruby>系<rt>けい</rt></ruby>の<ruby>呪文<rt>じゅもん</rt></ruby>まで<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "街角サバイバル：ラーメン屋の「券売機ダンジョン」と「お好みコール」攻略法｜食券の買い方から家系・二郎系の呪文まで完全解説"
 
 description: "日本のラーメン屋の扉を開けた瞬間、立ちはだかるボタンだらけの「券売機」と、着席直後に浴びせられる早口の「お好みコール」！麺の硬さ・味の濃さ・油の量の指定から、水はセルフ・ティッシュ・器の上げ下げマナーまで、街角のラーメン屋を堂々と満喫するための完全サバイバル術！"
 slug: "street-japanese-ramen-ticket-machine-call-survival-guide"

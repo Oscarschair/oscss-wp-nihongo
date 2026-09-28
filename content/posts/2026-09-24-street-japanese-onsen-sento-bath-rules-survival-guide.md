@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>日本<rt>にほん</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby>・<ruby>銭湯<rt>せんとう</rt></ruby>「<ruby>裸<rt>はだか</rt></ruby>の<ruby>試練<rt>しれん</rt></ruby>」<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby><ruby>法<rt>ほう</rt></ruby>｜<ruby>湯船<rt>ゆぶね</rt></ruby>にダイブは<ruby>絶対<rt>ぜったい</rt></ruby>NG！<ruby>身体<rt>しんたい</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う<ruby>順番<rt>じゅんばん</rt></ruby>・<ruby>頭<rt>とう</rt></ruby><ruby>乗<rt>の</rt></ruby>せタオルの<ruby>謎<rt>なぞ</rt></ruby>と<ruby>湯上<rt>ゆあ</rt></ruby>がりコーヒー<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>の<ruby>掟<rt>おきて</rt></ruby>"
+title: "街角サバイバル：日本の温泉・銭湯「裸の試練」完全攻略法｜湯船にダイブは絶対NG！身体を洗う順番・頭乗せタオルの謎と湯上がりコーヒー牛乳の掟"
 
 description: "日本の温泉や銭湯で服を脱いだ瞬間、周囲の常連さんからの鋭い視線に凍りつく外国人旅行者たち！なぜ湯船に入る前に体を洗わなきゃいけないの！？タオルをお湯につけてはいけない理由から、脱衣所に戻る前の水滴拭き取りマナー、そして湯上がりの『腰に手を当てて飲む瓶牛乳』まで徹底解説！"
 slug: "street-japanese-onsen-sento-bath-rules-survival-guide"

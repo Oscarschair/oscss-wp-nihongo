@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：【<ruby>徹底<rt>てってい</rt></ruby><ruby>比較<rt>ひかく</rt></ruby>】「そうだ」「らしい」「ようだ」の<ruby>使い分<rt>つかいわ</rt></ruby>け<ruby>完全<rt>かんぜん</rt></ruby>マスター｜<ruby>推量<rt>すいりょう</rt></ruby>・<ruby>伝聞<rt>でんぶん</rt></ruby>のニュアンスと<ruby>五感<rt>ごかん</rt></ruby>の<ruby>罠<rt>わな</rt></ruby>"
+title: "くらべてみました：【徹底比較】「そうだ」「らしい」「ようだ」の使い分け完全マスター｜推量・伝聞のニュアンスと五感の罠"
 
 description: "「雨が降りそうだ」「雨が降るらしい」「雨が降るようだ」……全部同じ「推測」に見えて、実は情報源と確信度が全く違う！日本語学習者が最も頭を抱える推量・伝聞の助動詞3兄弟を、五感判定フローチャートとリアルな日常会話でスッキリ整理します！"
 slug: "japanese-comparing-rashii-souda-youda-differences"

@@ -1,5 +1,6 @@
 ---
-title: "くらべてみました：「さようなら」VS「またね」の<ruby>違<rt>ちが</rt></ruby>い｜なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>に「さようなら」と<ruby>言<rt>い</rt></ruby>わないのか？"
+title: "くらべてみました：「さようなら」VS「またね」の違い｜なぜ日本人は友達に「さようなら」と言わないのか？"
+
 slug: "japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions"
 date: "2026-09-10T18:00:00+09:00"
 categories:

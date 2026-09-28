@@ -1,5 +1,6 @@
 ---
-title: "カルチャーショック：<ruby>小<rt>しょう</rt></ruby>1が1<ruby>人<rt>にん</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>登校<rt>とうこう</rt></ruby>！？<ruby>海外<rt>かいがい</rt></ruby>なら<ruby>親<rt>おや</rt></ruby>が<ruby>逮捕<rt>たいほ</rt></ruby>される「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>通学<rt>つうがく</rt></ruby><ruby>事情<rt>じじょう</rt></ruby>」に<ruby>世界<rt>せかい</rt></ruby>が<ruby>仰天<rt>ぎょうてん</rt></ruby>する<ruby>理由<rt>りゆう</rt></ruby>"
+title: "カルチャーショック：小1が1人で電車に乗って登校！？海外なら親が逮捕される「日本の通学事情」に世界が仰天する理由"
+
 slug: "culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence"
 date: "2026-09-13T08:00:00+09:00"
 categories:

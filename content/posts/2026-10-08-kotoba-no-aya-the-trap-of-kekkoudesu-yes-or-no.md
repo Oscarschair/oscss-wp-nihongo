@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：「<ruby>結構<rt>けっこう</rt></ruby>です」は<ruby>肯定<rt>こうてい</rt></ruby>？お<ruby>断<rt>ことわ</rt></ruby>り？｜<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>言<rt>い</rt></ruby>われて<ruby>大<rt>だい</rt></ruby><ruby>混乱<rt>こんらん</rt></ruby>！レジや<ruby>職場<rt>しょくば</rt></ruby>で<ruby>遭遇<rt>そうぐう</rt></ruby>する“どっちでも<ruby>取<rt>と</rt></ruby>れる”<ruby>究極<rt>きゅうきょく</rt></ruby>のクッション<ruby>言葉<rt>ことば</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "ことばのあや：「結構です」は肯定？お断り？｜笑顔で言われて大混乱！レジや職場で遭遇する“どっちでも取れる”究極のクッション言葉完全解説"
 
 description: "「レジ袋ご利用ですか？」「あ、結構です」ってどっちなの！？肯定（OK・素晴らしい）の意味と、お断り（No thank you・不要）の意味を併せ持つ日本語最大のミステリーワード「結構」。相手の真意を1秒で見抜く『表情と手のサイン』の法則から、ビジネスでの正しい使い方まで徹底解説！"
 slug: "kotoba-no-aya-the-trap-of-kekkoudesu-yes-or-no"

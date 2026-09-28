@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>の「<ruby>激<rt>げき</rt></ruby><ruby>熱<rt>ねつ</rt></ruby>お<ruby>湯<rt>ゆ</rt></ruby><ruby>蛇口<rt>じゃぐち</rt></ruby>」はトラップだらけ！？｜<ruby>特急<rt>とっきゅう</rt></ruby>レーン・<ruby>粉末<rt>ふんまつ</rt></ruby><ruby>茶<rt>ちゃ</rt></ruby>・<ruby>皿<rt>さら</rt></ruby><ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>を<ruby>攻略<rt>こうりゃく</rt></ruby>する<ruby>完全<rt>かんぜん</rt></ruby>サバイバル<ruby>術<rt>じゅつ</rt></ruby>"
+title: "街角サバイバル：回転寿司の「激熱お湯蛇口」はトラップだらけ！？｜特急レーン・粉末茶・皿投入口を攻略する完全サバイバル術"
 
 description: "日本の回転寿司に足を踏み入れた外国人旅行者を待ち受ける数々のハイテクギミック！席に着くやいなや現れる「激熱お湯蛇口」の押し方から、粉末緑茶の適量、タッチパネル注文、超高速の特急レーン、そしてお皿を投入するガチャまで、街角の回転寿司を120%楽しむための完全攻略ガイド！"
 slug: "street-japanese-kaitenzushi-hot-water-express-lane-survival-guide"

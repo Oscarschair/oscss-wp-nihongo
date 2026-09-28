@@ -1,5 +1,5 @@
 ---
-title: "くらべてみました：「ちょっと」VS「<ruby>少<rt>すこ</rt></ruby>し」の<ruby>違<rt>ちが</rt></ruby>いとは？｜<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>のクッションとビジネスの<ruby>定量<rt>ていりょう</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>！<ruby>断<rt>ことわ</rt></ruby>り<ruby>文句<rt>もんく</rt></ruby>『ちょっと…』の<ruby>深層<rt>しんそう</rt></ruby><ruby>心理<rt>しんり</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "くらべてみました：「ちょっと」VS「少し」の違いとは？｜日常会話のクッションとビジネスの定量的表現！断り文句『ちょっと…』の深層心理完全解説"
 
 description: "「ちょっと待ってください」と「少しお待ちください」って何が違うの！？日常会話で1日に何度も使う『ちょっと』と『少し』。実は『ちょっと』には数量だけでなく『言いにくいことを断る』『相手を呼び止める』などの裏の顔が満載！フォーマル度の使い分けから敬語表現まで徹底解説！"
 slug: "japanese-comparing-chotto-and-sukoshi-differences"

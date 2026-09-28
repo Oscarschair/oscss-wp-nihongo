@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>市役所<rt>しやくしょ</rt></ruby>の「<ruby>住民<rt>じゅうみん</rt></ruby><ruby>登録<rt>とうろく</rt></ruby>・<ruby>転入<rt>てんにゅう</rt></ruby><ruby>届<rt>とどけ</rt></ruby>」ダンジョン<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>ガイド｜<ruby>受付<rt>うけつけ</rt></ruby>・<ruby>書類<rt>しょるい</rt></ruby>・<ruby>窓口<rt>まどぐち</rt></ruby><ruby>神<rt>しん</rt></ruby>フレーズと<ruby>落とし穴<rt>おとしあな</rt></ruby>"
+title: "街角サバイバル：市役所の「住民登録・転入届」ダンジョン完全攻略ガイド｜受付・書類・窓口神フレーズと落とし穴"
 
 description: "日本で引っ越しをした外国人が最初に直面する最大の難関「市役所・区役所」。転入届、マイナンバーカード、住民票の取得まで、迷宮のような役所を最短ルートで突破するための必須装備（持ち物）、窓口神フレーズ、そして絶対に回避すべき3大トラップを徹底解説！"
 slug: "street-japanese-city-hall-resident-registration-dungeon-guide"

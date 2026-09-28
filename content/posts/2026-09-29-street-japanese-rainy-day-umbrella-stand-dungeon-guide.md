@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>日本<rt>にほん</rt></ruby>の「<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>てダンジョン」とビニール<ruby>傘<rt>かさ</rt></ruby><ruby>消失<rt>しょうしつ</rt></ruby><ruby>事件<rt>じけん</rt></ruby>｜なぜコンビニの<ruby>傘<rt>かさ</rt></ruby>は<ruby>盗<rt>ぬす</rt></ruby>まれるのか！？<ruby>鍵<rt>かぎ</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>ての<ruby>解<rt>かい</rt></ruby><ruby>錠<rt>じょう</rt></ruby>トラップと<ruby>店内<rt>てんない</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>マナー<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>"
+title: "街角サバイバル：日本の「傘立てダンジョン」とビニール傘消失事件｜なぜコンビニの傘は盗まれるのか！？鍵付き傘立ての解錠トラップと店内の傘袋マナー完全攻略"
 
 description: "雨の日に日本のカフェや居酒屋の傘立てに置いた『ビニール傘』が、帰る時に綺麗さっぱり消え失せていた！？『世界一治安が良いはずの日本で、なぜ傘だけは平気で盗まれるの！？』。鍵付き傘立ての使い方から、電車や店内を濡らさない傘袋マナー、そして傘の取り違えを防ぐ目印テクニックまで徹底解説！"
 slug: "street-japanese-rainy-day-umbrella-stand-dungeon-guide"

@@ -1,5 +1,6 @@
 ---
-title: "カルチャーショック：ご<ruby>飯<rt>はん</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>える<ruby>日本食<rt>にっぽんしょく</rt></ruby>｜<ruby>本場<rt>ほんば</rt></ruby><ruby>中国<rt>ちゅうごく</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>を<ruby>見<rt>み</rt></ruby>つける"
+title: "カルチャーショック：ご飯の形を整える日本食｜本場中国料理店を見つける"
+
 date: "2023-03-06T18:40:24+09:00"
 category: "culture-shock"
 slug: "culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-restaurant"

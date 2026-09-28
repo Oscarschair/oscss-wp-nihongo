@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：「お<ruby>疲れ様<rt>つかれさま</rt></ruby>」VS「ご<ruby>苦労<rt>くろう</rt></ruby><ruby>様<rt>さま</rt></ruby>」の<ruby>罠<rt>わな</rt></ruby>｜<ruby>上司<rt>じょうし</rt></ruby>に「Good job!」<ruby>感覚<rt>かんかく</rt></ruby>で<ruby>言<rt>い</rt></ruby>って<ruby>大<rt>だい</rt></ruby><ruby>事故<rt>じこ</rt></ruby>！？<ruby>目上<rt>めうえ</rt></ruby>・<ruby>目下<rt>めした</rt></ruby>の<ruby>地雷<rt>じらい</rt></ruby>フレーズ<ruby>完全<rt>かんぜん</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>"
+title: "ことばのあや：「お疲れ様」VS「ご苦労様」の罠｜上司に「Good job!」感覚で言って大事故！？目上・目下の地雷フレーズ完全解説"
 
 description: "職場で上司や先輩に「ご苦労様です！」と元気に挨拶していませんか？英語の 'Thank you for your hard work' や 'Good job' の感覚で使うと、相手を一瞬でムッとさせてしまう日本の縦社会の地雷言葉。「お疲れ様」と「ご苦労様」の決定的な上下関係ルールから、退社時の挨拶、社外クライアントへの正しい敬語まで徹底解説！"
 slug: "kotoba-no-aya-otsukaresama-vs-gokurousama-trap"

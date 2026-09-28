@@ -1,5 +1,5 @@
 ---
-title: "ことばのあや：<ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会<rt>あ</rt></ruby>った<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>口<rt>くち</rt></ruby>にする「その<ruby>節<rt>ふし</rt></ruby>はどうも」の<ruby>謎<rt>なぞ</rt></ruby>｜『その<ruby>節<rt>ふし</rt></ruby>』って<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>にいつ！？<ruby>過去<rt>かこ</rt></ruby>の<ruby>恩義<rt>おんぎ</rt></ruby>をフワッと<ruby>包み込<rt>つつみこ</rt></ruby>む<ruby>大人<rt>おとな</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>"
+title: "ことばのあや：久しぶりに会った日本人が口にする「その節はどうも」の謎｜『その節』って具体的にいつ！？過去の恩義をフワッと包み込む大人の挨拶完全攻略"
 
 description: "数ヶ月ぶり、あるいは数年ぶりに再会した仕事相手や知人から『あ、クルマさん！ その節はどうも！』と頭を下げられてパニック！？『その節って具体的にいつのこと！？何のお礼！？』と記憶喪失に陥る外国人多数！日本の人間関係を円滑にする『その節』の魔法の役割からビジネスでの再会プロトコルまで徹底解説！"
 slug: "kotoba-no-aya-sonosetsu-wa-doumo-thanks-and-apology"

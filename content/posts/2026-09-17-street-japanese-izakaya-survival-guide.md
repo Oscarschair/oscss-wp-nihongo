@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>居酒屋<rt>いざかや</rt></ruby>の<ruby>洗礼<rt>せんれい</rt></ruby>「お<ruby>通<rt>とお</rt></ruby>し」と<ruby>乾杯<rt>かんぱい</rt></ruby>の<ruby>呪文<rt>じゅもん</rt></ruby>｜<ruby>頼<rt>たの</rt></ruby>んでない<ruby>小鉢<rt>こばち</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>取<rt>と</rt></ruby>られる<ruby>謎<rt>なぞ</rt></ruby>！？『とりあえず<ruby>生<rt>なま</rt></ruby>』の<ruby>同調<rt>どうちょう</rt></ruby><ruby>圧力<rt>あつりょく</rt></ruby>とスマートなお<ruby>会計<rt>かいけい</rt></ruby>サイン<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>"
+title: "街角サバイバル：居酒屋の洗礼「お通し」と乾杯の呪文｜頼んでない小鉢にお金を取られる謎！？『とりあえず生』の同調圧力とスマートなお会計サイン完全攻略"
 
 description: "日本の居酒屋で席に着いた瞬間、頼んでもいないのに勝手に出てくる小鉢の料理『お通し（突き出し）』！『これ頼んでません！』と断って店員と気まずくなった外国人多数！？席料・チャージ文化の真実から、乾杯時の『とりあえず生』のチームワーク心理、そして両手で作る『バツ印（チェック）』の会計合図まで徹底解説！"
 slug: "street-japanese-izakaya-survival-guide"

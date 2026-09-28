@@ -1,5 +1,5 @@
 ---
-title: "<ruby>街角<rt>まちかど</rt></ruby>サバイバル：<ruby>日本<rt>にほん</rt></ruby>のクリニックと「<ruby>処方箋<rt>しょほうせん</rt></ruby><ruby>薬局<rt>やっきょく</rt></ruby>」の<ruby>試練<rt>しれん</rt></ruby>｜<ruby>保険<rt>ほけん</rt></ruby><ruby>証<rt>しょう</rt></ruby>を<ruby>出<rt>だ</rt></ruby>した<ruby>後<rt>のち</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>される「<ruby>問診<rt>もんしん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>の<ruby>難読<rt>なんどく</rt></ruby><ruby>漢字<rt>かんじ</rt></ruby>」とお<ruby>薬<rt>くすり</rt></ruby><ruby>手帳<rt>てちょう</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>を<ruby>完全<rt>かんぜん</rt></ruby><ruby>突破<rt>とっぱ</rt></ruby>せよ！"
+title: "街角サバイバル：日本のクリニックと「処方箋薬局」の試練｜保険証を出した後に渡される「問診票の難読漢字」とお薬手帳の謎を完全突破せよ！"
 
 description: "風邪を引いて日本の内科クリニックに駆け込んだら、受付で渡されたのは超難読な『問診票』だった！？熱・咳・鼻水・頭痛の伝え方から、お医者さんの前での症状説明フレーズ、そして病院の外にある『調剤薬局』で薬を受け取るまでの全ステップを徹底解説！"
 slug: "street-japanese-clinic-medical-questionnaire-pharmacy-guide"

@@ -1,5 +1,5 @@
 ---
-title: "カルチャーショック：<ruby>日本<rt>にほん</rt></ruby>のスーパーに<ruby>潜<rt>ひそ</rt></ruby>む「<ruby>賞味<rt>しょうみ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>」と「<ruby>消費<rt>しょうひ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>」の<ruby>罠<rt>わな</rt></ruby>｜<ruby>似<rt>に</rt></ruby>て<ruby>非<rt>ひ</rt></ruby>なる<ruby>二<rt>に</rt></ruby><ruby>大<rt>だい</rt></ruby><ruby>期限<rt>きげん</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いと<ruby>夜<rt>よる</rt></ruby>の「<ruby>半額<rt>はんがく</rt></ruby>シール<ruby>争奪<rt>そうだつ</rt></ruby><ruby>戦<rt>せん</rt></ruby>」<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>ガイド"
+title: "カルチャーショック：日本のスーパーに潜む「賞味期限」と「消費期限」の罠｜似て非なる二大期限の違いと夜の「半額シール争奪戦」完全攻略ガイド"
 
 description: "スーパーの食品に印刷された『賞味期限』と『消費期限』。どっちが切れたら危険なの！？1日でも過ぎたら捨てなきゃダメ？日本の厳しい食品表示ルールのカラクリから、閉店間際のスーパーで繰り広げられる『半額シール貼り』の熱狂的サバイバルまで徹底解説！"
 slug: "culture-shock-shoumi-kigen-vs-shouhi-kigen-discount-stickers"
