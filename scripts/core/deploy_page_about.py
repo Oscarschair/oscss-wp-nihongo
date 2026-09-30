@@ -142,6 +142,10 @@ content_blocks = """<!-- wp:html -->
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
 <!-- /wp:separator -->
 
+<!-- wp:html -->
+<div class="c-no-ads-zone google-anno-skip no-ads adsbygoogle-noab adsbygoogle-noablate" data-google-anno-skip="true" data-ad-exclude="true" data-ad-status="unfilled">
+<!-- /wp:html -->
+
 <!-- wp:heading {"level":2} -->
 <h2 class="wp-block-heading">3. 文章の引用・転載について</h2>
 <!-- /wp:heading -->
@@ -157,6 +161,10 @@ content_blocks = """<!-- wp:html -->
 <!-- wp:paragraph -->
 <p>事前のご連絡や許諾申請も不要です。日本語の理解を深めるためのお役に立てれば幸いです。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="c-no-ads-subzone google-anno-skip no-ads adsbygoogle-noab adsbygoogle-noablate" data-google-anno-skip="true" data-ad-exclude="true" data-ad-status="unfilled" style="margin: 24px 0;">
+<!-- /wp:html -->
 
 <!-- wp:heading {"level":3} -->
 <h3 class="wp-block-heading">引用時のお願い：URLの記載</h3>
@@ -177,6 +185,11 @@ content_blocks = """<!-- wp:html -->
 <!-- wp:paragraph -->
 <p>正しい情報元の共有と、他の学習者の方への認知向上のため、ご協力いただけますと幸いです。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+</div>
+</div>
+<!-- /wp:html -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>

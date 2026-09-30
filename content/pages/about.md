@@ -53,12 +53,16 @@ description: "「オスカーの日本語学習帳」についての運営方針
 
 ---
 
+<div class="c-no-ads-zone google-anno-skip no-ads adsbygoogle-noab adsbygoogle-noablate" data-google-anno-skip="true" data-ad-exclude="true" data-ad-status="unfilled">
+
 ## 3. 文章の引用・転載について
 
 ### 引用は自由にしていただいて構いません
 当サイトに掲載している文章や解説内容は、**学習、研究、ブログ、SNS、教育現場などにおいて自由に引用・活用していただいて構いません。**
 
 事前のご連絡や許諾申請も不要です。
+
+<div class="c-no-ads-subzone google-anno-skip no-ads adsbygoogle-noab adsbygoogle-noablate" data-google-anno-skip="true" data-ad-exclude="true" data-ad-status="unfilled" style="margin: 24px 0;">
 
 ### 引用時のお願い：URLの記載
 文章を引用される際は、**引用元の記事URL（または当サイトのURL）を明記（リンク）**していただけますようお願いいたします。
@@ -70,6 +74,9 @@ description: "「オスカーの日本語学習帳」についての運営方針
 ```
 
 正しい情報元の共有と、他の学習者の方への認知向上のため、ご協力いただけますと幸いです。
+
+</div>
+</div>
 
 ---
 

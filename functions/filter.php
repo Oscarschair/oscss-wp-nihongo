@@ -188,7 +188,7 @@ add_filter( 'widget_block_content', 'oscss_filter_widget_block_content', 10, 3 )
  * 記事本文を見出し＋内容単位で <section> タグで構造化し、かつ全セクション内部の広告を完全除外
  */
 function oscss_wrap_and_protect_entry_sections( $content ) {
-	if ( is_admin() || empty( $content ) || ( ! is_single() && ! is_singular( 'post' ) ) ) {
+	if ( is_admin() || empty( $content ) || ( ! is_single() && ! is_page() && ! is_singular( 'post' ) ) ) {
 		return $content;
 	}
 
