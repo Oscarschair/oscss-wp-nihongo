@@ -96,6 +96,8 @@ add_filter( 'document_title_separator', 'oscss_document_title_separator' );
 function oscss_document_title_parts( $title ) {
 	if ( is_front_page() || is_home() ) {
 		$title['tagline'] = get_bloginfo( 'description', 'display' );
+	} elseif ( is_page( 'about' ) ) {
+		$title['title'] = '日本語学習帳について｜運営方針・引用ルールと無料運営の仕組み';
 	} elseif ( is_singular() ) {
 		$clean = oscss_get_clean_title( get_queried_object_id() );
 		if ( ! empty( $clean ) ) {

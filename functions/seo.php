@@ -42,9 +42,14 @@ function oscss_seo_meta_tags() {
 	} elseif ( is_page() ) {
 		global $post;
 		$clean_title = oscss_get_clean_title( $post );
-		$og_title    = $clean_title . ' | ' . $site_name;
-		$og_desc     = oscss_get_clean_excerpt( $post, 120, false );
-		$og_type     = 'article';
+		if ( is_page( 'about' ) ) {
+			$clean_title = '日本語学習帳について｜運営方針・引用ルールと無料運営の仕組み';
+			$og_desc     = '香港出身の学習者オスカーによる「オスカーの日本語学習帳」についての運営方針・自己紹介ページです。営業・勧誘は一切なく広告収入のみで無料運営中。文章引用の自由利用ルールや、日本語学習者・日本語教師の方々への応援メッセージをお届けします。';
+		} else {
+			$og_desc = ! empty( $post->post_excerpt ) ? wp_strip_all_tags( $post->post_excerpt ) : oscss_get_clean_excerpt( $post, 120, false );
+		}
+		$og_title = $clean_title . ' | ' . $site_name;
+		$og_type  = 'article';
 
 		if ( has_post_thumbnail( $post->ID ) ) {
 			$thumb_url = get_the_post_thumbnail_url( $post->ID, 'full' );
@@ -244,6 +249,36 @@ function oscss_seo_json_ld() {
 		}
 
 		$schemas[] = $post_schema;
+	}
+
+	// 4. 固定ページ「日本語学習帳について」: AboutPage & Person
+	if ( is_page( 'about' ) ) {
+		$schemas[] = array(
+			'@context'         => 'https://schema.org',
+			'@type'            => 'AboutPage',
+			'mainEntityOfPage' => array(
+				'@type' => 'WebPage',
+				'@id'   => home_url( '/about/' ),
+			),
+			'name'             => '日本語学習帳について',
+			'headline'         => '日本語学習帳について｜運営方針・引用ルールと無料運営の仕組み',
+			'description'      => '香港出身の学習者オスカーによる「オスカーの日本語学習帳」についての運営方針・自己紹介ページです。営業・勧誘は一切なく広告収入のみで無料運営中。文章引用の自由利用ルールや、日本語学習者・日本語教師の方々への応援メッセージをお届けします。',
+			'inLanguage'       => 'ja',
+			'mainEntity'       => array(
+				'@type'         => 'Person',
+				'name'          => 'オスカー',
+				'alternateName' => 'Oscar',
+				'url'           => 'https://oscarchair.jp/',
+				'image'         => $logo_url,
+				'description'   => '香港出身の外国人日本語学習者・エンジニア。教科書では学べないリアルな日本語や文化の違い、カルチャーショックを発信中。',
+			),
+			'publisher'        => array(
+				'@type' => 'Person',
+				'name'  => 'オスカー',
+				'url'   => 'https://oscarchair.jp/',
+				'image' => $logo_url,
+			),
+		);
 	}
 
 	// JSON-LD 出力

@@ -31,7 +31,10 @@ $series_cats = oscss_get_series_categories();
 				<p class="l-footer__brand-desc">
 					香港出身のオスカーが、日本語の「ことばのあや」や文化の違い、日常で感じたカルチャーショックを外国人視点から分かりやすくお届けする学習ノートです。
 				</p>
-				<div class="l-footer__brand-links">
+				<div class="l-footer__brand-links" style="display: flex; flex-direction: column; gap: 8px;">
+					<a href="<?php echo esc_url( home_url( '/about/' ) ); ?>" class="l-footer__ext-link" style="color: #93c5fd; font-weight: 600;">
+						<span>📖 日本語学習帳について（運営方針・引用）</span> &rarr;
+					</a>
 					<a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer" class="l-footer__ext-link">
 						<span>🌐 オスカーのAIノート（メインサイト）</span> &rarr;
 					</a>
@@ -97,10 +100,13 @@ $series_cats = oscss_get_series_categories();
 		<div class="l-footer__bottom">
 			<ul class="l-footer__bottom-links">
 				<li><a href="<?php echo esc_url( home_url( '/' ) ); ?>">HOME</a></li>
+				<li><a href="<?php echo esc_url( home_url( '/about/' ) ); ?>">日本語学習帳について</a></li>
 				<li><a href="<?php echo esc_url( home_url( '/articles/' ) ); ?>">記事一覧</a></li>
 				<?php foreach ( $series_cats as $key => $cat_info ) : ?>
 					<li><a href="<?php echo esc_url( oscss_get_series_category_url( $key ) ); ?>"><?php echo esc_html( $cat_info['name'] ); ?></a></li>
 				<?php endforeach; ?>
+				<li><a href="<?php echo esc_url( home_url( '/privacy-policy/' ) ); ?>">プライバシーポリシー</a></li>
+				<li><a href="<?php echo esc_url( home_url( '/terms/' ) ); ?>">利用規約</a></li>
 				<li><a href="https://oscarchair.jp/" target="_blank" rel="noopener noreferrer">オスカーのAIノートへ</a></li>
 			</ul>
 			<p class="l-footer__copyright">

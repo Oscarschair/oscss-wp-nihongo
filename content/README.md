@@ -48,5 +48,8 @@
 ---
 
 ## 📄 固定ページ
+- [日本語学習帳について](file:///c:/Users/user/git/oscss-wp-nihongo/content/pages/about.md) (ID: 3099)
+- [利用規約](file:///c:/Users/user/git/oscss-wp-nihongo/content/pages/terms.md) (ID: 192)
 - [プライバシーポリシー](file:///c:/Users/user/git/oscss-wp-nihongo/content/pages/privacy-policy.md) (ID: 3)
 - [サイトマップ](file:///c:/Users/user/git/oscss-wp-nihongo/content/pages/sitemap.md) (ID: 23)
+
