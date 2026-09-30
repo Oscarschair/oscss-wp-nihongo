@@ -47,7 +47,16 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 		<h3 class="c-card__title">
 			<a href="<?php the_permalink(); ?>" class="c-card__title-link">
-				<?php the_title(); ?>
+				<?php
+				$card_title = get_the_title();
+				if ( empty( trim( $card_title ) ) ) {
+					$card_title = oscss_get_clean_title( get_the_ID() );
+				}
+				if ( empty( trim( $card_title ) ) ) {
+					$card_title = get_post_field( 'post_name', get_the_ID() );
+				}
+				echo esc_html( $card_title );
+				?>
 			</a>
 		</h3>
 
