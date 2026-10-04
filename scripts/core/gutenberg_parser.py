@@ -159,31 +159,51 @@ def parse_markdown_to_gutenberg_full(md_path):
                 qlines.append(raw_l)
                 i += 1
 
-            balloon_match = re.match(r'^([👔🚗👧👦👩‍💼👨‍💼])\s*\*\*(.+?)\*\*：(.*)$', qlines[0].strip())
-            if balloon_match:
-                speaker_icon = balloon_match.group(1)
-                speaker_name = balloon_match.group(2)
-                dialogue_text = balloon_match.group(3)
+            dialogue_items = []
+            current_speaker_icon = None
+            current_speaker_name = None
+            current_lines = []
 
-                pos = "right" if speaker_icon in ("🚗", "👦", "👧") or "クルマ" in speaker_name or "オスカー" in speaker_name else "left"
-                avatar_class = "avatar-oscar" if pos == "right" else "avatar-tanaka" if "田中" in speaker_name else "avatar-other"
-                clean_name = re.sub(r'<ruby>(.*?)<rt>.*?</rt></ruby>', r'\1', speaker_name)
+            for ql in qlines:
+                m = re.match(r'^([^\s*]+)\s*\*\*(.+?)\*\*[:：]\s*(.*)$', ql.strip())
+                if m:
+                    if current_speaker_name:
+                        dialogue_items.append((current_speaker_icon, current_speaker_name, current_lines))
+                    current_speaker_icon = m.group(1)
+                    current_speaker_name = m.group(2)
+                    current_lines = [m.group(3)] if m.group(3).strip() else []
+                else:
+                    if current_speaker_name:
+                        current_lines.append(ql)
+                    else:
+                        current_lines.append(ql)
 
-                p_tags = f"<p>{format_inline_markdown(dialogue_text)}</p>"
-                for extra in qlines[1:]:
-                    if extra.strip():
-                        p_tags += f"<p>{format_inline_markdown(extra.strip())}</p>"
+            if current_speaker_name:
+                dialogue_items.append((current_speaker_icon, current_speaker_name, current_lines))
 
-                balloon_html = f"""<div class="c-balloon c-balloon--{pos}">
-  <div class="c-balloon__avatar {avatar_class}">
-    <span class="c-balloon__icon">{speaker_icon}</span>
+            if dialogue_items:
+                for speaker_icon, speaker_name, speech_lines in dialogue_items:
+                    clean_name = re.sub(r'<ruby>(.*?)<rt>.*?</rt></ruby>', r'\1', speaker_name)
+                    is_oscar = "クルマ" in clean_name or "オスカー" in clean_name or speaker_icon in ("🚗", "👦", "👧")
+                    
+                    pos = "l" if is_oscar else "r"
+                    avatar_class = "avatar-oscar" if is_oscar else "avatar-tanaka" if "田中" in clean_name else "avatar-staff"
+                    avatar_url = "https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/my-icon.png" if is_oscar else "https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/avatar-staff.svg"
+
+                    p_tags = "".join([f"<p>{format_inline_markdown(sl.strip())}</p>" for sl in speech_lines if sl.strip()])
+
+                    balloon_html = f"""<div class="c-balloon c-balloon--{pos}">
+  <div class="c-balloon__speaker">
+    <div class="c-balloon__avatar {avatar_class}">
+      <img src="{avatar_url}" alt="{clean_name}" loading="lazy" />
+    </div>
     <span class="c-balloon__name">{clean_name}</span>
   </div>
   <div class="c-balloon__bubble">
     {p_tags}
   </div>
 </div>"""
-                blocks.append(f"<!-- wp:html -->\n{balloon_html}\n<!-- /wp:html -->")
+                    blocks.append(f"<!-- wp:html -->\n{balloon_html}\n<!-- /wp:html -->")
             else:
                 box_lines = [format_inline_markdown(ql) for ql in qlines if ql.strip()]
                 box_fmt = "<br />".join(box_lines)
