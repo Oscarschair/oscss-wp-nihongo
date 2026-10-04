@@ -51,6 +51,15 @@ description: "「オスカーの日本語学習帳」についての運営方針
 
 皆様のささやかな応援がダイレクトにサイトの維持費となり、次なる記事の執筆やコンテンツ改善の大きな原動力になります。温かいご支援を心より感謝申し上げます。
 
+### ☕ Buy Me a Coffee（直接応援）
+![Buy Me a Coffee - オスカーの日本語学習帳応援バナー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/bmc-banner.webp)
+
+「広告だけでなく直接応援したい！」「オスカーにコーヒーを1杯奢りたい！」と思っていただける読者様のために、**[Buy Me a Coffee（https://buymeacoffee.com/oscarchair）](https://buymeacoffee.com/oscarchair)** の窓口を開設しております。
+
+世界中どこからでも、コーヒー1杯分（$1〜）から温かい応援をお送りいただけます。いただいたご支援はサイト維持や教材づくりの励みとして大切に活用させていただきます！
+
+👉 **[☕ オスカーにコーヒーを奢る (Buy Me a Coffee)](https://buymeacoffee.com/oscarchair)**
+
 ---
 
 <div class="c-no-ads-zone google-anno-skip no-ads adsbygoogle-noab adsbygoogle-noablate" data-google-anno-skip="true" data-ad-exclude="true" data-ad-status="unfilled">
@@ -105,4 +114,5 @@ description: "「オスカーの日本語学習帳」についての運営方針
 | **運営者** | オスカー（Oscar） |
 | **運営方針** | 完全無料・広告収入による独立運営（営業・勧誘なし） |
 | **引用方針** | URL明記の上で引用自由 |
+| **応援窓口** | [Buy Me a Coffee（buymeacoffee.com/oscarchair）](https://buymeacoffee.com/oscarchair) |
 | **関連サイト** | [オスカーのAIノート（oscarchair.jp）](https://oscarchair.jp/) |

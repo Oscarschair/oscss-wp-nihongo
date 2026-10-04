@@ -53,9 +53,9 @@ content_blocks = """<!-- wp:html -->
   </div>
   <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
     <div style="font-weight: 700; color: #0f172a; margin-bottom: 8px; font-size: 1.05rem; display: flex; align-items: center; gap: 8px;">
-      <span style="font-size: 1.3rem;">☕</span> 広告収入のみで運営
+      <span style="font-size: 1.3rem;">☕</span> 広告 ＆ チップ応援で運営
     </div>
-    <p style="font-size: 0.88rem; color: #475569; margin: 0; line-height: 1.6;">当サイトの維持・サーバー費用は広告収入のみで賄われています。応援クリックが執筆の大きな励みになります。</p>
+    <p style="font-size: 0.88rem; color: #475569; margin: 0; line-height: 1.6;">当サイトの維持費は広告収入および <a href="https://buymeacoffee.com/oscarchair" target="_blank" rel="noopener" style="color: #d97706; font-weight: 600; text-decoration: underline;">Buy Me a Coffee</a> での温かい応援により賄われています。</p>
   </div>
   <div style="background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,0.02);">
     <div style="font-weight: 700; color: #0f172a; margin-bottom: 8px; font-size: 1.05rem; display: flex; align-items: center; gap: 8px;">
@@ -137,6 +137,26 @@ content_blocks = """<!-- wp:html -->
 <!-- wp:paragraph -->
 <p>皆様のささやかな応援がダイレクトにサイトの維持費となり、次なる記事の執筆やコンテンツ改善の大きな原動力になります。温かいご支援を心より感謝申し上げます。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="c-bmc-card">
+  <img src="https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/bmc-banner.webp" alt="Buy Me a Coffee - オスカーの日本語学習帳応援バナー" class="c-bmc-card__banner" loading="eager" width="800" height="280" />
+  <div class="c-bmc-card__body">
+    <div class="c-bmc-card__title">
+      <span class="c-bmc-card__title-main">☕ Buy Me a Coffee</span>
+      <span class="c-bmc-card__title-sub">（直接応援窓口）</span>
+    </div>
+    <p class="c-bmc-card__desc">
+      「広告だけでなく直接応援したい！」「オスカーにコーヒーを1杯奢りたい！」と思っていただける読者様のために、少額（1杯分〜）から応援いただける窓口を開設しております。温かいご支援をサイト維持や教材づくりの励みとして大切に活用させていただきます！
+    </p>
+    <a href="https://buymeacoffee.com/oscarchair" target="_blank" rel="noopener noreferrer" class="c-bmc-btn">
+      <svg class="c-bmc-btn__icon" viewBox="0 0 24 24" fill="currentColor"><path d="M20.216 6.415l-.132-.666c-.119-.597-.384-1.144-.768-1.583-.733-.837-1.841-1.166-3.123-1.166H4.218C2.584 3 1.25 4.334 1.25 5.968v9.064c0 1.634 1.334 2.968 2.968 2.968h9.064c1.634 0 2.968-1.334 2.968-2.968v-1.077h2.842c1.282 0 2.39-.329 3.123-1.166.384-.439.649-.986.768-1.583l.132-.666c.219-1.1.219-2.025 0-3.125zm-2.109 4.887c-.198.226-.532.348-.992.348h-2.842V6.368h2.842c.46 0 .794.122.992.348.204.233.29.569.255 1.002l-.132.666c-.035.176-.07.353-.105.53-.035.177-.07.354-.105.53l.132.666c.035.433-.051.769-.255 1.002z"/></svg>
+      <span class="c-bmc-btn__text">オスカーにコーヒーを奢る</span>
+      <span class="c-bmc-btn__subtext">(Buy Me a Coffee)</span>
+    </a>
+  </div>
+</div>
+<!-- /wp:html -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
 <hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
@@ -237,6 +257,7 @@ content_blocks = """<!-- wp:html -->
 <tr><td style="font-weight: 600;">運営者</td><td>オスカー（Oscar）</td></tr>
 <tr><td style="font-weight: 600;">運営方針</td><td>完全無料・広告収入による独立運営（営業・教材販売・勧誘なし）</td></tr>
 <tr><td style="font-weight: 600;">引用方針</td><td>URL明記の上で引用自由（事前申請不要）</td></tr>
+<tr><td style="font-weight: 600;">応援窓口</td><td><a href="https://buymeacoffee.com/oscarchair" target="_blank" rel="noopener">Buy Me a Coffee（buymeacoffee.com/oscarchair）</a></td></tr>
 <tr><td style="font-weight: 600;">関連サイト</td><td><a href="https://oscarchair.jp/" target="_blank" rel="noopener">オスカーのAIノート（oscarchair.jp）</a></td></tr>
 </tbody></table></figure>
 <!-- /wp:table -->

@@ -5052,3 +5052,141 @@ div[id*="aswift"][id*="host"][style*="position: fixed"],
 	opacity: 0 !important;
 }
 
+/* ==========================================================================
+   Buy Me a Coffee Card & Button
+   ========================================================================== */
+.c-bmc-card {
+	background: #fffdf8;
+	border: 1.5px solid #fde68a;
+	border-radius: 16px;
+	overflow: hidden;
+	margin: 32px 0;
+	box-shadow: 0 4px 16px rgba(245, 158, 11, 0.08);
+	transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.c-bmc-card__banner {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+	object-position: center bottom;
+	display: block;
+	border-bottom: 1px solid #fef3c7;
+}
+
+.c-bmc-card__body {
+	padding: 26px 22px;
+	text-align: center;
+}
+
+.c-bmc-card__title {
+	font-size: 1.2rem;
+	font-weight: 700;
+	color: #92400e;
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 6px;
+	flex-wrap: wrap;
+}
+
+.c-bmc-card__title-sub {
+	font-size: 0.95rem;
+	font-weight: 600;
+	color: #b45309;
+}
+
+.c-bmc-card__desc {
+	font-size: 0.92rem;
+	color: #78350f;
+	line-height: 1.7;
+	margin: 0 auto 20px;
+	max-width: 560px;
+}
+
+.c-bmc-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+	background: #FFDD00;
+	color: #000000 !important;
+	font-weight: 700;
+	font-size: 1rem;
+	padding: 13px 28px;
+	border-radius: 9999px;
+	text-decoration: none !important;
+	box-shadow: 0 4px 12px rgba(217, 119, 6, 0.2);
+	transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+	cursor: pointer;
+	line-height: 1.2;
+	white-space: nowrap;
+}
+
+.c-bmc-btn:hover {
+	background: #ffea38;
+	transform: translateY(-2px);
+	box-shadow: 0 6px 18px rgba(217, 119, 6, 0.3);
+	color: #000000 !important;
+}
+
+.c-bmc-btn:active {
+	transform: translateY(0);
+	box-shadow: 0 2px 6px rgba(217, 119, 6, 0.2);
+}
+
+.c-bmc-btn__icon {
+	width: 22px;
+	height: 22px;
+	flex-shrink: 0;
+}
+
+.c-bmc-btn__text {
+	white-space: nowrap;
+}
+
+.c-bmc-btn__subtext {
+	font-size: 0.85rem;
+	font-weight: 500;
+	opacity: 0.85;
+	margin-left: 2px;
+}
+
+@media (max-width: 480px) {
+	.c-bmc-card__banner {
+		height: 140px;
+		object-position: right bottom;
+	}
+	.c-bmc-card__body {
+		padding: 20px 16px;
+	}
+	.c-bmc-card__title {
+		font-size: 1.05rem;
+		gap: 2px;
+	}
+	.c-bmc-card__title-sub {
+		font-size: 0.9rem;
+	}
+	.c-bmc-card__desc {
+		font-size: 0.88rem;
+		line-height: 1.65;
+		margin-bottom: 18px;
+		text-align: left;
+	}
+	.c-bmc-btn {
+		font-size: 0.92rem;
+		padding: 12px 18px;
+		width: 100%;
+		max-width: 290px;
+		box-sizing: border-box;
+	}
+	.c-bmc-btn__icon {
+		width: 20px;
+		height: 20px;
+	}
+	.c-bmc-btn__subtext {
+		display: none;
+	}
+}
+

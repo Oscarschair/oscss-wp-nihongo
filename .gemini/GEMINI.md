@@ -44,7 +44,8 @@
 - **Theme-Developer**: `functions/` 配下のモジュール分割、エスケープ徹底。
 - **Content-Writer**: 連載記事執筆、BLUF原則、`**` 禁止・HTMLタグ強調。
 - **Thumbnail-Artist**: 主人公オスカー画像生成、多彩なポーズ切り替え。
-- **Red Team QA**: SEO・画像・レイアウトの独立した客観的監査役。
+- **Flame-Prevention-Guardian**: SNS炎上・怪しい発言・迷惑行為助長・商標/差別表現の防止監査。
+- **Red Team QA**: SEO・画像・レイアウト・炎上リスクの独立した客観的監査役。
 
 ---
 

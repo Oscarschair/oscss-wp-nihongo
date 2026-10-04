@@ -15,6 +15,10 @@
     ],
     "pre_post_publish": [
       {
+        "agent": "flame-prevention-guardian",
+        "description": "新規投稿前のSNS炎上リスク・怪しい発言・迷惑行為助長・商標/差別表現の事前監査・ブロック"
+      },
+      {
         "agent": "seo-reviewer",
         "description": "新規投稿前のSEO観点レビュー（タイトル・メタディスクリプション・見出し階層・検索意図・alt属性・内部リンク検証）"
       },
@@ -46,6 +50,11 @@
         "pattern": "content/manga/**/*.md",
         "agent": "manga-visual-artist",
         "description": "4コマ漫画Markdown保存時のアイキャッチ画像・クルマ髪型規格・フキダシ方向検品"
+      },
+      {
+        "pattern": "content/posts/**/*.md",
+        "agent": "flame-prevention-guardian",
+        "description": "記事Markdown保存時のSNS炎上リスク・怪しい発言・迷惑行為助長・商標/差別表現の自動走査"
       },
       {
         "pattern": "content/posts/**/*.md",
