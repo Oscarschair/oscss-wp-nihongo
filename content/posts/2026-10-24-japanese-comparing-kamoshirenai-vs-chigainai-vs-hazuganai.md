@@ -5,7 +5,7 @@ slug: "japanese-comparing-kamoshirenai-vs-chigainai-vs-hazuganai"
 date: "2026-10-24T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-kamoshirenai-chigainai.jpg"
 categories:
-  - "日本語比べ"
+  - "くらべてみました"
 jlpt: "N3"
 tags:
   - 文法

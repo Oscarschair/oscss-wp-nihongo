@@ -5,7 +5,7 @@ slug: "kotoba-no-aya-gokentou-no-hodo-business-euphemism"
 date: "2026-10-22T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-gokentou.jpg"
 categories:
-  - "言葉のあや"
+  - "ことばのあや"
 jlpt: "N1"
 tags:
   - 言葉のあや

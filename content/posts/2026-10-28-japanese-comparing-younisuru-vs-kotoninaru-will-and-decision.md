@@ -5,7 +5,7 @@ slug: "japanese-comparing-younisuru-vs-kotoninaru-will-and-decision"
 date: "2026-10-28T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-younisuru-kotoninaru.jpg"
 categories:
-  - "日本語比べ"
+  - "くらべてみました"
 jlpt: "N3"
 tags:
   - 文法

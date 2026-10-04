@@ -6,7 +6,7 @@ slug: "street-japanese-city-hall-resident-registration-dungeon-guide"
 date: "2026-10-14T08:00:00+09:00"
 thumbnail: "assets/images/posts/street-city-hall-counter-guide.jpg"
 categories:
-  - "ストリート日本語"
+  - "街角サバイバル"
 jlpt: "N3"
 tags:
   - 生活日本語

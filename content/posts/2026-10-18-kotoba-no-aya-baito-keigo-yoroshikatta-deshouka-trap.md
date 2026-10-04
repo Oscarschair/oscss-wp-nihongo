@@ -5,7 +5,7 @@ slug: "kotoba-no-aya-baito-keigo-yoroshikatta-deshouka-trap"
 date: "2026-10-18T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-baito-keigo.jpg"
 categories:
-  - "言葉のあや"
+  - "ことばのあや"
 jlpt: "N2"
 tags:
   - 言葉のあや

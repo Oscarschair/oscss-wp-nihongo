@@ -5,7 +5,7 @@ slug: "japanese-comparing-sekkaku-vs-wazawaza-gratitude-and-regret"
 date: "2026-11-01T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-sekkaku-wazawaza.jpg"
 categories:
-  - "日本語比べ"
+  - "くらべてみました"
 jlpt: "N2"
 tags:
   - 文法

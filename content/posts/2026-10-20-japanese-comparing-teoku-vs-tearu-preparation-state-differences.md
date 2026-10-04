@@ -5,7 +5,7 @@ slug: "japanese-comparing-teoku-vs-tearu-preparation-state-differences"
 date: "2026-10-20T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-teoku-tearu.jpg"
 categories:
-  - "日本語比べ"
+  - "くらべてみました"
 jlpt: "N4"
 tags:
   - 文法

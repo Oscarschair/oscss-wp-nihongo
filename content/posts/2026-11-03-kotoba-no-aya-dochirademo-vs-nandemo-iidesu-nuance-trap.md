@@ -5,7 +5,7 @@ slug: "kotoba-no-aya-dochirademo-vs-nandemo-iidesu-nuance-trap"
 date: "2026-11-03T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-dochirademo.jpg"
 categories:
-  - "言葉のあや"
+  - "ことばのあや"
 jlpt: "N3"
 tags:
   - 言葉のあや

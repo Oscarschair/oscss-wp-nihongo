@@ -5,7 +5,7 @@ slug: "japanese-comparing-gozonji-vs-owakari-keigo-trap"
 date: "2026-10-16T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-gozonji-owakari.jpg"
 categories:
-  - "日本語比べ"
+  - "くらべてみました"
 jlpt: "N2"
 tags:
   - 敬語

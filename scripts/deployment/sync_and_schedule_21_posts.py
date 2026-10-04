@@ -196,22 +196,42 @@ foreach ($data as $item) {
     }
 
     // 2. Set Categories
+    $cat_ids = array();
     if (!empty($item['categories'])) {
-        $cat_ids = array();
+        $cat_alias = [
+            '言葉のあや' => 'ことばのあや',
+            '日本語比べ' => 'くらべてみました',
+            'ストリート日本語' => '街角サバイバル',
+        ];
         foreach ($item['categories'] as $cat_name) {
-            $term = get_term_by('name', $cat_name, 'category');
+            $normalized_name = isset($cat_alias[$cat_name]) ? $cat_alias[$cat_name] : $cat_name;
+            $term = get_term_by('name', $normalized_name, 'category');
+            if (!$term) {
+                $term = get_term_by('slug', $normalized_name, 'category');
+            }
             if ($term) {
                 $cat_ids[] = $term->term_id;
-            } else {
-                $new_term = wp_insert_term($cat_name, 'category');
-                if (!is_wp_error($new_term)) {
-                    $cat_ids[] = $new_term['term_id'];
-                }
             }
         }
-        if (!empty($cat_ids)) {
-            wp_set_post_categories($post_id, $cat_ids);
+    }
+    if (empty($cat_ids)) {
+        // Fallback by slug
+        if (strpos($slug, 'street-japanese') !== false) {
+            $t = get_category_by_slug('street-japanese');
+            if ($t) $cat_ids[] = $t->term_id;
+        } elseif (strpos($slug, 'comparing') !== false) {
+            $t = get_category_by_slug('comparing');
+            if ($t) $cat_ids[] = $t->term_id;
+        } elseif (strpos($slug, 'kotoba-no-aya') !== false) {
+            $t = get_category_by_slug('kotoba-no-aya');
+            if ($t) $cat_ids[] = $t->term_id;
+        } elseif (strpos($slug, 'culture-shock') !== false) {
+            $t = get_category_by_slug('culture-shock');
+            if ($t) $cat_ids[] = $t->term_id;
         }
+    }
+    if (!empty($cat_ids)) {
+        wp_set_post_categories($post_id, $cat_ids);
     }
 
     // 3. Set Tags

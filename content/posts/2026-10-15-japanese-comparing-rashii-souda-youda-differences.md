@@ -6,7 +6,7 @@ slug: "japanese-comparing-rashii-souda-youda-differences"
 date: "2026-10-15T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-comparing-rashii-souda.jpg"
 categories:
-  - "日本語比べ"
+  - "くらべてみました"
 jlpt: "N3"
 tags:
   - 文法

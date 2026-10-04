@@ -5,7 +5,7 @@ slug: "kotoba-no-aya-ojamashimasu-visit-etiquette-and-mindset"
 date: "2026-10-30T08:00:00+09:00"
 thumbnail: "assets/images/thumbnails/thumb-kotoba-ojamashimasu.jpg"
 categories:
-  - "言葉のあや"
+  - "ことばのあや"
 jlpt: "N3"
 tags:
   - 言葉のあや
