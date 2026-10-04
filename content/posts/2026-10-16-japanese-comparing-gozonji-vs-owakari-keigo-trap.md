@@ -23,8 +23,6 @@ tags:
 > 👩‍🏫 **<ruby>先生<rt>せんせい</rt></ruby>**：「クルマくん、それは<ruby>敬語<rt>けいご</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>は<ruby>合<rt>あ</rt></ruby>っていても、**<ruby>相手<rt>あいて</rt></ruby>の『<ruby>能力<rt>のうりょく</rt></ruby>・<ruby>理解<rt>りかい</rt></ruby><ruby>力<rt>りょく</rt></ruby>』を<ruby>上<rt>うえ</rt></ruby>からテストする<ruby>言<rt>い</rt></ruby>い<ruby>方<rt>かた</rt></ruby>**になってしまっているのよ！」
 > 🚗 **クルマ**：「ええっ！？ <ruby>上<rt>うえ</rt></ruby>からテスト！？ <ruby>尊敬<rt>そんけい</rt></ruby>しているのにどうしてですか！？」
 
-![マニュアルを指差して店長に尋ねるクルマの困惑顔](assets/images/posts/comparing-gozonji-owakari-trap.jpg)
-
 ---
 
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「知る」と「分かる」の<ruby>敬語<rt>けいご</rt></ruby>マップ

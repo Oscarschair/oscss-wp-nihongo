@@ -21,8 +21,6 @@ tags:
 > 🚗 **クルマ**：「<ruby>先生<rt>せんせい</rt></ruby>！<ruby>新<rt>あたら</rt></ruby>しいアパートを<ruby>借<rt>か</rt></ruby>りようと<ruby>不動産<rt>ふどうさん</rt></ruby><ruby>屋<rt>や</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったんですが、<ruby>家賃<rt>やちん</rt></ruby>6<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>なのに『<ruby>初期<rt>しょき</rt></ruby><ruby>費用<rt>ひよう</rt></ruby>で30<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>かかります』って<ruby>言<rt>い</rt></ruby>われて<ruby>腰<rt>こし</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>かしました……！ <ruby>敷金<rt>しききん</rt></ruby>？ <ruby>礼金<rt>れいきん</rt></ruby>？ <ruby>保証<rt>ほしょう</rt></ruby><ruby>会社<rt>がいしゃ</rt></ruby>？ なんでそんなに<ruby>払<rt>はら</rt></ruby>うんですか！？」
 > 👩‍🏫 **<ruby>先生<rt>せんせい</rt></ruby>**：「クルマくん、<ruby>日本<rt>にほん</rt></ruby>の<ruby>賃貸<rt>ちんたい</rt></ruby>システムは<ruby>海外<rt>かいがい</rt></ruby>と<ruby>大<rt>おお</rt></ruby>きく<ruby>違<rt>ちが</rt></ruby>う独自のルールが<ruby>満載<rt>まんさい</rt></ruby>なのよ。言葉の<ruby>意味<rt>いみ</rt></ruby>を知らないと、<ruby>予算<rt>よさん</rt></ruby>オーバーになったり、お<ruby>気<rt>き</rt></ruby>に<ruby>入<rt>い</rt></ruby>りの<ruby>部屋<rt>へや</rt></ruby>を<ruby>逃<rt> runaway</rt></ruby>してしまうわ！」
 
-![不動産屋の間取り図の前で頭を抱えるクルマ](assets/images/posts/street-apartment-rental-dungeon.jpg)
-
 ---
 
 ## 1. ひと目でわかる！賃貸初期費用の内訳解剖図
