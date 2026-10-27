@@ -14,16 +14,16 @@ tags:
   - JLPT N3
   - 実践会話
 ---
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>手紙<rt>てがみ</rt></ruby>や<ruby>小包<rt>こづつみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る「**[郵便局の窓口ダンジョン完全攻略](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-25-street-japanese-post-office-counter-parcel-dungeon-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>手紙<rt>てがみ</rt></ruby>や<ruby>小包<rt>こづつみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る「**[<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>ダンジョン<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-25-street-japanese-post-office-counter-parcel-dungeon-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
-<ruby>今回<rt>こんかい</rt></ruby>は、日本の外食でいまや当たり前となった**「卓上タッチパネル注文端末」**のサバイバルです！
+<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>の<ruby>外食<rt>がいしょく</rt></ruby>でいまや<ruby>当たり前<rt>あたりまえ</rt></ruby>となった**「<ruby>卓上<rt>たくじょう</rt></ruby>タッチパネル<ruby>注文<rt>ちゅうもん</rt></ruby><ruby>端末<rt>たんまつ</rt></ruby>」**のサバイバルです！
 
-> 🚗 **クルマ**：「先生！居酒屋に行ったら各テーブルにタブレットが置いてあって、日本語メニューがたくさん並んでいました。『送信』を押さないと注文が厨房に通らないのを知らなくて、30分もビールを待ち続けちゃいました……！」
-> 👩‍🏫 **先生**：「あちゃー！タッチパネルあるあるね！カートに入れただけじゃなくて、最後の『注文を確定する（送信）』ボタンを押すのが大事なのよね。カスタマイズ注文のコツも一緒にマスターしましょう！」
+> 🚗 **クルマ**：「<ruby>先生<rt>せんせい</rt></ruby>！<ruby>居酒屋<rt>いざかや</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったら<ruby>各<rt>かく</rt></ruby>テーブルにタブレットが<ruby>置<rt>お</rt></ruby>いてあって、<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>メニューがたくさん<ruby>並<rt>なら</rt></ruby>んでいました。『<ruby>送信<rt>そうしん</rt></ruby>』を<ruby>押<rt>お</rt></ruby>さないと<ruby>注文<rt>ちゅうもん</rt></ruby>が<ruby>厨房<rt>ちゅうぼう</rt></ruby>に<ruby>通<rt>とお</rt></ruby>らないのを<ruby>知<rt>し</rt></ruby>らなくて、30<ruby>分<rt>ふん</rt></ruby>もビールを<ruby>待<rt>ま</rt></ruby>ち<ruby>続<rt>つづ</rt></ruby>けちゃいました……！」
+> 👩‍🏫 **<ruby>先生<rt>せんせい</rt></ruby>**：「あちゃー！タッチパネルあるあるね！カートに<ruby>入<rt>い</rt></ruby>れただけじゃなくて、<ruby>最後<rt>さいご</rt></ruby>の『<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>確定<rt>かくてい</rt></ruby>する（<ruby>送信<rt>そうしん</rt></ruby>）』ボタンを<ruby>押<rt>お</rt></ruby>すのが<ruby>大事<rt>だいじ</rt></ruby>なのよね。カスタマイズ<ruby>注文<rt>ちゅうもん</rt></ruby>のコツも<ruby>一緒<rt>いっしょ</rt></ruby>にマスターしましょう！」
 
 ---
 
-## 1. ひと目でわかる！タッチパネル注文の基本5ステップ
+## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！タッチパネル<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby>5ステップ
 
 ```
 【ステップ1：言語切り替え（必要な場合）】
@@ -49,58 +49,58 @@ tags:
 
 ---
 
-## 2. タッチパネルで見逃しがちな「0円神メニュー」
+## 2. タッチパネルで<ruby>見逃<rt>みのが</rt></ruby>しがちな「0<ruby>円<rt>えん</rt></ruby><ruby>神<rt>しん</rt></ruby>メニュー」
 
-タッチパネルの「無料サービス」や「店員呼び出し」のタブには、無料で頼める神アイテムが隠れています！
+タッチパネルの「<ruby>無料<rt>むりょう</rt></ruby>サービス」や「<ruby>店員<rt>てんいん</rt></ruby><ruby>呼び出<rt>よびだ</rt></ruby>し」のタブには、<ruby>無料<rt>むりょう</rt></ruby>で<ruby>頼<rt>たの</rt></ruby>める<ruby>神<rt>かみ</rt></ruby>アイテムが<ruby>隠<rt>かく</rt></ruby>れています！
 
-1. **お冷（おひや） / お茶（あがり）**：冷たいお水や温かい緑茶が0円で注文可能。
-2. **取り皿（とりざら）**：料理を分けるための小皿。
-3. **おしぼり**：追加のお手拭き。
-4. **マヨネーズ / 醤油 / ドレッシング**：調味料の追加。
-5. **お会計伝票（かいけいでんぴょう）**：現在の合計金額や割り勘の目安額がリアルタイムで見られます！
-
----
-
-## 3. 「ピンポンボタン（店員呼び出し）」を使うべき場面
-
-タブレット端末の横に、物理的な「ピンポン」ボタンが付いていることもあります。
-これは以下のような**緊急時・トラブル時**にだけ押しましょう！
-
-* 注文した料理が30分以上経っても来ないとき
-* グラスを倒してお水をこぼしてしまったとき
-* タブレットのバッテリーが切れて画面が真っ暗になったとき
-* テイクアウト（持ち帰り用パック）が欲しいとき
+1. **お<ruby>冷<rt>ひや</rt></ruby>（おひや） / お<ruby>茶<rt>ちゃ</rt></ruby>（あがり）**：<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>水<rt>みず</rt></ruby>や<ruby>温<rt>あたた</rt></ruby>かい<ruby>緑茶<rt>りょくちゃ</rt></ruby>が0<ruby>円<rt>えん</rt></ruby>で<ruby>注文<rt>ちゅうもん</rt></ruby><ruby>可能<rt>かのう</rt></ruby>。
+2. **<ruby>取<rt>と</rt></ruby>り<ruby>皿<rt>さら</rt></ruby>（とりざら）**：<ruby>料理<rt>りょうり</rt></ruby>を<ruby>分<rt>わ</rt></ruby>けるための<ruby>小皿<rt>こざら</rt></ruby>。
+3. **おしぼり**：<ruby>追加<rt>ついか</rt></ruby>のお<ruby>手拭<rt>てふ</rt></ruby>き。
+4. **マヨネーズ / <ruby>醤油<rt>しょうゆ</rt></ruby> / ドレッシング**：<ruby>調味<rt>ちょうみ</rt></ruby><ruby>料<rt>りょう</rt></ruby>の<ruby>追加<rt>ついか</rt></ruby>。
+5. **お<ruby>会計<rt>かいけい</rt></ruby><ruby>伝票<rt>でんぴょう</rt></ruby>（かいけいでんぴょう）**：<ruby>現在<rt>げんざい</rt></ruby>の<ruby>合計<rt>ごうけい</rt></ruby><ruby>金額<rt>きんがく</rt></ruby>や<ruby>割り勘<rt>わりかん</rt></ruby>の<ruby>目安<rt>めやす</rt></ruby><ruby>額<rt>がく</rt></ruby>がリアルタイムで<ruby>見<rt>み</rt></ruby>られます！
 
 ---
 
-## 4. 理解度チェック！クイズ5問
+## 3. 「ピンポンボタン（<ruby>店員<rt>てんいん</rt></ruby><ruby>呼び出<rt>よびだ</rt></ruby>し）」を<ruby>使<rt>つか</rt></ruby>うべき<ruby>場面<rt>ばめん</rt></ruby>
 
-### Q1. タブレットで料理を選んだ後、厨房に注文を届けるために絶対に押さなければいけないボタンは？
-* A. カートに入れる
-* B. 注文を確定する（送信する）
-* C. 電源を切る
+タブレット<ruby>端末<rt>たんまつ</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>に、<ruby>物理<rt>ぶつり</rt></ruby><ruby>的<rt>てき</rt></ruby>な「ピンポン」ボタンが<ruby>付<rt>つ</rt></ruby>いていることもあります。
+これは<ruby>以下<rt>いか</rt></ruby>のような**<ruby>緊急<rt>きんきゅう</rt></ruby><ruby>時<rt>じ</rt></ruby>・トラブル<ruby>時<rt>じ</rt></ruby>**にだけ<ruby>押<rt>お</rt></ruby>しましょう！
+
+* <ruby>注文<rt>ちゅうもん</rt></ruby>した<ruby>料理<rt>りょうり</rt></ruby>が30<ruby>分<rt>ふん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>経<rt>た</rt></ruby>っても<ruby>来<rt>こ</rt></ruby>ないとき
+* グラスを<ruby>倒<rt>たお</rt></ruby>してお<ruby>水<rt>みず</rt></ruby>をこぼしてしまったとき
+* タブレットのバッテリーが<ruby>切<rt>き</rt></ruby>れて<ruby>画面<rt>がめん</rt></ruby>が<ruby>真っ暗<rt>まっくら</rt></ruby>になったとき
+* テイクアウト（<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>用<rt>よう</rt></ruby>パック）が<ruby>欲<rt>ほ</rt></ruby>しいとき
+
+---
+
+## 4. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！クイズ5<ruby>問<rt>もん</rt></ruby>
+
+### Q1. タブレットで<ruby>料理<rt>りょうり</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだ<ruby>後<rt>のち</rt></ruby>、<ruby>厨房<rt>ちゅうぼう</rt></ruby>に<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けるために<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>押<rt>お</rt></ruby>さなければいけないボタンは？
+* A. カートに<ruby>入<rt>い</rt></ruby>れる
+* B. <ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>確定<rt>かくてい</rt></ruby>する（<ruby>送信<rt>そうしん</rt></ruby>する）
+* C. <ruby>電源<rt>でんげん</rt></ruby>を<ruby>切<rt>き</rt></ruby>る
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-カートに入れただけでは注文になりません。必ず「注文確定」ボタンを押しましょう。
+カートに<ruby>入<rt>い</rt></ruby>れただけでは<ruby>注文<rt>ちゅうもん</rt></ruby>になりません。<ruby>必<rt>かなら</rt></ruby>ず「<ruby>注文<rt>ちゅうもん</rt></ruby><ruby>確定<rt>かくてい</rt></ruby>」ボタンを<ruby>押<rt>お</rt></ruby>しましょう。
 </details>
 
-### Q2. お寿司屋さんで「わさびを入れないでほしい」ときに選ぶオプションは？
+### Q2. お<ruby>寿司<rt>すし</rt></ruby><ruby>屋<rt>や</rt></ruby>さんで「わさびを<ruby>入<rt>い</rt></ruby>れないでほしい」ときに<ruby>選<rt>えら</rt></ruby>ぶオプションは？
 * A. サビあり
-* B. サビ抜き（さびぬき）
-* C. サビ増し
+* B. サビ<ruby>抜<rt>ぬ</rt></ruby>き（さびぬき）
+* C. サビ<ruby>増<rt>ま</rt></ruby>し
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-わさび抜きのことを「サビ抜き（サビぬき）」と言います。
+わさび<ruby>抜<rt>ぬ</rt></ruby>きのことを「サビ<ruby>抜<rt>ぬ</rt></ruby>き（サビぬき）」と<ruby>言<rt>い</rt></ruby>います。
 </details>
 
-### Q3. タッチパネルの「無料サービス」で注文できることが多いものはどれ？
-* A. お冷（冷たいお水）や取り皿
+### Q3. タッチパネルの「<ruby>無料<rt>むりょう</rt></ruby>サービス」で<ruby>注文<rt>ちゅうもん</rt></ruby>できることが<ruby>多<rt>おお</rt></ruby>いものはどれ？
+* A. お<ruby>冷<rt>ひや</rt></ruby>（<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>水<rt>みず</rt></ruby>）や<ruby>取<rt>と</rt></ruby>り<ruby>皿<rt>さら</rt></ruby>
 * B. ビール
 * C. ステーキ
 
@@ -108,40 +108,40 @@ tags:
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：A**
-日本の飲食店ではお冷や取り皿、温かいお茶は基本的に無料で注文できます。
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>飲食<rt>いんしょく</rt></ruby><ruby>店<rt>てん</rt></ruby>ではお<ruby>冷<rt>ひ</rt></ruby>や<ruby>取<rt>と</rt></ruby>り<ruby>皿<rt>さら</rt></ruby>、<ruby>温<rt>あたた</rt></ruby>かいお<ruby>茶<rt>ちゃ</rt></ruby>は<ruby>基本<rt>きほん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>無料<rt>むりょう</rt></ruby>で<ruby>注文<rt>ちゅうもん</rt></ruby>できます。
 </details>
 
-### Q4. 食事が終わり、お会計をして帰りたいときの手順は？
-* A. タブレットをお皿の上に置いて走って帰る
-* B. 画面の「お会計」を押してから、テーブルの伝票を持ってレジへ行く
-* C. その場でテーブルに現金を置いて立ち去る
+### Q4. <ruby>食事<rt>しょくじ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わり、お<ruby>会計<rt>かいけい</rt></ruby>をして<ruby>帰<rt>かえ</rt></ruby>りたいときの<ruby>手順<rt>てじゅん</rt></ruby>は？
+* A. タブレットをお<ruby>皿<rt>さら</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いて<ruby>走<rt>はし</rt></ruby>って<ruby>帰<rt>かえ</rt></ruby>る
+* B. <ruby>画面<rt>がめん</rt></ruby>の「お<ruby>会計<rt>かいけい</rt></ruby>」を<ruby>押<rt>お</rt></ruby>してから、テーブルの<ruby>伝票<rt>でんぴょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってレジへ<ruby>行<rt>い</rt></ruby>く
+* C. その<ruby>場<rt>ば</rt></ruby>でテーブルに<ruby>現金<rt>げんきん</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて<ruby>立ち去<rt>たちさ</rt></ruby>る
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-画面で会計手続きをした後、レジに伝票を持って行って支払うのが日本の標準スタイルです。
+<ruby>画面<rt>がめん</rt></ruby>で<ruby>会計<rt>かいけい</rt></ruby><ruby>手続<rt>てつづ</rt></ruby>きをした<ruby>後<rt>のち</rt></ruby>、レジに<ruby>伝票<rt>でんぴょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>って<ruby>支払<rt>しはら</rt></ruby>うのが<ruby>日本<rt>にほん</rt></ruby>の<ruby>標準<rt>ひょうじゅん</rt></ruby>スタイルです。
 </details>
 
-### Q5. 居酒屋の焼き鳥で「タレ」と「塩」の選択肢がある。あっさり食べたいならどっち？
-* A. タレ（甘辛い醤油ベース）
-* B. 塩（しお）
-* C. 砂糖
+### Q5. <ruby>居酒屋<rt>いざかや</rt></ruby>の<ruby>焼き鳥<rt>やきとり</rt></ruby>で「タレ」と「<ruby>塩<rt>しお</rt></ruby>」の<ruby>選択肢<rt>せんたくし</rt></ruby>がある。あっさり<ruby>食<rt>た</rt></ruby>べたいならどっち？
+* A. タレ（<ruby>甘辛<rt>あまから</rt></ruby>い<ruby>醤油<rt>しょうゆ</rt></ruby>ベース）
+* B. <ruby>塩<rt>しお</rt></ruby>（しお）
+* C. <ruby>砂糖<rt>さとう</rt></ruby>
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-塩は素材の味をさっぱり楽しめます。タレは甘みとコクのある濃厚な味付けです。
+<ruby>塩<rt>しお</rt></ruby>は<ruby>素材<rt>そざい</rt></ruby>の<ruby>味<rt>あじ</rt></ruby>をさっぱり<ruby>楽<rt>たの</rt></ruby>しめます。タレは<ruby>甘<rt>あま</rt></ruby>みとコクのある<ruby>濃厚<rt>のうこう</rt></ruby>な<ruby>味付<rt>あじつ</rt></ruby>けです。
 </details>
 
 ---
 
-## 5. まとめと本日の重要キーワード
+## 5. まとめと<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>キーワード
 
-* 📌 **カートに入れたら必ず「注文送信」を押して確定させる！**
-* 📌 **お水・取り皿・お茶は「0円メニュー」からボタン1つで頼める！**
-* 📌 **帰りは伝票を持ってレジに向かうのが日本のルール！**
+* 📌 **カートに<ruby>入<rt>い</rt></ruby>れたら<ruby>必<rt>かなら</rt></ruby>ず「<ruby>注文<rt>ちゅうもん</rt></ruby><ruby>送信<rt>そうしん</rt></ruby>」を<ruby>押<rt>お</rt></ruby>して<ruby>確定<rt>かくてい</rt></ruby>させる！**
+* 📌 **お<ruby>水<rt>みず</rt></ruby>・<ruby>取<rt>と</rt></ruby>り<ruby>皿<rt>さら</rt></ruby>・お<ruby>茶<rt>ちゃ</rt></ruby>は「0<ruby>円<rt>えん</rt></ruby>メニュー」からボタン1つで<ruby>頼<rt>たの</rt></ruby>める！**
+* 📌 **<ruby>帰<rt>がえ</rt></ruby>りは<ruby>伝票<rt>でんぴょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってレジに<ruby>向<rt>む</rt></ruby>かうのが<ruby>日本<rt>にほん</rt></ruby>のルール！**
 
 <div class="c-vocab-box">
   <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>

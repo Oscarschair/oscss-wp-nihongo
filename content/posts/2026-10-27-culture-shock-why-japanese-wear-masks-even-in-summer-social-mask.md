@@ -14,16 +14,16 @@ tags:
   - JLPT N3
   - 心理学
 ---
-<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックノートでは、居酒屋でのお会計習慣「**[『割り勘』の美学と1円単位の送金文化](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-23-culture-shock-warikan-splitting-the-bill-culture-in-japan.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックノートでは、<ruby>居酒屋<rt>いざかや</rt></ruby>でのお<ruby>会計<rt>かいけい</rt></ruby><ruby>習慣<rt>しゅうかん</rt></ruby>「**[『<ruby>割り勘<rt>わりかん</rt></ruby>』の<ruby>美学<rt>びがく</rt></ruby>と1<ruby>円<rt>えん</rt></ruby><ruby>単位<rt>たんい</rt></ruby>の<ruby>送金<rt>そうきん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-23-culture-shock-warikan-splitting-the-bill-culture-in-japan.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
-<ruby>今回<rt>こんかい</rt></ruby>は、訪日外国人や在日外国人が**「日本に来て一番不思議に思う光景」**の筆頭、**「真夏でもマスクを着け続ける日本人」**の謎に迫ります！
+<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>訪日<rt>ほうにち</rt></ruby><ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>や<ruby>在日<rt>ざいにち</rt></ruby><ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が**「<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て<ruby>一番<rt>いちばん</rt></ruby><ruby>不思議<rt>ふしぎ</rt></ruby>に<ruby>思<rt>おも</rt></ruby>う<ruby>光景<rt>こうけい</rt></ruby>」**の<ruby>筆頭<rt>ひっとう</rt></ruby>、**「<ruby>真夏<rt>まなつ</rt></ruby>でもマスクを<ruby>着<rt>つ</rt></ruby>け<ruby>続<rt>つづ</rt></ruby>ける<ruby>日本人<rt>にっぽんじん</rt></ruby>」**の<ruby>謎<rt>なぞ</rt></ruby>に<ruby>迫<rt>せま</rt></ruby>ります！
 
-> 🚗 **クルマ**：「先生！今日も外は35度もあって倒れそうなのに、電車に乗ったらみんな白いマスクを着けてスマホを見ていました。コロナも落ち着いたのに、息苦しくないんですか！？ なんでみんなマスクを外さないんですか！？」
-> 👩‍🏫 **先生**：「海外から見ると本当に不思議な光景よね！でも日本人にとってマスクは、感染予防の『医療用具』を超えて、**洋服やメイクと同じ『安心のファッション（顔の服）』**になっているのよ！」
+> 🚗 **クルマ**：「<ruby>先生<rt>せんせい</rt></ruby>！<ruby>今日<rt>きょう</rt></ruby>も<ruby>外<rt>そと</rt></ruby>は35<ruby>度<rt>ど</rt></ruby>もあって<ruby>倒<rt>たお</rt></ruby>れそうなのに、<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ったらみんな<ruby>白<rt>しろ</rt></ruby>いマスクを<ruby>着<rt>つ</rt></ruby>けてスマホを<ruby>見<rt>み</rt></ruby>ていました。コロナも<ruby>落ち着<rt>おちつ</rt></ruby>いたのに、<ruby>息苦<rt>いきぐる</rt></ruby>しくないんですか！？ なんでみんなマスクを<ruby>外<rt>はず</rt></ruby>さないんですか！？」
+> 👩‍🏫 **<ruby>先生<rt>せんせい</rt></ruby>**：「<ruby>海外<rt>かいがい</rt></ruby>から<ruby>見<rt>み</rt></ruby>ると<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>不思議<rt>ふしぎ</rt></ruby>な<ruby>光景<rt>こうけい</rt></ruby>よね！でも<ruby>日本人<rt>にっぽんじん</rt></ruby>にとってマスクは、<ruby>感染<rt>かんせん</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>の『<ruby>医療<rt>いりょう</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>』を<ruby>超<rt>こ</rt></ruby>えて、**<ruby>洋服<rt>ようふく</rt></ruby>やメイクと<ruby>同<rt>おな</rt></ruby>じ『<ruby>安心<rt>あんしん</rt></ruby>のファッション（<ruby>顔<rt>かお</rt></ruby>の<ruby>服<rt>ふく</rt></ruby>）』**になっているのよ！」
 
 ---
 
-## 1. ひと目でわかる！日本人がマスクを着ける5大理由
+## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>日本人<rt>にっぽんじん</rt></ruby>がマスクを<ruby>着<rt>つ</rt></ruby>ける5<ruby>大<rt>だい</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>
 
 ```
 【理由1：花粉症（かふんしょう）・アレルギー対策】
@@ -45,99 +45,99 @@ tags:
 
 ---
 
-## 2. 若者の間では「顔のパンツ」と呼ばれる！？
+## 2. <ruby>若者<rt>わかもの</rt></ruby>の<ruby>間<rt>ま</rt></ruby>では「<ruby>顔<rt>かお</rt></ruby>のパンツ」と<ruby>呼<rt>よ</rt></ruby>ばれる！？
 
-日本のSNSやテレビで話題になった言葉に**「顔のパンツ」**という強烈なスラングがあります。
-下着（パンツ）を脱ぐのが恥ずかしいのと同じように、**「マスクを外して素顔（すがお）を人前に晒すのが恥ずかしい」**と感じる若者が急増したのです。
+<ruby>日本<rt>にほん</rt></ruby>のSNSやテレビで<ruby>話題<rt>わだい</rt></ruby>になった<ruby>言葉<rt>ことば</rt></ruby>に**「<ruby>顔<rt>がお</rt></ruby>のパンツ」**という<ruby>強烈<rt>きょうれつ</rt></ruby>なスラングがあります。
+<ruby>下着<rt>したぎ</rt></ruby>（パンツ）を<ruby>脱<rt>ぬ</rt></ruby>ぐのが<ruby>恥<rt>は</rt></ruby>ずかしいのと<ruby>同<rt>おな</rt></ruby>じように、**「マスクを<ruby>外<rt>はず</rt></ruby>して<ruby>素顔<rt>すがお</rt></ruby>（すがお）を<ruby>人前<rt>ひとまえ</rt></ruby>に<ruby>晒<rt>さら</rt></ruby>すのが<ruby>恥<rt>は</rt></ruby>ずかしい」**と<ruby>感<rt>かん</rt></ruby>じる<ruby>若者<rt>わかもの</rt></ruby>が<ruby>急増<rt>きゅうぞう</rt></ruby>したのです。
 
-* 「マスクを着けていたほうが盛れる（かっこよく／可愛く見える）」
-* 「目元だけでコミュニケーションするほうが気が楽」
+* 「マスクを<ruby>着<rt>つ</rt></ruby>けていたほうが<ruby>盛<rt>も</rt></ruby>れる（かっこよく／<ruby>可愛<rt>かわい</rt></ruby>く<ruby>見<rt>み</rt></ruby>える）」
+* 「<ruby>目元<rt>めもと</rt></ruby>だけでコミュニケーションするほうが<ruby>気<rt>き</rt></ruby>が<ruby>楽<rt>らく</rt></ruby>」
 
-マスクは「予防グッズ」から「プライバシーを守るフィルター」へと進化したのです。
-
----
-
-## 3. 外国人はマスクを外していても大丈夫？
-
-結論から言うと、**屋外でも屋内でも、マスクを外していて全く問題ありません！**
-日本の法律でマスク着用が義務付けられているわけではなく、個人の判断に委ねられています。
-
-ただし、以下の場所では今でも着用が推奨されることが多いので、カバンに1枚入れておくと安心です。
-1. **病院・クリニック・高齢者施設**
-2. **超満員の通勤電車**
-3. **自分が咳やくしゃみをしているとき（エチケット）**
+マスクは「<ruby>予防<rt>よぼう</rt></ruby>グッズ」から「プライバシーを<ruby>守<rt>まも</rt></ruby>るフィルター」へと<ruby>進化<rt>しんか</rt></ruby>したのです。
 
 ---
 
-## 4. 理解度チェック！クイズ5問
+## 3. <ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>はマスクを<ruby>外<rt>はず</rt></ruby>していても<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>？
 
-### Q1. 日本で病気でもないのに安心感のためにマスクを着けることを何と言う？
-* A. 伊達マスク（だてますく）
-* B. 武士マスク
-* C. 忍者マスク
+<ruby>結論<rt>けつろん</rt></ruby>から<ruby>言<rt>い</rt></ruby>うと、**<ruby>屋外<rt>おくがい</rt></ruby>でも<ruby>屋内<rt>おくない</rt></ruby>でも、マスクを<ruby>外<rt>はず</rt></ruby>していて<ruby>全<rt>まった</rt></ruby>く<ruby>問題<rt>もんだい</rt></ruby>ありません！**
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>法律<rt>ほうりつ</rt></ruby>でマスク<ruby>着用<rt>ちゃくよう</rt></ruby>が<ruby>義務付<rt>ぎむづ</rt></ruby>けられているわけではなく、<ruby>個人<rt>こじん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>に<ruby>委<rt>ゆだ</rt></ruby>ねられています。
+
+ただし、<ruby>以下<rt>いか</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>では<ruby>今<rt>いま</rt></ruby>でも<ruby>着用<rt>ちゃくよう</rt></ruby>が<ruby>推奨<rt>すいしょう</rt></ruby>されることが<ruby>多<rt>おお</rt></ruby>いので、カバンに1<ruby>枚<rt>まい</rt></ruby><ruby>入<rt>い</rt></ruby>れておくと<ruby>安心<rt>あんしん</rt></ruby>です。
+1. **<ruby>病院<rt>びょういん</rt></ruby>・クリニック・<ruby>高齢<rt>こうれい</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>**
+2. **<ruby>超<rt>ちょう</rt></ruby><ruby>満員<rt>まんいん</rt></ruby>の<ruby>通勤<rt>つうきん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>**
+3. **<ruby>自分<rt>じぶん</rt></ruby>が<ruby>咳<rt>せき</rt></ruby>やくしゃみをしているとき（エチケット）**
+
+---
+
+## 4. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！クイズ5<ruby>問<rt>もん</rt></ruby>
+
+### Q1. <ruby>日本<rt>にほん</rt></ruby>で<ruby>病気<rt>びょうき</rt></ruby>でもないのに<ruby>安心<rt>あんしん</rt></ruby><ruby>感<rt>かん</rt></ruby>のためにマスクを<ruby>着<rt>つ</rt></ruby>けることを<ruby>何<rt>なん</rt></ruby>と<ruby>言<rt>い</rt></ruby>う？
+* A. <ruby>伊達<rt>だて</rt></ruby>マスク（だてますく）
+* B. <ruby>武士<rt>ぶし</rt></ruby>マスク
+* C. <ruby>忍者<rt>にんじゃ</rt></ruby>マスク
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：A**
-視力矯正のためではない「伊達メガネ（だてめがね）」と同じように、ファッションや心理的安心のためのマスクを「伊達マスク」と呼びます。
+<ruby>視力<rt>しりょく</rt></ruby><ruby>矯正<rt>きょうせい</rt></ruby>のためではない「<ruby>伊達<rt>だて</rt></ruby>メガネ（だてめがね）」と<ruby>同<rt>おな</rt></ruby>じように、ファッションや<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>安心<rt>あんしん</rt></ruby>のためのマスクを「<ruby>伊達<rt>だて</rt></ruby>マスク」と<ruby>呼<rt>よ</rt></ruby>びます。
 </details>
 
-### Q2. 日本人が春だけでなく秋にもマスクを着ける大きな理由は？
-* A. 秋のブタクサやヨモギなどの花粉症
-* B. 冬眠の準備
-* C. ハロウィンの練習
+### Q2. <ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>春<rt>はる</rt></ruby>だけでなく<ruby>秋<rt>あき</rt></ruby>にもマスクを<ruby>着<rt>つ</rt></ruby>ける<ruby>大<rt>おお</rt></ruby>きな<ruby>理由<rt>りゆう</rt></ruby>は？
+* A. <ruby>秋<rt>あき</rt></ruby>のブタクサやヨモギなどの<ruby>花粉<rt>かふん</rt></ruby><ruby>症<rt>しょう</rt></ruby>
+* B. <ruby>冬眠<rt>とうみん</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>
+* C. ハロウィンの<ruby>練習<rt>れんしゅう</rt></ruby>
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：A**
-秋はキク科のブタクサやイネ科の花粉が飛散するため、アレルギー持ちの人はマスクが欠かせません。
+<ruby>秋<rt>あき</rt></ruby>はキク<ruby>科<rt>か</rt></ruby>のブタクサやイネ<ruby>科<rt>か</rt></ruby>の<ruby>花粉<rt>かふん</rt></ruby>が<ruby>飛散<rt>ひさん</rt></ruby>するため、アレルギー<ruby>持<rt>も</rt></ruby>ちの<ruby>人<rt>ひと</rt></ruby>はマスクが<ruby>欠<rt>か</rt></ruby>かせません。
 </details>
 
-### Q3. 「顔のパンツ」という言葉が表している若者の心理は？
-* A. マスクの洗濯が大変だということ
-* B. マスクを外して素顔を見せるのが下着を脱ぐくらい恥ずかしいということ
-* C. マスクを頭にかぶるのが流行っているということ
+### Q3. 「<ruby>顔<rt>かお</rt></ruby>のパンツ」という<ruby>言葉<rt>ことば</rt></ruby>が<ruby>表<rt>あらわ</rt></ruby>している<ruby>若者<rt>わかもの</rt></ruby>の<ruby>心理<rt>しんり</rt></ruby>は？
+* A. マスクの<ruby>洗濯<rt>せんたく</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby>だということ
+* B. マスクを<ruby>外<rt>はず</rt></ruby>して<ruby>素顔<rt>すがお</rt></ruby>を<ruby>見<rt>み</rt></ruby>せるのが<ruby>下着<rt>したぎ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぐくらい<ruby>恥<rt>は</rt></ruby>ずかしいということ
+* C. マスクを<ruby>頭<rt>あたま</rt></ruby>にかぶるのが<ruby>流行<rt>はや</rt></ruby>っているということ
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-素顔を隠すことで得られる安心感が定着したことをユーモラスに表現した言葉です。
+<ruby>素顔<rt>すがお</rt></ruby>を<ruby>隠<rt>かく</rt></ruby>すことで<ruby>得<rt>え</rt></ruby>られる<ruby>安心<rt>あんしん</rt></ruby><ruby>感<rt>かん</rt></ruby>が<ruby>定着<rt>ていちゃく</rt></ruby>したことをユーモラスに<ruby>表現<rt>ひょうげん</rt></ruby>した<ruby>言葉<rt>ことば</rt></ruby>です。
 </details>
 
-### Q4. 現在の日本で、街中をマスクなしで歩くことは法律違反になる？
-* A. 違反になり、警察に逮捕される
-* B. 個人の自由であり、全く違法ではない
-* C. 罰金1万円が科される
+### Q4. <ruby>現在<rt>げんざい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>で、<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>をマスクなしで<ruby>歩<rt>ある</rt></ruby>くことは<ruby>法律<rt>ほうりつ</rt></ruby><ruby>違反<rt>いはん</rt></ruby>になる？
+* A. <ruby>違反<rt>いはん</rt></ruby>になり、<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>逮捕<rt>たいほ</rt></ruby>される
+* B. <ruby>個人<rt>こじん</rt></ruby>の<ruby>自由<rt>じゆう</rt></ruby>であり、<ruby>全<rt>まった</rt></ruby>く<ruby>違法<rt>いほう</rt></ruby>ではない
+* C. <ruby>罰金<rt>ばっきん</rt></ruby>1<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>が<ruby>科<rt>か</rt></ruby>される
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-個人の意思で自由に選択できます。熱中症予防のためにも無理な着用は不要です。
+<ruby>個人<rt>こじん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>で<ruby>自由<rt>じゆう</rt></ruby>に<ruby>選択<rt>せんたく</rt></ruby>できます。<ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>のためにも<ruby>無理<rt>むり</rt></ruby>な<ruby>着用<rt>ちゃくよう</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>です。
 </details>
 
-### Q5. 自分が風邪をひいて咳が出ているとき、日本で求められるマナーは？
-* A. 口を手で覆わずに大きな声でくしゃみをする
-* B. 周囲への配慮（咳エチケット）としてマスクを着ける
-* C. 走って逃げる
+### Q5. <ruby>自分<rt>じぶん</rt></ruby>が<ruby>風邪<rt>かぜ</rt></ruby>をひいて<ruby>咳<rt>せき</rt></ruby>が<ruby>出<rt>で</rt></ruby>ているとき、<ruby>日本<rt>にほん</rt></ruby>で<ruby>求<rt>もと</rt></ruby>められるマナーは？
+* A. <ruby>口<rt>くち</rt></ruby>を<ruby>手<rt>て</rt></ruby>で<ruby>覆<rt>おお</rt></ruby>わずに<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>でくしゃみをする
+* B. <ruby>周囲<rt>しゅうい</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>（<ruby>咳<rt>せき</rt></ruby>エチケット）としてマスクを<ruby>着<rt>つ</rt></ruby>ける
+* C. <ruby>走<rt>はし</rt></ruby>って<ruby>逃<rt>に</rt></ruby>げる
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-人にウイルスをうつさないための「咳エチケット」としてマスクを着用するのが社会的なマナーです。
+<ruby>人<rt>ひと</rt></ruby>にウイルスをうつさないための「<ruby>咳<rt>せき</rt></ruby>エチケット」としてマスクを<ruby>着用<rt>ちゃくよう</rt></ruby>するのが<ruby>社会<rt>しゃかい</rt></ruby><ruby>的<rt>てき</rt></ruby>なマナーです。
 </details>
 
 ---
 
-## 5. まとめと本日の重要キーワード
+## 5. まとめと<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>キーワード
 
-* 📌 **日本のマスクは「予防」だけでなく「メイク代わり」「心理的バリア」！**
-* 📌 **花粉症の人が多いため、1年中マスクが日常の風景！**
-* 📌 **着用は個人の自由！病院や咳が出るときだけカバンから出せばOK！**
+* 📌 **<ruby>日本<rt>にほん</rt></ruby>のマスクは「<ruby>予防<rt>よぼう</rt></ruby>」だけでなく「メイク<ruby>代<rt>か</rt></ruby>わり」「<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby>バリア」！**
+* 📌 **<ruby>花粉<rt>かふん</rt></ruby><ruby>症<rt>しょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いため、1<ruby>年<rt>ねん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>マスクが<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>風景<rt>ふうけい</rt></ruby>！**
+* 📌 **<ruby>着用<rt>ちゃくよう</rt></ruby>は<ruby>個人<rt>こじん</rt></ruby>の<ruby>自由<rt>じゆう</rt></ruby>！<ruby>病院<rt>びょういん</rt></ruby>や<ruby>咳<rt>せき</rt></ruby>が<ruby>出<rt>で</rt></ruby>るときだけカバンから<ruby>出<rt>だ</rt></ruby>せばOK！**
 
 <div class="c-vocab-box">
   <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>

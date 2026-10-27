@@ -14,16 +14,16 @@ tags:
   - JLPT N3
   - JLPT N2
 ---
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>準備<rt>じゅんび</rt></ruby>と<ruby>状態<rt>じょうたい</rt></ruby>の「**[『〜ておく』と『〜てある』の違い](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-20-japanese-comparing-teoku-vs-tearu-preparation-state-differences.md)**」を<ruby>解説<rt>かいせつ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>準備<rt>じゅんび</rt></ruby>と<ruby>状態<rt>じょうたい</rt></ruby>の「**[『〜ておく』と『〜てある』の<ruby>違<rt>ちが</rt></ruby>い](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-20-japanese-comparing-teoku-vs-tearu-preparation-state-differences.md)**」を<ruby>解説<rt>かいせつ</rt></ruby>しました。
 
-<ruby>今回<rt>こんかい</rt></ruby>は、日常会話やミステリー小説、ニュースで頻出する**「話し手の自信・確信度（パーセンテージ）」をコントロールする3大表現**を比べます！
+<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>やミステリー<ruby>小説<rt>しょうせつ</rt></ruby>、ニュースで<ruby>頻出<rt>ひんしゅつ</rt></ruby>する**「<ruby>話し手<rt>はなして</rt></ruby>の<ruby>自信<rt>じしん</rt></ruby>・<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>（パーセンテージ）」をコントロールする3<ruby>大<rt>だい</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>**を<ruby>比<rt>くら</rt></ruby>べます！
 
-> 🚗 **クルマ**：「先生！アニメを見ていたら、探偵が『犯人はあいつ**に違いない**！』って叫んで、そのあと別の人が『いや、彼が犯人の**はずがない**！』って言い合っていました。どっちもすごく強そうな言葉だけど、どれくらい自信があるんですか！？」
-> 👩‍🏫 **先生**：「素晴らしい質問ね！日本語の推量表現は、**【話し手がどれくらいその事実を確信しているか（0%〜100%）】**のメーターで見るとすごく分かりやすいのよ！」
+> 🚗 **クルマ**：「<ruby>先生<rt>せんせい</rt></ruby>！アニメを<ruby>見<rt>み</rt></ruby>ていたら、<ruby>探偵<rt>たんてい</rt></ruby>が『<ruby>犯人<rt>はんにん</rt></ruby>はあいつ**に<ruby>違<rt>ちが</rt></ruby>いない**！』って<ruby>叫<rt>さけ</rt></ruby>んで、そのあと<ruby>別<rt>べつ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が『いや、<ruby>彼<rt>かれ</rt></ruby>が<ruby>犯人<rt>はんにん</rt></ruby>の**はずがない**！』って<ruby>言い合<rt>いいあ</rt></ruby>っていました。どっちもすごく<ruby>強<rt>つよ</rt></ruby>そうな<ruby>言葉<rt>ことば</rt></ruby>だけど、どれくらい<ruby>自信<rt>じしん</rt></ruby>があるんですか！？」
+> 👩‍🏫 **<ruby>先生<rt>せんせい</rt></ruby>**：「<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>質問<rt>しつもん</rt></ruby>ね！<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>推量<rt>すいりょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>は、**【<ruby>話し手<rt>はなして</rt></ruby>がどれくらいその<ruby>事実<rt>じじつ</rt></ruby>を<ruby>確信<rt>かくしん</rt></ruby>しているか（0%〜100%）】**のメーターで<ruby>見<rt>み</rt></ruby>るとすごく<ruby>分<rt>わ</rt></ruby>かりやすいのよ！」
 
 ---
 
-## 1. ひと目でわかる！確信度パーセンテージ・メーター
+## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>パーセンテージ・メーター
 
 ```
 【確信度 99%：直感・強い確信】
@@ -49,60 +49,60 @@ tags:
 
 ---
 
-## 2. ニュアンスの決定的な使い分け
+## 2. ニュアンスの<ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>使い分<rt>つかいわ</rt></ruby>け
 
-### ①「〜かもしれない」（会話の縮約形：〜かも）
-日常会話では「明日は雨かも」「行けないかも」と**「かも」だけで使うことが非常に多い**です。
-断定を避けて責任を逃れるための、日本人が最も愛する「ぼかし表現」の代表格です。
+### ①「〜かもしれない」（<ruby>会話<rt>かいわ</rt></ruby>の<ruby>縮<rt>ちぢみ</rt></ruby><ruby>約<rt>やく</rt></ruby><ruby>形<rt>かたち</rt></ruby>：〜かも）
+<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>では「<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>かも」「<ruby>行<rt>い</rt></ruby>けないかも」と**「かも」だけで<ruby>使<rt>つか</rt></ruby>うことが<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>多<rt>おお</rt></ruby>い**です。
+<ruby>断定<rt>だんてい</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けて<ruby>責任<rt>せきにん</rt></ruby>を<ruby>逃<rt>のが</rt></ruby>れるための、<ruby>日本人<rt>にっぽんじん</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>愛<rt>あい</rt></ruby>する「ぼかし<ruby>表現<rt>ひょうげん</rt></ruby>」の<ruby>代表<rt>だいひょう</rt></ruby><ruby>格<rt>かく</rt></ruby>です。
 
-### ②「〜に違いない」（主観的な思い込み）
-客観的なデータというよりも、**話し手の強い直感や思い込み**に基づきます。
-* 「あれだけ行列ができているんだから、美味しいに違いない！」
-※推測なので、外れるリスクもあります。
+### ②「〜に<ruby>違<rt>ちが</rt></ruby>いない」（<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>思い込<rt>おもいこ</rt></ruby>み）
+<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>なデータというよりも、**<ruby>話し手<rt>はなして</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>直感<rt>ちょっかん</rt></ruby>や<ruby>思い込<rt>おもいこ</rt></ruby>み**に<ruby>基<rt>もと</rt></ruby>づきます。
+* 「あれだけ<ruby>行列<rt>ぎょうれつ</rt></ruby>ができているんだから、<ruby>美味<rt>おい</rt></ruby>しいに<ruby>違<rt>ちが</rt></ruby>いない！」
+※<ruby>推測<rt>すいそく</rt></ruby>なので、<ruby>外<rt>はず</rt></ruby>れるリスクもあります。
 
-### ③「〜はずがない」（論理的な否定）
-「〜はずだ」の否定形です。過去の事実やその人の性格、常識から考えて「絶対にあり得ない」と強く否定するときに使います。
+### ③「〜はずがない」（<ruby>論理<rt>ろんり</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>否定<rt>ひてい</rt></ruby>）
+「〜はずだ」の<ruby>否定<rt>ひてい</rt></ruby><ruby>形<rt>がた</rt></ruby>です。<ruby>過去<rt>かこ</rt></ruby>の<ruby>事実<rt>じじつ</rt></ruby>やその<ruby>人<rt>ひと</rt></ruby>の<ruby>性格<rt>せいかく</rt></ruby>、<ruby>常識<rt>じょうしき</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>えて「<ruby>絶対<rt>ぜったい</rt></ruby>にあり<ruby>得<rt>え</rt></ruby>ない」と<ruby>強<rt>つよ</rt></ruby>く<ruby>否定<rt>ひてい</rt></ruby>するときに<ruby>使<rt>つか</rt></ruby>います。
 
 ---
 
-## 3. 会話で差がつく！例文比較
+## 3. <ruby>会話<rt>かいわ</rt></ruby>で<ruby>差<rt>さ</rt></ruby>がつく！<ruby>例文<rt>れいぶん</rt></ruby><ruby>比較<rt>ひかく</rt></ruby>
 
-| シチュエーション | 表現 | 日本語のニュアンス |
+| シチュエーション |<ruby>表現<rt>ひょうげん</rt></ruby>|<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>のニュアンス|
 | :--- | :--- | :--- |
-| カギが見当たらないとき | カバンの中にある**かもしれない** | あるかもしれないしないかもしれない（50%） |
-| カギが見当たらないとき | カバンの中にある**はずだ** | 家を出るとき確実に入れた記憶がある（80%） |
-| カギが見当たらないとき | カバンの中にある**に違いない** | 絶対そこに入れたと直感で強く信じている（95%） |
-| カギが見当たらないとき | 泥棒に盗まれた**はずがない** | ずっと肌身離さず持っていたから絶対あり得ない（0%） |
+|カギが<ruby>見当<rt>みあ</rt></ruby>たらないとき|カバンの<ruby>中<rt>なか</rt></ruby>にある**かもしれない**| あるかもしれないしないかもしれない（50%） |
+|カギが<ruby>見当<rt>みあ</rt></ruby>たらないとき|カバンの<ruby>中<rt>なか</rt></ruby>にある**はずだ**|<ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>るとき<ruby>確実<rt>かくじつ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れた<ruby>記憶<rt>きおく</rt></ruby>がある（80%）|
+|カギが<ruby>見当<rt>みあ</rt></ruby>たらないとき|カバンの<ruby>中<rt>なか</rt></ruby>にある**に<ruby>違<rt>ちが</rt></ruby>いない**|<ruby>絶対<rt>ぜったい</rt></ruby>そこに<ruby>入<rt>い</rt></ruby>れたと<ruby>直感<rt>ちょっかん</rt></ruby>で<ruby>強<rt>つよ</rt></ruby>く<ruby>信<rt>しん</rt></ruby>じている（95%）|
+|カギが<ruby>見当<rt>みあ</rt></ruby>たらないとき|<ruby>泥棒<rt>どろぼう</rt></ruby>に<ruby>盗<rt>ぬす</rt></ruby>まれた**はずがない**|ずっと<ruby>肌身<rt>はだみ</rt></ruby><ruby>離<rt>はな</rt></ruby>さず<ruby>持<rt>も</rt></ruby>っていたから<ruby>絶対<rt>ぜったい</rt></ruby>あり<ruby>得<rt>え</rt></ruby>ない（0%）|
 
 ---
 
-## 4. 理解度チェック！クイズ5问
+## 4. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！クイズ5<ruby>问<rt>*</rt></ruby>
 
-### Q1. 「空が真っ暗になってきた。今夜は雨が降る（　　）。」確信度50%で言うなら？
+### Q1. 「<ruby>空<rt>そら</rt></ruby>が<ruby>真っ暗<rt>まっくら</rt></ruby>になってきた。<ruby>今夜<rt>こんや</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る（　　）。」<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>50%で<ruby>言<rt>い</rt></ruby>うなら？
 * A. かもしれない
-* B. に違いない
+* B. に<ruby>違<rt>ちが</rt></ruby>いない
 * C. はずがない
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：A**
-五分五分の可能性を言うときは「降るかもしれない」を使います。
+<ruby>五分五分<rt>ごぶごぶ</rt></ruby>の<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>言<rt>い</rt></ruby>うときは「<ruby>降<rt>ふ</rt></ruby>るかもしれない」を<ruby>使<rt>つか</rt></ruby>います。
 </details>
 
-### Q2. 毎日1円も無駄遣いせず貯金している山田さん。彼が借金する（　　）！
+### Q2. <ruby>毎日<rt>まいにち</rt></ruby>1<ruby>円<rt>えん</rt></ruby>も<ruby>無駄遣<rt>むだづか</rt></ruby>いせず<ruby>貯金<rt>ちょきん</rt></ruby>している<ruby>山田<rt>やまだ</rt></ruby>さん。<ruby>彼<rt>かれ</rt></ruby>が<ruby>借金<rt>しゃっきん</rt></ruby>する（　　）！
 * A. かもしれない
-* B. に違いない
+* B. に<ruby>違<rt>ちが</rt></ruby>いない
 * C. はずがない
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：C**
-その人の性格やこれまでの実績から考えて「絶対にあり得ない（0%）」と否定するので「はずがない」が正解です。
+その<ruby>人<rt>ひと</rt></ruby>の<ruby>性格<rt>せいかく</rt></ruby>やこれまでの<ruby>実績<rt>じっせき</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>えて「<ruby>絶対<rt>ぜったい</rt></ruby>にあり<ruby>得<rt>え</rt></ruby>ない（0%）」と<ruby>否定<rt>ひてい</rt></ruby>するので「はずがない」が<ruby>正解<rt>せいかい</rt></ruby>です。
 </details>
 
-### Q3. 「〜かもしれない」を日常会話でカジュアルに言うときの短縮形は？
+### Q3. 「〜かもしれない」を<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>でカジュアルに<ruby>言<rt>い</rt></ruby>うときの<ruby>短縮<rt>たんしゅく</rt></ruby><ruby>形<rt>がた</rt></ruby>は？
 * A. 〜かも
 * B. 〜しれ
 * C. 〜ない
@@ -111,40 +111,40 @@ tags:
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：A**
-「そうかも」「行くかも」「美味しいかも」のように「〜かも」と短縮して頻繁に使われます。
+「そうかも」「<ruby>行<rt>い</rt></ruby>くかも」「<ruby>美味<rt>おい</rt></ruby>しいかも」のように「〜かも」と<ruby>短縮<rt>たんしゅく</rt></ruby>して<ruby>頻繁<rt>ひんぱん</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われます。
 </details>
 
-### Q4. 「に違いない」の「違い」とは本来どういう意味？
-* A. 間違い・相違（そうい）
-* B. 変化
-* C. 速度
+### Q4. 「に<ruby>違<rt>ちが</rt></ruby>いない」の「<ruby>違<rt>ちが</rt></ruby>い」とは<ruby>本来<rt>ほんらい</rt></ruby>どういう<ruby>意味<rt>いみ</rt></ruby>？
+* A. <ruby>間違<rt>まちが</rt></ruby>い・<ruby>相違<rt>そうい</rt></ruby>（そうい）
+* B. <ruby>変化<rt>へんか</rt></ruby>
+* C. <ruby>速度<rt>そくど</rt></ruby>
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：A**
-「間違いがない（それに決まっている）」という意味から派生した強い確信表現です。
+「<ruby>間違<rt>まちが</rt></ruby>いがない（それに<ruby>決<rt>き</rt></ruby>まっている）」という<ruby>意味<rt>いみ</rt></ruby>から<ruby>派生<rt>はせい</rt></ruby>した<ruby>強<rt>つよ</rt></ruby>い<ruby>確信<rt>かくしん</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。
 </details>
 
-### Q5. ビジネスメールで「納期に間に合わない（　　）」と恐る恐る伝えるなら？
-* A. 可能性がございます（間に合わないかもしれません）
-* B. に違いありません
+### Q5. ビジネスメールで「<ruby>納期<rt>のうき</rt></ruby>に<ruby>間に合<rt>まにあ</rt></ruby>わない（　　）」と<ruby>恐る恐<rt>おそるおそ</rt></ruby>る<ruby>伝<rt>つた</rt></ruby>えるなら？
+* A. <ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>がございます（<ruby>間に合<rt>まにあ</rt></ruby>わないかもしれません）
+* B. に<ruby>違<rt>ちが</rt></ruby>いありません
 * C. はずがございません
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：A**
-リスクを伝えるときは柔らかく「間に合わない可能性がございます（〜かもしれません）」と伝えるのがビジネスマナーです。
+リスクを<ruby>伝<rt>つた</rt></ruby>えるときは<ruby>柔<rt>やわ</rt></ruby>らかく「<ruby>間に合<rt>まにあ</rt></ruby>わない<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>がございます（〜かもしれません）」と<ruby>伝<rt>つた</rt></ruby>えるのがビジネスマナーです。
 </details>
 
 ---
 
-## 5. まとめと本日の重要キーワード
+## 5. まとめと<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>キーワード
 
-* 📌 **「かもしれない」＝ 50%（会話では『〜かも』）！**
-* 📌 **「に違いない」＝ 99%（強い直感と自信）！**
-* 📌 **「はずがない」＝ 0%（常識や理由に基づく絶対否定）！**
+* 📌 **「かもしれない」＝ 50%（<ruby>会話<rt>かいわ</rt></ruby>では『〜かも』）！**
+* 📌 **「に<ruby>違<rt>ちが</rt></ruby>いない」＝ 99%（<ruby>強<rt>つよ</rt></ruby>い<ruby>直感<rt>ちょっかん</rt></ruby>と<ruby>自信<rt>じしん</rt></ruby>）！**
+* 📌 **「はずがない」＝ 0%（<ruby>常識<rt>じょうしき</rt></ruby>や<ruby>理由<rt>りゆう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>絶対<rt>ぜったい</rt></ruby><ruby>否定<rt>ひてい</rt></ruby>）！**
 
 <div class="c-vocab-box">
   <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>

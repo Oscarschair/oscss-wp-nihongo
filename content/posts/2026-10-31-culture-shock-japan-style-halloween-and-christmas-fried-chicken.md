@@ -14,19 +14,19 @@ tags:
   - ハロウィン
   - JLPT N3
 ---
-<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックノートでは、猛暑でも続く「**[『マスク文化』と顔のパンツの深層心理](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-27-culture-shock-why-japanese-wear-masks-even-in-summer-social-mask.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックノートでは、<ruby>猛暑<rt>もうしょ</rt></ruby>でも<ruby>続<rt>つづ</rt></ruby>く「**[『マスク<ruby>文化<rt>ぶんか</rt></ruby>』と<ruby>顔<rt>かお</rt></ruby>のパンツの<ruby>深層<rt>しんそう</rt></ruby><ruby>心理<rt>しんり</rt></ruby>](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-10-27-culture-shock-why-japanese-wear-masks-even-in-summer-social-mask.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
-<ruby>今回<rt>こんかい</rt></ruby>は、外国人が10月と12月に日本にいて**「えっ、私の知ってるイベントと全然違う！？」**と驚く日本の行事文化と、**「絶対に知っておくべき厳格なマナー」**を取り上げます！
+<ruby>今回<rt>こんかい</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が10<ruby>月<rt>つき</rt></ruby>と12<ruby>月<rt>つき</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby>にいて**「えっ、<ruby>私<rt>わたし</rt></ruby>の<ruby>知<rt>し</rt></ruby>ってるイベントと<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>違<rt>ちが</rt></ruby>う！？」**と<ruby>驚<rt>おどろ</rt></ruby>く<ruby>日本<rt>にほん</rt></ruby>の<ruby>行事<rt>ぎょうじ</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>と、**「<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>知<rt>し</rt></ruby>っておくべき<ruby>厳格<rt>げんかく</rt></ruby>なマナー」**を<ruby>取り上<rt>とりあ</rt></ruby>げます！
 
-> 🚗 **クルマ**：「先生！今日10月31日はハロウィンですけど、友達が『渋谷に仮装して行って路上でお酒飲もうぜ！』って誘ってきたんです。海外のお祭りみたいに大騒ぎしていいんですよね！？」
-> 👩‍🏫 **先生**：「クルマくん、ストップ！絶対にダメよ！近年の渋谷は『ハロウィーン目的で渋谷に来ないでください』と区長が公式発表していて、**路上飲酒禁止条例や厳重な警察の警戒態勢**が敷かれているの。『外国人だから知らなかった』『お祭りだから羽目を外してもいい』は一切通用しないのよ！」
-> 🚗 **クルマ**：「ええっ！？ そうなんですか！？ 昔のネット動画を見て勘違いしていました……！」
+> 🚗 **クルマ**：「<ruby>先生<rt>せんせい</rt></ruby>！<ruby>今日<rt>きょう</rt></ruby>10<ruby>月<rt>つき</rt></ruby>31<ruby>日<rt>にち</rt></ruby>はハロウィンですけど、<ruby>友達<rt>ともだち</rt></ruby>が『<ruby>渋谷<rt>しぶや</rt></ruby>に<ruby>仮装<rt>かそう</rt></ruby>して<ruby>行<rt>い</rt></ruby>って<ruby>路上<rt>ろじょう</rt></ruby>でお<ruby>酒<rt>さけ</rt></ruby><ruby>飲<rt>の</rt></ruby>もうぜ！』って<ruby>誘<rt>さそ</rt></ruby>ってきたんです。<ruby>海外<rt>かいがい</rt></ruby>のお<ruby>祭<rt>まつ</rt></ruby>りみたいに<ruby>大騒<rt>おおさわ</rt></ruby>ぎしていいんですよね！？」
+> 👩‍🏫 **<ruby>先生<rt>せんせい</rt></ruby>**：「クルマくん、ストップ！<ruby>絶対<rt>ぜったい</rt></ruby>にダメよ！<ruby>近年<rt>きんねん</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>は『ハロウィーン<ruby>目的<rt>もくてき</rt></ruby>で<ruby>渋谷<rt>しぶや</rt></ruby>に<ruby>来<rt>こ</rt></ruby>ないでください』と<ruby>区長<rt>くちょう</rt></ruby>が<ruby>公式<rt>こうしき</rt></ruby><ruby>発表<rt>はっぴょう</rt></ruby>していて、**<ruby>路上<rt>ろじょう</rt></ruby><ruby>飲酒<rt>いんしゅ</rt></ruby><ruby>禁止<rt>きんし</rt></ruby><ruby>条例<rt>じょうれい</rt></ruby>や<ruby>厳重<rt>げんじゅう</rt></ruby>な<ruby>警察<rt>けいさつ</rt></ruby>の<ruby>警戒<rt>けいかい</rt></ruby><ruby>態勢<rt>たいせい</rt></ruby>**が<ruby>敷<rt>し</rt></ruby>かれているの。『<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>だから<ruby>知<rt>し</rt></ruby>らなかった』『お<ruby>祭<rt>まつ</rt></ruby>りだから<ruby>羽目<rt>はめ</rt></ruby>を<ruby>外<rt>はず</rt></ruby>してもいい』は<ruby>一切<rt>いっさい</rt></ruby><ruby>通用<rt>つうよう</rt></ruby>しないのよ！」
+> 🚗 **クルマ**：「ええっ！？ そうなんですか！？ <ruby>昔<rt>むかし</rt></ruby>のネット<ruby>動画<rt>どうが</rt></ruby>を<ruby>見<rt>み</rt></ruby>て<ruby>勘違<rt>かんちが</rt></ruby>いしていました……！」
 
 ---
 
-## 1. ひと目でわかる！本場 VS 日本流アレンジの対比図
+## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>本場<rt>ほんば</rt></ruby> VS <ruby>日本<rt>にほん</rt></ruby><ruby>流<rt>りゅう</rt></ruby>アレンジの<ruby>対比<rt>たいひ</rt></ruby><ruby>図<rt>ず</rt></ruby>
 
-日本は海外の文化を柔軟に取り入れるのが得意ですが、その楽しみ方は国によって大きく異なります。
+<ruby>日本<rt>にほん</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>取り入<rt>とりい</rt></ruby>れるのが<ruby>得意<rt>とくい</rt></ruby>ですが、その<ruby>楽<rt>たの</rt></ruby>しみ<ruby>方<rt>かた</rt></ruby>は<ruby>国<rt>くに</rt></ruby>によって<ruby>大<rt>おお</rt></ruby>きく<ruby>異<rt>こと</rt></ruby>なります。
 
 ```
 【ハロウィン（10月31日）】
@@ -44,20 +44,20 @@ tags:
 
 ---
 
-## 2. なぜクリスマスに「ケンタッキー」を食べるのか？
+## 2. なぜクリスマスに「ケンタッキー」を<ruby>食<rt>た</rt></ruby>べるのか？
 
-海外の人が最も驚くのが、「日本のクリスマス＝KFC（フライドチキン）」という方程式です。
+<ruby>海外<rt>かいがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>驚<rt>おどろ</rt></ruby>くのが、「<ruby>日本<rt>にほん</rt></ruby>のクリスマス＝KFC（フライドチキン）」という<ruby>方程式<rt>ほうていしき</rt></ruby>です。
 
-理由は、1974年に始まった**「クリスマスにはケンタッキー」という歴史的広告キャンペーン**の大成功にあります。
-当時、日本には七面鳥（ターキー）を食べる習慣も、丸ごと焼ける大きなオーブンも家庭にありませんでした。そこで「七面鳥の代わりにチキンを食べよう！」と提案したところ、国民的ブームとなり、今やクリスマスには予約しないと買えないほどの定番になったのです。さらに、赤と白のサンタカラーを模した「イチゴのショートケーキ」を囲むのも日本ならではの温かい食文化です。
+<ruby>理由<rt>りゆう</rt></ruby>は、1974<ruby>年<rt>ねん</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まった**「クリスマスにはケンタッキー」という<ruby>歴史<rt>れきし</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>広告<rt>こうこく</rt></ruby>キャンペーン**の<ruby>大<rt>だい</rt></ruby><ruby>成功<rt>せいこう</rt></ruby>にあります。
+<ruby>当時<rt>とうじ</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>には<ruby>七面鳥<rt>しちめんちょう</rt></ruby>（ターキー）を<ruby>食<rt>た</rt></ruby>べる<ruby>習慣<rt>しゅうかん</rt></ruby>も、<ruby>丸<rt>まる</rt></ruby>ごと<ruby>焼<rt>や</rt></ruby>ける<ruby>大<rt>おお</rt></ruby>きなオーブンも<ruby>家庭<rt>かてい</rt></ruby>にありませんでした。そこで「<ruby>七面鳥<rt>しちめんちょう</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりにチキンを<ruby>食<rt>た</rt></ruby>べよう！」と<ruby>提案<rt>ていあん</rt></ruby>したところ、<ruby>国民<rt>こくみん</rt></ruby><ruby>的<rt>てき</rt></ruby>ブームとなり、<ruby>今<rt>いま</rt></ruby>やクリスマスには<ruby>予約<rt>よやく</rt></ruby>しないと<ruby>買<rt>か</rt></ruby>えないほどの<ruby>定番<rt>ていばん</rt></ruby>になったのです。さらに、<ruby>赤<rt>あか</rt></ruby>と<ruby>白<rt>しろ</rt></ruby>のサンタカラーを<ruby>模<rt>も</rt></ruby>した「イチゴのショートケーキ」を<ruby>囲<rt>かこ</rt></ruby>むのも<ruby>日本<rt>にほん</rt></ruby>ならではの<ruby>温<rt>あたた</rt></ruby>かい<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>です。
 
 ---
 
-## 3. 【超重要】外国人が絶対に調子に乗ってはいけない「渋谷ハロウィン」の現実
+## 3. 【<ruby>超<rt>ちょう</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby>】<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>調子<rt>ちょうし</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ってはいけない「<ruby>渋谷<rt>しぶや</rt></ruby>ハロウィン」の<ruby>現実<rt>げんじつ</rt></ruby>
 
-数年前まで、渋谷のスクランブル交差点周辺には大勢の人が集まり、仮装して騒ぐ様子が世界中で報道されました。しかし、その結果生じたのは**「大量のゴミ放置」「器物破損」「暴行」「痴漢」「住民への騒音被害」**という深刻な社会問題でした。
+<ruby>数<rt>すう</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>まで、<ruby>渋谷<rt>しぶや</rt></ruby>のスクランブル<ruby>交差点<rt>こうさてん</rt></ruby><ruby>周辺<rt>しゅうへん</rt></ruby>には<ruby>大勢<rt>たいせい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まり、<ruby>仮装<rt>かそう</rt></ruby>して<ruby>騒<rt>さわ</rt></ruby>ぐ<ruby>様子<rt>ようす</rt></ruby>が<ruby>世界中<rt>せかいじゅう</rt></ruby>で<ruby>報道<rt>ほうどう</rt></ruby>されました。しかし、その<ruby>結果<rt>けっか</rt></ruby><ruby>生<rt>しょう</rt></ruby>じたのは**「<ruby>大量<rt>たいりょう</rt></ruby>のゴミ<ruby>放置<rt>ほうち</rt></ruby>」「<ruby>器物<rt>きぶつ</rt></ruby><ruby>破損<rt>はそん</rt></ruby>」「<ruby>暴行<rt>ぼうこう</rt></ruby>」「<ruby>痴漢<rt>ちかん</rt></ruby>」「<ruby>住民<rt>じゅうみん</rt></ruby>への<ruby>騒音<rt>そうおん</rt></ruby><ruby>被害<rt>ひがい</rt></ruby>」**という<ruby>深刻<rt>しんこく</rt></ruby>な<ruby>社会<rt>しゃかい</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>でした。
 
-現在、行政と地域住民は以下のような**極めて厳しい対策**を行っています。
+<ruby>現在<rt>げんざい</rt></ruby>、<ruby>行政<rt>ぎょうせい</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby><ruby>住民<rt>じゅうみん</rt></ruby>は<ruby>以下<rt>いか</rt></ruby>のような**<ruby>極<rt>きわ</rt></ruby>めて<ruby>厳<rt>きび</rt></ruby>しい<ruby>対策<rt>たいさく</rt></ruby>**を<ruby>行<rt>おこな</rt></ruby>っています。
 
 ```
 【近年の渋谷ハロウィン厳戒ルール】
@@ -67,82 +67,82 @@ tags:
   4. 近隣のコンビニや量販店では、酒類の販売自粛要請が徹底されている！
 ```
 
-### 観光客・外国人だからといって甘えは通用しない！
-「旅の恥はかき捨て」「外国から来たお祭り気分だから」と調子に乗って、道路の真ん中で騒いだり、お酒を飲んで大声を上げたり、ゴミを散乱させたりすると、**警察による職務質問・連行・罰金、最悪の場合は逮捕やビザ取り消し**にもつながります。
+### <ruby>観光<rt>かんこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>・<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>だからといって<ruby>甘<rt>あま</rt></ruby>えは<ruby>通用<rt>つうよう</rt></ruby>しない！
+「<ruby>旅<rt>たび</rt></ruby>の<ruby>恥<rt>はじ</rt></ruby>はかき<ruby>捨<rt>す</rt></ruby>て」「<ruby>外国<rt>がいこく</rt></ruby>から<ruby>来<rt>き</rt></ruby>たお<ruby>祭<rt>まつ</rt></ruby>り<ruby>気分<rt>きぶん</rt></ruby>だから」と<ruby>調子<rt>ちょうし</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って、<ruby>道路<rt>どうろ</rt></ruby>の<ruby>真ん中<rt>まんなか</rt></ruby>で<ruby>騒<rt>さわ</rt></ruby>いだり、お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>大声<rt>おおごえ</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げたり、ゴミを<ruby>散乱<rt>さんらん</rt></ruby>させたりすると、**<ruby>警察<rt>けいさつ</rt></ruby>による<ruby>職務<rt>しょくむ</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>・<ruby>連行<rt>れんこう</rt></ruby>・<ruby>罰金<rt>ばっきん</rt></ruby>、<ruby>最悪<rt>さいあく</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>は<ruby>逮捕<rt>たいほ</rt></ruby>やビザ<ruby>取り消<rt>とりけ</rt></ruby>し**にもつながります。
 
-日本の社会秩序を守り、周囲の住民に迷惑をかけないのが「スマートな滞在者」の絶対条件です。ハロウィンを楽しむなら、ルールが守られたクラブイベントやテーマパーク（USJやディズニーなど）の公式イベントを選びましょう！
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>社会<rt>しゃかい</rt></ruby><ruby>秩序<rt>ちつじょ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>り、<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>住民<rt>じゅうみん</rt></ruby>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけないのが「スマートな<ruby>滞在<rt>たいざい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>」の<ruby>絶対<rt>ぜったい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>です。ハロウィンを<ruby>楽<rt>たの</rt></ruby>しむなら、ルールが<ruby>守<rt>まも</rt></ruby>られたクラブイベントやテーマパーク（USJやディズニーなど）の<ruby>公式<rt>こうしき</rt></ruby>イベントを<ruby>選<rt>えら</rt></ruby>びましょう！
 
 ---
 
-## 4. 理解度チェック！クイズ5問
+## 4. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！クイズ5<ruby>問<rt>もん</rt></ruby>
 
-### Q1. 近年の東京・渋谷におけるハロウィン期間中のルールとして正しいものは？
-* A. 路上で自由にお酒を飲んで騒いでよい
-* B. 条例により路上飲酒が禁止され、警察や警備員による厳格な警戒が行われている
-* C. 区長がビールを無料で配ってくれる
+### Q1. <ruby>近年<rt>きんねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>・<ruby>渋谷<rt>しぶや</rt></ruby>におけるハロウィン<ruby>期間<rt>きかん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>のルールとして<ruby>正<rt>ただ</rt></ruby>しいものは？
+* A. <ruby>路上<rt>ろじょう</rt></ruby>で<ruby>自由<rt>じゆう</rt></ruby>にお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>騒<rt>さわ</rt></ruby>いでよい
+* B. <ruby>条例<rt>じょうれい</rt></ruby>により<ruby>路上<rt>ろじょう</rt></ruby><ruby>飲酒<rt>いんしゅ</rt></ruby>が<ruby>禁止<rt>きんし</rt></ruby>され、<ruby>警察<rt>けいさつ</rt></ruby>や<ruby>警備<rt>けいび</rt></ruby><ruby>員<rt>いん</rt></ruby>による<ruby>厳格<rt>げんかく</rt></ruby>な<ruby>警戒<rt>けいかい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>われている
+* C. <ruby>区長<rt>くちょう</rt></ruby>がビールを<ruby>無料<rt>むりょう</rt></ruby>で<ruby>配<rt>くば</rt></ruby>ってくれる
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-ゴミ問題や治安悪化を防ぐため、路上飲酒の禁止やハチ公像の封鎖など極めて厳しい規制が敷かれています。
+ゴミ<ruby>問題<rt>もんだい</rt></ruby>や<ruby>治安<rt>ちあん</rt></ruby><ruby>悪化<rt>あっか</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐため、<ruby>路上<rt>ろじょう</rt></ruby><ruby>飲酒<rt>いんしゅ</rt></ruby>の<ruby>禁止<rt>きんし</rt></ruby>や<ruby>ハチ公<rt>はちこう</rt></ruby><ruby>像<rt>ぞう</rt></ruby>の<ruby>封鎖<rt>ふうさ</rt></ruby>など<ruby>極<rt>きわ</rt></ruby>めて<ruby>厳<rt>きび</rt></ruby>しい<ruby>規制<rt>きせい</rt></ruby>が<ruby>敷<rt>し</rt></ruby>かれています。
 </details>
 
-### Q2. 日本のクリスマスで定番となっている食べ物の組み合わせは？
+### Q2. <ruby>日本<rt>にほん</rt></ruby>のクリスマスで<ruby>定番<rt>ていばん</rt></ruby>となっている<ruby>食べ物<rt>たべもの</rt></ruby>の<ruby>組み合<rt>くみあ</rt></ruby>わせは？
 * A. フライドチキンとイチゴのショートケーキ
-* B. 七面鳥の丸焼きとシュトーレン
-* C. おせち料理とお雑煮
+* B. <ruby>七面鳥<rt>しちめんちょう</rt></ruby>の<ruby>丸焼<rt>まるや</rt></ruby>きとシュトーレン
+* C. おせち<ruby>料理<rt>りょうり</rt></ruby>とお<ruby>雑煮<rt>ぞうに</rt></ruby>
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：A**
-1970年代のキャンペーンをきっかけに、チキンとショートケーキを食べるスタイルが国民的に定着しました。
+1970<ruby>年代<rt>ねんだい</rt></ruby>のキャンペーンをきっかけに、チキンとショートケーキを<ruby>食<rt>た</rt></ruby>べるスタイルが<ruby>国民<rt>こくみん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>定着<rt>ていちゃく</rt></ruby>しました。
 </details>
 
-### Q3. 「羽目を外す（はめをはずす）」という慣用句の正しい意味は？
-* A. ズボンのボタンを外すこと
-* B. 調子に乗って度を越し、マナーやルールを破って騒ぎすぎること
-* C. メガネを掛け替えること
+### Q3. 「<ruby>羽目<rt>はめ</rt></ruby>を<ruby>外<rt>はず</rt></ruby>す（はめをはずす）」という<ruby>慣用<rt>かんよう</rt></ruby><ruby>句<rt>く</rt></ruby>の<ruby>正<rt>ただ</rt></ruby>しい<ruby>意味<rt>いみ</rt></ruby>は？
+* A. ズボンのボタンを<ruby>外<rt>はず</rt></ruby>すこと
+* B. <ruby>調子<rt>ちょうし</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>度<rt>ど</rt></ruby>を<ruby>越<rt>こ</rt></ruby>し、マナーやルールを<ruby>破<rt>やぶ</rt></ruby>って<ruby>騒<rt>さわ</rt></ruby>ぎすぎること
+* C. メガネを<ruby>掛<rt>か</rt></ruby>け<ruby>替<rt>か</rt></ruby>えること
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-お酒の席などで調子に乗って抑制が効かなくなることを「羽目を外す」と言い、戒めの対象になります。
+お<ruby>酒<rt>さけ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>などで<ruby>調子<rt>ちょうし</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>抑制<rt>よくせい</rt></ruby>が<ruby>効<rt>き</rt></ruby>かなくなることを「<ruby>羽目<rt>はめ</rt></ruby>を<ruby>外<rt>はず</rt></ruby>す」と<ruby>言<rt>い</rt></ruby>い、<ruby>戒<rt>いまし</rt></ruby>めの<ruby>対象<rt>たいしょう</rt></ruby>になります。
 </details>
 
-### Q4. 日本を訪れる外国人が守るべき公共マナーとして最も適切な姿勢は？
-* A. 「外国人だから特別扱いされて当然だ」と大声で騒ぐ
-* B. 「郷に入っては郷に従え」の精神で、地域のルールや近隣住民への配慮を守る
-* C. ゴミは道路に捨てて帰る
+### Q4. <ruby>日本<rt>にほん</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れる<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>守<rt>まも</rt></ruby>るべき<ruby>公共<rt>こうきょう</rt></ruby>マナーとして<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>は？
+* A. 「<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>だから<ruby>特別<rt>とくべつ</rt></ruby><ruby>扱<rt>あつか</rt></ruby>いされて<ruby>当然<rt>とうぜん</rt></ruby>だ」と<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>騒<rt>さわ</rt></ruby>ぐ
+* B. 「<ruby>郷<rt>さと</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っては<ruby>郷<rt>さと</rt></ruby>に<ruby>従<rt>したが</rt></ruby>え」の<ruby>精神<rt>せいしん</rt></ruby>で、<ruby>地域<rt>ちいき</rt></ruby>のルールや<ruby>近隣<rt>きんりん</rt></ruby><ruby>住民<rt>じゅうみん</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る
+* C. ゴミは<ruby>道路<rt>どうろ</rt></ruby>に<ruby>捨<rt>す</rt></ruby>てて<ruby>帰<rt>かえ</rt></ruby>る
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：B**
-滞在先のルールや静寂を守り、住民への敬意を払うことが最も歓迎される旅行者のマナーです。
+<ruby>滞在<rt>たいざい</rt></ruby><ruby>先<rt>さき</rt></ruby>のルールや<ruby>静寂<rt>せいじゃく</rt></ruby>を<ruby>守<rt>まも</rt></ruby>り、<ruby>住民<rt>じゅうみん</rt></ruby>への<ruby>敬意<rt>けいい</rt></ruby>を<ruby>払<rt>はら</rt></ruby>うことが<ruby>最<rt>もっと</rt></ruby>も<ruby>歓迎<rt>かんげい</rt></ruby>される<ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>のマナーです。
 </details>
 
-### Q5. 日本のバレンタインデーで、日頃の感謝や付き合いとして職場で配るチョコは？
-* A. 義理チョコ（ぎりちょこ）
-* B. 本命チョコ
-* C. 逆チョコ
+### Q5. <ruby>日本<rt>にほん</rt></ruby>のバレンタインデーで、<ruby>日頃<rt>ひごろ</rt></ruby>の<ruby>感謝<rt>かんしゃ</rt></ruby>や<ruby>付き合<rt>つきあ</rt></ruby>いとして<ruby>職場<rt>しょくば</rt></ruby>で<ruby>配<rt>くば</rt></ruby>るチョコは？
+* A. <ruby>義理<rt>ぎり</rt></ruby>チョコ（ぎりちょこ）
+* B. <ruby>本命<rt>ほんめい</rt></ruby>チョコ
+* C. <ruby>逆<rt>ぎゃく</rt></ruby>チョコ
 
 <details>
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 **<ruby>正解<rt>せいかい</rt></ruby>：A**
-恋愛感情ではなく、円滑な人間関係や感謝のために贈るチョコを「義理チョコ」と呼びます。
+<ruby>恋愛<rt>れんあい</rt></ruby><ruby>感情<rt>かんじょう</rt></ruby>ではなく、<ruby>円滑<rt>えんかつ</rt></ruby>な<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>や<ruby>感謝<rt>かんしゃ</rt></ruby>のために<ruby>贈<rt>おく</rt></ruby>るチョコを「<ruby>義理<rt>ぎり</rt></ruby>チョコ」と<ruby>呼<rt>よ</rt></ruby>びます。
 </details>
 
 ---
 
-## 5. まとめと本日の重要キーワード
+## 5. まとめと<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>キーワード
 
-* 📌 **日本のクリスマスは「チキン＆ショートケーキ」の楽しい食文化！**
-* 📌 **ハロウィンの渋谷は「路上飲酒禁止」！街中での乱痴気騒ぎは絶対にNG！**
-* 📌 **外国人だからと羽目を外さず、現地のルールを守るのが真の日本ファン！**
+* 📌 **<ruby>日本<rt>にほん</rt></ruby>のクリスマスは「チキン＆ショートケーキ」の<ruby>楽<rt>たの</rt></ruby>しい<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>！**
+* 📌 **ハロウィンの<ruby>渋谷<rt>しぶや</rt></ruby>は「<ruby>路上<rt>ろじょう</rt></ruby><ruby>飲酒<rt>いんしゅ</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>」！<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>での<ruby>乱痴気騒<rt>らんちきさわ</rt></ruby>ぎは<ruby>絶対<rt>ぜったい</rt></ruby>にNG！**
+* 📌 **<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>だからと<ruby>羽目<rt>はめ</rt></ruby>を<ruby>外<rt>はず</rt></ruby>さず、<ruby>現地<rt>げんち</rt></ruby>のルールを<ruby>守<rt>まも</rt></ruby>るのが<ruby>真<rt>しん</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>ファン！**
 
 <div class="c-vocab-box">
   <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>

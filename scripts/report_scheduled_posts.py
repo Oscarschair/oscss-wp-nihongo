@@ -7,11 +7,46 @@ import urllib.request
 import urllib.error
 import paramiko
 
-if sys.platform == 'win32':
-    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
-
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 os.chdir(PROJECT_ROOT)
+
+LOG_DIR = os.path.join(PROJECT_ROOT, "logs")
+os.makedirs(LOG_DIR, exist_ok=True)
+LOG_FILE = os.path.join(LOG_DIR, "scheduled_posts_report.log")
+
+class Logger:
+    def __init__(self, filename, stream):
+        self.terminal = stream
+        self.filename = filename
+
+    def write(self, message):
+        if self.terminal:
+            try:
+                self.terminal.write(message)
+            except Exception:
+                pass
+        try:
+            with open(self.filename, "a", encoding="utf-8") as f:
+                f.write(message)
+        except Exception:
+            pass
+
+    def flush(self):
+        if self.terminal:
+            try:
+                self.terminal.flush()
+            except Exception:
+                pass
+
+if sys.platform == 'win32' and sys.stdout:
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
+
+sys.stdout = Logger(LOG_FILE, sys.stdout)
+sys.stderr = Logger(LOG_FILE, sys.stderr)
+
 
 def load_env():
     """Load configuration from .env and .env.deploy"""
