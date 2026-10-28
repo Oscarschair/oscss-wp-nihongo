@@ -29,17 +29,17 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>取り入<rt>とりい</rt></ruby>れるのが<ruby>得意<rt>とくい</rt></ruby>ですが、その<ruby>楽<rt>たの</rt></ruby>しみ<ruby>方<rt>かた</rt></ruby>は<ruby>国<rt>くに</rt></ruby>によって<ruby>大<rt>おお</rt></ruby>きく<ruby>異<rt>こと</rt></ruby>なります。
 
 ```
-【ハロウィン（10月31日）】
-  ・本場（欧米）：子どもたちが仮装して近所の家を巡り、お菓子をもらう家庭的な伝統行事。
-  ・現在の日本  ：街中での過度な騒乱は厳しく制限！テーマパークや屋内イベントで楽しむのが新常識。
+【ハロウィン（10<ruby>月<rt>つき</rt></ruby>31<ruby>日<rt>にち</rt></ruby>）】
+  ・<ruby>本場<rt>ほんば</rt></ruby>（<ruby>欧米<rt>おうべい</rt></ruby>）：<ruby>子<rt>こ</rt></ruby>どもたちが<ruby>仮装<rt>かそう</rt></ruby>して<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>を<ruby>巡<rt>めぐ</rt></ruby>り、お<ruby>菓子<rt>かし</rt></ruby>をもらう<ruby>家庭<rt>かてい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>伝統<rt>でんとう</rt></ruby><ruby>行事<rt>ぎょうじ</rt></ruby>。
+  ・<ruby>現在<rt>げんざい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>  ：<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>での<ruby>過度<rt>かど</rt></ruby>な<ruby>騒乱<rt>そうらん</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しく<ruby>制限<rt>せいげん</rt></ruby>！テーマパークや<ruby>屋内<rt>おくない</rt></ruby>イベントで<ruby>楽<rt>たの</rt></ruby>しむのが<ruby>新<rt>しん</rt></ruby><ruby>常識<rt>じょうしき</rt></ruby>。
 
-【クリスマス（12月24日・25日）】
-  ・本場（欧米）：家族全員で教会へ行き、静かに七面鳥を食べて過ごす宗教的行事。
-  ・日本流      ：恋人や友人と過ごし、なぜかケンタッキーとショートケーキを食べる食のフェス！
+【クリスマス（12<ruby>月<rt>つき</rt></ruby>24<ruby>日<rt>にち</rt></ruby>・25<ruby>日<rt>にち</rt></ruby>）】
+  ・<ruby>本場<rt>ほんば</rt></ruby>（<ruby>欧米<rt>おうべい</rt></ruby>）：<ruby>家族<rt>かぞく</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>教会<rt>きょうかい</rt></ruby>へ<ruby>行<rt>い</rt></ruby>き、<ruby>静<rt>しず</rt></ruby>かに<ruby>七面鳥<rt>しちめんちょう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べて<ruby>過<rt>す</rt></ruby>ごす<ruby>宗教<rt>しゅうきょう</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>行事<rt>ぎょうじ</rt></ruby>。
+  ・<ruby>日本<rt>にほん</rt></ruby><ruby>流<rt>りゅう</rt></ruby>      ：<ruby>恋人<rt>こいびと</rt></ruby>や<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごし、なぜかケンタッキーとショートケーキを<ruby>食<rt>た</rt></ruby>べる<ruby>食<rt>しょく</rt></ruby>のフェス！
 
-【バレンタインデー（2月14日）】
-  ・本場（欧米）：男性から女性へ、花束やカードを贈って愛を伝える日。
-  ・日本流      ：女性から男性へチョコレートを贈る日（義理チョコ・友チョコ文化まで誕生）！
+【バレンタインデー（2<ruby>月<rt>つき</rt></ruby>14<ruby>日<rt>にち</rt></ruby>）】
+  ・<ruby>本場<rt>ほんば</rt></ruby>（<ruby>欧米<rt>おうべい</rt></ruby>）：<ruby>男性<rt>だんせい</rt></ruby>から<ruby>女性<rt>じょせい</rt></ruby>へ、<ruby>花束<rt>はなたば</rt></ruby>やカードを<ruby>贈<rt>おく</rt></ruby>って<ruby>愛<rt>あい</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>える<ruby>日<rt>ひ</rt></ruby>。
+  ・<ruby>日本<rt>にほん</rt></ruby><ruby>流<rt>りゅう</rt></ruby>      ：<ruby>女性<rt>じょせい</rt></ruby>から<ruby>男性<rt>だんせい</rt></ruby>へチョコレートを<ruby>贈<rt>おく</rt></ruby>る<ruby>日<rt>ひ</rt></ruby>（<ruby>義理<rt>ぎり</rt></ruby>チョコ・<ruby>友<rt>とも</rt></ruby>チョコ<ruby>文化<rt>ぶんか</rt></ruby>まで<ruby>誕生<rt>たんじょう</rt></ruby>）！
 ```
 
 ---
@@ -60,11 +60,11 @@ tags:
 <ruby>現在<rt>げんざい</rt></ruby>、<ruby>行政<rt>ぎょうせい</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby><ruby>住民<rt>じゅうみん</rt></ruby>は<ruby>以下<rt>いか</rt></ruby>のような**<ruby>極<rt>きわ</rt></ruby>めて<ruby>厳<rt>きび</rt></ruby>しい<ruby>対策<rt>たいさく</rt></ruby>**を<ruby>行<rt>おこな</rt></ruby>っています。
 
 ```
-【近年の渋谷ハロウィン厳戒ルール】
-  1. 渋谷駅周辺の「路上飲酒」は条例により夜間完全禁止（通年化）！
-  2. ハチ公像の周囲は完全に仮囲い（フェンス）で封鎖され、待ち合わせも不可！
-  3. DJポリスや機動隊が大量出動し、立ち止まりを一切許さない厳格な誘導！
-  4. 近隣のコンビニや量販店では、酒類の販売自粛要請が徹底されている！
+【<ruby>近年<rt>きんねん</rt></ruby>の<ruby>渋谷<rt>しぶや</rt></ruby>ハロウィン<ruby>厳戒<rt>げんかい</rt></ruby>ルール】
+  1. <ruby>渋谷<rt>しぶや</rt></ruby><ruby>駅<rt>えき</rt></ruby><ruby>周辺<rt>しゅうへん</rt></ruby>の「<ruby>路上<rt>ろじょう</rt></ruby><ruby>飲酒<rt>いんしゅ</rt></ruby>」は<ruby>条例<rt>じょうれい</rt></ruby>により<ruby>夜間<rt>やかん</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>禁止<rt>きんし</rt></ruby>（<ruby>通年<rt>つうねん</rt></ruby><ruby>化<rt>か</rt></ruby>）！
+  2. <ruby>ハチ公<rt>はちこう</rt></ruby><ruby>像<rt>ぞう</rt></ruby>の<ruby>周囲<rt>しゅうい</rt></ruby>は<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>仮<rt>かり</rt></ruby><ruby>囲<rt>かこ</rt></ruby>い（フェンス）で<ruby>封鎖<rt>ふうさ</rt></ruby>され、<ruby>待ち合<rt>まちあ</rt></ruby>わせも<ruby>不可<rt>ふか</rt></ruby>！
+  3. DJポリスや<ruby>機動<rt>きどう</rt></ruby><ruby>隊<rt>たい</rt></ruby>が<ruby>大量<rt>たいりょう</rt></ruby><ruby>出動<rt>しゅつどう</rt></ruby>し、<ruby>立ち止<rt>たちど</rt></ruby>まりを<ruby>一切<rt>いっさい</rt></ruby><ruby>許<rt>ゆる</rt></ruby>さない<ruby>厳格<rt>げんかく</rt></ruby>な<ruby>誘導<rt>ゆうどう</rt></ruby>！
+  4. <ruby>近隣<rt>きんりん</rt></ruby>のコンビニや<ruby>量販<rt>りょうはん</rt></ruby><ruby>店<rt>てん</rt></ruby>では、<ruby>酒類<rt>しゅるい</rt></ruby>の<ruby>販売<rt>はんばい</rt></ruby><ruby>自粛<rt>じしゅく</rt></ruby><ruby>要請<rt>ようせい</rt></ruby>が<ruby>徹底<rt>てってい</rt></ruby>されている！
 ```
 
 ### <ruby>観光<rt>かんこう</rt></ruby><ruby>客<rt>きゃく</rt></ruby>・<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>だからといって<ruby>甘<rt>あま</rt></ruby>えは<ruby>通用<rt>つうよう</rt></ruby>しない！
@@ -145,32 +145,32 @@ tags:
 * 📌 **<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>だからと<ruby>羽目<rt>はめ</rt></ruby>を<ruby>外<rt>はず</rt></ruby>さず、<ruby>現地<rt>げんち</rt></ruby>のルールを<ruby>守<rt>まも</rt></ruby>るのが<ruby>真<rt>しん</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>ファン！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">羽目を外す（はめをはずす）</span>
+        <span class="c-vocab-card__word"><ruby>羽目<rt>はめ</rt></ruby>を<ruby>外<rt>はず</rt></ruby>す（はめをはずす）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>go too far, act without restraint, get out of hand</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お酒を飲んでも羽目を外しすぎないよう、節度を守って楽しみましょう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>go too far, act without restraint, get out of hand</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んでも<ruby>羽目<rt>はめ</rt></ruby>を<ruby>外<rt>はず</rt></ruby>しすぎないよう、<ruby>節度<rt>せつど</rt></ruby>を<ruby>守<rt>まも</rt></ruby>って<ruby>楽<rt>たの</rt></ruby>しみましょう。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">路上飲酒（ろじょういんしゅ）</span>
+        <span class="c-vocab-card__word"><ruby>路上<rt>ろじょう</rt></ruby><ruby>飲酒<rt>いんしゅ</rt></ruby>（ろじょういんしゅ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>drinking on the street, public drinking</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>地域の条例により、夜間の路上飲酒は厳しく禁止されています。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>drinking on the street, public drinking</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>地域<rt>ちいき</rt></ruby>の<ruby>条例<rt>じょうれい</rt></ruby>により、<ruby>夜間<rt>やかん</rt></ruby>の<ruby>路上<rt>ろじょう</rt></ruby><ruby>飲酒<rt>いんしゅ</rt></ruby>は<ruby>厳<rt>きび</rt></ruby>しく<ruby>禁止<rt>きんし</rt></ruby>されています。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">年中行事（ねんじゅうぎょうじ）</span>
+        <span class="c-vocab-card__word"><ruby>年中<rt>ねんじゅう</rt></ruby><ruby>行事<rt>ぎょうじ</rt></ruby>（ねんじゅうぎょうじ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>annual event, yearly traditional function</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お正月やクリスマスなど、季節ごとの年中行事を大切にしています。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>annual event, yearly traditional function</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>正月<rt>しょうがつ</rt></ruby>やクリスマスなど、<ruby>季節<rt>きせつ</rt></ruby>ごとの<ruby>年中<rt>ねんじゅう</rt></ruby><ruby>行事<rt>ぎょうじ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にしています。</p>
     </div>
   </div>
 </div>

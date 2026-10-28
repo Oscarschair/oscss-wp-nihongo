@@ -42,17 +42,17 @@ tags:
 「<ruby>適当<rt>てきとう</rt></ruby>」という<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>分解<rt>ぶんかい</rt></ruby>すると、**「<ruby>当<rt>とう</rt></ruby>（まさ）に<ruby>適<rt>てき</rt></ruby>（かな）う」**と<ruby>書<rt>か</rt></ruby>きます。
 
 ```
-【「適当」が持つ2つの顔】
+【「<ruby>適当<rt>てきとう</rt></ruby>」が<ruby>持<rt>も</rt></ruby>つ2つの<ruby>顔<rt>かお</rt></ruby>】
 
-●【顔A：正式・ポジティブな意味】＝「適切（ちょうど良く合致している）」
-  ・条件や目的にピッタリ合っていること。
-  ・例：「適当な人材を配置する」「適当な大きさに切る」
-  👉 英語：proper, suitable, appropriate
+●【<ruby>顔<rt>かお</rt></ruby>A：<ruby>正式<rt>せいしき</rt></ruby>・ポジティブな<ruby>意味<rt>いみ</rt></ruby>】＝「<ruby>適切<rt>てきせつ</rt></ruby>（ちょうど<ruby>良<rt>よ</rt></ruby>く<ruby>合致<rt>がっち</rt></ruby>している）」
+  ・<ruby>条件<rt>じょうけん</rt></ruby>や<ruby>目的<rt>もくてき</rt></ruby>にピッタリ<ruby>合<rt>あ</rt></ruby>っていること。
+  ・<ruby>例<rt>れい</rt></ruby>：「<ruby>適当<rt>てきとう</rt></ruby>な<ruby>人材<rt>じんざい</rt></ruby>を<ruby>配置<rt>はいち</rt></ruby>する」「<ruby>適当<rt>てきとう</rt></ruby>な<ruby>大<rt>おお</rt></ruby>きさに<ruby>切<rt>き</rt></ruby>る」
+  👉 <ruby>英語<rt>えいご</rt></ruby>：proper, suitable, appropriate
 
-●【顔B：日常・ネガティブな意味】＝「いい加減（テキトー・手抜き）」
-  ・厳密に考えず、その場の思いつきで適当に済ませること。
-  ・例：「適当に返事をする」「あの人は言うことがテキトーだ」
-  👉 英語：careless, half-hearted, irresponsible, random
+●【<ruby>顔<rt>かお</rt></ruby>B：<ruby>日常<rt>にちじょう</rt></ruby>・ネガティブな<ruby>意味<rt>いみ</rt></ruby>】＝「いい<ruby>加減<rt>かげん</rt></ruby>（テキトー・<ruby>手抜<rt>てぬ</rt></ruby>き）」
+  ・<ruby>厳密<rt>げんみつ</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えず、その<ruby>場<rt>ば</rt></ruby>の<ruby>思<rt>おも</rt></ruby>いつきで<ruby>適当<rt>てきとう</rt></ruby>に<ruby>済<rt>す</rt></ruby>ませること。
+  ・<ruby>例<rt>れい</rt></ruby>：「<ruby>適当<rt>てきとう</rt></ruby>に<ruby>返事<rt>へんじ</rt></ruby>をする」「あの<ruby>人<rt>ひと</rt></ruby>は<ruby>言<rt>い</rt></ruby>うことがテキトーだ」
+  👉 <ruby>英語<rt>えいご</rt></ruby>：careless, half-hearted, irresponsible, random
 ```
 
 ### どうして「<ruby>適切<rt>てきせつ</rt></ruby>」が「いい<ruby>加減<rt>かげん</rt></ruby>」に<ruby>変化<rt>へんか</rt></ruby>したのか？
@@ -81,11 +81,11 @@ tags:
 <ruby>以下<rt>いか</rt></ruby>の**「<ruby>確認<rt>かくにん</rt></ruby>フレーズ」**を<ruby>投<rt>な</rt></ruby>げ<ruby>返<rt>かえ</rt></ruby>すのが、プロの<ruby>仕事<rt>しごと</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>です！
 
 ```
-【「適当」を具体化させる黄金の質問】
+【「<ruby>適当<rt>てきとう</rt></ruby>」を<ruby>具体<rt>ぐたい</rt></ruby><ruby>化<rt>か</rt></ruby>させる<ruby>黄金<rt>おうごん</rt></ruby>の<ruby>質問<rt>しつもん</rt></ruby>】
 
-「承知いたしました！
-  確認なのですが、今回は【スピード優先で大枠のまとめ】でよろしいでしょうか？
-  それとも【詳細なデータまで詰めた方がよろしい】でしょうか？」
+「<ruby>承知<rt>しょうち</rt></ruby>いたしました！
+  <ruby>確認<rt>かくにん</rt></ruby>なのですが、<ruby>今回<rt>こんかい</rt></ruby>は【スピード<ruby>優先<rt>ゆうせん</rt></ruby>で<ruby>大枠<rt>おおわく</rt></ruby>のまとめ】でよろしいでしょうか？
+  それとも【<ruby>詳細<rt>しょうさい</rt></ruby>なデータまで<ruby>詰<rt>つ</rt></ruby>めた<ruby>方<rt>ほう</rt></ruby>がよろしい】でしょうか？」
 ```
 
 こう<ruby>聞<rt>き</rt></ruby>けば、<ruby>上司<rt>じょうし</rt></ruby>は「あ、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>社内<rt>しゃない</rt></ruby>の<ruby>軽<rt>かる</rt></ruby>い<ruby>確認<rt>かくにん</rt></ruby><ruby>用<rt>よう</rt></ruby>だから、ざっくり30<ruby>分<rt>ふん</rt></ruby>で<ruby>作<rt>つく</rt></ruby>ってくれればいいよ！」と、<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>期待<rt>きたい</rt></ruby><ruby>値<rt>ち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてくれます！
@@ -110,20 +110,20 @@ tags:
 あなたの「<ruby>適当<rt>てきとう</rt></ruby>」センサーを<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
-【第1問】
-日本語のテストで「（　）に入る最も適当な言葉を選びなさい」と書かれていました。ここでの「適当」の意味は？
-① いい加減で手抜きな言葉
-② 最もふさわしく、正しい言葉
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>のテストで「（　）に<ruby>入<rt>はい</rt></ruby>る<ruby>最<rt>もっと</rt></ruby>も<ruby>適当<rt>てきとう</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びなさい」と<ruby>書<rt>か</rt></ruby>かれていました。ここでの「<ruby>適当<rt>てきとう</rt></ruby>」の<ruby>意味<rt>いみ</rt></ruby>は？
+① いい<ruby>加減<rt>かげん</rt></ruby>で<ruby>手抜<rt>てぬ</rt></ruby>きな<ruby>言葉<rt>ことば</rt></ruby>
+② <ruby>最<rt>もっと</rt></ruby>もふさわしく、<ruby>正<rt>ただ</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>
 
-【第2問】
-友達が「今日の晩ご飯、何にする？」「んー、適当でいいよ！」と答えました。友達の本音は？
-① 高級フレンチのコース料理を予約してほしい
-② なんでもいい、こだわりはないから簡単に済ませよう
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>友達<rt>ともだち</rt></ruby>が「<ruby>今日<rt>きょう</rt></ruby>の<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>、<ruby>何<rt>なに</rt></ruby>にする？」「んー、<ruby>適当<rt>てきとう</rt></ruby>でいいよ！」と<ruby>答<rt>こた</rt></ruby>えました。<ruby>友達<rt>ともだち</rt></ruby>の<ruby>本音<rt>ほんね</rt></ruby>は？
+① <ruby>高級<rt>こうきゅう</rt></ruby>フレンチのコース<ruby>料理<rt>りょうり</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>してほしい
+② なんでもいい、こだわりはないから<ruby>簡単<rt>かんたん</rt></ruby>に<ruby>済<rt>す</rt></ruby>ませよう
 
-【第3問】
-ビジネスで「適当な人」と言われたら、通常どんなニュアンス？
-① 状況に合わせて要領よく柔軟に動ける人（または無責任な人）
-② 完璧主義で融通が利かない人
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+ビジネスで「<ruby>適当<rt>てきとう</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>」と<ruby>言<rt>い</rt></ruby>われたら、<ruby>通常<rt>つうじょう</rt></ruby>どんなニュアンス？
+① <ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて<ruby>要領<rt>ようりょう</rt></ruby>よく<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>動<rt>うご</rt></ruby>ける<ruby>人<rt>ひと</rt></ruby>（または<ruby>無責任<rt>むせきにん</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>）
+② <ruby>完璧<rt>かんぺき</rt></ruby><ruby>主義<rt>しゅぎ</rt></ruby>で<ruby>融通<rt>ゆうずう</rt></ruby>が<ruby>利<rt>き</rt></ruby>かない<ruby>人<rt>ひと</rt></ruby>
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -158,32 +158,32 @@ tags:
 <ruby>曖昧<rt>あいまい</rt></ruby>だからこそ<ruby>奥<rt>おく</rt></ruby>が<ruby>深<rt>ふか</rt></ruby>い<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>。「<ruby>適当<rt>てきとう</rt></ruby>」の<ruby>二<rt>に</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>して、<ruby>肩<rt>かた</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>きつつスマートにコミュニケーションをこなしていきましょう！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">適当（てきとう）</span>
+        <span class="c-vocab-card__word"><ruby>適当<rt>てきとう</rt></ruby>（てきとう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>suitable / careless, random</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>野菜を適当な大きさに切って、鍋に入れて煮込みます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>suitable / careless, random</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>野菜<rt>やさい</rt></ruby>を<ruby>適当<rt>てきとう</rt></ruby>な<ruby>大<rt>おお</rt></ruby>きさに<ruby>切<rt>き</rt></ruby>って、<ruby>鍋<rt>なべ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて<ruby>煮込<rt>にこ</rt></ruby>みます。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">いい加減（いいかげん）</span>
+        <span class="c-vocab-card__word">いい<ruby>加減<rt>かげん</rt></ruby>（いいかげん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>careless, irresponsible</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>約束の時間を守らないようないい加減な態度は、信用を失ってしまう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>careless, irresponsible</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>約束<rt>やくそく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>らないようないい<ruby>加減<rt>かげん</rt></ruby>な<ruby>態度<rt>たいど</rt></ruby>は、<ruby>信用<rt>しんよう</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>ってしまう。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">適切（てきせつ）</span>
+        <span class="c-vocab-card__word"><ruby>適切<rt>てきせつ</rt></ruby>（てきせつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>appropriate, adequate</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>状況に応じて、最も適切で丁寧な言葉遣いを選ぶことが大切だ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>appropriate, adequate</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じて、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby><ruby>遣<rt>づか</rt></ruby>いを<ruby>選<rt>えら</rt></ruby>ぶことが<ruby>大切<rt>たいせつ</rt></ruby>だ。</p>
     </div>
   </div>
 </div>

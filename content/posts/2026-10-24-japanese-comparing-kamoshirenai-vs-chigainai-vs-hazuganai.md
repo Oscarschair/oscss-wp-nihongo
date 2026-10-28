@@ -26,25 +26,25 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>パーセンテージ・メーター
 
 ```
-【確信度 99%：直感・強い確信】
-  ★「〜に違いない」
-      「あの高級車に乗っているんだから、お金持ち【に違いない】！」
-      → 証拠は主観的でも、話し手の中ではほぼ100%断定！
+【<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby> 99%：<ruby>直感<rt>ちょっかん</rt></ruby>・<ruby>強<rt>つよ</rt></ruby>い<ruby>確信<rt>かくしん</rt></ruby>】
+  ★「〜に<ruby>違<rt>ちが</rt></ruby>いない」
+      「あの<ruby>高級<rt>こうきゅう</rt></ruby><ruby>車<rt>しゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っているんだから、お<ruby>金持<rt>かねも</rt></ruby>ち【に<ruby>違<rt>ちが</rt></ruby>いない】！」
+      → <ruby>証拠<rt>しょうこ</rt></ruby>は<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby>でも、<ruby>話し手<rt>はなして</rt></ruby>の<ruby>中<rt>なか</rt></ruby>ではほぼ100%<ruby>断定<rt>だんてい</rt></ruby>！
 
-【確信度 80%：客観的な論理・常識】
+【<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby> 80%：<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>論理<rt>ろんり</rt></ruby>・<ruby>常識<rt>じょうしき</rt></ruby>】
   ★「〜はずだ」
-      「彼は毎日10時間勉強したから、合格する【はずだ】。」
-      → 理由や根拠から考えて、そうなるのが当然だという推測。
+      「<ruby>彼<rt>かれ</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>10<ruby>時間<rt>じかん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>したから、<ruby>合格<rt>ごうかく</rt></ruby>する【はずだ】。」
+      → <ruby>理由<rt>りゆう</rt></ruby>や<ruby>根拠<rt>こんきょ</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>えて、そうなるのが<ruby>当然<rt>とうぜん</rt></ruby>だという<ruby>推測<rt>すいそく</rt></ruby>。
 
-【確信度 50%：半信半疑・五分五分】
+【<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby> 50%：<ruby>半信半疑<rt>はんしんはんぎ</rt></ruby>・<ruby>五分五分<rt>ごぶごぶ</rt></ruby>】
   ★「〜かもしれない」
-      「明日は午後から雪が降る【かもしれない】。」
-      → 可能性はあるけれど、降らない可能性も半分ある。
+      「<ruby>明日<rt>あした</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>から<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る【かもしれない】。」
+      → <ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>はあるけれど、<ruby>降<rt>ふ</rt></ruby>らない<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>も<ruby>半分<rt>はんぶん</rt></ruby>ある。
 
-【確信度 0%：強い確信を持った否定】
+【<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby> 0%：<ruby>強<rt>つよ</rt></ruby>い<ruby>確信<rt>かくしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>った<ruby>否定<rt>ひてい</rt></ruby>】
   ★「〜はずがない」
-      「あの優しい田中さんが、人を騙す【はずがない】！」
-      → 論理的・常識的に考えて、可能性はゼロだと否定！
+      「あの<ruby>優<rt>やさ</rt></ruby>しい<ruby>田中<rt>たなか</rt></ruby>さんが、<ruby>人<rt>ひと</rt></ruby>を<ruby>騙<rt>だま</rt></ruby>す【はずがない】！」
+      → <ruby>論理<rt>ろんり</rt></ruby><ruby>的<rt>てき</rt></ruby>・<ruby>常識<rt>じょうしき</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えて、<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>はゼロだと<ruby>否定<rt>ひてい</rt></ruby>！
 ```
 
 ---
@@ -76,7 +76,7 @@ tags:
 
 ---
 
-## 4. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！クイズ5<ruby>问<rt>*</rt></ruby>
+## 4. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！クイズ5问
 
 ### Q1. 「<ruby>空<rt>そら</rt></ruby>が<ruby>真っ暗<rt>まっくら</rt></ruby>になってきた。<ruby>今夜<rt>こんや</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る（　　）。」<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>50%で<ruby>言<rt>い</rt></ruby>うなら？
 * A. かもしれない
@@ -147,32 +147,32 @@ tags:
 * 📌 **「はずがない」＝ 0%（<ruby>常識<rt>じょうしき</rt></ruby>や<ruby>理由<rt>りゆう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>絶対<rt>ぜったい</rt></ruby><ruby>否定<rt>ひてい</rt></ruby>）！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">違いない（ちがいない）</span>
+        <span class="c-vocab-card__word"><ruby>違<rt>ちが</rt></ruby>いない（ちがいない）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>must be, without a doubt</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>あんなに嬉しそうな顔をしているんだから、試験に合格したに違いない。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>must be, without a doubt</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>あんなに<ruby>嬉<rt>うれ</rt></ruby>しそうな<ruby>顔<rt>かお</rt></ruby>をしているんだから、<ruby>試験<rt>しけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>したに<ruby>違<rt>ちが</rt></ruby>いない。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">確信（かくしん）</span>
+        <span class="c-vocab-card__word"><ruby>確信<rt>かくしん</rt></ruby>（かくしん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>conviction, confidence, certainty</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>私は彼が無実であると確信しています。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>conviction, confidence, certainty</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>が<ruby>無実<rt>むじつ</rt></ruby>であると<ruby>確信<rt>かくしん</rt></ruby>しています。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">客観的（きゃっかんてき）</span>
+        <span class="c-vocab-card__word"><ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>（きゃっかんてき）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>objective, impartial</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>感情的にならず、客観的なデータに基づいて判断しましょう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>objective, impartial</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>感情<rt>かんじょう</rt></ruby><ruby>的<rt>てき</rt></ruby>にならず、<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>なデータに<ruby>基<rt>もと</rt></ruby>づいて<ruby>判断<rt>はんだん</rt></ruby>しましょう。</p>
     </div>
   </div>
 </div>

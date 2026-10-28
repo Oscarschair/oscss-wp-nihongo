@@ -70,10 +70,10 @@ tags:
 
 |<ruby>見分<rt>みわ</rt></ruby>けポイント|<ruby>日本<rt>にほん</rt></ruby><ruby>風<rt>ふう</rt></ruby>の<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>|<ruby>本場<rt>ほんば</rt></ruby>のガチ<ruby>中華<rt>ちゅうか</rt></ruby>|
 | :--- | :--- | :--- |
-|**メニューの<ruby>言語<rt>げんご</rt></ruby>**|<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>のみ（ひらがな<ruby>多<rt>おお</rt></ruby>め）| **<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>（<ruby>簡体字<rt>*</rt></ruby>/<ruby>繁<rt>しげる</rt></ruby><ruby>体<rt>たい</rt></ruby><ruby>字<rt>じ</rt></ruby>）が<ruby>大<rt>おお</rt></ruby>きく<ruby>書<rt>か</rt></ruby>かれている** |
-|**<ruby>定番<rt>ていばん</rt></ruby>メニュー**|ラーメン、<ruby>半<rt>はん</rt></ruby>チャーハン、<ruby>餃子<rt>ぎょうざ</rt></ruby>、<ruby>天津飯<rt>てんしんはん</rt></ruby>|**<ruby>麻<rt>あさ</rt></ruby><ruby>辣燙<rt>*</rt></ruby>（マーラータン）、<ruby>羊<rt>ひつじ</rt></ruby><ruby>肉<rt>にく</rt></ruby><ruby>串<rt>くし</rt></ruby>（ヤンロウチュアン）、<ruby>水<rt>みず</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>、<ruby>米<rt>べい</rt></ruby><ruby>線<rt>せん</rt></ruby>**|
-|**<ruby>卓上<rt>たくじょう</rt></ruby><ruby>調味<rt>ちょうみ</rt></ruby><ruby>料<rt>りょう</rt></ruby>**|<ruby>醤油<rt>しょうゆ</rt></ruby>、<ruby>酢<rt>す</rt></ruby>、<ruby>ラー油<rt>らーゆ</rt></ruby>、コショウ| **<ruby>黒<rt>くろ</rt></ruby><ruby>酢<rt>す</rt></ruby>（<ruby>鎮江香<rt>*</rt></ruby><ruby>醋<rt>す</rt></ruby>）、<ruby>自家製<rt>じかせい</rt></ruby><ruby>麻<rt>あさ</rt></ruby><ruby>辣油<rt>*</rt></ruby>、<ruby>花<rt>はな</rt></ruby><ruby>椒<rt>はじかみ</rt></ruby><ruby>油<rt>あぶら</rt></ruby>** |
-|**<ruby>店内<rt>てんない</rt></ruby>のBGM・テレビ**|<ruby>日本<rt>にほん</rt></ruby>のテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>、J-POP| **<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>流行<rt>りゅうこう</rt></ruby><ruby>歌<rt>か</rt></ruby>、C-POP、<ruby>抖音<rt>*</rt></ruby>（TikTok）のBGM** |
+|**メニューの<ruby>言語<rt>げんご</rt></ruby>**|<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>のみ（ひらがな<ruby>多<rt>おお</rt></ruby>め）| **<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>（簡体字/<ruby>繁<rt>しげる</rt></ruby><ruby>体<rt>たい</rt></ruby><ruby>字<rt>じ</rt></ruby>）が<ruby>大<rt>おお</rt></ruby>きく<ruby>書<rt>か</rt></ruby>かれている** |
+|**<ruby>定番<rt>ていばん</rt></ruby>メニュー**|ラーメン、<ruby>半<rt>はん</rt></ruby>チャーハン、<ruby>餃子<rt>ぎょうざ</rt></ruby>、<ruby>天津飯<rt>てんしんはん</rt></ruby>|**<ruby>麻<rt>あさ</rt></ruby>辣燙（マーラータン）、<ruby>羊<rt>ひつじ</rt></ruby><ruby>肉<rt>にく</rt></ruby><ruby>串<rt>くし</rt></ruby>（ヤンロウチュアン）、<ruby>水<rt>みず</rt></ruby><ruby>餃子<rt>ぎょうざ</rt></ruby>、<ruby>米<rt>べい</rt></ruby><ruby>線<rt>せん</rt></ruby>**|
+|**<ruby>卓上<rt>たくじょう</rt></ruby><ruby>調味<rt>ちょうみ</rt></ruby><ruby>料<rt>りょう</rt></ruby>**|<ruby>醤油<rt>しょうゆ</rt></ruby>、<ruby>酢<rt>す</rt></ruby>、<ruby>ラー油<rt>らーゆ</rt></ruby>、コショウ| **<ruby>黒<rt>くろ</rt></ruby><ruby>酢<rt>す</rt></ruby>（鎮江香<ruby>醋<rt>す</rt></ruby>）、<ruby>自家製<rt>じかせい</rt></ruby><ruby>麻<rt>あさ</rt></ruby>辣油、<ruby>花<rt>はな</rt></ruby><ruby>椒<rt>はじかみ</rt></ruby><ruby>油<rt>あぶら</rt></ruby>** |
+|**<ruby>店内<rt>てんない</rt></ruby>のBGM・テレビ**|<ruby>日本<rt>にほん</rt></ruby>のテレビ<ruby>番組<rt>ばんぐみ</rt></ruby>、J-POP| **<ruby>中国<rt>ちゅうごく</rt></ruby>の<ruby>流行<rt>りゅうこう</rt></ruby><ruby>歌<rt>か</rt></ruby>、C-POP、抖音（TikTok）のBGM** |
 
 ### <ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>の「ご<ruby>飯<rt>はん</rt></ruby>をドーム<ruby>型<rt>がた</rt></ruby>に<ruby>整<rt>ととの</rt></ruby>える<ruby>美学<rt>びがく</rt></ruby>」
 <ruby>日本<rt>にほん</rt></ruby>のチャーハンを<ruby>注文<rt>ちゅうもん</rt></ruby>すると、お<ruby>玉<rt>たま</rt></ruby>を<ruby>使<rt>つか</rt></ruby>って<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>半球<rt>はんきゅう</rt></ruby><ruby>状<rt>じょう</rt></ruby>（ドーム<ruby>型<rt>がた</rt></ruby>）に<ruby>整<rt>ととの</rt></ruby>えられてテーブルに<ruby>運<rt>はこ</rt></ruby>ばれてきます。
@@ -122,32 +122,32 @@ tags:
 - **<ruby>昭和<rt>しょうわ</rt></ruby>の<ruby>懐<rt>なつ</rt></ruby>かしい<ruby>雰囲気<rt>ふんいき</rt></ruby>と、<ruby>優<rt>やさ</rt></ruby>しい<ruby>甘酸<rt>あまず</rt></ruby>っぱさや<ruby>醤油<rt>しょうゆ</rt></ruby>の<ruby>香<rt>こう</rt></ruby>ばしさに<ruby>癒<rt>いや</rt></ruby>されたい<ruby>時<rt>とき</rt></ruby>**: <ruby>最寄<rt>もよ</rt></ruby>りの<ruby>駅前<rt>えきまえ</rt></ruby>にある<ruby>老舗<rt>しにせ</rt></ruby>の<ruby>町中<rt>まちなか</rt></ruby><ruby>華<rt>はな</rt></ruby>へ。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">定食（ていしょく）</span>
+        <span class="c-vocab-card__word"><ruby>定食<rt>ていしょく</rt></ruby>（ていしょく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>set meal, combo</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お昼休みに近くの食堂で日替わり定食を注文した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>set meal, combo</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>昼休<rt>ひるやす</rt></ruby>みに<ruby>近<rt>ちか</rt></ruby>くの<ruby>食堂<rt>しょくどう</rt></ruby>で<ruby>日替<rt>ひが</rt></ruby>わり<ruby>定食<rt>ていしょく</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">本格的（ほんかくてき）</span>
+        <span class="c-vocab-card__word"><ruby>本格<rt>ほんかく</rt></ruby><ruby>的<rt>てき</rt></ruby>（ほんかくてき）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>authentic, genuine</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>横浜の中華街で、本格的な四川料理を味わった。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>authentic, genuine</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>横浜<rt>よこはま</rt></ruby>の<ruby>中華<rt>ちゅうか</rt></ruby><ruby>街<rt>がい</rt></ruby>で、<ruby>本格<rt>ほんかく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>四<rt>よん</rt></ruby><ruby>川<rt>がわ</rt></ruby><ruby>料理<rt>りょうり</rt></ruby>を<ruby>味<rt>あじ</rt></ruby>わった。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">おかず（おかず）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>side dish</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>白いご飯によく合う、味の濃いおかずが好きです。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>side dish</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>白<rt>しろ</rt></ruby>いご<ruby>飯<rt>はん</rt></ruby>によく<ruby>合<rt>あ</rt></ruby>う、<ruby>味<rt>あじ</rt></ruby>の<ruby>濃<rt>こ</rt></ruby>いおかずが<ruby>好<rt>す</rt></ruby>きです。</p>
     </div>
   </div>
 </div>

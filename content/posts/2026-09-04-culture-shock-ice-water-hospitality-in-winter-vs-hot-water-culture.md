@@ -61,32 +61,32 @@ A: <ruby>自販機<rt>じはんき</rt></ruby>のボタンの<ruby>下<rt>した
 A: レジの<ruby>横<rt>よこ</rt></ruby>や<ruby>入り口<rt>いりくち</rt></ruby><ruby>付近<rt>ふきん</rt></ruby>に、オレンジ<ruby>色<rt>しょく</rt></ruby>の<ruby>照明<rt>しょうめい</rt></ruby>で<ruby>照<rt>て</rt></ruby>らされた「ホット<ruby>飲料<rt>いんりょう</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>の<ruby>保温<rt>ほおん</rt></ruby><ruby>加<rt>か</rt></ruby><ruby>温<rt>ゆたか</rt></ruby>ケース（ホットウォーマー）」が<ruby>設置<rt>せっち</rt></ruby>されています。<ruby>緑茶<rt>りょくちゃ</rt></ruby>、ほうじ<ruby>茶<rt>ちゃ</rt></ruby>、<ruby>紅茶<rt>こうちゃ</rt></ruby>、レモンティー、<ruby>缶<rt>かん</rt></ruby>コーヒーなどが<ruby>常<rt>つね</rt></ruby>に<ruby>飲<rt>の</rt></ruby>み<ruby>頃<rt>ころ</rt></ruby>の55〜60℃に<ruby>保<rt>たも</rt></ruby>たれています。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お冷（おひや）</span>
+        <span class="c-vocab-card__word">お<ruby>冷<rt>ひや</rt></ruby>（おひや）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>cold drinking water</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本の飲食店に入ると、真冬でも冷たいお冷が無料で出される。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>cold drinking water</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>の<ruby>飲食<rt>いんしょく</rt></ruby><ruby>店<rt>てん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<ruby>真冬<rt>まふゆ</rt></ruby>でも<ruby>冷<rt>つめ</rt></ruby>たいお<ruby>冷<rt>ひや</rt></ruby>が<ruby>無料<rt>むりょう</rt></ruby>で<ruby>出<rt>だ</rt></ruby>される。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">もてなし（もてなし）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>hospitality, reception</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>訪れた客に対して、温かいもてなしの心で接する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>hospitality, reception</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>訪<rt>おとず</rt></ruby>れた<ruby>客<rt>きゃく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>温<rt>あたた</rt></ruby>かいもてなしの<ruby>心<rt>こころ</rt></ruby>で<ruby>接<rt>せっ</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">習慣（しゅうかん）</span>
+        <span class="c-vocab-card__word"><ruby>習慣<rt>しゅうかん</rt></ruby>（しゅうかん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>habit, custom</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>食事の前に「いただきます」と言うのが日本の伝統的な習慣です。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>habit, custom</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>食事<rt>しょくじ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に「いただきます」と<ruby>言<rt>い</rt></ruby>うのが<ruby>日本<rt>にほん</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>習慣<rt>しゅうかん</rt></ruby>です。</p>
     </div>
   </div>
 </div>

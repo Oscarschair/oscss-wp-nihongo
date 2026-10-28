@@ -47,18 +47,18 @@ tags:
 この<ruby>謎<rt>なぞ</rt></ruby>を<ruby>解<rt>と</rt></ruby>く<ruby>鍵<rt>かぎ</rt></ruby>は、**「<ruby>結構<rt>けっこう</rt></ruby>」という<ruby>言葉<rt>ことば</rt></ruby>の<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>成り立<rt>なりた</rt></ruby>ち（<ruby>語源<rt>ごげん</rt></ruby>）**にあります。
 
 ```
-【「結構」の原義と進化の歴史】
-「結（結ぶ）」＋「構（構える）」
+【「<ruby>結構<rt>けっこう</rt></ruby>」の<ruby>原義<rt>げんぎ</rt></ruby>と<ruby>進化<rt>しんか</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>】
+「<ruby>結<rt>ゆい</rt></ruby>（<ruby>結<rt>むす</rt></ruby>ぶ）」＋「構（<ruby>構<rt>かま</rt></ruby>える）」
       │
-      ▼ 【本来の意味】：美しく組み立てられた建造物や詩の構造（Structure）
+      ▼ 【<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>】：<ruby>美<rt>うつく</rt></ruby>しく<ruby>組み立<rt>くみた</rt></ruby>てられた<ruby>建造<rt>けんぞう</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>や<ruby>詩<rt>し</rt></ruby>の<ruby>構造<rt>こうぞう</rt></ruby>（Structure）
       │
-      ▼ 「欠点がなく、完璧に整っている」
+      ▼ 「<ruby>欠点<rt>けってん</rt></ruby>がなく、<ruby>完璧<rt>かんぺき</rt></ruby>に<ruby>整<rt>ととの</rt></ruby>っている」
       │
-      ▼ 「十分に満足できる、素晴らしい！（YES・承認）」
+      ▼ 「<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>満足<rt>まんぞく</rt></ruby>できる、<ruby>素晴<rt>すば</rt></ruby>らしい！（YES・<ruby>承認<rt>しょうにん</rt></ruby>）」
       │
-      ▼ 「すでに満ち足りているので、これ以上は足さなくて大丈夫です」
+      ▼ 「すでに<ruby>満ち足<rt>みちた</rt></ruby>りているので、これ<ruby>以上<rt>いじょう</rt></ruby>は<ruby>足<rt>た</rt></ruby>さなくて<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」
       │
-      ▼ 「もう十分なので、いりません（NO・丁寧なお断り）」
+      ▼ 「もう<ruby>十分<rt>じゅうぶん</rt></ruby>なので、いりません（NO・<ruby>丁寧<rt>ていねい</rt></ruby>なお<ruby>断<rt>ことわ</rt></ruby>り）」
 ```
 
 もともと「<ruby>結構<rt>けっこう</rt></ruby>」は、「<ruby>非の打ち所<rt>ひのうちどころ</rt></ruby>がないほど<ruby>立派<rt>りっぱ</rt></ruby>だ」という<ruby>大<rt>だい</rt></ruby><ruby>絶賛<rt>ぜっさん</rt></ruby>の<ruby>褒<rt>ほ</rt></ruby>め<ruby>言葉<rt>ことば</rt></ruby>でした。<ruby>日光<rt>にっこう</rt></ruby><ruby>東照宮<rt>とうしょうぐう</rt></ruby>を<ruby>見<rt>み</rt></ruby>て「<ruby>日光<rt>にっこう</rt></ruby>を<ruby>見<rt>み</rt></ruby>ずして<ruby>結構<rt>けっこう</rt></ruby>と<ruby>言<rt>い</rt></ruby>うなかれ」と<ruby>言<rt>い</rt></ruby>われたのがその<ruby>代表<rt>だいひょう</rt></ruby>です。
@@ -77,16 +77,16 @@ tags:
 <ruby>相手<rt>あいて</rt></ruby>が<ruby>放<rt>はな</rt></ruby>った「<ruby>結構<rt>けっこう</rt></ruby>です」がYESなのかNOなのか、<ruby>迷<rt>まよ</rt></ruby>った<ruby>時<rt>とき</rt></ruby>は**「<ruby>相手<rt>あいて</rt></ruby>の<ruby>手<rt>て</rt></ruby>の<ruby>動<rt>うご</rt></ruby>き」**と**「<ruby>文脈<rt>ぶんみゃく</rt></ruby>の<ruby>品詞<rt>ひんし</rt></ruby>」**に<ruby>注目<rt>ちゅうもく</rt></ruby>してください！
 
 ```
-【YESとNOを見抜く判定チャート】
+【YESとNOを<ruby>見抜<rt>みぬ</rt></ruby>く<ruby>判定<rt>はんてい</rt></ruby>チャート】
 ┌────────────────────────────────────────────────────────┐
-│ Q. 相手の手が動いたか？                                │
-│    ├─ 手を軽く横に振っている（または手のひらを前に出している）  │
-│    │    ⇒ 100%【 NO（お断り）】！                        │
-│    │       例：「レジ袋いりますか？」「あ、結構です👋」  │
+│ Q. <ruby>相手<rt>あいて</rt></ruby>の<ruby>手<rt>て</rt></ruby>が<ruby>動<rt>うご</rt></ruby>いたか？                                │
+│    ├─ <ruby>手<rt>て</rt></ruby>を<ruby>軽<rt>かる</rt></ruby>く<ruby>横<rt>よこ</rt></ruby>に<ruby>振<rt>ふ</rt></ruby>っている（または<ruby>手<rt>て</rt></ruby>のひらを<ruby>前<rt>まえ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>している）  │
+│    │    ⇒ 100%【 NO（お<ruby>断<rt>ことわ</rt></ruby>り）】！                        │
+│    │       <ruby>例<rt>れい</rt></ruby>：「レジ<ruby>袋<rt>ぶくろ</rt></ruby>いりますか？」「あ、<ruby>結構<rt>けっこう</rt></ruby>です👋」  │
 │    │                                                   │
-│    └─ 手は動かず、笑顔で頷いている（またはOKサイン）      │
-│         ⇒ 100%【 YES（承認・満足）】！                  │
-│            例：「この企画で進めていいですか？」「結構です😊」│
+│    └─ <ruby>手<rt>て</rt></ruby>は<ruby>動<rt>うご</rt></ruby>かず、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>頷<rt>うなず</rt></ruby>いている（またはOKサイン）      │
+│         ⇒ 100%【 YES（<ruby>承認<rt>しょうにん</rt></ruby>・<ruby>満足<rt>まんぞく</rt></ruby>）】！                  │
+│            <ruby>例<rt>れい</rt></ruby>：「この<ruby>企画<rt>きかく</rt></ruby>で<ruby>進<rt>すす</rt></ruby>めていいですか？」「<ruby>結構<rt>けっこう</rt></ruby>です😊」│
 └────────────────────────────────────────────────────────┘
 ```
 
@@ -151,32 +151,32 @@ tags:
 <ruby>言葉<rt>ことば</rt></ruby>の<ruby>二<rt>に</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>すると、<ruby>相手<rt>あいて</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>にある「<ruby>気遣<rt>きづか</rt></ruby>い」や「<ruby>遠慮<rt>えんりょ</rt></ruby>の<ruby>美学<rt>びがく</rt></ruby>」が<ruby>見<rt>み</rt></ruby>えてきます。「<ruby>結構<rt>けっこう</rt></ruby>です」を<ruby>恐<rt>おそ</rt></ruby>れず、<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>繊細<rt>せんさい</rt></ruby>なコミュニケーションを<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">結構です（けっこうです）</span>
+        <span class="c-vocab-card__word"><ruby>結構<rt>けっこう</rt></ruby>です（けっこうです）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>no thank you / that is fine</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「レジ袋をお付けしますか」と聞かれ、手を軽く振って「結構です」と断った。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>no thank you / that is fine</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「レジ<ruby>袋<rt>ぶくろ</rt></ruby>をお<ruby>付<rt>つ</rt></ruby>けしますか」と<ruby>聞<rt>き</rt></ruby>かれ、<ruby>手<rt>て</rt></ruby>を<ruby>軽<rt>かる</rt></ruby>く<ruby>振<rt>ふ</rt></ruby>って「<ruby>結構<rt>けっこう</rt></ruby>です」と<ruby>断<rt>ことわ</rt></ruby>った。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">承諾（しょうだく）</span>
+        <span class="c-vocab-card__word"><ruby>承諾<rt>しょうだく</rt></ruby>（しょうだく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>consent, agreement</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>企画の変更を上司に相談したところ、快く承諾してもらえた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>consent, agreement</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>企画<rt>きかく</rt></ruby>の<ruby>変更<rt>へんこう</rt></ruby>を<ruby>上司<rt>じょうし</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>したところ、<ruby>快<rt>こころよ</rt></ruby>く<ruby>承諾<rt>しょうだく</rt></ruby>してもらえた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">辞退（じたい）</span>
+        <span class="c-vocab-card__word"><ruby>辞退<rt>じたい</rt></ruby>（じたい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>declining, refusal</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>せっかく推薦をいただいたが、今回は都合により辞退することにした。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>declining, refusal</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>せっかく<ruby>推薦<rt>すいせん</rt></ruby>をいただいたが、<ruby>今回<rt>こんかい</rt></ruby>は<ruby>都合<rt>つごう</rt></ruby>により<ruby>辞退<rt>じたい</rt></ruby>することにした。</p>
     </div>
   </div>
 </div>

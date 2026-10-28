@@ -40,18 +40,18 @@ tags:
 <ruby>焦<rt>あせ</rt></ruby>る<ruby>必要<rt>ひつよう</rt></ruby>はありません！ **<ruby>見<rt>み</rt></ruby>るべき<ruby>場所<rt>ばしょ</rt></ruby>はたったの「3<ruby>ヶ所<rt>かしょ</rt></ruby>」だけ**です！
 
 ```
-【不在票の重要チェックポイント3選】
+【<ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>チェックポイント3<ruby>選<rt>せん</rt></ruby>】
 ┌──────────────────────────────────────────────┐
-│ [運送会社ロゴ]  ご不在連絡票                  │
+│ [<ruby>運送<rt>うんそう</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>ロゴ]  ご<ruby>不在<rt>ふざい</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby><ruby>票<rt>ひょう</rt></ruby>                  │
 ├──────────────────────────────────────────────┤
-│ ①【お届け日時】：10月7日 14時35分            │ ＝ いつ配達に来たか
-│ ②【お荷物の種類】：クール便・代金引換など    │ ＝ 特別な受け取りが必要か
+│ ①【お<ruby>届<rt>とど</rt></ruby>け<ruby>日時<rt>にちじ</rt></ruby>】：10<ruby>月<rt>つき</rt></ruby>7<ruby>日<rt>にち</rt></ruby> 14<ruby>時<rt>じ</rt></ruby>35<ruby>分<rt>ふん</rt></ruby>            │ ＝ いつ<ruby>配達<rt>はいたつ</rt></ruby>に<ruby>来<rt>き</rt></ruby>たか
+│ ②【お<ruby>荷物<rt>にもつ</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>】：クール<ruby>便<rt>びん</rt></ruby>・<ruby>代金<rt>だいきん</rt></ruby><ruby>引換<rt>ひきかえ</rt></ruby>など    │ ＝ <ruby>特別<rt>とくべつ</rt></ruby>な<ruby>受け取<rt>うけと</rt></ruby>りが<ruby>必要<rt>ひつよう</rt></ruby>か
 ├──────────────────────────────────────────────┤
-│ ③ ★【お問い合わせ伝票番号】                   │ ＝ ★超重要！
-│     1 2 3 4 - 5 6 7 8 - 9 0 1 2              │   再配達受付に必要な12桁のID
+│ ③ ★【お<ruby>問い合<rt>といあ</rt></ruby>わせ<ruby>伝票<rt>でんぴょう</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>】                   │ ＝ ★<ruby>超<rt>ちょう</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby>！
+│     1 2 3 4 - 5 6 7 8 - 9 0 1 2              │   <ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby><ruby>受付<rt>うけつけ</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な12<ruby>桁<rt>けた</rt></ruby>のID
 ├──────────────────────────────────────────────┤
-│ ④【再配達受付のQRコード】                    │ ＝ スマホでここをスキャン！
-│ ⑤【担当ドライバーの直通電話番号】           │ ＝ 当日すぐ持ってきてほしい時
+│ ④【<ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby><ruby>受付<rt>うけつけ</rt></ruby>のQRコード】                    │ ＝ スマホでここをスキャン！
+│ ⑤【<ruby>担当<rt>たんとう</rt></ruby>ドライバーの<ruby>直通<rt>ちょくつう</rt></ruby><ruby>電話<rt>でんわ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>】           │ ＝ <ruby>当日<rt>とうじつ</rt></ruby>すぐ<ruby>持<rt>も</rt></ruby>ってきてほしい<ruby>時<rt>とき</rt></ruby>
 └──────────────────────────────────────────────┘
 ```
 
@@ -73,20 +73,20 @@ tags:
 <ruby>現代<rt>げんだい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>もおすすめなのは、**「スマホのカメラでQRコードを<ruby>読み取<rt>よみと</rt></ruby>る<ruby>方法<rt>ほうほう</rt></ruby>」**です！
 
 ```
-【スマホ再配達の最短ステップ】
-1. スマホのカメラで不在票の「QRコード」をパシャリと読み取る。
+【スマホ<ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby>の<ruby>最短<rt>さいたん</rt></ruby>ステップ】
+1. スマホのカメラで<ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>の「QRコード」をパシャリと<ruby>読み取<rt>よみと</rt></ruby>る。
        │
        ▼
-2. 伝票番号が自動入力された専用受付ページが開く！
+2. <ruby>伝票<rt>でんぴょう</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>が<ruby>自動<rt>じどう</rt></ruby><ruby>入力<rt>にゅうりょく</rt></ruby>された<ruby>専用<rt>せんよう</rt></ruby><ruby>受付<rt>うけつけ</rt></ruby>ページが<ruby>開<rt>ひら</rt></ruby>く！
        │
        ▼
-3. 【希望日】を選ぶ（今日／明日／明後日など）
+3. 【<ruby>希望<rt>きぼう</rt></ruby><ruby>日<rt>び</rt></ruby>】を<ruby>選<rt>えら</rt></ruby>ぶ（<ruby>今日<rt>きょう</rt></ruby>／<ruby>明日<rt>あした</rt></ruby>／<ruby>明後日<rt>みょうごにち</rt></ruby>など）
        │
        ▼
-4. 【希望時間帯】を選ぶ（午前中／14-16時／16-18時／18-20時／19-21時）
+4. 【<ruby>希望<rt>きぼう</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>帯<rt>たい</rt></ruby>】を<ruby>選<rt>えら</rt></ruby>ぶ（<ruby>午前<rt>ごぜん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>／14-16<ruby>時<rt>じ</rt></ruby>／16-18<ruby>時<rt>じ</rt></ruby>／18-20<ruby>時<rt>じ</rt></ruby>／19-21<ruby>時<rt>じ</rt></ruby>）
        │
        ▼
-5. 申し込み完了！ 指定した時間に家で待つだけ！
+5. <ruby>申し込<rt>もうしこ</rt></ruby>み<ruby>完了<rt>かんりょう</rt></ruby>！ <ruby>指定<rt>してい</rt></ruby>した<ruby>時間<rt>じかん</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>で<ruby>待<rt>ま</rt></ruby>つだけ！
 ```
 
 ### <ruby>当日<rt>とうじつ</rt></ruby><ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby>の「<ruby>締め切<rt>しめき</rt></ruby>りタイムリミット」に<ruby>注意<rt>ちゅうい</rt></ruby>！
@@ -152,32 +152,32 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>宅配<rt>たくはい</rt></ruby>システムは、<ruby>仕組<rt>しく</rt></ruby>みさえ<ruby>分<rt>わ</rt></ruby>かれば<ruby>世界一<rt>せかいいち</rt></ruby><ruby>便利<rt>べんり</rt></ruby>で<ruby>正確<rt>せいかく</rt></ruby>なインフラです。<ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>をサクッと<ruby>攻略<rt>こうりゃく</rt></ruby>して、<ruby>快適<rt>かいてき</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ってくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">不在票（ふざいひょう）</span>
+        <span class="c-vocab-card__word"><ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>（ふざいひょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>delivery notice</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>留守中に荷物が届いたようで、ポストに不在票が入っていた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>delivery notice</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>留守<rt>るす</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いたようで、ポストに<ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っていた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">再配達（さいはいたつ）</span>
+        <span class="c-vocab-card__word"><ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby>（さいはいたつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>redelivery</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>不在票のQRコードをスマホで読み取り、今夜の再配達を申し込んだ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>redelivery</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>不在<rt>ふざい</rt></ruby><ruby>票<rt>ひょう</rt></ruby>のQRコードをスマホで<ruby>読み取<rt>よみと</rt></ruby>り、<ruby>今夜<rt>こんや</rt></ruby>の<ruby>再<rt>さい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby>を<ruby>申し込<rt>もうしこ</rt></ruby>んだ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">追跡（ついせき）</span>
+        <span class="c-vocab-card__word"><ruby>追跡<rt>ついせき</rt></ruby>（ついせき）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>tracking</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>荷物の問い合わせ番号をネットに入力して、配送状況を追跡する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>tracking</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>荷物<rt>にもつ</rt></ruby>の<ruby>問い合<rt>といあ</rt></ruby>わせ<ruby>番号<rt>ばんごう</rt></ruby>をネットに<ruby>入力<rt>にゅうりょく</rt></ruby>して、<ruby>配送<rt>はいそう</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>追跡<rt>ついせき</rt></ruby>する。</p>
     </div>
   </div>
 </div>

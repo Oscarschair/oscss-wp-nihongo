@@ -14,8 +14,7 @@ tags:
   - JLPT N4
   - 実践会話
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>食<rt>しょく</rt></ruby>のワンダーランド「**[デパ地下・惣菜コーナーの量り売りダンジョン完全攻略ガイド](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-09-street-japanese-depachika-delica-gram-order-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>食<rt>しょく</rt></ruby>のワンダーランド「**[デパ<ruby>地下<rt>ちか</rt></ruby>・<ruby>惣菜<rt>そうざい</rt></ruby>コーナーの<ruby>量り売<rt>はかりう</rt></ruby>りダンジョン<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>ガイド](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-09-street-japanese-depachika-delica-gram-order-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>終電<rt>しゅうでん</rt></ruby>を<ruby>逃<rt>のが</rt></ruby>したときや<ruby>大<rt>おお</rt></ruby>きな<ruby>荷物<rt>にもつ</rt></ruby>があるときの<ruby>強<rt>つよ</rt></ruby>い<ruby>味方<rt>みかた</rt></ruby>、**「<ruby>日本<rt>にっぽん</rt></ruby>のタクシー<ruby>乗車<rt>じょうしゃ</rt></ruby>・<ruby>降車<rt>こうしゃ</rt></ruby>」サバイバル**です！
 
@@ -27,27 +26,27 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！タクシー<ruby>乗り降<rt>のりお</rt></ruby>り4<ruby>大<rt>だい</rt></ruby>ステップ
 
 ```
-【ステップ①：タクシーを止める】
-  ★道端で手を水平より少し上に挙げる！
-  ★フロントガラスの表示をチェック：
-      ・「空車（くうしゃ・赤色）」＝ 乗れる！大チャンス！
-      ・「賃走（ちんそう・緑色）」＝ お客さんが乗っている（止まらない）
-      ・「迎車（げいしゃ・黄色）」＝ 予約車（止まらない）
-      ・「回送（かいそう）」＝ 休憩・車庫に戻る途中（止まらない）
+【ステップ①：タクシーを<ruby>止<rt>と</rt></ruby>める】
+  ★<ruby>道端<rt>みちばた</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>水平<rt>すいへい</rt></ruby>より<ruby>少<rt>すこ</rt></ruby>し<ruby>上<rt>うえ</rt></ruby>に<ruby>挙<rt>あ</rt></ruby>げる！
+  ★フロントガラスの<ruby>表示<rt>ひょうじ</rt></ruby>をチェック：
+      ・「<ruby>空車<rt>くうしゃ</rt></ruby>（くうしゃ・<ruby>赤色<rt>あかいろ</rt></ruby>）」＝ <ruby>乗<rt>の</rt></ruby>れる！<ruby>大<rt>だい</rt></ruby>チャンス！
+      ・「<ruby>賃<rt>ちん</rt></ruby><ruby>走<rt>はし</rt></ruby>（ちんそう・<ruby>緑色<rt>りょくしょく</rt></ruby>）」＝ お<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>乗<rt>の</rt></ruby>っている（<ruby>止<rt>と</rt></ruby>まらない）
+      ・「<ruby>迎車<rt>げいしゃ</rt></ruby>（げいしゃ・<ruby>黄色<rt>きいろ</rt></ruby>）」＝ <ruby>予約<rt>よやく</rt></ruby><ruby>車<rt>しゃ</rt></ruby>（<ruby>止<rt>と</rt></ruby>まらない）
+      ・「<ruby>回送<rt>かいそう</rt></ruby>（かいそう）」＝ <ruby>休憩<rt>きゅうけい</rt></ruby>・<ruby>車庫<rt>しゃこ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<ruby>途中<rt>とちゅう</rt></ruby>（<ruby>止<rt>と</rt></ruby>まらない）
 
-【ステップ②：乗車（絶対にドアに触らない！）】
-  ★車の左後ろに立ち、一歩下がる。
-  ★運転手さんがレバーを引いて「プシューッ」と自動で開きます！
-  ★乗り込んだら、ドアが自動で閉まるのを静かに待ちます。
+【ステップ②：<ruby>乗車<rt>じょうしゃ</rt></ruby>（<ruby>絶対<rt>ぜったい</rt></ruby>にドアに<ruby>触<rt>さわ</rt></ruby>らない！）】
+  ★<ruby>車<rt>くるま</rt></ruby>の<ruby>左<rt>ひだり</rt></ruby><ruby>後<rt>うし</rt></ruby>ろに<ruby>立<rt>た</rt></ruby>ち、<ruby>一<rt>いち</rt></ruby><ruby>歩<rt>ほ</rt></ruby><ruby>下<rt>さ</rt></ruby>がる。
+  ★<ruby>運転<rt>うんてん</rt></ruby><ruby>手<rt>しゅ</rt></ruby>さんがレバーを<ruby>引<rt>ひ</rt></ruby>いて「プシューッ」と<ruby>自動<rt>じどう</rt></ruby>で<ruby>開<rt>ひら</rt></ruby>きます！
+  ★<ruby>乗り込<rt>のりこ</rt></ruby>んだら、ドアが<ruby>自動<rt>じどう</rt></ruby>で<ruby>閉<rt>し</rt></ruby>まるのを<ruby>静<rt>しず</rt></ruby>かに<ruby>待<rt>ま</rt></ruby>ちます。
 
-【ステップ③：行き先を伝える】
-  ★「〇〇駅の東口までお願いします。」
-  ★「この住所の近くまで行っていただけますか？（スマホの地図を見せる）」
+【ステップ③：<ruby>行き先<rt>ゆきさき</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>える】
+  ★「〇〇<ruby>駅<rt>えき</rt></ruby>の<ruby>東口<rt>ひがしぐち</rt></ruby>までお<ruby>願<rt>ねが</rt></ruby>いします。」
+  ★「この<ruby>住所<rt>じゅうしょ</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くまで<ruby>行<rt>い</rt></ruby>っていただけますか？（スマホの<ruby>地図<rt>ちず</rt></ruby>を<ruby>見<rt>み</rt></ruby>せる）」
 
-【ステップ④：支払いと降車】
-  ★支払い（現金・クレジットカード・交通系IC・QRコード決済）
-  ★「領収書（りょうしゅうしょ）をお願いします！」
-  ★降りるときも自動ドア！忘れ物がないかシートを確認して下車。
+【ステップ④：<ruby>支払<rt>しはら</rt></ruby>いと<ruby>降車<rt>こうしゃ</rt></ruby>】
+  ★<ruby>支払<rt>しはら</rt></ruby>い（<ruby>現金<rt>げんきん</rt></ruby>・クレジットカード・<ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>IC・QRコード<ruby>決済<rt>けっさい</rt></ruby>）
+  ★「<ruby>領収<rt>りょうしゅう</rt></ruby><ruby>書<rt>しょ</rt></ruby>（りょうしゅうしょ）をお<ruby>願<rt>ねが</rt></ruby>いします！」
+  ★<ruby>降<rt>お</rt></ruby>りるときも<ruby>自動<rt>じどう</rt></ruby>ドア！<ruby>忘れ物<rt>わすれもの</rt></ruby>がないかシートを<ruby>確認<rt>かくにん</rt></ruby>して<ruby>下車<rt>げしゃ</rt></ruby>。
 ```
 
 ---
@@ -85,11 +84,11 @@ tags:
 <ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>や<ruby>深夜<rt>しんや</rt></ruby>、<ruby>道端<rt>みちばた</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げてもタクシーが<ruby>捕<rt>つか</rt></ruby>まらないときの<ruby>秘密<rt>ひみつ</rt></ruby><ruby>兵器<rt>へいき</rt></ruby>が「タクシー<ruby>配車<rt>はいしゃ</rt></ruby>アプリ（GO・S.RIDE・Uber）」です！
 
 ```
-【タクシーサバイバル装備（インベントリ）】
-  ・スマホ（配車アプリインストール済み・GPSオン）
-  ・目的地メモ（正確なビル名・住所・最寄り交差点）
-  ・クレジットカード / 交通系ICカード（Suica/PASMO）
-  ・傘（乗車・降車時の雨除け）
+【タクシーサバイバル<ruby>装備<rt>そうび</rt></ruby>（インベントリ）】
+  ・スマホ（<ruby>配車<rt>はいしゃ</rt></ruby>アプリインストール<ruby>済<rt>ず</rt></ruby>み・GPSオン）
+  ・<ruby>目的<rt>もくてき</rt></ruby><ruby>地<rt>ち</rt></ruby>メモ（<ruby>正確<rt>せいかく</rt></ruby>なビル<ruby>名<rt>めい</rt></ruby>・<ruby>住所<rt>じゅうしょ</rt></ruby>・<ruby>最寄<rt>もよ</rt></ruby>り<ruby>交差点<rt>こうさてん</rt></ruby>）
+  ・クレジットカード / <ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>ICカード（Suica/PASMO）
+  ・<ruby>傘<rt>かさ</rt></ruby>（<ruby>乗車<rt>じょうしゃ</rt></ruby>・<ruby>降車<rt>こうしゃ</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby><ruby>除<rt>のぞ</rt></ruby>け）
 ```
 
 ### 📱 アプリ<ruby>決済<rt>けっさい</rt></ruby>（GO Pay<ruby>等<rt>とう</rt></ruby>）なら<ruby>会話<rt>かいわ</rt></ruby>ゼロで<ruby>降車<rt>こうしゃ</rt></ruby><ruby>可能<rt>かのう</rt></ruby>！

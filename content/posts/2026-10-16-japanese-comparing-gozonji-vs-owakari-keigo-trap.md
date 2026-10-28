@@ -28,16 +28,16 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「<ruby>知<rt>し</rt></ruby>る」と「<ruby>分<rt>わ</rt></ruby>かる」の<ruby>敬語<rt>けいご</rt></ruby>マップ
 
 ```
-【知識・事実の有無をたずねる】
-  ★「知る」の尊敬語 ＝「ご存じですか？」
-      ◎「このニュースをご存じですか？」
-      ◎「弊社のサービスをご存じですか？」
-      ※知識を持っているかどうかを聞くだけなので、失礼にならない！
+【<ruby>知識<rt>ちしき</rt></ruby>・<ruby>事実<rt>じじつ</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>をたずねる】
+  ★「<ruby>知<rt>し</rt></ruby>る」の<ruby>尊敬<rt>そんけい</rt></ruby><ruby>語<rt>ご</rt></ruby> ＝「ご<ruby>存<rt>ぞん</rt></ruby>じですか？」
+      ◎「このニュースをご<ruby>存<rt>ぞん</rt></ruby>じですか？」
+      ◎「<ruby>弊社<rt>へいしゃ</rt></ruby>のサービスをご<ruby>存<rt>ぞん</rt></ruby>じですか？」
+      ※<ruby>知識<rt>ちしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>っているかどうかを<ruby>聞<rt>き</rt></ruby>くだけなので、<ruby>失礼<rt>しつれい</rt></ruby>にならない！
 
-【内容の理解度・能力をたずねる】
-  ★「分かる」の尊敬語 ＝「お分かりになりますか？」
-      × 目上の人や取引先に使うのはNG！（「あなたに理解できる頭がありますか？」と聞こえる）
-      ○ 正しい言い換え ＝「ご理解いただけましたでしょうか？」「ご不明な点はございませんでしょうか？」
+【<ruby>内容<rt>ないよう</rt></ruby>の<ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>・<ruby>能力<rt>のうりょく</rt></ruby>をたずねる】
+  ★「<ruby>分<rt>わ</rt></ruby>かる」の<ruby>尊敬<rt>そんけい</rt></ruby><ruby>語<rt>ご</rt></ruby> ＝「お<ruby>分<rt>わ</rt></ruby>かりになりますか？」
+      × <ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>や<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うのはNG！（「あなたに<ruby>理解<rt>りかい</rt></ruby>できる<ruby>頭<rt>あたま</rt></ruby>がありますか？」と<ruby>聞<rt>き</rt></ruby>こえる）
+      ○ <ruby>正<rt>ただ</rt></ruby>しい<ruby>言い換<rt>いいか</rt></ruby>え ＝「ご<ruby>理解<rt>りかい</rt></ruby>いただけましたでしょうか？」「ご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>はございませんでしょうか？」
 ```
 
 |<ruby>表現<rt>ひょうげん</rt></ruby>| ニュアンス |<ruby>相手<rt>あいて</rt></ruby>への<ruby>印象<rt>いんしょう</rt></ruby>|<ruby>目上<rt>めうえ</rt></ruby>・<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>|
@@ -146,32 +146,32 @@ tags:
 * 📌 **「ご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>はございますか？」「ご<ruby>理解<rt>りかい</rt></ruby>いただけましたでしょうか」**に<ruby>言い換<rt>いいか</rt></ruby>えるのがプロのビジネスマナー！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">ご存じ（ごぞんじ）</span>
+        <span class="c-vocab-card__word">ご<ruby>存<rt>ぞん</rt></ruby>じ（ごぞんじ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>knowing, awareness (respectful form of 知る)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>明日の会議の開始時間が10時に変更されたことをご存じですか？</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>knowing, awareness (respectful form of <ruby>知<rt>し</rt></ruby>る)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開始<rt>かいし</rt></ruby><ruby>時間<rt>じかん</rt></ruby>が10<ruby>時<rt>じ</rt></ruby>に<ruby>変更<rt>へんこう</rt></ruby>されたことをご<ruby>存<rt>ぞん</rt></ruby>じですか？</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">ご不明な点（ごふめいなてん）</span>
+        <span class="c-vocab-card__word">ご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>（ごふめいなてん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>unclear points, questions</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>資料をご覧いただき、何かご不明な点がございましたらお気軽にお申し付けください。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>unclear points, questions</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>資料<rt>しりょう</rt></ruby>をご<ruby>覧<rt>らん</rt></ruby>いただき、<ruby>何<rt>なに</rt></ruby>かご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>がございましたらお<ruby>気軽<rt>きがる</rt></ruby>にお<ruby>申し付<rt>もうしつ</rt></ruby>けください。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">承知いたしました（しょうちいたしました）</span>
+        <span class="c-vocab-card__word"><ruby>承知<rt>しょうち</rt></ruby>いたしました（しょうちいたしました）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>understood, certainly (humble form of 分かりました)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>先輩からの指示内容、しっかりと承知いたしました。すぐに着手します。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>understood, certainly (humble form of <ruby>分<rt>わ</rt></ruby>かりました)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>先輩<rt>せんぱい</rt></ruby>からの<ruby>指示<rt>しじ</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>、しっかりと<ruby>承知<rt>しょうち</rt></ruby>いたしました。すぐに<ruby>着手<rt>ちゃくしゅ</rt></ruby>します。</p>
     </div>
   </div>
 </div>

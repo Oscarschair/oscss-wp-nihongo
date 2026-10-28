@@ -16,7 +16,7 @@ tags:
 ---
 <ruby>海外<rt>かいがい</rt></ruby>から<ruby>日本<rt>にほん</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>や<ruby>大学院<rt>だいがくいん</rt></ruby>、<ruby>専門<rt>せんもん</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>する<ruby>際<rt>さい</rt></ruby>、だれもが<ruby>一度<rt>いちど</rt></ruby>は<ruby>夢<rt>ゆめ</rt></ruby>を<ruby>見<rt>み</rt></ruby>るのが「**<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>（しょうがくきん）**」です。
 
-<ruby>英語<rt>えいご</rt></ruby>で「Scholarship（スカラーシップ）」、<ruby>中国語<rt>ちゅうごくご</rt></ruby>で「<ruby>奖学金<rt>*</rt></ruby>（ジアンシュエジン）」。
+<ruby>英語<rt>えいご</rt></ruby>で「Scholarship（スカラーシップ）」、<ruby>中国語<rt>ちゅうごくご</rt></ruby>で「奖学金（ジアンシュエジン）」。
 どちらも、「<ruby>成績<rt>せいせき</rt></ruby>が<ruby>優秀<rt>ゆうしゅう</rt></ruby>な<ruby>学生<rt>がくせい</rt></ruby>に<ruby>贈<rt>おく</rt></ruby>られる、**<ruby>返済<rt>へんさい</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>の<ruby>褒美<rt>ほうび</rt></ruby>・<ruby>支援<rt>しえん</rt></ruby><ruby>金<rt>きん</rt></ruby>**」を<ruby>意味<rt>いみ</rt></ruby>します。
 
 ところが、<ruby>日本<rt>にほん</rt></ruby>で「<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>」に<ruby>申<rt>もう</rt></ruby>し<ruby>込<rt>こ</rt></ruby>もうとした<ruby>留学生<rt>りゅうがくせい</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くが、ある<ruby>恐<rt>おそ</rt></ruby>ろしい<ruby>現実<rt>げんじつ</rt></ruby>に<ruby>直面<rt>ちょくめん</rt></ruby>して<ruby>青<rt>あお</rt></ruby>ざめることになります。
@@ -58,32 +58,32 @@ A: <ruby>極<rt>きわ</rt></ruby>めて<ruby>大<rt>おお</rt></ruby>きく<ru
 A: <ruby>可能<rt>かのう</rt></ruby>です。ただし、<ruby>一部<rt>いちぶ</rt></ruby>の<ruby>給付<rt>きゅうふ</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>には「<ruby>年間<rt>ねんかん</rt></ruby>のアルバイト<ruby>収入<rt>しゅうにゅう</rt></ruby><ruby>制限<rt>せいげん</rt></ruby>（<ruby>例<rt>れい</rt></ruby>：<ruby>年間<rt>ねんかん</rt></ruby>103<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>以下<rt>いか</rt></ruby>）」が<ruby>設定<rt>せってい</rt></ruby>されている<ruby>場合<rt>ばあい</rt></ruby>があります。<ruby>制限<rt>せいげん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えると<ruby>受給<rt>じゅきゅう</rt></ruby><ruby>資格<rt>しかく</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>うことがあるため、<ruby>事前<rt>じぜん</rt></ruby>の<ruby>受給<rt>じゅきゅう</rt></ruby><ruby>規程<rt>きてい</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>が<ruby>不可欠<rt>ふかけつ</rt></ruby>です。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">奨学金（しょうがくきん）</span>
+        <span class="c-vocab-card__word"><ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>（しょうがくきん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>scholarship, student loan</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>大学に進学するために、返済不要の奨学金を申請した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>scholarship, student loan</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>大学<rt>だいがく</rt></ruby>に<ruby>進学<rt>しんがく</rt></ruby>するために、<ruby>返済<rt>へんさい</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>の<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">返済（へんさい）</span>
+        <span class="c-vocab-card__word"><ruby>返済<rt>へんさい</rt></ruby>（へんさい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>repayment, reimbursement</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>卒業後に毎月少しずつ奨学金を返済していく予定です。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>repayment, reimbursement</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>卒業<rt>そつぎょう</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>毎月<rt>まいつき</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>を<ruby>返済<rt>へんさい</rt></ruby>していく<ruby>予定<rt>よてい</rt></ruby>です。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">制度（せいど）</span>
+        <span class="c-vocab-card__word"><ruby>制度<rt>せいど</rt></ruby>（せいど）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>system, institution</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>留学生を支援するための新しい制度が発表された。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>system, institution</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>留学生<rt>りゅうがくせい</rt></ruby>を<ruby>支援<rt>しえん</rt></ruby>するための<ruby>新<rt>あたら</rt></ruby>しい<ruby>制度<rt>せいど</rt></ruby>が<ruby>発表<rt>はっぴょう</rt></ruby>された。</p>
     </div>
   </div>
 </div>
@@ -101,7 +101,7 @@ A: <ruby>可能<rt>かのう</rt></ruby>です。ただし、<ruby>一部<rt>い
 |**<ruby>貸与<rt>たいよ</rt></ruby><ruby>型<rt>がた</rt></ruby>・<ruby>第<rt>だい</rt></ruby><ruby>二<rt>に</rt></ruby><ruby>種<rt>しゅ</rt></ruby>**|お<ruby>金<rt>かね</rt></ruby>を<ruby>借<rt>か</rt></ruby>りる| ⭕ **あり** |<ruby>利息<rt>りそく</rt></ruby>あり| **Commercial Student Loan** |
 
 ### なぜ「ローン」を「<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ぶのか？
-<ruby>欧米<rt>おうべい</rt></ruby>やアジア<ruby>諸国<rt>しょこく</rt></ruby>では、<ruby>返済<rt>へんさい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なものは<ruby>明確<rt>めいかく</rt></ruby>に「Student Loan（<ruby>学生<rt>がくせい</rt></ruby>ローン / <ruby>助<rt>すけ</rt></ruby><ruby>学<rt>がく</rt></ruby><ruby>贷款<rt>*</rt></ruby>）」と<ruby>呼<rt>よ</rt></ruby>び、Scholarshipとは<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>区別<rt>くべつ</rt></ruby>されます。
+<ruby>欧米<rt>おうべい</rt></ruby>やアジア<ruby>諸国<rt>しょこく</rt></ruby>では、<ruby>返済<rt>へんさい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>なものは<ruby>明確<rt>めいかく</rt></ruby>に「Student Loan（<ruby>学生<rt>がくせい</rt></ruby>ローン / <ruby>助<rt>すけ</rt></ruby><ruby>学<rt>がく</rt></ruby>贷款）」と<ruby>呼<rt>よ</rt></ruby>び、Scholarshipとは<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>区別<rt>くべつ</rt></ruby>されます。
 しかし<ruby>日本<rt>にほん</rt></ruby>では、<ruby>戦後<rt>せんご</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>経緯<rt>けいい</rt></ruby>（<ruby>日本<rt>にほん</rt></ruby><ruby>学生<rt>がくせい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>機構<rt>きこう</rt></ruby>・<ruby>旧<rt>きゅう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>育英<rt>いくえい</rt></ruby><ruby>会<rt>かい</rt></ruby>）から、「<ruby>学問<rt>がくもん</rt></ruby>を<ruby>奨励<rt>しょうれい</rt></ruby>するためのお<ruby>金<rt>かね</rt></ruby>」という<ruby>美名<rt>びめい</rt></ruby>のもとに、<ruby>学生<rt>がくせい</rt></ruby>ローンも<ruby>含<rt>ふく</rt></ruby>めてすべて「<ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ぶ<ruby>習慣<rt>しゅうかん</rt></ruby>が<ruby>定着<rt>ていちゃく</rt></ruby>してしまいました。
 このため、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>留学生<rt>りゅうがくせい</rt></ruby>が「Scholarshipだ！」と<ruby>信<rt>しん</rt></ruby>じて<ruby>申請<rt>しんせい</rt></ruby>し、<ruby>卒業<rt>そつぎょう</rt></ruby><ruby>後<rt>ご</rt></ruby>に<ruby>数<rt>すう</rt></ruby><ruby>百<rt>ひゃく</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>借金<rt>しゃっきん</rt></ruby>を<ruby>背負<rt>せお</rt></ruby>うという<ruby>悲劇<rt>ひげき</rt></ruby>が<ruby>後<rt>ご</rt></ruby>を<ruby>絶<rt>た</rt></ruby>たないのです。
 
@@ -162,11 +162,11 @@ A: <ruby>可能<rt>かのう</rt></ruby>です。ただし、<ruby>一部<rt>い
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>民間<rt>みんかん</rt></ruby><ruby>財団<rt>ざいだん</rt></ruby>や<ruby>大学<rt>だいがく</rt></ruby>の<ruby>給付<rt>きゅうふ</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>奨学<rt>しょうがく</rt></ruby><ruby>金<rt>きん</rt></ruby>の<ruby>審査<rt>しんさ</rt></ruby>で、<ruby>合格<rt>ごうかく</rt></ruby><ruby>率<rt>りつ</rt></ruby>を<ruby>跳<rt>は</rt></ruby>ね<ruby>上<rt>あ</rt></ruby>げる<ruby>志望<rt>しぼう</rt></ruby><ruby>動機<rt>どうき</rt></ruby><ruby>書<rt>しょ</rt></ruby>の<ruby>構成<rt>こうせい</rt></ruby><ruby>案<rt>あん</rt></ruby>です。
 
 ```
-【志望動機書の構成テンプレート】
-1. なぜ日本で学ばなければならないのか（専門分野の魅力と日本の先進性）
-2. 経済的な現状と、学業に専念したいという強い情熱
-3. 将来の明確なビジョン（母国と日本をつなぐ具体的なビジネスや研究計画）
-4. 支援を受けることへの深い感謝と、社会への還元意識
+【<ruby>志望<rt>しぼう</rt></ruby><ruby>動機<rt>どうき</rt></ruby><ruby>書<rt>しょ</rt></ruby>の<ruby>構成<rt>こうせい</rt></ruby>テンプレート】
+1. なぜ<ruby>日本<rt>にほん</rt></ruby>で<ruby>学<rt>まな</rt></ruby>ばなければならないのか（<ruby>専門<rt>せんもん</rt></ruby><ruby>分野<rt>ぶんや</rt></ruby>の<ruby>魅力<rt>みりょく</rt></ruby>と<ruby>日本<rt>にほん</rt></ruby>の<ruby>先進<rt>せんしん</rt></ruby><ruby>性<rt>せい</rt></ruby>）
+2. <ruby>経済<rt>けいざい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>現状<rt>げんじょう</rt></ruby>と、<ruby>学業<rt>がくぎょう</rt></ruby>に<ruby>専念<rt>せんねん</rt></ruby>したいという<ruby>強<rt>つよ</rt></ruby>い<ruby>情熱<rt>じょうねつ</rt></ruby>
+3. <ruby>将来<rt>しょうらい</rt></ruby>の<ruby>明確<rt>めいかく</rt></ruby>なビジョン（<ruby>母国<rt>ぼこく</rt></ruby>と<ruby>日本<rt>にほん</rt></ruby>をつなぐ<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>なビジネスや<ruby>研究<rt>けんきゅう</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>）
+4. <ruby>支援<rt>しえん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることへの<ruby>深<rt>ふか</rt></ruby>い<ruby>感謝<rt>かんしゃ</rt></ruby>と、<ruby>社会<rt>しゃかい</rt></ruby>への<ruby>還元<rt>かんげん</rt></ruby><ruby>意識<rt>いしき</rt></ruby>
 ```
 
 #### <ruby>先輩<rt>せんぱい</rt></ruby><ruby>留学生<rt>りゅうがくせい</rt></ruby>の<ruby>合格<rt>ごうかく</rt></ruby>インタビュー

@@ -44,15 +44,15 @@ tags:
 「ちょっと」と「<ruby>少<rt>すこ</rt></ruby>し」の<ruby>最大<rt>さいだい</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いは、**フォーマル<ruby>度<rt>ど</rt></ruby>（<ruby>場面<rt>ばめん</rt></ruby>の<ruby>硬<rt>かた</rt></ruby>さ）**にあります。
 
 ```
-【二大副詞のキャラクター比較】
+【<ruby>二<rt>に</rt></ruby><ruby>大<rt>だい</rt></ruby><ruby>副詞<rt>ふくし</rt></ruby>のキャラクター<ruby>比較<rt>ひかく</rt></ruby>】
 
-●【ちょっと】＝［話し言葉・カジュアル・感情のクッション］
-  親しい間柄の日常会話で多用される。
-  数量だけでなく「断り」「呼び止め」「非難の緩和」など多機能に化ける！
+●【ちょっと】＝［<ruby>話し言葉<rt>はなしことば</rt></ruby>・カジュアル・<ruby>感情<rt>かんじょう</rt></ruby>のクッション］
+  <ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>の<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で<ruby>多用<rt>たよう</rt></ruby>される。
+  <ruby>数量<rt>すうりょう</rt></ruby>だけでなく「<ruby>断<rt>ことわ</rt></ruby>り」「<ruby>呼び止<rt>よびと</rt></ruby>め」「<ruby>非難<rt>ひなん</rt></ruby>の<ruby>緩和<rt>かんわ</rt></ruby>」など<ruby>多<rt>た</rt></ruby><ruby>機能<rt>きのう</rt></ruby>に<ruby>化<rt>ば</rt></ruby>ける！
 
-●【少し（すこし）】＝［客観的・文章語・中立的］
-  数量や程度が「少ないこと」を客観的・知的に述べる言葉。
-  ビジネスや改まった場、書き言葉でも安心して使える！
+●【<ruby>少<rt>すこ</rt></ruby>し（すこし）】＝［<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>・<ruby>文章<rt>ぶんしょう</rt></ruby><ruby>語<rt>ご</rt></ruby>・<ruby>中立<rt>ちゅうりつ</rt></ruby><ruby>的<rt>てき</rt></ruby>］
+  <ruby>数量<rt>すうりょう</rt></ruby>や<ruby>程度<rt>ていど</rt></ruby>が「<ruby>少<rt>すく</rt></ruby>ないこと」を<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>・<ruby>知的<rt>ちてき</rt></ruby>に<ruby>述<rt>の</rt></ruby>べる<ruby>言葉<rt>ことば</rt></ruby>。
+  ビジネスや<ruby>改<rt>あらた</rt></ruby>まった<ruby>場<rt>ば</rt></ruby>、<ruby>書き言葉<rt>かきことば</rt></ruby>でも<ruby>安心<rt>あんしん</rt></ruby>して<ruby>使<rt>つか</rt></ruby>える！
 ```
 
 ### <ruby>一目<rt>いちもく</rt></ruby>でわかる<ruby>比較<rt>ひかく</rt></ruby><ruby>対照<rt>たいしょう</rt></ruby><ruby>表<rt>ひょう</rt></ruby>
@@ -88,15 +88,15 @@ tags:
 「ちょっと」に「した」をくっつけた**「ちょっとした〇〇」**という<ruby>表現<rt>ひょうげん</rt></ruby>は、<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で<ruby>非常<rt>ひじょう</rt></ruby>によく<ruby>使<rt>つか</rt></ruby>われる<ruby>美<rt>うつく</rt></ruby>しい<ruby>言い回<rt>いいまわ</rt></ruby>しです。
 
 ```
-【「ちょっとした」の2大ニュアンス】
+【「ちょっとした」の2<ruby>大<rt>だい</rt></ruby>ニュアンス】
 
-①【ささやかな、大したことのない（謙遜）】
-  ●「これ、【ちょっとしたお礼】です。どうぞ召し上がってください。」
-    👉 高価なものではないけれど、気持ちを込めた小さなプレゼント。
+①【ささやかな、<ruby>大<rt>たい</rt></ruby>したことのない（<ruby>謙遜<rt>けんそん</rt></ruby>）】
+  ●「これ、【ちょっとしたお<ruby>礼<rt>れい</rt></ruby>】です。どうぞ<ruby>召し上<rt>めしあ</rt></ruby>がってください。」
+    👉 <ruby>高価<rt>こうか</rt></ruby>なものではないけれど、<ruby>気持<rt>きも</rt></ruby>ちを<ruby>込<rt>こ</rt></ruby>めた<ruby>小<rt>ちい</rt></ruby>さなプレゼント。
 
-②【なかなかの、並外れた（感嘆・賞賛）】
-  ●「田中先輩の料理の腕前は、【ちょっとしたもの】ですよ！」
-    👉 プロ顔負けの、なかなかのハイレベルであることへの褒め言葉！
+②【なかなかの、<ruby>並外<rt>なみはず</rt></ruby>れた（<ruby>感嘆<rt>かんたん</rt></ruby>・<ruby>賞賛<rt>しょうさん</rt></ruby>）】
+  ●「<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>の<ruby>腕前<rt>うでまえ</rt></ruby>は、【ちょっとしたもの】ですよ！」
+    👉 プロ<ruby>顔負<rt>かおま</rt></ruby>けの、なかなかのハイレベルであることへの<ruby>褒<rt>ほ</rt></ruby>め<ruby>言葉<rt>ことば</rt></ruby>！
 ```
 
 ---
@@ -106,22 +106,22 @@ tags:
 <ruby>職場<rt>しょくば</rt></ruby>や<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して「ちょっと」を<ruby>使<rt>つか</rt></ruby>ってしまうと、どんなに<ruby>敬語<rt>けいご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>っていても<ruby>台無<rt>だいな</rt></ruby>しになります。
 
 ```
-【ビジネスでの言い換え黄金パターン】
+【ビジネスでの<ruby>言い換<rt>いいか</rt></ruby>え<ruby>黄金<rt>おうごん</rt></ruby>パターン】
 
-✕ くだけた表現：「ちょっと待ってください。」
+✕ くだけた<ruby>表現<rt>ひょうげん</rt></ruby>：「ちょっと<ruby>待<rt>ま</rt></ruby>ってください。」
          │
          ▼
-〇 ビジネス敬語：「【少々お待ちいただけますでしょうか】。」
+〇 ビジネス<ruby>敬語<rt>けいご</rt></ruby>：「【<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちいただけますでしょうか】。」
 
-✕ くだけた表現：「ちょっと教えてもらえますか？」
+✕ くだけた<ruby>表現<rt>ひょうげん</rt></ruby>：「ちょっと<ruby>教<rt>おし</rt></ruby>えてもらえますか？」
          │
          ▼
-〇 ビジネス敬語：「【少しお伺いしてもよろしいでしょうか】。」
+〇 ビジネス<ruby>敬語<rt>けいご</rt></ruby>：「【<ruby>少<rt>すこ</rt></ruby>しお<ruby>伺<rt>うかが</rt></ruby>いしてもよろしいでしょうか】。」
 
-✕ くだけた表現：「ちょっと予算が厳しいです。」
+✕ くだけた<ruby>表現<rt>ひょうげん</rt></ruby>：「ちょっと<ruby>予算<rt>よさん</rt></ruby>が<ruby>厳<rt>きび</rt></ruby>しいです。」
          │
          ▼
-〇 ビジネス敬語：「【少々予算的に厳しい状況でございます】。」
+〇 ビジネス<ruby>敬語<rt>けいご</rt></ruby>：「【<ruby>少々<rt>しょうしょう</rt></ruby><ruby>予算<rt>よさん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>厳<rt>きび</rt></ruby>しい<ruby>状況<rt>じょうきょう</rt></ruby>でございます】。」
 ```
 
 ---
@@ -131,20 +131,20 @@ tags:
 あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>センスを<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
-【第1問】
-街角で道に迷ってしまい、歩いている人に声をかけるときの第一声は？
-①「少し、すみません！」
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>街角<rt>まちかど</rt></ruby>で<ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>ってしまい、<ruby>歩<rt>ある</rt></ruby>いている<ruby>人<rt>ひと</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかけるときの<ruby>第一声<rt>だいいっせい</rt></ruby>は？
+①「<ruby>少<rt>すこ</rt></ruby>し、すみません！」
 ②「ちょっと、すみません！」
 
-【第2問】
-取引先からの電話で、「担当者にお繋ぎしますので、お待ちください」と伝えるとき、最も適切な表現は？
-①「ちょっとお待ちください。」
-②「少々お待ちください。」
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>からの<ruby>電話<rt>でんわ</rt></ruby>で、「<ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>にお<ruby>繋<rt>つな</rt></ruby>ぎしますので、お<ruby>待<rt>ま</rt></ruby>ちください」と<ruby>伝<rt>つた</rt></ruby>えるとき、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>表現<rt>ひょうげん</rt></ruby>は？
+①「ちょっとお<ruby>待<rt>ま</rt></ruby>ちください。」
+②「<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください。」
 
-【第3問】
-友達から「日曜日にドライブ行かない？」と誘われたが、予定があって断りたいときの最も自然なフレーズは？
-①「日曜日は、少し都合が悪くて……」
-②「日曜日は、ちょっと都合が悪くて……」
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>友達<rt>ともだち</rt></ruby>から「<ruby>日曜日<rt>にちようび</rt></ruby>にドライブ<ruby>行<rt>い</rt></ruby>かない？」と<ruby>誘<rt>さそ</rt></ruby>われたが、<ruby>予定<rt>よてい</rt></ruby>があって<ruby>断<rt>ことわ</rt></ruby>りたいときの<ruby>最<rt>もっと</rt></ruby>も<ruby>自然<rt>しぜん</rt></ruby>なフレーズは？
+①「<ruby>日曜日<rt>にちようび</rt></ruby>は、<ruby>少<rt>すこ</rt></ruby>し<ruby>都合<rt>つごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて……」
+②「<ruby>日曜日<rt>にちようび</rt></ruby>は、ちょっと<ruby>都合<rt>つごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて……」
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -181,32 +181,32 @@ tags:
 「ちょっと」と「<ruby>少<rt>すこ</rt></ruby>し」の<ruby>使い分<rt>つかいわ</rt></ruby>けをマスターすれば、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>はより<ruby>柔<rt>やわ</rt></ruby>らかく、<ruby>相手<rt>あいて</rt></ruby>を<ruby>思<rt>おも</rt></ruby>いやる<ruby>洗練<rt>せんれん</rt></ruby>されたネイティブの<ruby>響<rt>ひび</rt></ruby>きを<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れることができますよ！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">少々（しょうしょう）</span>
+        <span class="c-vocab-card__word"><ruby>少々<rt>しょうしょう</rt></ruby>（しょうしょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>a little, just a minute</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「確認いたしますので、少々お待ちください」と丁寧に案内された。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>a little, just a minute</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「<ruby>確認<rt>かくにん</rt></ruby>いたしますので、<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください」と<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>案内<rt>あんない</rt></ruby>された。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">遠慮（えんりょ）</span>
+        <span class="c-vocab-card__word"><ruby>遠慮<rt>えんりょ</rt></ruby>（えんりょ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>hesitation, declining</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>飲み会に誘われたが、明日は朝が早いので「ちょっと…」と遠慮した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>hesitation, declining</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>飲<rt>の</rt></ruby>み<ruby>会<rt>かい</rt></ruby>に<ruby>誘<rt>さそ</rt></ruby>われたが、<ruby>明日<rt>あした</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>いので「ちょっと…」と<ruby>遠慮<rt>えんりょ</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">程度（ていど）</span>
+        <span class="c-vocab-card__word"><ruby>程度<rt>ていど</rt></ruby>（ていど）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>degree, amount</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「少し」は客観的な量を表し、「ちょっと」は話し言葉でよく使われる。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>degree, amount</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「<ruby>少<rt>すこ</rt></ruby>し」は<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>量<rt>りょう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>し、「ちょっと」は<ruby>話し言葉<rt>はなしことば</rt></ruby>でよく<ruby>使<rt>つか</rt></ruby>われる。</p>
     </div>
   </div>
 </div>

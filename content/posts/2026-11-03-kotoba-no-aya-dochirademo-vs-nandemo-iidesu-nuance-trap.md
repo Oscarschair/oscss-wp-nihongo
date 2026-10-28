@@ -27,14 +27,14 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>相手<rt>あいて</rt></ruby>が<ruby>受<rt>う</rt></ruby>ける<ruby>印象<rt>いんしょう</rt></ruby>の<ruby>比較<rt>ひかく</rt></ruby>マップ
 
 ```
-【「なんでもいい」「どっちでもいい」と言われた相手の心理】
-  ×「選ぶ責任を自分に丸投げされた（押し付けられた）」
-  ×「この人は私との食事や企画に興味がないのかな？」
-  ×「もし選んだ店が不味かったら文句を言われるかも……」
+【「なんでもいい」「どっちでもいい」と<ruby>言<rt>い</rt></ruby>われた<ruby>相手<rt>あいて</rt></ruby>の<ruby>心理<rt>しんり</rt></ruby>】
+  ×「<ruby>選<rt>えら</rt></ruby>ぶ<ruby>責任<rt>せきにん</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>に<ruby>丸<rt>まる</rt></ruby><ruby>投<rt>な</rt></ruby>げされた（<ruby>押し付<rt>おしつ</rt></ruby>けられた）」
+  ×「この<ruby>人<rt>ひと</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>との<ruby>食事<rt>しょくじ</rt></ruby>や<ruby>企画<rt>きかく</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>がないのかな？」
+  ×「もし<ruby>選<rt>えら</rt></ruby>んだ<ruby>店<rt>みせ</rt></ruby>が<ruby>不味<rt>まず</rt></ruby>かったら<ruby>文句<rt>もんく</rt></ruby>を<ruby>言<rt>い</rt></ruby>われるかも……」
 
-【好感度の高い言い換え（大人の返答）】
-  ◎「どちらも美味しそうで迷っちゃいますね！先輩のオススメはどちらですか？」
-  ◎「私はどちらでも嬉しいですが、強いて言うなら温かいラーメンが良いです！」
+【<ruby>好感<rt>こうかん</rt></ruby><ruby>度<rt>ど</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>言い換<rt>いいか</rt></ruby>え（<ruby>大人<rt>おとな</rt></ruby>の<ruby>返答<rt>へんとう</rt></ruby>）】
+  ◎「どちらも<ruby>美味<rt>おい</rt></ruby>しそうで<ruby>迷<rt>まよ</rt></ruby>っちゃいますね！<ruby>先輩<rt>せんぱい</rt></ruby>のオススメはどちらですか？」
+  ◎「<ruby>私<rt>わたし</rt></ruby>はどちらでも<ruby>嬉<rt>うれ</rt></ruby>しいですが、<ruby>強<rt>し</rt></ruby>いて<ruby>言<rt>い</rt></ruby>うなら<ruby>温<rt>あたた</rt></ruby>かいラーメンが<ruby>良<rt>よ</rt></ruby>いです！」
 ```
 
 |<ruby>表現<rt>ひょうげん</rt></ruby>|<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>（<ruby>本音<rt>ほんね</rt></ruby>）|<ruby>相手<rt>あいて</rt></ruby>への<ruby>聞<rt>き</rt></ruby>こえ<ruby>方<rt>かた</rt></ruby>（<ruby>印象<rt>いんしょう</rt></ruby>）|<ruby>好<rt>こう</rt></ruby><ruby>感度<rt>かんど</rt></ruby>|
@@ -57,7 +57,7 @@ tags:
 
 ---
 
-## 3. <ruby>今日<rt>きょう</rt></ruby>から<ruby>使<rt>つか</rt></ruby>える！<ruby>好<rt>こう</rt></ruby><ruby>感度<rt>かんど</rt></ruby>を<ruby>爆上<rt>*</rt></ruby>げする3<ruby>段<rt>だん</rt></ruby>コンボ
+## 3. <ruby>今日<rt>きょう</rt></ruby>から<ruby>使<rt>つか</rt></ruby>える！<ruby>好<rt>こう</rt></ruby><ruby>感度<rt>かんど</rt></ruby>を爆上げする3<ruby>段<rt>だん</rt></ruby>コンボ
 
 <ruby>選択肢<rt>せんたくし</rt></ruby>を<ruby>迫<rt>せま</rt></ruby>られたときは、<ruby>以下<rt>いか</rt></ruby>の<ruby>公式<rt>こうしき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いましょう！
 
@@ -140,32 +140,32 @@ tags:
 * 📌 **<ruby>自分<rt>じぶん</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>を1<ruby>滴<rt>てき</rt></ruby><ruby>添<rt>そ</rt></ruby>えて、<ruby>相手<rt>あいて</rt></ruby>のオススメを<ruby>聞<rt>き</rt></ruby>くのが<ruby>愛<rt>あい</rt></ruby>されるコツ！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">妥協（だきょう）</span>
+        <span class="c-vocab-card__word"><ruby>妥協<rt>だきょう</rt></ruby>（だきょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>compromise, giving in</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>品質に関しては、一切の妥協を許さずに開発を続けました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>compromise, giving in</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>品質<rt>ひんしつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>しては、<ruby>一切<rt>いっさい</rt></ruby>の<ruby>妥協<rt>だきょう</rt></ruby>を<ruby>許<rt>ゆる</rt></ruby>さずに<ruby>開発<rt>かいはつ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けました。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">無関心（むかんしん）</span>
+        <span class="c-vocab-card__word"><ruby>無<rt>む</rt></ruby><ruby>関心<rt>かんしん</rt></ruby>（むかんしん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>indifference, unconcern, apathy</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>他人の意見に対して無関心な態度をとるのはよくありません。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>indifference, unconcern, apathy</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>他人<rt>たにん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>無関心<rt>むかんしん</rt></ruby>な<ruby>態度<rt>たいど</rt></ruby>をとるのはよくありません。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">強いて言うなら（しいていうなら）</span>
+        <span class="c-vocab-card__word"><ruby>強<rt>し</rt></ruby>いて<ruby>言<rt>い</rt></ruby>うなら（しいていうなら）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>if I had to say, if pressed</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>どちらも甲乙つけがたいですが、強いて言うなら青いドレスが好きです。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>if I had to say, if pressed</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>どちらも<ruby>甲乙<rt>こうおつ</rt></ruby>つけがたいですが、<ruby>強<rt>し</rt></ruby>いて<ruby>言<rt>い</rt></ruby>うなら<ruby>青<rt>あお</rt></ruby>いドレスが<ruby>好<rt>す</rt></ruby>きです。</p>
     </div>
   </div>
 </div>

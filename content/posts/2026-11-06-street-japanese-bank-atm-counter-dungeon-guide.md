@@ -14,8 +14,7 @@ tags:
   - JLPT N3
   - 実践会話
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>衣替え<rt>ころもがえ</rt></ruby>の「**[コインランドリー＆クリーニング屋ダンジョン完全攻略ガイド](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-02-street-japanese-coin-laundry-dry-cleaning-dungeon-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>衣替え<rt>ころもがえ</rt></ruby>の「**[コインランドリー＆クリーニング<ruby>屋<rt>や</rt></ruby>ダンジョン<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>ガイド](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-02-street-japanese-coin-laundry-dry-cleaning-dungeon-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>や<ruby>留学<rt>りゅうがく</rt></ruby>で<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>避<rt>さ</rt></ruby>けては<ruby>通<rt>とお</rt></ruby>れない<ruby>最<rt>さい</rt></ruby><ruby>難関<rt>なんかん</rt></ruby>ダンジョン、**「<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>＆ATM」サバイバル**です！
 
@@ -27,20 +26,20 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！ATMタッチパネルの4<ruby>大<rt>だい</rt></ruby>コマンドマップ
 
 ```
-【① お引き出し（おひきだし）：ATMから現金を自分の手元に出す】
-  ★「お金をおろす」「現金を出したい」ときはこのボタン！
-  ★流れ：カードを入れる → 暗証番号（4桁）→ 金額入力 → 確認 → お札・カード・明細票受取
+【① お<ruby>引き出<rt>ひきだ</rt></ruby>し（おひきだし）：ATMから<ruby>現金<rt>げんきん</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>の<ruby>手元<rt>てもと</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す】
+  ★「お<ruby>金<rt>かね</rt></ruby>をおろす」「<ruby>現金<rt>げんきん</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したい」ときはこのボタン！
+  ★<ruby>流<rt>なが</rt></ruby>れ：カードを<ruby>入<rt>い</rt></ruby>れる → <ruby>暗証<rt>あんしょう</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>（4<ruby>桁<rt>けた</rt></ruby>）→ <ruby>金額<rt>きんがく</rt></ruby><ruby>入力<rt>にゅうりょく</rt></ruby> → <ruby>確認<rt>かくにん</rt></ruby> → お<ruby>札<rt>さつ</rt></ruby>・カード・<ruby>明細<rt>めいさい</rt></ruby><ruby>票<rt>ひょう</rt></ruby><ruby>受取<rt>うけとり</rt></ruby>
 
-【② お預け入れ（おあずけいれ）：持っている現金を口座に入れる】
-  ★「口座にお金を貯める」「入金する」ときはこのボタン！
-  ★流れ：カードまたは通帳を入れる → 投入口が開く → お札を入れる → 計算 → 確認
+【② お<ruby>預け入<rt>あづけい</rt></ruby>れ（おあずけいれ）：<ruby>持<rt>も</rt></ruby>っている<ruby>現金<rt>げんきん</rt></ruby>を<ruby>口座<rt>こうざ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる】
+  ★「<ruby>口座<rt>こうざ</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>貯<rt>た</rt></ruby>める」「<ruby>入金<rt>にゅうきん</rt></ruby>する」ときはこのボタン！
+  ★<ruby>流<rt>なが</rt></ruby>れ：カードまたは<ruby>通帳<rt>かよいちょう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる → <ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>く → お<ruby>札<rt>さつ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる → <ruby>計算<rt>けいさん</rt></ruby> → <ruby>確認<rt>かくにん</rt></ruby>
 
-【③ お振込み（おふりこみ）：相手の口座にお金を送る・支払う】
-  ★家賃、学費、ネットショッピングの代金を送金するとき！
-  ★流れ：カード入れる → 振込先銀行・支店名選択 → 口座番号入力 → 金額 → 受取人名確認
+【③ お<ruby>振込<rt>ふりこ</rt></ruby>み（おふりこみ）：<ruby>相手<rt>あいて</rt></ruby>の<ruby>口座<rt>こうざ</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る・<ruby>支払<rt>しはら</rt></ruby>う】
+  ★<ruby>家賃<rt>やちん</rt></ruby>、<ruby>学費<rt>がくひ</rt></ruby>、ネットショッピングの<ruby>代金<rt>だいきん</rt></ruby>を<ruby>送金<rt>そうきん</rt></ruby>するとき！
+  ★<ruby>流<rt>なが</rt></ruby>れ：カード<ruby>入<rt>い</rt></ruby>れる → <ruby>振込<rt>ふりこみ</rt></ruby><ruby>先<rt>さき</rt></ruby><ruby>銀行<rt>ぎんこう</rt></ruby>・<ruby>支店<rt>してん</rt></ruby><ruby>名<rt>めい</rt></ruby><ruby>選択<rt>せんたく</rt></ruby> → <ruby>口座<rt>こうざ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby><ruby>入力<rt>にゅうりょく</rt></ruby> → <ruby>金額<rt>きんがく</rt></ruby> → <ruby>受取<rt>うけとり</rt></ruby><ruby>人名<rt>じんめい</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>
 
-【④ 通帳記入（つうちょうきにゅう）：通帳に過去の出入金履歴を印字する】
-  ★通帳をパカッと開いて差し込むだけ！暗証番号不要で自動印字されます。
+【④ <ruby>通帳<rt>かよいちょう</rt></ruby><ruby>記入<rt>きにゅう</rt></ruby>（つうちょうきにゅう）：<ruby>通帳<rt>かよいちょう</rt></ruby>に<ruby>過去<rt>かこ</rt></ruby>の<ruby>出入<rt>しゅつにゅう</rt></ruby><ruby>金<rt>きん</rt></ruby><ruby>履歴<rt>りれき</rt></ruby>を<ruby>印字<rt>いんじ</rt></ruby>する】
+  ★<ruby>通帳<rt>かよいちょう</rt></ruby>をパカッと<ruby>開<rt>ひら</rt></ruby>いて<ruby>差し込<rt>さしこ</rt></ruby>むだけ！<ruby>暗証<rt>あんしょう</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>で<ruby>自動<rt>じどう</rt></ruby><ruby>印字<rt>いんじ</rt></ruby>されます。
 ```
 
 ---
@@ -87,12 +86,12 @@ tags:
 <ruby>銀行<rt>ぎんこう</rt></ruby>やATMに<ruby>向<rt>む</rt></ruby>かう<ruby>前<rt>まえ</rt></ruby>に、<ruby>必<rt>かなら</rt></ruby>ず<ruby>持ち物<rt>もちもの</rt></ruby>（<ruby>装備<rt>そうび</rt></ruby><ruby>品<rt>ひん</rt></ruby>）をインベントリで<ruby>確認<rt>かくにん</rt></ruby>しましょう！<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>金融<rt>きんゆう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>は<ruby>本人<rt>ほんにん</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>が<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>厳格<rt>げんかく</rt></ruby>なため、<ruby>忘れ物<rt>わすれもの</rt></ruby>があると<ruby>門前払<rt>もんぜんばら</rt></ruby>いを<ruby>食<rt>く</rt></ruby>らってしまいます。
 
 ```
-【必須インベントリ（持ち物リスト）】
-  ・キャッシュカード（または通帳）
-  ・本人確認書類（在留カード、またはマイナンバーカード、特別永住者証明書）
-  ・お届出印（銀行印として登録したハンコ、またはサイン）
-  ・現金（お預け入れ・振込手数料用）
-  ・送金先情報メモ（銀行名・支店名・科目・口座番号・受取人名フリガナ）
+【<ruby>必須<rt>ひっす</rt></ruby>インベントリ（<ruby>持ち物<rt>もちもの</rt></ruby>リスト）】
+  ・キャッシュカード（または<ruby>通帳<rt>かよいちょう</rt></ruby>）
+  ・<ruby>本人<rt>ほんにん</rt></ruby><ruby>確認<rt>かくにん</rt></ruby><ruby>書類<rt>しょるい</rt></ruby>（<ruby>在留<rt>ざいりゅう</rt></ruby>カード、またはマイナンバーカード、<ruby>特別<rt>とくべつ</rt></ruby><ruby>永住<rt>えいじゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>証明<rt>しょうめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>）
+  ・お<ruby>届出<rt>とどけで</rt></ruby><ruby>印<rt>いん</rt></ruby>（<ruby>銀行<rt>ぎんこう</rt></ruby><ruby>印<rt>しるし</rt></ruby>として<ruby>登録<rt>とうろく</rt></ruby>したハンコ、またはサイン）
+  ・<ruby>現金<rt>げんきん</rt></ruby>（お<ruby>預け入<rt>あづけい</rt></ruby>れ・<ruby>振込<rt>ふりこみ</rt></ruby><ruby>手数料<rt>てすうりょう</rt></ruby><ruby>用<rt>よう</rt></ruby>）
+  ・<ruby>送金<rt>そうきん</rt></ruby><ruby>先<rt>さき</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>メモ（<ruby>銀行<rt>ぎんこう</rt></ruby><ruby>名<rt>めい</rt></ruby>・<ruby>支店<rt>してん</rt></ruby><ruby>名<rt>めい</rt></ruby>・<ruby>科目<rt>かもく</rt></ruby>・<ruby>口座<rt>こうざ</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>・<ruby>受取<rt>うけとり</rt></ruby><ruby>人名<rt>じんめい</rt></ruby>フリガナ）
 ```
 
 ### 🚨 <ruby>現場<rt>げんば</rt></ruby>でパニックになったときの<ruby>緊急<rt>きんきゅう</rt></ruby>エスケープ<ruby>呪文<rt>じゅもん</rt></ruby>

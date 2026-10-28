@@ -25,7 +25,7 @@ tags:
 クルマの<ruby>東京<rt>とうきょう</rt></ruby>でのカルチャーショックを<ruby>見<rt>み</rt></ruby>てみましょう。
 
 > 🚃 **<ruby>満員<rt>まんいん</rt></ruby>の<ruby>山手<rt>やまて</rt></ruby><ruby>線<rt>せん</rt></ruby>にて**
-> 🚗 **クルマ**：「（えええっ！？ <ruby>隣<rt>となり</rt></ruby>のサラリーマンの<ruby>人<rt>ひと</rt></ruby>、<ruby>口<rt>くち</rt></ruby>をぽかんと<ruby>開<rt>あ</rt></ruby>けて<ruby>爆睡<rt>*</rt></ruby>してる！ ポケットから<ruby>財布<rt>さいふ</rt></ruby>が<ruby>半分<rt>はんぶん</rt></ruby><ruby>飛び出<rt>とびだ</rt></ruby>してるよ！？ なんで<ruby>誰<rt>だれ</rt></ruby>も<ruby>盗<rt>ぬす</rt></ruby>まないの！？ ていうか、<ruby>前<rt>まえ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>、<ruby>立<rt>た</rt></ruby>ったまま<ruby>寝<rt>ね</rt></ruby>てるよ！？ サーカスなの！？）」
+> 🚗 **クルマ**：「（えええっ！？ <ruby>隣<rt>となり</rt></ruby>のサラリーマンの<ruby>人<rt>ひと</rt></ruby>、<ruby>口<rt>くち</rt></ruby>をぽかんと<ruby>開<rt>あ</rt></ruby>けて爆睡してる！ ポケットから<ruby>財布<rt>さいふ</rt></ruby>が<ruby>半分<rt>はんぶん</rt></ruby><ruby>飛び出<rt>とびだ</rt></ruby>してるよ！？ なんで<ruby>誰<rt>だれ</rt></ruby>も<ruby>盗<rt>ぬす</rt></ruby>まないの！？ ていうか、<ruby>前<rt>まえ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>、<ruby>立<rt>た</rt></ruby>ったまま<ruby>寝<rt>ね</rt></ruby>てるよ！？ サーカスなの！？）」
 > 
 > クルマは<ruby>周<rt>まわ</rt></ruby>りの<ruby>乗客<rt>じょうきゃく</rt></ruby>の<ruby>貴重<rt>きちょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>が<ruby>気<rt>き</rt></ruby>になって、<ruby>一睡<rt>いっすい</rt></ruby>もできませんでした。
 > 
@@ -40,7 +40,7 @@ tags:
 
 ## 5. <ruby>電車<rt>でんしゃ</rt></ruby><ruby>内<rt>ない</rt></ruby>で<ruby>居眠<rt>いねむ</rt></ruby>りする<ruby>日本人<rt>にっぽんじん</rt></ruby>の「<ruby>驚異<rt>きょうい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>体内<rt>たいない</rt></ruby><ruby>時計<rt>とけい</rt></ruby>」とマナーの<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby>
 
-<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>爆睡<rt>*</rt></ruby>しているサラリーマンが、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>降<rt>お</rt></ruby>りる<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>した<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>も<ruby>鳴<rt>な</rt></ruby>っていないのにパッと<ruby>立ち上<rt>たちあ</rt></ruby>がってホームへ<ruby>降<rt>お</rt></ruby>りていく<ruby>光景<rt>こうけい</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で「<ruby>日本<rt>にほん</rt></ruby>の<ruby>七不思議<rt>ななふしぎ</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれています。
+<ruby>電車<rt>でんしゃ</rt></ruby>で爆睡しているサラリーマンが、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>降<rt>お</rt></ruby>りる<ruby>駅<rt>えき</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>した<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>も<ruby>鳴<rt>な</rt></ruby>っていないのにパッと<ruby>立ち上<rt>たちあ</rt></ruby>がってホームへ<ruby>降<rt>お</rt></ruby>りていく<ruby>光景<rt>こうけい</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で「<ruby>日本<rt>にほん</rt></ruby>の<ruby>七不思議<rt>ななふしぎ</rt></ruby>」と<ruby>呼<rt>よ</rt></ruby>ばれています。
 
 ### なぜ<ruby>乗り過<rt>のりす</rt></ruby>ごさずに<ruby>起<rt>お</rt></ruby>きられるのか？
 1. **<ruby>駅<rt>えき</rt></ruby>の<ruby>到着<rt>とうちゃく</rt></ruby>アナウンスと<ruby>発車<rt>はっしゃ</rt></ruby>メロディを<ruby>無意識<rt>むいしき</rt></ruby>に<ruby>聞<rt>き</rt></ruby>いている**: <ruby>浅<rt>あさ</rt></ruby>い<ruby>睡眠<rt>すいみん</rt></ruby>（ノンレム<ruby>睡眠<rt>すいみん</rt></ruby>）の<ruby>状態<rt>じょうたい</rt></ruby>で、<ruby>耳<rt>みみ</rt></ruby>だけは<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>環境<rt>かんきょう</rt></ruby><ruby>音<rt>おん</rt></ruby>をモニタリングしています。
@@ -60,32 +60,32 @@ A: <ruby>治安<rt>ちあん</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby>
 A: リュックサックやトートバッグは<ruby>必<rt>かなら</rt></ruby>ず**<ruby>体<rt>たい</rt></ruby>の<ruby>正面<rt>しょうめん</rt></ruby>で<ruby>抱え込<rt>かかえこ</rt></ruby>み、<ruby>両<rt>りょう</rt></ruby><ruby>腕<rt>うで</rt></ruby>をバッグの<ruby>上<rt>うえ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>せてホールド**して<ruby>眠<rt>ねむ</rt></ruby>るのが<ruby>鉄則<rt>てっそく</rt></ruby>です。スマートフォンの<ruby>充電<rt>じゅうでん</rt></ruby>ケーブルやイヤホンを<ruby>手首<rt>てくび</rt></ruby>に<ruby>巻<rt>ま</rt></ruby>いておくのも、<ruby>盗難<rt>とうなん</rt></ruby>や<ruby>落下<rt>らっか</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>に<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>有効<rt>ゆうこう</rt></ruby>です。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">居眠り（いねむり）</span>
+        <span class="c-vocab-card__word"><ruby>居眠<rt>いねむ</rt></ruby>り（いねむり）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>dozing off, nodding off</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>満員電車の中で立ったまま居眠りをしている乗客を見かけた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>dozing off, nodding off</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>満員<rt>まんいん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>立<rt>た</rt></ruby>ったまま<ruby>居眠<rt>いねむ</rt></ruby>りをしている<ruby>乗客<rt>じょうきゃく</rt></ruby>を<ruby>見<rt>み</rt></ruby>かけた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">治安（ちあん）</span>
+        <span class="c-vocab-card__word"><ruby>治安<rt>ちあん</rt></ruby>（ちあん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>public safety, public order</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本は夜間に一人で歩いても安全なほど治安が良い。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>public safety, public order</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>は<ruby>夜間<rt>やかん</rt></ruby>に<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>いても<ruby>安全<rt>あんぜん</rt></ruby>なほど<ruby>治安<rt>ちあん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">貴重品（きちょうひん）</span>
+        <span class="c-vocab-card__word"><ruby>貴重<rt>きちょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>（きちょうひん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>valuables</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>カフェを離れるときは、必ず財布などの貴重品を持ち歩く。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>valuables</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>カフェを<ruby>離<rt>はな</rt></ruby>れるときは、<ruby>必<rt>かなら</rt></ruby>ず<ruby>財布<rt>さいふ</rt></ruby>などの<ruby>貴重<rt>きちょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>を<ruby>持ち歩<rt>もちある</rt></ruby>く。</p>
     </div>
   </div>
 </div>
@@ -157,14 +157,14 @@ A: リュックサックやトートバッグは<ruby>必<rt>かなら</rt></rub
 <ruby>治安<rt>ちあん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い<ruby>日本<rt>にほん</rt></ruby>だからこそ、うっかり<ruby>寝過<rt>ねす</rt></ruby>ごして<ruby>大<rt>だい</rt></ruby><ruby>惨事<rt>さんじ</rt></ruby>にならないための<ruby>実践<rt>じっせん</rt></ruby><ruby>的<rt>てき</rt></ruby>ライフハックです。
 
 ```
-【寝過ごし防止の3大自衛策】
-1. スマホの「イヤホンアラーム」を活用する（音を出さずに耳の中だけで振動）
-2. 目的地の2駅前にアラームをセットし、徐々に覚醒させる
-3. 座らずにドア付近に立ち、吊り革を短めに握って適度な緊張感を保つ
+【<ruby>寝過<rt>ねす</rt></ruby>ごし<ruby>防止<rt>ぼうし</rt></ruby>の3<ruby>大<rt>だい</rt></ruby><ruby>自衛<rt>じえい</rt></ruby><ruby>策<rt>さく</rt></ruby>】
+1. スマホの「イヤホンアラーム」を<ruby>活用<rt>かつよう</rt></ruby>する（<ruby>音<rt>おと</rt></ruby>を<ruby>出<rt>だ</rt></ruby>さずに<ruby>耳<rt>みみ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>だけで<ruby>振動<rt>しんどう</rt></ruby>）
+2. <ruby>目的<rt>もくてき</rt></ruby><ruby>地<rt>ち</rt></ruby>の2<ruby>駅前<rt>えきまえ</rt></ruby>にアラームをセットし、<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>覚醒<rt>かくせい</rt></ruby>させる
+3. <ruby>座<rt>すわ</rt></ruby>らずにドア<ruby>付近<rt>ふきん</rt></ruby>に<ruby>立<rt>た</rt></ruby>ち、<ruby>吊り革<rt>つりかわ</rt></ruby>を<ruby>短<rt>みじか</rt></ruby>めに<ruby>握<rt>にぎ</rt></ruby>って<ruby>適度<rt>てきど</rt></ruby>な<ruby>緊張<rt>きんちょう</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つ
 ```
 
 #### <ruby>終電<rt>しゅうでん</rt></ruby>を<ruby>逃<rt>のが</rt></ruby>した<ruby>時<rt>とき</rt></ruby>のエピソード
-> 🚗 **クルマ**：「<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>、<ruby>実<rt>じつ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>、<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>金曜日<rt>きんようび</rt></ruby>に<ruby>居酒屋<rt>いざかや</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りの<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>爆睡<rt>*</rt></ruby>してしまって……<ruby>気<rt>き</rt></ruby>づいたら<ruby>高<rt>こう</rt></ruby><ruby>尾山<rt>おやま</rt></ruby><ruby>行<rt>い</rt></ruby>きの<ruby>終点<rt>しゅうてん</rt></ruby>だったんです！」
+> 🚗 **クルマ**：「<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>、<ruby>実<rt>じつ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>、<ruby>先週<rt>せんしゅう</rt></ruby>の<ruby>金曜日<rt>きんようび</rt></ruby>に<ruby>居酒屋<rt>いざかや</rt></ruby>の<ruby>帰<rt>かえ</rt></ruby>りの<ruby>電車<rt>でんしゃ</rt></ruby>で爆睡してしまって……<ruby>気<rt>き</rt></ruby>づいたら<ruby>高<rt>こう</rt></ruby><ruby>尾山<rt>おやま</rt></ruby><ruby>行<rt>い</rt></ruby>きの<ruby>終点<rt>しゅうてん</rt></ruby>だったんです！」
 > 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「あちゃー！ やっちゃったね！ <ruby>深夜<rt>しんや</rt></ruby>の<ruby>高<rt>こう</rt></ruby><ruby>尾山<rt>おやま</rt></ruby><ruby>駅<rt>えき</rt></ruby>は<ruby>何<rt>なに</rt></ruby>も<ruby>周<rt>まわ</rt></ruby>りにないでしょ？」
 > 🚗 **クルマ**：「はい、<ruby>改札<rt>かいさつ</rt></ruby>を<ruby>出<rt>で</rt></ruby>たら<ruby>真っ暗<rt>まっくら</rt></ruby>で、<ruby>気温<rt>きおん</rt></ruby>もマイナス1<ruby>度<rt>ど</rt></ruby>で<ruby>凍<rt>こご</rt></ruby>え<ruby>死<rt>し</rt></ruby>ぬかと<ruby>思<rt>おも</rt></ruby>いました！ <ruby>結局<rt>けっきょく</rt></ruby>、<ruby>駅前<rt>えきまえ</rt></ruby>の24<ruby>時間<rt>じかん</rt></ruby><ruby>営業<rt>えいぎょう</rt></ruby>の<ruby>漫画<rt>まんが</rt></ruby><ruby>喫茶<rt>きっさ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>して<ruby>朝<rt>あさ</rt></ruby>まで<ruby>始発<rt>しはつ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>ちました……。」
 > 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「それ、<ruby>日本人<rt>にっぽんじん</rt></ruby>サラリーマンの<ruby>誰<rt>だれ</rt></ruby>もが<ruby>通<rt>とお</rt></ruby>る『<ruby>通過<rt>つうか</rt></ruby><ruby>儀礼<rt>ぎれい</rt></ruby>』だよ！ これでクルマくんも<ruby>一<rt>いち</rt></ruby><ruby>人前<rt>にんまえ</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>在住<rt>ざいじゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>だね！」

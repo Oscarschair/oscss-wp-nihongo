@@ -45,16 +45,16 @@ tags:
 カフェで<ruby>貴重<rt>きちょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>が<ruby>盗<rt>ぬす</rt></ruby>まれない<ruby>現象<rt>げんしょう</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>には、<ruby>日本<rt>にほん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>独自<rt>どくじ</rt></ruby>のシステムとモラルが<ruby>存在<rt>そんざい</rt></ruby>します。
 
 ```
-【日本の治安神話を支える3つの柱】
+【<ruby>日本<rt>にほん</rt></ruby>の<ruby>治安<rt>ちあん</rt></ruby><ruby>神話<rt>しんわ</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>える3つの<ruby>柱<rt>はしら</rt></ruby>】
 
-①【「お天道様（おてんとさま）が見ている」という倫理観】
-  誰も見ていなくても、神様や良心が見ている。「他人の物を盗めば自分にバチが当たる」という幼少期からの道徳観。
+①【「お<ruby>天道様<rt>てんとさま</rt></ruby>（おてんとさま）が<ruby>見<rt>み</rt></ruby>ている」という<ruby>倫理<rt>りんり</rt></ruby><ruby>観<rt>かん</rt></ruby>】
+  <ruby>誰<rt>だれ</rt></ruby>も<ruby>見<rt>み</rt></ruby>ていなくても、<ruby>神様<rt>かみさま</rt></ruby>や<ruby>良心<rt>りょうしん</rt></ruby>が<ruby>見<rt>み</rt></ruby>ている。「<ruby>他人<rt>たにん</rt></ruby>の<ruby>物<rt>もの</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>めば<ruby>自分<rt>じぶん</rt></ruby>にバチが<ruby>当<rt>あ</rt></ruby>たる」という<ruby>幼少<rt>ようしょう</rt></ruby><ruby>期<rt>き</rt></ruby>からの<ruby>道徳<rt>どうとく</rt></ruby><ruby>観<rt>かん</rt></ruby>。
 
-②【世界に誇る「交番（KOBAN）」システムと落とし物返還率】
-  警視庁の統計では、東京だけで年間【数十億円もの落とした現金】が警察に届けられ、その7割以上が無事に持ち主の手元に戻っている！
+②【<ruby>世界<rt>せかい</rt></ruby>に<ruby>誇<rt>ほこ</rt></ruby>る「<ruby>交番<rt>こうばん</rt></ruby>（KOBAN）」システムと<ruby>落とし物<rt>おとしもの</rt></ruby><ruby>返還<rt>へんかん</rt></ruby><ruby>率<rt>りつ</rt></ruby>】
+  <ruby>警視庁<rt>けいしちょう</rt></ruby>の<ruby>統計<rt>とうけい</rt></ruby>では、<ruby>東京<rt>とうきょう</rt></ruby>だけで<ruby>年間<rt>ねんかん</rt></ruby>【<ruby>数<rt>すう</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>もの<ruby>落<rt>お</rt></ruby>とした<ruby>現金<rt>げんきん</rt></ruby>】が<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>届<rt>とど</rt></ruby>けられ、その7<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>持ち主<rt>もちぬし</rt></ruby>の<ruby>手元<rt>てもと</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>っている！
 
-③【高密度な防犯カメラと逃げ場のない島国】
-  店内や街頭に監視カメラが網の目のように張り巡らされており、盗難を働けばほぼ100%顔が特定されて逮捕されるリスクがある。
+③【<ruby>高密度<rt>こうみつど</rt></ruby>な<ruby>防犯<rt>ぼうはん</rt></ruby>カメラと<ruby>逃げ場<rt>にげば</rt></ruby>のない<ruby>島国<rt>しまぐに</rt></ruby>】
+  <ruby>店内<rt>てんない</rt></ruby>や<ruby>街頭<rt>がいとう</rt></ruby>に<ruby>監視<rt>かんし</rt></ruby>カメラが<ruby>網<rt>あみ</rt></ruby>の<ruby>目<rt>め</rt></ruby>のように<ruby>張り巡<rt>はりめぐ</rt></ruby>らされており、<ruby>盗難<rt>とうなん</rt></ruby>を<ruby>働<rt>はたら</rt></ruby>けばほぼ100%<ruby>顔<rt>がお</rt></ruby>が<ruby>特定<rt>とくてい</rt></ruby>されて<ruby>逮捕<rt>たいほ</rt></ruby>されるリスクがある。
 ```
 
 ---
@@ -64,11 +64,11 @@ tags:
 <ruby>日本人<rt>にっぽんじん</rt></ruby>がカフェで<ruby>物<rt>もの</rt></ruby>を<ruby>置<rt>お</rt></ruby>くのは、<ruby>治安<rt>ちあん</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さを<ruby>誇示<rt>こじ</rt></ruby>したいからではなく、**「<ruby>純粋<rt>じゅんすい</rt></ruby>に<ruby>席<rt>せき</rt></ruby>をキープしたいから」**です。
 
 ```
-【日本人の荷物置きの進化レベル】
-● レベル1（安全）：ハンカチ、ティッシュ、本、折りたたみ傘
-● レベル2（普通）：仕事用の手帳、上着、ペットボトル
-● レベル3（危険・上級）：社員証、スマートフォン
-● レベル4（狂気の平和ボケ）：開いたままのノートPC、お財布
+【<ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby><ruby>置<rt>お</rt></ruby>きの<ruby>進化<rt>しんか</rt></ruby>レベル】
+● レベル1（<ruby>安全<rt>あんぜん</rt></ruby>）：ハンカチ、ティッシュ、<ruby>本<rt>ほん</rt></ruby>、<ruby>折<rt>お</rt></ruby>りたたみ<ruby>傘<rt>かさ</rt></ruby>
+● レベル2（<ruby>普通<rt>ふつう</rt></ruby>）：<ruby>仕事<rt>しごと</rt></ruby><ruby>用<rt>よう</rt></ruby>の<ruby>手帳<rt>てちょう</rt></ruby>、<ruby>上着<rt>うわぎ</rt></ruby>、ペットボトル
+● レベル3（<ruby>危険<rt>きけん</rt></ruby>・<ruby>上級<rt>じょうきゅう</rt></ruby>）：<ruby>社員<rt>しゃいん</rt></ruby><ruby>証<rt>しょう</rt></ruby>、スマートフォン
+● レベル4（<ruby>狂気<rt>きょうき</rt></ruby>の<ruby>平和<rt>へいわ</rt></ruby>ボケ）：<ruby>開<rt>ひら</rt></ruby>いたままのノートPC、お<ruby>財布<rt>さいふ</rt></ruby>
 ```
 
 <ruby>日本人<rt>にっぽんじん</rt></ruby><ruby>自身<rt>じしん</rt></ruby>も「レベル4はさすがに<ruby>危<rt>あぶ</rt></ruby>ない」と<ruby>認識<rt>にんしき</rt></ruby>していますが、「これまで<ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>盗<rt>ぬす</rt></ruby>まれたことがない<ruby>成功<rt>せいこう</rt></ruby><ruby>体験<rt>たいけん</rt></ruby>」が<ruby>積み重<rt>つみかさ</rt></ruby>なり、つい<ruby>無<rt>む</rt></ruby><ruby>防備<rt>ぼうび</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてしまう<ruby>人<rt>ひと</rt></ruby>が<ruby>後<rt>ご</rt></ruby>を<ruby>絶<rt>た</rt></ruby>ちません。
@@ -95,11 +95,11 @@ tags:
 <ruby>万が一<rt>まんがいち</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>でスマホや<ruby>財布<rt>さいふ</rt></ruby>をどこかに<ruby>置き忘<rt>おきわす</rt></ruby>れてしまった<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>諦<rt>あきら</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず**「<ruby>交番<rt>こうばん</rt></ruby>（こうばん）」**へ<ruby>駆け込<rt>かけこ</rt></ruby>みましょう！
 
 ```
-【落とし物をした時の救出ステップ】
-1. 最寄りの「交番」または駅の「忘れ物センター」へ行く。
-2. 警察官に「〇〇を落としました。届いていませんか？」と聞く。
-3. 届いていない場合は「遺失届（いしつとどけ）」を記入する（色、形、中身の特徴、連絡先）。
-4. 後日、親切な誰かが届けてくれた場合、警察から電話連絡が入る！
+【<ruby>落とし物<rt>おとしもの</rt></ruby>をした<ruby>時<rt>とき</rt></ruby>の<ruby>救出<rt>きゅうしゅつ</rt></ruby>ステップ】
+1. <ruby>最寄<rt>もよ</rt></ruby>りの「<ruby>交番<rt>こうばん</rt></ruby>」または<ruby>駅<rt>えき</rt></ruby>の「<ruby>忘れ物<rt>わすれもの</rt></ruby>センター」へ<ruby>行<rt>い</rt></ruby>く。
+2. <ruby>警察官<rt>けいさつかん</rt></ruby>に「〇〇を<ruby>落<rt>お</rt></ruby>としました。<ruby>届<rt>とど</rt></ruby>いていませんか？」と<ruby>聞<rt>き</rt></ruby>く。
+3. <ruby>届<rt>とど</rt></ruby>いていない<ruby>場合<rt>ばあい</rt></ruby>は「<ruby>遺失<rt>いしつ</rt></ruby><ruby>届<rt>とどけ</rt></ruby>（いしつとどけ）」を<ruby>記入<rt>きにゅう</rt></ruby>する（<ruby>色<rt>いろ</rt></ruby>、<ruby>形<rt>かたち</rt></ruby>、<ruby>中身<rt>なかみ</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>、<ruby>連絡<rt>れんらく</rt></ruby><ruby>先<rt>さき</rt></ruby>）。
+4. <ruby>後日<rt>ごじつ</rt></ruby>、<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>誰<rt>だれ</rt></ruby>かが<ruby>届<rt>とど</rt></ruby>けてくれた<ruby>場合<rt>ばあい</rt></ruby>、<ruby>警察<rt>けいさつ</rt></ruby>から<ruby>電話<rt>でんわ</rt></ruby><ruby>連絡<rt>れんらく</rt></ruby>が<ruby>入<rt>はい</rt></ruby>る！
 ```
 
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>警察<rt>けいさつ</rt></ruby>には「<ruby>拾得<rt>しゅうとく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>（しゅうとくぶつ）ネットワーク」があり、<ruby>拾<rt>ひろ</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>が<ruby>謝礼<rt>しゃれい</rt></ruby>（1<ruby>割<rt>わり</rt></ruby>〜2<ruby>割<rt>わり</rt></ruby>の<ruby>報労<rt>ほうろう</rt></ruby><ruby>金<rt>きん</rt></ruby>）を<ruby>請求<rt>せいきゅう</rt></ruby>する<ruby>権利<rt>けんり</rt></ruby>を<ruby>放棄<rt>ほうき</rt></ruby>して「<ruby>無償<rt>むしょう</rt></ruby>で<ruby>届<rt>とど</rt></ruby>けてくれる」ケースが<ruby>日常<rt>にちじょう</rt></ruby><ruby>茶飯事<rt>さはんじ</rt></ruby>です。
@@ -121,21 +121,21 @@ tags:
 あなたの<ruby>防犯<rt>ぼうはん</rt></ruby><ruby>意識<rt>いしき</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
-【第1問】
-混雑した日本のカフェで席をキープするとき、テーブルの上に置いておくものとして最も安全で推奨されるのは？
-① 最新のスマートフォン
-② ブランド物の財布
-③ ハンカチや上着
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>混雑<rt>こんざつ</rt></ruby>した<ruby>日本<rt>にほん</rt></ruby>のカフェで<ruby>席<rt>せき</rt></ruby>をキープするとき、テーブルの<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いておくものとして<ruby>最<rt>もっと</rt></ruby>も<ruby>安全<rt>あんぜん</rt></ruby>で<ruby>推奨<rt>すいしょう</rt></ruby>されるのは？
+① <ruby>最新<rt>さいしん</rt></ruby>のスマートフォン
+② ブランド<ruby>物<rt>ぶつ</rt></ruby>の<ruby>財布<rt>さいふ</rt></ruby>
+③ ハンカチや<ruby>上着<rt>うわぎ</rt></ruby>
 
-【第2問】
-日本で財布を道端に落としてしまったとき、最も高い確率で起きることは？
-① 誰かに持ち去られて二度と戻らない
-② 親切な人に拾われて、近くの交番に届けられる
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>日本<rt>にほん</rt></ruby>で<ruby>財布<rt>さいふ</rt></ruby>を<ruby>道端<rt>みちばた</rt></ruby>に<ruby>落<rt>お</rt></ruby>としてしまったとき、<ruby>最<rt>もっと</rt></ruby>も<ruby>高<rt>たか</rt></ruby>い<ruby>確率<rt>かくりつ</rt></ruby>で<ruby>起<rt>お</rt></ruby>きることは？
+① <ruby>誰<rt>だれ</rt></ruby>かに<ruby>持ち去<rt>もちさ</rt></ruby>られて<ruby>二度<rt>にど</rt></ruby>と<ruby>戻<rt>もど</rt></ruby>らない
+② <ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>に<ruby>拾<rt>ひろ</rt></ruby>われて、<ruby>近<rt>ちか</rt></ruby>くの<ruby>交番<rt>こうばん</rt></ruby>に<ruby>届<rt>とど</rt></ruby>けられる
 
-【第3問】
-日本は治安が良いからといって、外国人旅行者がカフェでPCや財布を置いたまま席を離れる行為は推奨される？
-① 推奨される（日本文化を体験すべきだから）
-② 推奨されない（置き引き被害に遭うリスクがあるため、貴重品は持ち歩くべき）
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>日本<rt>にほん</rt></ruby>は<ruby>治安<rt>ちあん</rt></ruby>が<ruby>良<rt>よ</rt></ruby>いからといって、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>がカフェでPCや<ruby>財布<rt>さいふ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いたまま<ruby>席<rt>せき</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れる<ruby>行為<rt>こうい</rt></ruby>は<ruby>推奨<rt>すいしょう</rt></ruby>される？
+① <ruby>推奨<rt>すいしょう</rt></ruby>される（<ruby>日本<rt>にほん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>を<ruby>体験<rt>たいけん</rt></ruby>すべきだから）
+② <ruby>推奨<rt>すいしょう</rt></ruby>されない（<ruby>置き引<rt>おきび</rt></ruby>き<ruby>被害<rt>ひがい</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>うリスクがあるため、<ruby>貴重<rt>きちょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>は<ruby>持ち歩<rt>もちある</rt></ruby>くべき）
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -159,32 +159,32 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>治安<rt>ちあん</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さは<ruby>世界<rt>せかい</rt></ruby>が<ruby>羨<rt>うらや</rt></ruby>む<ruby>宝物<rt>ほうもつ</rt></ruby>です。その<ruby>安心<rt>あんしん</rt></ruby><ruby>感<rt>かん</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>しつつ、<ruby>賢<rt>かしこ</rt></ruby>い<ruby>防犯<rt>ぼうはん</rt></ruby><ruby>意識<rt>いしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>快適<rt>かいてき</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">席取り（せきとり）</span>
+        <span class="c-vocab-card__word"><ruby>席<rt>せき</rt></ruby><ruby>取<rt>と</rt></ruby>り（せきとり）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>securing a seat</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>カフェで注文する前に、テーブルにハンカチを置いて席取りをした。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>securing a seat</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>カフェで<ruby>注文<rt>ちゅうもん</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、テーブルにハンカチを<ruby>置<rt>お</rt></ruby>いて<ruby>席<rt>せき</rt></ruby><ruby>取<rt>と</rt></ruby>りをした。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">治安（ちあん）</span>
+        <span class="c-vocab-card__word"><ruby>治安<rt>ちあん</rt></ruby>（ちあん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>public safety, security</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>財布やスマホを机に置いたまま離れても盗まれないほど、日本の治安は良い。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>public safety, security</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>財布<rt>さいふ</rt></ruby>やスマホを<ruby>机<rt>つくえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いたまま<ruby>離<rt>はな</rt></ruby>れても<ruby>盗<rt>ぬす</rt></ruby>まれないほど、<ruby>日本<rt>にほん</rt></ruby>の<ruby>治安<rt>ちあん</rt></ruby>は<ruby>良<rt>よ</rt></ruby>い。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">油断（ゆだん）</span>
+        <span class="c-vocab-card__word"><ruby>油断<rt>ゆだん</rt></ruby>（ゆだん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>carelessness, inattention</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>いくら安全な街でも、海外旅行のときは決して油断してはいけない。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>carelessness, inattention</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>いくら<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>街<rt>まち</rt></ruby>でも、<ruby>海外<rt>かいがい</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby>のときは<ruby>決<rt>けっ</rt></ruby>して<ruby>油断<rt>ゆだん</rt></ruby>してはいけない。</p>
     </div>
   </div>
 </div>

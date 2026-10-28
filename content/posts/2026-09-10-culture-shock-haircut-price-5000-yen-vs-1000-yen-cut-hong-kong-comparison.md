@@ -64,7 +64,7 @@ description: "香港なら約1,200円で切れる散髪が、日本では5,000�
 
 |<ruby>項目<rt>こうもく</rt></ruby>|1,000<ruby>円<rt>えん</rt></ruby>カット（QBハウス<ruby>等<rt>とう</rt></ruby>）|5,000<ruby>円<rt>えん</rt></ruby><ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>（サロン）|
 | :--- | :--- | :--- |
-|**<ruby>所要<rt>しょよう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>**|**<ruby>約<rt>やく</rt></ruby>10〜15<ruby>分<rt>ふん</rt></ruby>**（<ruby>超<rt>ちょう</rt></ruby><ruby>爆速<rt>*</rt></ruby>）|**<ruby>約<rt>やく</rt></ruby>60〜90<ruby>分<rt>ふん</rt></ruby>**（<ruby>優雅<rt>ゆうが</rt></ruby>）|
+|**<ruby>所要<rt>しょよう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>**|**<ruby>約<rt>やく</rt></ruby>10〜15<ruby>分<rt>ふん</rt></ruby>**（<ruby>超<rt>ちょう</rt></ruby>爆速）|**<ruby>約<rt>やく</rt></ruby>60〜90<ruby>分<rt>ふん</rt></ruby>**（<ruby>優雅<rt>ゆうが</rt></ruby>）|
 | **シャンプー** |なし（エアクリーナーで<ruby>吸引<rt>きゅういん</rt></ruby>）|あり（<ruby>極上<rt>ごくじょう</rt></ruby>のヘッドスパ＆マッサージ）|
 |**<ruby>接客<rt>せっきゃく</rt></ruby>・<ruby>会話<rt>かいわ</rt></ruby>**|<ruby>必要<rt>ひつよう</rt></ruby><ruby>最小限<rt>さいしょうげん</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>のみ|<ruby>雑誌<rt>ざっし</rt></ruby>、ドリンク、<ruby>丁寧<rt>ていねい</rt></ruby>なカウンセリング|
 |**おすすめの<ruby>人<rt>ひと</rt></ruby>**|<ruby>毛<rt>け</rt></ruby><ruby>先<rt>さき</rt></ruby>を<ruby>揃<rt>そろ</rt></ruby>えたい、<ruby>前髪<rt>まえがみ</rt></ruby>だけ、<ruby>忙<rt>いそが</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>|イメチェンしたい、<ruby>癒<rt>いや</rt></ruby>されたい、カラー・パーマ|
@@ -104,7 +104,7 @@ A: <ruby>施術<rt>しじゅつ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>の
 A: <ruby>理髪<rt>りはつ</rt></ruby><ruby>店<rt>てん</rt></ruby>（<ruby>床屋<rt>とこや</rt></ruby>・バーバー）ではカミソリによる<ruby>顔<rt>かお</rt></ruby><ruby>剃<rt>す</rt></ruby>り（シェービング）が<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>認<rt>みと</rt></ruby>められていますが、<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>（サロン）ではハサミによる<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>整<rt>ととの</rt></ruby>えのみとなります。ツルツルの<ruby>顔<rt>かお</rt></ruby><ruby>剃<rt>す</rt></ruby>りを<ruby>体験<rt>たいけん</rt></ruby>したいなら「<ruby>理容<rt>りよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>」を<ruby>選<rt>えら</rt></ruby>びましょう。
 
 ### 💡 <ruby>編集<rt>へんしゅう</rt></ruby><ruby>部<rt>ぶ</rt></ruby>からのまとめメッセージ：<ruby>日本<rt>にほん</rt></ruby>のサロン<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しみ<ruby>方<rt>かた</rt></ruby>
-1,000<ruby>円<rt>えん</rt></ruby>カットの<ruby>無駄<rt>むだ</rt></ruby>を<ruby>極限<rt>きょくげん</rt></ruby>まで<ruby>削<rt>そ</rt></ruby>ぎ<ruby>落<rt>お</rt></ruby>とした「<ruby>機能<rt>きのう</rt></ruby><ruby>美<rt>び</rt></ruby>」と、サロンの<ruby>至<rt>いた</rt></ruby>れり<ruby>尽<rt>ことごと</rt></ruby>くせりの「<ruby>贅沢<rt>ぜいたく</rt></ruby>な<ruby>癒<rt>*</rt></ruby>やし」。どちらも<ruby>世界<rt>せかい</rt></ruby>に<ruby>誇<rt>ほこ</rt></ruby>る<ruby>日本<rt>にほん</rt></ruby>の<ruby>素晴<rt>すば</rt></ruby>らしいサービス<ruby>産業<rt>さんぎょう</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>です。<ruby>旅行<rt>りょこう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>や<ruby>忙<rt>いそが</rt></ruby>しい<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>やスケジュールに<ruby>合<rt>あ</rt></ruby>わせてこの2つの<ruby>世界<rt>せかい</rt></ruby>を<ruby>自由<rt>じゆう</rt></ruby>に<ruby>使い分<rt>つかいわ</rt></ruby>けられるようになれば、あなたも<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>達人<rt>たつじん</rt></ruby>です！
+1,000<ruby>円<rt>えん</rt></ruby>カットの<ruby>無駄<rt>むだ</rt></ruby>を<ruby>極限<rt>きょくげん</rt></ruby>まで<ruby>削<rt>そ</rt></ruby>ぎ<ruby>落<rt>お</rt></ruby>とした「<ruby>機能<rt>きのう</rt></ruby><ruby>美<rt>び</rt></ruby>」と、サロンの<ruby>至<rt>いた</rt></ruby>れり<ruby>尽<rt>ことごと</rt></ruby>くせりの「<ruby>贅沢<rt>ぜいたく</rt></ruby>な癒やし」。どちらも<ruby>世界<rt>せかい</rt></ruby>に<ruby>誇<rt>ほこ</rt></ruby>る<ruby>日本<rt>にほん</rt></ruby>の<ruby>素晴<rt>すば</rt></ruby>らしいサービス<ruby>産業<rt>さんぎょう</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>です。<ruby>旅行<rt>りょこう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>や<ruby>忙<rt>いそが</rt></ruby>しい<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>気分<rt>きぶん</rt></ruby>やスケジュールに<ruby>合<rt>あ</rt></ruby>わせてこの2つの<ruby>世界<rt>せかい</rt></ruby>を<ruby>自由<rt>じゆう</rt></ruby>に<ruby>使い分<rt>つかいわ</rt></ruby>けられるようになれば、あなたも<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>達人<rt>たつじん</rt></ruby>です！
 
 #### <ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>での「マッサージサービス」という<ruby>至福<rt>しふく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>では、シャンプー<ruby>後<rt>ご</rt></ruby>やブローの<ruby>前<rt>まえ</rt></ruby>に、<ruby>美容<rt>びよう</rt></ruby><ruby>師<rt>し</rt></ruby>さんが<ruby>首<rt>くび</rt></ruby>・<ruby>肩<rt>かた</rt></ruby>・<ruby>背中<rt>せなか</rt></ruby>を<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>指圧<rt>しあつ</rt></ruby>してくれるミニマッサージが<ruby>標準<rt>ひょうじゅん</rt></ruby>サービスとして<ruby>含<rt>ふく</rt></ruby>まれていることがほとんどです。パソコン<ruby>仕事<rt>しごと</rt></ruby>で<ruby>凝り固<rt>こりかた</rt></ruby>まった<ruby>肩<rt>かた</rt></ruby>がほぐれるこの<ruby>時間<rt>じかん</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>のサロンならではの<ruby>温<rt>あたた</rt></ruby>かいおもてなしの<ruby>結晶<rt>けっしょう</rt></ruby>です。
@@ -112,32 +112,32 @@ A: <ruby>理髪<rt>りはつ</rt></ruby><ruby>店<rt>てん</rt></ruby>（<ruby>
 <ruby>自分<rt>じぶん</rt></ruby>のライフスタイルや<ruby>予算<rt>よさん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて<ruby>賢<rt>かしこ</rt></ruby>くサロンを<ruby>使い分<rt>つかいわ</rt></ruby>け、<ruby>日本<rt>にほん</rt></ruby>での<ruby>快適<rt>かいてき</rt></ruby>で<ruby>清潔<rt>せいけつ</rt></ruby><ruby>感<rt>かん</rt></ruby>あふれる<ruby>毎日<rt>まいにち</rt></ruby>を<ruby>思<rt>おも</rt></ruby>いっきり<ruby>楽<rt>たの</rt></ruby>しんでいきましょう！ <ruby>素敵<rt>すてき</rt></ruby>なヘアスタイルで、<ruby>新<rt>あたら</rt></ruby>しい<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby>を<ruby>笑顔<rt>えがお</rt></ruby>でスタートさせてくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">美容院（びよういん）</span>
+        <span class="c-vocab-card__word"><ruby>美容<rt>びよう</rt></ruby><ruby>院<rt>いん</rt></ruby>（びよういん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>beauty salon, hair salon</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>髪が伸びてきたので、週末に駅前の美容院を予約した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>beauty salon, hair salon</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>髪<rt>かみ</rt></ruby>が<ruby>伸<rt>の</rt></ruby>びてきたので、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>美容<rt>びよう</rt></ruby><ruby>院<rt>いん</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">散髪（さんぱつ）</span>
+        <span class="c-vocab-card__word"><ruby>散髪<rt>さんぱつ</rt></ruby>（さんぱつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>haircut</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>時間がないときは、10分で散髪してくれる千円カットがとても便利だ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>haircut</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>時間<rt>じかん</rt></ruby>がないときは、10<ruby>分<rt>ふん</rt></ruby>で<ruby>散髪<rt>さんぱつ</rt></ruby>してくれる<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>カットがとても<ruby>便利<rt>べんり</rt></ruby>だ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">接客（せっきゃく）</span>
+        <span class="c-vocab-card__word"><ruby>接客<rt>せっきゃく</rt></ruby>（せっきゃく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>customer service</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本の美容師さんは接客がとても丁寧で、居心地が良い。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>customer service</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>の<ruby>美容<rt>びよう</rt></ruby><ruby>師<rt>し</rt></ruby>さんは<ruby>接客<rt>せっきゃく</rt></ruby>がとても<ruby>丁寧<rt>ていねい</rt></ruby>で、<ruby>居心地<rt>いごこち</rt></ruby>が<ruby>良<rt>よ</rt></ruby>い。</p>
     </div>
   </div>
 </div>

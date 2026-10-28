@@ -28,15 +28,15 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>賃貸<rt>ちんたい</rt></ruby>では、<ruby>入居<rt>にゅうきょ</rt></ruby><ruby>時<rt>じ</rt></ruby>に**「<ruby>家賃<rt>やちん</rt></ruby>の<ruby>約<rt>やく</rt></ruby>4〜6<ruby>ヶ月<rt>かげつ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>」**の<ruby>初期<rt>しょき</rt></ruby><ruby>費用<rt>ひよう</rt></ruby>がかかるのが<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>です。
 
 ```
-【家賃6万円のアパートの場合の初期費用モデル】
-  1. 敷金（しききん）      ： 6万円（退去時の原状回復費用。余れば返金される）
-  2. 礼金（れいきん）      ： 6万円（大家さんへの「お礼」。返金されない！）
-  3. 仲介手数料            ： 6.6万円（不動産仲介会社への報酬。最大1ヶ月分+税）
-  4. 前家賃（まえやちん）  ： 6万円（入居する翌月分の家賃先払い）
-  5. 保証会社利用料        ： 3万円〜6万円（連帯保証人の代わり）
-  6. 火災保険料・鍵交換代  ： 約3万円
+【<ruby>家賃<rt>やちん</rt></ruby>6<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>のアパートの<ruby>場合<rt>ばあい</rt></ruby>の<ruby>初期<rt>しょき</rt></ruby><ruby>費用<rt>ひよう</rt></ruby>モデル】
+  1. <ruby>敷金<rt>しききん</rt></ruby>（しききん）      ： 6<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>（<ruby>退去<rt>たいきょ</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>原状<rt>げんじょう</rt></ruby><ruby>回復<rt>かいふく</rt></ruby><ruby>費用<rt>ひよう</rt></ruby>。<ruby>余<rt>あま</rt></ruby>れば<ruby>返金<rt>へんきん</rt></ruby>される）
+  2. <ruby>礼金<rt>れいきん</rt></ruby>（れいきん）      ： 6<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>（<ruby>大家<rt>おおや</rt></ruby>さんへの「お<ruby>礼<rt>れい</rt></ruby>」。<ruby>返金<rt>へんきん</rt></ruby>されない！）
+  3. <ruby>仲介<rt>ちゅうかい</rt></ruby><ruby>手数料<rt>てすうりょう</rt></ruby>            ： 6.6<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>（<ruby>不動産<rt>ふどうさん</rt></ruby><ruby>仲介<rt>ちゅうかい</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>への<ruby>報酬<rt>ほうしゅう</rt></ruby>。<ruby>最大<rt>さいだい</rt></ruby>1<ruby>ヶ月<rt>かげつ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>+<ruby>税<rt>ぜい</rt></ruby>）
+  4. <ruby>前<rt>ぜん</rt></ruby><ruby>家賃<rt>やちん</rt></ruby>（まえやちん）  ： 6<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>（<ruby>入居<rt>にゅうきょ</rt></ruby>する<ruby>翌月<rt>よくげつ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<ruby>家賃<rt>やちん</rt></ruby><ruby>先払<rt>さきばら</rt></ruby>い）
+  5. <ruby>保証<rt>ほしょう</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>料<rt>りょう</rt></ruby>        ： 3<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>〜6<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>（<ruby>連帯<rt>れんたい</rt></ruby><ruby>保証<rt>ほしょう</rt></ruby><ruby>人<rt>じん</rt></ruby>の<ruby>代<rt>か</rt></ruby>わり）
+  6. <ruby>火災<rt>かさい</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>料<rt>りょう</rt></ruby>・<ruby>鍵<rt>かぎ</rt></ruby><ruby>交換<rt>こうかん</rt></ruby><ruby>代<rt>だい</rt></ruby>  ： <ruby>約<rt>やく</rt></ruby>3<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>
   -------------------------------------------------------------
-  ★ 合計初期費用          ： 約30万円前後！
+  ★ <ruby>合計<rt>ごうけい</rt></ruby><ruby>初期<rt>しょき</rt></ruby><ruby>費用<rt>ひよう</rt></ruby>          ： <ruby>約<rt>やく</rt></ruby>30<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>前後<rt>ぜんご</rt></ruby>！
 ```
 
 |<ruby>項目<rt>こうもく</rt></ruby>|<ruby>意味<rt>いみ</rt></ruby>・<ruby>役割<rt>やくわり</rt></ruby>|<ruby>返金<rt>へんきん</rt></ruby>される？|<ruby>節約<rt>せつやく</rt></ruby>のコツ|
@@ -145,32 +145,32 @@ tags:
 * 📌 **「<ruby>都市<rt>とし</rt></ruby>ガスか？」「<ruby>日当<rt>ひあ</rt></ruby>たりは<ruby>南<rt>みなみ</rt></ruby><ruby>向<rt>む</rt></ruby>きか？」を<ruby>内<rt>うち</rt></ruby><ruby>見<rt>み</rt></ruby>で<ruby>必<rt>かなら</rt></ruby>ずチェック！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">敷金（しききん）</span>
+        <span class="c-vocab-card__word"><ruby>敷金<rt>しききん</rt></ruby>（しききん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>security deposit (partially refundable)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>退去時に敷金からハウスクリーニング代が差し引かれます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>security deposit (partially refundable)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>退去<rt>たいきょ</rt></ruby><ruby>時<rt>じ</rt></ruby>に<ruby>敷金<rt>しききん</rt></ruby>からハウスクリーニング<ruby>代<rt>だい</rt></ruby>が<ruby>差し引<rt>さしひ</rt></ruby>かれます。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">内見（ないけん）</span>
+        <span class="c-vocab-card__word"><ruby>内<rt>うち</rt></ruby><ruby>見<rt>み</rt></ruby>（ないけん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>property viewing, room inspection</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>写真だけでなく、契約前に必ず実際に部屋を内見したほうがいいですよ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>property viewing, room inspection</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>写真<rt>しゃしん</rt></ruby>だけでなく、<ruby>契約<rt>けいやく</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>必<rt>かなら</rt></ruby>ず<ruby>実際<rt>じっさい</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>を<ruby>内<rt>うち</rt></ruby><ruby>見<rt>み</rt></ruby>したほうがいいですよ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">家賃（やちん）</span>
+        <span class="c-vocab-card__word"><ruby>家賃<rt>やちん</rt></ruby>（やちん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>monthly rent</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>毎月の家賃は、銀行口座からの自動引き落としになっています。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>monthly rent</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>毎月<rt>まいつき</rt></ruby>の<ruby>家賃<rt>やちん</rt></ruby>は、<ruby>銀行<rt>ぎんこう</rt></ruby><ruby>口座<rt>こうざ</rt></ruby>からの<ruby>自動<rt>じどう</rt></ruby><ruby>引き落<rt>ひきお</rt></ruby>としになっています。</p>
     </div>
   </div>
 </div>

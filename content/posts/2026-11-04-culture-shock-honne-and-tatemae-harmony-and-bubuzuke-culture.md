@@ -28,17 +28,17 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>本音<rt>ほんね</rt></ruby>と<ruby>建前<rt>たてまえ</rt></ruby>を<ruby>語<rt>かた</rt></ruby>るとき、<ruby>必<rt>かなら</rt></ruby>ず<ruby>引き合<rt>ひきあ</rt></ruby>いに<ruby>出<rt>だ</rt></ruby>されるのが<ruby>京都<rt>きょうと</rt></ruby>の**「ぶぶ<ruby>漬<rt>つ</rt></ruby>け（お<ruby>茶漬<rt>ちゃづ</rt></ruby>け）<ruby>伝説<rt>でんせつ</rt></ruby>」**です。
 
 ```
-【有名な都市伝説のストーリー】
+【<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>都市<rt>とし</rt></ruby><ruby>伝説<rt>でんせつ</rt></ruby>のストーリー】
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-京都の知人宅を訪ねて長居してしまった客に対し、家の主人が言う。
-主人：「まあ、ぶぶ漬け（お茶漬け）でも一杯どうどす？」
+<ruby>京都<rt>きょうと</rt></ruby>の<ruby>知人<rt>ちじん</rt></ruby><ruby>宅<rt>たく</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねて<ruby>長居<rt>ながい</rt></ruby>してしまった<ruby>客<rt>きゃく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>し、<ruby>家<rt>いえ</rt></ruby>の<ruby>主人<rt>しゅじん</rt></ruby>が<ruby>言<rt>い</rt></ruby>う。
+<ruby>主人<rt>しゅじん</rt></ruby>：「まあ、ぶぶ<ruby>漬<rt>つ</rt></ruby>け（お<ruby>茶漬<rt>ちゃづ</rt></ruby>け）でも<ruby>一杯<rt>いっぱい</rt></ruby>どうどす？」
 
-★ 文字通りの言葉（建前）：
-    「お腹が空いたでしょうから、どうぞお茶漬けを食べていってください。」
-★ ネットなどで言われる裏の真意（本音）：
-    「ご馳走できるものももうありません。そろそろ察してお帰りください。」
-★ 伝説における「正しい客の作法」：
-    「おおきに、でももうお暇（おいとま）いたします！」と辞退して速やかに帰る。
+★ <ruby>文字通<rt>もじどお</rt></ruby>りの<ruby>言葉<rt>ことば</rt></ruby>（<ruby>建前<rt>たてまえ</rt></ruby>）：
+    「お<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>あ</rt></ruby>いたでしょうから、どうぞお<ruby>茶漬<rt>ちゃづ</rt></ruby>けを<ruby>食<rt>た</rt></ruby>べていってください。」
+★ ネットなどで<ruby>言<rt>い</rt></ruby>われる<ruby>裏<rt>うら</rt></ruby>の<ruby>真意<rt>しんい</rt></ruby>（<ruby>本音<rt>ほんね</rt></ruby>）：
+    「ご<ruby>馳走<rt>ちそう</rt></ruby>できるものももうありません。そろそろ<ruby>察<rt>さっ</rt></ruby>してお<ruby>帰<rt>かえ</rt></ruby>りください。」
+★ <ruby>伝説<rt>でんせつ</rt></ruby>における「<ruby>正<rt>ただ</rt></ruby>しい<ruby>客<rt>きゃく</rt></ruby>の<ruby>作法<rt>さほう</rt></ruby>」：
+    「おおきに、でももうお<ruby>暇<rt>ひま</rt></ruby>（おいとま）いたします！」と<ruby>辞退<rt>じたい</rt></ruby>して<ruby>速<rt>すみ</rt></ruby>やかに<ruby>帰<rt>かえ</rt></ruby>る。
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -71,14 +71,14 @@ tags:
 <ruby>海外<rt>かいがい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>から<ruby>見<rt>み</rt></ruby>ると「<ruby>不誠実<rt>ふせいじつ</rt></ruby>」「<ruby>本心<rt>ほんしん</rt></ruby>が<ruby>分<rt>わ</rt></ruby>からない」と<ruby>批判<rt>ひはん</rt></ruby>されがちな<ruby>本音<rt>ほんね</rt></ruby>と<ruby>建前<rt>たてまえ</rt></ruby>ですが、<ruby>日本人<rt>にっぽんじん</rt></ruby>にとっては**「<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>の<ruby>摩擦<rt>まさつ</rt></ruby>を<ruby>極限<rt>きょくげん</rt></ruby>まで<ruby>減<rt>へ</rt></ruby>らすための<ruby>潤滑<rt>じゅんかつ</rt></ruby><ruby>油<rt>ゆ</rt></ruby>（クッション）」**です。
 
 ```
-【本音ばかりの世界 vs 建前のある世界】
+【<ruby>本音<rt>ほんね</rt></ruby>ばかりの<ruby>世界<rt>せかい</rt></ruby> vs <ruby>建前<rt>たてまえ</rt></ruby>のある<ruby>世界<rt>せかい</rt></ruby>】
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-❌ 本音だけの世界：
-    「お前の服ダサい」「お前とご飯行きたくない」「話がつまらないから早く帰れ」
-    ➔ 毎日があちこちで喧嘩や対立になってしまう！
+❌ <ruby>本音<rt>ほんね</rt></ruby>だけの<ruby>世界<rt>せかい</rt></ruby>：
+    「お<ruby>前<rt>まえ</rt></ruby>の<ruby>服<rt>ふく</rt></ruby>ダサい」「お<ruby>前<rt>まえ</rt></ruby>とご<ruby>飯<rt>はん</rt></ruby><ruby>行<rt>い</rt></ruby>きたくない」「<ruby>話<rt>はなし</rt></ruby>がつまらないから<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>れ」
+    ➔ <ruby>毎日<rt>まいにち</rt></ruby>があちこちで<ruby>喧嘩<rt>けんか</rt></ruby>や<ruby>対立<rt>たいりつ</rt></ruby>になってしまう！
 
-⭕ 建前（クッション）のある世界：
-    相手のプライドや感情を傷つけず、お互いに笑顔で平和に共存できる！
+⭕ <ruby>建前<rt>たてまえ</rt></ruby>（クッション）のある<ruby>世界<rt>せかい</rt></ruby>：
+    <ruby>相手<rt>あいて</rt></ruby>のプライドや<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>傷<rt>きず</rt></ruby>つけず、お<ruby>互<rt>たが</rt></ruby>いに<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>平和<rt>へいわ</rt></ruby>に<ruby>共存<rt>きょうぞん</rt></ruby>できる！
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -158,32 +158,32 @@ tags:
 * 📌 **「また<ruby>今度<rt>こんど</rt></ruby>」に<ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>日付<rt>ひづけ</rt></ruby>がなければ、<ruby>爽<rt>さわ</rt></ruby>やかな<ruby>挨拶<rt>あいさつ</rt></ruby>として<ruby>受け流<rt>うけなが</rt></ruby>そう！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">建前（たてまえ）</span>
+        <span class="c-vocab-card__word"><ruby>建前<rt>たてまえ</rt></ruby>（たてまえ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>public stance, official stance, polite fiction</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>ビジネスでは建前も必要ですが、信頼関係には本音の対話も欠かせません。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>public stance, official stance, polite fiction</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>ビジネスでは<ruby>建前<rt>たてまえ</rt></ruby>も<ruby>必要<rt>ひつよう</rt></ruby>ですが、<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>には<ruby>本音<rt>ほんね</rt></ruby>の<ruby>対話<rt>たいわ</rt></ruby>も<ruby>欠<rt>か</rt></ruby>かせません。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">社交辞令（しゃこうじれい）</span>
+        <span class="c-vocab-card__word"><ruby>社交<rt>しゃこう</rt></ruby><ruby>辞令<rt>じれい</rt></ruby>（しゃこうじれい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>social etiquette, diplomatic pleasantry, lip service</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「いつでも遊びに来てね」という言葉は、大半が社交辞令です。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>social etiquette, diplomatic pleasantry, lip service</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「いつでも<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>てね」という<ruby>言葉<rt>ことば</rt></ruby>は、<ruby>大半<rt>たいはん</rt></ruby>が<ruby>社交<rt>しゃこう</rt></ruby><ruby>辞令<rt>じれい</rt></ruby>です。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">潤滑油（じゅんかつゆ）</span>
+        <span class="c-vocab-card__word"><ruby>潤滑<rt>じゅんかつ</rt></ruby><ruby>油<rt>ゆ</rt></ruby>（じゅんかつゆ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>lubricant, smoothing factor (in human relationships)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>ちょっとしたユーモアや気配りが、職場の人間関係の潤滑油になります。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>lubricant, smoothing factor (in human relationships)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>ちょっとしたユーモアや<ruby>気配<rt>きくば</rt></ruby>りが、<ruby>職場<rt>しょくば</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>の<ruby>潤滑<rt>じゅんかつ</rt></ruby><ruby>油<rt>ゆ</rt></ruby>になります。</p>
     </div>
   </div>
 </div>

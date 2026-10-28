@@ -27,26 +27,26 @@ tags:
 
 ```
 【ステップ1：スタート】
-  画面の「お買い物を始める」をタッチ！
+  <ruby>画面<rt>がめん</rt></ruby>の「お<ruby>買い物<rt>かいもの</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める」をタッチ！
 
-【ステップ2：ポイントカードの有無】
-  機械：「ポイントカードはお持ちですか？」
-  → 持っていればスキャン / なければ「持っていない」ボタンをタッチ
+【ステップ2：ポイントカードの<ruby>有無<rt>うむ</rt></ruby>】
+  <ruby>機械<rt>きかい</rt></ruby>：「ポイントカードはお<ruby>持<rt>も</rt></ruby>ちですか？」
+  → <ruby>持<rt>も</rt></ruby>っていればスキャン / なければ「<ruby>持<rt>も</rt></ruby>っていない」ボタンをタッチ
 
-【ステップ3：レジ袋（マイバッグ）の選択】
-  機械：「レジ袋はご利用ですか？」
-  → 自分のエコバッグを置く or 有料のレジ袋（大・小・枚数）を選択
+【ステップ3：レジ<ruby>袋<rt>ぶくろ</rt></ruby>（マイバッグ）の<ruby>選択<rt>せんたく</rt></ruby>】
+  <ruby>機械<rt>きかい</rt></ruby>：「レジ<ruby>袋<rt>ぶくろ</rt></ruby>はご<ruby>利用<rt>りよう</rt></ruby>ですか？」
+  → <ruby>自分<rt>じぶん</rt></ruby>のエコバッグを<ruby>置<rt>お</rt></ruby>く or <ruby>有料<rt>ゆうりょう</rt></ruby>のレジ<ruby>袋<rt>ぶくろ</rt></ruby>（<ruby>大<rt>だい</rt></ruby>・<ruby>小<rt>しょう</rt></ruby>・<ruby>枚数<rt>まいすう</rt></ruby>）を<ruby>選択<rt>せんたく</rt></ruby>
 
 【ステップ4：バーコードスキャン】
-  「ピッ」と鳴らしたら、必ず【右側の計量台（袋置き場）】に置く！
-  ※手に持ったまま次の商品をスキャンするとエラーアラームが鳴ります！
+  「ピッ」と<ruby>鳴<rt>な</rt></ruby>らしたら、<ruby>必<rt>かなら</rt></ruby>ず【<ruby>右側<rt>みぎがわ</rt></ruby>の<ruby>計量<rt>けいりょう</rt></ruby><ruby>台<rt>だい</rt></ruby>（<ruby>袋<rt>ふくろ</rt></ruby><ruby>置き場<rt>おきば</rt></ruby>）】に<ruby>置<rt>お</rt></ruby>く！
+  ※<ruby>手<rt>て</rt></ruby>に<ruby>持<rt>も</rt></ruby>ったまま<ruby>次<rt>つぎ</rt></ruby>の<ruby>商品<rt>しょうひん</rt></ruby>をスキャンするとエラーアラームが<ruby>鳴<rt>な</rt></ruby>ります！
 
-【ステップ5：支払い方法の選択】
-  機械：「お支払い方法をお選びください」
-  →「現金」「クレジットカード」「交通系IC（Suica/PASMO）」「QRコード決済（PayPayなど）」を選択
+【ステップ5：<ruby>支払<rt>しはら</rt></ruby>い<ruby>方法<rt>ほうほう</rt></ruby>の<ruby>選択<rt>せんたく</rt></ruby>】
+  <ruby>機械<rt>きかい</rt></ruby>：「お<ruby>支払<rt>しはら</rt></ruby>い<ruby>方法<rt>ほうほう</rt></ruby>をお<ruby>選<rt>えら</rt></ruby>びください」
+  →「<ruby>現金<rt>げんきん</rt></ruby>」「クレジットカード」「<ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>IC（Suica/PASMO）」「QRコード<ruby>決済<rt>けっさい</rt></ruby>（PayPayなど）」を<ruby>選択<rt>せんたく</rt></ruby>
 
-【ステップ6：レシート受け取り】
-  レシートとお釣りを取って完了！
+【ステップ6：レシート<ruby>受け取<rt>うけと</rt></ruby>り】
+  レシートとお<ruby>釣<rt>つ</rt></ruby>りを<ruby>取<rt>と</rt></ruby>って<ruby>完了<rt>かんりょう</rt></ruby>！
 ```
 
 ---
@@ -150,32 +150,32 @@ Suica、PASMO、ICOCAなどは「<ruby>交通<rt>こうつう</rt></ruby><ruby>�
 * 📌 **エラーが<ruby>鳴<rt>な</rt></ruby>っても<ruby>焦<rt>あせ</rt></ruby>らず「すみません、エラーです」で<ruby>店員<rt>てんいん</rt></ruby>さんにパス！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お会計（おかいけい）</span>
+        <span class="c-vocab-card__word">お<ruby>会計<rt>かいけい</rt></ruby>（おかいけい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>bill, payment, check</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お会計はセルフレジにてお願いいたします。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>bill, payment, check</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>会計<rt>かいけい</rt></ruby>はセルフレジにてお<ruby>願<rt>ねが</rt></ruby>いいたします。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">清算済み（せいさんずみ）</span>
+        <span class="c-vocab-card__word"><ruby>清算<rt>せいさん</rt></ruby><ruby>済<rt>ず</rt></ruby>み（せいさんずみ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>paid, settled</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>袋に入れない商品には、清算済みシールが貼られます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>paid, settled</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>袋<rt>ふくろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れない<ruby>商品<rt>しょうひん</rt></ruby>には、<ruby>清算<rt>せいさん</rt></ruby><ruby>済<rt>ず</rt></ruby>みシールが<ruby>貼<rt>は</rt></ruby>られます。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">計量（けいりょう）</span>
+        <span class="c-vocab-card__word"><ruby>計量<rt>けいりょう</rt></ruby>（けいりょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>measurement, weighing</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>商品をスキャンしたら、計量台の上に置いてください。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>measurement, weighing</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>商品<rt>しょうひん</rt></ruby>をスキャンしたら、<ruby>計量<rt>けいりょう</rt></ruby><ruby>台<rt>だい</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてください。</p>
     </div>
   </div>
 </div>

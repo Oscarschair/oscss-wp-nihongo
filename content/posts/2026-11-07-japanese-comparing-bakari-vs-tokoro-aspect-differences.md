@@ -14,8 +14,7 @@ tags:
   - JLPT N3
   - JLPT N2
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>感謝<rt>かんしゃ</rt></ruby>と<ruby>迷惑<rt>めいわく</rt></ruby>の「**[『せっかく』VS『わざわざ』の罠](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-01-japanese-comparing-sekkaku-vs-wazawaza-gratitude-and-regret.md)**」を<ruby>解説<rt>かいせつ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>感謝<rt>かんしゃ</rt></ruby>と<ruby>迷惑<rt>めいわく</rt></ruby>の「**[『せっかく』VS『わざわざ』の<ruby>罠<rt>わな</rt></ruby>](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-01-japanese-comparing-sekkaku-vs-wazawaza-gratitude-and-regret.md)**」を<ruby>解説<rt>かいせつ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、JLPT（<ruby>日本語<rt>にほんご</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby><ruby>試験<rt>しけん</rt></ruby>）N3〜N2の<ruby>読解<rt>どっかい</rt></ruby>・<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>試験<rt>しけん</rt></ruby>でも<ruby>超<rt>ちょう</rt></ruby><ruby>頻出<rt>ひんしゅつ</rt></ruby>、そして<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>でも<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>頭<rt>あたま</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>える**「<ruby>動作<rt>どうさ</rt></ruby>の<ruby>完了<rt>かんりょう</rt></ruby><ruby>直後<rt>ちょくご</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す2<ruby>大<rt>だい</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>」**を<ruby>徹底<rt>てってい</rt></ruby><ruby>比較<rt>ひかく</rt></ruby>します！
 それが、**「〜たばかり」**と**「〜たところ」**です。
@@ -28,15 +27,15 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「〜たばかり」VS「〜たところ」<ruby>対<rt>たい</rt></ruby><ruby>比<rt>ひ</rt></ruby>マップ
 
 ```
-【〜たところ：客観的時間の直後（時計の針が少ししか進んでいない）】
-  ★「いま、会議が終わったところです。」（たった今！数十秒〜数分前）
-  ★客観的な事実としての直後を表す。
-  ★×「先月、日本に来たところです。」➔ 不自然！（1か月前は客観的直後ではない）
+【〜たところ：<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>時間<rt>じかん</rt></ruby>の<ruby>直後<rt>ちょくご</rt></ruby>（<ruby>時計<rt>とけい</rt></ruby>の<ruby>針<rt>はり</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>ししか<ruby>進<rt>すす</rt></ruby>んでいない）】
+  ★「いま、<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったところです。」（たった<ruby>今<rt>いま</rt></ruby>！<ruby>数<rt>すう</rt></ruby><ruby>十<rt>じゅう</rt></ruby><ruby>秒<rt>びょう</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>前<rt>まえ</rt></ruby>）
+  ★<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>事実<rt>じじつ</rt></ruby>としての<ruby>直後<rt>ちょくご</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す。
+  ★×「<ruby>先月<rt>せんげつ</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たところです。」➔ <ruby>不自然<rt>ふしぜん</rt></ruby>！（1か<ruby>月<rt>げつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>は<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>直後<rt>ちょくご</rt></ruby>ではない）
 
-【〜たばかり：話し手の心理的主観（気持ちの上で『まだ新しい』）】
-  ★「先週、新しいパソコンを買ったばかりなのに壊れた！」（本人の気持ちとして『まだ新しい』）
-  ★「日本に来たばかりで、まだ道がよくわかりません。」（数か月前でも主観でOK！）
-  ★物理的な時間の長さに関係なく、本人が『最近だ』と感じていれば使える！
+【〜たばかり：<ruby>話し手<rt>はなして</rt></ruby>の<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>主観<rt>しゅかん</rt></ruby>（<ruby>気持<rt>きも</rt></ruby>ちの<ruby>上<rt>うえ</rt></ruby>で『まだ<ruby>新<rt>あたら</rt></ruby>しい』）】
+  ★「<ruby>先週<rt>せんしゅう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいパソコンを<ruby>買<rt>か</rt></ruby>ったばかりなのに<ruby>壊<rt>こわ</rt></ruby>れた！」（<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちとして『まだ<ruby>新<rt>あたら</rt></ruby>しい』）
+  ★「<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たばかりで、まだ<ruby>道<rt>みち</rt></ruby>がよくわかりません。」（<ruby>数<rt>すう</rt></ruby>か<ruby>月<rt>げつ</rt></ruby><ruby>前<rt>まえ</rt></ruby>でも<ruby>主観<rt>しゅかん</rt></ruby>でOK！）
+  ★<ruby>物理<rt>ぶつり</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さに<ruby>関係<rt>かんけい</rt></ruby>なく、<ruby>本人<rt>ほんにん</rt></ruby>が『<ruby>最近<rt>さいきん</rt></ruby>だ』と<ruby>感<rt>かん</rt></ruby>じていれば<ruby>使<rt>つか</rt></ruby>える！
 ```
 
 ---

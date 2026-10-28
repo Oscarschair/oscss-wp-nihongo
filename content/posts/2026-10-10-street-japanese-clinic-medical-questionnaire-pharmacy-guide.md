@@ -69,15 +69,15 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>には<ruby>痛<rt>いた</rt></ruby>みの<ruby>種類<rt>しゅるい</rt></ruby>を<ruby>表現<rt>ひょうげん</rt></ruby>する<ruby>豊<rt>ゆた</rt></ruby>かな**「オノマトペ（<ruby>擬音<rt>ぎおん</rt></ruby><ruby>語<rt>ご</rt></ruby>・<ruby>擬態語<rt>ぎたいご</rt></ruby>）」**があり、これを<ruby>使<rt>つか</rt></ruby>うとお<ruby>医者<rt>いしゃ</rt></ruby>さんは<ruby>一瞬<rt>いっしゅん</rt></ruby>で<ruby>症状<rt>しょうじょう</rt></ruby>のレベルを<ruby>正確<rt>せいかく</rt></ruby>に<ruby>把握<rt>はあく</rt></ruby>してくれます！
 
 ```
-【痛みの種類を表す魔法のオノマトペ】
-● 頭が【 ズキズキ 】痛む ━━ 血管が脈打つように「ズキン、ズキン」と痛む（偏頭痛）
-● 喉が【 イガイガ 】する ━━ 喉にトゲが刺さったように引っかかる、乾燥して荒れている
-● お腹が【 キリキリ 】痛む ━━ 針やナイフで刺されるように鋭く痛む（胃痛、ストレス）
-● 関節が【 ギシギシ / ミシミシ 】する ━━ 高熱の出始めに手足のフシブシが痛む
-● お腹が【 ゴロゴロ 】鳴る ━━ お腹が下りそう、ガスや水分が溜まっている
-● 咳が【 コンコン 】出る ━━ 乾いた軽い咳（初期の風邪）
-● 咳が【 ゴホゴホ 】出る ━━ 痰（たん）が絡んだ重い咳（気管支炎など）
-● 頭が【 クラクラ 】する ━━ めまいがして立ちくらみがする
+【<ruby>痛<rt>いた</rt></ruby>みの<ruby>種類<rt>しゅるい</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>魔法<rt>まほう</rt></ruby>のオノマトペ】
+● <ruby>頭<rt>あたま</rt></ruby>が【 ズキズキ 】<ruby>痛<rt>いた</rt></ruby>む ━━ <ruby>血管<rt>けっかん</rt></ruby>が<ruby>脈打<rt>みゃくう</rt></ruby>つように「ズキン、ズキン」と<ruby>痛<rt>いた</rt></ruby>む（<ruby>偏頭痛<rt>へんずつう</rt></ruby>）
+● <ruby>喉<rt>のど</rt></ruby>が【 イガイガ 】する ━━ <ruby>喉<rt>のど</rt></ruby>にトゲが<ruby>刺<rt>さ</rt></ruby>さったように<ruby>引<rt>ひ</rt></ruby>っかかる、<ruby>乾燥<rt>かんそう</rt></ruby>して<ruby>荒<rt>あ</rt></ruby>れている
+● お<ruby>腹<rt>なか</rt></ruby>が【 キリキリ 】<ruby>痛<rt>いた</rt></ruby>む ━━ <ruby>針<rt>はり</rt></ruby>やナイフで<ruby>刺<rt>さ</rt></ruby>されるように<ruby>鋭<rt>するど</rt></ruby>く<ruby>痛<rt>いた</rt></ruby>む（<ruby>胃痛<rt>いつう</rt></ruby>、ストレス）
+● <ruby>関節<rt>かんせつ</rt></ruby>が【 ギシギシ / ミシミシ 】する ━━ <ruby>高熱<rt>こうねつ</rt></ruby>の<ruby>出<rt>しゅつ</rt></ruby><ruby>始<rt>はじ</rt></ruby>めに<ruby>手足<rt>てあし</rt></ruby>のフシブシが<ruby>痛<rt>いた</rt></ruby>む
+● お<ruby>腹<rt>なか</rt></ruby>が【 ゴロゴロ 】<ruby>鳴<rt>な</rt></ruby>る ━━ お<ruby>腹<rt>なか</rt></ruby>が<ruby>下<rt>お</rt></ruby>りそう、ガスや<ruby>水分<rt>すいぶん</rt></ruby>が<ruby>溜<rt>た</rt></ruby>まっている
+● <ruby>咳<rt>せき</rt></ruby>が【 コンコン 】<ruby>出<rt>で</rt></ruby>る ━━ <ruby>乾<rt>かわ</rt></ruby>いた<ruby>軽<rt>かる</rt></ruby>い<ruby>咳<rt>せき</rt></ruby>（<ruby>初期<rt>しょき</rt></ruby>の<ruby>風邪<rt>かぜ</rt></ruby>）
+● <ruby>咳<rt>せき</rt></ruby>が【 ゴホゴホ 】<ruby>出<rt>で</rt></ruby>る ━━ <ruby>痰<rt>たん</rt></ruby>（たん）が<ruby>絡<rt>から</rt></ruby>んだ<ruby>重<rt>おも</rt></ruby>い<ruby>咳<rt>せき</rt></ruby>（<ruby>気管支炎<rt>きかんしえん</rt></ruby>など）
+● <ruby>頭<rt>あたま</rt></ruby>が【 クラクラ 】する ━━ めまいがして<ruby>立<rt>た</rt></ruby>ちくらみがする
 ```
 
 ### お<ruby>医者<rt>いしゃ</rt></ruby>さんに<ruby>伝<rt>つた</rt></ruby>える<ruby>黄金<rt>おうごん</rt></ruby>フレーズ：
@@ -94,17 +94,17 @@ tags:
 「え？ <ruby>薬<rt>くすり</rt></ruby>はどこで<ruby>受け取<rt>うけと</rt></ruby>るの？」と<ruby>院内<rt>いんない</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しても<ruby>薬局<rt>やっきょく</rt></ruby>はありません。
 
 ```
-【日本の医薬分業システム（院外処方）】
-［クリニックで診察・お会計］
+【<ruby>日本<rt>にほん</rt></ruby>の<ruby>医薬<rt>いやく</rt></ruby><ruby>分業<rt>ぶんぎょう</rt></ruby>システム（<ruby>院外<rt>いんがい</rt></ruby><ruby>処方<rt>しょほう</rt></ruby>）】
+［クリニックで<ruby>診察<rt>しんさつ</rt></ruby>・お<ruby>会計<rt>かいけい</rt></ruby>］
        │
-       ▼ （処方箋の紙を受け取る）
-［病院の外に出る］
+       ▼ （<ruby>処方箋<rt>しょほうせん</rt></ruby>の<ruby>紙<rt>かみ</rt></ruby>を<ruby>受け取<rt>うけと</rt></ruby>る）
+［<ruby>病院<rt>びょういん</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>出<rt>で</rt></ruby>る］
        │
-       ▼ （すぐ隣や向かいにある「〇〇調剤薬局」の看板を探す）
-［調剤薬局の受付に処方箋と保険証を提出］
+       ▼ （すぐ<ruby>隣<rt>となり</rt></ruby>や<ruby>向<rt>む</rt></ruby>かいにある「〇〇<ruby>調剤<rt>ちょうざい</rt></ruby><ruby>薬局<rt>やっきょく</rt></ruby>」の<ruby>看板<rt>かんばん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>す）
+［<ruby>調剤<rt>ちょうざい</rt></ruby><ruby>薬局<rt>やっきょく</rt></ruby>の<ruby>受付<rt>うけつけ</rt></ruby>に<ruby>処方箋<rt>しょほうせん</rt></ruby>と<ruby>保険<rt>ほけん</rt></ruby><ruby>証<rt>しょう</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>］
        │
-       ▼ （薬剤師が薬を調合・ダブルチェック）
-［薬剤師から薬の飲み方の説明を受けて、薬代をお支払い！］
+       ▼ （<ruby>薬剤師<rt>やくざいし</rt></ruby>が<ruby>薬<rt>くすり</rt></ruby>を<ruby>調合<rt>ちょうごう</rt></ruby>・ダブルチェック）
+［<ruby>薬剤師<rt>やくざいし</rt></ruby>から<ruby>薬<rt>くすり</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>方<rt>かた</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて、<ruby>薬代<rt>くすりだい</rt></ruby>をお<ruby>支払<rt>しはら</rt></ruby>い！］
 ```
 
 ### ⚠️ 【<ruby>超<rt>ちょう</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby>】<ruby>処方箋<rt>しょほうせん</rt></ruby>には「4<ruby>日間<rt>にちかん</rt></ruby>の<ruby>有効<rt>ゆうこう</rt></ruby><ruby>期限<rt>きげん</rt></ruby>」がある！
@@ -147,32 +147,32 @@ tags:
 <ruby>病気<rt>びょうき</rt></ruby>の<ruby>時<rt>とき</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>でも<ruby>心細<rt>こころぼそ</rt></ruby>くなりますが、<ruby>受診<rt>じゅしん</rt></ruby>と<ruby>薬局<rt>やっきょく</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れさえ<ruby>知<rt>し</rt></ruby>っていれば<ruby>日本<rt>にほん</rt></ruby>の<ruby>医療<rt>いりょう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>はとても<ruby>親切<rt>しんせつ</rt></ruby>で<ruby>高<rt>こう</rt></ruby><ruby>品質<rt>ひんしつ</rt></ruby>です。<ruby>体調<rt>たいちょう</rt></ruby>がおかしいなと<ruby>思<rt>おも</rt></ruby>ったら<ruby>無理<rt>むり</rt></ruby>をせず、<ruby>早<rt>はや</rt></ruby>めに<ruby>近所<rt>きんじょ</rt></ruby>のクリニックを<ruby>受診<rt>じゅしん</rt></ruby>してくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">問診票（もんしんひょう）</span>
+        <span class="c-vocab-card__word"><ruby>問診<rt>もんしん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>（もんしんひょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>medical questionnaire</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>病院の受付で問診票を渡され、現在の症状やアレルギーの有無を記入した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>medical questionnaire</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>病院<rt>びょういん</rt></ruby>の<ruby>受付<rt>うけつけ</rt></ruby>で<ruby>問診<rt>もんしん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>され、<ruby>現在<rt>げんざい</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>やアレルギーの<ruby>有無<rt>うむ</rt></ruby>を<ruby>記入<rt>きにゅう</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">保険証（ほけんしょう）</span>
+        <span class="c-vocab-card__word"><ruby>保険<rt>ほけん</rt></ruby><ruby>証<rt>しょう</rt></ruby>（ほけんしょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>health insurance card</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>クリニックにかかるときは、忘れずに健康保険証を受付へ提示する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>health insurance card</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>クリニックにかかるときは、<ruby>忘<rt>わす</rt></ruby>れずに<ruby>健康<rt>けんこう</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>証<rt>しょう</rt></ruby>を<ruby>受付<rt>うけつけ</rt></ruby>へ<ruby>提示<rt>ていじ</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お薬手帳（おくすりてちょう）</span>
+        <span class="c-vocab-card__word">お<ruby>薬<rt>くすり</rt></ruby><ruby>手帳<rt>てちょう</rt></ruby>（おくすりてちょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>medication notebook</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>過去に処方された薬の重複を防ぐため、薬局でお薬手帳を見せた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>medication notebook</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>過去<rt>かこ</rt></ruby>に<ruby>処方<rt>しょほう</rt></ruby>された<ruby>薬<rt>くすり</rt></ruby>の<ruby>重複<rt>じゅうふく</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐため、<ruby>薬局<rt>やっきょく</rt></ruby>でお<ruby>薬<rt>くすり</rt></ruby><ruby>手帳<rt>てちょう</rt></ruby>を<ruby>見<rt>み</rt></ruby>せた。</p>
     </div>
   </div>
 </div>

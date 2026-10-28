@@ -44,17 +44,17 @@ tags:
 これは<ruby>多<rt>おお</rt></ruby>くの<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>抱<rt>いだ</rt></ruby>く<ruby>最大<rt>さいだい</rt></ruby>の<ruby>疑問<rt>ぎもん</rt></ruby>です。<ruby>実<rt>じつ</rt></ruby>はこれには、**<ruby>人間<rt>にんげん</rt></ruby>の<ruby>脳<rt>のう</rt></ruby><ruby>科学<rt>かがく</rt></ruby>と<ruby>心理<rt>しんり</rt></ruby><ruby>学<rt>がく</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいた<ruby>明確<rt>めいかく</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>**があります。
 
 ```
-【電車内の会話 vs 電話の心理的ストレス】
+【<ruby>電車<rt>でんしゃ</rt></ruby><ruby>内<rt>ない</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby> vs <ruby>電話<rt>でんわ</rt></ruby>の<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby>ストレス】
 ┌────────────────────────────────────────────────────────┐
-│ ● 2人の対面会話：                                     │
-│   A「今日暑いね」 ⇄ B「そうだね、アイス食べたいね」     │
-│   ⇒ 周囲の人は「会話の文脈」が理解できるため、脳が自然に雑音としてスルーできる。
+│ ● <ruby>2人<rt>ふたり</rt></ruby>の<ruby>対面<rt>たいめん</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>：                                     │
+│   A「<ruby>今日<rt>きょう</rt></ruby><ruby>暑<rt>あつ</rt></ruby>いね」 ⇄ B「そうだね、アイス<ruby>食<rt>た</rt></ruby>べたいね」     │
+│   ⇒ <ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>は「<ruby>会話<rt>かいわ</rt></ruby>の<ruby>文脈<rt>ぶんみゃく</rt></ruby>」が<ruby>理解<rt>りかい</rt></ruby>できるため、<ruby>脳<rt>のう</rt></ruby>が<ruby>自然<rt>しぜん</rt></ruby>に<ruby>雑音<rt>ざつおん</rt></ruby>としてスルーできる。
 ├────────────────────────────────────────────────────────┤
-│ ● 片方だけの通話（ハーフ・ログ）：                     │
-│   A「うん……え？……本当に？……じゃあ後で……」           │
-│   ⇒ 相手の声が聞こえず「片方の断片的な情報」しか入らないため、
-│      人間の脳は無意識に「欠けた情報を補おう」と集中してしまい、
-│      極めて強いストレスとイライラを感じる！             │
+│ ● <ruby>片方<rt>かたほう</rt></ruby>だけの<ruby>通話<rt>つうわ</rt></ruby>（ハーフ・ログ）：                     │
+│   A「うん……え？……<ruby>本当<rt>ほんとう</rt></ruby>に？……じゃあ<ruby>後<rt>あと</rt></ruby>で……」           │
+│   ⇒ <ruby>相手<rt>あいて</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>が<ruby>聞<rt>き</rt></ruby>こえず「<ruby>片方<rt>かたほう</rt></ruby>の<ruby>断片<rt>だんぺん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>」しか<ruby>入<rt>はい</rt></ruby>らないため、
+│      <ruby>人間<rt>にんげん</rt></ruby>の<ruby>脳<rt>のう</rt></ruby>は<ruby>無意識<rt>むいしき</rt></ruby>に「<ruby>欠<rt>か</rt></ruby>けた<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>補<rt>おぎな</rt></ruby>おう」と<ruby>集中<rt>しゅうちゅう</rt></ruby>してしまい、
+│      <ruby>極<rt>きわ</rt></ruby>めて<ruby>強<rt>つよ</rt></ruby>いストレスとイライラを<ruby>感<rt>かん</rt></ruby>じる！             │
 └────────────────────────────────────────────────────────┘
 ```
 
@@ -104,10 +104,10 @@ tags:
 そんな<ruby>時<rt>とき</rt></ruby>に<ruby>使<rt>つか</rt></ruby>える、**「<ruby>最<rt>もっと</rt></ruby>も<ruby>失礼<rt>しつれい</rt></ruby>がなく、<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>怒<rt>いか</rt></ruby>りを<ruby>最小限<rt>さいしょうげん</rt></ruby>に<ruby>抑<rt>おさ</rt></ruby>える<ruby>神<rt>かみ</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>」**をご<ruby>紹介<rt>しょうかい</rt></ruby>します！
 
 ```
-【電車で電話が鳴った時の3ステップ神対応】
-Step 1: スマホの音量ボタンを押して、まず即座に着信音を止める！
-Step 2: 通話ボタンを押し、手で口元を覆いながら「1秒」で伝える。
-Step 3: すぐに耳から離して赤い終話ボタンをタップ！
+【<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>電話<rt>でんわ</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>った<ruby>時<rt>とき</rt></ruby>の3ステップ<ruby>神<rt>しん</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>】
+Step 1: スマホの<ruby>音量<rt>おんりょう</rt></ruby>ボタンを<ruby>押<rt>お</rt></ruby>して、まず<ruby>即座<rt>そくざ</rt></ruby>に<ruby>着信<rt>ちゃくしん</rt></ruby><ruby>音<rt>おん</rt></ruby>を<ruby>止<rt>と</rt></ruby>める！
+Step 2: <ruby>通話<rt>つうわ</rt></ruby>ボタンを<ruby>押<rt>お</rt></ruby>し、<ruby>手<rt>て</rt></ruby>で<ruby>口元<rt>くちもと</rt></ruby>を<ruby>覆<rt>おお</rt></ruby>いながら「1<ruby>秒<rt>びょう</rt></ruby>」で<ruby>伝<rt>つた</rt></ruby>える。
+Step 3: すぐに<ruby>耳<rt>みみ</rt></ruby>から<ruby>離<rt>はな</rt></ruby>して<ruby>赤<rt>あか</rt></ruby>い<ruby>終<rt>おわり</rt></ruby><ruby>話<rt>ばなし</rt></ruby>ボタンをタップ！
 ```
 
 ### <ruby>使<rt>つか</rt></ruby>える1<ruby>秒<rt>びょう</rt></ruby>フレーズ：
@@ -144,32 +144,32 @@ Step 3: すぐに耳から離して赤い終話ボタンをタップ！
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>静<rt>しず</rt></ruby>けさは、<ruby>冷<rt>つめ</rt></ruby>たさではなく「<ruby>満員<rt>まんいん</rt></ruby>で<ruby>見知<rt>みし</rt></ruby>らぬ<ruby>人<rt>ひと</rt></ruby><ruby>同士<rt>どうし</rt></ruby>が<ruby>密集<rt>みっしゅう</rt></ruby>する<ruby>空間<rt>くうかん</rt></ruby>で、お<ruby>互<rt>たが</rt></ruby>いが<ruby>快適<rt>かいてき</rt></ruby>に<ruby>過<rt>す</rt></ruby>ごすための<ruby>最大限<rt>さいだいげん</rt></ruby>の<ruby>優<rt>やさ</rt></ruby>しさ（<ruby>配慮<rt>はいりょ</rt></ruby>）」から<ruby>生<rt>う</rt></ruby>まれています。この<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>すると、<ruby>日本<rt>にほん</rt></ruby>の<ruby>電車<rt>でんしゃ</rt></ruby><ruby>移動<rt>いどう</rt></ruby>がより<ruby>一層<rt>いっそう</rt></ruby><ruby>心地<rt>ここち</rt></ruby>よく<ruby>感<rt>かん</rt></ruby>じられるはずですよ！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">マナーモード（マナーモード）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>silent mode</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>電車に乗る前に、スマートフォンの着信音を消してマナーモードに設定する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>silent mode</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、スマートフォンの<ruby>着信<rt>ちゃくしん</rt></ruby><ruby>音<rt>おん</rt></ruby>を<ruby>消<rt>け</rt></ruby>してマナーモードに<ruby>設定<rt>せってい</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">配慮（はいりょ）</span>
+        <span class="c-vocab-card__word"><ruby>配慮<rt>はいりょ</rt></ruby>（はいりょ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>consideration, concern</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>静かな車内空間を守るため、大声での会話や通話を控える配慮が求められる。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>consideration, concern</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>静<rt>しず</rt></ruby>かな<ruby>車内<rt>しゃない</rt></ruby><ruby>空間<rt>くうかん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るため、<ruby>大声<rt>おおごえ</rt></ruby>での<ruby>会話<rt>かいわ</rt></ruby>や<ruby>通話<rt>つうわ</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>える<ruby>配慮<rt>はいりょ</rt></ruby>が<ruby>求<rt>もと</rt></ruby>められる。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">沈黙（ちんもく）</span>
+        <span class="c-vocab-card__word"><ruby>沈黙<rt>ちんもく</rt></ruby>（ちんもく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>silence</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>朝の通勤電車は乗客の沈黙が守られており、とても落ち着いた雰囲気だ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>silence</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>朝<rt>あさ</rt></ruby>の<ruby>通勤<rt>つうきん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>は<ruby>乗客<rt>じょうきゃく</rt></ruby>の<ruby>沈黙<rt>ちんもく</rt></ruby>が<ruby>守<rt>まも</rt></ruby>られており、とても<ruby>落ち着<rt>おちつ</rt></ruby>いた<ruby>雰囲気<rt>ふんいき</rt></ruby>だ。</p>
     </div>
   </div>
 </div>

@@ -46,22 +46,22 @@ tags:
 「お<ruby>疲れ様<rt>つかれさま</rt></ruby>」と「ご<ruby>苦労<rt>くろう</rt></ruby><ruby>様<rt>さま</rt></ruby>」の<ruby>最大<rt>さいだい</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いは、<ruby>言葉<rt>ことば</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>そのものではなく、**「<ruby>使<rt>つか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>（<ruby>上下<rt>じょうげ</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>）」**にあります。
 
 ```
-【敬意のベクトルと上下関係】
+【<ruby>敬意<rt>けいい</rt></ruby>のベクトルと<ruby>上下<rt>じょうげ</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>】
 
 ┌─────────────────────────────────────────────────────────┐
-│ ▼ 目上の人（社長・上司・先輩・殿様）                     │
+│ ▼ <ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>（<ruby>社長<rt>しゃちょう</rt></ruby>・<ruby>上司<rt>じょうし</rt></ruby>・<ruby>先輩<rt>せんぱい</rt></ruby>・<ruby>殿様<rt>とのさま</rt></ruby>）                     │
 │    │                                                    │
-│    │ 【ご苦労様】（＝「よくやった、苦労を認めて褒めて遣わす」） │
+│    │ 【ご<ruby>苦労<rt>くろう</rt></ruby><ruby>様<rt>さま</rt></ruby>】（＝「よくやった、<ruby>苦労<rt>くろう</rt></ruby>を<ruby>認<rt>みと</rt></ruby>めて<ruby>褒<rt>ほ</rt></ruby>めて<ruby>遣<rt>つか</rt></ruby>わす」） │
 │    ▼                                                    │
-│ ▲ 目下の人（部下・後輩・業者・家来）                     │
+│ ▲ <ruby>目下<rt>めした</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>（<ruby>部下<rt>ぶか</rt></ruby>・<ruby>後輩<rt>こうはい</rt></ruby>・<ruby>業者<rt>ぎょうしゃ</rt></ruby>・<ruby>家来<rt>けらい</rt></ruby>）                     │
 └─────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────┐
-│ ● 誰からでもOK（上司へ・同僚へ・部下へ）                  │
+│ ● <ruby>誰<rt>だれ</rt></ruby>からでもOK（<ruby>上司<rt>じょうし</rt></ruby>へ・<ruby>同僚<rt>どうりょう</rt></ruby>へ・<ruby>部下<rt>ぶか</rt></ruby>へ）                  │
 │    │                                                    │
-│    │ 【お疲れ様】（＝「お互いに大変でしたね、お疲れが出ませんように」）
+│    │ 【お<ruby>疲れ様<rt>つかれさま</rt></ruby>】（＝「お<ruby>互<rt>たが</rt></ruby>いに<ruby>大変<rt>たいへん</rt></ruby>でしたね、お<ruby>疲<rt>つか</rt></ruby>れが<ruby>出<rt>で</rt></ruby>ませんように」）
 │    ▼                                                    │
-│ ● 全方位に使える万能の敬語挨拶                          │
+│ ● <ruby>全<rt>ぜん</rt></ruby><ruby>方位<rt>ほうい</rt></ruby>に<ruby>使<rt>つか</rt></ruby>える<ruby>万能<rt>ばんのう</rt></ruby>の<ruby>敬語<rt>けいご</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>                          │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -168,32 +168,32 @@ tags:
 「お<ruby>疲れ様<rt>つかれさま</rt></ruby>」という<ruby>一言<rt>ひとこと</rt></ruby>は、<ruby>過酷<rt>かこく</rt></ruby>なビジネス<ruby>社会<rt>しゃかい</rt></ruby>でお<ruby>互<rt>たが</rt></ruby>いを<ruby>支<rt>ささ</rt></ruby>え<ruby>合<rt>あ</rt></ruby>う<ruby>魔法<rt>まほう</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>です。<ruby>正<rt>ただ</rt></ruby>しいマナーで<ruby>使<rt>つか</rt></ruby>いこなして、<ruby>職場<rt>しょくば</rt></ruby>の<ruby>仲間<rt>なかま</rt></ruby>から<ruby>愛<rt>あい</rt></ruby>されるビジネスパーソンになりましょう！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お疲れ様（おつかれさま）</span>
+        <span class="c-vocab-card__word">お<ruby>疲れ様<rt>つかれさま</rt></ruby>（おつかれさま）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>thank you for your hard work</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>先輩や上司に対して仕事を終えたときは、「お疲れ様でした」と声をかける。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>thank you for your hard work</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>先輩<rt>せんぱい</rt></ruby>や<ruby>上司<rt>じょうし</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>仕事<rt>しごと</rt></ruby>を<ruby>終<rt>お</rt></ruby>えたときは、「お<ruby>疲れ様<rt>つかれさま</rt></ruby>でした」と<ruby>声<rt>こえ</rt></ruby>をかける。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">ご苦労様（ごくろうさま）</span>
+        <span class="c-vocab-card__word">ご<ruby>苦労<rt>くろう</rt></ruby><ruby>様<rt>さま</rt></ruby>（ごくろうさま）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>good job (to subordinates)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>社長が部下の労をねぎらう際に「ご苦労様」と言葉をかけた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>good job (to subordinates)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>社長<rt>しゃちょう</rt></ruby>が<ruby>部下<rt>ぶか</rt></ruby>の<ruby>労<rt>ろう</rt></ruby>をねぎらう<ruby>際<rt>さい</rt></ruby>に「ご<ruby>苦労<rt>くろう</rt></ruby><ruby>様<rt>さま</rt></ruby>」と<ruby>言葉<rt>ことば</rt></ruby>をかけた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">目上（めうえ）</span>
+        <span class="c-vocab-card__word"><ruby>目上<rt>めうえ</rt></ruby>（めうえ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>superior, senior</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本のビジネス社会では、目上の人に対する敬語の使い分けがとても大切だ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>superior, senior</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>のビジネス<ruby>社会<rt>しゃかい</rt></ruby>では、<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>敬語<rt>けいご</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>けがとても<ruby>大切<rt>たいせつ</rt></ruby>だ。</p>
     </div>
   </div>
 </div>

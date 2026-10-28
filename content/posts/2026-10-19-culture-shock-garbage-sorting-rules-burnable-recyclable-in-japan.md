@@ -28,22 +28,22 @@ tags:
 <ruby>街<rt>まち</rt></ruby>のゴミ<ruby>集積<rt>しゅうせき</rt></ruby><ruby>所<rt>しょ</rt></ruby>や<ruby>指定<rt>してい</rt></ruby>ゴミ<ruby>袋<rt>ぶくろ</rt></ruby>を<ruby>見<rt>み</rt></ruby>ていると、<ruby>自治体<rt>じちたい</rt></ruby>（<ruby>市区<rt>しく</rt></ruby><ruby>町村<rt>ちょうそん</rt></ruby>）によって<ruby>呼<rt>よ</rt></ruby>び<ruby>方<rt>かた</rt></ruby>が<ruby>微妙<rt>びみょう</rt></ruby>に<ruby>違<rt>ちが</rt></ruby>うことに<ruby>気<rt>き</rt></ruby>づきます。
 
 ```
-【呼び方の違いに隠されたメッセージ】
+【<ruby>呼<rt>よ</rt></ruby>び<ruby>方<rt>かた</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いに<ruby>隠<rt>かく</rt></ruby>されたメッセージ】
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-①「燃えるごみ」（可燃ごみ）
-  ・意味：単に「火をつければ燃焼する性質があるもの」
-  ・課題：「燃えるなら何でも入れていいや！」と、リサイクル可能な紙や
-          プラスチックまでポイポイ捨てられてしまう原因に。
+①「<ruby>燃<rt>も</rt></ruby>えるごみ」（<ruby>可燃<rt>かねん</rt></ruby>ごみ）
+  ・<ruby>意味<rt>いみ</rt></ruby>：<ruby>単<rt>たん</rt></ruby>に「<ruby>火<rt>ひ</rt></ruby>をつければ<ruby>燃焼<rt>ねんしょう</rt></ruby>する<ruby>性質<rt>せいしつ</rt></ruby>があるもの」
+  ・<ruby>課題<rt>かだい</rt></ruby>：「<ruby>燃<rt>も</rt></ruby>えるなら<ruby>何<rt>なに</rt></ruby>でも<ruby>入<rt>い</rt></ruby>れていいや！」と、リサイクル<ruby>可能<rt>かのう</rt></ruby>な<ruby>紙<rt>かみ</rt></ruby>や
+          プラスチックまでポイポイ<ruby>捨<rt>す</rt></ruby>てられてしまう<ruby>原因<rt>げんいん</rt></ruby>に。
 
-②「燃やすごみ」「燃やせるごみ」
-  ・意味：「本来はリサイクルしたいけれど、どうしても残ってしまったから
-          人間の意志として（仕方なく）燃やすもの」
-  ・意図：「燃える性質」ではなく「減量・分別の行動（他動詞）」を意識させ、
-          市民のリサイクル意識を高めるための工夫！
+②「<ruby>燃<rt>も</rt></ruby>やすごみ」「<ruby>燃<rt>も</rt></ruby>やせるごみ」
+  ・<ruby>意味<rt>いみ</rt></ruby>：「<ruby>本来<rt>ほんらい</rt></ruby>はリサイクルしたいけれど、どうしても<ruby>残<rt>のこ</rt></ruby>ってしまったから
+          <ruby>人間<rt>にんげん</rt></ruby>の<ruby>意志<rt>いし</rt></ruby>として（<ruby>仕方<rt>しかた</rt></ruby>なく）<ruby>燃<rt>も</rt></ruby>やすもの」
+  ・<ruby>意図<rt>いと</rt></ruby>：「<ruby>燃<rt>も</rt></ruby>える<ruby>性質<rt>せいしつ</rt></ruby>」ではなく「<ruby>減量<rt>げんりょう</rt></ruby>・<ruby>分別<rt>ふんべつ</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>（<ruby>他動詞<rt>たどうし</rt></ruby>）」を<ruby>意識<rt>いしき</rt></ruby>させ、
+          <ruby>市民<rt>しみん</rt></ruby>のリサイクル<ruby>意識<rt>いしき</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めるための<ruby>工夫<rt>くふう</rt></ruby>！
 
-③「燃やすしかないごみ」
-  ・熊本県水俣市などで採用されているさらに一歩進んだ名称。
-  ・「徹底的に分別して、本当に最後の最後に残ったものだけ」という強い決意。
+③「<ruby>燃<rt>も</rt></ruby>やすしかないごみ」
+  ・<ruby>熊本<rt>くまもと</rt></ruby><ruby>県<rt>けん</rt></ruby><ruby>水俣<rt>みなまた</rt></ruby><ruby>市<rt>し</rt></ruby>などで<ruby>採用<rt>さいよう</rt></ruby>されているさらに<ruby>一<rt>いち</rt></ruby><ruby>歩<rt>ほ</rt></ruby><ruby>進<rt>すす</rt></ruby>んだ<ruby>名称<rt>めいしょう</rt></ruby>。
+  ・「<ruby>徹底的<rt>てっていてき</rt></ruby>に<ruby>分別<rt>ふんべつ</rt></ruby>して、<ruby>本当<rt>ほんとう</rt></ruby>に<ruby>最後<rt>さいご</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>ったものだけ」という<ruby>強<rt>つよ</rt></ruby>い<ruby>決意<rt>けつい</rt></ruby>。
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -57,22 +57,22 @@ tags:
 <ruby>自治体<rt>じちたい</rt></ruby>によって<ruby>細部<rt>さいぶ</rt></ruby>は<ruby>異<rt>こと</rt></ruby>なりますが、<ruby>全国<rt>ぜんこく</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>基本<rt>きほん</rt></ruby><ruby>骨格<rt>こっかく</rt></ruby>は<ruby>以下<rt>いか</rt></ruby>の4つです。
 
 ```
-【1. 燃やすごみ／燃えるごみ（可燃ごみ）】
-  生ゴミ、ティッシュ、汚れた紙、木くず、革製品など。
-  ※週に2回程度回収されるメインのゴミ。生ゴミは水分をしっかり絞るのがマナー！
+【1. <ruby>燃<rt>も</rt></ruby>やすごみ／<ruby>燃<rt>も</rt></ruby>えるごみ（<ruby>可燃<rt>かねん</rt></ruby>ごみ）】
+  <ruby>生<rt>なま</rt></ruby>ゴミ、ティッシュ、<ruby>汚<rt>よご</rt></ruby>れた<ruby>紙<rt>かみ</rt></ruby>、<ruby>木<rt>き</rt></ruby>くず、<ruby>革製品<rt>かわせいひん</rt></ruby>など。
+  ※<ruby>週<rt>しゅう</rt></ruby>に2<ruby>回<rt>かい</rt></ruby><ruby>程度<rt>ていど</rt></ruby><ruby>回収<rt>かいしゅう</rt></ruby>されるメインのゴミ。<ruby>生<rt>なま</rt></ruby>ゴミは<ruby>水分<rt>すいぶん</rt></ruby>をしっかり<ruby>絞<rt>しぼ</rt></ruby>るのがマナー！
 
-【2. 燃やさないごみ／燃えないごみ（不燃ごみ）】
-  陶器、ガラス、金属類、小型家電、刃物など。
-  ※月に1〜2回程度しか回収されないので出し忘れ注意！
-  ★包丁や割れたビンは、厚紙や新聞紙に包んで赤ペンで「キケン」と書くのが優しさ。
+【2. <ruby>燃<rt>も</rt></ruby>やさないごみ／<ruby>燃<rt>も</rt></ruby>えないごみ（<ruby>不燃<rt>ふねん</rt></ruby>ごみ）】
+  <ruby>陶器<rt>とうき</rt></ruby>、ガラス、<ruby>金属<rt>きんぞく</rt></ruby><ruby>類<rt>るい</rt></ruby>、<ruby>小型<rt>こがた</rt></ruby><ruby>家電<rt>かでん</rt></ruby>、<ruby>刃物<rt>はもの</rt></ruby>など。
+  ※<ruby>月<rt>つき</rt></ruby>に1〜2<ruby>回<rt>かい</rt></ruby><ruby>程度<rt>ていど</rt></ruby>しか<ruby>回収<rt>かいしゅう</rt></ruby>されないので<ruby>出<rt>だ</rt></ruby>し<ruby>忘<rt>わす</rt></ruby>れ<ruby>注意<rt>ちゅうい</rt></ruby>！
+  ★<ruby>包丁<rt>ほうちょう</rt></ruby>や<ruby>割<rt>わ</rt></ruby>れたビンは、<ruby>厚紙<rt>あつがみ</rt></ruby>や<ruby>新聞紙<rt>しんぶんし</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>んで<ruby>赤<rt>あか</rt></ruby>ペンで「キケン」と<ruby>書<rt>か</rt></ruby>くのが<ruby>優<rt>やさ</rt></ruby>しさ。
 
-【3. 資源ごみ（リサイクル）】
-  缶（アルミ・スチール）、ビン（茶・透明・その他）、ペットボトル、古紙・段ボール。
-  ★ペットボトル3ステップ：①中を水洗い → ②キャップを外す → ③ラベルを剥がす！
+【3. <ruby>資源<rt>しげん</rt></ruby>ごみ（リサイクル）】
+  <ruby>缶<rt>かん</rt></ruby>（アルミ・スチール）、ビン（<ruby>茶<rt>ちゃ</rt></ruby>・<ruby>透明<rt>とうめい</rt></ruby>・その<ruby>他<rt>た</rt></ruby>）、ペットボトル、<ruby>古紙<rt>こし</rt></ruby>・<ruby>段ボール<rt>だんぼーる</rt></ruby>。
+  ★ペットボトル3ステップ：①<ruby>中<rt>ちゅう</rt></ruby>を<ruby>水洗<rt>みずあら</rt></ruby>い → ②キャップを<ruby>外<rt>はず</rt></ruby>す → ③ラベルを<ruby>剥<rt>へ</rt></ruby>がす！
 
-【4. プラスチック製容器包装（プラマーク）】
-  お菓子の袋、シャンプーボトル、卵パックなど（プラマークがあるもの）。
-  ※油やソースで汚れたものは軽く洗う。汚れが落ちないものは「燃やすごみ」へ。
+【4. プラスチック<ruby>製<rt>せい</rt></ruby><ruby>容器<rt>ようき</rt></ruby><ruby>包装<rt>ほうそう</rt></ruby>（プラマーク）】
+  お<ruby>菓子<rt>かし</rt></ruby>の<ruby>袋<rt>ふくろ</rt></ruby>、シャンプーボトル、<ruby>卵<rt>たまご</rt></ruby>パックなど（プラマークがあるもの）。
+  ※<ruby>油<rt>あぶら</rt></ruby>やソースで<ruby>汚<rt>よご</rt></ruby>れたものは<ruby>軽<rt>かる</rt></ruby>く<ruby>洗<rt>あら</rt></ruby>う。<ruby>汚<rt>よご</rt></ruby>れが<ruby>落<rt>お</rt></ruby>ちないものは「<ruby>燃<rt>も</rt></ruby>やすごみ」へ。
 ```
 
 ---
@@ -182,40 +182,40 @@ tags:
 * 📌 **<ruby>地域<rt>ちいき</rt></ruby>が<ruby>変<rt>か</rt></ruby>われば<ruby>分別<rt>ふんべつ</rt></ruby>も<ruby>変<rt>か</rt></ruby>わる！<ruby>引っ越<rt>ひっこ</rt></ruby>したらまず<ruby>市役所<rt>しやくしょ</rt></ruby>の「<ruby>分別<rt>ふんべつ</rt></ruby>カレンダー」を<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れよう！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">分別（ぶんべつ）</span>
+        <span class="c-vocab-card__word"><ruby>分別<rt>ふんべつ</rt></ruby>（ぶんべつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>sorting, classification, separation</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>地域ごとにゴミの分別方法が異なるので、パンフレットをよく確認しましょう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>sorting, classification, separation</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>地域<rt>ちいき</rt></ruby>ごとにゴミの<ruby>分別<rt>ふんべつ</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なるので、パンフレットをよく<ruby>確認<rt>かくにん</rt></ruby>しましょう。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">可燃（かねん）／ 不燃（ふねん）</span>
+        <span class="c-vocab-card__word"><ruby>可燃<rt>かねん</rt></ruby>（かねん）／ <ruby>不燃<rt>ふねん</rt></ruby>（ふねん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>combustible, burnable / non-combustible</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>このプラスチック容器は可燃ごみですか、それとも不燃ごみですか？</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>combustible, burnable / non-combustible</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>このプラスチック<ruby>容器<rt>ようき</rt></ruby>は<ruby>可燃<rt>かねん</rt></ruby>ごみですか、それとも<ruby>不燃<rt>ふねん</rt></ruby>ごみですか？</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">粗大ごみ（そだいごみ）</span>
+        <span class="c-vocab-card__word"><ruby>粗大<rt>そだい</rt></ruby>ごみ（そだいごみ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>bulky waste, oversized garbage</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>壊れたソファーを処分するために、市役所の粗大ごみ受付に電話しました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>bulky waste, oversized garbage</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>壊<rt>こわ</rt></ruby>れたソファーを<ruby>処分<rt>しょぶん</rt></ruby>するために、<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>粗大<rt>そだい</rt></ruby>ごみ<ruby>受付<rt>うけつけ</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>しました。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">資源（しげん）</span>
+        <span class="c-vocab-card__word"><ruby>資源<rt>しげん</rt></ruby>（しげん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>resources, recyclable materials</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>段ボールや空き缶は貴重な資源なので、正しくリサイクルに出します。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>resources, recyclable materials</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>段ボール<rt>だんぼーる</rt></ruby>や<ruby>空き缶<rt>あきかん</rt></ruby>は<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>資源<rt>しげん</rt></ruby>なので、<ruby>正<rt>まさ</rt></ruby>しくリサイクルに<ruby>出<rt>だ</rt></ruby>します。</p>
     </div>
   </div>
 </div>

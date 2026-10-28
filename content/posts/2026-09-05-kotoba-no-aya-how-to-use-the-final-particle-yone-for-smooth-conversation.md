@@ -44,32 +44,32 @@ tags:
 ---
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">確認（かくにん）</span>
+        <span class="c-vocab-card__word"><ruby>確認<rt>かくにん</rt></ruby>（かくにん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>confirmation, verification</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>明日の待ち合わせ時間と場所をもう一度メールで確認する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>confirmation, verification</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>明日<rt>あした</rt></ruby>の<ruby>待ち合<rt>まちあ</rt></ruby>わせ<ruby>時間<rt>じかん</rt></ruby>と<ruby>場所<rt>ばしょ</rt></ruby>をもう<ruby>一度<rt>いちど</rt></ruby>メールで<ruby>確認<rt>かくにん</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">共有（きょうゆう）</span>
+        <span class="c-vocab-card__word"><ruby>共有<rt>きょうゆう</rt></ruby>（きょうゆう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>sharing</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>プロジェクトの進捗状況をチーム全体でリアルタイムに共有する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>sharing</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>プロジェクトの<ruby>進捗<rt>しんちょく</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>をチーム<ruby>全体<rt>ぜんたい</rt></ruby>でリアルタイムに<ruby>共有<rt>きょうゆう</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">会話（かいわ）</span>
+        <span class="c-vocab-card__word"><ruby>会話<rt>かいわ</rt></ruby>（かいわ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>conversation</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>語学を上達させる一番の近道は、毎日少しでも日本語で会話することだ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>conversation</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>語学<rt>ごがく</rt></ruby>を<ruby>上達<rt>じょうたつ</rt></ruby>させる<ruby>一番<rt>いちばん</rt></ruby>の<ruby>近道<rt>ちかみち</rt></ruby>は、<ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しでも<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>で<ruby>会話<rt>かいわ</rt></ruby>することだ。</p>
     </div>
   </div>
 </div>

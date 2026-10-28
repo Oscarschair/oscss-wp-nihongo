@@ -27,14 +27,14 @@ tags:
 
 ```
 【コインランドリー（セルフサービス）】
-  ・向いている服：普段着のTシャツ、下着、タオル、毛布、羽毛布団など。
-  ・メリット    ：ガス乾燥機で30分でフワフワに乾く！ダニ退治にも最強！
-  ・必要なもの  ：100円玉（硬貨）またはスマホ決済。洗剤は自動投入が主流！
+  ・<ruby>向<rt>む</rt></ruby>いている<ruby>服<rt>ふく</rt></ruby>：<ruby>普段着<rt>ふだんぎ</rt></ruby>のTシャツ、<ruby>下着<rt>したぎ</rt></ruby>、タオル、<ruby>毛布<rt>もうふ</rt></ruby>、<ruby>羽毛<rt>うもう</rt></ruby><ruby>布団<rt>ふとん</rt></ruby>など。
+  ・メリット    ：ガス<ruby>乾燥<rt>かんそう</rt></ruby><ruby>機<rt>き</rt></ruby>で30<ruby>分<rt>ふん</rt></ruby>でフワフワに<ruby>乾<rt>かわ</rt></ruby>く！ダニ<ruby>退治<rt>たいじ</rt></ruby>にも<ruby>最強<rt>さいきょう</rt></ruby>！
+  ・<ruby>必要<rt>ひつよう</rt></ruby>なもの  ：100<ruby>円<rt>えん</rt></ruby><ruby>玉<rt>だま</rt></ruby>（<ruby>硬貨<rt>こうか</rt></ruby>）またはスマホ<ruby>決済<rt>けっさい</rt></ruby>。<ruby>洗剤<rt>せんざい</rt></ruby>は<ruby>自動<rt>じどう</rt></ruby><ruby>投入<rt>とうにゅう</rt></ruby>が<ruby>主流<rt>しゅりゅう</rt></ruby>！
 
-【街のクリーニング屋さん（プロにお任せ）】
-  ・向いている服：スーツ、コート、ダウンジャケット、着物、高級ドレスなど。
-  ・メリット    ：型崩れせず、シミ抜きやプレスの技術が抜群！
-  ・引き取り方  ：渡された「預かり証（控え伝票）」を持って後日取りに行く。
+【<ruby>街<rt>まち</rt></ruby>のクリーニング<ruby>屋<rt>や</rt></ruby>さん（プロにお<ruby>任<rt>まか</rt></ruby>せ）】
+  ・<ruby>向<rt>む</rt></ruby>いている<ruby>服<rt>ふく</rt></ruby>：スーツ、コート、ダウンジャケット、<ruby>着物<rt>きもの</rt></ruby>、<ruby>高級<rt>こうきゅう</rt></ruby>ドレスなど。
+  ・メリット    ：<ruby>型<rt>かた</rt></ruby><ruby>崩<rt>くず</rt></ruby>れせず、シミ<ruby>抜<rt>ぬ</rt></ruby>きやプレスの<ruby>技術<rt>ぎじゅつ</rt></ruby>が<ruby>抜群<rt>ばつぐん</rt></ruby>！
+  ・<ruby>引き取<rt>ひきと</rt></ruby>り<ruby>方<rt>かた</rt></ruby>  ：<ruby>渡<rt>わた</rt></ruby>された「<ruby>預<rt>あず</rt></ruby>かり<ruby>証<rt>しょう</rt></ruby>（<ruby>控<rt>ひか</rt></ruby>え<ruby>伝票<rt>でんぴょう</rt></ruby>）」を<ruby>持<rt>も</rt></ruby>って<ruby>後日<rt>ごじつ</rt></ruby><ruby>取<rt>と</rt></ruby>りに<ruby>行<rt>い</rt></ruby>く。
 ```
 
 ---
@@ -136,32 +136,32 @@ tags:
 * 📌 **<ruby>雨<rt>う</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>はコインランドリーの「<ruby>大型<rt>おおがた</rt></ruby>ガス<ruby>乾燥<rt>かんそう</rt></ruby><ruby>機<rt>き</rt></ruby>」で30<ruby>分<rt>ふん</rt></ruby><ruby>解決<rt>かいけつ</rt></ruby>！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">乾燥機（かんそうき）</span>
+        <span class="c-vocab-card__word"><ruby>乾燥<rt>かんそう</rt></ruby><ruby>機<rt>き</rt></ruby>（かんそうき）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>clothes dryer, drying machine</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>梅雨の時期は洗濯物が乾かないので、コインランドリーの乾燥機を利用します。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>clothes dryer, drying machine</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>梅雨<rt>つゆ</rt></ruby>の<ruby>時期<rt>じき</rt></ruby>は<ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が<ruby>乾<rt>かわ</rt></ruby>かないので、コインランドリーの<ruby>乾燥<rt>かんそう</rt></ruby><ruby>機<rt>き</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>します。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">シミ抜き（しみぬき）</span>
+        <span class="c-vocab-card__word">シミ<ruby>抜<rt>ぬ</rt></ruby>き（しみぬき）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>stain removal</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>シャツの襟元についてしまった汚れを、シミ抜きしてもらいました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>stain removal</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>シャツの<ruby>襟元<rt>えりもと</rt></ruby>についてしまった<ruby>汚<rt>よご</rt></ruby>れを、シミ<ruby>抜<rt>ぬ</rt></ruby>きしてもらいました。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">仕上がり（しあがり）</span>
+        <span class="c-vocab-card__word"><ruby>仕上<rt>しあ</rt></ruby>がり（しあがり）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>finish, completion, ready date</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>クリーニングの仕上がり予定日は、来週の火曜日です。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>finish, completion, ready date</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>クリーニングの<ruby>仕上<rt>しあ</rt></ruby>がり<ruby>予定<rt>よてい</rt></ruby><ruby>日<rt>び</rt></ruby>は、<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>火曜日<rt>かようび</rt></ruby>です。</p>
     </div>
   </div>
 </div>

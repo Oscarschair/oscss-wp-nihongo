@@ -65,20 +65,20 @@ tags:
 <ruby>席<rt>せき</rt></ruby>が<ruby>整<rt>ととの</rt></ruby>ったら、いよいよお<ruby>寿司<rt>すし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましょう！ <ruby>現代<rt>げんだい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>の<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>は、ただレーンから<ruby>取<rt>と</rt></ruby>るだけではありません。
 
 ```
-【回転寿司の注文フロー】
-［席のタッチパネル／スマホQR］
+【<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>フロー】
+［<ruby>席<rt>せき</rt></ruby>のタッチパネル／スマホQR］
        │
-       ▼ （商品を選んで「注文」ボタン）
-［キッチンで職人やロボットが調理］
-       │
-       ▼
-［特急レーンで新幹線やトレイが爆速到着！］
-       │  ♪「ピピピピ！ 間もなくご注文の品が届きます」
-       ▼
-［自分のお皿を素早くテーブルへ取る］
+       ▼ （<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んで「<ruby>注文<rt>ちゅうもん</rt></ruby>」ボタン）
+［キッチンで<ruby>職人<rt>しょくにん</rt></ruby>やロボットが<ruby>調理<rt>ちょうり</rt></ruby>］
        │
        ▼
-［タッチパネルの「確認／戻る」ボタンを押すと列車が帰還］
+［<ruby>特急<rt>とっきゅう</rt></ruby>レーンで<ruby>新幹線<rt>しんかんせん</rt></ruby>やトレイが爆速到<ruby>着<rt>ぎ</rt></ruby>！］
+       │  ♪「ピピピピ！ <ruby>間<rt>ま</rt></ruby>もなくご<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>品<rt>しな</rt></ruby>が<ruby>届<rt>とど</rt></ruby>きます」
+       ▼
+［<ruby>自分<rt>じぶん</rt></ruby>のお<ruby>皿<rt>さら</rt></ruby>を<ruby>素早<rt>すばや</rt></ruby>くテーブルへ<ruby>取<rt>と</rt></ruby>る］
+       │
+       ▼
+［タッチパネルの「<ruby>確認<rt>かくにん</rt></ruby>／<ruby>戻<rt>もど</rt></ruby>る」ボタンを<ruby>押<rt>お</rt></ruby>すと<ruby>列車<rt>れっしゃ</rt></ruby>が<ruby>帰還<rt>きかん</rt></ruby>］
 ```
 
 ### ① <ruby>回<rt>まわ</rt></ruby>っているお<ruby>寿司<rt>すし</rt></ruby>の<ruby>取<rt>と</rt></ruby>り<ruby>方<rt>かた</rt></ruby>：「<ruby>鮮度<rt>せんど</rt></ruby>くん」の<ruby>開<rt>あ</rt></ruby>け<ruby>方<rt>かた</rt></ruby>
@@ -160,32 +160,32 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>は、<ruby>美味<rt>おい</rt></ruby>しい<ruby>魚<rt>さかな</rt></ruby>を<ruby>安<rt>やす</rt></ruby>く<ruby>食<rt>た</rt></ruby>べられるだけでなく、<ruby>日本<rt>にほん</rt></ruby>のテクノロジーとおもてなし<ruby>精神<rt>せいしん</rt></ruby>がぎっしり<ruby>詰<rt>つ</rt></ruby>まったテーマパークです。ルールとマナーを<ruby>覚<rt>おぼ</rt></ruby>えて、ぜひ<ruby>日本<rt>にほん</rt></ruby>の<ruby>回転<rt>かいてん</rt></ruby><ruby>寿司<rt>すし</rt></ruby>を120%<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">蛇口（じゃぐち）</span>
+        <span class="c-vocab-card__word"><ruby>蛇口<rt>じゃぐち</rt></ruby>（じゃぐち）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>faucet, tap</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>席にある給茶用の蛇口に湯飲みを押し当てて、熱いお茶を淹れる。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>faucet, tap</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>席<rt>せき</rt></ruby>にある<ruby>給<rt>きゅう</rt></ruby><ruby>茶<rt>ちゃ</rt></ruby><ruby>用<rt>よう</rt></ruby>の<ruby>蛇口<rt>じゃぐち</rt></ruby>に<ruby>湯飲<rt>ゆの</rt></ruby>みを<ruby>押<rt>お</rt></ruby>し<ruby>当<rt>あ</rt></ruby>てて、<ruby>熱<rt>あつ</rt></ruby>いお<ruby>茶<rt>ちゃ</rt></ruby>を淹れる。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">特急（とっきゅう）</span>
+        <span class="c-vocab-card__word"><ruby>特急<rt>とっきゅう</rt></ruby>（とっきゅう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>express train / lane</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>タッチパネルで注文した寿司が、特急レーンに乗って席まで素早く届いた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>express train / lane</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>タッチパネルで<ruby>注文<rt>ちゅうもん</rt></ruby>した<ruby>寿司<rt>すし</rt></ruby>が、<ruby>特急<rt>とっきゅう</rt></ruby>レーンに<ruby>乗<rt>の</rt></ruby>って<ruby>席<rt>せき</rt></ruby>まで<ruby>素早<rt>すばや</rt></ruby>く<ruby>届<rt>とど</rt></ruby>いた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お会計（おかいけい）</span>
+        <span class="c-vocab-card__word">お<ruby>会計<rt>かいけい</rt></ruby>（おかいけい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>bill, check</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>食べ終わった後、店員さんを呼んでお皿の枚数を数えてもらいお会計へ向かう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>bill, check</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>、<ruby>店員<rt>てんいん</rt></ruby>さんを<ruby>呼<rt>よ</rt></ruby>んでお<ruby>皿<rt>さら</rt></ruby>の<ruby>枚数<rt>まいすう</rt></ruby>を<ruby>数<rt>かぞ</rt></ruby>えてもらいお<ruby>会計<rt>かいけい</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かう。</p>
     </div>
   </div>
 </div>

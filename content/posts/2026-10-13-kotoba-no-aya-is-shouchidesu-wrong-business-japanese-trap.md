@@ -58,9 +58,9 @@ tags:
 <ruby>敬語<rt>けいご</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>けで<ruby>最<rt>もっと</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>なのが、<ruby>日本<rt>にっぽん</rt></ruby><ruby>独特<rt>どくとく</rt></ruby>の**「ウチ（<ruby>社内<rt>しゃない</rt></ruby>・<ruby>身内<rt>みうち</rt></ruby>）」と「ソト（<ruby>社外<rt>しゃがい</rt></ruby>・<ruby>顧客<rt>こきゃく</rt></ruby>）」の<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby>**です。
 
 ```
-【ソト（社外・顧客）】━━━━ 最上級敬意：「かしこまりました」
-【ウチ（社内の上司）】━━━━ 謙譲語：「承知いたしました」
-【ウチ（先輩・同僚）】━━━━ 丁寧語：「承知しました」 / チャットなら「了解です」
+【ソト（<ruby>社外<rt>しゃがい</rt></ruby>・<ruby>顧客<rt>こきゃく</rt></ruby>）】━━━━ <ruby>最上級<rt>さいじょうきゅう</rt></ruby><ruby>敬意<rt>けいい</rt></ruby>：「かしこまりました」
+【ウチ（<ruby>社内<rt>しゃない</rt></ruby>の<ruby>上司<rt>じょうし</rt></ruby>）】━━━━ <ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>：「<ruby>承知<rt>しょうち</rt></ruby>いたしました」
+【ウチ（<ruby>先輩<rt>せんぱい</rt></ruby>・<ruby>同僚<rt>どうりょう</rt></ruby>）】━━━━ <ruby>丁寧<rt>ていねい</rt></ruby><ruby>語<rt>ご</rt></ruby>：「<ruby>承知<rt>しょうち</rt></ruby>しました」 / チャットなら「<ruby>了解<rt>りょうかい</rt></ruby>です」
 ```
 
 <ruby>電話<rt>でんわ</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>でも、<ruby>社外<rt>しゃがい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>しては<ruby>自分<rt>じぶん</rt></ruby>の<ruby>上司<rt>じょうし</rt></ruby>であっても「<ruby>部長<rt>ぶちょう</rt></ruby>の<ruby>田中<rt>たなか</rt></ruby>は<ruby>席<rt>せき</rt></ruby>を<ruby>外<rt>はず</rt></ruby>しております」と<ruby>呼び捨<rt>よびす</rt></ruby>てにします。
@@ -224,32 +224,32 @@ tags:
 <ruby>明日<rt>あした</rt></ruby>のオフィスから、ぜひ<ruby>自信<rt>じしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って「<ruby>承知<rt>しょうち</rt></ruby>いたしました」「<ruby>承知<rt>しょうち</rt></ruby>しました！」を<ruby>使<rt>つか</rt></ruby>ってみてくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">承知（しょうち）</span>
+        <span class="c-vocab-card__word"><ruby>承知<rt>しょうち</rt></ruby>（しょうち）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>acknowledging, consent</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>上司からの指示に対して、「承知いたしました。すぐに対応します」と返事をした。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>acknowledging, consent</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>上司<rt>じょうし</rt></ruby>からの<ruby>指示<rt>しじ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、「<ruby>承知<rt>しょうち</rt></ruby>いたしました。すぐに<ruby>対応<rt>たいおう</rt></ruby>します」と<ruby>返事<rt>へんじ</rt></ruby>をした。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">了解（りょうかい）</span>
+        <span class="c-vocab-card__word"><ruby>了解<rt>りょうかい</rt></ruby>（りょうかい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>understanding, roger</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>同僚同士のチャット連絡では「了解です」と返信することが多い。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>understanding, roger</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>同僚<rt>どうりょう</rt></ruby><ruby>同士<rt>どうし</rt></ruby>のチャット<ruby>連絡<rt>れんらく</rt></ruby>では「<ruby>了解<rt>りょうかい</rt></ruby>です」と<ruby>返信<rt>へんしん</rt></ruby>することが<ruby>多<rt>おお</rt></ruby>い。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">謙譲語（けんじょうご）</span>
+        <span class="c-vocab-card__word"><ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>（けんじょうご）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>humble language</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>取引先のクライアントに対しては、敬意を込めて謙譲語を使うのがビジネスマナーだ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>humble language</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>のクライアントに<ruby>対<rt>たい</rt></ruby>しては、<ruby>敬意<rt>けいい</rt></ruby>を<ruby>込<rt>こ</rt></ruby>めて<ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うのがビジネスマナーだ。</p>
     </div>
   </div>
 </div>

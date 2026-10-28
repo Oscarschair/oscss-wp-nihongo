@@ -45,16 +45,16 @@ tags:
 その<ruby>秘密<rt>ひみつ</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の**「<ruby>済<rt>す</rt></ruby>む（すむ＝<ruby>終<rt>お</rt></ruby>わる、<ruby>解決<rt>かいけつ</rt></ruby>する、<ruby>心<rt>こころ</rt></ruby>がスッキリ<ruby>収<rt>おさ</rt></ruby>まる）」**という<ruby>動詞<rt>どうし</rt></ruby>の<ruby>否定<rt>ひてい</rt></ruby><ruby>形<rt>がた</rt></ruby>にあります。
 
 ```
-【「すみません」の原義と心のメカニズム】
+【「すみません」の<ruby>原義<rt>げんぎ</rt></ruby>と<ruby>心<rt>こころ</rt></ruby>のメカニズム】
 
-相手が自分のために時間を使ってくれた、労力を割いてくれた。
+<ruby>相手<rt>あいて</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>のために<ruby>時間<rt>じかん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>ってくれた、<ruby>労力<rt>ろうりょく</rt></ruby>を<ruby>割<rt>さ</rt></ruby>いてくれた。
       │
       ▼
-「あなたにそんな気を使わせてしまって、私の申し訳ない気持ち・感謝の気持ちが、
-  ただの言葉だけでは【済みません（完了しません・収まりません）】！」
+「あなたにそんな<ruby>気<rt>き</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わせてしまって、<ruby>私<rt>わたし</rt></ruby>の<ruby>申し訳<rt>もうしわけ</rt></ruby>ない<ruby>気持<rt>きも</rt></ruby>ち・<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちが、
+  ただの<ruby>言葉<rt>ことば</rt></ruby>だけでは【<ruby>済<rt>す</rt></ruby>みません（<ruby>完了<rt>かんりょう</rt></ruby>しません・<ruby>収<rt>おさ</rt></ruby>まりません）】！」
       │
       ▼
-「感謝＋相手に手間をかけさせたことへの恐縮」＝【 すみません 】！
+「<ruby>感謝<rt>かんしゃ</rt></ruby>＋<ruby>相手<rt>あいて</rt></ruby>に<ruby>手間<rt>てま</rt></ruby>をかけさせたことへの<ruby>恐縮<rt>きょうしゅく</rt></ruby>」＝【 すみません 】！
 ```
 
 つまり、<ruby>日本人<rt>にっぽんじん</rt></ruby>の「すみません」は、<ruby>単<rt>たん</rt></ruby>なる<ruby>謝罪<rt>しゃざい</rt></ruby>（<ruby>謝<rt>あやま</rt></ruby>り）ではなく、**「<ruby>相手<rt>あいて</rt></ruby>に<ruby>余計<rt>よけい</rt></ruby>な<ruby>労力<rt>ろうりょく</rt></ruby>をかけさせてしまったことへの<ruby>敬意<rt>けいい</rt></ruby>と、<ruby>深<rt>ふか</rt></ruby>い<ruby>感謝<rt>かんしゃ</rt></ruby>のハイブリッド<ruby>表現<rt>ひょうげん</rt></ruby>」**なのです！
@@ -98,19 +98,19 @@ tags:
 <ruby>大人<rt>おとな</rt></ruby>のビジネスパーソンとして、<ruby>以下<rt>いか</rt></ruby>の**「<ruby>上位<rt>じょうい</rt></ruby><ruby>互換<rt>ごかん</rt></ruby>フレーズ」**を<ruby>使い分<rt>つかいわ</rt></ruby>けましょう！
 
 ```
-【ビジネスでの使い分けチャート】
+【ビジネスでの<ruby>使い分<rt>つかいわ</rt></ruby>けチャート】
 
-● 謝罪したい時：
-  ✕「すみません！」 ➔ 〇【大変申し訳ございません】 / 【お詫び申し上げます】
+● <ruby>謝罪<rt>しゃざい</rt></ruby>したい<ruby>時<rt>とき</rt></ruby>：
+  ✕「すみません！」 ➔ 〇【<ruby>大変<rt>たいへん</rt></ruby><ruby>申し訳<rt>もうしわけ</rt></ruby>ございません】 / 【お<ruby>詫<rt>わ</rt></ruby>び<ruby>申し上<rt>もうしあ</rt></ruby>げます】
 
-● 感謝したい時：
-  ✕「すみません！」 ➔ 〇【誠にありがとうございます】 / 【心より感謝申し上げます】
+● <ruby>感謝<rt>かんしゃ</rt></ruby>したい<ruby>時<rt>とき</rt></ruby>：
+  ✕「すみません！」 ➔ 〇【<ruby>誠<rt>まこと</rt></ruby>にありがとうございます】 / 【<ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます】
 
-● 相手に気を使わせた時：
-  ✕「すみません！」 ➔ 〇【お気遣いいただき恐れ入ります】 / 【大変恐縮でございます】
+● <ruby>相手<rt>あいて</rt></ruby>に<ruby>気<rt>き</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わせた<ruby>時<rt>とき</rt></ruby>：
+  ✕「すみません！」 ➔ 〇【お<ruby>気<rt>き</rt></ruby><ruby>遣<rt>づか</rt></ruby>いいただき<ruby>恐れ入<rt>おそれい</rt></ruby>ります】 / 【<ruby>大変<rt>たいへん</rt></ruby><ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます】
 
-● 人を呼び止めたい時：
-  ✕「すみません！」 ➔ 〇【恐れ入りますが】 / 【少々お時間をよろしいでしょうか】
+● <ruby>人<rt>ひと</rt></ruby>を<ruby>呼び止<rt>よびと</rt></ruby>めたい<ruby>時<rt>とき</rt></ruby>：
+  ✕「すみません！」 ➔ 〇【<ruby>恐れ入<rt>おそれい</rt></ruby>りますが】 / 【<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>時間<rt>じかん</rt></ruby>をよろしいでしょうか】
 ```
 
 ---
@@ -120,19 +120,19 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の「すみません」は、<ruby>語尾<rt>ごび</rt></ruby>の<ruby>上げ下<rt>あげさ</rt></ruby>げ（イントネーション）によって<ruby>全<rt>まった</rt></ruby>く<ruby>別<rt>べつ</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>に<ruby>化<rt>ば</rt></ruby>けます！
 
 ```
-【声のトーンによる3大変化】
+【<ruby>声<rt>こえ</rt></ruby>のトーンによる3<ruby>大変<rt>たいへん</rt></ruby><ruby>化<rt>か</rt></ruby>】
 
-① 語尾を上げる（⤴）：【呼び止め・質問】
-   「すみませーん⤴？ ここ空いてますか？」
-   👉 明るく語尾を伸ばして上げることで、「お邪魔してごめんね」と前置きする。
+① <ruby>語尾<rt>ごび</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げる（⤴）：【<ruby>呼び止<rt>よびと</rt></ruby>め・<ruby>質問<rt>しつもん</rt></ruby>】
+   「すみませーん⤴？ ここ<ruby>空<rt>あ</rt></ruby>いてますか？」
+   👉 <ruby>明<rt>あか</rt></ruby>るく<ruby>語尾<rt>ごび</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばして<ruby>上<rt>あ</rt></ruby>げることで、「お<ruby>邪魔<rt>じゃま</rt></ruby>してごめんね」と<ruby>前置<rt>まえお</rt></ruby>きする。
 
-② 語尾を下げる（⤵）：【真剣な謝罪・反省】
-   「あ……本当にすみませんでした⤵（深く一礼）」
-   👉 重く静かにトーンを下げることで、深い反省と後悔を表現する。
+② <ruby>語尾<rt>ごび</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げる（⤵）：【<ruby>真剣<rt>しんけん</rt></ruby>な<ruby>謝罪<rt>しゃざい</rt></ruby>・<ruby>反省<rt>はんせい</rt></ruby>】
+   「あ……<ruby>本当<rt>ほんとう</rt></ruby>にすみませんでした⤵（<ruby>深<rt>ふか</rt></ruby>く<ruby>一礼<rt>いちれい</rt></ruby>）」
+   👉 <ruby>重<rt>おも</rt></ruby>く<ruby>静<rt>しず</rt></ruby>かにトーンを<ruby>下<rt>さ</rt></ruby>げることで、<ruby>深<rt>ふか</rt></ruby>い<ruby>反省<rt>はんせい</rt></ruby>と<ruby>後悔<rt>こうかい</rt></ruby>を<ruby>表現<rt>ひょうげん</rt></ruby>する。
 
-③ 短く平坦に発音（➡）：【軽い感謝・会釈】
+③ <ruby>短<rt>みじか</rt></ruby>く<ruby>平坦<rt>へいたん</rt></ruby>に<ruby>発音<rt>はつおん</rt></ruby>（➡）：【<ruby>軽<rt>かる</rt></ruby>い<ruby>感謝<rt>かんしゃ</rt></ruby>・<ruby>会釈<rt>えしゃく</rt></ruby>】
    「あ、すいません➡（ペコッ）」
-   👉 道を譲られたときや、エレベーターを押してもらった時のスマートな反射挨拶。
+   👉 <ruby>道<rt>みち</rt></ruby>を<ruby>譲<rt>ゆず</rt></ruby>られたときや、エレベーターを<ruby>押<rt>お</rt></ruby>してもらった<ruby>時<rt>とき</rt></ruby>のスマートな<ruby>反射<rt>はんしゃ</rt></ruby><ruby>挨拶<rt>あいさつ</rt></ruby>。
 ```
 
 ---
@@ -142,21 +142,21 @@ tags:
 あなたの「すみません」<ruby>使い分<rt>つかいわ</rt></ruby>け<ruby>力<rt>りょく</rt></ruby>を<ruby>試<rt>ため</rt></ruby>してみましょう！
 
 ```
-【第1問】
-居酒屋で賑やかな店内の中、離れた場所にいる店員さんを呼ぶとき、どう声をかける？
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>居酒屋<rt>いざかや</rt></ruby>で<ruby>賑<rt>にぎ</rt></ruby>やかな<ruby>店内<rt>てんない</rt></ruby>の<ruby>中<rt>なか</rt></ruby>、<ruby>離<rt>はな</rt></ruby>れた<ruby>場所<rt>ばしょ</rt></ruby>にいる<ruby>店員<rt>てんいん</rt></ruby>さんを<ruby>呼<rt>よ</rt></ruby>ぶとき、どう<ruby>声<rt>こえ</rt></ruby>をかける？
 ①「ごめんなさーい！」
 ②「すみませーん！」
-③「失礼しまーす！」
+③「<ruby>失礼<rt>しつれい</rt></ruby>しまーす！」
 
-【第2問】
-取引先の大事な書類に誤字を見つけてしまい、先方に修正とお詫びを伝えるメールではどう書く？
-①「誤字があってすみませんでした。」
-②「誤字があり、大変申し訳ございませんでした。」
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>の<ruby>大事<rt>だいじ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>に<ruby>誤字<rt>ごじ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけてしまい、<ruby>先方<rt>せんぽう</rt></ruby>に<ruby>修正<rt>しゅうせい</rt></ruby>とお<ruby>詫<rt>わ</rt></ruby>びを<ruby>伝<rt>つた</rt></ruby>えるメールではどう<ruby>書<rt>か</rt></ruby>く？
+①「<ruby>誤字<rt>ごじ</rt></ruby>があってすみませんでした。」
+②「<ruby>誤字<rt>ごじ</rt></ruby>があり、<ruby>大変<rt>たいへん</rt></ruby><ruby>申し訳<rt>もうしわけ</rt></ruby>ございませんでした。」
 
-【第3問】
-電車で席を詰めて自分に座るスペースを空けてくれた人に対して、会釈しながらかける言葉は？
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>席<rt>せき</rt></ruby>を<ruby>詰<rt>つ</rt></ruby>めて<ruby>自分<rt>じぶん</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>るスペースを<ruby>空<rt>あ</rt></ruby>けてくれた<ruby>人<rt>ひと</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>会釈<rt>えしゃく</rt></ruby>しながらかける<ruby>言葉<rt>ことば</rt></ruby>は？
 ①「あ、すみません、ありがとうございます。」
-②「ごめんなさい、座ります。」
+②「ごめんなさい、<ruby>座<rt>すわ</rt></ruby>ります。」
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -180,32 +180,32 @@ tags:
 「すみません」という<ruby>言葉<rt>ことば</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>にある「<ruby>相手<rt>あいて</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>への<ruby>細<rt>こま</rt></ruby>やかな<ruby>配慮<rt>はいりょ</rt></ruby>」を<ruby>理解<rt>りかい</rt></ruby>すれば、<ruby>日本<rt>にほん</rt></ruby>での<ruby>人付き合<rt>ひとづきあ</rt></ruby>いは<ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>温<rt>あたた</rt></ruby>かく、<ruby>心地<rt>ここち</rt></ruby>よいものになりますよ！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">謝罪（しゃざい）</span>
+        <span class="c-vocab-card__word"><ruby>謝罪<rt>しゃざい</rt></ruby>（しゃざい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>apology</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>相手の足を踏んでしまったときは、すぐに「すみません」と謝罪する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>apology</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>相手<rt>あいて</rt></ruby>の<ruby>足<rt>あし</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>んでしまったときは、すぐに「すみません」と<ruby>謝罪<rt>しゃざい</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">感謝（かんしゃ）</span>
+        <span class="c-vocab-card__word"><ruby>感謝<rt>かんしゃ</rt></ruby>（かんしゃ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>thanks, gratitude</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>落としたハンカチを拾ってくれた親切な人に、「すみません」とお礼を言った。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>thanks, gratitude</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>落<rt>お</rt></ruby>としたハンカチを<ruby>拾<rt>ひろ</rt></ruby>ってくれた<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>に、「すみません」とお<ruby>礼<rt>れい</rt></ruby>を<ruby>言<rt>い</rt></ruby>った。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">呼びかけ（よびかけ）</span>
+        <span class="c-vocab-card__word"><ruby>呼<rt>よ</rt></ruby>びかけ（よびかけ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>calling out</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>居酒屋で忙しそうな店員さんを呼ぶときは、「すみません」と呼びかける。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>calling out</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>居酒屋<rt>いざかや</rt></ruby>で<ruby>忙<rt>いそが</rt></ruby>しそうな<ruby>店員<rt>てんいん</rt></ruby>さんを<ruby>呼<rt>よ</rt></ruby>ぶときは、「すみません」と<ruby>呼<rt>よ</rt></ruby>びかける。</p>
     </div>
   </div>
 </div>

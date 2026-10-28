@@ -48,11 +48,11 @@ tags:
 それが、**1995<ruby>年<rt>ねん</rt></ruby>3<ruby>月<rt>つき</rt></ruby>20<ruby>日<rt>にち</rt></ruby>に<ruby>発生<rt>はっせい</rt></ruby>した「<ruby>地下鉄<rt>ちかてつ</rt></ruby>サリン<ruby>事件<rt>じけん</rt></ruby>（<ruby>化学<rt>かがく</rt></ruby>テロ<ruby>事件<rt>じけん</rt></ruby>）」**です。
 
 ```
-【日本のゴミ箱撤去の歴史】
-● 1995年以前：駅や道路にたくさんのゴミ箱が存在していた。
-● 1995年：地下鉄サリン事件が発生。化学兵器や爆発物がゴミ箱の中に仕掛けられる危険性が浮上。
-● テロ対策として、全国の鉄道駅や公共施設からゴミ箱が一斉に「撤去」された。
-● 結果として、ゴミ箱を無くしても街が荒れず、逆に「ポイ捨てが減った」ため、現在も復活していない！
+【<ruby>日本<rt>にほん</rt></ruby>の<ruby>ゴミ箱<rt>ごみばこ</rt></ruby><ruby>撤去<rt>てっきょ</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>】
+● 1995<ruby>年<rt>ねん</rt></ruby><ruby>以前<rt>いぜん</rt></ruby>：<ruby>駅<rt>えき</rt></ruby>や<ruby>道路<rt>どうろ</rt></ruby>にたくさんの<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>存在<rt>そんざい</rt></ruby>していた。
+● 1995<ruby>年<rt>ねん</rt></ruby>：<ruby>地下鉄<rt>ちかてつ</rt></ruby>サリン<ruby>事件<rt>じけん</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>。<ruby>化学<rt>かがく</rt></ruby><ruby>兵器<rt>へいき</rt></ruby>や<ruby>爆発<rt>ばくはつ</rt></ruby><ruby>物<rt>ぶつ</rt></ruby>が<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>仕掛<rt>しか</rt></ruby>けられる<ruby>危険<rt>きけん</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>浮上<rt>ふじょう</rt></ruby>。
+● テロ<ruby>対策<rt>たいさく</rt></ruby>として、<ruby>全国<rt>ぜんこく</rt></ruby>の<ruby>鉄道<rt>てつどう</rt></ruby><ruby>駅<rt>えき</rt></ruby>や<ruby>公共<rt>こうきょう</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>から<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>一斉<rt>いっせい</rt></ruby>に「<ruby>撤去<rt>てっきょ</rt></ruby>」された。
+● <ruby>結果<rt>けっか</rt></ruby>として、<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>を<ruby>無<rt>な</rt></ruby>くしても<ruby>街<rt>まち</rt></ruby>が<ruby>荒<rt>あ</rt></ruby>れず、<ruby>逆<rt>ぎゃく</rt></ruby>に「<ruby>ポイ捨<rt>ぽいす</rt></ruby>てが<ruby>減<rt>へ</rt></ruby>った」ため、<ruby>現在<rt>げんざい</rt></ruby>も<ruby>復活<rt>ふっかつ</rt></ruby>していない！
 ```
 
 テロ<ruby>防止<rt>ぼうし</rt></ruby>と<ruby>安全<rt>あんぜん</rt></ruby><ruby>確保<rt>かくほ</rt></ruby>のために<ruby>撤去<rt>てっきょ</rt></ruby>された<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>ですが、<ruby>行政<rt>ぎょうせい</rt></ruby>が<ruby>驚<rt>おどろ</rt></ruby>いたのは**「<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>をなくしても、<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>道路<rt>どうろ</rt></ruby>にゴミを<ruby>投げ捨<rt>なげす</rt></ruby>てず、カバンに<ruby>入<rt>い</rt></ruby>れて<ruby>持ち帰<rt>もちかえ</rt></ruby>った」**という<ruby>事実<rt>じじつ</rt></ruby>でした。
@@ -64,10 +64,10 @@ tags:
 <ruby>多<rt>おお</rt></ruby>くの<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が「<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>だ！」と<ruby>勘違<rt>かんちが</rt></ruby>いしてコンビニの<ruby>袋<rt>ふくろ</rt></ruby>やお<ruby>弁当<rt>べんとう</rt></ruby>の<ruby>殻<rt>から</rt></ruby>を<ruby>押し込<rt>おしこ</rt></ruby>んでしまうのが、<ruby>自動<rt>じどう</rt></ruby><ruby>販売<rt>はんばい</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>にあるボックスです。
 
 ```
-【⚠️ 自販機横のボックスは「ゴミ箱」ではない！】
-● 正式名称：【リサイクル回収ボックス（空き容器専用）】
-● 入れていいもの：その自販機で買った「アルミ缶」「スチール缶」「ペットボトル」のみ！
-● 入れてはいけないもの：プラスチック容器、お菓子の袋、ファストフードのカップ、ティッシュなど
+【⚠️ <ruby>自販機<rt>じはんき</rt></ruby><ruby>横<rt>よこ</rt></ruby>のボックスは「<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>」ではない！】
+● <ruby>正式<rt>せいしき</rt></ruby><ruby>名称<rt>めいしょう</rt></ruby>：【リサイクル<ruby>回収<rt>かいしゅう</rt></ruby>ボックス（<ruby>空<rt>あ</rt></ruby>き<ruby>容器<rt>ようき</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>）】
+● <ruby>入<rt>い</rt></ruby>れていいもの：その<ruby>自販機<rt>じはんき</rt></ruby>で<ruby>買<rt>か</rt></ruby>った「アルミ<ruby>缶<rt>かん</rt></ruby>」「スチール<ruby>缶<rt>かん</rt></ruby>」「ペットボトル」のみ！
+● <ruby>入<rt>い</rt></ruby>れてはいけないもの：プラスチック<ruby>容器<rt>ようき</rt></ruby>、お<ruby>菓子<rt>かし</rt></ruby>の<ruby>袋<rt>ふくろ</rt></ruby>、ファストフードのカップ、ティッシュなど
 ```
 
 <ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>がわざわざ「<ruby>缶<rt>かん</rt></ruby>やペットボトルの<ruby>大<rt>おお</rt></ruby>きさピッタリ」に<ruby>丸<rt>まる</rt></ruby>く<ruby>作<rt>つく</rt></ruby>られているのは、<ruby>一般<rt>いっぱん</rt></ruby>ゴミを<ruby>突っ込<rt>つっこ</rt></ruby>まれないようにするためです。ここに<ruby>無理<rt>むり</rt></ruby>やり<ruby>一般<rt>いっぱん</rt></ruby>ゴミを<ruby>詰め込<rt>つめこ</rt></ruby>むと、リサイクル<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>妨<rt>さまた</rt></ruby>げになります。
@@ -97,10 +97,10 @@ tags:
 しかし<ruby>日本<rt>にほん</rt></ruby>の<ruby>小<rt>しょう</rt></ruby>・<ruby>中<rt>なか</rt></ruby>・<ruby>高校<rt>こうこう</rt></ruby>では、**「<ruby>児童<rt>じどう</rt></ruby>・<ruby>生徒<rt>せいと</rt></ruby><ruby>自身<rt>じしん</rt></ruby>が<ruby>毎日<rt>まいにち</rt></ruby><ruby>放課後<rt>ほうかご</rt></ruby>に<ruby>教室<rt>きょうしつ</rt></ruby>、<ruby>廊下<rt>ろうか</rt></ruby>、トイレを<ruby>雑巾<rt>ぞうきん</rt></ruby>がけして<ruby>掃除<rt>そうじ</rt></ruby>する」**という<ruby>伝統<rt>でんとう</rt></ruby>カリキュラムがあります。
 
 ```
-【日本の「掃除教育」が生む美意識】
-1. 「自分で汚した場所は、自分でキレイにする」という責任感が身につく。
-2. 掃除の大変さを知っているから、公共の場所にポイ捨てをしない。
-3. 「来た時よりも美しく」という美徳が、大人になっても自然に発揮される（サッカーW杯で日本人サポーターがスタジアムを掃除する姿が世界で話題になったのもこれが理由です）。
+【<ruby>日本<rt>にほん</rt></ruby>の「<ruby>掃除<rt>そうじ</rt></ruby><ruby>教育<rt>きょういく</rt></ruby>」が<ruby>生<rt>う</rt></ruby>む<ruby>美意識<rt>びいしき</rt></ruby>】
+1. 「<ruby>自分<rt>じぶん</rt></ruby>で<ruby>汚<rt>よご</rt></ruby>した<ruby>場所<rt>ばしょ</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>でキレイにする」という<ruby>責任<rt>せきにん</rt></ruby><ruby>感<rt>かん</rt></ruby>が<ruby>身<rt>み</rt></ruby>につく。
+2. <ruby>掃除<rt>そうじ</rt></ruby>の<ruby>大変<rt>たいへん</rt></ruby>さを<ruby>知<rt>し</rt></ruby>っているから、<ruby>公共<rt>こうきょう</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>ポイ捨<rt>ぽいす</rt></ruby>てをしない。
+3. 「<ruby>来<rt>き</rt></ruby>た<ruby>時<rt>とき</rt></ruby>よりも<ruby>美<rt>うつく</rt></ruby>しく」という<ruby>美徳<rt>びとく</rt></ruby>が、<ruby>大人<rt>おとな</rt></ruby>になっても<ruby>自然<rt>しぜん</rt></ruby>に<ruby>発揮<rt>はっき</rt></ruby>される（サッカーW<ruby>杯<rt>はい</rt></ruby>で<ruby>日本人<rt>にほんじん</rt></ruby>サポーターがスタジアムを<ruby>掃除<rt>そうじ</rt></ruby>する<ruby>姿<rt>すがた</rt></ruby>が<ruby>世界<rt>せかい</rt></ruby>で<ruby>話題<rt>わだい</rt></ruby>になったのもこれが<ruby>理由<rt>りゆう</rt></ruby>です）。
 ```
 
 ---
@@ -114,10 +114,10 @@ tags:
 <ruby>東京<rt>とうきょう</rt></ruby><ruby>都内<rt>とない</rt></ruby>や<ruby>主要<rt>しゅよう</rt></ruby><ruby>都市<rt>とし</rt></ruby>のほぼ<ruby>全域<rt>ぜんいき</rt></ruby>で「<ruby>路上<rt>ろじょう</rt></ruby><ruby>喫煙<rt>きつえん</rt></ruby><ruby>禁止<rt>きんし</rt></ruby><ruby>条例<rt>じょうれい</rt></ruby>」が<ruby>施行<rt>しこう</rt></ruby>されており、<ruby>歩<rt>ある</rt></ruby>きながらタバコを<ruby>吸<rt>す</rt></ruby>うと**2,000<ruby>円<rt>えん</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>の<ruby>過料<rt>かりょう</rt></ruby>（<ruby>罰金<rt>ばっきん</rt></ruby>）**が<ruby>科<rt>か</rt></ruby>されることがあります。
 
 ```
-【日本の喫煙サバイバルルール】
-● 路上や歩道での歩きタバコは条例違反！
-● タバコは駅前や商業施設にある「指定喫煙所（スモーキングエリア）」で吸う！
-● 喫煙所がない場所で吸う愛煙家は、必ず「携帯灰皿（けいたいはいざら）」をポケットに携帯する！
+【<ruby>日本<rt>にほん</rt></ruby>の<ruby>喫煙<rt>きつえん</rt></ruby>サバイバルルール】
+● <ruby>路上<rt>ろじょう</rt></ruby>や<ruby>歩道<rt>ほどう</rt></ruby>での<ruby>歩<rt>ある</rt></ruby>きタバコは<ruby>条例<rt>じょうれい</rt></ruby><ruby>違反<rt>いはん</rt></ruby>！
+● タバコは<ruby>駅前<rt>えきまえ</rt></ruby>や<ruby>商業<rt>しょうぎょう</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>にある「<ruby>指定<rt>してい</rt></ruby><ruby>喫煙<rt>きつえん</rt></ruby><ruby>所<rt>しょ</rt></ruby>（スモーキングエリア）」で<ruby>吸<rt>す</rt></ruby>う！
+● <ruby>喫煙<rt>きつえん</rt></ruby><ruby>所<rt>しょ</rt></ruby>がない<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>吸<rt>す</rt></ruby>う<ruby>愛煙<rt>あいえん</rt></ruby><ruby>家<rt>か</rt></ruby>は、<ruby>必<rt>かなら</rt></ruby>ず「<ruby>携帯<rt>けいたい</rt></ruby><ruby>灰皿<rt>はいざら</rt></ruby>（けいたいはいざら）」をポケットに<ruby>携帯<rt>けいたい</rt></ruby>する！
 ```
 
 「<ruby>道端<rt>みちばた</rt></ruby>に<ruby>吸い殻<rt>すいがら</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちていない」のも、こうした<ruby>厳<rt>きび</rt></ruby>しい<ruby>条例<rt>じょうれい</rt></ruby>と<ruby>愛煙<rt>あいえん</rt></ruby><ruby>家<rt>か</rt></ruby>のモラルによって<ruby>支<rt>ささ</rt></ruby>えられています。
@@ -129,22 +129,22 @@ tags:
 あなたのゴミサバイバル<ruby>知識<rt>ちしき</rt></ruby>を<ruby>試<rt>ため</rt></ruby>してみましょう！
 
 ```
-【第1問】
-自動販売機の横に置いてある、丸い穴が2つ開いたボックス。ここに入れてよいものはどれ？
-① 食べ終わったコンビニ弁当のプラスチック容器
-② その自販機で買った空き缶やペットボトル
-③ 鼻をかんだティッシュペーパー
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>自動<rt>じどう</rt></ruby><ruby>販売<rt>はんばい</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>横<rt>よこ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いてある、<ruby>丸<rt>まる</rt></ruby>い<ruby>穴<rt>あな</rt></ruby>が2つ<ruby>開<rt>ひら</rt></ruby>いたボックス。ここに<ruby>入<rt>い</rt></ruby>れてよいものはどれ？
+① <ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>わったコンビニ<ruby>弁当<rt>べんとう</rt></ruby>のプラスチック<ruby>容器<rt>ようき</rt></ruby>
+② その<ruby>自販機<rt>じはんき</rt></ruby>で<ruby>買<rt>か</rt></ruby>った<ruby>空き缶<rt>あきかん</rt></ruby>やペットボトル
+③ <ruby>鼻<rt>はな</rt></ruby>をかんだティッシュペーパー
 
-【第2問】
-日本の街中から公共のゴミ箱が一斉に撤去された最大の歴史的きっかけは？
-① 1995年の地下鉄サリン事件（テロ対策）
-② ゴミの処分費用が高騰したため
-③ ゴミ箱の製造メーカーが倒産したため
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>日本<rt>にほん</rt></ruby>の<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>から<ruby>公共<rt>こうきょう</rt></ruby>の<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>一斉<rt>いっせい</rt></ruby>に<ruby>撤去<rt>てっきょ</rt></ruby>された<ruby>最大<rt>さいだい</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby><ruby>的<rt>てき</rt></ruby>きっかけは？
+① 1995<ruby>年<rt>ねん</rt></ruby>の<ruby>地下鉄<rt>ちかてつ</rt></ruby>サリン<ruby>事件<rt>じけん</rt></ruby>（テロ<ruby>対策<rt>たいさく</rt></ruby>）
+② ゴミの<ruby>処分<rt>しょぶん</rt></ruby><ruby>費用<rt>ひよう</rt></ruby>が<ruby>高騰<rt>こうとう</rt></ruby>したため
+③ <ruby>ゴミ箱<rt>ごみばこ</rt></ruby>の<ruby>製造<rt>せいぞう</rt></ruby>メーカーが<ruby>倒産<rt>とうさん</rt></ruby>したため
 
-【第3問】
-日本で外出するとき、街中でゴミが出た場合の最もスマートな対処法は？
-① 小さなゴミ袋をカバンに入れておき、自宅やホテルの部屋まで持ち帰る
-② 道路の隅や電柱の根元にこっそり置いておく
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>日本<rt>にほん</rt></ruby>で<ruby>外出<rt>がいしゅつ</rt></ruby>するとき、<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>でゴミが<ruby>出<rt>で</rt></ruby>た<ruby>場合<rt>ばあい</rt></ruby>の<ruby>最<rt>もっと</rt></ruby>もスマートな<ruby>対処<rt>たいしょ</rt></ruby><ruby>法<rt>ほう</rt></ruby>は？
+① <ruby>小<rt>ちい</rt></ruby>さなゴミ<ruby>袋<rt>ぶくろ</rt></ruby>をカバンに<ruby>入<rt>い</rt></ruby>れておき、<ruby>自宅<rt>じたく</rt></ruby>やホテルの<ruby>部屋<rt>へや</rt></ruby>まで<ruby>持ち帰<rt>もちかえ</rt></ruby>る
+② <ruby>道路<rt>どうろ</rt></ruby>の<ruby>隅<rt>すみ</rt></ruby>や<ruby>電柱<rt>でんちゅう</rt></ruby>の<ruby>根元<rt>ねもと</rt></ruby>にこっそり<ruby>置<rt>お</rt></ruby>いておく
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -169,32 +169,32 @@ tags:
 <ruby>ゴミ箱<rt>ごみばこ</rt></ruby>がない<ruby>不便<rt>ふべん</rt></ruby>さを<ruby>嘆<rt>なげ</rt></ruby>くのではなく、「<ruby>一人<rt>ひとり</rt></ruby>ひとりのモラルで<ruby>世界一<rt>せかいいち</rt></ruby><ruby>美<rt>うつく</rt></ruby>しい<ruby>街<rt>まち</rt></ruby>が<ruby>維持<rt>いじ</rt></ruby>されている」という<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>背景<rt>はいけい</rt></ruby>を<ruby>知<rt>し</rt></ruby>ることで、<ruby>日本<rt>にほん</rt></ruby>の<ruby>旅<rt>たび</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby>はより<ruby>深<rt>ふか</rt></ruby>い<ruby>感動<rt>かんどう</rt></ruby>に<ruby>包<rt>つつ</rt></ruby>まれますよ！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">ゴミ箱（ごみばこ）</span>
+        <span class="c-vocab-card__word"><ruby>ゴミ箱<rt>ごみばこ</rt></ruby>（ごみばこ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>trash can</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本の街中にはゴミ箱が少ないため、ゴミは家に持ち帰るのがマナーだ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>trash can</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>の<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>には<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないため、ゴミは<ruby>家<rt>いえ</rt></ruby>に<ruby>持ち帰<rt>もちかえ</rt></ruby>るのがマナーだ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">分別（ぶんべつ）</span>
+        <span class="c-vocab-card__word"><ruby>分別<rt>ふんべつ</rt></ruby>（ぶんべつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>sorting, separation (garbage)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>燃えるゴミとプラスチックを正しく分別して指定の日に出す。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>sorting, separation (garbage)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>燃<rt>も</rt></ruby>えるゴミとプラスチックを<ruby>正<rt>ただ</rt></ruby>しく<ruby>分別<rt>ふんべつ</rt></ruby>して<ruby>指定<rt>してい</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>出<rt>だ</rt></ruby>す。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">美化（びか）</span>
+        <span class="c-vocab-card__word"><ruby>美化<rt>びか</rt></ruby>（びか）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>beautification</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>住民が交代で道路を掃除することで、街の美化が保たれている。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>beautification</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>住民<rt>じゅうみん</rt></ruby>が<ruby>交代<rt>こうたい</rt></ruby>で<ruby>道路<rt>どうろ</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>することで、<ruby>街<rt>まち</rt></ruby>の<ruby>美化<rt>びか</rt></ruby>が<ruby>保<rt>たも</rt></ruby>たれている。</p>
     </div>
   </div>
 </div>

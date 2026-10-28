@@ -39,11 +39,11 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 カットクロス（<ruby>白<rt>しろ</rt></ruby>いケープ）を<ruby>首<rt>くび</rt></ruby>に<ruby>巻<rt>ま</rt></ruby>かれた<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>の<ruby>脳<rt>のう</rt></ruby><ruby>内<rt>ない</rt></ruby>では<ruby>完全<rt>かんぜん</rt></ruby>に<strong>「<ruby>勇者<rt>ゆうしゃ</rt></ruby>の<ruby>剣<rt>けん</rt></ruby>と<ruby>盾<rt>たて</rt></ruby>を<ruby>構<rt>かま</rt></ruby>え、ボスの<ruby>試練<rt>しれん</rt></ruby>に<ruby>挑<rt>いど</rt></ruby>むRPGバトル」</strong>が<ruby>幕<rt>まく</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けていました。
 
 ```
-【 美容師があらわれた！ 】
+【 <ruby>美容<rt>びよう</rt></ruby><ruby>師<rt>し</rt></ruby>があらわれた！ 】
 --------------------------------------------------
-▶ たたかう（大丈夫です）
-　 ぼうぎょ（目を閉じて微笑む）
-　 にげる　（雑誌に全集中する）
+▶ たたかう（<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です）
+　 ぼうぎょ（<ruby>目<rt>め</rt></ruby>を<ruby>閉<rt>と</rt></ruby>じて<ruby>微笑<rt>ほほえ</rt></ruby>む）
+　 にげる　（<ruby>雑誌<rt>ざっし</rt></ruby>に<ruby>全<rt>ぜん</rt></ruby><ruby>集中<rt>しゅうちゅう</rt></ruby>する）
 --------------------------------------------------
 ```
 
@@ -73,14 +73,14 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 
 |<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>での<ruby>希望<rt>きぼう</rt></ruby>・<ruby>部位<rt>ぶい</rt></ruby>|<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>のオーダーフレーズ| <ruby>広東<rt>かんとん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>言い方<rt>いいかた</rt></ruby>（<ruby>繁<rt>しげる</rt></ruby><ruby>体<rt>たい</rt></ruby><ruby>字<rt>じ</rt></ruby>） |<ruby>読<rt>よ</rt></ruby>み・<ruby>解説<rt>かいせつ</rt></ruby>|
 | :--- | :--- | :--- | :--- |
-|**<ruby>毛<rt>け</rt></ruby><ruby>量<rt>りょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす**|**「すいてください / <ruby>軽<rt>かる</rt></ruby>くしてください」**| **<ruby>偸薄<rt>*</rt></ruby>（tau1 bok6）** |<ruby>長<rt>なが</rt></ruby>さは<ruby>変<rt>か</rt></ruby>えずボリュームだけ<ruby>落<rt>お</rt></ruby>とすこと|
+|**<ruby>毛<rt>け</rt></ruby><ruby>量<rt>りょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす**|**「すいてください / <ruby>軽<rt>かる</rt></ruby>くしてください」**| **偸薄（tau1 bok6）** |<ruby>長<rt>なが</rt></ruby>さは<ruby>変<rt>か</rt></ruby>えずボリュームだけ<ruby>落<rt>お</rt></ruby>とすこと|
 |**<ruby>少<rt>すこ</rt></ruby>し<ruby>整<rt>ととの</rt></ruby>える**|**「<ruby>揃<rt>そろ</rt></ruby>えるくらいで / <ruby>少<rt>すこ</rt></ruby>し<ruby>整<rt>ととの</rt></ruby>えてください」**| **<ruby>執<rt>と</rt></ruby><ruby>修<rt>おさむ</rt></ruby>（zap1 sau1）** |スタイルを<ruby>維持<rt>いじ</rt></ruby>して<ruby>毛<rt>け</rt></ruby><ruby>先<rt>さき</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>える|
-|**<ruby>刈り上<rt>かりあ</rt></ruby>げ**|**「<ruby>刈り上<rt>かりあ</rt></ruby>げてください」**| **<ruby>鏟青<rt>*</rt></ruby>（caan2 ceng1）** |バリカン<ruby>等<rt>とう</rt></ruby>で<ruby>短<rt>みじか</rt></ruby>く<ruby>刈<rt>か</rt></ruby>ること|
-| **ツーブロック** | **「ツーブロックで」** | **<ruby>兩邊鏟<rt>*</rt></ruby><ruby>青<rt>あお</rt></ruby>（Undercut）** |サイドの<ruby>内側<rt>うちがわ</rt></ruby>を<ruby>短<rt>みじか</rt></ruby>く<ruby>刈り上<rt>かりあ</rt></ruby>げるスタイル|
-|**<ruby>襟足<rt>えりあし</rt></ruby>**|**「<ruby>襟足<rt>えりあし</rt></ruby>（えりあし）は<ruby>短<rt>みじか</rt></ruby>めで」**| **<ruby>髮腳<rt>*</rt></ruby>（faat3 goek3）** |<ruby>首<rt>くび</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろの<ruby>生え際<rt>はえぎわ</rt></ruby>|
+|**<ruby>刈り上<rt>かりあ</rt></ruby>げ**|**「<ruby>刈り上<rt>かりあ</rt></ruby>げてください」**| **鏟青（caan2 ceng1）** |バリカン<ruby>等<rt>とう</rt></ruby>で<ruby>短<rt>みじか</rt></ruby>く<ruby>刈<rt>か</rt></ruby>ること|
+| **ツーブロック** | **「ツーブロックで」** | **兩邊鏟<ruby>青<rt>あお</rt></ruby>（Undercut）** |サイドの<ruby>内側<rt>うちがわ</rt></ruby>を<ruby>短<rt>みじか</rt></ruby>く<ruby>刈り上<rt>かりあ</rt></ruby>げるスタイル|
+|**<ruby>襟足<rt>えりあし</rt></ruby>**|**「<ruby>襟足<rt>えりあし</rt></ruby>（えりあし）は<ruby>短<rt>みじか</rt></ruby>めで」**| **髮腳（faat3 goek3）** |<ruby>首<rt>くび</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろの<ruby>生え際<rt>はえぎわ</rt></ruby>|
 |**<ruby>前髪<rt>まえがみ</rt></ruby>**|**「<ruby>前髪<rt>まえがみ</rt></ruby>は<ruby>眉毛<rt>まゆげ</rt></ruby>くらいで」**| **<ruby>前<rt>ぜん</rt></ruby><ruby>陰<rt>かげ</rt></ruby>（cin4 jam1）** |<ruby>額<rt>がく</rt></ruby>にかかる<ruby>髪<rt>かみ</rt></ruby>|
 | **もみあげ** |**「もみあげは<ruby>自然<rt>しぜん</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>してください」**| **<ruby>側<rt>がわ</rt></ruby><ruby>頭<rt>あたま</rt></ruby><ruby>水<rt>すい</rt></ruby> / <ruby>鬢<rt>びん</rt></ruby><ruby>角<rt>かく</rt></ruby>** |<ruby>耳<rt>みみ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>生え際<rt>はえぎわ</rt></ruby>|
-| **おまかせ** |**「おまかせでお<ruby>願<rt>ねが</rt></ruby>いします」**| **<ruby>幫我話<rt>*</rt></ruby><ruby>事<rt>ごと</rt></ruby> / <ruby>睇你點<rt>*</rt></ruby><ruby>剪<rt>*</rt></ruby>** |<ruby>美容<rt>びよう</rt></ruby><ruby>師<rt>し</rt></ruby>さんのセンスに<ruby>委<rt>ゆだ</rt></ruby>ねる<ruby>最強<rt>さいきょう</rt></ruby><ruby>呪文<rt>じゅもん</rt></ruby>|
+| **おまかせ** |**「おまかせでお<ruby>願<rt>ねが</rt></ruby>いします」**| **幫我話<ruby>事<rt>ごと</rt></ruby> / 睇你點剪** |<ruby>美容<rt>びよう</rt></ruby><ruby>師<rt>し</rt></ruby>さんのセンスに<ruby>委<rt>ゆだ</rt></ruby>ねる<ruby>最強<rt>さいきょう</rt></ruby><ruby>呪文<rt>じゅもん</rt></ruby>|
 
 ---
 
@@ -92,7 +92,7 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 
 この<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>たちは<strong>「<ruby>視界<rt>しかい</rt></ruby>を<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>奪<rt>うば</rt></ruby>われた<ruby>状態<rt>じょうたい</rt></ruby>（<ruby>盲目<rt>もうもく</rt></ruby>デバフ）」</strong>になります。<ruby>相手<rt>あいて</rt></ruby>の<ruby>表情<rt>ひょうじょう</rt></ruby>も、<ruby>手<rt>て</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きも<ruby>一切<rt>いっさい</rt></ruby><ruby>見<rt>み</rt></ruby>えません。<ruby>全<rt>ぜん</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>を<ruby>耳<rt>みみ</rt></ruby>だけに<ruby>研ぎ澄<rt>とぎす</rt></ruby>ませたその<ruby>時<rt>とき</rt></ruby>、<ruby>頭上<rt>ずじょう</rt></ruby>からあの<ruby>質問<rt>しつもん</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってくるのです。
 
-![美容室のシャンプー台で目隠しガーゼを乗せられ、「痒いところは？」と聞かれてどう答えるべきか葛藤するオスカー](https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/posts/hair-salon-shampoo-trap-blindfolded.jpg)
+![美容室のシャンプー台で目隠しガーゼを乗せられ、「痒いところは？」と聞かれてどう答えるべきか葛藤するオスカー](__PROTECTED_2__)
 
 ### トラップ<ruby>質問<rt>しつもん</rt></ruby>①：「<ruby>痒<rt>かゆ</rt></ruby>いところはございませんか？」
 
@@ -172,12 +172,12 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 ## 7. オスカーのひとことメモ
 
 > 💬 <strong>オスカー</strong>  
-> <ruby>香港<rt>ほんこん</rt></ruby>の<ruby>理髪<rt>りはつ</rt></ruby><ruby>店<rt>てん</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べると、<ruby>日本<rt>にほん</rt></ruby>の<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>は<ruby>料金<rt>りょうきん</rt></ruby>が2〜3<ruby>倍<rt>ばい</rt></ruby>ほど<ruby>高<rt>たか</rt></ruby>くて、<ruby>最初<rt>さいしょ</rt></ruby>は「<ruby>散髪<rt>さんぱつ</rt></ruby>にこんなにかかるの！？」と<ruby>驚<rt>おどろ</rt></ruby>きました。（※<ruby>料金<rt>りょうきん</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いの<ruby>謎<rt>なぞ</rt></ruby>については、[カルチャーショック：<ruby>日本<rt>にほん</rt></ruby>の<ruby>散髪<rt>さんぱつ</rt></ruby>、<ruby>高<rt>たか</rt></ruby>すぎない！？5,000<ruby>円<rt>えん</rt></ruby>カットと1,000<ruby>円<rt>えん</rt></ruby>カットの<ruby>真実<rt>しんじつ</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison/)で<ruby>詳<rt>くわ</rt></ruby>しく<ruby>語<rt>かた</rt></ruby>っています！）
+> <ruby>香港<rt>ほんこん</rt></ruby>の<ruby>理髪<rt>りはつ</rt></ruby><ruby>店<rt>てん</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べると、<ruby>日本<rt>にほん</rt></ruby>の<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>は<ruby>料金<rt>りょうきん</rt></ruby>が2〜3<ruby>倍<rt>ばい</rt></ruby>ほど<ruby>高<rt>たか</rt></ruby>くて、<ruby>最初<rt>さいしょ</rt></ruby>は「<ruby>散髪<rt>さんぱつ</rt></ruby>にこんなにかかるの！？」と<ruby>驚<rt>おどろ</rt></ruby>きました。（※<ruby>料金<rt>りょうきん</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いの<ruby>謎<rt>なぞ</rt></ruby>については、[カルチャーショック：<ruby>日本<rt>にほん</rt></ruby>の<ruby>散髪<rt>さんぱつ</rt></ruby>、<ruby>高<rt>たか</rt></ruby>すぎない！？5,000<ruby>円<rt>えん</rt></ruby>カットと1,000<ruby>円<rt>えん</rt></ruby>カットの<ruby>真実<rt>しんじつ</rt></ruby>](__PROTECTED_3__)で<ruby>詳<rt>くわ</rt></ruby>しく<ruby>語<rt>かた</rt></ruby>っています！）
 >   
 > でも、<ruby>眉<rt>まゆ</rt></ruby>カットをしてくれたり、シャンプーの<ruby>後<rt>のち</rt></ruby>に<ruby>肩<rt>かた</rt></ruby>や<ruby>首<rt>くび</rt></ruby>を<ruby>丁寧<rt>ていねい</rt></ruby>にマッサージしてくれたり、<ruby>一人<rt>ひとり</rt></ruby>ひとりの<ruby>好<rt>この</rt></ruby>みに<ruby>寄り添<rt>よりそ</rt></ruby>って<ruby>細<rt>こま</rt></ruby>かく<ruby>確認<rt>かくにん</rt></ruby>してくれるのは、<strong><ruby>日本<rt>にほん</rt></ruby>の「おもてなし<ruby>精神<rt>せいしん</rt></ruby>」の<ruby>究極<rt>きゅうきょく</rt></ruby>の<ruby>形<rt>かたち</rt></ruby></strong>なんですよね。  
 >   
 > <ruby>言葉<rt>ことば</rt></ruby>のキャッチボールにドキドキするのも、<ruby>最初<rt>さいしょ</rt></ruby>のうちだけ。
-> ぜひ<ruby>皆<rt>みな</rt></ruby>さんも<ruby>万能<rt>ばんのう</rt></ruby>ワード「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」（※<ruby>詳<rt>くわ</rt></ruby>しくは[「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」の<ruby>罠<rt>わな</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>](https://nihongo.oscarchair.jp/kotoba-no-aya-the-trap-of-daijoubu-yes-or-no-japanese-magic-phrase/)へ！）の<ruby>呪文<rt>じゅもん</rt></ruby>を<ruby>胸<rt>むね</rt></ruby>に、<ruby>日本<rt>にほん</rt></ruby>の<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>という<ruby>素敵<rt>すてき</rt></ruby>なダンジョンを<ruby>楽<rt>たの</rt></ruby>しんでみてください！
+> ぜひ<ruby>皆<rt>みな</rt></ruby>さんも<ruby>万能<rt>ばんのう</rt></ruby>ワード「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」（※<ruby>詳<rt>くわ</rt></ruby>しくは[「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」の<ruby>罠<rt>わな</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>](__PROTECTED_4__)へ！）の<ruby>呪文<rt>じゅもん</rt></ruby>を<ruby>胸<rt>むね</rt></ruby>に、<ruby>日本<rt>にほん</rt></ruby>の<ruby>美容<rt>びよう</rt></ruby><ruby>室<rt>しつ</rt></ruby>という<ruby>素敵<rt>すてき</rt></ruby>なダンジョンを<ruby>楽<rt>たの</rt></ruby>しんでみてください！
 
 ---
 
@@ -193,40 +193,40 @@ description: "香港の散髪は15分・無言で完了。でも日本の美容�
 [oscss_related slug="street-japanese-convenience-store-register-survival-guide" label="街角サバイバル：コンビニレジ攻防戦"]
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">痒い（かゆい）</span>
+        <span class="c-vocab-card__word"><ruby>痒<rt>かゆ</rt></ruby>い（かゆい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>itchy</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>シャンプーのときに「痒いところはありませんか」と尋ねられた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>itchy</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>シャンプーのときに「<ruby>痒<rt>かゆ</rt></ruby>いところはありませんか」と<ruby>尋<rt>たず</rt></ruby>ねられた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">流す（ながす）</span>
+        <span class="c-vocab-card__word"><ruby>流<rt>なが</rt></ruby>す（ながす）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>to rinse, to wash away</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>泡が髪に残らないように、シャワーのお湯でしっかり流す。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>to rinse, to wash away</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>泡<rt>あわ</rt></ruby>が<ruby>髪<rt>かみ</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>らないように、シャワーのお<ruby>湯<rt>ゆ</rt></ruby>でしっかり<ruby>流<rt>なが</rt></ruby>す。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">指名（しめい）</span>
+        <span class="c-vocab-card__word"><ruby>指名<rt>しめい</rt></ruby>（しめい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>nomination, designation</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>いつも丁寧にカットしてくれるお気に入りの美容師さんを指名する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>nomination, designation</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>いつも<ruby>丁寧<rt>ていねい</rt></ruby>にカットしてくれるお<ruby>気に入<rt>きにい</rt></ruby>りの<ruby>美容<rt>びよう</rt></ruby><ruby>師<rt>し</rt></ruby>さんを<ruby>指名<rt>しめい</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">梳く（すく）</span>
+        <span class="c-vocab-card__word"><ruby>梳<rt>す</rt></ruby>く（すく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>to thin out (hair)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>髪の長さを変えずに、毛量だけを軽くするためにすいてもらった。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>to thin out (hair)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>髪<rt>かみ</rt></ruby>の<ruby>長<rt>なが</rt></ruby>さを<ruby>変<rt>か</rt></ruby>えずに、<ruby>毛<rt>け</rt></ruby><ruby>量<rt>りょう</rt></ruby>だけを<ruby>軽<rt>かる</rt></ruby>くするためにすいてもらった。</p>
     </div>
   </div>
 </div>

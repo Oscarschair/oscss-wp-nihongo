@@ -56,32 +56,32 @@ tags:
 <ruby>情報<rt>じょうほう</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>する<ruby>時<rt>とき</rt></ruby>は、「よ」で<ruby>押し付<rt>おしつ</rt></ruby>けるのではなく、<ruby>相手<rt>あいて</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>気遣<rt>きづか</rt></ruby>う<ruby>表現<rt>ひょうげん</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶのが<ruby>大人<rt>おとな</rt></ruby>のマナーです。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">主張（しゅちょう）</span>
+        <span class="c-vocab-card__word"><ruby>主張<rt>しゅちょう</rt></ruby>（しゅちょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>claim, assertion</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>自分の意見を相手に伝えるときは、感情的にならずに主張する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>claim, assertion</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>相手<rt>あいて</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えるときは、<ruby>感情<rt>かんじょう</rt></ruby><ruby>的<rt>てき</rt></ruby>にならずに<ruby>主張<rt>しゅちょう</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">伝達（でんたつ）</span>
+        <span class="c-vocab-card__word"><ruby>伝達<rt>でんたつ</rt></ruby>（でんたつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>transmission, delivery</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>重要な連絡事項を、部署のメンバー全員に正確に伝達した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>transmission, delivery</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>連絡<rt>れんらく</rt></ruby><ruby>事項<rt>じこう</rt></ruby>を、<ruby>部署<rt>ぶしょ</rt></ruby>のメンバー<ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>正確<rt>せいかく</rt></ruby>に<ruby>伝達<rt>でんたつ</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">配慮（はいりょ）</span>
+        <span class="c-vocab-card__word"><ruby>配慮<rt>はいりょ</rt></ruby>（はいりょ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>consideration, forethought</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>初めて日本に来た留学生に対して、温かい配慮を忘れない。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>consideration, forethought</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>留学生<rt>りゅうがくせい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>温<rt>あたた</rt></ruby>かい<ruby>配慮<rt>はいりょ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れない。</p>
     </div>
   </div>
 </div>

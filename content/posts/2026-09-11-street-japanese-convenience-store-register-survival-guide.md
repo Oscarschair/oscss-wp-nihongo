@@ -78,15 +78,15 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 レジに<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>置<rt>お</rt></ruby>いた<ruby>瞬間<rt>しゅんかん</rt></ruby>、<ruby>店員<rt>てんいん</rt></ruby>さんからマシンガンのように<ruby>繰り出<rt>くりだ</rt></ruby>される4つの<ruby>質問<rt>しつもん</rt></ruby>と、そのパーフェクト<ruby>回答<rt>かいとう</rt></ruby>です。
 
 ```
-【店員さんの4連撃と模範解答】
-1. 店員：「ポイントカードはお持ちですか？」
-   ➔ あなた：「大丈夫です（持っていません）」or「アプリで出します」
-2. 店員：「お弁当、温めますか？」
-   ➔ あなた：「お願いします！」or「そのままで大丈夫です」
-3. 店員：「レジ袋はご利用ですか？」
-   ➔ あなた：「あ、結構です（マイバッグ持参）」or「大きいの一枚ください」
-4. 店員：「お箸やスプーンはお付けしますか？」
-   ➔ あなた：「一膳（ぜん）お願いします！」
+【<ruby>店員<rt>てんいん</rt></ruby>さんの4<ruby>連<rt>れん</rt></ruby><ruby>撃<rt>う</rt></ruby>と<ruby>模範<rt>もはん</rt></ruby><ruby>解答<rt>かいとう</rt></ruby>】
+1. <ruby>店員<rt>てんいん</rt></ruby>：「ポイントカードはお<ruby>持<rt>も</rt></ruby>ちですか？」
+   ➔ あなた：「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です（<ruby>持<rt>も</rt></ruby>っていません）」or「アプリで<ruby>出<rt>だ</rt></ruby>します」
+2. <ruby>店員<rt>てんいん</rt></ruby>：「お<ruby>弁当<rt>べんとう</rt></ruby>、<ruby>温<rt>あたた</rt></ruby>めますか？」
+   ➔ あなた：「お<ruby>願<rt>ねが</rt></ruby>いします！」or「そのままで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」
+3. <ruby>店員<rt>てんいん</rt></ruby>：「レジ<ruby>袋<rt>ぶくろ</rt></ruby>はご<ruby>利用<rt>りよう</rt></ruby>ですか？」
+   ➔ あなた：「あ、<ruby>結構<rt>けっこう</rt></ruby>です（マイバッグ<ruby>持参<rt>じさん</rt></ruby>）」or「<ruby>大<rt>おお</rt></ruby>きいの<ruby>一<rt>いち</rt></ruby><ruby>枚<rt>まい</rt></ruby>ください」
+4. <ruby>店員<rt>てんいん</rt></ruby>：「お<ruby>箸<rt>はし</rt></ruby>やスプーンはお<ruby>付<rt>つ</rt></ruby>けしますか？」
+   ➔ あなた：「<ruby>一<rt>いち</rt></ruby><ruby>膳<rt>ぜん</rt></ruby>（ぜん）お<ruby>願<rt>ねが</rt></ruby>いします！」
 ```
 
 #### <ruby>店員<rt>てんいん</rt></ruby>さんの<ruby>早口<rt>はやくち</rt></ruby><ruby>言葉<rt>ことば</rt></ruby>を<ruby>聞き取<rt>ききと</rt></ruby>るコツ
@@ -125,32 +125,32 @@ description: "香港のコンビニは無言でスピーディー。でも日本
 <ruby>焦<rt>あせ</rt></ruby>らず<ruby>画面<rt>がめん</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>に<ruby>従<rt>したが</rt></ruby>えば、<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>一切<rt>いっさい</rt></ruby><ruby>喋<rt>しゃべ</rt></ruby>らなくても1<ruby>分<rt>ふん</rt></ruby>で<ruby>買い物<rt>かいもの</rt></ruby>が<ruby>完了<rt>かんりょう</rt></ruby>します！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">レジ袋（レジぶくろ）</span>
+        <span class="c-vocab-card__word">レジ<ruby>袋<rt>ぶくろ</rt></ruby>（レジぶくろ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>plastic shopping bag</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>エコバッグを持ってきたので、「レジ袋は結構です」と断った。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>plastic shopping bag</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>エコバッグを<ruby>持<rt>も</rt></ruby>ってきたので、「レジ<ruby>袋<rt>ぶくろ</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby>です」と<ruby>断<rt>ことわ</rt></ruby>った。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">温め（あたため）</span>
+        <span class="c-vocab-card__word"><ruby>温<rt>あたた</rt></ruby>め（あたため）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>heating up</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>コンビニでお弁当を買ったら、店員さんに「温めますか」と聞かれた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>heating up</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>コンビニでお<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>買<rt>か</rt></ruby>ったら、<ruby>店員<rt>てんいん</rt></ruby>さんに「<ruby>温<rt>あたた</rt></ruby>めますか」と<ruby>聞<rt>き</rt></ruby>かれた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">会計（かいけい）</span>
+        <span class="c-vocab-card__word"><ruby>会計<rt>かいけい</rt></ruby>（かいけい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>payment, bill</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>スマホのバーコード決済を提示して、スムーズに会計を済ませた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>payment, bill</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>スマホのバーコード<ruby>決済<rt>けっさい</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>して、スムーズに<ruby>会計<rt>かいけい</rt></ruby>を<ruby>済<rt>す</rt></ruby>ませた。</p>
     </div>
   </div>
 </div>

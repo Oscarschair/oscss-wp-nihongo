@@ -34,17 +34,17 @@ description: "英語なら「give」1語で済むのに、日本語ではなぜ�
 この3つの<ruby>動詞<rt>どうし</rt></ruby>は、「<ruby>矢印<rt>やじるし</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっているか、<ruby>相手<rt>あいて</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっているか」だけで100%<ruby>区別<rt>くべつ</rt></ruby>できます。
 
 ```
-【あげる】（自分 → 相手）
-自分から外側の相手へ向かってモノを差し出す。
-例：「私は田中さんにプレゼントをあげました」
+【あげる】（<ruby>自分<rt>じぶん</rt></ruby> → <ruby>相手<rt>あいて</rt></ruby>）
+<ruby>自分<rt>じぶん</rt></ruby>から<ruby>外側<rt>そとがわ</rt></ruby>の<ruby>相手<rt>あいて</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かってモノを<ruby>差し出<rt>さしだ</rt></ruby>す。
+<ruby>例<rt>れい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>さんにプレゼントをあげました」
 
-【くれる】（相手 → 自分）
-外側の相手から自分（または自分の家族・仲間）の内側へモノが入ってくる。
-例：「田中さんが私にプレゼントをくれました」
+【くれる】（<ruby>相手<rt>あいて</rt></ruby> → <ruby>自分<rt>じぶん</rt></ruby>）
+<ruby>外側<rt>そとがわ</rt></ruby>の<ruby>相手<rt>あいて</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>（または<ruby>自分<rt>じぶん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>・<ruby>仲間<rt>なかま</rt></ruby>）の<ruby>内側<rt>うちがわ</rt></ruby>へモノが<ruby>入<rt>はい</rt></ruby>ってくる。
+<ruby>例<rt>れい</rt></ruby>：「<ruby>田中<rt>たなか</rt></ruby>さんが<ruby>私<rt>わたし</rt></ruby>にプレゼントをくれました」
 
-【もらう】（自分 ← 相手）
-自分が主体となり、外側の相手からモノを受け取る。
-例：「私は田中さんからプレゼントをもらいました」
+【もらう】（<ruby>自分<rt>じぶん</rt></ruby> ← <ruby>相手<rt>あいて</rt></ruby>）
+<ruby>自分<rt>じぶん</rt></ruby>が<ruby>主体<rt>しゅたい</rt></ruby>となり、<ruby>外側<rt>そとがわ</rt></ruby>の<ruby>相手<rt>あいて</rt></ruby>からモノを<ruby>受け取<rt>うけと</rt></ruby>る。
+<ruby>例<rt>れい</rt></ruby>：「<ruby>私<rt>わたし</rt></ruby>は<ruby>田中<rt>たなか</rt></ruby>さんからプレゼントをもらいました」
 ```
 
 ### 💡 <ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>絶対<rt>ぜったい</rt></ruby>にやってしまうNGパターン
@@ -68,8 +68,8 @@ description: "英語なら「give」1語で済むのに、日本語ではなぜ�
 
 <ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>がつまずきやすい<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>けをスッキリ<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>人気<rt>にんき</rt></ruby><ruby>連載<rt>れんさい</rt></ruby>！
 
-* 💡 [くらべてみました：「わかる」VS「<ruby>知<rt>し</rt></ruby>る」の<ruby>違<rt>ちが</rt></ruby>い｜「<ruby>知<rt>し</rt></ruby>っていますか？」と「<ruby>分<rt>わ</rt></ruby>かりますか？」で<ruby>相手<rt>あいて</rt></ruby>への<ruby>印象<rt>いんしょう</rt></ruby>が180<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>わる<ruby>理由<rt>りゆう</rt></ruby>](https://nihongo.oscarchair.jp/japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing/)
-* 👋 [くらべてみました：「さようなら」VS「またね」の<ruby>違<rt>ちが</rt></ruby>い｜なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>に「さようなら」と<ruby>言<rt>い</rt></ruby>わないのか？](https://nihongo.oscarchair.jp/japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions/)
+* 💡 [くらべてみました：「わかる」VS「<ruby>知<rt>し</rt></ruby>る」の<ruby>違<rt>ちが</rt></ruby>い｜「<ruby>知<rt>し</rt></ruby>っていますか？」と「<ruby>分<rt>わ</rt></ruby>かりますか？」で<ruby>相手<rt>あいて</rt></ruby>への<ruby>印象<rt>いんしょう</rt></ruby>が180<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>わる<ruby>理由<rt>りゆう</rt></ruby>](__PROTECTED_2__)
+* 👋 [くらべてみました：「さようなら」VS「またね」の<ruby>違<rt>ちが</rt></ruby>い｜なぜ<ruby>日本人<rt>にっぽんじん</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>に「さようなら」と<ruby>言<rt>い</rt></ruby>わないのか？](__PROTECTED_3__)
 
 [oscss_related slug="japanese-comparing-zenzen-and-mattaku-differences" label="くらべてみました：<ruby>全然<rt>ぜんぜん</rt></ruby>VS<ruby>全<rt>まった</rt></ruby>く"]
 [oscss_related slug="kotoba-no-aya-sonosetsu-wa-doumo" label="ことばのあや：「その<ruby>節<rt>ふし</rt></ruby>はどうも…」の<ruby>謎<rt>なぞ</rt></ruby>"]
@@ -128,32 +128,32 @@ description: "英語なら「give」1語で済むのに、日本語ではなぜ�
 「もらう」の<ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>である「いただく」にテ<ruby>形<rt>がた</rt></ruby>をつけた「〜ていただく」（ご<ruby>案内<rt>あんない</rt></ruby>していただく、ご<ruby>確認<rt>かくにん</rt></ruby>いただく）は、ビジネスメールの<ruby>最<rt>さい</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>です。「ご<ruby>確認<rt>かくにん</rt></ruby>してください」ではなく「ご<ruby>確認<rt>かくにん</rt></ruby>いただけますと<ruby>幸<rt>さいわ</rt></ruby>いです」と<ruby>表現<rt>ひょうげん</rt></ruby>することで、<ruby>相手<rt>あいて</rt></ruby>への<ruby>最<rt>さい</rt></ruby><ruby>高級<rt>こうきゅう</rt></ruby>の<ruby>敬意<rt>けいい</rt></ruby>と<ruby>丁寧<rt>ていねい</rt></ruby>さが<ruby>自然<rt>しぜん</rt></ruby>と<ruby>伝<rt>つた</rt></ruby>わります。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">授受（じゅじゅ）</span>
+        <span class="c-vocab-card__word"><ruby>授受<rt>じゅじゅ</rt></ruby>（じゅじゅ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>giving and receiving</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「あげる」「くれる」「もらう」は、物の授受を表す重要表現だ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>giving and receiving</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「あげる」「くれる」「もらう」は、<ruby>物<rt>もの</rt></ruby>の<ruby>授受<rt>じゅじゅ</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す<ruby>重要<rt>じゅうよう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>だ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">恩恵（おんけい）</span>
+        <span class="c-vocab-card__word"><ruby>恩恵<rt>おんけい</rt></ruby>（おんけい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>grace, favor, blessing</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>先輩に親切に教えてもらった恩恵に対して、感謝の気持ちを伝える。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>grace, favor, blessing</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えてもらった<ruby>恩恵<rt>おんけい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>える。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">視点（してん）</span>
+        <span class="c-vocab-card__word"><ruby>視点<rt>してん</rt></ruby>（してん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>perspective, point of view</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>話し手の視点が誰にあるかによって、使う動詞が変化する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>perspective, point of view</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>話し手<rt>はなして</rt></ruby>の<ruby>視点<rt>してん</rt></ruby>が<ruby>誰<rt>だれ</rt></ruby>にあるかによって、<ruby>使<rt>つか</rt></ruby>う<ruby>動詞<rt>どうし</rt></ruby>が<ruby>変化<rt>へんか</rt></ruby>する。</p>
     </div>
   </div>
 </div>

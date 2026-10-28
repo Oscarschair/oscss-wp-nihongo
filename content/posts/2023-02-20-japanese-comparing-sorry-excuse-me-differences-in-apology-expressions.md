@@ -26,7 +26,7 @@ tags:
 クルマのオフィスでの<ruby>疑問<rt>ぎもん</rt></ruby>を<ruby>見<rt>み</rt></ruby>てみましょう。
 
 > 🏢 **オフィスのデスクにて**
-> 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「クルマくん、<ruby>出張<rt>しゅっちょう</rt></ruby>のお<ruby>土産<rt>みやげ</rt></ruby><ruby>買<rt>か</rt></ruby>ってきたよ！ <ruby>東京<rt>とうきょう</rt></ruby>ばな<ruby>奈<rt>*</rt></ruby>！」
+> 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「クルマくん、<ruby>出張<rt>しゅっちょう</rt></ruby>のお<ruby>土産<rt>みやげ</rt></ruby><ruby>買<rt>か</rt></ruby>ってきたよ！ <ruby>東京<rt>とうきょう</rt></ruby>ばな奈！」
 > 🚗 **クルマ**：「わあ、ありがとうございます！……あ、じゃなくて……『すみません』ですか！？ <ruby>先輩<rt>せんぱい</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>、<ruby>謝<rt>あやま</rt></ruby>るべきなんですか！？」
 > 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「あはは！ <ruby>謝<rt>あやま</rt></ruby>らなくていいよ！ でも<ruby>日本人<rt>にっぽんじん</rt></ruby>はプレゼントをもらったときも『<ruby>気<rt>き</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わせてしまってすみません』という<ruby>意味<rt>いみ</rt></ruby>でよく<ruby>言<rt>い</rt></ruby>うんだよね。」
 > 🚗 **クルマ**：「プレゼントをもらって『すみません』！？ <ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>謝罪<rt>しゃざい</rt></ruby>、<ruby>奥<rt>おく</rt></ruby>が<ruby>深<rt>ふか</rt></ruby>すぎます……！」
@@ -54,32 +54,32 @@ tags:
 メールや<ruby>口頭<rt>こうとう</rt></ruby>で「<ruby>恐れ入<rt>おそれい</rt></ruby>りますが〜」と<ruby>前置<rt>まえお</rt></ruby>きするだけで、<ruby>依頼<rt>いらい</rt></ruby>や<ruby>確認<rt>かくにん</rt></ruby>のトーンが<ruby>一気<rt>いっき</rt></ruby>に<ruby>柔<rt>やわ</rt></ruby>らかくなり、<ruby>相手<rt>あいて</rt></ruby>の<ruby>協力<rt>きょうりょく</rt></ruby>を<ruby>引き出<rt>ひきだ</rt></ruby>しやすくなります。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">謝罪（しゃざい）</span>
+        <span class="c-vocab-card__word"><ruby>謝罪<rt>しゃざい</rt></ruby>（しゃざい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>apology</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>電車を止めてしまったことについて、会社に深く謝罪した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>apology</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>止<rt>と</rt></ruby>めてしまったことについて、<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>深<rt>ふか</rt></ruby>く<ruby>謝罪<rt>しゃざい</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">失礼（しつれい）</span>
+        <span class="c-vocab-card__word"><ruby>失礼<rt>しつれい</rt></ruby>（しつれい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n5">JLPT N5</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>discourtesy, excuse me</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>先輩の部屋に入るときは「失礼します」と声をかける。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>discourtesy, excuse me</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>先輩<rt>せんぱい</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るときは「<ruby>失礼<rt>しつれい</rt></ruby>します」と<ruby>声<rt>こえ</rt></ruby>をかける。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">感謝（かんしゃ）</span>
+        <span class="c-vocab-card__word"><ruby>感謝<rt>かんしゃ</rt></ruby>（かんしゃ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>thanks, gratitude</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>困っているときに助けてくれた同僚に、心から感謝の気持ちを伝えた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>thanks, gratitude</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>困<rt>こま</rt></ruby>っているときに<ruby>助<rt>たす</rt></ruby>けてくれた<ruby>同僚<rt>どうりょう</rt></ruby>に、<ruby>心<rt>こころ</rt></ruby>から<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>えた。</p>
     </div>
   </div>
 </div>

@@ -27,16 +27,16 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「<ruby>恐れ入<rt>おそれい</rt></ruby>ります」VS「<ruby>申し訳<rt>もうしわけ</rt></ruby>ございません」
 
 ```
-【恐れ入りますが（感謝・恐縮・クッション言葉）】
-  ★ 相手に落ち度はなく、自分にもミスはない。
-  ★「お忙しいところお手間を取らせて恐縮です」という謙虚な気持ち。
-      ◎「恐れ入りますが、こちらにご署名をお願いできますでしょうか？」
-      ◎「恐れ入りますが、お名前をもう一度お伺いできますか？」
+【<ruby>恐れ入<rt>おそれい</rt></ruby>りますが（<ruby>感謝<rt>かんしゃ</rt></ruby>・<ruby>恐縮<rt>きょうしゅく</rt></ruby>・クッション<ruby>言葉<rt>ことば</rt></ruby>）】
+  ★ <ruby>相手<rt>あいて</rt></ruby>に<ruby>落ち度<rt>おちど</rt></ruby>はなく、<ruby>自分<rt>じぶん</rt></ruby>にもミスはない。
+  ★「お<ruby>忙<rt>いそが</rt></ruby>しいところお<ruby>手間<rt>てま</rt></ruby>を<ruby>取<rt>と</rt></ruby>らせて<ruby>恐縮<rt>きょうしゅく</rt></ruby>です」という<ruby>謙虚<rt>けんきょ</rt></ruby>な<ruby>気持<rt>きも</rt></ruby>ち。
+      ◎「<ruby>恐れ入<rt>おそれい</rt></ruby>りますが、こちらにご<ruby>署名<rt>しょめい</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いできますでしょうか？」
+      ◎「<ruby>恐れ入<rt>おそれい</rt></ruby>りますが、お<ruby>名前<rt>なまえ</rt></ruby>をもう<ruby>一度<rt>いちど</rt></ruby>お<ruby>伺<rt>うかが</rt></ruby>いできますか？」
 
-【申し訳ございません（純粋な謝罪・お詫び）】
-  ★ 自分のミス、遅刻、会社の不手際で相手に実害・迷惑をかけたとき。
-      ◎「ご案内が遅くなり、大変申し訳ございませんでした。」
-      ◎「書類に不備がございましたこと、深くお詫び申し上げます。」
+【<ruby>申し訳<rt>もうしわけ</rt></ruby>ございません（<ruby>純粋<rt>じゅんすい</rt></ruby>な<ruby>謝罪<rt>しゃざい</rt></ruby>・お<ruby>詫<rt>わ</rt></ruby>び）】
+  ★ <ruby>自分<rt>じぶん</rt></ruby>のミス、<ruby>遅刻<rt>ちこく</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>不手際<rt>ふてぎわ</rt></ruby>で<ruby>相手<rt>あいて</rt></ruby>に<ruby>実害<rt>じつがい</rt></ruby>・<ruby>迷惑<rt>めいわく</rt></ruby>をかけたとき。
+      ◎「ご<ruby>案内<rt>あんない</rt></ruby>が<ruby>遅<rt>おそ</rt></ruby>くなり、<ruby>大変<rt>たいへん</rt></ruby><ruby>申し訳<rt>もうしわけ</rt></ruby>ございませんでした。」
+      ◎「<ruby>書類<rt>しょるい</rt></ruby>に<ruby>不備<rt>ふび</rt></ruby>がございましたこと、<ruby>深<rt>ふか</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>び<ruby>申し上<rt>もうしあ</rt></ruby>げます。」
 ```
 
 |<ruby>表現<rt>ひょうげん</rt></ruby>| ニュアンス |<ruby>自分<rt>じぶん</rt></ruby>のミスはある？|<ruby>主<rt>おも</rt></ruby>な<ruby>用途<rt>ようと</rt></ruby>|
@@ -143,32 +143,32 @@ tags:
 * 📌 **「<ruby>恐れ入<rt>おそれい</rt></ruby>ります」をマスターすると、<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>品格<rt>ひんかく</rt></ruby>が<ruby>一気<rt>いっき</rt></ruby>にワンランク<ruby>上<rt>あ</rt></ruby>がる！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">恐れ入ります（おそれいります）</span>
+        <span class="c-vocab-card__word"><ruby>恐れ入<rt>おそれい</rt></ruby>ります（おそれいります）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>I am much obliged, excuse me, pardon me</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お忙しいところ恐れ入りますが、アンケートへのご協力をお願いいたします。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>I am much obliged, excuse me, pardon me</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>忙<rt>いそが</rt></ruby>しいところ<ruby>恐れ入<rt>おそれい</rt></ruby>りますが、アンケートへのご<ruby>協力<rt>きょうりょく</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いいたします。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">恐縮（きょうしゅく）</span>
+        <span class="c-vocab-card__word"><ruby>恐縮<rt>きょうしゅく</rt></ruby>（きょうしゅく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>feeling obliged, being grateful and humble</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>わざわざ駅までお見送りいただき、大変恐縮でございます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>feeling obliged, being grateful and humble</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>わざわざ<ruby>駅<rt>えき</rt></ruby>までお<ruby>見送<rt>みおく</rt></ruby>りいただき、<ruby>大変<rt>たいへん</rt></ruby><ruby>恐縮<rt>きょうしゅく</rt></ruby>でございます。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">不手際（ふてぎわ）</span>
+        <span class="c-vocab-card__word"><ruby>不手際<rt>ふてぎわ</rt></ruby>（ふてぎわ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>clumsiness, blunder, mismanagement</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>こちらの不手際により、お客様に大変なご迷惑をおかけいたしました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>clumsiness, blunder, mismanagement</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>こちらの<ruby>不手際<rt>ふてぎわ</rt></ruby>により、お<ruby>客様<rt>きゃくさま</rt></ruby>に<ruby>大変<rt>たいへん</rt></ruby>なご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけいたしました。</p>
     </div>
   </div>
 </div>

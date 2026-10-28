@@ -77,6 +77,13 @@ def parse_markdown_to_gutenberg_full(md_path):
                 i += 1
             code_text = "\n".join(c_lines)
             code_esc = code_text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+            code_esc = (
+                code_esc
+                .replace('&lt;ruby&gt;', '<ruby>')
+                .replace('&lt;/ruby&gt;', '</ruby>')
+                .replace('&lt;rt&gt;', '<rt>')
+                .replace('&lt;/rt&gt;', '</rt>')
+            )
             blocks.append(f"<!-- wp:code -->\n<pre class=\"wp-block-code\"><code>{code_esc}</code></pre>\n<!-- /wp:code -->")
             i += 1
             continue

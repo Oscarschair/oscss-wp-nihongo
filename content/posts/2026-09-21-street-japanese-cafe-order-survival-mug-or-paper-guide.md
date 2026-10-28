@@ -43,19 +43,19 @@ tags:
 レジの<ruby>店員<rt>てんいん</rt></ruby>さんが<ruby>必<rt>かなら</rt></ruby>ず<ruby>聞<rt>き</rt></ruby>いてくる3つの<ruby>質問<rt>しつもん</rt></ruby>には、すべて<ruby>法律<rt>ほうりつ</rt></ruby>やお<ruby>店<rt>みせ</rt></ruby>のルールに<ruby>基<rt>もと</rt></ruby>づいた<ruby>明確<rt>めいかく</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>があります。
 
 ```
-【カフェのレジで聞かれる3大質問】
+【カフェのレジで<ruby>聞<rt>き</rt></ruby>かれる3<ruby>大<rt>だい</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>】
 
-①「店内でお召し上がりですか？ お持ち帰りですか？」
-  👉【理由：消費税率が違うから！】
-     店内飲食＝「10%」 / 持ち帰り（テイクアウト）＝「8%（軽減税率）」
+①「<ruby>店内<rt>てんない</rt></ruby>でお<ruby>召し上<rt>めしあ</rt></ruby>がりですか？ お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りですか？」
+  👉【<ruby>理由<rt>りゆう</rt></ruby>：<ruby>消費<rt>しょうひ</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>が<ruby>違<rt>ちが</rt></ruby>うから！】
+     <ruby>店内<rt>てんない</rt></ruby><ruby>飲食<rt>いんしょく</rt></ruby>＝「10%」 / <ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り（テイクアウト）＝「8%（<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>）」
 
 ②「マグカップ（グラス）でよろしいですか？」
-  👉【理由：プラスチック・紙ゴミを減らすエコ活動！】
-     洗って繰り返し使える陶器のマグやグラスを優先して提供している。
+  👉【<ruby>理由<rt>りゆう</rt></ruby>：プラスチック・<ruby>紙<rt>し</rt></ruby>ゴミを<ruby>減<rt>へ</rt></ruby>らすエコ<ruby>活動<rt>かつどう</rt></ruby>！】
+     <ruby>洗<rt>あら</rt></ruby>って<ruby>繰り返<rt>くりかえ</rt></ruby>し<ruby>使<rt>つか</rt></ruby>える<ruby>陶器<rt>とうき</rt></ruby>のマグやグラスを<ruby>優先<rt>ゆうせん</rt></ruby>して<ruby>提供<rt>ていきょう</rt></ruby>している。
 
-③「レシートご利用ですか？」
-  👉【理由：ゴミ箱にレシートが溢れるのを防ぐ気遣い！】
-     要らない人に無理に渡さないための日本流の確認。
+③「レシートご<ruby>利用<rt>りよう</rt></ruby>ですか？」
+  👉【<ruby>理由<rt>りゆう</rt></ruby>：<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>にレシートが<ruby>溢<rt>あふ</rt></ruby>れるのを<ruby>防<rt>ふせ</rt></ruby>ぐ<ruby>気遣<rt>きづか</rt></ruby>い！】
+     <ruby>要<rt>い</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>に<ruby>無理<rt>むり</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>さないための<ruby>日本<rt>にほん</rt></ruby><ruby>流<rt>りゅう</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>。
 ```
 
 ### ⚠️ 「<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りで」と<ruby>言<rt>い</rt></ruby>って<ruby>店内<rt>てんない</rt></ruby>の<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>るのはマナー<ruby>違反<rt>いはん</rt></ruby>！
@@ -81,10 +81,10 @@ tags:
 お<ruby>店<rt>みせ</rt></ruby>によってドリンクのサイズ<ruby>表記<rt>ひょうき</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>異<rt>こと</rt></ruby>なるのも、<ruby>初心者<rt>しょしんしゃ</rt></ruby>が<ruby>混乱<rt>こんらん</rt></ruby>するポイントです。
 
 ```
-【主なカフェチェーンのサイズ比較】
-● スターバックス：Short（小）➔ Tall（中）➔ Grande（大）➔ Venti（特大）
+【<ruby>主<rt>おも</rt></ruby>なカフェチェーンのサイズ<ruby>比較<rt>ひかく</rt></ruby>】
+● スターバックス：Short（<ruby>小<rt>しょう</rt></ruby>）➔ Tall（<ruby>中<rt>ちゅう</rt></ruby>）➔ Grande（<ruby>大<rt>だい</rt></ruby>）➔ Venti（<ruby>特大<rt>とくだい</rt></ruby>）
 ● ドトールコーヒー：Sサイズ ➔ Mサイズ ➔ Lサイズ
-● コメダ珈琲店：レギュラー ➔ たっぷりサイズ（約1.5倍！）
+● コメダ<ruby>珈琲<rt>こーひー</rt></ruby><ruby>店<rt>てん</rt></ruby>：レギュラー ➔ たっぷりサイズ（<ruby>約<rt>やく</rt></ruby>1.5<ruby>倍<rt>ばい</rt></ruby>！）
 ```
 
 <ruby>迷<rt>まよ</rt></ruby>ったら、**「Mサイズで」「<ruby>普通<rt>ふつう</rt></ruby>サイズで」**と<ruby>言<rt>い</rt></ruby>えば、<ruby>店員<rt>てんいん</rt></ruby>さんが「トールですね！」と<ruby>変換<rt>へんかん</rt></ruby>して<ruby>確認<rt>かくにん</rt></ruby>してくれます。
@@ -123,10 +123,10 @@ tags:
 <ruby>混雑<rt>こんざつ</rt></ruby>した<ruby>日本<rt>にほん</rt></ruby>のカフェでは、**「レジに<ruby>並<rt>なら</rt></ruby>ぶ<ruby>前<rt>まえ</rt></ruby>に、まず<ruby>空<rt>あ</rt></ruby>いている<ruby>席<rt>せき</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>する」**のが<ruby>暗黙<rt>あんもく</rt></ruby>のルールです。
 
 ```
-【日本のカフェの席取りサバイバル】
-1. 店内に入ったら、まず空席を探す。
-2. 席が見つかったら、ハンカチ、傘、本、または上着などを椅子やテーブルの上に置いて「キープ」する。
-3. 席を確保してから、レジの列に並んで注文する！
+【<ruby>日本<rt>にほん</rt></ruby>のカフェの<ruby>席<rt>せき</rt></ruby><ruby>取<rt>と</rt></ruby>りサバイバル】
+1. <ruby>店内<rt>てんない</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったら、まず<ruby>空席<rt>くうせき</rt></ruby>を<ruby>探<rt>さが</rt></ruby>す。
+2. <ruby>席<rt>せき</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかったら、ハンカチ、<ruby>傘<rt>かさ</rt></ruby>、<ruby>本<rt>ほん</rt></ruby>、または<ruby>上着<rt>うわぎ</rt></ruby>などを<ruby>椅子<rt>いす</rt></ruby>やテーブルの<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いて「キープ」する。
+3. <ruby>席<rt>せき</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>してから、レジの<ruby>列<rt>れつ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んで<ruby>注文<rt>ちゅうもん</rt></ruby>する！
 ```
 
 ※「スマートフォンや<ruby>財布<rt>さいふ</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて<ruby>席<rt>せき</rt></ruby>をキープする」<ruby>日本人<rt>にっぽんじん</rt></ruby>も<ruby>多<rt>おお</rt></ruby>いですが、<ruby>盗難<rt>とうなん</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>のため、<ruby>貴重<rt>きちょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>ではなくハンカチやポーチを<ruby>置<rt>お</rt></ruby>くのが<ruby>安全<rt>あんぜん</rt></ruby>でおすすめです！
@@ -138,20 +138,20 @@ tags:
 あなたのカフェ<ruby>注文<rt>ちゅうもん</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
-【第1問】
-店内の席に座ってゆっくりコーヒーを飲みたいとき、消費税率は何％になるでしょうか？
-① 8％（軽減税率）
-② 10％（標準税率）
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>店内<rt>てんない</rt></ruby>の<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ってゆっくりコーヒーを<ruby>飲<rt>の</rt></ruby>みたいとき、<ruby>消費<rt>しょうひ</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>％になるでしょうか？
+① 8％（<ruby>軽減<rt>けいげん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>）
+② 10％（<ruby>標準<rt>ひょうじゅん</rt></ruby><ruby>税率<rt>ぜいりつ</rt></ruby>）
 
-【第2問】
-「お召し上がりでしたら、マグカップでよろしいですか？」と聞かれました。環境に配慮して陶器のカップで飲みたいときの正しい返答は？
-①「はい、マグカップでお願いします。」
-②「いいえ、マグカップは嫌です。」
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+「お<ruby>召し上<rt>めしあ</rt></ruby>がりでしたら、マグカップでよろしいですか？」と<ruby>聞<rt>き</rt></ruby>かれました。<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>配慮<rt>はいりょ</rt></ruby>して<ruby>陶器<rt>とうき</rt></ruby>のカップで<ruby>飲<rt>の</rt></ruby>みたいときの<ruby>正<rt>ただ</rt></ruby>しい<ruby>返答<rt>へんとう</rt></ruby>は？
+①「はい、マグカップでお<ruby>願<rt>ねが</rt></ruby>いします。」
+②「いいえ、マグカップは<ruby>嫌<rt>いや</rt></ruby>です。」
 
-【第3問】
-混雑した日本のカフェで席を確保するタイミングとして、最も一般的なのは？
-① レジで注文してお金を払った後
-② レジに並ぶ前に、ハンカチなどで席をキープしておく
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>混雑<rt>こんざつ</rt></ruby>した<ruby>日本<rt>にほん</rt></ruby>のカフェで<ruby>席<rt>せき</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>するタイミングとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>なのは？
+① レジで<ruby>注文<rt>ちゅうもん</rt></ruby>してお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>った<ruby>後<rt>のち</rt></ruby>
+② レジに<ruby>並<rt>なら</rt></ruby>ぶ<ruby>前<rt>まえ</rt></ruby>に、ハンカチなどで<ruby>席<rt>せき</rt></ruby>をキープしておく
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -176,32 +176,32 @@ tags:
 <ruby>質問<rt>しつもん</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>さえ<ruby>分<rt>わ</rt></ruby>かっていれば、<ruby>日本<rt>にほん</rt></ruby>のカフェほど<ruby>居心地<rt>いごこち</rt></ruby>がよく<ruby>清潔<rt>せいけつ</rt></ruby>で<ruby>美味<rt>おい</rt></ruby>しい<ruby>場所<rt>ばしょ</rt></ruby>はありません。スマートに<ruby>注文<rt>ちゅうもん</rt></ruby>をこなして、<ruby>至福<rt>しふく</rt></ruby>のコーヒーブレイクを<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">店内（てんない）</span>
+        <span class="c-vocab-card__word"><ruby>店内<rt>てんない</rt></ruby>（てんない）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>inside the shop</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「店内でお召し上がりですか、それともお持ち帰りですか」と聞かれた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>inside the shop</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「<ruby>店内<rt>てんない</rt></ruby>でお<ruby>召し上<rt>めしあ</rt></ruby>がりですか、それともお<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りですか」と<ruby>聞<rt>き</rt></ruby>かれた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">持ち帰り（もちかえり）</span>
+        <span class="c-vocab-card__word"><ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り（もちかえり）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>takeout, to go</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>時間がないので、ホットコーヒーを紙コップで持ち帰りにした。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>takeout, to go</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>時間<rt>じかん</rt></ruby>がないので、ホットコーヒーを<ruby>紙<rt>かみ</rt></ruby>コップで<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>りにした。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">注文（ちゅうもん）</span>
+        <span class="c-vocab-card__word"><ruby>注文<rt>ちゅうもん</rt></ruby>（ちゅうもん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>order</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>カウンターで自分の好みのサイズとミルクの種類を指定して注文する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>order</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>カウンターで<ruby>自分<rt>じぶん</rt></ruby>の<ruby>好<rt>この</rt></ruby>みのサイズとミルクの<ruby>種類<rt>しゅるい</rt></ruby>を<ruby>指定<rt>してい</rt></ruby>して<ruby>注文<rt>ちゅうもん</rt></ruby>する。</p>
     </div>
   </div>
 </div>

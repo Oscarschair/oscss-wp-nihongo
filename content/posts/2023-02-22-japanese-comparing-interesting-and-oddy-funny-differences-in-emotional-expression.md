@@ -62,32 +62,32 @@ A: <ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ru
 この2つの<ruby>軸<rt>じく</rt></ruby>を<ruby>意識<rt>いしき</rt></ruby>するだけで、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>感情<rt>かんじょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>はネイティブ<ruby>並<rt>な</rt></ruby>みに<ruby>洗練<rt>せんれん</rt></ruby>されます！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">興味（きょうみ）</span>
+        <span class="c-vocab-card__word"><ruby>興味<rt>きょうみ</rt></ruby>（きょうみ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>interest (in something)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本のアニメや文化に強い興味を持っています。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>interest (in something)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>のアニメや<ruby>文化<rt>ぶんか</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>い<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っています。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">感情（かんじょう）</span>
+        <span class="c-vocab-card__word"><ruby>感情<rt>かんじょう</rt></ruby>（かんじょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>emotion, feeling</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>嬉しいときや悲しいときの感情を、素直に言葉で表現する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>emotion, feeling</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>嬉<rt>うれ</rt></ruby>しいときや<ruby>悲<rt>かな</rt></ruby>しいときの<ruby>感情<rt>かんじょう</rt></ruby>を、<ruby>素直<rt>すなお</rt></ruby>に<ruby>言葉<rt>ことば</rt></ruby>で<ruby>表現<rt>ひょうげん</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">表現（ひょうげん）</span>
+        <span class="c-vocab-card__word"><ruby>表現<rt>ひょうげん</rt></ruby>（ひょうげん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>expression, presentation</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本語にはニュアンスの細かな違いを表す豊かな表現が多い。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>expression, presentation</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>にはニュアンスの<ruby>細<rt>こま</rt></ruby>かな<ruby>違<rt>ちが</rt></ruby>いを<ruby>表<rt>あらわ</rt></ruby>す<ruby>豊<rt>ゆた</rt></ruby>かな<ruby>表現<rt>ひょうげん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。</p>
     </div>
   </div>
 </div>

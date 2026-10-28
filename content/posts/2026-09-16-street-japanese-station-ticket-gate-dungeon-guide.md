@@ -42,11 +42,11 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>は<ruby>世界<rt>せかい</rt></ruby><ruby>最速<rt>さいそく</rt></ruby>レベル（1<ruby>分間<rt>ふんかん</rt></ruby>に60<ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>処理<rt>しょり</rt></ruby>）で<ruby>設計<rt>せっけい</rt></ruby>されていますが、ちょっとした<ruby>油断<rt>ゆだん</rt></ruby>でゲートに<ruby>挟<rt>はさ</rt></ruby>まれます。<ruby>主<rt>おも</rt></ruby>な<ruby>原因<rt>げんいん</rt></ruby>は<ruby>以下<rt>いか</rt></ruby>の3つです。
 
 ```
-【改札機でブロックされる3大原因】
+【<ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>でブロックされる3<ruby>大<rt>だい</rt></ruby><ruby>原因<rt>げんいん</rt></ruby>】
 
-①【残高不足】初乗り運賃（約140円〜160円）未満だと、入ることすらできない！
-②【右側タッチの罠】タッチパネルは必ず「右側」！ 左手でタッチすると隣の人を止めてしまう！
-③【エラー未処理（出場・入場の不一致）】前の駅でタッチが甘く、データが「入場中」のまま！
+①【<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>】<ruby>初乗<rt>はつの</rt></ruby>り<ruby>運賃<rt>うんちん</rt></ruby>（<ruby>約<rt>やく</rt></ruby>140<ruby>円<rt>えん</rt></ruby>〜160<ruby>円<rt>えん</rt></ruby>）<ruby>未満<rt>みまん</rt></ruby>だと、<ruby>入<rt>はい</rt></ruby>ることすらできない！
+②【<ruby>右側<rt>みぎがわ</rt></ruby>タッチの<ruby>罠<rt>わな</rt></ruby>】タッチパネルは<ruby>必<rt>かなら</rt></ruby>ず「<ruby>右側<rt>みぎがわ</rt></ruby>」！ <ruby>左手<rt>ひだりて</rt></ruby>でタッチすると<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>止<rt>と</rt></ruby>めてしまう！
+③【エラー<ruby>未<rt>み</rt></ruby><ruby>処理<rt>しょり</rt></ruby>（<ruby>出場<rt>しゅつじょう</rt></ruby>・<ruby>入場<rt>にゅうじょう</rt></ruby>の<ruby>不一致<rt>ふいっち</rt></ruby>）】<ruby>前<rt>まえ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>でタッチが<ruby>甘<rt>あま</rt></ruby>く、データが「<ruby>入場<rt>にゅうじょう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>」のまま！
 ```
 
 ### ① <ruby>初乗<rt>はつの</rt></ruby>り<ruby>運賃<rt>うんちん</rt></ruby>がないと「<ruby>入場<rt>にゅうじょう</rt></ruby>」すらできない！
@@ -64,16 +64,16 @@ tags:
 もし「ピンポーン！」と<ruby>鳴<rt>な</rt></ruby>って<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まってしまったら、<ruby>慌<rt>あわ</rt></ruby>てて<ruby>後<rt>うし</rt></ruby>ろを<ruby>振り返<rt>ふりかえ</rt></ruby>って<ruby>謝<rt>あやま</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>ける<ruby>必要<rt>ひつよう</rt></ruby>はありません。スマートに<ruby>対処<rt>たいしょ</rt></ruby>しましょう！
 
 ```
-［改札に挟まれた時の黄金脱出ルート］
+［<ruby>改札<rt>かいさつ</rt></ruby>に<ruby>挟<rt>はさ</rt></ruby>まれた<ruby>時<rt>とき</rt></ruby>の<ruby>黄金<rt>おうごん</rt></ruby><ruby>脱出<rt>だっしゅつ</rt></ruby>ルート］
        │
-       ▼ ①【0.5秒で一歩バック！】
- ゲートのセンサーから身体を離し、後ろの人に「お先にどうぞ！」と手で合図する。
+       ▼ ①【0.5<ruby>秒<rt>びょう</rt></ruby>で<ruby>一<rt>いち</rt></ruby><ruby>歩<rt>ほ</rt></ruby>バック！】
+ ゲートのセンサーから<ruby>身体<rt>しんたい</rt></ruby>を<ruby>離<rt>はな</rt></ruby>し、<ruby>後<rt>うし</rt></ruby>ろの<ruby>人<rt>ひと</rt></ruby>に「お<ruby>先<rt>さき</rt></ruby>にどうぞ！」と<ruby>手<rt>て</rt></ruby>で<ruby>合図<rt>あいず</rt></ruby>する。
        │
-       ▼ ②【改札の画面をチラ見！】
- 「残高不足」「係員にお知らせください」「もう一度タッチ」のどれが出ているか確認。
+       ▼ ②【<ruby>改札<rt>かいさつ</rt></ruby>の<ruby>画面<rt>がめん</rt></ruby>をチラ<ruby>見<rt>み</rt></ruby>！】
+ 「<ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>」「<ruby>係員<rt>かかりいん</rt></ruby>にお<ruby>知<rt>し</rt></ruby>らせください」「もう<ruby>一度<rt>いちど</rt></ruby>タッチ」のどれが<ruby>出<rt>で</rt></ruby>ているか<ruby>確認<rt>かくにん</rt></ruby>。
        │
-       ▼ ③【横にある『のりこし精算機』へ直行！】
- 残高不足なら精算機でチャージ！ 不明なエラーなら『有人改札（駅員窓口）』へ！
+       ▼ ③【<ruby>横<rt>よこ</rt></ruby>にある『のりこし<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>』へ<ruby>直行<rt>ちょっこう</rt></ruby>！】
+ <ruby>残高<rt>ざんだか</rt></ruby><ruby>不足<rt>ふそく</rt></ruby>なら<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>でチャージ！ <ruby>不明<rt>ふめい</rt></ruby>なエラーなら『<ruby>有人<rt>ゆうじん</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby>（<ruby>駅員<rt>えきいん</rt></ruby><ruby>窓口<rt>まどぐち</rt></ruby>）』へ！
 ```
 
 ---
@@ -111,12 +111,12 @@ tags:
 <ruby>答<rt>こた</rt></ruby>えは**「<ruby>全国<rt>ぜんこく</rt></ruby>10<ruby>大<rt>だい</rt></ruby><ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>ICカードは、ほぼ<ruby>日本<rt>にほん</rt></ruby><ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>相互<rt>そうご</rt></ruby><ruby>利用<rt>りよう</rt></ruby>できる！」**です！
 
 ```
-【相互利用できる日本の10大交通系ICカード】
-● 首都圏：Suica（JR東日本）、PASMO（私鉄・地下鉄）
-● 関西圏：ICOCA（JR西日本）、PiTaPa（私鉄・地下鉄）
-● 中部圏：TOICA（JR東海）、manaca（名鉄・地下鉄）
-● 北海道：Kitaca（JR北海道）
-● 九州圏：SUGOCA（JR九州）、nimoca（西鉄）、はやかけん（福岡市地下鉄）
+【<ruby>相互<rt>そうご</rt></ruby><ruby>利用<rt>りよう</rt></ruby>できる<ruby>日本<rt>にほん</rt></ruby>の10<ruby>大<rt>だい</rt></ruby><ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>ICカード】
+● <ruby>首都<rt>しゅと</rt></ruby><ruby>圏<rt>けん</rt></ruby>：Suica（JR<ruby>東日本<rt>ひがしにっぽん</rt></ruby>）、PASMO（<ruby>私鉄<rt>してつ</rt></ruby>・<ruby>地下鉄<rt>ちかてつ</rt></ruby>）
+● <ruby>関西<rt>かんさい</rt></ruby><ruby>圏<rt>けん</rt></ruby>：ICOCA（JR<ruby>西日本<rt>にしにほん</rt></ruby>）、PiTaPa（<ruby>私鉄<rt>してつ</rt></ruby>・<ruby>地下鉄<rt>ちかてつ</rt></ruby>）
+● <ruby>中部<rt>ちゅうぶ</rt></ruby><ruby>圏<rt>けん</rt></ruby>：TOICA（JR<ruby>東海<rt>とうかい</rt></ruby>）、manaca（<ruby>名鉄<rt>めいてつ</rt></ruby>・<ruby>地下鉄<rt>ちかてつ</rt></ruby>）
+● <ruby>北海道<rt>ほっかいどう</rt></ruby>：Kitaca（JR<ruby>北海道<rt>ほっかいどう</rt></ruby>）
+● <ruby>九州<rt>きゅうしゅう</rt></ruby><ruby>圏<rt>けん</rt></ruby>：SUGOCA（JR<ruby>九州<rt>きゅうしゅう</rt></ruby>）、nimoca（<ruby>西鉄<rt>にしてつ</rt></ruby>）、はやかけん（<ruby>福岡<rt>ふくおか</rt></ruby><ruby>市<rt>し</rt></ruby><ruby>地下鉄<rt>ちかてつ</rt></ruby>）
 ```
 
 ### ⚠️ エリアまたぎの<ruby>利用<rt>りよう</rt></ruby>（<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby>トラップ）に<ruby>注意<rt>ちゅうい</rt></ruby>！
@@ -129,21 +129,21 @@ tags:
 あなたの<ruby>改札<rt>かいさつ</rt></ruby>サバイバル<ruby>力<rt>りょく</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
-【第1問】
-自動改札機を歩くとき、ICカードをタッチするパネルは自分の左右どちら側にあるでしょうか？
-① 左側
-② 右側
-③ どちらでも好きな方
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>自動<rt>じどう</rt></ruby><ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くとき、ICカードをタッチするパネルは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>左右<rt>さゆう</rt></ruby>どちら<ruby>側<rt>がわ</rt></ruby>にあるでしょうか？
+① <ruby>左側<rt>ひだりがわ</rt></ruby>
+② <ruby>右側<rt>みぎがわ</rt></ruby>
+③ どちらでも<ruby>好<rt>す</rt></ruby>きな<ruby>方<rt>ほう</rt></ruby>
 
-【第2問】
-残高が80円のSuicaを持っています。初乗り運賃が150円の駅の改札から入場できるでしょうか？
-① 入場できる（降りる駅で精算すればOK）
-② 入場できない（ピンポーンと扉が閉まる）
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>残高<rt>ざんだか</rt></ruby>が80<ruby>円<rt>えん</rt></ruby>のSuicaを<ruby>持<rt>も</rt></ruby>っています。<ruby>初乗<rt>はつの</rt></ruby>り<ruby>運賃<rt>うんちん</rt></ruby>が150<ruby>円<rt>えん</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>から<ruby>入場<rt>にゅうじょう</rt></ruby>できるでしょうか？
+① <ruby>入場<rt>にゅうじょう</rt></ruby>できる（<ruby>降<rt>お</rt></ruby>りる<ruby>駅<rt>えき</rt></ruby>で<ruby>精算<rt>せいさん</rt></ruby>すればOK）
+② <ruby>入場<rt>にゅうじょう</rt></ruby>できない（ピンポーンと<ruby>扉<rt>とびら</rt></ruby>が<ruby>閉<rt>し</rt></ruby>まる）
 
-【第3問】
-急いでいるとき、タッチパネルから数センチ浮かせてカードをサッとかざす「空中スライド」は推奨されるでしょうか？
-① 推奨される（そのほうが素早いから）
-② 推奨されない（読み取りエラーの原因になるので、ピタッと0.5秒密着させるべき）
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>急<rt>いそ</rt></ruby>いでいるとき、タッチパネルから<ruby>数<rt>すう</rt></ruby>センチ<ruby>浮<rt>う</rt></ruby>かせてカードをサッとかざす「<ruby>空中<rt>くうちゅう</rt></ruby>スライド」は<ruby>推奨<rt>すいしょう</rt></ruby>されるでしょうか？
+① <ruby>推奨<rt>すいしょう</rt></ruby>される（そのほうが<ruby>素早<rt>すばや</rt></ruby>いから）
+② <ruby>推奨<rt>すいしょう</rt></ruby>されない（<ruby>読み取<rt>よみと</rt></ruby>りエラーの<ruby>原因<rt>げんいん</rt></ruby>になるので、ピタッと0.5<ruby>秒<rt>びょう</rt></ruby><ruby>密着<rt>みっちゃく</rt></ruby>させるべき）
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -167,32 +167,32 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby><ruby>機<rt>き</rt></ruby>は、<ruby>慣<rt>な</rt></ruby>れてしまえば<ruby>世界一<rt>せかいいち</rt></ruby>スムーズで<ruby>爽快<rt>そうかい</rt></ruby>なシステムです。マナーと<ruby>仕組<rt>しく</rt></ruby>みを<ruby>身<rt>み</rt></ruby>につけて、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>通勤<rt>つうきん</rt></ruby>や<ruby>旅<rt>たび</rt></ruby>を<ruby>風<rt>かぜ</rt></ruby>のように<ruby>軽<rt>かろ</rt></ruby>やかに<ruby>駆け抜<rt>かけぬ</rt></ruby>けましょう！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">改札（かいさつ）</span>
+        <span class="c-vocab-card__word"><ruby>改札<rt>かいさつ</rt></ruby>（かいさつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>ticket gate</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>交通系ICカードをタッチして、電車の改札を通過した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>ticket gate</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>交通<rt>こうつう</rt></ruby><ruby>系<rt>けい</rt></ruby>ICカードをタッチして、<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>を<ruby>通過<rt>つうか</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">精算（せいさん）</span>
+        <span class="c-vocab-card__word"><ruby>精算<rt>せいさん</rt></ruby>（せいさん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>fare adjustment, settlement</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>チャージの残高が足りなかったので、精算機で百円を入金した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>fare adjustment, settlement</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>チャージの<ruby>残高<rt>ざんだか</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなかったので、<ruby>精算<rt>せいさん</rt></ruby><ruby>機<rt>き</rt></ruby>で<ruby>百<rt>ひゃく</rt></ruby><ruby>円<rt>えん</rt></ruby>を<ruby>入金<rt>にゅうきん</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">乗り換え（のりかえ）</span>
+        <span class="c-vocab-card__word"><ruby>乗り換<rt>のりか</rt></ruby>え（のりかえ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>transfer (trains)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>新宿駅は路線が多くて複雑なので、乗り換えに十分な時間を取る。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>transfer (trains)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>新宿<rt>しんじゅく</rt></ruby><ruby>駅<rt>えき</rt></ruby>は<ruby>路線<rt>ろせん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>くて<ruby>複雑<rt>ふくざつ</rt></ruby>なので、<ruby>乗り換<rt>のりか</rt></ruby>えに<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>を<ruby>取<rt>と</rt></ruby>る。</p>
     </div>
   </div>
 </div>

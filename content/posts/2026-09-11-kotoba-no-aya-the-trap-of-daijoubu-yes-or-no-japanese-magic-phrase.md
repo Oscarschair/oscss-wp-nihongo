@@ -58,8 +58,8 @@ description: "「レシート大丈夫です」はNOなのに、「この席大�
 
 <ruby>日本語<rt>にほんご</rt></ruby><ruby>特有<rt>とくゆう</rt></ruby>の「<ruby>曖昧<rt>あいまい</rt></ruby>な<ruby>表現<rt>ひょうげん</rt></ruby>」と「<ruby>気遣<rt>きづか</rt></ruby>いのニュアンス」をもっと<ruby>深<rt>ふか</rt></ruby>く<ruby>知<rt>し</rt></ruby>るおすすめ<ruby>記事<rt>きじ</rt></ruby>！
 
-* 🤔 [ことばのあや：「いいです」の<ruby>話<rt>はなし</rt></ruby>｜YES？それともNO？<ruby>文脈<rt>ぶんみゃく</rt></ruby>とトーンで180<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>わる<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu/)
-* 🏪 <ruby>実戦<rt>じっせん</rt></ruby><ruby>編<rt>へん</rt></ruby>：[<ruby>街角<rt>まちかど</rt></ruby>サバイバル：コンビニのレジ<ruby>攻防<rt>こうぼう</rt></ruby><ruby>戦<rt>せん</rt></ruby>｜「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」で<ruby>断<rt>ことわ</rt></ruby>るレジ<ruby>実践<rt>じっせん</rt></ruby>テクニック](https://nihongo.oscarchair.jp/street-japanese-convenience-store-register-survival-guide/)
+* 🤔 [ことばのあや：「いいです」の<ruby>話<rt>はなし</rt></ruby>｜YES？それともNO？<ruby>文脈<rt>ぶんみゃく</rt></ruby>とトーンで180<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>わる<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>](__PROTECTED_0__)
+* 🏪 <ruby>実戦<rt>じっせん</rt></ruby><ruby>編<rt>へん</rt></ruby>：[<ruby>街角<rt>まちかど</rt></ruby>サバイバル：コンビニのレジ<ruby>攻防<rt>こうぼう</rt></ruby><ruby>戦<rt>せん</rt></ruby>｜「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」で<ruby>断<rt>ことわ</rt></ruby>るレジ<ruby>実践<rt>じっせん</rt></ruby>テクニック](__PROTECTED_1__)
 
 ---
 
@@ -128,32 +128,32 @@ description: "「レシート大丈夫です」はNOなのに、「この席大�
 <ruby>相手<rt>あいて</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちに<ruby>寄り添<rt>よりそ</rt></ruby>い、<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>すことで、お<ruby>互<rt>たが</rt></ruby>いの<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>は<ruby>一層<rt>いっそう</rt></ruby><ruby>深<rt>ふか</rt></ruby>まります。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">曖昧（あいまい）</span>
+        <span class="c-vocab-card__word"><ruby>曖昧<rt>あいまい</rt></ruby>（あいまい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>ambiguous, vague</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「大丈夫」という言葉は、文脈によって意味が曖昧になりやすい。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>ambiguous, vague</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>」という<ruby>言葉<rt>ことば</rt></ruby>は、<ruby>文脈<rt>ぶんみゃく</rt></ruby>によって<ruby>意味<rt>いみ</rt></ruby>が<ruby>曖昧<rt>あいまい</rt></ruby>になりやすい。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">肯定（こうてい）</span>
+        <span class="c-vocab-card__word"><ruby>肯定<rt>こうてい</rt></ruby>（こうてい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>affirmation</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>レジ袋が必要かどうか聞かれて、不要なら「いりません」と明確に答える。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>affirmation</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>レジ<ruby>袋<rt>ぶくろ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>かどうか<ruby>聞<rt>き</rt></ruby>かれて、<ruby>不要<rt>ふよう</rt></ruby>なら「いりません」と<ruby>明確<rt>めいかく</rt></ruby>に<ruby>答<rt>こた</rt></ruby>える。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">気遣い（きづかい）</span>
+        <span class="c-vocab-card__word"><ruby>気遣<rt>きづか</rt></ruby>い（きづかい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>consideration, concern</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>転んだ同僚に「大丈夫ですか」と声をかけ、相手を気遣う。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>consideration, concern</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>転<rt>ころ</rt></ruby>んだ<ruby>同僚<rt>どうりょう</rt></ruby>に「<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか」と<ruby>声<rt>こえ</rt></ruby>をかけ、<ruby>相手<rt>あいて</rt></ruby>を<ruby>気遣<rt>きづか</rt></ruby>う。</p>
     </div>
   </div>
 </div>

@@ -124,32 +124,32 @@ description: "教科書で一番最初に習う「さようなら」。でも実
 <ruby>相手<rt>あいて</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>し、<ruby>心地<rt>ここち</rt></ruby>よい<ruby>距離<rt>きょり</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>保<rt>たも</rt></ruby>ちながら<ruby>挨拶<rt>あいさつ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わすことで、<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>はさらに<ruby>温<rt>あたた</rt></ruby>かく<ruby>安心<rt>あんしん</rt></ruby>できるものになります。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">別れ（わかれ）</span>
+        <span class="c-vocab-card__word"><ruby>別<rt>わか</rt></ruby>れ（わかれ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>parting, farewell</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>卒業式の日、友達と涙を流しながら別れを惜しんだ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>parting, farewell</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>卒業<rt>そつぎょう</rt></ruby><ruby>式<rt>しき</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>と<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>しながら<ruby>別<rt>わか</rt></ruby>れを<ruby>惜<rt>お</rt></ruby>しんだ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">再会（さいかい）</span>
+        <span class="c-vocab-card__word"><ruby>再会<rt>さいかい</rt></ruby>（さいかい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>reunion, meeting again</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「またね」と笑顔で手を振り、次回の再会を約束した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>reunion, meeting again</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「またね」と<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>手<rt>て</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>り、<ruby>次回<rt>じかい</rt></ruby>の<ruby>再会<rt>さいかい</rt></ruby>を<ruby>約束<rt>やくそく</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">挨拶（あいさつ）</span>
+        <span class="c-vocab-card__word"><ruby>挨拶<rt>あいさつ</rt></ruby>（あいさつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>greeting</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>朝起きたら、家族や近所の人に元気よく挨拶を交わす。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>greeting</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きたら、<ruby>家族<rt>かぞく</rt></ruby>や<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>元気<rt>げんき</rt></ruby>よく<ruby>挨拶<rt>あいさつ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わす。</p>
     </div>
   </div>
 </div>

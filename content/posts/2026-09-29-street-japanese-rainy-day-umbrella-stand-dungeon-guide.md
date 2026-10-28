@@ -47,17 +47,17 @@ tags:
 そこには、<ruby>日本<rt>にほん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby><ruby>特有<rt>とくゆう</rt></ruby>の**「3<ruby>大<rt>だい</rt></ruby><ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby>トラップ」**があります。
 
 ```
-【ビニール傘が盗まれる（消える）3つの理由】
+【ビニール<ruby>傘<rt>かさ</rt></ruby>が<ruby>盗<rt>ぬす</rt></ruby>まれる（<ruby>消<rt>き</rt></ruby>える）3つの<ruby>理由<rt>りゆう</rt></ruby>】
 
-①【全員が同じものを持っている（無個性トラップ）】
-  コンビニで売られているビニール傘は、色も形も100%同じ。
-  悪気がなく「あ、これ自分の傘だ」と本気で勘違いして持っていく人が非常に多い！
+①【<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じものを<ruby>持<rt>も</rt></ruby>っている（<ruby>無<rt>む</rt></ruby><ruby>個性<rt>こせい</rt></ruby>トラップ）】
+  コンビニで<ruby>売<rt>う</rt></ruby>られているビニール<ruby>傘<rt>かさ</rt></ruby>は、<ruby>色<rt>いろ</rt></ruby>も<ruby>形<rt>かたち</rt></ruby>も100%<ruby>同<rt>おな</rt></ruby>じ。
+  <ruby>悪気<rt>わるぎ</rt></ruby>がなく「あ、これ<ruby>自分<rt>じぶん</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>だ」と<ruby>本気<rt>ほんき</rt></ruby>で<ruby>勘違<rt>かんちが</rt></ruby>いして<ruby>持<rt>も</rt></ruby>っていく<ruby>人<rt>ひと</rt></ruby>が<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>多<rt>おお</rt></ruby>い！
 
-②【「借りパク」の文化（罪悪感の欠如）】
-  「ちょっと雨宿りに借りるだけ」「どうせ600円の安物だし」「自分も昔盗まれたし」という歪んだ連鎖反応！
+②【「<ruby>借<rt>か</rt></ruby>りパク」の<ruby>文化<rt>ぶんか</rt></ruby>（<ruby>罪悪<rt>ざいあく</rt></ruby><ruby>感<rt>かん</rt></ruby>の<ruby>欠如<rt>けつじょ</rt></ruby>）】
+  「ちょっと<ruby>雨宿<rt>あまやど</rt></ruby>りに<ruby>借<rt>か</rt></ruby>りるだけ」「どうせ600<ruby>円<rt>えん</rt></ruby>の<ruby>安物<rt>やすもの</rt></ruby>だし」「<ruby>自分<rt>じぶん</rt></ruby>も<ruby>昔<rt>むかし</rt></ruby><ruby>盗<rt>ぬす</rt></ruby>まれたし」という<ruby>歪<rt>いが</rt></ruby>んだ<ruby>連鎖<rt>れんさ</rt></ruby><ruby>反応<rt>はんのう</rt></ruby>！
 
-③【使い捨て感覚】
-  年間1億本以上が消費される日本の傘。安いからこそ「粗末に扱ってもいい」という甘えが生じている。
+③【<ruby>使い捨<rt>つかいす</rt></ruby>て<ruby>感覚<rt>かんかく</rt></ruby>】
+  <ruby>年間<rt>ねんかん</rt></ruby>1<ruby>億<rt>おく</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>が<ruby>消費<rt>しょうひ</rt></ruby>される<ruby>日本<rt>にほん</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>。<ruby>安<rt>やす</rt></ruby>いからこそ「<ruby>粗末<rt>そまつ</rt></ruby>に<ruby>扱<rt>あつか</rt></ruby>ってもいい」という<ruby>甘<rt>あま</rt></ruby>えが<ruby>生<rt>しょう</rt></ruby>じている。
 ```
 
 ### 💡 <ruby>対策<rt>たいさく</rt></ruby>：ビニール<ruby>傘<rt>かさ</rt></ruby>の<ruby>持<rt>も</rt></ruby>ち<ruby>手<rt>しゅ</rt></ruby>に「マスキングテープ」を<ruby>巻<rt>ま</rt></ruby>け！
@@ -71,11 +71,11 @@ tags:
 <ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>にデパートやホテル、スーパーの<ruby>入り口<rt>いりくち</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ると、<ruby>必<rt>かなら</rt></ruby>ず**「<ruby>細長<rt>ほそなが</rt></ruby>いビニール<ruby>袋<rt>ぶくろ</rt></ruby>のスタンド（<ruby>傘<rt>かさ</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby><ruby>機<rt>き</rt></ruby>）」**が<ruby>設置<rt>せっち</rt></ruby>されています。
 
 ```
-【傘袋のスマートな使い方】
-1. 建物に入る前に、外で傘を2〜3回振って、余分な水滴をしっかり落とす。
-2. 傘袋スタンドの穴に、傘の先端を上からスッと差し込む。
-3. 手前にサッと引くと、傘全体にビニール袋が自動でピッタリ装着される！
-4. 買い物が終わって店を出るときは、出口の回収箱にビニール袋をポイッと捨てる！
+【<ruby>傘<rt>かさ</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>のスマートな<ruby>使い方<rt>つかいかた</rt></ruby>】
+1. <ruby>建物<rt>たてもの</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>外<rt>そと</rt></ruby>で<ruby>傘<rt>かさ</rt></ruby>を2〜3<ruby>回<rt>かい</rt></ruby><ruby>振<rt>ふ</rt></ruby>って、<ruby>余分<rt>よぶん</rt></ruby>な<ruby>水滴<rt>すいてき</rt></ruby>をしっかり<ruby>落<rt>お</rt></ruby>とす。
+2. <ruby>傘<rt>かさ</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>スタンドの<ruby>穴<rt>あな</rt></ruby>に、<ruby>傘<rt>かさ</rt></ruby>の<ruby>先端<rt>せんたん</rt></ruby>を<ruby>上<rt>うえ</rt></ruby>からスッと<ruby>差し込<rt>さしこ</rt></ruby>む。
+3. <ruby>手前<rt>てまえ</rt></ruby>にサッと<ruby>引<rt>ひ</rt></ruby>くと、<ruby>傘<rt>かさ</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>にビニール<ruby>袋<rt>ぶくろ</rt></ruby>が<ruby>自動<rt>じどう</rt></ruby>でピッタリ<ruby>装着<rt>そうちゃく</rt></ruby>される！
+4. <ruby>買い物<rt>かいもの</rt></ruby>が<ruby>終<rt>お</rt></ruby>わって<ruby>店<rt>みせ</rt></ruby>を<ruby>出<rt>で</rt></ruby>るときは、<ruby>出口<rt>でぐち</rt></ruby>の<ruby>回収<rt>かいしゅう</rt></ruby><ruby>箱<rt>ばこ</rt></ruby>にビニール<ruby>袋<rt>ぶくろ</rt></ruby>をポイッと<ruby>捨<rt>す</rt></ruby>てる！
 ```
 
 ### なぜ<ruby>傘<rt>かさ</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>をつけなければいけないのか？
@@ -105,13 +105,13 @@ tags:
 <ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の<ruby>通勤<rt>つうきん</rt></ruby><ruby>電車<rt>でんしゃ</rt></ruby>では、<ruby>濡<rt>ぬ</rt></ruby>れた<ruby>傘<rt>かさ</rt></ruby>の<ruby>扱<rt>あつか</rt></ruby>いを<ruby>巡<rt>めぐ</rt></ruby>って<ruby>乗客<rt>じょうきゃく</rt></ruby><ruby>同士<rt>どうし</rt></ruby>のトラブルが<ruby>多発<rt>たはつ</rt></ruby>します。
 
 ```
-【電車内での傘マナー3大鉄則】
-1. 【傘を自分の身体の正面で垂直に立てて持つ】
-   傘を斜めに持ったり腕に掛けたりすると、隣の人のズボンやスカートに濡れた傘がペタッと触れてトラブルになります！
-2. 【水滴をバサバサと車内で振り払わない】
-   乗車前に駅のホームでしっかり水滴を落としてから乗り込みましょう。
-3. 【座席に座るときは両足の間に挟む】
-   床に先端をつけて両手で固定し、周囲の人にかからないように配慮します。
+【<ruby>電車<rt>でんしゃ</rt></ruby><ruby>内<rt>ない</rt></ruby>での<ruby>傘<rt>かさ</rt></ruby>マナー3<ruby>大<rt>だい</rt></ruby><ruby>鉄則<rt>てっそく</rt></ruby>】
+1. 【<ruby>傘<rt>かさ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>の<ruby>身体<rt>しんたい</rt></ruby>の<ruby>正面<rt>しょうめん</rt></ruby>で<ruby>垂直<rt>すいちょく</rt></ruby>に<ruby>立<rt>た</rt></ruby>てて<ruby>持<rt>も</rt></ruby>つ】
+   <ruby>傘<rt>かさ</rt></ruby>を<ruby>斜<rt>なな</rt></ruby>めに<ruby>持<rt>も</rt></ruby>ったり<ruby>腕<rt>うで</rt></ruby>に<ruby>掛<rt>か</rt></ruby>けたりすると、<ruby>隣<rt>となり</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>のズボンやスカートに<ruby>濡<rt>ぬ</rt></ruby>れた<ruby>傘<rt>かさ</rt></ruby>がペタッと<ruby>触<rt>ふ</rt></ruby>れてトラブルになります！
+2. 【<ruby>水滴<rt>すいてき</rt></ruby>をバサバサと<ruby>車内<rt>しゃない</rt></ruby>で<ruby>振り払<rt>ふりはら</rt></ruby>わない】
+   <ruby>乗車<rt>じょうしゃ</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>のホームでしっかり<ruby>水滴<rt>すいてき</rt></ruby>を<ruby>落<rt>お</rt></ruby>としてから<ruby>乗り込<rt>のりこ</rt></ruby>みましょう。
+3. 【<ruby>座席<rt>ざせき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>るときは<ruby>両足<rt>りょうあし</rt></ruby>の<ruby>間<rt>ま</rt></ruby>に<ruby>挟<rt>はさ</rt></ruby>む】
+   <ruby>床<rt>ゆか</rt></ruby>に<ruby>先端<rt>せんたん</rt></ruby>をつけて<ruby>両手<rt>りょうて</rt></ruby>で<ruby>固定<rt>こてい</rt></ruby>し、<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>にかからないように<ruby>配慮<rt>はいりょ</rt></ruby>します。
 ```
 
 ---
@@ -130,20 +130,20 @@ tags:
 あなたの<ruby>傘<rt>かさ</rt></ruby>サバイバル<ruby>知識<rt>ちしき</rt></ruby>を<ruby>試<rt>ため</rt></ruby>してみましょう！
 
 ```
-【第1問】
-コンビニで買った透明なビニール傘を、居酒屋の傘立てで他人に間違えて持って行かれないようにする最強の工夫は？
-① 持ち手にカラフルなシールやテープを貼って目印をつける
-② 傘立ての一番奥深くに隠す
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+コンビニで<ruby>買<rt>か</rt></ruby>った<ruby>透明<rt>とうめい</rt></ruby>なビニール<ruby>傘<rt>かさ</rt></ruby>を、<ruby>居酒屋<rt>いざかや</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>てで<ruby>他人<rt>たにん</rt></ruby>に<ruby>間違<rt>まちが</rt></ruby>えて<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>かれないようにする<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>工夫<rt>くふう</rt></ruby>は？
+① <ruby>持<rt>も</rt></ruby>ち<ruby>手<rt>しゅ</rt></ruby>にカラフルなシールやテープを<ruby>貼<rt>は</rt></ruby>って<ruby>目印<rt>めじるし</rt></ruby>をつける
+② <ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>ての<ruby>一番<rt>いちばん</rt></ruby><ruby>奥深<rt>おくふか</rt></ruby>くに<ruby>隠<rt>かく</rt></ruby>す
 
-【第2問】
-雨の日にデパートの入り口に設置されている「傘袋（細長いビニール）」の主な目的は？
-① 傘を盗まれないようにするため
-② 店内の床が濡れて他のお客様が滑って転倒するのを防ぐため
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>にデパートの<ruby>入り口<rt>いりくち</rt></ruby>に<ruby>設置<rt>せっち</rt></ruby>されている「<ruby>傘<rt>かさ</rt></ruby><ruby>袋<rt>ぶくろ</rt></ruby>（<ruby>細長<rt>ほそなが</rt></ruby>いビニール）」の<ruby>主<rt>おも</rt></ruby>な<ruby>目的<rt>もくてき</rt></ruby>は？
+① <ruby>傘<rt>かさ</rt></ruby>を<ruby>盗<rt>ぬす</rt></ruby>まれないようにするため
+② <ruby>店内<rt>てんない</rt></ruby>の<ruby>床<rt>ゆか</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れて<ruby>他<rt>た</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>が<ruby>滑<rt>すべ</rt></ruby>って<ruby>転倒<rt>てんとう</rt></ruby>するのを<ruby>防<rt>ふせ</rt></ruby>ぐため
 
-【第3問】
-混雑した電車の中で濡れた傘を持つとき、最も配慮のある持ち方は？
-① 腕にぶら下げて横に揺らす
-② 身体の正面で傘を垂直に立て、床に先端をつけて両足の間に挟む
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>混雑<rt>こんざつ</rt></ruby>した<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>濡<rt>ぬ</rt></ruby>れた<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つとき、<ruby>最<rt>もっと</rt></ruby>も<ruby>配慮<rt>はいりょ</rt></ruby>のある<ruby>持<rt>も</rt></ruby>ち<ruby>方<rt>かた</rt></ruby>は？
+① <ruby>腕<rt>うで</rt></ruby>にぶら<ruby>下<rt>さ</rt></ruby>げて<ruby>横<rt>よこ</rt></ruby>に<ruby>揺<rt>ゆ</rt></ruby>らす
+② <ruby>身体<rt>しんたい</rt></ruby>の<ruby>正面<rt>しょうめん</rt></ruby>で<ruby>傘<rt>かさ</rt></ruby>を<ruby>垂直<rt>すいちょく</rt></ruby>に<ruby>立<rt>た</rt></ruby>て、<ruby>床<rt>ゆか</rt></ruby>に<ruby>先端<rt>せんたん</rt></ruby>をつけて<ruby>両足<rt>りょうあし</rt></ruby>の<ruby>間<rt>ま</rt></ruby>に<ruby>挟<rt>はさ</rt></ruby>む
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -167,32 +167,32 @@ tags:
 ちょっとしたマナーと<ruby>知恵<rt>ちえ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っていれば、<ruby>日本<rt>にほん</rt></ruby>の<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>は<ruby>情緒<rt>じょうちょ</rt></ruby><ruby>豊<rt>ゆた</rt></ruby>かでとても<ruby>風情<rt>ふぜい</rt></ruby>がある<ruby>美<rt>うつく</rt></ruby>しい<ruby>景色<rt>けしき</rt></ruby>に<ruby>変<rt>か</rt></ruby>わります。お<ruby>気に入<rt>きにい</rt></ruby>りの<ruby>傘<rt>かさ</rt></ruby>とともに、<ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>の<ruby>街<rt>まち</rt></ruby><ruby>歩<rt>ある</rt></ruby>きを<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">傘立て（かさたて）</span>
+        <span class="c-vocab-card__word"><ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>て（かさたて）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>umbrella stand</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>店頭の傘立てに鍵付きの番号札があったので、施錠して預けた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>umbrella stand</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>店頭<rt>てんとう</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby><ruby>立<rt>だ</rt></ruby>てに<ruby>鍵<rt>かぎ</rt></ruby><ruby>付<rt>つ</rt></ruby>きの<ruby>番号<rt>ばんごう</rt></ruby><ruby>札<rt>さつ</rt></ruby>があったので、<ruby>施錠<rt>せじょう</rt></ruby>して<ruby>預<rt>あづ</rt></ruby>けた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">ビニール袋（ビニールぶくろ）</span>
+        <span class="c-vocab-card__word">ビニール<ruby>袋<rt>ぶくろ</rt></ruby>（ビニールぶくろ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>plastic bag</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>雨の日はお店の入口で、濡れた傘を入れる細長いビニール袋をもらう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>plastic bag</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>雨<rt>あめ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>はお<ruby>店<rt>みせ</rt></ruby>の<ruby>入口<rt>いりぐち</rt></ruby>で、<ruby>濡<rt>ぬ</rt></ruby>れた<ruby>傘<rt>かさ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる<ruby>細長<rt>ほそなが</rt></ruby>いビニール<ruby>袋<rt>ぶくろ</rt></ruby>をもらう。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">盗難（とうなん）</span>
+        <span class="c-vocab-card__word"><ruby>盗難<rt>とうなん</rt></ruby>（とうなん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>theft</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>ビニール傘の取り違えや盗難を防ぐため、目印のシールを貼っておく。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>theft</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>ビニール<ruby>傘<rt>かさ</rt></ruby>の<ruby>取り違<rt>とりちが</rt></ruby>えや<ruby>盗難<rt>とうなん</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐため、<ruby>目印<rt>めじるし</rt></ruby>のシールを<ruby>貼<rt>は</rt></ruby>っておく。</p>
     </div>
   </div>
 </div>

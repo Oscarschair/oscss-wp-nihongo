@@ -79,7 +79,7 @@ description: "海外では常識の「お釣りは取っておいて（Keep the 
 > 📦 **<ruby>配達員<rt>はいたついん</rt></ruby>さん**：「<ruby>合計<rt>ごうけい</rt></ruby>で4,680<ruby>円<rt>えん</rt></ruby>になります。」
 > 🚗 **クルマ**：「（5,000<ruby>円<rt>えん</rt></ruby><ruby>札<rt>さつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して……）320<ruby>円<rt>えん</rt></ruby>のお<ruby>釣<rt>つ</rt></ruby>りは<ruby>取<rt>と</rt></ruby>っておいてください！ いつも<ruby>重<rt>おも</rt></ruby>い<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>階段<rt>かいだん</rt></ruby>で<ruby>運<rt>はこ</rt></ruby>んでくれてありがとう！」
 > 📦 **<ruby>配達員<rt>はいたついん</rt></ruby>さん**：「<ruby>滅相<rt>めっそう</rt></ruby>もございません！ <ruby>当社<rt>とうしゃ</rt></ruby>ではお<ruby>客様<rt>きゃくさま</rt></ruby>からのお<ruby>心付<rt>こころづ</rt></ruby>けは<ruby>一切<rt>いっさい</rt></ruby><ruby>受け取<rt>うけと</rt></ruby>れない<ruby>決<rt>き</rt></ruby>まりになっております！ 320<ruby>円<rt>えん</rt></ruby>、しっかりお<ruby>受け取<rt>うけと</rt></ruby>りください！」
-> 🚗 **クルマ**：「ええっ！？ <ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちなのに、<ruby>頑<rt>*</rt></ruby>なに<ruby>断<rt>ことわ</rt></ruby>るんですか！？」
+> 🚗 **クルマ**：「ええっ！？ <ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちなのに、頑なに<ruby>断<rt>ことわ</rt></ruby>るんですか！？」
 > 📦 **<ruby>配達員<rt>はいたついん</rt></ruby>さん**：「お<ruby>気持<rt>きも</rt></ruby>ちだけで<ruby>胸<rt>むね</rt></ruby>がいっぱいです！ その『ありがとう』の<ruby>一言<rt>ひとこと</rt></ruby>が<ruby>最高<rt>さいこう</rt></ruby>のエネルギーになります！」
 
 #### <ruby>日本<rt>にほん</rt></ruby>でチップを<ruby>渡<rt>わた</rt></ruby>すと「<ruby>迷惑<rt>めいわく</rt></ruby>」になってしまう3つの<ruby>理由<rt>りゆう</rt></ruby>
@@ -107,32 +107,32 @@ A: <ruby>日本<rt>にほん</rt></ruby>の<ruby>労働<rt>ろうどう</rt></ru
 A: <ruby>高級<rt>こうきゅう</rt></ruby>ホテルであっても<ruby>原則<rt>げんそく</rt></ruby><ruby>不要<rt>ふよう</rt></ruby>です。<ruby>宿泊<rt>しゅくはく</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>やサービス<ruby>料<rt>りょう</rt></ruby>（10〜15%）の<ruby>中<rt>なか</rt></ruby>に<ruby>正規<rt>せいき</rt></ruby>のサービス<ruby>対価<rt>たいか</rt></ruby>が<ruby>含<rt>ふく</rt></ruby>まれています。<ruby>笑顔<rt>えがお</rt></ruby>で「ありがとうございます」と<ruby>会釈<rt>えしゃく</rt></ruby>するだけで<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>気持<rt>きも</rt></ruby>ちが<ruby>伝<rt>つた</rt></ruby>わります。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">代引き（だいびき）</span>
+        <span class="c-vocab-card__word"><ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>き（だいびき）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>cash on delivery</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>ネット通販で注文した商品を、配達員にお金を払って代引きで受け取った。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>cash on delivery</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>ネット<ruby>通販<rt>つうはん</rt></ruby>で<ruby>注文<rt>ちゅうもん</rt></ruby>した<ruby>商品<rt>しょうひん</rt></ruby>を、<ruby>配達員<rt>はいたついん</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>って<ruby>代<rt>だい</rt></ruby><ruby>引<rt>ひ</rt></ruby>きで<ruby>受け取<rt>うけと</rt></ruby>った。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お釣り（おつり）</span>
+        <span class="c-vocab-card__word">お<ruby>釣<rt>つ</rt></ruby>り（おつり）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>change (money)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>小銭がなかったので千円札を出し、レジでお釣りをもらった。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>change (money)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>小銭<rt>こぜに</rt></ruby>がなかったので<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>札<rt>さつ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>し、レジでお<ruby>釣<rt>つ</rt></ruby>りをもらった。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">心付け（こころづけ）</span>
+        <span class="c-vocab-card__word"><ruby>心付<rt>こころづ</rt></ruby>け（こころづけ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>tip, gratuity</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本にはチップの習慣がないため、タクシーでお釣りの心付けを断られた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>tip, gratuity</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>にはチップの<ruby>習慣<rt>しゅうかん</rt></ruby>がないため、タクシーでお<ruby>釣<rt>つ</rt></ruby>りの<ruby>心付<rt>こころづ</rt></ruby>けを<ruby>断<rt>ことわ</rt></ruby>られた。</p>
     </div>
   </div>
 </div>

@@ -69,32 +69,32 @@ A: 「わかりました」または「かしこまりました」「<ruby>承�
 <ruby>言葉<rt>ことば</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>を<ruby>頭<rt>あたま</rt></ruby>で<ruby>覚<rt>おぼ</rt></ruby>えるだけでなく、<ruby>相手<rt>あいて</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby><ruby>性<rt>せい</rt></ruby>や<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>距離<rt>きょり</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じて<ruby>言葉<rt>ことば</rt></ruby>を<ruby>選<rt>えら</rt></ruby>べるようになることこそが、<ruby>生<rt>い</rt></ruby>きた<ruby>語学<rt>ごがく</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby>の<ruby>醍醐味<rt>だいごみ</rt></ruby>です。「わかる」の<ruby>持<rt>も</rt></ruby>つ<ruby>共感<rt>きょうかん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>と、「<ruby>知<rt>し</rt></ruby>る」の<ruby>持<rt>も</rt></ruby>つ<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>事実<rt>じじつ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>使い分<rt>つかいわ</rt></ruby>け、より<ruby>豊<rt>ゆた</rt></ruby>かなコミュニケーションを<ruby>築<rt>きず</rt></ruby>いていきましょう！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">理解（りかい）</span>
+        <span class="c-vocab-card__word"><ruby>理解<rt>りかい</rt></ruby>（りかい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>understanding, comprehension</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>先生の説明をしっかり聞いて、文法のルールを正しく理解した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>understanding, comprehension</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>先生<rt>せんせい</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>をしっかり<ruby>聞<rt>き</rt></ruby>いて、<ruby>文法<rt>ぶんぽう</rt></ruby>のルールを<ruby>正<rt>ただ</rt></ruby>しく<ruby>理解<rt>りかい</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">知識（ちしき）</span>
+        <span class="c-vocab-card__word"><ruby>知識<rt>ちしき</rt></ruby>（ちしき）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>knowledge, information</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>本をたくさん読んで、幅広い分野の知識を身につけたい。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>knowledge, information</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>本<rt>ほん</rt></ruby>をたくさん<ruby>読<rt>よ</rt></ruby>んで、<ruby>幅広<rt>はばひろ</rt></ruby>い<ruby>分野<rt>ぶんや</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけたい。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">経験（けいけん）</span>
+        <span class="c-vocab-card__word"><ruby>経験<rt>けいけん</rt></ruby>（けいけん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>experience</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本でアルバイトをした経験が、今の仕事にとても役立っている。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>experience</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>でアルバイトをした<ruby>経験<rt>けいけん</rt></ruby>が、<ruby>今<rt>いま</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>にとても<ruby>役立<rt>やくだ</rt></ruby>っている。</p>
     </div>
   </div>
 </div>

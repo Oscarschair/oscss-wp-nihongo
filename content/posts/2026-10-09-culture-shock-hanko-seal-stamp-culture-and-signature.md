@@ -46,20 +46,20 @@ tags:
 <ruby>日本人<rt>にっぽんじん</rt></ruby>はハンコを1<ruby>本<rt>ほん</rt></ruby>だけ<ruby>持<rt>も</rt></ruby>っているわけではありません。<ruby>大人<rt>おとな</rt></ruby>の<ruby>日本人<rt>にっぽんじん</rt></ruby>は、<ruby>用途<rt>ようと</rt></ruby>や<ruby>重要<rt>じゅうよう</rt></ruby><ruby>度<rt>ど</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じて**「3<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>異<rt>こと</rt></ruby>なるハンコ」**を<ruby>厳格<rt>げんかく</rt></ruby>に<ruby>使い分<rt>つかいわ</rt></ruby>けています！
 
 ```
-【日本の印鑑ピラミッド】
+【<ruby>日本<rt>にほん</rt></ruby>の<ruby>印鑑<rt>いんかん</rt></ruby>ピラミッド】
 
 ┌─────────────────────────────────────────────────────────────┐
-│ ★【第1級：実印（じついん）】                                │
-│   市役所に登録した世界に1本だけの印鑑。「印鑑証明書」とセットで  │
-│   人生最大の契約（不動産購入、遺産相続、自動車購入）に使う。     │
+│ ★【<ruby>第<rt>だい</rt></ruby>1<ruby>級<rt>きゅう</rt></ruby>：<ruby>実印<rt>じついん</rt></ruby>（じついん）】                                │
+│   <ruby>市役所<rt>しやくしょ</rt></ruby>に<ruby>登録<rt>とうろく</rt></ruby>した<ruby>世界<rt>せかい</rt></ruby>に1<ruby>本<rt>ほん</rt></ruby>だけの<ruby>印鑑<rt>いんかん</rt></ruby>。「<ruby>印鑑<rt>いんかん</rt></ruby><ruby>証明<rt>しょうめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>」とセットで  │
+│   <ruby>人生<rt>じんせい</rt></ruby><ruby>最大<rt>さいだい</rt></ruby>の<ruby>契約<rt>けいやく</rt></ruby>（<ruby>不動産<rt>ふどうさん</rt></ruby><ruby>購入<rt>こうにゅう</rt></ruby>、<ruby>遺産<rt>いさん</rt></ruby><ruby>相続<rt>そうぞく</rt></ruby>、<ruby>自動車<rt>じどうしゃ</rt></ruby><ruby>購入<rt>こうにゅう</rt></ruby>）に<ruby>使<rt>つか</rt></ruby>う。     │
 ├─────────────────────────────────────────────────────────────┤
-│ ★【第2級：銀行印（ぎんこういん）】                          │
-│   銀行や証券会社に届け出た印鑑。口座開設や高額引き出しに使う。   │
-│   実印とは絶対に分けて保管するのが防犯上の鉄則！                │
+│ ★【<ruby>第<rt>だい</rt></ruby>2<ruby>級<rt>きゅう</rt></ruby>：<ruby>銀行<rt>ぎんこう</rt></ruby><ruby>印<rt>しるし</rt></ruby>（ぎんこういん）】                          │
+│   <ruby>銀行<rt>ぎんこう</rt></ruby>や<ruby>証券<rt>しょうけん</rt></ruby><ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>届け出<rt>とどけで</rt></ruby>た<ruby>印鑑<rt>いんかん</rt></ruby>。<ruby>口座<rt>こうざ</rt></ruby><ruby>開設<rt>かいせつ</rt></ruby>や<ruby>高額<rt>こうがく</rt></ruby><ruby>引き出<rt>ひきだ</rt></ruby>しに<ruby>使<rt>つか</rt></ruby>う。   │
+│   <ruby>実印<rt>じついん</rt></ruby>とは<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>分<rt>わ</rt></ruby>けて<ruby>保管<rt>ほかん</rt></ruby>するのが<ruby>防犯<rt>ぼうはん</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>鉄則<rt>てっそく</rt></ruby>！                │
 ├─────────────────────────────────────────────────────────────┤
-│ ★【第3級：認印（みとめいん）】                              │
-│   郵便の受け取り、役所の簡単な手続き、社内回覧書類の確認など、   │
-│   日常の「見ましたよ」という確認に気軽に押すハンコ。            │
+│ ★【<ruby>第<rt>だい</rt></ruby>3<ruby>級<rt>きゅう</rt></ruby>：<ruby>認印<rt>みとめいん</rt></ruby>（みとめいん）】                              │
+│   <ruby>郵便<rt>ゆうびん</rt></ruby>の<ruby>受け取<rt>うけと</rt></ruby>り、<ruby>役所<rt>やくしょ</rt></ruby>の<ruby>簡単<rt>かんたん</rt></ruby>な<ruby>手続<rt>てつづ</rt></ruby>き、<ruby>社内<rt>しゃない</rt></ruby><ruby>回覧<rt>かいらん</rt></ruby><ruby>書類<rt>しょるい</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>など、   │
+│   <ruby>日常<rt>にちじょう</rt></ruby>の「<ruby>見<rt>み</rt></ruby>ましたよ」という<ruby>確認<rt>かくにん</rt></ruby>に<ruby>気軽<rt>きがる</rt></ruby>に<ruby>押<rt>お</rt></ruby>すハンコ。            │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -90,14 +90,14 @@ tags:
 「100<ruby>均<rt>ひとし</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>のハンコがない！」と<ruby>絶望<rt>ぜつぼう</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>はありません。<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>日本<rt>にほん</rt></ruby>で<ruby>印鑑<rt>いんかん</rt></ruby>を<ruby>手<rt>て</rt></ruby>に<ruby>入<rt>い</rt></ruby>れるスマートな<ruby>方法<rt>ほうほう</rt></ruby>があります。
 
 ```
-【外国人の印鑑作成ルート】
-① はんこ屋さん（街の印鑑専門店やネット通販）でオーダーメイド
-   └ カタカナで「クルマ」「オスカー」、またはアルファベット「OSCAR」で作成可能！
-② 即日作成ならネット印鑑通販（ハンコヤドットコム等）
-   └ 最短翌日〜2日で自宅に届く。価格も1,500円〜3,000円程度とリーズナブル！
-③ 市役所での登録基準を確認
-   └ 実印として登録する場合、在留カードに記載されている「本名」と
-      一致している必要があるため、アルファベットか通称名のカタカナにする。
+【<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>の<ruby>印鑑<rt>いんかん</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>ルート】
+① はんこ<ruby>屋<rt>や</rt></ruby>さん（<ruby>街<rt>まち</rt></ruby>の<ruby>印鑑<rt>いんかん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>店<rt>てん</rt></ruby>やネット<ruby>通販<rt>つうはん</rt></ruby>）でオーダーメイド
+   └ カタカナで「クルマ」「オスカー」、またはアルファベット「OSCAR」で<ruby>作成<rt>さくせい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>！
+② <ruby>即日<rt>そくじつ</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>ならネット<ruby>印鑑<rt>いんかん</rt></ruby><ruby>通販<rt>つうはん</rt></ruby>（ハンコヤドットコム<ruby>等<rt>とう</rt></ruby>）
+   └ <ruby>最短<rt>さいたん</rt></ruby><ruby>翌日<rt>よくじつ</rt></ruby>〜2<ruby>日<rt>にち</rt></ruby>で<ruby>自宅<rt>じたく</rt></ruby>に<ruby>届<rt>とど</rt></ruby>く。<ruby>価格<rt>かかく</rt></ruby>も1,500<ruby>円<rt>えん</rt></ruby>〜3,000<ruby>円<rt>えん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>とリーズナブル！
+③ <ruby>市役所<rt>しやくしょ</rt></ruby>での<ruby>登録<rt>とうろく</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>
+   └ <ruby>実印<rt>じついん</rt></ruby>として<ruby>登録<rt>とうろく</rt></ruby>する<ruby>場合<rt>ばあい</rt></ruby>、<ruby>在留<rt>ざいりゅう</rt></ruby>カードに<ruby>記載<rt>きさい</rt></ruby>されている「<ruby>本名<rt>ほんみょう</rt></ruby>」と
+      <ruby>一致<rt>いっち</rt></ruby>している<ruby>必要<rt>ひつよう</rt></ruby>があるため、アルファベットか<ruby>通称<rt>つうしょう</rt></ruby><ruby>名<rt>めい</rt></ruby>のカタカナにする。
 ```
 
 |<ruby>印鑑<rt>いんかん</rt></ruby>の<ruby>刻印<rt>こくいん</rt></ruby>タイプ|おすすめの<ruby>用途<rt>ようと</rt></ruby>|<ruby>注意<rt>ちゅうい</rt></ruby><ruby>点<rt>てん</rt></ruby>・メリット|
@@ -131,32 +131,32 @@ tags:
 <ruby>最初<rt>さいしょ</rt></ruby>は「<ruby>面倒<rt>めんどう</rt></ruby>くさい」と<ruby>感<rt>かん</rt></ruby>じるハンコ<ruby>文化<rt>ぶんか</rt></ruby>ですが、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>彫<rt>ほ</rt></ruby>られた<ruby>世界<rt>せかい</rt></ruby>で<ruby>一<rt>いち</rt></ruby><ruby>本<rt>ほん</rt></ruby>だけの<ruby>印鑑<rt>いんかん</rt></ruby>を<ruby>手<rt>て</rt></ruby>にし、<ruby>朱肉<rt>しゅにく</rt></ruby>をつけて<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>に「ポンッ」と<ruby>押<rt>お</rt></ruby>す<ruby>瞬間<rt>しゅんかん</rt></ruby>は、<ruby>不思議<rt>ふしぎ</rt></ruby>と<ruby>誇<rt>ほこ</rt></ruby>らしく、<ruby>日本<rt>にほん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>一員<rt>いちいん</rt></ruby>として<ruby>認<rt>みと</rt></ruby>められたような<ruby>温<rt>あたた</rt></ruby>かい<ruby>感慨<rt>かんがい</rt></ruby>が<ruby>湧<rt>わ</rt></ruby>いてくるはずですよ！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">印鑑（いんかん）</span>
+        <span class="c-vocab-card__word"><ruby>印鑑<rt>いんかん</rt></ruby>（いんかん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>personal seal, stamp</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>銀行で新しい口座を開設するため、持参した印鑑を押印した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>personal seal, stamp</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>口座<rt>こうざ</rt></ruby>を<ruby>開設<rt>かいせつ</rt></ruby>するため、<ruby>持参<rt>じさん</rt></ruby>した<ruby>印鑑<rt>いんかん</rt></ruby>を<ruby>押印<rt>おういん</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">押印（おういん）</span>
+        <span class="c-vocab-card__word"><ruby>押印<rt>おういん</rt></ruby>（おういん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>affixing a seal</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>契約書の内容をしっかり確認した上で、署名と押印を行った。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>affixing a seal</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>契約<rt>けいやく</rt></ruby><ruby>書<rt>しょ</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>をしっかり<ruby>確認<rt>かくにん</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>で、<ruby>署名<rt>しょめい</rt></ruby>と<ruby>押印<rt>おういん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>った。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">署名（しょめい）</span>
+        <span class="c-vocab-card__word"><ruby>署名<rt>しょめい</rt></ruby>（しょめい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>signature</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>クレジットカード決済のレシートに、漢字で丁寧に署名した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>signature</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>クレジットカード<ruby>決済<rt>けっさい</rt></ruby>のレシートに、<ruby>漢字<rt>かんじ</rt></ruby>で<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>署名<rt>しょめい</rt></ruby>した。</p>
     </div>
   </div>
 </div>

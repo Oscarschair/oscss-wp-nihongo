@@ -14,8 +14,7 @@ tags:
   - JLPT N3
   - JLPT N2
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>評価<rt>ひょうか</rt></ruby>が180<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>わる「**[『〜らしい』VS『〜っぽい』VS『〜みたい』のニュアンスの違い](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-11-japanese-comparing-rashii-vs-ppoi-vs-mitai-nuance-differences.md)**」を<ruby>徹底<rt>てってい</rt></ruby><ruby>比較<rt>ひかく</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>評価<rt>ひょうか</rt></ruby>が180<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>わる「**[『〜らしい』VS『〜っぽい』VS『〜みたい』のニュアンスの<ruby>違<rt>ちが</rt></ruby>い](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-11-japanese-comparing-rashii-vs-ppoi-vs-mitai-nuance-differences.md)**」を<ruby>徹底<rt>てってい</rt></ruby><ruby>比較<rt>ひかく</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本語<rt>にほんご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>中級<rt>ちゅうきゅう</rt></ruby>（JLPT N3）レベルに<ruby>突入<rt>とつにゅう</rt></ruby>したときに<ruby>必<rt>かなら</rt></ruby>ず<ruby>直面<rt>ちょくめん</rt></ruby>する<ruby>最大<rt>さいだい</rt></ruby>の<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>関門<rt>かんもん</rt></ruby>、**「<ruby>目的<rt>もくてき</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す2<ruby>大<rt>だい</rt></ruby><ruby>文法<rt>ぶんぽう</rt></ruby>：〜ために vs 〜ように」**を<ruby>完全<rt>かんぜん</rt></ruby>マスターします！
 
@@ -27,15 +26,15 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「ために」VS「ように」<ruby>対<rt>たい</rt></ruby><ruby>比<rt>ひ</rt></ruby>マップ
 
 ```
-【〜ために：強い意志（自分の意志で直接やる行動・ターゲット）】
-  ★「家を買うために、毎月5万円貯金する。」（家を買う＝自分の意志で決めて行動する意志動詞）
-  ★前後の主語は必ず【同じ人物（自分）】！
-  ★「何のためにやるのか」という明確な標的・目的にフォーカス！
+【〜ために：<ruby>強<rt>つよ</rt></ruby>い<ruby>意志<rt>いし</rt></ruby>（<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意志<rt>いし</rt></ruby>で<ruby>直接<rt>ちょくせつ</rt></ruby>やる<ruby>行動<rt>こうどう</rt></ruby>・ターゲット）】
+  ★「<ruby>家<rt>いえ</rt></ruby>を<ruby>買<rt>か</rt></ruby>うために、<ruby>毎月<rt>まいつき</rt></ruby>5<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>貯金<rt>ちょきん</rt></ruby>する。」（<ruby>家<rt>いえ</rt></ruby>を<ruby>買<rt>か</rt></ruby>う＝<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意志<rt>いし</rt></ruby>で<ruby>決<rt>き</rt></ruby>めて<ruby>行動<rt>こうどう</rt></ruby>する<ruby>意志<rt>いし</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>）
+  ★<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>主語<rt>しゅご</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず【<ruby>同<rt>おな</rt></ruby>じ<ruby>人物<rt>じんぶつ</rt></ruby>（<ruby>自分<rt>じぶん</rt></ruby>）】！
+  ★「<ruby>何<rt>なに</rt></ruby>のためにやるのか」という<ruby>明確<rt>めいかく</rt></ruby>な<ruby>標的<rt>ひょうてき</rt></ruby>・<ruby>目的<rt>もくてき</rt></ruby>にフォーカス！
 
-【〜ように：変化・状態・目標（自分では直接操作できない状態を目指す）】
-  ★「家が買えるように、毎月5万円貯金する。」（買える＝可能動詞・状態）
-  ★「風邪をひかないように、マスクをする。」（ひかない＝無意志・否定）
-  ★前後の主語が【違ってもOK】！（例：「子どもが勉強するように、机を買った」）
+【〜ように：<ruby>変化<rt>へんか</rt></ruby>・<ruby>状態<rt>じょうたい</rt></ruby>・<ruby>目標<rt>もくひょう</rt></ruby>（<ruby>自分<rt>じぶん</rt></ruby>では<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>操作<rt>そうさ</rt></ruby>できない<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>す）】
+  ★「<ruby>家<rt>いえ</rt></ruby>が<ruby>買<rt>か</rt></ruby>えるように、<ruby>毎月<rt>まいつき</rt></ruby>5<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>貯金<rt>ちょきん</rt></ruby>する。」（<ruby>買<rt>か</rt></ruby>える＝<ruby>可能<rt>かのう</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>・<ruby>状態<rt>じょうたい</rt></ruby>）
+  ★「<ruby>風邪<rt>かぜ</rt></ruby>をひかないように、マスクをする。」（ひかない＝<ruby>無<rt>む</rt></ruby><ruby>意志<rt>いし</rt></ruby>・<ruby>否定<rt>ひてい</rt></ruby>）
+  ★<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>主語<rt>しゅご</rt></ruby>が【<ruby>違<rt>ちが</rt></ruby>ってもOK】！（<ruby>例<rt>れい</rt></ruby>：「<ruby>子<rt>こ</rt></ruby>どもが<ruby>勉強<rt>べんきょう</rt></ruby>するように、<ruby>机<rt>つくえ</rt></ruby>を<ruby>買<rt>か</rt></ruby>った」）
 ```
 
 ---

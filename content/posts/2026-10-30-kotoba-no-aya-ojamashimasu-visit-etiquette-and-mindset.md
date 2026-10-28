@@ -26,14 +26,14 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「お<ruby>邪魔<rt>じゃま</rt></ruby>します」の<ruby>語源<rt>ごげん</rt></ruby>と<ruby>深層<rt>しんそう</rt></ruby><ruby>心理<rt>しんり</rt></ruby>
 
 ```
-【邪魔（じゃま）の本来の意味】
-  元々は仏教用語の「魔を邪魔する（修行を妨げる魔物）」から来た言葉。
-  日常会話では「妨げになること・迷惑」という意味。
+【<ruby>邪魔<rt>じゃま</rt></ruby>（じゃま）の<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>】
+  <ruby>元々<rt>もともと</rt></ruby>は<ruby>仏教<rt>ぶっきょう</rt></ruby><ruby>用語<rt>ようご</rt></ruby>の「<ruby>魔<rt>ま</rt></ruby>を<ruby>邪魔<rt>じゃま</rt></ruby>する（<ruby>修行<rt>しゅぎょう</rt></ruby>を<ruby>妨<rt>さまた</rt></ruby>げる<ruby>魔物<rt>まもの</rt></ruby>）」から<ruby>来<rt>き</rt></ruby>た<ruby>言葉<rt>ことば</rt></ruby>。
+  <ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>では「<ruby>妨<rt>さまた</rt></ruby>げになること・<ruby>迷惑<rt>めいわく</rt></ruby>」という<ruby>意味<rt>いみ</rt></ruby>。
 
-【「お邪魔します」に込められた本音】
-  ★「あなたとご家族の静かで平和な空間に、私という部外者が入ることで、
-      平穏な時間を乱してしまいますが、どうぞお許しください。」
-  → 相手の領域（プライベート空間）を侵すことへの【謙虚な配慮】！
+【「お<ruby>邪魔<rt>じゃま</rt></ruby>します」に<ruby>込<rt>こ</rt></ruby>められた<ruby>本音<rt>ほんね</rt></ruby>】
+  ★「あなたとご<ruby>家族<rt>かぞく</rt></ruby>の<ruby>静<rt>しず</rt></ruby>かで<ruby>平和<rt>へいわ</rt></ruby>な<ruby>空間<rt>くうかん</rt></ruby>に、<ruby>私<rt>わたし</rt></ruby>という<ruby>部外<rt>ぶがい</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ることで、
+      <ruby>平穏<rt>へいおん</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>を<ruby>乱<rt>みだ</rt></ruby>してしまいますが、どうぞお<ruby>許<rt>ゆる</rt></ruby>しください。」
+  → <ruby>相手<rt>あいて</rt></ruby>の<ruby>領域<rt>りょういき</rt></ruby>（プライベート<ruby>空間<rt>くうかん</rt></ruby>）を<ruby>侵<rt>おか</rt></ruby>すことへの【<ruby>謙虚<rt>けんきょ</rt></ruby>な<ruby>配慮<rt>はいりょ</rt></ruby>】！
 ```
 
 ---
@@ -137,32 +137,32 @@ tags:
 * 📌 **<ruby>帰<rt>がえ</rt></ruby>りは「お<ruby>邪魔<rt>じゃま</rt></ruby>しました、ごちそうさまでした」で<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>退室<rt>たいしつ</rt></ruby>！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お邪魔します（おじゃまします）</span>
+        <span class="c-vocab-card__word">お<ruby>邪魔<rt>じゃま</rt></ruby>します（おじゃまします）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>excuse me for intruding (greeting when visiting)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お邪魔します。本日お招きいただきありがとうございます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>excuse me for intruding (greeting when visiting)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>邪魔<rt>じゃま</rt></ruby>します。<ruby>本日<rt>ほんじつ</rt></ruby>お<ruby>招<rt>まね</rt></ruby>きいただきありがとうございます。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">玄関（げんかん）</span>
+        <span class="c-vocab-card__word"><ruby>玄関<rt>げんかん</rt></ruby>（げんかん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>entrance, front door, entryway</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>玄関で靴を脱いで、スリッパに履き替えてください。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>entrance, front door, entryway</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いで、スリッパに<ruby>履<rt>は</rt></ruby>き<ruby>替<rt>か</rt></ruby>えてください。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">配慮（はいりょ）</span>
+        <span class="c-vocab-card__word"><ruby>配慮<rt>はいりょ</rt></ruby>（はいりょ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>consideration, concern, forethought</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>近隣の住民への配慮として、夜間は静かに過ごしましょう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>consideration, concern, forethought</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>近隣<rt>きんりん</rt></ruby>の<ruby>住民<rt>じゅうみん</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>として、<ruby>夜間<rt>やかん</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かに<ruby>過<rt>す</rt></ruby>ごしましょう。</p>
     </div>
   </div>
 </div>

@@ -14,8 +14,7 @@ tags:
   - JLPT N3
   - JLPT N2
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>目的<rt>もくてき</rt></ruby>の「**[『〜ために』VS『〜ように』の使い分け](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-15-japanese-comparing-tameni-vs-youni-purpose-grammar.md)**」を<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>目的<rt>もくてき</rt></ruby>の「**[『〜ために』VS『〜ように』の<ruby>使い分<rt>つかいわ</rt></ruby>け](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-15-japanese-comparing-tameni-vs-youni-purpose-grammar.md)**」を<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>全<rt>ぜん</rt></ruby><ruby>世界<rt>せかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>学習<rt>がくしゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が「<ruby>日本語<rt>にほんご</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>難<rt>むずか</rt></ruby>しい<ruby>文法<rt>ぶんぽう</rt></ruby>！」と<ruby>口<rt>くち</rt></ruby>を<ruby>揃<rt>そろ</rt></ruby>える、<ruby>伝説<rt>でんせつ</rt></ruby>の**「4<ruby>大<rt>だい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>：〜と、〜ば、〜たら、〜なら」**の<ruby>完全<rt>かんぜん</rt></ruby><ruby>制覇<rt>せいは</rt></ruby>に<ruby>挑<rt>いど</rt></ruby>みます！
 
@@ -27,26 +26,26 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！4<ruby>大<rt>だい</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>のキャラクターマップ
 
 ```
-【① 〜と：必然・自然現象・発見（100%そうなる自動ドア型）】
-  ★「春になると、桜が咲く。」（自然現象・絶対にそうなる）
-  ★「このボタンを押すと、お湯が出る。」（機械の操作・必然）
-  ★「窓を開けると、富士山が見えた。」（〜したら…を発見した）
-  ※後ろに「〜してください」「〜しよう（意志）」は使えない！
+【① 〜と：<ruby>必然<rt>ひつぜん</rt></ruby>・<ruby>自然<rt>しぜん</rt></ruby><ruby>現象<rt>げんしょう</rt></ruby>・<ruby>発見<rt>はっけん</rt></ruby>（100%そうなる<ruby>自動<rt>じどう</rt></ruby>ドア<ruby>型<rt>がた</rt></ruby>）】
+  ★「<ruby>春<rt>はる</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く。」（<ruby>自然<rt>しぜん</rt></ruby><ruby>現象<rt>げんしょう</rt></ruby>・<ruby>絶対<rt>ぜったい</rt></ruby>にそうなる）
+  ★「このボタンを<ruby>押<rt>お</rt></ruby>すと、お<ruby>湯<rt>ゆ</rt></ruby>が<ruby>出<rt>で</rt></ruby>る。」（<ruby>機械<rt>きかい</rt></ruby>の<ruby>操作<rt>そうさ</rt></ruby>・<ruby>必然<rt>ひつぜん</rt></ruby>）
+  ★「<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けると、<ruby>富士山<rt>ふじさん</rt></ruby>が<ruby>見<rt>み</rt></ruby>えた。」（〜したら…を<ruby>発見<rt>はっけん</rt></ruby>した）
+  ※<ruby>後<rt>うし</rt></ruby>ろに「〜してください」「〜しよう（<ruby>意志<rt>いし</rt></ruby>）」は<ruby>使<rt>つか</rt></ruby>えない！
 
-【② 〜ば：一般的条件・ことわざ（方程式型・論理的）】
-  ★「安ければ、買います。」（条件が揃えばそうする）
-  ★「塵も積もれば、山となる。」（ことわざ・一般論・法則）
-  ★「練習すれば、上手になる。」（努力と結果の論理的関係）
+【② 〜ば：<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>条件<rt>じょうけん</rt></ruby>・ことわざ（<ruby>方程式<rt>ほうていしき</rt></ruby><ruby>型<rt>がた</rt></ruby>・<ruby>論理<rt>ろんり</rt></ruby><ruby>的<rt>てき</rt></ruby>）】
+  ★「<ruby>安<rt>やす</rt></ruby>ければ、<ruby>買<rt>か</rt></ruby>います。」（<ruby>条件<rt>じょうけん</rt></ruby>が<ruby>揃<rt>そろ</rt></ruby>えばそうする）
+  ★「<ruby>塵<rt>ちり</rt></ruby>も<ruby>積<rt>つ</rt></ruby>もれば、<ruby>山<rt>やま</rt></ruby>となる。」（ことわざ・<ruby>一般<rt>いっぱん</rt></ruby><ruby>論<rt>ろん</rt></ruby>・<ruby>法則<rt>ほうそく</rt></ruby>）
+  ★「<ruby>練習<rt>れんしゅう</rt></ruby>すれば、<ruby>上手<rt>じょうず</rt></ruby>になる。」（<ruby>努力<rt>どりょく</rt></ruby>と<ruby>結果<rt>けっか</rt></ruby>の<ruby>論理<rt>ろんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>）
 
-【③ 〜たら：日常会話の万能キング！（個別的・時間的前後関係）】
-  ★「日本に着いたら、電話してね。」（まず着く → その後に電話）
-  ★「雨が降ったら、遠足は中止です。」（もし雨という事態が起きたら）
-  ★後ろに「〜してください」「〜しよう」「〜たい」何でもOK！迷ったら「たら」を使え！
+【③ 〜たら：<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>の<ruby>万能<rt>ばんのう</rt></ruby>キング！（<ruby>個別<rt>こべつ</rt></ruby><ruby>的<rt>てき</rt></ruby>・<ruby>時間<rt>じかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>前後<rt>ぜんご</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>）】
+  ★「<ruby>日本<rt>にほん</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたら、<ruby>電話<rt>でんわ</rt></ruby>してね。」（まず<ruby>着<rt>つ</rt></ruby>く → その<ruby>後<rt>ご</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>）
+  ★「<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ったら、<ruby>遠足<rt>えんそく</rt></ruby>は<ruby>中止<rt>ちゅうし</rt></ruby>です。」（もし<ruby>雨<rt>あめ</rt></ruby>という<ruby>事態<rt>じたい</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたら）
+  ★<ruby>後<rt>うし</rt></ruby>ろに「〜してください」「〜しよう」「〜たい」<ruby>何<rt>なに</rt></ruby>でもOK！<ruby>迷<rt>まよ</rt></ruby>ったら「たら」を<ruby>使<rt>つか</rt></ruby>え！
 
-【④ 〜なら：助言・相手の話題に乗っかる（トピック・アドバイス型）】
-  ★「京都へ行くなら、新幹線が便利だよ。」（相手の『京都へ行く』という話を受けて助言）
-  ★「美味しいラーメンなら、あのお店が一番！」（〜のことなら任せて！）
-  ★前後の時間の順序が逆転することもある！（行く前に新幹線を予約する）
+【④ 〜なら：<ruby>助言<rt>じょげん</rt></ruby>・<ruby>相手<rt>あいて</rt></ruby>の<ruby>話題<rt>わだい</rt></ruby>に<ruby>乗<rt>の</rt></ruby>っかる（トピック・アドバイス<ruby>型<rt>がた</rt></ruby>）】
+  ★「<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>くなら、<ruby>新幹線<rt>しんかんせん</rt></ruby>が<ruby>便利<rt>べんり</rt></ruby>だよ。」（<ruby>相手<rt>あいて</rt></ruby>の『<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>く』という<ruby>話<rt>はなし</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて<ruby>助言<rt>じょげん</rt></ruby>）
+  ★「<ruby>美味<rt>おい</rt></ruby>しいラーメンなら、あのお<ruby>店<rt>みせ</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby>！」（〜のことなら<ruby>任<rt>まか</rt></ruby>せて！）
+  ★<ruby>前後<rt>ぜんご</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>順序<rt>じゅんじょ</rt></ruby>が<ruby>逆転<rt>ぎゃくてん</rt></ruby>することもある！（<ruby>行<rt>い</rt></ruby>く<ruby>前<rt>まえ</rt></ruby>に<ruby>新幹線<rt>しんかんせん</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>する）
 ```
 
 ---

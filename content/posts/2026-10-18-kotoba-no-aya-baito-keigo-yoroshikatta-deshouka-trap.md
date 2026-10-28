@@ -26,20 +26,20 @@ tags:
 ## 1. <ruby>街<rt>まち</rt></ruby>にあふれる「3<ruby>大<rt>だい</rt></ruby>バイト<ruby>敬語<rt>けいご</rt></ruby>」<ruby>解剖<rt>かいぼう</rt></ruby>マップ
 
 ```
-【第1位】「よろしかったでしょうか？」
-  × 店員：「ご注文は以上でよろしかったでしょうか？」
-  ※今決めたことなのに、なぜ「過去形（〜た）」にするのか！？
-  ◎ 正しい日本語：「ご注文は以上で【よろしいでしょうか】？」
+【<ruby>第<rt>だい</rt></ruby>1<ruby>位<rt>い</rt></ruby>】「よろしかったでしょうか？」
+  × <ruby>店員<rt>てんいん</rt></ruby>：「ご<ruby>注文<rt>ちゅうもん</rt></ruby>は<ruby>以上<rt>いじょう</rt></ruby>でよろしかったでしょうか？」
+  ※<ruby>今<rt>いま</rt></ruby><ruby>決<rt>き</rt></ruby>めたことなのに、なぜ「<ruby>過去<rt>かこ</rt></ruby><ruby>形<rt>がた</rt></ruby>（〜た）」にするのか！？
+  ◎ <ruby>正<rt>ただ</rt></ruby>しい<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：「ご<ruby>注文<rt>ちゅうもん</rt></ruby>は<ruby>以上<rt>いじょう</rt></ruby>で【よろしいでしょうか】？」
 
-【第2位】「〜からお預かりします」
-  × 店員：「1万円からお預かりします」
-  ※「から」は出発点。1万円から何かが飛び出してくるわけではない！
-  ◎ 正しい日本語：「1万円【お預かりいたします】」
+【<ruby>第<rt>だい</rt></ruby>2<ruby>位<rt>い</rt></ruby>】「〜からお<ruby>預<rt>あず</rt></ruby>かりします」
+  × <ruby>店員<rt>てんいん</rt></ruby>：「1<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>からお<ruby>預<rt>あず</rt></ruby>かりします」
+  ※「から」は<ruby>出発<rt>しゅっぱつ</rt></ruby><ruby>点<rt>てん</rt></ruby>。1<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>から<ruby>何<rt>なに</rt></ruby>かが<ruby>飛び出<rt>とびだ</rt></ruby>してくるわけではない！
+  ◎ <ruby>正<rt>ただ</rt></ruby>しい<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：「1<ruby>万<rt>まん</rt></ruby><ruby>円<rt>えん</rt></ruby>【お<ruby>預<rt>あず</rt></ruby>かりいたします】」
 
-【第3位】「〜のほう」
-  × 店員：「こちらお会計のほうになります」「温めのほうはどうされますか？」
-  ※「方角（ほう）」を指しているわけではないのに何でも「のほう」をつける！
-  ◎ 正しい日本語：「こちら【お会計でございます】」「【温めますか】？」
+【<ruby>第<rt>だい</rt></ruby>3<ruby>位<rt>い</rt></ruby>】「〜のほう」
+  × <ruby>店員<rt>てんいん</rt></ruby>：「こちらお<ruby>会計<rt>かいけい</rt></ruby>のほうになります」「<ruby>温<rt>あたた</rt></ruby>めのほうはどうされますか？」
+  ※「<ruby>方角<rt>ほうがく</rt></ruby>（ほう）」を<ruby>指<rt>さ</rt></ruby>しているわけではないのに<ruby>何<rt>なに</rt></ruby>でも「のほう」をつける！
+  ◎ <ruby>正<rt>ただ</rt></ruby>しい<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：「こちら【お<ruby>会計<rt>かいけい</rt></ruby>でございます】」「【<ruby>温<rt>あたた</rt></ruby>めますか】？」
 ```
 
 ---
@@ -141,32 +141,32 @@ tags:
 * 📌 **<ruby>不要<rt>ふよう</rt></ruby>な「のほう」「から」を<ruby>削<rt>けず</rt></ruby>ると、スッキリ<ruby>美<rt>うつく</rt></ruby>しい<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>になる！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">よろしいでしょうか</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>Is it all right? (polite form of いいですか)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お時間を10分ほど頂戴してもよろしいでしょうか？</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>Is it all right? (polite form of いいですか)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>時間<rt>じかん</rt></ruby>を10<ruby>分<rt>ふん</rt></ruby>ほど<ruby>頂戴<rt>ちょうだい</rt></ruby>してもよろしいでしょうか？</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お預かりいたします（おあずかりいたします）</span>
+        <span class="c-vocab-card__word">お<ruby>預<rt>あず</rt></ruby>かりいたします（おあずかりいたします）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>I will take care of / hold (polite customer service phrase)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お客様のお手荷物は、こちらのクロークでお預かりいたします。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>I will take care of / hold (polite customer service phrase)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>客様<rt>きゃくさま</rt></ruby>のお<ruby>手荷物<rt>てにもつ</rt></ruby>は、こちらのクロークでお<ruby>預<rt>あず</rt></ruby>かりいたします。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">断定（だんてい）</span>
+        <span class="c-vocab-card__word"><ruby>断定<rt>だんてい</rt></ruby>（だんてい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>affirmation, conclusion, stating definitely</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>証拠が不十分な段階で、犯人だと断定することはできません。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>affirmation, conclusion, stating definitely</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>証拠<rt>しょうこ</rt></ruby>が<ruby>不十分<rt>ふじゅうぶん</rt></ruby>な<ruby>段階<rt>だんかい</rt></ruby>で、<ruby>犯人<rt>はんにん</rt></ruby>だと<ruby>断定<rt>だんてい</rt></ruby>することはできません。</p>
     </div>
   </div>
 </div>

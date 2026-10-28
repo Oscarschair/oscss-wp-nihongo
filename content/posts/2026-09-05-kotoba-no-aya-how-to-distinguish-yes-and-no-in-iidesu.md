@@ -27,7 +27,7 @@ tags:
 クルマのカフェでの<ruby>大<rt>だい</rt></ruby><ruby>混乱<rt>こんらん</rt></ruby>エピソードを<ruby>見<rt>み</rt></ruby>てみましょう。
 
 > ☕ **オフィスの<ruby>休憩<rt>きゅうけい</rt></ruby>スペースにて**
-> 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「クルマくん、ドリップコーヒー<ruby>淹<rt>*</rt></ruby>れたけど、<ruby>飲<rt>の</rt></ruby>む？」
+> 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「クルマくん、ドリップコーヒー淹れたけど、<ruby>飲<rt>の</rt></ruby>む？」
 > 🚗 **クルマ**：「あ、いいです！」（＝<ruby>美味<rt>おい</rt></ruby>しそう！ ぜひ<ruby>飲<rt>の</rt></ruby>みたいです！）
 > 👔 **<ruby>田中<rt>たなか</rt></ruby><ruby>先輩<rt>せんぱい</rt></ruby>**：「あ、そう？ <ruby>要<rt>い</rt></ruby>らないなら<ruby>僕<rt>ぼく</rt></ruby>が<ruby>飲<rt>の</rt></ruby>んじゃうね〜。」ゴクゴク。
 > 🚗 **クルマ**：「（えええっ！？ なんで<ruby>飲<rt>の</rt></ruby>んじゃうの！？ <ruby>私<rt>わたし</rt></ruby>『いいです（Good / OK）』って<ruby>言<rt>い</rt></ruby>ったのにーーーっ！！）」
@@ -74,32 +74,32 @@ A: <ruby>欲<rt>ほ</rt></ruby>しい<ruby>時<rt>とき</rt></ruby>は「くだ
 A: <ruby>遠慮<rt>えんりょ</rt></ruby>したい<ruby>時<rt>とき</rt></ruby>は「ありがとうございます、もう<ruby>十分<rt>じゅうぶん</rt></ruby>いただきましたので<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」とお<ruby>礼<rt>れい</rt></ruby>を<ruby>前置<rt>まえお</rt></ruby>きしてから<ruby>断<rt>ことわ</rt></ruby>ると、<ruby>場<rt>ば</rt></ruby>の<ruby>空気<rt>くうき</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>さずにスマートに<ruby>辞退<rt>じたい</rt></ruby>できます。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">遠慮（えんりょ）</span>
+        <span class="c-vocab-card__word"><ruby>遠慮<rt>えんりょ</rt></ruby>（えんりょ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>reservation, restraint</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「お茶のおかわりはいかがですか」と勧められたが、遠慮しておいた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>reservation, restraint</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「お<ruby>茶<rt>ちゃ</rt></ruby>のおかわりはいかがですか」と<ruby>勧<rt>すす</rt></ruby>められたが、<ruby>遠慮<rt>えんりょ</rt></ruby>しておいた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">肯定（こうてい）</span>
+        <span class="c-vocab-card__word"><ruby>肯定<rt>こうてい</rt></ruby>（こうてい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>affirmation, positive</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>相手の提案を肯定するときは、明るい表情で返事をする。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>affirmation, positive</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>相手<rt>あいて</rt></ruby>の<ruby>提案<rt>ていあん</rt></ruby>を<ruby>肯定<rt>こうてい</rt></ruby>するときは、<ruby>明<rt>あか</rt></ruby>るい<ruby>表情<rt>ひょうじょう</rt></ruby>で<ruby>返事<rt>へんじ</rt></ruby>をする。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">否定（ひてい）</span>
+        <span class="c-vocab-card__word"><ruby>否定<rt>ひてい</rt></ruby>（ひてい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>denial, negation</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>手を軽く横に振ることで、相手の申し出をやんわりと否定した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>denial, negation</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>手<rt>て</rt></ruby>を<ruby>軽<rt>かる</rt></ruby>く<ruby>横<rt>よこ</rt></ruby>に<ruby>振<rt>ふ</rt></ruby>ることで、<ruby>相手<rt>あいて</rt></ruby>の<ruby>申し出<rt>もうしで</rt></ruby>をやんわりと<ruby>否定<rt>ひてい</rt></ruby>した。</p>
     </div>
   </div>
 </div>

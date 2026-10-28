@@ -48,18 +48,18 @@ tags:
 <ruby>後<rt>うし</rt></ruby>ろにお<ruby>客<rt>きゃく</rt></ruby>さんが<ruby>並<rt>なら</rt></ruby>んでいると<ruby>焦<rt>あせ</rt></ruby>ってしまいますが、<ruby>次<rt>つぎ</rt></ruby>の<ruby>手順<rt>てじゅん</rt></ruby>とレイアウトの<ruby>法則<rt>ほうそく</rt></ruby>を<ruby>知<rt>し</rt></ruby>っていれば10<ruby>秒<rt>びょう</rt></ruby>で<ruby>決<rt>き</rt></ruby>めることができます！
 
 ```
-【券売機の黄金レイアウト法則】
+【<ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>黄金<rt>おうごん</rt></ruby>レイアウト<ruby>法則<rt>ほうそく</rt></ruby>】
 ┌──────────────────────────────────────┐
-│ [千円札・小銭投入口]   [返却レバー]  │
+│ [<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>札<rt>さつ</rt></ruby>・<ruby>小銭<rt>こぜに</rt></ruby><ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>]   [<ruby>返却<rt>へんきゃく</rt></ruby>レバー]  │
 ├──────────────────────────────────────┤
-│ ★【左上の一番目立つ特大ボタン】      │ ＝ お店の「看板メニュー／一番人気」
-│   例：「特製ラーメン（全部乗せ）」   │   （迷ったらこれを押せば間違いなし！）
+│ ★【<ruby>左上<rt>ひだりうえ</rt></ruby>の<ruby>一<rt>いち</rt></ruby><ruby>番目<rt>ばんめ</rt></ruby><ruby>立<rt>た</rt></ruby>つ<ruby>特大<rt>とくだい</rt></ruby>ボタン】      │ ＝ お<ruby>店<rt>みせ</rt></ruby>の「<ruby>看板<rt>かんばん</rt></ruby>メニュー／<ruby>一番<rt>いちばん</rt></ruby><ruby>人気<rt>にんき</rt></ruby>」
+│   <ruby>例<rt>れい</rt></ruby>：「<ruby>特製<rt>とくせい</rt></ruby>ラーメン（<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>乗<rt>の</rt></ruby>せ）」   │   （<ruby>迷<rt>まよ</rt></ruby>ったらこれを<ruby>押<rt>お</rt></ruby>せば<ruby>間違<rt>まちが</rt></ruby>いなし！）
 ├──────────────────────────────────────┤
-│ 2段目：通常のラーメン（醤油・塩・味噌）│ ＝ 標準のラーメン
+│ 2<ruby>段<rt>だん</rt></ruby><ruby>目<rt>め</rt></ruby>：<ruby>通常<rt>つうじょう</rt></ruby>のラーメン（<ruby>醤油<rt>しょうゆ</rt></ruby>・<ruby>塩<rt>しお</rt></ruby>・<ruby>味噌<rt>みそ</rt></ruby>）│ ＝ <ruby>標準<rt>ひょうじゅん</rt></ruby>のラーメン
 ├──────────────────────────────────────┤
-│ 3段目：トッピング（味玉、チャーシュー）│ ＝ 追加したい具材
+│ 3<ruby>段<rt>だん</rt></ruby><ruby>目<rt>め</rt></ruby>：トッピング（<ruby>味<rt>あじ</rt></ruby><ruby>玉<rt>だま</rt></ruby>、チャーシュー）│ ＝ <ruby>追加<rt>ついか</rt></ruby>したい<ruby>具<rt>ぐ</rt></ruby><ruby>材<rt>ざい</rt></ruby>
 ├──────────────────────────────────────┤
-│ 4段目：サイドメニュー（ライス、餃子）  │ ＝ ご飯もの
+│ 4<ruby>段<rt>だん</rt></ruby><ruby>目<rt>め</rt></ruby>：サイドメニュー（ライス、<ruby>餃子<rt>ぎょうざ</rt></ruby>）  │ ＝ ご<ruby>飯<rt>はん</rt></ruby>もの
 └──────────────────────────────────────┘
 ```
 
@@ -81,10 +81,10 @@ tags:
 <ruby>決<rt>けっ</rt></ruby>して「お<ruby>好み焼<rt>このみや</rt></ruby>き」のことではありません。「あなたの<ruby>好<rt>この</rt></ruby>みに<ruby>合<rt>あ</rt></ruby>わせてラーメンをカスタマイズしますよ」という<ruby>意味<rt>いみ</rt></ruby>です。<ruby>特<rt>とく</rt></ruby>に<ruby>人気<rt>にんき</rt></ruby>の「<ruby>家系<rt>かけい</rt></ruby>（いえけい）ラーメン」では、<ruby>以下<rt>いか</rt></ruby>の3つの<ruby>要素<rt>ようそ</rt></ruby>を<ruby>指定<rt>してい</rt></ruby>できます。
 
 ```
-【家系ラーメンの「3大お好み」設定】
-① 麺の硬さ（めんのかたさ） ━━【 硬め（カタメ） 】・【 普通 】・【 柔らかめ（ヤワメ） 】
-② 味の濃さ（あじのこさ）     ━━【 濃いめ（コイメ） 】・【 普通 】・【 薄め（ウスメ） 】
-③ 油の量（あぶらのりょう）   ━━【 多め（オオメ） 】  ・【 普通 】・【 少なめ（スクナメ） 】
+【<ruby>家系<rt>かけい</rt></ruby>ラーメンの「3<ruby>大<rt>だい</rt></ruby>お<ruby>好<rt>この</rt></ruby>み」<ruby>設定<rt>せってい</rt></ruby>】
+① <ruby>麺<rt>めん</rt></ruby>の<ruby>硬<rt>かた</rt></ruby>さ（めんのかたさ） ━━【 <ruby>硬<rt>かた</rt></ruby>め（カタメ） 】・【 <ruby>普通<rt>ふつう</rt></ruby> 】・【 <ruby>柔<rt>やわ</rt></ruby>らかめ（ヤワメ） 】
+② <ruby>味<rt>あじ</rt></ruby>の<ruby>濃<rt>こ</rt></ruby>さ（あじのこさ）     ━━【 <ruby>濃<rt>こ</rt></ruby>いめ（コイメ） 】・【 <ruby>普通<rt>ふつう</rt></ruby> 】・【 <ruby>薄<rt>うす</rt></ruby>め（ウスメ） 】
+③ <ruby>油<rt>あぶら</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>（あぶらのりょう）   ━━【 <ruby>多<rt>おお</rt></ruby>め（オオメ） 】  ・【 <ruby>普通<rt>ふつう</rt></ruby> 】・【 <ruby>少<rt>すく</rt></ruby>なめ（スクナメ） 】
 ```
 
 ### <ruby>初心者<rt>しょしんしゃ</rt></ruby>のための<ruby>神<rt>かみ</rt></ruby><ruby>回答<rt>かいとう</rt></ruby>フレーズ：
@@ -165,32 +165,32 @@ tags:
 <ruby>独特<rt>どくとく</rt></ruby>のルールやお<ruby>好<rt>この</rt></ruby>みコールは、<ruby>自分<rt>じぶん</rt></ruby>のためだけに<ruby>最高<rt>さいこう</rt></ruby>の<ruby>一<rt>いち</rt></ruby><ruby>杯<rt>はい</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ってもらうためのカスタマイズシステムです。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>緊張<rt>きんちょう</rt></ruby>するかもしれませんが、<ruby>一度<rt>いちど</rt></ruby>コールが<ruby>通<rt>つう</rt></ruby>じると<ruby>最高<rt>さいこう</rt></ruby>に<ruby>楽<rt>たの</rt></ruby>しい<ruby>体験<rt>たいけん</rt></ruby>になりますよ！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">食券（しょっけん）</span>
+        <span class="c-vocab-card__word"><ruby>食券<rt>しょっけん</rt></ruby>（しょっけん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>meal ticket</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お店の入口にある自動券売機で、ラーメンと味玉の食券を購入した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>meal ticket</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>店<rt>みせ</rt></ruby>の<ruby>入口<rt>いりぐち</rt></ruby>にある<ruby>自動<rt>じどう</rt></ruby><ruby>券売<rt>けんばい</rt></ruby><ruby>機<rt>き</rt></ruby>で、ラーメンと<ruby>味<rt>あじ</rt></ruby><ruby>玉<rt>だま</rt></ruby>の<ruby>食券<rt>しょっけん</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">好み（このみ）</span>
+        <span class="c-vocab-card__word"><ruby>好<rt>この</rt></ruby>み（このみ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>preference, taste</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>ラーメンの食券を店員に渡す際、「麺硬め、味濃いめ」と好みを伝えた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>preference, taste</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>ラーメンの<ruby>食券<rt>しょっけん</rt></ruby>を<ruby>店員<rt>てんいん</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>す<ruby>際<rt>さい</rt></ruby>、「<ruby>麺<rt>めん</rt></ruby><ruby>硬<rt>かた</rt></ruby>め、<ruby>味<rt>あじ</rt></ruby><ruby>濃<rt>こ</rt></ruby>いめ」と<ruby>好<rt>この</rt></ruby>みを<ruby>伝<rt>つた</rt></ruby>えた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">コール（コール）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>ordering call</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>二郎系ラーメンの独特なコールに最初は緊張したが、無事に注文できた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>ordering call</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>二郎<rt>じろう</rt></ruby><ruby>系<rt>けい</rt></ruby>ラーメンの<ruby>独特<rt>どくとく</rt></ruby>なコールに<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>緊張<rt>きんちょう</rt></ruby>したが、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>注文<rt>ちゅうもん</rt></ruby>できた。</p>
     </div>
   </div>
 </div>

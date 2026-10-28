@@ -56,8 +56,8 @@ description: "香港や海外では「車が途切れる隙を狙って命がけ
 
 <ruby>世界<rt>せかい</rt></ruby>が<ruby>驚<rt>おどろ</rt></ruby>く<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby><ruby>性<rt>せい</rt></ruby>と<ruby>思<rt>おも</rt></ruby>いやり<ruby>文化<rt>ぶんか</rt></ruby>に<ruby>迫<rt>せま</rt></ruby>るおすすめ<ruby>記事<rt>きじ</rt></ruby>！
 
-* 🎒 [カルチャーショック：<ruby>小<rt>しょう</rt></ruby>1が1<ruby>人<rt>にん</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>登校<rt>とうこう</rt></ruby>！？<ruby>海外<rt>かいがい</rt></ruby>なら<ruby>親<rt>おや</rt></ruby>が<ruby>逮捕<rt>たいほ</rt></ruby>される「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>通学<rt>つうがく</rt></ruby><ruby>事情<rt>じじょう</rt></ruby>」に<ruby>世界<rt>せかい</rt></ruby>が<ruby>仰天<rt>ぎょうてん</rt></ruby>する<ruby>理由<rt>りゆう</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-japanese-first-graders-walk-to-school-alone-safety-and-independence/)
-* 🚃 [カルチャーショック：<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>寝<rt>ね</rt></ruby>ている！？<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>居眠<rt>いねむ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>」と<ruby>圧倒的<rt>あっとうてき</rt></ruby>な<ruby>治安<rt>ちあん</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
+* 🎒 [カルチャーショック：<ruby>小<rt>しょう</rt></ruby>1が<ruby>1人<rt>ひとり</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>登校<rt>とうこう</rt></ruby>！？<ruby>海外<rt>かいがい</rt></ruby>なら<ruby>親<rt>おや</rt></ruby>が<ruby>逮捕<rt>たいほ</rt></ruby>される「<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>通学<rt>つうがく</rt></ruby><ruby>事情<rt>じじょう</rt></ruby>」に<ruby>世界<rt>せかい</rt></ruby>が<ruby>仰天<rt>ぎょうてん</rt></ruby>する<ruby>理由<rt>りゆう</rt></ruby>](__PROTECTED_2__)
+* 🚃 [カルチャーショック：<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>寝<rt>ね</rt></ruby>ている！？<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>居眠<rt>いねむ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>」と<ruby>圧倒的<rt>あっとうてき</rt></ruby>な<ruby>治安<rt>ちあん</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さ](__PROTECTED_3__)
 
 ---
 
@@ -73,10 +73,10 @@ description: "香港や海外では「車が途切れる隙を狙って命がけ
 <ruby>信号<rt>しんごう</rt></ruby><ruby>機<rt>き</rt></ruby>のない<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>で、ドライバーとお<ruby>互<rt>たが</rt></ruby>いに<ruby>気持<rt>きも</rt></ruby>ちよく<ruby>道<rt>みち</rt></ruby>を<ruby>譲り合<rt>ゆずりあ</rt></ruby>うための<ruby>知恵<rt>ちえ</rt></ruby>です。
 
 ```
-【横断歩道をスマートに渡る3ステップ】
-1. 手を腰の高さ〜胸の高さに軽く挙げ、ドライバーに「渡りたい意思」を示す。
-2. 車が完全に停止したのを確認してから、足を一歩踏み出す。
-3. 止まってくれたドライバーに対して、ペコッと小さく頭を下げて感謝を示す。
+【<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>をスマートに<ruby>渡<rt>わた</rt></ruby>る3ステップ】
+1. <ruby>手<rt>て</rt></ruby>を<ruby>腰<rt>こし</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さ〜<ruby>胸<rt>むね</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さに<ruby>軽<rt>かる</rt></ruby>く<ruby>挙<rt>あ</rt></ruby>げ、ドライバーに「<ruby>渡<rt>わた</rt></ruby>りたい<ruby>意思<rt>いし</rt></ruby>」を<ruby>示<rt>しめ</rt></ruby>す。
+2. <ruby>車<rt>くるま</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>停止<rt>ていし</rt></ruby>したのを<ruby>確認<rt>かくにん</rt></ruby>してから、<ruby>足<rt>あし</rt></ruby>を<ruby>一<rt>いち</rt></ruby><ruby>歩<rt>ほ</rt></ruby><ruby>踏み出<rt>ふみだ</rt></ruby>す。
+3. <ruby>止<rt>と</rt></ruby>まってくれたドライバーに<ruby>対<rt>たい</rt></ruby>して、ペコッと<ruby>小<rt>ちい</rt></ruby>さく<ruby>頭<rt>あたま</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げて<ruby>感謝<rt>かんしゃ</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す。
 ```
 
 #### <ruby>海外<rt>かいがい</rt></ruby>との<ruby>決定的<rt>けっていてき</rt></ruby>な<ruby>違<rt>ちが</rt></ruby>い：<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby><ruby>優先<rt>ゆうせん</rt></ruby>の<ruby>法<rt>ほう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>
@@ -111,32 +111,32 @@ A: <ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>
 <ruby>夜間<rt>やかん</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>の<ruby>住宅<rt>じゅうたく</rt></ruby><ruby>街<rt>がい</rt></ruby>は<ruby>街灯<rt>がいとう</rt></ruby>が<ruby>控<rt>ひか</rt></ruby>えめな<ruby>場所<rt>ばしょ</rt></ruby>も<ruby>多<rt>おお</rt></ruby>く、ドライバーから<ruby>黒<rt>くろ</rt></ruby>い<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>た<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>は<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>見<rt>み</rt></ruby>えづらくなります。<ruby>夜間<rt>やかん</rt></ruby>に<ruby>外出<rt>がいしゅつ</rt></ruby>する<ruby>際<rt>さい</rt></ruby>は、<ruby>白<rt>しろ</rt></ruby>や<ruby>明<rt>あか</rt></ruby>るい<ruby>色<rt>いろ</rt></ruby>の<ruby>服<rt>ふく</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んだり、バッグに<ruby>小<rt>ちい</rt></ruby>さな<ruby>反射<rt>はんしゃ</rt></ruby>キーホルダーをつけたり、スマートフォンの<ruby>画面<rt>がめん</rt></ruby>を<ruby>軽<rt>かる</rt></ruby>く<ruby>地面<rt>じめん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>歩<rt>ある</rt></ruby>くなどの<ruby>自衛<rt>じえい</rt></ruby><ruby>意識<rt>いしき</rt></ruby>を<ruby>持<rt>も</rt></ruby>つと<ruby>一層<rt>いっそう</rt></ruby><ruby>安心<rt>あんしん</rt></ruby>です。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">横断歩道（おうだんほどう）</span>
+        <span class="c-vocab-card__word"><ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>（おうだんほどう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>pedestrian crossing</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>小学生が手を挙げると、横断歩道の手前で車がピタッと止まった。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>pedestrian crossing</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>小学生<rt>しょうがくせい</rt></ruby>が<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げると、<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>の<ruby>手前<rt>てまえ</rt></ruby>で<ruby>車<rt>くるま</rt></ruby>がピタッと<ruby>止<rt>と</rt></ruby>まった。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">一時停止（いちじていし）</span>
+        <span class="c-vocab-card__word"><ruby>一時<rt>いちじ</rt></ruby><ruby>停止<rt>ていし</rt></ruby>（いちじていし）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>temporary stop</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>見通しの悪い交差点では、標識に従って必ず一時停止する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>temporary stop</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>見通<rt>みとお</rt></ruby>しの<ruby>悪<rt>わる</rt></ruby>い<ruby>交差点<rt>こうさてん</rt></ruby>では、<ruby>標識<rt>ひょうしき</rt></ruby>に<ruby>従<rt>したが</rt></ruby>って<ruby>必<rt>かなら</rt></ruby>ず<ruby>一時<rt>いちじ</rt></ruby><ruby>停止<rt>ていし</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">優先（ゆうせん）</span>
+        <span class="c-vocab-card__word"><ruby>優先<rt>ゆうせん</rt></ruby>（ゆうせん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>priority, preference</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本の交通ルールでは、歩行者が車よりも常に優先されます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>priority, preference</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>の<ruby>交通<rt>こうつう</rt></ruby>ルールでは、<ruby>歩行<rt>ほこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>よりも<ruby>常<rt>つね</rt></ruby>に<ruby>優先<rt>ゆうせん</rt></ruby>されます。</p>
     </div>
   </div>
 </div>

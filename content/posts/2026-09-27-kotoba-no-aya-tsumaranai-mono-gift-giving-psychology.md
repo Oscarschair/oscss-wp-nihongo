@@ -48,12 +48,12 @@ tags:
 その<ruby>真意<rt>しんい</rt></ruby>は、**「<ruby>贈り物<rt>おくりもの</rt></ruby>をけなしているのではなく、<ruby>相手<rt>あいて</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>を<ruby>最大限<rt>さいだいげん</rt></ruby>に<ruby>高<rt>たか</rt></ruby>めている」**という<ruby>点<rt>てん</rt></ruby>にあります。
 
 ```
-【「つまらないものですが」の真の心理構造】
+【「つまらないものですが」の<ruby>真<rt>しん</rt></ruby>の<ruby>心理<rt>しんり</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby>】
 
-「私ごときが選んだ品物は、
-  あなた様のような素晴らしい人格と地位をお持ちの方にとっては、
-  釣り合わない【つまらない（取るに足らない）もの】に見えるかもしれませんが……
-  日頃の感謝を込めて選びましたので、どうぞ受け取ってください。」
+「<ruby>私<rt>わたし</rt></ruby>ごときが<ruby>選<rt>えら</rt></ruby>んだ<ruby>品物<rt>しなもの</rt></ruby>は、
+  あなた<ruby>様<rt>さま</rt></ruby>のような<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>人格<rt>じんかく</rt></ruby>と<ruby>地位<rt>ちい</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちの<ruby>方<rt>ほう</rt></ruby>にとっては、
+  <ruby>釣り合<rt>つりあ</rt></ruby>わない【つまらない（<ruby>取<rt>と</rt></ruby>るに<ruby>足<rt>た</rt></ruby>らない）もの】に<ruby>見<rt>み</rt></ruby>えるかもしれませんが……
+  <ruby>日頃<rt>ひごろ</rt></ruby>の<ruby>感謝<rt>かんしゃ</rt></ruby>を<ruby>込<rt>こ</rt></ruby>めて<ruby>選<rt>えら</rt></ruby>びましたので、どうぞ<ruby>受け取<rt>うけと</rt></ruby>ってください。」
 ```
 
 つまり、<ruby>主役<rt>しゅやく</rt></ruby>は<ruby>品物<rt>しなもの</rt></ruby>ではなく**「<ruby>相手<rt>あいて</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>敬意<rt>けいい</rt></ruby>」**なのです。
@@ -66,10 +66,10 @@ tags:
 <ruby>実<rt>じつ</rt></ruby>は、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby>のビジネス<ruby>現場<rt>げんば</rt></ruby>では、「つまらないものですが」をそのまま<ruby>使<rt>つか</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。
 
 ```
-【現代において「つまらないもの」が避けられる理由】
-1. 言葉通りのネガティブな響き（つまらない＝退屈、価値がない）を気にする人が増えた。
-2. 「つまらないものを人に渡すな」という合理的なビジネス感覚が広まった。
-3. ポジティブな言葉遣いが好まれる国際基準のビジネスマナーへのシフト。
+【<ruby>現代<rt>げんだい</rt></ruby>において「つまらないもの」が<ruby>避<rt>さ</rt></ruby>けられる<ruby>理由<rt>りゆう</rt></ruby>】
+1. <ruby>言葉<rt>ことば</rt></ruby><ruby>通<rt>どお</rt></ruby>りのネガティブな<ruby>響<rt>ひび</rt></ruby>き（つまらない＝<ruby>退屈<rt>たいくつ</rt></ruby>、<ruby>価値<rt>かち</rt></ruby>がない）を<ruby>気<rt>き</rt></ruby>にする<ruby>人<rt>ひと</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えた。
+2. 「つまらないものを<ruby>人<rt>ひと</rt></ruby>に<ruby>渡<rt>わた</rt></ruby>すな」という<ruby>合理<rt>ごうり</rt></ruby><ruby>的<rt>てき</rt></ruby>なビジネス<ruby>感覚<rt>かんかく</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>まった。
+3. ポジティブな<ruby>言葉<rt>ことば</rt></ruby><ruby>遣<rt>づか</rt></ruby>いが<ruby>好<rt>この</rt></ruby>まれる<ruby>国際<rt>こくさい</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>のビジネスマナーへのシフト。
 ```
 
 では、<ruby>現代<rt>げんだい</rt></ruby>の<ruby>洗練<rt>せんれん</rt></ruby>されたビジネスパーソンは、<ruby>手土産<rt>てみやげ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>すときに<ruby>何<rt>なに</rt></ruby>と<ruby>言<rt>い</rt></ruby>っているのでしょうか？
@@ -107,21 +107,21 @@ tags:
 あなたの<ruby>手土産<rt>てみやげ</rt></ruby>マナー<ruby>知識<rt>ちしき</rt></ruby>を<ruby>試<rt>ため</rt></ruby>してみましょう！
 
 ```
-【第1問】
-現代のビジネス訪問で、デパ地下で買ったお菓子を手土産として渡すときの最も好印象なフレーズはどれ？
-①「東京で一番高くておいしいケーキを買ってきました！ 感謝してください！」
-②「心ばかりの品ですが、皆様のお口に合えば幸いです。」
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>現代<rt>げんだい</rt></ruby>のビジネス<ruby>訪問<rt>ほうもん</rt></ruby>で、デパ<ruby>地下<rt>ちか</rt></ruby>で<ruby>買<rt>か</rt></ruby>ったお<ruby>菓子<rt>かし</rt></ruby>を<ruby>手土産<rt>てみやげ</rt></ruby>として<ruby>渡<rt>わた</rt></ruby>すときの<ruby>最<rt>もっと</rt></ruby>も<ruby>好<rt>こう</rt></ruby><ruby>印象<rt>いんしょう</rt></ruby>なフレーズはどれ？
+①「<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>高<rt>たか</rt></ruby>くておいしいケーキを<ruby>買<rt>か</rt></ruby>ってきました！ <ruby>感謝<rt>かんしゃ</rt></ruby>してください！」
+②「<ruby>心<rt>しん</rt></ruby>ばかりの<ruby>品<rt>しな</rt></ruby>ですが、<ruby>皆様<rt>みなさま</rt></ruby>のお<ruby>口<rt>くち</rt></ruby>に<ruby>合<rt>あ</rt></ruby>えば<ruby>幸<rt>さいわ</rt></ruby>いです。」
 ③「これ、つまらないゴミみたいなものですがどうぞ。」
 
-【第2問】
-手土産を取引先の会議室で渡すタイミングとして、最も適切なのは？
-① 会議室に入って名刺交換や最初の挨拶を済ませ、席に着く直前
-② 会議が完全に終わって、部屋から退室するエレベーターの前
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>手土産<rt>てみやげ</rt></ruby>を<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>で<ruby>渡<rt>わた</rt></ruby>すタイミングとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なのは？
+① <ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>名刺<rt>めいし</rt></ruby><ruby>交換<rt>こうかん</rt></ruby>や<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>挨拶<rt>あいさつ</rt></ruby>を<ruby>済<rt>す</rt></ruby>ませ、<ruby>席<rt>せき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>く<ruby>直前<rt>ちょくぜん</rt></ruby>
+② <ruby>会議<rt>かいぎ</rt></ruby>が<ruby>完全<rt>かんぜん</rt></ruby>に<ruby>終<rt>お</rt></ruby>わって、<ruby>部屋<rt>へや</rt></ruby>から<ruby>退室<rt>たいしつ</rt></ruby>するエレベーターの<ruby>前<rt>まえ</rt></ruby>
 
-【第3問】
-正式な作法において、手土産を入れて持ってきた「紙袋」はどうするべき？
-① 相手にそのまま紙袋ごと押し付ける
-② 箱を取り出して両手で渡し、紙袋は自分でたたんで持ち帰る（※持ち帰り用の袋が必要そうなら差し出す）
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>正式<rt>せいしき</rt></ruby>な<ruby>作法<rt>さほう</rt></ruby>において、<ruby>手土産<rt>てみやげ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れて<ruby>持<rt>も</rt></ruby>ってきた「<ruby>紙袋<rt>かみぶくろ</rt></ruby>」はどうするべき？
+① <ruby>相手<rt>あいて</rt></ruby>にそのまま<ruby>紙袋<rt>かみぶくろ</rt></ruby>ごと<ruby>押し付<rt>おしつ</rt></ruby>ける
+② <ruby>箱<rt>はこ</rt></ruby>を<ruby>取り出<rt>とりだ</rt></ruby>して<ruby>両手<rt>りょうて</rt></ruby>で<ruby>渡<rt>わた</rt></ruby>し、<ruby>紙袋<rt>かみぶくろ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>でたたんで<ruby>持ち帰<rt>もちかえ</rt></ruby>る（※<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り<ruby>用<rt>よう</rt></ruby>の<ruby>袋<rt>ふくろ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>そうなら<ruby>差し出<rt>さしだ</rt></ruby>す）
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -144,32 +144,32 @@ tags:
 <ruby>相手<rt>あいて</rt></ruby>を<ruby>思<rt>おも</rt></ruby>い、<ruby>相手<rt>あいて</rt></ruby>の<ruby>喜<rt>よろこ</rt></ruby>ぶ<ruby>顔<rt>かお</rt></ruby>を<ruby>想像<rt>そうぞう</rt></ruby>しながら<ruby>選<rt>えら</rt></ruby>んだ<ruby>品物<rt>しなもの</rt></ruby>。「<ruby>心<rt>こころ</rt></ruby>ばかりの<ruby>品<rt>しな</rt></ruby>ですが」という<ruby>優<rt>やさ</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>を<ruby>添<rt>そ</rt></ruby>えて、<ruby>信頼<rt>しんらい</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>の<ruby>架け橋<rt>かけはし</rt></ruby>を<ruby>築<rt>きず</rt></ruby>いていってくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">謙遜（けんそん）</span>
+        <span class="c-vocab-card__word"><ruby>謙遜<rt>けんそん</rt></ruby>（けんそん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>modesty, humility</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>自分の成果を誇らず、控えめに話すのが日本の伝統的な謙遜の文化だ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>modesty, humility</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>自分<rt>じぶん</rt></ruby>の<ruby>成果<rt>せいか</rt></ruby>を<ruby>誇<rt>ほこ</rt></ruby>らず、<ruby>控<rt>ひか</rt></ruby>えめに<ruby>話<rt>はな</rt></ruby>すのが<ruby>日本<rt>にほん</rt></ruby>の<ruby>伝統<rt>でんとう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>謙遜<rt>けんそん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>だ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">贈り物（おくりもの）</span>
+        <span class="c-vocab-card__word"><ruby>贈り物<rt>おくりもの</rt></ruby>（おくりもの）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>gift, present</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お世話になった先生へ、「つまらないものですが」と感謝の贈り物を渡した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>gift, present</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>世話<rt>せわ</rt></ruby>になった<ruby>先生<rt>せんせい</rt></ruby>へ、「つまらないものですが」と<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>贈り物<rt>おくりもの</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">心配り（こころくばり）</span>
+        <span class="c-vocab-card__word"><ruby>心配<rt>こころくば</rt></ruby>り（こころくばり）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>thoughtfulness</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>相手の好みをあらかじめリサーチして手土産を選ぶ優しい心配り。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>thoughtfulness</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>相手<rt>あいて</rt></ruby>の<ruby>好<rt>この</rt></ruby>みをあらかじめリサーチして<ruby>手土産<rt>てみやげ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ<ruby>優<rt>やさ</rt></ruby>しい<ruby>心配<rt>こころくば</rt></ruby>り。</p>
     </div>
   </div>
 </div>

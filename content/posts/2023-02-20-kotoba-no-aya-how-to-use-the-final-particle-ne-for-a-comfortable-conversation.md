@@ -58,32 +58,32 @@ tags:
 <ruby>語尾<rt>ごび</rt></ruby>を<ruby>静<rt>しず</rt></ruby>かに<ruby>落<rt>お</rt></ruby>とすことで、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>相手<rt>あいて</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>く<ruby>噛み締<rt>かみし</rt></ruby>め、しみじみと<ruby>同意<rt>どうい</rt></ruby>している<ruby>大人<rt>おとな</rt></ruby>のニュアンスが<ruby>漂<rt>ただよ</rt></ruby>います。<ruby>相手<rt>あいて</rt></ruby>が<ruby>辛<rt>つら</rt></ruby>い<ruby>話<rt>はなし</rt></ruby>や<ruby>重<rt>おも</rt></ruby>い<ruby>打ち明<rt>うちあ</rt></ruby>け<ruby>話<rt>はなし</rt></ruby>をしてくれた<ruby>時<rt>とき</rt></ruby>は、<ruby>決<rt>けっ</rt></ruby>して<ruby>語尾<rt>ごび</rt></ruby>を<ruby>跳<rt>は</rt></ruby>ね<ruby>上<rt>あ</rt></ruby>げず、<ruby>静<rt>しず</rt></ruby>かに「そうですね⤵……」と<ruby>息<rt>いき</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>くように<ruby>相槌<rt>あいづち</rt></ruby>を<ruby>打<rt>う</rt></ruby>つのが、<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>に<ruby>寄り添<rt>よりそ</rt></ruby>う<ruby>最大<rt>さいだい</rt></ruby>の<ruby>秘訣<rt>ひけつ</rt></ruby>です。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">共感（きょうかん）</span>
+        <span class="c-vocab-card__word"><ruby>共感<rt>きょうかん</rt></ruby>（きょうかん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>empathy, sympathy</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>友達の悩みを聞いて、深く共感した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>empathy, sympathy</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>友達<rt>ともだち</rt></ruby>の<ruby>悩<rt>なや</rt></ruby>みを<ruby>聞<rt>き</rt></ruby>いて、<ruby>深<rt>ふか</rt></ruby>く<ruby>共感<rt>きょうかん</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">同意（どうい）</span>
+        <span class="c-vocab-card__word"><ruby>同意<rt>どうい</rt></ruby>（どうい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>agreement, consent</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>会議で提案された新しい企画に、全員が同意した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>agreement, consent</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>会議<rt>かいぎ</rt></ruby>で<ruby>提案<rt>ていあん</rt></ruby>された<ruby>新<rt>あたら</rt></ruby>しい<ruby>企画<rt>きかく</rt></ruby>に、<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>同意<rt>どうい</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">相槌（あいづち）</span>
+        <span class="c-vocab-card__word"><ruby>相槌<rt>あいづち</rt></ruby>（あいづち）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>chiming in, nodding along</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>相手の話を熱心に聞きながら、適切な相槌を打つ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>chiming in, nodding along</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>相手<rt>あいて</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>聞<rt>き</rt></ruby>きながら、<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>相槌<rt>あいづち</rt></ruby>を<ruby>打<rt>う</rt></ruby>つ。</p>
     </div>
   </div>
 </div>

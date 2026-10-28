@@ -46,15 +46,15 @@ tags:
 <ruby>変化<rt>へんか</rt></ruby><ruby>動詞<rt>どうし</rt></ruby>に「〜ている」をつけた<ruby>場合<rt>ばあい</rt></ruby>、<ruby>意味<rt>いみ</rt></ruby>は「<ruby>今<rt>こん</rt></ruby><ruby>変化<rt>へんか</rt></ruby>している<ruby>最中<rt>さいちゅう</rt></ruby>」ではなく、**「<ruby>変化<rt>へんか</rt></ruby>が<ruby>完了<rt>かんりょう</rt></ruby>したあとの<ruby>結果<rt>けっか</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>がずっと<ruby>続<rt>つづ</rt></ruby>いている」**という<ruby>意味<rt>いみ</rt></ruby>になります！
 
 ```
-【「太る」の時間の流れ】
+【「<ruby>太<rt>ふと</rt></ruby>る」の<ruby>時間<rt>じかん</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れ】
 
-（過去）細い体型
+（<ruby>過去<rt>かこ</rt></ruby>）<ruby>細<rt>ほそ</rt></ruby>い<ruby>体型<rt>たいけい</rt></ruby>
    │
-   ▼ 【変化の瞬間／プロセス】＝「太る（これから太る／太りつつある）」
+   ▼ 【<ruby>変化<rt>へんか</rt></ruby>の<ruby>瞬間<rt>しゅんかん</rt></ruby>／プロセス】＝「<ruby>太<rt>ふと</rt></ruby>る（これから<ruby>太<rt>ふと</rt></ruby>る／<ruby>太<rt>ふと</rt></ruby>りつつある）」
    │
-（現在）体重が増加した！
+（<ruby>現在<rt>げんざい</rt></ruby>）<ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増加<rt>ぞうか</rt></ruby>した！
    │
-   ▼ 【結果の状態がキープされている】＝「太っている（現在の状態）」
+   ▼ 【<ruby>結果<rt>けっか</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>がキープされている】＝「<ruby>太<rt>ふと</rt></ruby>っている（<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>）」
 ```
 
 * **<ruby>太<rt>ふと</rt></ruby>る（<ruby>現在<rt>げんざい</rt></ruby><ruby>形<rt>がた</rt></ruby>・<ruby>未来<rt>みらい</rt></ruby><ruby>形<rt>がた</rt></ruby>）**：
@@ -170,32 +170,32 @@ tags:
 「<ruby>太<rt>ふと</rt></ruby>る」と「<ruby>太<rt>ふと</rt></ruby>っている」の<ruby>区別<rt>くべつ</rt></ruby>ができるようになると、<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>捉<rt>とら</rt></ruby>え<ruby>方<rt>かた</rt></ruby>（アスペクト）が<ruby>手<rt>て</rt></ruby>に<ruby>取<rt>と</rt></ruby>るようにわかるようになります。<ruby>自信<rt>じしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>使い分<rt>つかいわ</rt></ruby>けてみてくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">太る（ふとる）</span>
+        <span class="c-vocab-card__word"><ruby>太<rt>ふと</rt></ruby>る（ふとる）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>to gain weight (action)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>毎晩甘い夜食を食べていたら、一ヶ月で二キロも太ってしまった。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>to gain weight (action)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>毎晩<rt>まいばん</rt></ruby><ruby>甘<rt>あま</rt></ruby>い<ruby>夜食<rt>やしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べていたら、<ruby>一<rt>いち</rt></ruby><ruby>ヶ月<rt>かげつ</rt></ruby>で<ruby>二<rt>に</rt></ruby>キロも<ruby>太<rt>ふと</rt></ruby>ってしまった。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">太っている（ふとっている）</span>
+        <span class="c-vocab-card__word"><ruby>太<rt>ふと</rt></ruby>っている（ふとっている）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>to be plump (state)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>あの公園にいる猫は、近所の人からご飯をもらって丸々と太っている。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>to be plump (state)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>あの<ruby>公園<rt>こうえん</rt></ruby>にいる<ruby>猫<rt>ねこ</rt></ruby>は、<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>からご<ruby>飯<rt>はん</rt></ruby>をもらって<ruby>丸々<rt>まるまる</rt></ruby>と<ruby>太<rt>ふと</rt></ruby>っている。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">状態（じょうたい）</span>
+        <span class="c-vocab-card__word"><ruby>状態<rt>じょうたい</rt></ruby>（じょうたい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>condition, state</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>薬を飲んで安静にしていたおかげで、熱も下がって健康な状態に戻った。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>condition, state</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んで<ruby>安静<rt>あんせい</rt></ruby>にしていたおかげで、<ruby>熱<rt>ねつ</rt></ruby>も<ruby>下<rt>さ</rt></ruby>がって<ruby>健康<rt>けんこう</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>った。</p>
     </div>
   </div>
 </div>

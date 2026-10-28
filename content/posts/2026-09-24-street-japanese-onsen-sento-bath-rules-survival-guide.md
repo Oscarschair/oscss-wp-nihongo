@@ -47,16 +47,16 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>の<ruby>根本<rt>こんぽん</rt></ruby>にあるのは、**「<ruby>湯船<rt>ゆぶね</rt></ruby>はみんなで<ruby>共有<rt>きょうゆう</rt></ruby>する『<ruby>神聖<rt>しんせい</rt></ruby>な<ruby>癒<rt>い</rt></ruby>やしの<ruby>場<rt>じょう</rt></ruby>』であり、<ruby>決<rt>けっ</rt></ruby>して<ruby>体<rt>からだ</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う<ruby>場所<rt>ばしょ</rt></ruby>ではない」**という<ruby>価値<rt>かち</rt></ruby><ruby>観<rt>かん</rt></ruby>です。
 
 ```
-【温泉で絶対にやってはいけない3大タブー】
+【<ruby>温泉<rt>おんせん</rt></ruby>で<ruby>絶対<rt>ぜったい</rt></ruby>にやってはいけない3<ruby>大<rt>だい</rt></ruby>タブー】
 
-①【いきなり湯船に入る（身体を洗わない）】
-  👉 理由：汗やホコリがついたままのお湯は不衛生！ 次に入る人が気持ち悪くなる！
+①【いきなり<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る（<ruby>身体<rt>しんたい</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>わない）】
+  👉 <ruby>理由<rt>りゆう</rt></ruby>：<ruby>汗<rt>あせ</rt></ruby>やホコリがついたままのお<ruby>湯<rt>ゆ</rt></ruby>は<ruby>不衛生<rt>ふえいせい</rt></ruby>！ <ruby>次<rt>つぎ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>気持<rt>きも</rt></ruby>ち<ruby>悪<rt>わる</rt></ruby>くなる！
 
-②【タオルを湯船につける】
-  👉 理由：繊維くずや石鹸のカスが溶け出し、温泉の泉質とお湯が汚れる！
+②【タオルを<ruby>湯船<rt>ゆぶね</rt></ruby>につける】
+  👉 <ruby>理由<rt>りゆう</rt></ruby>：<ruby>繊維<rt>せんい</rt></ruby>くずや<ruby>石鹸<rt>せっけん</rt></ruby>のカスが<ruby>溶<rt>と</rt></ruby>け<ruby>出<rt>だ</rt></ruby>し、<ruby>温泉<rt>おんせん</rt></ruby>の<ruby>泉<rt>いずみ</rt></ruby><ruby>質<rt>ただし</rt></ruby>とお<ruby>湯<rt>ゆ</rt></ruby>が<ruby>汚<rt>よご</rt></ruby>れる！
 
-③【濡れたまま脱衣所に戻る】
-  👉 理由：脱衣所の床（畳やゴザ）が水浸しになり、靴下の人が濡れて大迷惑！
+③【<ruby>濡<rt>ぬ</rt></ruby>れたまま<ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る】
+  👉 <ruby>理由<rt>りゆう</rt></ruby>：<ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>の<ruby>床<rt>ゆか</rt></ruby>（<ruby>畳<rt>たたみ</rt></ruby>やゴザ）が<ruby>水浸<rt>みずびた</rt></ruby>しになり、<ruby>靴下<rt>くつした</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>濡<rt>ぬ</rt></ruby>れて<ruby>大<rt>だい</rt></ruby><ruby>迷惑<rt>めいわく</rt></ruby>！
 ```
 
 ---
@@ -66,22 +66,22 @@ tags:
 この<ruby>手順<rt>てじゅん</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>行動<rt>こうどう</rt></ruby>すれば、あなたはもう<ruby>誰<rt>だれ</rt></ruby>が<ruby>見<rt>み</rt></ruby>ても<ruby>立派<rt>りっぱ</rt></ruby>な「<ruby>温泉<rt>おんせん</rt></ruby>の<ruby>達人<rt>たつじん</rt></ruby>」です！
 
 ```
-［温泉サバイバルの黄金ステップ］
+［<ruby>温泉<rt>おんせん</rt></ruby>サバイバルの<ruby>黄金<rt>おうごん</rt></ruby>ステップ］
        │
-       ▼ ①【脱衣所】
- 貴金属（指輪・ネックレス）を外してロッカーへ！（※硫黄泉で変色するため）
+       ▼ ①【<ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>】
+ <ruby>貴金属<rt>ききんぞく</rt></ruby>（<ruby>指輪<rt>ゆびわ</rt></ruby>・ネックレス）を<ruby>外<rt>はず</rt></ruby>してロッカーへ！（※<ruby>硫黄<rt>いおう</rt></ruby><ruby>泉<rt>いずみ</rt></ruby>で<ruby>変色<rt>へんしょく</rt></ruby>するため）
        │
-       ▼ ②【浴室へ入る】
- 手のひらサイズの小さな「フェイスタオル」1枚だけを持って浴室へ。
+       ▼ ②【<ruby>浴室<rt>よくしつ</rt></ruby>へ<ruby>入<rt>はい</rt></ruby>る】
+ <ruby>手<rt>て</rt></ruby>のひらサイズの<ruby>小<rt>ちい</rt></ruby>さな「フェイスタオル」1<ruby>枚<rt>まい</rt></ruby>だけを<ruby>持<rt>も</rt></ruby>って<ruby>浴室<rt>よくしつ</rt></ruby>へ。
        │
-       ▼ ③【掛け湯 ＆ 洗い場へ直行】
- まず足先から掛け湯をして、洗い場で頭と身体を石鹸で綺麗に洗う！
+       ▼ ③【<ruby>掛<rt>か</rt></ruby>け<ruby>湯<rt>ゆ</rt></ruby> ＆ <ruby>洗い場<rt>あらいば</rt></ruby>へ<ruby>直行<rt>ちょっこう</rt></ruby>】
+ まず<ruby>足<rt>あし</rt></ruby><ruby>先<rt>さき</rt></ruby>から<ruby>掛<rt>か</rt></ruby>け<ruby>湯<rt>ゆ</rt></ruby>をして、<ruby>洗い場<rt>あらいば</rt></ruby>で<ruby>頭<rt>あたま</rt></ruby>と<ruby>身体<rt>しんたい</rt></ruby>を<ruby>石鹸<rt>せっけん</rt></ruby>で<ruby>綺麗<rt>きれい</rt></ruby>に<ruby>洗<rt>あら</rt></ruby>う！
        │
-       ▼ ④【いざ、湯船へ！】
- タオルをきつく絞って「頭の上」に乗せ、静かに湯船に浸かる。
+       ▼ ④【いざ、<ruby>湯船<rt>ゆぶね</rt></ruby>へ！】
+ タオルをきつく<ruby>絞<rt>しぼ</rt></ruby>って「<ruby>頭<rt>あたま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>」に<ruby>乗<rt>の</rt></ruby>せ、<ruby>静<rt>しず</rt></ruby>かに<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>浸<rt>つ</rt></ruby>かる。
        │
-       ▼ ⑤【脱衣所に戻る前に身体を拭く！】
- 浴室の出口で、持っているタオルで身体の表面の水分をしっかり拭き取る！
+       ▼ ⑤【<ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>身体<rt>しんたい</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>く！】
+ <ruby>浴室<rt>よくしつ</rt></ruby>の<ruby>出口<rt>でぐち</rt></ruby>で、<ruby>持<rt>も</rt></ruby>っているタオルで<ruby>身体<rt>しんたい</rt></ruby>の<ruby>表面<rt>ひょうめん</rt></ruby>の<ruby>水分<rt>すいぶん</rt></ruby>をしっかり<ruby>拭き取<rt>ふきと</rt></ruby>る！
 ```
 
 ---
@@ -93,9 +93,9 @@ tags:
 「あれ、ただのオシャレやポーズでしょ？」と<ruby>思<rt>おも</rt></ruby>われがちですが、<ruby>実<rt>じつ</rt></ruby>は**<ruby>命<rt>いのち</rt></ruby>を<ruby>守<rt>まも</rt></ruby>るための<ruby>科学<rt>かがく</rt></ruby><ruby>的<rt>てき</rt></ruby>・<ruby>医学<rt>いがく</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>知恵<rt>ちえ</rt></ruby>**なのです！
 
 ```
-【頭乗せタオルの医学的メカニズム】
-● 熱いお湯（41℃〜42℃以上）に浸かると、急激に血圧が上がり、頭に血がのぼりやすくなる。
-● 冷たい水で濡らして絞ったタオルを頭に乗せることで、頭部の血管を冷やし、「のぼせ」や「立ちくらみ（脳貧血）」を強力に防止している！
+【<ruby>頭<rt>あたま</rt></ruby><ruby>乗<rt>の</rt></ruby>せタオルの<ruby>医学<rt>いがく</rt></ruby><ruby>的<rt>てき</rt></ruby>メカニズム】
+● <ruby>熱<rt>あつ</rt></ruby>いお<ruby>湯<rt>ゆ</rt></ruby>（41℃〜42℃<ruby>以上<rt>いじょう</rt></ruby>）に<ruby>浸<rt>つ</rt></ruby>かると、<ruby>急激<rt>きゅうげき</rt></ruby>に<ruby>血圧<rt>けつあつ</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がり、<ruby>頭<rt>あたま</rt></ruby>に<ruby>血<rt>ち</rt></ruby>がのぼりやすくなる。
+● <ruby>冷<rt>つめ</rt></ruby>たい<ruby>水<rt>みず</rt></ruby>で<ruby>濡<rt>ぬ</rt></ruby>らして<ruby>絞<rt>しぼ</rt></ruby>ったタオルを<ruby>頭<rt>あたま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>せることで、<ruby>頭部<rt>とうぶ</rt></ruby>の<ruby>血管<rt>けっかん</rt></ruby>を<ruby>冷<rt>ひ</rt></ruby>やし、「のぼせ」や「<ruby>立<rt>た</rt></ruby>ちくらみ（<ruby>脳貧血<rt>のうひんけつ</rt></ruby>）」を<ruby>強力<rt>きょうりょく</rt></ruby>に<ruby>防止<rt>ぼうし</rt></ruby>している！
 ```
 
 ---
@@ -106,13 +106,13 @@ tags:
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>公衆<rt>こうしゅう</rt></ruby><ruby>浴場<rt>よくじょう</rt></ruby>では、かつて<ruby>反<rt>はん</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>勢力<rt>せいりょく</rt></ruby>（ヤクザ）を<ruby>排除<rt>はいじょ</rt></ruby>するために<ruby>作<rt>つく</rt></ruby>られたルールが<ruby>今<rt>いま</rt></ruby>も<ruby>慣習<rt>かんしゅう</rt></ruby>として<ruby>残<rt>のこ</rt></ruby>っています。
 
 ```
-【タトゥーがある場合の3大温泉サバイバル術】
-1. 【肌色シール（カバーシール）で隠す】
-   ワンポイントの小さなタトゥーなら、フロントで専用の防水シール（タトゥー隠しシール）を購入して貼れば入浴OKな施設が激増しています！
-2. 【貸切風呂（家族風呂・プライベート温泉）を予約する】
-   旅館の客室露天風呂や貸切風呂なら、タトゥーの有無に関係なく完全プライベートで気兼ねなく温泉を楽しめます！
-3. 【「タトゥーフレンドリー」な温泉を検索する】
-   近年、インバウンドの増加に伴い、タトゥーを歓迎する銭湯や温泉宿も急速に増えています（「Tattoo Friendly Japan」などの検索サイトを活用）。
+【タトゥーがある<ruby>場合<rt>ばあい</rt></ruby>の3<ruby>大<rt>だい</rt></ruby><ruby>温泉<rt>おんせん</rt></ruby>サバイバル<ruby>術<rt>じゅつ</rt></ruby>】
+1. 【<ruby>肌色<rt>はだいろ</rt></ruby>シール（カバーシール）で<ruby>隠<rt>かく</rt></ruby>す】
+   ワンポイントの<ruby>小<rt>ちい</rt></ruby>さなタトゥーなら、フロントで<ruby>専用<rt>せんよう</rt></ruby>の<ruby>防水<rt>ぼうすい</rt></ruby>シール（タトゥー<ruby>隠<rt>かく</rt></ruby>しシール）を<ruby>購入<rt>こうにゅう</rt></ruby>して<ruby>貼<rt>は</rt></ruby>れば<ruby>入浴<rt>にゅうよく</rt></ruby>OKな<ruby>施設<rt>しせつ</rt></ruby>が<ruby>激増<rt>げきぞう</rt></ruby>しています！
+2. 【<ruby>貸切<rt>かしきり</rt></ruby><ruby>風呂<rt>ふろ</rt></ruby>（<ruby>家族<rt>かぞく</rt></ruby><ruby>風呂<rt>ふろ</rt></ruby>・プライベート<ruby>温泉<rt>おんせん</rt></ruby>）を<ruby>予約<rt>よやく</rt></ruby>する】
+   <ruby>旅館<rt>りょかん</rt></ruby>の<ruby>客室<rt>きゃくしつ</rt></ruby><ruby>露天風呂<rt>ろてんぶろ</rt></ruby>や<ruby>貸切<rt>かしきり</rt></ruby><ruby>風呂<rt>ふろ</rt></ruby>なら、タトゥーの<ruby>有無<rt>うむ</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なく<ruby>完全<rt>かんぜん</rt></ruby>プライベートで<ruby>気兼<rt>きが</rt></ruby>ねなく<ruby>温泉<rt>おんせん</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しめます！
+3. 【「タトゥーフレンドリー」な<ruby>温泉<rt>おんせん</rt></ruby>を<ruby>検索<rt>けんさく</rt></ruby>する】
+   <ruby>近年<rt>きんねん</rt></ruby>、インバウンドの<ruby>増加<rt>ぞうか</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い、タトゥーを<ruby>歓迎<rt>かんげい</rt></ruby>する<ruby>銭湯<rt>せんとう</rt></ruby>や<ruby>温泉<rt>おんせん</rt></ruby><ruby>宿<rt>やど</rt></ruby>も<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>えています（「Tattoo Friendly Japan」などの<ruby>検索<rt>けんさく</rt></ruby>サイトを<ruby>活用<rt>かつよう</rt></ruby>）。
 ```
 
 ---
@@ -148,20 +148,20 @@ tags:
 あなたの<ruby>温泉<rt>おんせん</rt></ruby>マナー<ruby>知識<rt>ちしき</rt></ruby>を<ruby>試<rt>ため</rt></ruby>してみましょう！
 
 ```
-【第1問】
-大浴場に入ったら、まず最初にするべき行動はどれ？
-① 一番広くて気持ちよさそうな湯船に飛び込む
-② 洗い場で身体と頭を洗う（または掛け湯をする）
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>大<rt>だい</rt></ruby><ruby>浴場<rt>よくじょう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったら、まず<ruby>最初<rt>さいしょ</rt></ruby>にするべき<ruby>行動<rt>こうどう</rt></ruby>はどれ？
+① <ruby>一番<rt>いちばん</rt></ruby><ruby>広<rt>ひろ</rt></ruby>くて<ruby>気持<rt>きも</rt></ruby>ちよさそうな<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>飛び込<rt>とびこ</rt></ruby>む
+② <ruby>洗い場<rt>あらいば</rt></ruby>で<ruby>身体<rt>しんたい</rt></ruby>と<ruby>頭<rt>あたま</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う（または<ruby>掛<rt>か</rt></ruby>け<ruby>湯<rt>ゆ</rt></ruby>をする）
 
-【第2問】
-持参した小さなフェイスタオルは、湯船の中でどうするべき？
-① 湯船につけて、お湯の中で身体を洗う
-② 湯船の外に置くか、頭の上に乗せておく
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>持参<rt>じさん</rt></ruby>した<ruby>小<rt>ちい</rt></ruby>さなフェイスタオルは、<ruby>湯船<rt>ゆぶね</rt></ruby>の<ruby>中<rt>なか</rt></ruby>でどうするべき？
+① <ruby>湯船<rt>ゆぶね</rt></ruby>につけて、お<ruby>湯<rt>ゆ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>身体<rt>しんたい</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う
+② <ruby>湯船<rt>ゆぶね</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>置<rt>お</rt></ruby>くか、<ruby>頭<rt>あたま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>せておく
 
-【第3問】
-お風呂から上がって脱衣所に戻る直前、絶対に忘れてはいけないマナーは？
-① 浴室の出口で、身体の水分をタオルでしっかり拭き取る
-② 濡れたまま勢いよく脱衣所に飛び出して扇風機に当たる
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+お<ruby>風呂<rt>ふろ</rt></ruby>から<ruby>上<rt>あ</rt></ruby>がって<ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<ruby>直前<rt>ちょくぜん</rt></ruby>、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>忘<rt>わす</rt></ruby>れてはいけないマナーは？
+① <ruby>浴室<rt>よくしつ</rt></ruby>の<ruby>出口<rt>でぐち</rt></ruby>で、<ruby>身体<rt>しんたい</rt></ruby>の<ruby>水分<rt>すいぶん</rt></ruby>をタオルでしっかり<ruby>拭き取<rt>ふきと</rt></ruby>る
+② <ruby>濡<rt>ぬ</rt></ruby>れたまま<ruby>勢<rt>いきお</rt></ruby>いよく<ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>に<ruby>飛び出<rt>とびだ</rt></ruby>して<ruby>扇風機<rt>せんぷうき</rt></ruby>に<ruby>当<rt>あ</rt></ruby>たる
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -186,32 +186,32 @@ tags:
 <ruby>裸<rt>はだか</rt></ruby>の<ruby>付き合<rt>つきあ</rt></ruby>いを<ruby>通<rt>つう</rt></ruby>じて、<ruby>日頃<rt>ひごろ</rt></ruby>のストレスや<ruby>肩書<rt>かたが</rt></ruby>きを<ruby>忘<rt>わす</rt></ruby>れ、<ruby>誰<rt>だれ</rt></ruby>もが<ruby>平等<rt>びょうどう</rt></ruby>に<ruby>癒<rt>い</rt></ruby>やされる<ruby>場所<rt>ばしょ</rt></ruby>。それが<ruby>日本<rt>にほん</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby>です。マナーを<ruby>守<rt>まも</rt></ruby>って、<ruby>日本<rt>にほん</rt></ruby>が<ruby>誇<rt>ほこ</rt></ruby>る<ruby>極楽<rt>ごくらく</rt></ruby>の<ruby>湯<rt>ゆ</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>ゆくまで<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">温泉（おんせん）</span>
+        <span class="c-vocab-card__word"><ruby>温泉<rt>おんせん</rt></ruby>（おんせん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>hot spring</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>旅行で箱根の温泉に行き、露天風呂でゆっくりと疲れを癒やした。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>hot spring</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>旅行<rt>りょこう</rt></ruby>で<ruby>箱根<rt>はこね</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>行<rt>い</rt></ruby>き、<ruby>露天風呂<rt>ろてんぶろ</rt></ruby>でゆっくりと<ruby>疲<rt>つか</rt></ruby>れを癒やした。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">湯船（ゆぶね）</span>
+        <span class="c-vocab-card__word"><ruby>湯船<rt>ゆぶね</rt></ruby>（ゆぶね）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>bathtub</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>体を石鹸で洗ってから湯船に入るのが、日本の温泉の基本マナーです。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>bathtub</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>体<rt>からだ</rt></ruby>を<ruby>石鹸<rt>せっけん</rt></ruby>で<ruby>洗<rt>あら</rt></ruby>ってから<ruby>湯船<rt>ゆぶね</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るのが、<ruby>日本<rt>にほん</rt></ruby>の<ruby>温泉<rt>おんせん</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby>マナーです。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">脱衣所（だついじょ）</span>
+        <span class="c-vocab-card__word"><ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>（だついじょ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>dressing room</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お風呂から上がる前に、脱衣所の手前で体をタオルでよく拭く。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>dressing room</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>風呂<rt>ふろ</rt></ruby>から<ruby>上<rt>あ</rt></ruby>がる<ruby>前<rt>まえ</rt></ruby>に、<ruby>脱衣<rt>だつい</rt></ruby><ruby>所<rt>しょ</rt></ruby>の<ruby>手前<rt>てまえ</rt></ruby>で<ruby>体<rt>からだ</rt></ruby>をタオルでよく<ruby>拭<rt>ふ</rt></ruby>く。</p>
     </div>
   </div>
 </div>

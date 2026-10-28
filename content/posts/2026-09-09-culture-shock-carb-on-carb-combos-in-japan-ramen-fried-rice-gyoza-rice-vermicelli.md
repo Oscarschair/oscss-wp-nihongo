@@ -49,8 +49,8 @@ description: "香港や中華圏では炒飯も餃子もビーフンも1品で�
 
 <ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーが<ruby>驚<rt>おどろ</rt></ruby>いた、<ruby>日本<rt>にっぽん</rt></ruby>と<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>のリアルな<ruby>違<rt>ちが</rt></ruby>い！
 
-* 🧊 [カルチャーショック：<ruby>真冬<rt>まふゆ</rt></ruby>でも<ruby>氷水<rt>こおりみず</rt></ruby>！？<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>冷<rt>つめ</rt></ruby>たいおもてなし」と<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>の「<ruby>温<rt>あたた</rt></ruby>かいお<ruby>湯<rt>ゆ</rt></ruby>」<ruby>文化<rt>ぶんか</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture/)
-* 🥟 [カルチャーショック：<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>美味<rt>おい</rt></ruby>しいご<ruby>飯<rt>はん</rt></ruby>とお<ruby>米<rt>べい</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>｜<ruby>本場<rt>ほんば</rt></ruby>の<ruby>中華<rt>ちゅうか</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>す<ruby>旅<rt>たび</rt></ruby>](https://nihongo.oscarchair.jp/culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-restaurant/)
+* 🧊 [カルチャーショック：<ruby>真冬<rt>まふゆ</rt></ruby>でも<ruby>氷水<rt>こおりみず</rt></ruby>！？<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>冷<rt>つめ</rt></ruby>たいおもてなし」と<ruby>中華<rt>ちゅうか</rt></ruby><ruby>圏<rt>けん</rt></ruby>の「<ruby>温<rt>あたた</rt></ruby>かいお<ruby>湯<rt>ゆ</rt></ruby>」<ruby>文化<rt>ぶんか</rt></ruby>](__PROTECTED_0__)
+* 🥟 [カルチャーショック：<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>美味<rt>おい</rt></ruby>しいご<ruby>飯<rt>はん</rt></ruby>とお<ruby>米<rt>べい</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>｜<ruby>本場<rt>ほんば</rt></ruby>の<ruby>中華<rt>ちゅうか</rt></ruby><ruby>料理<rt>りょうり</rt></ruby><ruby>店<rt>てん</rt></ruby>を<ruby>探<rt>さが</rt></ruby>す<ruby>旅<rt>たび</rt></ruby>](__PROTECTED_1__)
 
 [oscss_related slug="street-japanese-izakaya-survival-guide" label="あわせて<ruby>読<rt>よ</rt></ruby>みたい：<ruby>居酒屋<rt>いざかや</rt></ruby><ruby>編<rt>へん</rt></ruby>"]
 [oscss_related slug="culture-shock-why-japanese-streets-are-clean-without-trash-cans" label="カルチャーショック：<ruby>ゴミ箱<rt>ごみばこ</rt></ruby>なし<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>謎<rt>なぞ</rt></ruby>"]
@@ -105,32 +105,32 @@ description: "香港や中華圏では炒飯も餃子もビーフンも1品で�
 <ruby>日本<rt>にほん</rt></ruby>の<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>の<ruby>奥深<rt>おくふか</rt></ruby>さと、<ruby>働<rt>はたら</rt></ruby>く<ruby>人々<rt>ひとびと</rt></ruby>の<ruby>活力<rt>かつりょく</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>える<ruby>温<rt>あたた</rt></ruby>かい<ruby>定食<rt>ていしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>の<ruby>魅力<rt>みりょく</rt></ruby>を、ぜひお<ruby>腹<rt>はら</rt></ruby>いっぱい<ruby>味<rt>あじ</rt></ruby>わってみてくださいね！ これからも<ruby>様々<rt>さまざま</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby>の<ruby>美味<rt>おい</rt></ruby>しい<ruby>食<rt>しょく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>を<ruby>体験<rt>たいけん</rt></ruby>して、<ruby>元気<rt>げんき</rt></ruby>いっぱいに<ruby>毎日<rt>まいにち</rt></ruby>を<ruby>過<rt>す</rt></ruby>ごしていきましょう！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">炭水化物（たんすいかぶつ）</span>
+        <span class="c-vocab-card__word"><ruby>炭水化物<rt>たんすいかぶつ</rt></ruby>（たんすいかぶつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>carbohydrate</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>ラーメンとチャーハンのセットは、炭水化物同士の組み合わせだ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>carbohydrate</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>ラーメンとチャーハンのセットは、<ruby>炭水化物<rt>たんすいかぶつ</rt></ruby><ruby>同士<rt>どうし</rt></ruby>の<ruby>組み合<rt>くみあ</rt></ruby>わせだ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">満腹（まんぷく）</span>
+        <span class="c-vocab-card__word"><ruby>満腹<rt>まんぷく</rt></ruby>（まんぷく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>full stomach</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>安くてボリューム満点の定食を食べて、お腹がいっぱい満腹になった。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>full stomach</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>安<rt>やす</rt></ruby>くてボリューム<ruby>満点<rt>まんてん</rt></ruby>の<ruby>定食<rt>ていしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べて、お<ruby>腹<rt>なか</rt></ruby>がいっぱい<ruby>満腹<rt>まんぷく</rt></ruby>になった。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">組み合わせ（くみあわせ）</span>
+        <span class="c-vocab-card__word"><ruby>組み合<rt>くみあ</rt></ruby>わせ（くみあわせ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>combination</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>餃子と白ご飯の組み合わせは、日本の定食屋で大人気です。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>combination</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>餃子<rt>ぎょうざ</rt></ruby>と<ruby>白<rt>しろ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>の<ruby>組み合<rt>くみあ</rt></ruby>わせは、<ruby>日本<rt>にほん</rt></ruby>の<ruby>定食<rt>ていしょく</rt></ruby><ruby>屋<rt>や</rt></ruby>で<ruby>大人気<rt>だいにんき</rt></ruby>です。</p>
     </div>
   </div>
 </div>

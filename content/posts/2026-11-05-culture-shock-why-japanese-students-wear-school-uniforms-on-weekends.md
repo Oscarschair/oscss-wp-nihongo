@@ -28,18 +28,18 @@ tags:
 <ruby>休日<rt>きゅうじつ</rt></ruby>の<ruby>街<rt>まち</rt></ruby>で<ruby>見<rt>み</rt></ruby>かける<ruby>制服<rt>せいふく</rt></ruby><ruby>姿<rt>すがた</rt></ruby>の<ruby>生徒<rt>せいと</rt></ruby>たち。<ruby>実<rt>じつ</rt></ruby>はその<ruby>理由<rt>りゆう</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きく**「<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>」**と**「<ruby>楽<rt>たの</rt></ruby>しい<ruby>理由<rt>りゆう</rt></ruby>」**の2つに<ruby>分<rt>わ</rt></ruby>かれます。
 
 ```
-【真面目な理由（学校・勉強関連）】
-  ① 部活動（ぶかつどう）・練習試合・大会
-      ・土日も朝から夕方まで練習や試合がある。
-      ・「部活への行き帰りは制服または学校指定ジャージ」という校則が一般的！
-  ② 塾（じゅく）・予備校・模擬試験（模試）
-      ・日曜日に行われる模試は、本番の受験と同じ緊張感を保つため制服で受ける生徒が多い。
+【<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>理由<rt>りゆう</rt></ruby>（<ruby>学校<rt>がっこう</rt></ruby>・<ruby>勉強<rt>べんきょう</rt></ruby><ruby>関連<rt>かんれん</rt></ruby>）】
+  ① <ruby>部<rt>ぶ</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>（ぶかつどう）・<ruby>練習<rt>れんしゅう</rt></ruby><ruby>試合<rt>しあい</rt></ruby>・<ruby>大会<rt>たいかい</rt></ruby>
+      ・<ruby>土日<rt>どにち</rt></ruby>も<ruby>朝<rt>あさ</rt></ruby>から<ruby>夕方<rt>ゆうがた</rt></ruby>まで<ruby>練習<rt>れんしゅう</rt></ruby>や<ruby>試合<rt>しあい</rt></ruby>がある。
+      ・「<ruby>部活<rt>ぶかつ</rt></ruby>への<ruby>行き帰<rt>ゆきかえ</rt></ruby>りは<ruby>制服<rt>せいふく</rt></ruby>または<ruby>学校<rt>がっこう</rt></ruby><ruby>指定<rt>してい</rt></ruby>ジャージ」という<ruby>校則<rt>こうそく</rt></ruby>が<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>！
+  ② <ruby>塾<rt>じゅく</rt></ruby>（じゅく）・<ruby>予備校<rt>よびこう</rt></ruby>・<ruby>模擬<rt>もぎ</rt></ruby><ruby>試験<rt>しけん</rt></ruby>（<ruby>模試<rt>もし</rt></ruby>）
+      ・<ruby>日曜日<rt>にちようび</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>われる<ruby>模試<rt>もし</rt></ruby>は、<ruby>本番<rt>ほんばん</rt></ruby>の<ruby>受験<rt>じゅけん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>緊張<rt>きんちょう</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つため<ruby>制服<rt>せいふく</rt></ruby>で<ruby>受<rt>う</rt></ruby>ける<ruby>生徒<rt>せいと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。
 
-【楽しい理由（プライベート・遊び関連）】
-  ③ 私服を選ぶのが面倒（朝の時短＆経済的）
-      ・「私服のセンスに自信がない」「服を何着も買うとお金がかかる」生徒にとって、制服は最高の解決策！
-  ④ 青春（せいしゅん）のシンボル・お揃いコーデ
-      ・「制服ディズニー」「制服ユニバ」「制服プリクラ」など、友達とお揃いで着て遊びに行くのが最高のステータス！
+【<ruby>楽<rt>たの</rt></ruby>しい<ruby>理由<rt>りゆう</rt></ruby>（プライベート・<ruby>遊<rt>あそ</rt></ruby>び<ruby>関連<rt>かんれん</rt></ruby>）】
+  ③ <ruby>私服<rt>しふく</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶのが<ruby>面倒<rt>めんどう</rt></ruby>（<ruby>朝<rt>あさ</rt></ruby>の<ruby>時短<rt>じたん</rt></ruby>＆<ruby>経済<rt>けいざい</rt></ruby><ruby>的<rt>てき</rt></ruby>）
+      ・「<ruby>私服<rt>しふく</rt></ruby>のセンスに<ruby>自信<rt>じしん</rt></ruby>がない」「<ruby>服<rt>ふく</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>着<rt>ちゃく</rt></ruby>も<ruby>買<rt>か</rt></ruby>うとお<ruby>金<rt>かね</rt></ruby>がかかる」<ruby>生徒<rt>せいと</rt></ruby>にとって、<ruby>制服<rt>せいふく</rt></ruby>は<ruby>最高<rt>さいこう</rt></ruby>の<ruby>解決<rt>かいけつ</rt></ruby><ruby>策<rt>さく</rt></ruby>！
+  ④ <ruby>青春<rt>せいしゅん</rt></ruby>（せいしゅん）のシンボル・お<ruby>揃<rt>そろ</rt></ruby>いコーデ
+      ・「<ruby>制服<rt>せいふく</rt></ruby>ディズニー」「<ruby>制服<rt>せいふく</rt></ruby>ユニバ」「<ruby>制服<rt>せいふく</rt></ruby>プリクラ」など、<ruby>友達<rt>ともだち</rt></ruby>とお<ruby>揃<rt>そろ</rt></ruby>いで<ruby>着<rt>き</rt></ruby>て<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>くのが<ruby>最高<rt>さいこう</rt></ruby>のステータス！
 ```
 
 ---
@@ -138,32 +138,32 @@ tags:
 * 📌 **<ruby>日本<rt>にほん</rt></ruby>において<ruby>制服<rt>せいふく</rt></ruby>は「<ruby>青春<rt>せいしゅん</rt></ruby>の<ruby>最強<rt>さいきょう</rt></ruby>ファッション＆<ruby>最高<rt>さいこう</rt></ruby>の<ruby>思い出<rt>おもいで</rt></ruby>づくりツール」！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">制服（せいふく）</span>
+        <span class="c-vocab-card__word"><ruby>制服<rt>せいふく</rt></ruby>（せいふく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>school uniform, uniform</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本の高校生の制服には、ブレザーやセーラー服など様々な種類があります。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>school uniform, uniform</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>の<ruby>高校生<rt>こうこうせい</rt></ruby>の<ruby>制服<rt>せいふく</rt></ruby>には、ブレザーや<ruby>セーラー服<rt>せーらーふく</rt></ruby>など<ruby>様々<rt>さまざま</rt></ruby>な<ruby>種類<rt>しゅるい</rt></ruby>があります。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">部活動（ぶかつどう）</span>
+        <span class="c-vocab-card__word"><ruby>部<rt>ぶ</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>（ぶかつどう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>club activities, extracurricular activities</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>放課後や休日は、サッカーの部活動に打ち込んでいます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>club activities, extracurricular activities</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>放課後<rt>ほうかご</rt></ruby>や<ruby>休日<rt>きゅうじつ</rt></ruby>は、サッカーの<ruby>部<rt>ぶ</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>に<ruby>打ち込<rt>うちこ</rt></ruby>んでいます。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">青春（せいしゅん）</span>
+        <span class="c-vocab-card__word"><ruby>青春<rt>せいしゅん</rt></ruby>（せいしゅん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>youth, springtime of life, adolescence</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>高校時代の友人たちと過ごした時間は、かけがえのない青春の思い出です。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>youth, springtime of life, adolescence</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>高校<rt>こうこう</rt></ruby><ruby>時代<rt>じだい</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>たちと<ruby>過<rt>す</rt></ruby>ごした<ruby>時間<rt>じかん</rt></ruby>は、かけがえのない<ruby>青春<rt>せいしゅん</rt></ruby>の<ruby>思い出<rt>おもいで</rt></ruby>です。</p>
     </div>
   </div>
 </div>

@@ -26,21 +26,21 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>日本人<rt>にっぽんじん</rt></ruby>がマスクを<ruby>着<rt>つ</rt></ruby>ける5<ruby>大<rt>だい</rt></ruby><ruby>理由<rt>りゆう</rt></ruby>
 
 ```
-【理由1：花粉症（かふんしょう）・アレルギー対策】
-  春のスギ花粉だけでなく、秋のブタクサ・ヒノキ・イネなど、日本人の4割が花粉症！
+【<ruby>理由<rt>りゆう</rt></ruby>1：<ruby>花粉<rt>かふん</rt></ruby><ruby>症<rt>しょう</rt></ruby>（かふんしょう）・アレルギー<ruby>対策<rt>たいさく</rt></ruby>】
+  <ruby>春<rt>はる</rt></ruby>のスギ<ruby>花粉<rt>かふん</rt></ruby>だけでなく、<ruby>秋<rt>あき</rt></ruby>のブタクサ・ヒノキ・イネなど、<ruby>日本人<rt>にほんじん</rt></ruby>の4<ruby>割<rt>わり</rt></ruby>が<ruby>花粉<rt>かふん</rt></ruby><ruby>症<rt>しょう</rt></ruby>！
 
-【理由2：すっぴん隠し・髭剃りサボり】
-  女性「メイクしなくていいから朝の準備が15分短縮できる！」
-  男性「髭（ひげ）を剃らなくてもバレないから楽ちん！」
+【<ruby>理由<rt>りゆう</rt></ruby>2：すっぴん<ruby>隠<rt>かく</rt></ruby>し・<ruby>髭<rt>ひげ</rt></ruby><ruby>剃<rt>そ</rt></ruby>りサボり】
+  <ruby>女性<rt>じょせい</rt></ruby>「メイクしなくていいから<ruby>朝<rt>あさ</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>が15<ruby>分<rt>ふん</rt></ruby><ruby>短縮<rt>たんしゅく</rt></ruby>できる！」
+  <ruby>男性<rt>だんせい</rt></ruby>「<ruby>髭<rt>ひげ</rt></ruby>（ひげ）を<ruby>剃<rt>そ</rt></ruby>らなくてもバレないから<ruby>楽<rt>らく</rt></ruby>ちん！」
 
-【理由3：心理的バリア・安心感（伊達マスク）】
-  他人の視線を遮断し、自分のテリトリー（パーソナルスペース）を守れる安心感。
+【<ruby>理由<rt>りゆう</rt></ruby>3：<ruby>心理<rt>しんり</rt></ruby><ruby>的<rt>てき</rt></ruby>バリア・<ruby>安心<rt>あんしん</rt></ruby><ruby>感<rt>かん</rt></ruby>（<ruby>伊達<rt>だて</rt></ruby>マスク）】
+  <ruby>他人<rt>たにん</rt></ruby>の<ruby>視線<rt>しせん</rt></ruby>を<ruby>遮断<rt>しゃだん</rt></ruby>し、<ruby>自分<rt>じぶん</rt></ruby>のテリトリー（パーソナルスペース）を<ruby>守<rt>まも</rt></ruby>れる<ruby>安心<rt>あんしん</rt></ruby><ruby>感<rt>かん</rt></ruby>。
 
-【理由4：表情を作らなくていい（感情労働の軽減）】
-  笑顔を作ったり口角を上げたりしなくても、失礼に見えない。
+【<ruby>理由<rt>りゆう</rt></ruby>4：<ruby>表情<rt>ひょうじょう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>らなくていい（<ruby>感情<rt>かんじょう</rt></ruby><ruby>労働<rt>ろうどう</rt></ruby>の<ruby>軽減<rt>けいげん</rt></ruby>）】
+  <ruby>笑顔<rt>えがお</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったり<ruby>口角<rt>こうかく</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げたりしなくても、<ruby>失礼<rt>しつれい</rt></ruby>に<ruby>見<rt>み</rt></ruby>えない。
 
-【理由5：周囲への同調圧力（みんなが着けているから）】
-  「1人だけ外してジロジロ見られたくない」という集団同調心理。
+【<ruby>理由<rt>りゆう</rt></ruby>5：<ruby>周囲<rt>しゅうい</rt></ruby>への<ruby>同調<rt>どうちょう</rt></ruby><ruby>圧力<rt>あつりょく</rt></ruby>（みんなが<ruby>着<rt>つ</rt></ruby>けているから）】
+  「<ruby>1人<rt>ひとり</rt></ruby>だけ<ruby>外<rt>はず</rt></ruby>してジロジロ<ruby>見<rt>み</rt></ruby>られたくない」という<ruby>集団<rt>しゅうだん</rt></ruby><ruby>同調<rt>どうちょう</rt></ruby><ruby>心理<rt>しんり</rt></ruby>。
 ```
 
 ---
@@ -140,32 +140,32 @@ tags:
 * 📌 **<ruby>着用<rt>ちゃくよう</rt></ruby>は<ruby>個人<rt>こじん</rt></ruby>の<ruby>自由<rt>じゆう</rt></ruby>！<ruby>病院<rt>びょういん</rt></ruby>や<ruby>咳<rt>せき</rt></ruby>が<ruby>出<rt>で</rt></ruby>るときだけカバンから<ruby>出<rt>だ</rt></ruby>せばOK！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">素顔（すがお）</span>
+        <span class="c-vocab-card__word"><ruby>素顔<rt>すがお</rt></ruby>（すがお）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>unmade-up face, real face, natural appearance</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>休日は肌を休めるために、メイクをせず素顔のままで過ごします。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>unmade-up face, real face, natural appearance</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>肌<rt>はだ</rt></ruby>を<ruby>休<rt>やす</rt></ruby>めるために、メイクをせず<ruby>素顔<rt>すがお</rt></ruby>のままで<ruby>過<rt>す</rt></ruby>ごします。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">同調圧力（どうちょうあつりょく）</span>
+        <span class="c-vocab-card__word"><ruby>同調<rt>どうちょう</rt></ruby><ruby>圧力<rt>あつりょく</rt></ruby>（どうちょうあつりょく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>peer pressure, pressure to conform</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>周囲の同調圧力に負けず、自分の意見を堂々と主張することが大切です。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>peer pressure, pressure to conform</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>同調<rt>どうちょう</rt></ruby><ruby>圧力<rt>あつりょく</rt></ruby>に<ruby>負<rt>ま</rt></ruby>けず、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>主張<rt>しゅちょう</rt></ruby>することが<ruby>大切<rt>たいせつ</rt></ruby>です。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">予防（よぼう）</span>
+        <span class="c-vocab-card__word"><ruby>予防<rt>よぼう</rt></ruby>（よぼう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>prevention, precaution</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>風邪の予防のために、帰宅後は手洗いうがいを徹底しています。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>prevention, precaution</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>風邪<rt>かぜ</rt></ruby>の<ruby>予防<rt>よぼう</rt></ruby>のために、<ruby>帰宅<rt>きたく</rt></ruby><ruby>後<rt>ご</rt></ruby>は<ruby>手洗<rt>てあらい</rt></ruby>いうがいを<ruby>徹底<rt>てってい</rt></ruby>しています。</p>
     </div>
   </div>
 </div>

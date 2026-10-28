@@ -14,8 +14,7 @@ tags:
   - お風呂文化
   - JLPT N3
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックでは、<ruby>青春<rt>せいしゅん</rt></ruby>の「**[なぜ日本の学生は休日でも制服を着ているの！？](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-05-culture-shock-why-japanese-students-wear-school-uniforms-on-weekends.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックでは、<ruby>青春<rt>せいしゅん</rt></ruby>の「**[なぜ<ruby>日本<rt>にほん</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>は<ruby>休日<rt>きゅうじつ</rt></ruby>でも<ruby>制服<rt>せいふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ているの！？](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-05-culture-shock-why-japanese-students-wear-school-uniforms-on-weekends.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>でホームステイやシェアハウス、<ruby>同居<rt>どうきょ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めた<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>がほぼ100%<ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける<ruby>大<rt>だい</rt></ruby><ruby>定番<rt>ていばん</rt></ruby>、**「お<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>り<ruby>湯<rt>ゆ</rt></ruby><ruby>洗濯<rt>せんたく</rt></ruby>」カルチャーショック**です！
 
@@ -29,15 +28,15 @@ tags:
 <ruby>海外<rt>かいがい</rt></ruby>のバスルームと<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>浴室<rt>よくしつ</rt></ruby>には、<ruby>根本<rt>こんぽん</rt></ruby><ruby>的<rt>てき</rt></ruby>な「<ruby>構造<rt>こうぞう</rt></ruby>と<ruby>思想<rt>しそう</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>い」があります。
 
 ```
-【海外のバスルーム（西洋スタイル）】
-  ★バスタブの中で体を洗い、石鹸の泡がついたお湯をそのまま排水口に流す。
-  ★バスタブ＝「体を洗う場所」であり、お湯は最初から石鹸まみれで汚い。
-  ➔ だから「そのお湯で服を洗うなんて不衛生で狂気の沙汰！」と感じる。
+【<ruby>海外<rt>かいがい</rt></ruby>のバスルーム（<ruby>西洋<rt>せいよう</rt></ruby>スタイル）】
+  ★バスタブの<ruby>中<rt>なか</rt></ruby>で<ruby>体<rt>からだ</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>い、<ruby>石鹸<rt>せっけん</rt></ruby>の<ruby>泡<rt>あわ</rt></ruby>がついたお<ruby>湯<rt>ゆ</rt></ruby>をそのまま<ruby>排水<rt>はいすい</rt></ruby><ruby>口<rt>ぐち</rt></ruby>に<ruby>流<rt>なが</rt></ruby>す。
+  ★バスタブ＝「<ruby>体<rt>からだ</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う<ruby>場所<rt>ばしょ</rt></ruby>」であり、お<ruby>湯<rt>ゆ</rt></ruby>は<ruby>最初<rt>さいしょ</rt></ruby>から<ruby>石鹸<rt>せっけん</rt></ruby>まみれで<ruby>汚<rt>きたな</rt></ruby>い。
+  ➔ だから「そのお<ruby>湯<rt>ゆ</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>うなんて<ruby>不衛生<rt>ふえいせい</rt></ruby>で<ruby>狂気<rt>きょうき</rt></ruby>の<ruby>沙汰<rt>さた</rt></ruby>！」と<ruby>感<rt>かん</rt></ruby>じる。
 
-【日本の浴室（日本スタイル）】
-  ★湯船の外（洗い場）で体をピカピカに洗ってから、綺麗なお湯に浸かる。
-  ★湯船＝「体を温めてリラックスする場所」であり、お湯には石鹸も泡も混ざっていない！
-  ➔ 家族が入った後でも、お湯は見た目にも透明で綺麗な状態が保たれている！
+【<ruby>日本<rt>にほん</rt></ruby>の<ruby>浴室<rt>よくしつ</rt></ruby>（<ruby>日本<rt>にほん</rt></ruby>スタイル）】
+  ★<ruby>湯船<rt>ゆぶね</rt></ruby>の<ruby>外<rt>そと</rt></ruby>（<ruby>洗い場<rt>あらいば</rt></ruby>）で<ruby>体<rt>からだ</rt></ruby>をピカピカに<ruby>洗<rt>あら</rt></ruby>ってから、<ruby>綺麗<rt>きれい</rt></ruby>なお<ruby>湯<rt>ゆ</rt></ruby>に<ruby>浸<rt>つ</rt></ruby>かる。
+  ★<ruby>湯船<rt>ゆぶね</rt></ruby>＝「<ruby>体<rt>からだ</rt></ruby>を<ruby>温<rt>あたた</rt></ruby>めてリラックスする<ruby>場所<rt>ばしょ</rt></ruby>」であり、お<ruby>湯<rt>ゆ</rt></ruby>には<ruby>石鹸<rt>せっけん</rt></ruby>も<ruby>泡<rt>あわ</rt></ruby>も<ruby>混<rt>ま</rt></ruby>ざっていない！
+  ➔ <ruby>家族<rt>かぞく</rt></ruby>が<ruby>入<rt>はい</rt></ruby>った<ruby>後<rt>のち</rt></ruby>でも、お<ruby>湯<rt>ゆ</rt></ruby>は<ruby>見た目<rt>みため</rt></ruby>にも<ruby>透明<rt>とうめい</rt></ruby>で<ruby>綺麗<rt>きれい</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>が<ruby>保<rt>たも</rt></ruby>たれている！
 ```
 
 ---

@@ -43,15 +43,15 @@ tags:
 どちらも「<ruby>度合<rt>どあ</rt></ruby>いがゼロ（0%）」または「100%<ruby>完全<rt>かんぜん</rt></ruby>であること」を<ruby>表<rt>あらわ</rt></ruby>す<ruby>副詞<rt>ふくし</rt></ruby>ですが、<ruby>使<rt>つか</rt></ruby>われるシーンと<ruby>硬<rt>かた</rt></ruby>さが<ruby>全<rt>まった</rt></ruby>く<ruby>異<rt>こと</rt></ruby>なります。
 
 ```
-【二大副詞の基本キャラクター】
+【<ruby>二<rt>に</rt></ruby><ruby>大<rt>だい</rt></ruby><ruby>副詞<rt>ふくし</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby>キャラクター】
 
-●【全然（ぜんぜん）】＝［カジュアル・会話・感情の強調］
-  日常会話で感情を込めて「0%（または100%）」を伝える言葉。
-  親しい間柄なら肯定（全然大丈夫、全然おいしい）にも使える！
+●【<ruby>全然<rt>ぜんぜん</rt></ruby>（ぜんぜん）】＝［カジュアル・<ruby>会話<rt>かいわ</rt></ruby>・<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>強調<rt>きょうちょう</rt></ruby>］
+  <ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>込<rt>こ</rt></ruby>めて「0%（または100%）」を<ruby>伝<rt>つた</rt></ruby>える<ruby>言葉<rt>ことば</rt></ruby>。
+  <ruby>親<rt>した</rt></ruby>しい<ruby>間柄<rt>あいだがら</rt></ruby>なら<ruby>肯定<rt>こうてい</rt></ruby>（<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>大丈夫<rt>だいじょうぶ</rt></ruby>、<ruby>全然<rt>ぜんぜん</rt></ruby>おいしい）にも<ruby>使<rt>つか</rt></ruby>える！
 
-●【全く（まったく）】＝［フォーマル・客観・完全性］
-  文章語や改まったビジネスの場で「100%〜だ」「完全に〜ない」を理知的に述べる言葉。
-  肯定で使うと「全くその通りだ（完全合意）」などフォーマルな響きになる。
+●【<ruby>全<rt>まった</rt></ruby>く（まったく）】＝［フォーマル・<ruby>客観<rt>きゃっかん</rt></ruby>・<ruby>完全<rt>かんぜん</rt></ruby><ruby>性<rt>せい</rt></ruby>］
+  <ruby>文章<rt>ぶんしょう</rt></ruby><ruby>語<rt>ご</rt></ruby>や<ruby>改<rt>あらた</rt></ruby>まったビジネスの<ruby>場<rt>ば</rt></ruby>で「100%〜だ」「<ruby>完全<rt>かんぜん</rt></ruby>に〜ない」を<ruby>理知的<rt>りちてき</rt></ruby>に<ruby>述<rt>の</rt></ruby>べる<ruby>言葉<rt>ことば</rt></ruby>。
+  <ruby>肯定<rt>こうてい</rt></ruby>で<ruby>使<rt>つか</rt></ruby>うと「<ruby>全<rt>まった</rt></ruby>くその<ruby>通<rt>とお</rt></ruby>りだ（<ruby>完全<rt>かんぜん</rt></ruby><ruby>合意<rt>ごうい</rt></ruby>）」などフォーマルな<ruby>響<rt>ひび</rt></ruby>きになる。
 ```
 
 ### <ruby>一目<rt>いちもく</rt></ruby>でわかる<ruby>比較<rt>ひかく</rt></ruby><ruby>対照<rt>たいしょう</rt></ruby><ruby>表<rt>ひょう</rt></ruby>
@@ -94,17 +94,17 @@ tags:
 <ruby>職場<rt>しょくば</rt></ruby>やクライアントに<ruby>対<rt>たい</rt></ruby>しては、**「<ruby>全<rt>まった</rt></ruby>く」を<ruby>使<rt>つか</rt></ruby>って<ruby>知的<rt>ちてき</rt></ruby>に<ruby>表現<rt>ひょうげん</rt></ruby>**しましょう！
 
 ```
-【ビジネスでの言い換えレッスン】
+【ビジネスでの<ruby>言い換<rt>いいか</rt></ruby>えレッスン】
 
-✕ くだけた表現：「その件については、全然知りませんでした。」
+✕ くだけた<ruby>表現<rt>ひょうげん</rt></ruby>：「その<ruby>件<rt>けん</rt></ruby>については、<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>知<rt>し</rt></ruby>りませんでした。」
          │
          ▼
-〇 フォーマル：「その件につきましては、【全く存じ上げておりませんでした】。」
+〇 フォーマル：「その<ruby>件<rt>けん</rt></ruby>につきましては、【<ruby>全<rt>まった</rt></ruby>く<ruby>存じ上<rt>ぞんじあ</rt></ruby>げておりませんでした】。」
 
-✕ くだけた表現：「スケジュールは全然問題ないです！」
+✕ くだけた<ruby>表現<rt>ひょうげん</rt></ruby>：「スケジュールは<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>ないです！」
          │
          ▼
-〇 フォーマル：「日程につきましては、【全く問題ございません】。」
+〇 フォーマル：「<ruby>日程<rt>にってい</rt></ruby>につきましては、【<ruby>全<rt>まった</rt></ruby>く<ruby>問題<rt>もんだい</rt></ruby>ございません】。」
 ```
 
 ### 「<ruby>全<rt>まった</rt></ruby>くもう！」と<ruby>単体<rt>たんたい</rt></ruby>で<ruby>使<rt>つか</rt></ruby>う<ruby>時<rt>とき</rt></ruby>の<ruby>怒<rt>いか</rt></ruby>り・<ruby>呆<rt>あき</rt></ruby>れのニュアンス
@@ -120,21 +120,21 @@ tags:
 あなたの<ruby>使い分<rt>つかいわ</rt></ruby>けセンスを<ruby>試<rt>ため</rt></ruby>してみましょう！ <ruby>空欄<rt>くうらん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るのは「<ruby>全然<rt>ぜんぜん</rt></ruby>」でしょうか？ それとも「<ruby>全<rt>まった</rt></ruby>く」でしょうか？
 
 ```
-【第1問】
-上司への報告メールで：
-「先日のシステムエラーの件ですが、顧客データへの影響は（　　　）ございませんでした。」
-👉 フォーマルなビジネス文書での完全否定なので……？
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>上司<rt>じょうし</rt></ruby>への<ruby>報告<rt>ほうこく</rt></ruby>メールで：
+「<ruby>先日<rt>せんじつ</rt></ruby>のシステムエラーの<ruby>件<rt>けん</rt></ruby>ですが、<ruby>顧客<rt>こきゃく</rt></ruby>データへの<ruby>影響<rt>えいきょう</rt></ruby>は（　　　）ございませんでした。」
+👉 フォーマルなビジネス<ruby>文書<rt>ぶんしょ</rt></ruby>での<ruby>完全<rt>かんぜん</rt></ruby><ruby>否定<rt>ひてい</rt></ruby>なので……？
 
-【第2問】
-友達が「辛いラーメン頼んだけど、辛すぎて食べられないかも……」と心配しているとき：
-「あ、これ一口もらったけど、（　　　）辛くないよ！ おいしい！」
-👉 カジュアルな日常会話で相手を安心させる否定なので……？
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>友達<rt>ともだち</rt></ruby>が「<ruby>辛<rt>つら</rt></ruby>いラーメン<ruby>頼<rt>たの</rt></ruby>んだけど、<ruby>辛<rt>つら</rt></ruby>すぎて<ruby>食<rt>た</rt></ruby>べられないかも……」と<ruby>心配<rt>しんぱい</rt></ruby>しているとき：
+「あ、これ<ruby>一<rt>いち</rt></ruby><ruby>口<rt>くち</rt></ruby>もらったけど、（　　　）<ruby>辛<rt>つら</rt></ruby>くないよ！ おいしい！」
+👉 カジュアルな<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で<ruby>相手<rt>あいて</rt></ruby>を<ruby>安心<rt>あんしん</rt></ruby>させる<ruby>否定<rt>ひてい</rt></ruby>なので……？
 
-【第3問】
-カフェで同僚とお茶をしているとき：
-「ねえ、昨日おすすめしてくれた映画、どうだった？」
-「うん、（　　　）面白かったよ！ 見てよかった！」
-👉 肯定文と結びついて「すごく」という意味で使っているので……？
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+カフェで<ruby>同僚<rt>どうりょう</rt></ruby>とお<ruby>茶<rt>ちゃ</rt></ruby>をしているとき：
+「ねえ、<ruby>昨日<rt>きのう</rt></ruby>おすすめしてくれた<ruby>映画<rt>えいが</rt></ruby>、どうだった？」
+「うん、（　　　）<ruby>面白<rt>おもしろ</rt></ruby>かったよ！ <ruby>見<rt>み</rt></ruby>てよかった！」
+👉 <ruby>肯定<rt>こうてい</rt></ruby><ruby>文<rt>ぶん</rt></ruby>と<ruby>結<rt>むす</rt></ruby>びついて「すごく」という<ruby>意味<rt>いみ</rt></ruby>で<ruby>使<rt>つか</rt></ruby>っているので……？
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -157,32 +157,32 @@ tags:
 <ruby>相手<rt>あいて</rt></ruby>との<ruby>距離<rt>きょり</rt></ruby><ruby>感<rt>かん</rt></ruby>や<ruby>場面<rt>ばめん</rt></ruby>のフォーマルさに<ruby>合<rt>あ</rt></ruby>わせて「<ruby>全然<rt>ぜんぜん</rt></ruby>」と「<ruby>全<rt>まった</rt></ruby>く」を<ruby>使い分<rt>つかいわ</rt></ruby>ければ、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>はより<ruby>自然<rt>しぜん</rt></ruby>で、<ruby>信頼<rt>しんらい</rt></ruby>されるコミュニケーションへと<ruby>進化<rt>しんか</rt></ruby>しますよ！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">全然（ぜんぜん）</span>
+        <span class="c-vocab-card__word"><ruby>全然<rt>ぜんぜん</rt></ruby>（ぜんぜん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>not at all (colloquial: completely)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>昨日ぐっすり眠ったので、今日は全然疲れていません。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>not at all (colloquial: completely)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>昨日<rt>きのう</rt></ruby>ぐっすり<ruby>眠<rt>ねむ</rt></ruby>ったので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>疲<rt>つか</rt></ruby>れていません。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">全く（まったく）</span>
+        <span class="c-vocab-card__word"><ruby>全<rt>まった</rt></ruby>く（まったく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>entirely, completely</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>初めて聞く専門用語ばかりで、話の内容が全く分からなかった。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>entirely, completely</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>初<rt>はじ</rt></ruby>めて<ruby>聞<rt>き</rt></ruby>く<ruby>専門<rt>せんもん</rt></ruby><ruby>用語<rt>ようご</rt></ruby>ばかりで、<ruby>話<rt>はなし</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>が<ruby>全<rt>まった</rt></ruby>く<ruby>分<rt>わ</rt></ruby>からなかった。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">否定（ひてい）</span>
+        <span class="c-vocab-card__word"><ruby>否定<rt>ひてい</rt></ruby>（ひてい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>negation, denial</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>「全然」「全く」のどちらも、後ろに否定の言葉が続くのが本来の形です。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>negation, denial</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>「<ruby>全然<rt>ぜんぜん</rt></ruby>」「<ruby>全<rt>まった</rt></ruby>く」のどちらも、<ruby>後<rt>うし</rt></ruby>ろに<ruby>否定<rt>ひてい</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>くのが<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>形<rt>かたち</rt></ruby>です。</p>
     </div>
   </div>
 </div>

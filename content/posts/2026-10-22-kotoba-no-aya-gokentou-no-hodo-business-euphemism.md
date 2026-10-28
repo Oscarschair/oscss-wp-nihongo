@@ -30,14 +30,14 @@ tags:
 「<ruby>検討<rt>けんとう</rt></ruby>」という<ruby>言葉<rt>ことば</rt></ruby>は、<ruby>誰<rt>だれ</rt></ruby>が<ruby>誰<rt>だれ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>言<rt>い</rt></ruby>っているかによって<ruby>意味<rt>いみ</rt></ruby>が180<ruby>度<rt>ど</rt></ruby><ruby>変<rt>か</rt></ruby>わります。
 
 ```
-【自分が使う場合：お願い・依頼の言葉】
-  ★「ご検討のほどよろしくお願いいたします」
-      →「提案書（見積書）を作りましたので、どうか目を通してください」という純粋な【お願いの挨拶】。
-      ※決してお断りの意味ではありません！
+【<ruby>自分<rt>じぶん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>う<ruby>場合<rt>ばあい</rt></ruby>：お<ruby>願<rt>ねが</rt></ruby>い・<ruby>依頼<rt>いらい</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>】
+  ★「ご<ruby>検討<rt>けんとう</rt></ruby>のほどよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします」
+      →「<ruby>提案<rt>ていあん</rt></ruby><ruby>書<rt>しょ</rt></ruby>（<ruby>見積<rt>みつもり</rt></ruby><ruby>書<rt>しょ</rt></ruby>）を<ruby>作<rt>つく</rt></ruby>りましたので、どうか<ruby>目<rt>め</rt></ruby>を<ruby>通<rt>とお</rt></ruby>してください」という<ruby>純粋<rt>じゅんすい</rt></ruby>な【お<ruby>願<rt>ねが</rt></ruby>いの<ruby>挨拶<rt>あいさつ</rt></ruby>】。
+      ※<ruby>決<rt>けっ</rt></ruby>してお<ruby>断<rt>ことわ</rt></ruby>りの<ruby>意味<rt>いみ</rt></ruby>ではありません！
 
-【相手から言われた場合：保留・お断りのクッション言葉】
-  ★「社内で検討させていただきます」
-      →「提案を受け取りました。しかし今すぐ買う気はありません（ほぼ見送り）」という【遠回しなお断り】。
+【<ruby>相手<rt>あいて</rt></ruby>から<ruby>言<rt>い</rt></ruby>われた<ruby>場合<rt>ばあい</rt></ruby>：<ruby>保留<rt>ほりゅう</rt></ruby>・お<ruby>断<rt>ことわ</rt></ruby>りのクッション<ruby>言葉<rt>ことば</rt></ruby>】
+  ★「<ruby>社内<rt>しゃない</rt></ruby>で<ruby>検討<rt>けんとう</rt></ruby>させていただきます」
+      →「<ruby>提案<rt>ていあん</rt></ruby>を<ruby>受け取<rt>うけと</rt></ruby>りました。しかし<ruby>今<rt>いま</rt></ruby>すぐ<ruby>買<rt>か</rt></ruby>う<ruby>気<rt>き</rt></ruby>はありません（ほぼ<ruby>見送<rt>みおく</rt></ruby>り）」という【<ruby>遠回<rt>とおまわ</rt></ruby>しなお<ruby>断<rt>ことわ</rt></ruby>り】。
 ```
 
 ---
@@ -151,32 +151,32 @@ tags:
 * 📌 **<ruby>言葉<rt>ことば</rt></ruby>の<ruby>裏<rt>うら</rt></ruby>にある「<ruby>相手<rt>あいて</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>（クッション）」を<ruby>読み取<rt>よみと</rt></ruby>るのが<ruby>大人<rt>おとな</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">検討（けんとう）</span>
+        <span class="c-vocab-card__word"><ruby>検討<rt>けんとう</rt></ruby>（けんとう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>consideration, examination, review</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>ご提案いただいた内容につきまして、社内にて慎重に検討いたします。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>consideration, examination, review</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>ご<ruby>提案<rt>ていあん</rt></ruby>いただいた<ruby>内容<rt>ないよう</rt></ruby>につきまして、<ruby>社内<rt>しゃない</rt></ruby>にて<ruby>慎重<rt>しんちょう</rt></ruby>に<ruby>検討<rt>けんとう</rt></ruby>いたします。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">前向き（まえむき）</span>
+        <span class="c-vocab-card__word"><ruby>前向<rt>まえむ</rt></ruby>き（まえむき）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>positive, constructive, forward-looking</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>プロジェクトの成功に向けて、前向きな姿勢で取り組みましょう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>positive, constructive, forward-looking</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>プロジェクトの<ruby>成功<rt>せいこう</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>姿勢<rt>しせい</rt></ruby>で<ruby>取り組<rt>とりく</rt></ruby>みましょう。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">善処（ぜんしょ）</span>
+        <span class="c-vocab-card__word"><ruby>善処<rt>ぜんしょ</rt></ruby>（ぜんしょ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>handle appropriately, do one's best (often non-committal)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>ご要望の件につきましては、可能な限り善処いたします。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>handle appropriately, do one's best (often non-committal)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>ご<ruby>要望<rt>ようぼう</rt></ruby>の<ruby>件<rt>けん</rt></ruby>につきましては、<ruby>可能<rt>かのう</rt></ruby>な<ruby>限<rt>かぎ</rt></ruby>り<ruby>善処<rt>ぜんしょ</rt></ruby>いたします。</p>
     </div>
   </div>
 </div>

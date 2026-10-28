@@ -18,18 +18,18 @@ description: "大きなランドセルを背負った6歳の男の子が、親�
 > こんにちは、<ruby>香港<rt>ほんこん</rt></ruby><ruby>出身<rt>しゅっしん</rt></ruby>のオスカーです！
 > <ruby>私<rt>わたし</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て<ruby>最<rt>もっと</rt></ruby>もカルチャーショックを<ruby>受<rt>う</rt></ruby>け、<ruby>思<rt>おも</rt></ruby>わず<ruby>二<rt>に</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>見<rt>み</rt></ruby>した<ruby>朝<rt>あさ</rt></ruby>の<ruby>光景<rt>こうけい</rt></ruby>があります。
 > それは、<ruby>平日<rt>へいじつ</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>のホームでのこと。
-> <ruby>体<rt>からだ</rt></ruby>よりも<ruby>大<rt>おお</rt></ruby>きなランドセルを<ruby>背負<rt>せお</rt></ruby>った、<strong>まだ6<ruby>歳<rt>さい</rt></ruby>か7<ruby>歳<rt>さい</rt></ruby>くらいの<ruby>小<rt>ちい</rt></ruby>さな<ruby>小学<rt>しょうがく</rt></ruby>1<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>男の子<rt>おとこのこ</rt></ruby></strong>が、<ruby>親<rt>おや</rt></ruby>もつけずにたった1<ruby>人<rt>にん</rt></ruby>で<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>にピッとICカードをタッチして、<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗り込<rt>のりこ</rt></ruby>んでいったのです！
+> <ruby>体<rt>からだ</rt></ruby>よりも<ruby>大<rt>おお</rt></ruby>きなランドセルを<ruby>背負<rt>せお</rt></ruby>った、<strong>まだ6<ruby>歳<rt>さい</rt></ruby>か7<ruby>歳<rt>さい</rt></ruby>くらいの<ruby>小<rt>ちい</rt></ruby>さな<ruby>小学<rt>しょうがく</rt></ruby>1<ruby>年生<rt>ねんせい</rt></ruby>の<ruby>男の子<rt>おとこのこ</rt></ruby></strong>が、<ruby>親<rt>おや</rt></ruby>もつけずにたった<ruby>1人<rt>ひとり</rt></ruby>で<ruby>駅<rt>えき</rt></ruby>の<ruby>改札<rt>かいさつ</rt></ruby>にピッとICカードをタッチして、<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗り込<rt>のりこ</rt></ruby>んでいったのです！
 > <strong>「えええっ！？ <ruby>親<rt>おや</rt></ruby>はどこ！？ <ruby>迷子<rt>まいご</rt></ruby>！？ <ruby>誘拐<rt>ゆうかい</rt></ruby>されないの！？」</strong>と、<ruby>私<rt>わたし</rt></ruby>の<ruby>心臓<rt>しんぞう</rt></ruby>はバクバク。
 > <ruby>周<rt>まわ</rt></ruby>りの<ruby>大人<rt>おとな</rt></ruby>は<ruby>助<rt>たす</rt></ruby>ける<ruby>様子<rt>ようす</rt></ruby>もなく、<ruby>当たり前<rt>あたりまえ</rt></ruby>のように<ruby>見守<rt>みまも</rt></ruby>っている……。
-> <ruby>実<rt>じつ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>では、<strong>「<ruby>子供<rt>こども</rt></ruby>を1<ruby>人<rt>にん</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かせる＝<ruby>親<rt>おや</rt></ruby>が<ruby>逮捕<rt>たいほ</rt></ruby>される<ruby>犯罪<rt>はんざい</rt></ruby>」</strong>になる<ruby>国<rt>くに</rt></ruby>も<ruby>少<rt>すく</rt></ruby>なくありません。
+> <ruby>実<rt>じつ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>の<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>では、<strong>「<ruby>子供<rt>こども</rt></ruby>を<ruby>1人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>かせる＝<ruby>親<rt>おや</rt></ruby>が<ruby>逮捕<rt>たいほ</rt></ruby>される<ruby>犯罪<rt>はんざい</rt></ruby>」</strong>になる<ruby>国<rt>くに</rt></ruby>も<ruby>少<rt>すく</rt></ruby>なくありません。
 > <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>世界中<rt>せかいじゅう</rt></ruby>の<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が「アンビリーバブル！」と<ruby>腰<rt>こし</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>かす、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>驚<rt>おどろ</rt></ruby>くべき<ruby>通学<rt>つうがく</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby>と<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みについてお<ruby>話<rt>はな</rt></ruby>しします！
 
 ---
 
-## <ruby>小学生<rt>しょうがくせい</rt></ruby>が1<ruby>人<rt>にん</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>通学<rt>つうがく</rt></ruby>する<ruby>日本<rt>にほん</rt></ruby>の<ruby>驚異<rt>きょうい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>治安<rt>ちあん</rt></ruby>
+## <ruby>小学生<rt>しょうがくせい</rt></ruby>が<ruby>1人<rt>ひとり</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>って<ruby>通学<rt>つうがく</rt></ruby>する<ruby>日本<rt>にほん</rt></ruby>の<ruby>驚異<rt>きょうい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>治安<rt>ちあん</rt></ruby>
 
-アメリカやイギリスなどの<ruby>欧米<rt>おうべい</rt></ruby><ruby>諸国<rt>しょこく</rt></ruby>では、12<ruby>歳<rt>さい</rt></ruby><ruby>未満<rt>みまん</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>を1<ruby>人<rt>にん</rt></ruby>で<ruby>留守番<rt>るすばん</rt></ruby>させたり<ruby>外出<rt>がいしゅつ</rt></ruby>させると、<ruby>親<rt>おや</rt></ruby>が**「ネグレクト（<ruby>育児<rt>いくじ</rt></ruby><ruby>放棄<rt>ほうき</rt></ruby>）」**として<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>通報<rt>つうほう</rt></ruby>・<ruby>逮捕<rt>たいほ</rt></ruby>される<ruby>法律<rt>ほうりつ</rt></ruby>があります。
-そのため、<ruby>日本<rt>にほん</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>1<ruby>年生<rt>ねんせい</rt></ruby>（6〜7<ruby>歳<rt>さい</rt></ruby>）が<ruby>大<rt>おお</rt></ruby>きなランドセルを<ruby>背負<rt>せお</rt></ruby>い、たった1<ruby>人<rt>にん</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>やバスを<ruby>乗り継<rt>のりつ</rt></ruby>いで<ruby>通学<rt>つうがく</rt></ruby>している<ruby>姿<rt>すがた</rt></ruby>を<ruby>見<rt>み</rt></ruby>た<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>は、<ruby>文字通<rt>もじどお</rt></ruby>り<ruby>腰<rt>こし</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>かすほど<ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます。
+アメリカやイギリスなどの<ruby>欧米<rt>おうべい</rt></ruby><ruby>諸国<rt>しょこく</rt></ruby>では、12<ruby>歳<rt>さい</rt></ruby><ruby>未満<rt>みまん</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>を<ruby>1人<rt>ひとり</rt></ruby>で<ruby>留守番<rt>るすばん</rt></ruby>させたり<ruby>外出<rt>がいしゅつ</rt></ruby>させると、<ruby>親<rt>おや</rt></ruby>が**「ネグレクト（<ruby>育児<rt>いくじ</rt></ruby><ruby>放棄<rt>ほうき</rt></ruby>）」**として<ruby>警察<rt>けいさつ</rt></ruby>に<ruby>通報<rt>つうほう</rt></ruby>・<ruby>逮捕<rt>たいほ</rt></ruby>される<ruby>法律<rt>ほうりつ</rt></ruby>があります。
+そのため、<ruby>日本<rt>にほん</rt></ruby>の<ruby>小学校<rt>しょうがっこう</rt></ruby>1<ruby>年生<rt>ねんせい</rt></ruby>（6〜7<ruby>歳<rt>さい</rt></ruby>）が<ruby>大<rt>おお</rt></ruby>きなランドセルを<ruby>背負<rt>せお</rt></ruby>い、たった<ruby>1人<rt>ひとり</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>やバスを<ruby>乗り継<rt>のりつ</rt></ruby>いで<ruby>通学<rt>つうがく</rt></ruby>している<ruby>姿<rt>すがた</rt></ruby>を<ruby>見<rt>み</rt></ruby>た<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>は、<ruby>文字通<rt>もじどお</rt></ruby>り<ruby>腰<rt>こし</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>かすほど<ruby>衝撃<rt>しょうげき</rt></ruby>を<ruby>受<rt>う</rt></ruby>けます。
 
 ### なぜ<ruby>日本<rt>にほん</rt></ruby>では<ruby>子供<rt>こども</rt></ruby>の<ruby>単独<rt>たんどく</rt></ruby><ruby>通学<rt>つうがく</rt></ruby>が<ruby>可能<rt>かのう</rt></ruby>なのか？
 <ruby>日本<rt>にほん</rt></ruby>が<ruby>世界一<rt>せかいいち</rt></ruby><ruby>安全<rt>あんぜん</rt></ruby>な<ruby>通学<rt>つうがく</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>できているのには、<ruby>社会<rt>しゃかい</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>張り巡<rt>はりめぐ</rt></ruby>らされた「3<ruby>重<rt>じゅう</rt></ruby>の<ruby>防犯<rt>ぼうはん</rt></ruby>セーフティネット」が<ruby>存在<rt>そんざい</rt></ruby>するからです。
@@ -54,8 +54,8 @@ description: "大きなランドセルを背負った6歳の男の子が、親�
 
 <ruby>世界<rt>せかい</rt></ruby>が<ruby>驚<rt>おどろ</rt></ruby>く<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>社会<rt>しゃかい</rt></ruby>システムと<ruby>日常<rt>にちじょう</rt></ruby><ruby>風景<rt>ふうけい</rt></ruby>をもっと<ruby>深<rt>ふか</rt></ruby>く<ruby>知<rt>し</rt></ruby>るおすすめ<ruby>記事<rt>きじ</rt></ruby>！
 
-* 🚸 [カルチャーショック：<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げたら<ruby>車<rt>くるま</rt></ruby>がピタッと<ruby>止<rt>と</rt></ruby>まってくれた！？<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>と<ruby>交通<rt>こうつう</rt></ruby>マナー](https://nihongo.oscarchair.jp/culture-shock-cars-stop-when-you-raise-your-hand-pedestrian-crosswalk-in-japan/)
-* 🚃 [カルチャーショック：<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>寝<rt>ね</rt></ruby>ている！？<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>居眠<rt>いねむ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>」と<ruby>圧倒的<rt>あっとうてき</rt></ruby>な<ruby>治安<rt>ちあん</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さ](https://nihongo.oscarchair.jp/culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture/)
+* 🚸 [カルチャーショック：<ruby>手<rt>て</rt></ruby>を<ruby>挙<rt>あ</rt></ruby>げたら<ruby>車<rt>くるま</rt></ruby>がピタッと<ruby>止<rt>と</rt></ruby>まってくれた！？<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>横断<rt>おうだん</rt></ruby><ruby>歩道<rt>ほどう</rt></ruby>と<ruby>交通<rt>こうつう</rt></ruby>マナー](__PROTECTED_2__)
+* 🚃 [カルチャーショック：<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>寝<rt>ね</rt></ruby>ている！？<ruby>日本<rt>にっぽん</rt></ruby>の「<ruby>居眠<rt>いねむ</rt></ruby>り<ruby>文化<rt>ぶんか</rt></ruby>」と<ruby>圧倒的<rt>あっとうてき</rt></ruby>な<ruby>治安<rt>ちあん</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さ](__PROTECTED_3__)
 
 ---
 
@@ -71,11 +71,11 @@ description: "大きなランドセルを背負った6歳の男の子が、親�
 なぜ<ruby>小<rt>ちい</rt></ruby>さな<ruby>小学生<rt>しょうがくせい</rt></ruby>が<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>通学<rt>つうがく</rt></ruby>できるのか、それを<ruby>支<rt>ささ</rt></ruby>える<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>仕組<rt>しく</rt></ruby>みを<ruby>解き明<rt>ときあ</rt></ruby>かします。
 
 ```
-【子どもの安全を守る4重のセーフティネット】
-1. 集団登校（しゅうだんとうこう）: 近所の上級生が下級生を引率して列になって歩く。
-2. 学童擁護員（シルバー人材・ボランティア）: 黄色い旗を持った地域のおじいちゃん・おばあちゃんが交差点に立つ。
-3. こども110番の家: 危険を感じた子どもが逃げ込める民家や商店のネットワーク。
-4. GPS機能付き防犯ブザー: ランドセルに装着された緊急ブザーと位置情報通知。
+【<ruby>子<rt>こ</rt></ruby>どもの<ruby>安全<rt>あんぜん</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る4<ruby>重<rt>じゅう</rt></ruby>のセーフティネット】
+1. <ruby>集団<rt>しゅうだん</rt></ruby><ruby>登校<rt>とうこう</rt></ruby>（しゅうだんとうこう）: <ruby>近所<rt>きんじょ</rt></ruby>の<ruby>上級生<rt>じょうきゅうせい</rt></ruby>が<ruby>下級生<rt>かきゅうせい</rt></ruby>を<ruby>引率<rt>いんそつ</rt></ruby>して<ruby>列<rt>れつ</rt></ruby>になって<ruby>歩<rt>ある</rt></ruby>く。
+2. <ruby>学童<rt>がくどう</rt></ruby><ruby>擁護<rt>ようご</rt></ruby><ruby>員<rt>いん</rt></ruby>（シルバー<ruby>人材<rt>じんざい</rt></ruby>・ボランティア）: <ruby>黄色<rt>きいろ</rt></ruby>い<ruby>旗<rt>はた</rt></ruby>を<ruby>持<rt>も</rt></ruby>った<ruby>地域<rt>ちいき</rt></ruby>のおじいちゃん・おばあちゃんが<ruby>交差点<rt>こうさてん</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ。
+3. こども110<ruby>番<rt>ばん</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>: <ruby>危険<rt>きけん</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じた<ruby>子<rt>こ</rt></ruby>どもが<ruby>逃げ込<rt>にげこ</rt></ruby>める<ruby>民家<rt>みんか</rt></ruby>や<ruby>商店<rt>しょうてん</rt></ruby>のネットワーク。
+4. GPS<ruby>機能<rt>きのう</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>防犯<rt>ぼうはん</rt></ruby>ブザー: ランドセルに<ruby>装着<rt>そうちゃく</rt></ruby>された<ruby>緊急<rt>きんきゅう</rt></ruby>ブザーと<ruby>位置<rt>いち</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby><ruby>通知<rt>つうち</rt></ruby>。
 ```
 
 #### <ruby>子<rt>こ</rt></ruby>どもの<ruby>自立<rt>じりつ</rt></ruby>を<ruby>育<rt>はぐく</rt></ruby>む<ruby>文化<rt>ぶんか</rt></ruby>
@@ -113,32 +113,32 @@ description: "大きなランドセルを背負った6歳の男の子が、親�
 <ruby>朝<rt>あさ</rt></ruby>の<ruby>登校<rt>とうこう</rt></ruby><ruby>時間<rt>じかん</rt></ruby><ruby>帯<rt>たい</rt></ruby>、<ruby>小学生<rt>しょうがくせい</rt></ruby>たちが<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>やすれ<ruby>違<rt>ちが</rt></ruby>う<ruby>大人<rt>おとな</rt></ruby>に「おはようございます！」と<ruby>元気<rt>げんき</rt></ruby>いっぱいに<ruby>挨拶<rt>あいさつ</rt></ruby>する<ruby>姿<rt>すがた</rt></ruby>は、<ruby>日本<rt>にほん</rt></ruby>の<ruby>住宅<rt>じゅうたく</rt></ruby><ruby>街<rt>がい</rt></ruby>の<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>です。<ruby>挨拶<rt>あいさつ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わし<ruby>合<rt>あ</rt></ruby>う<ruby>関係<rt>かんけい</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>街<rt>まち</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>に<ruby>張り巡<rt>はりめぐ</rt></ruby>らされていること<ruby>自体<rt>じたい</rt></ruby>が、<ruby>不審<rt>ふしん</rt></ruby><ruby>者<rt>しゃ</rt></ruby>を<ruby>寄せ付<rt>よせつ</rt></ruby>けない<ruby>世界<rt>せかい</rt></ruby><ruby>最強<rt>さいきょう</rt></ruby>の<ruby>防犯<rt>ぼうはん</rt></ruby>バリアになっています。
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">通学（つうがく）</span>
+        <span class="c-vocab-card__word"><ruby>通学<rt>つうがく</rt></ruby>（つうがく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>commuting to school</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>日本の小学生は、重いランドセルを背負って一人で通学する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>commuting to school</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>日本<rt>にほん</rt></ruby>の<ruby>小学生<rt>しょうがくせい</rt></ruby>は、<ruby>重<rt>おも</rt></ruby>いランドセルを<ruby>背負<rt>せお</rt></ruby>って<ruby>一<rt>いち</rt></ruby><ruby>人<rt>にん</rt></ruby>で<ruby>通学<rt>つうがく</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">自立（じりつ）</span>
+        <span class="c-vocab-card__word"><ruby>自立<rt>じりつ</rt></ruby>（じりつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>independence, self-reliance</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>幼い頃から自分の荷物を自分で持つことで、自立心が育つ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>independence, self-reliance</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>幼<rt>おさな</rt></ruby>い<ruby>頃<rt>ころ</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>の<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で<ruby>持<rt>も</rt></ruby>つことで、<ruby>自立<rt>じりつ</rt></ruby><ruby>心<rt>しん</rt></ruby>が<ruby>育<rt>そだ</rt></ruby>つ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">集団（しゅうだん）</span>
+        <span class="c-vocab-card__word"><ruby>集団<rt>しゅうだん</rt></ruby>（しゅうだん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>group, mass</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>安全のために、近所の子供たちが集団で並んで登校している。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>group, mass</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>安全<rt>あんぜん</rt></ruby>のために、<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>子供<rt>こども</rt></ruby>たちが<ruby>集団<rt>しゅうだん</rt></ruby>で<ruby>並<rt>なら</rt></ruby>んで<ruby>登校<rt>とうこう</rt></ruby>している。</p>
     </div>
   </div>
 </div>

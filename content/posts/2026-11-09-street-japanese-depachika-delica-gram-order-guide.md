@@ -14,8 +14,7 @@ tags:
   - JLPT N4
   - JLPT N3
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>お金<rt>かね</rt></ruby>の<ruby>管理<rt>かんり</rt></ruby>の「**[銀行の窓口＆ATMダンジョン完全攻略ガイド](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-06-street-japanese-bank-atm-counter-dungeon-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>お金<rt>かね</rt></ruby>の<ruby>管理<rt>かんり</rt></ruby>の「**[<ruby>銀行<rt>ぎんこう</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>＆ATMダンジョン<ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>ガイド](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-06-street-japanese-bank-atm-counter-dungeon-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>食<rt>しょく</rt></ruby>のワンダーランド、**「デパ<ruby>地下<rt>ちか</rt></ruby>＆<ruby>惣菜<rt>そうざい</rt></ruby>（そうざい）コーナーの<ruby>量り売<rt>はかりう</rt></ruby>り（はかりうり）」サバイバル**です！
 
@@ -29,19 +28,19 @@ tags:
 デパ<ruby>地下<rt>ちか</rt></ruby>やスーパーのお<ruby>惣菜<rt>そうざい</rt></ruby>コーナーでは、<ruby>料理<rt>りょうり</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>によって「<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>単位<rt>たんい</rt></ruby>」が<ruby>変<rt>か</rt></ruby>わります。
 
 ```
-【① グラム指定（サラダ・煮物・ローストビーフなど）】
+【① グラム<ruby>指定<rt>してい</rt></ruby>（サラダ・<ruby>煮物<rt>にもの</rt></ruby>・ローストビーフなど）】
   ★「ポテトサラダを100g（ひゃくグラム）ください。」
-  ★目安：100g ＝ 小さな小鉢1杯分（1人分にちょうどいい量）
-  ★目安：200g ＝ 2人分、または大盛り1人分
+  ★<ruby>目安<rt>めやす</rt></ruby>：100g ＝ <ruby>小<rt>ちい</rt></ruby>さな<ruby>小鉢<rt>こばち</rt></ruby>1<ruby>杯<rt>はい</rt></ruby><ruby>分<rt>ぶん</rt></ruby>（<ruby>1人<rt>ひとり</rt></ruby><ruby>分<rt>ぶん</rt></ruby>にちょうどいい<ruby>量<rt>りょう</rt></ruby>）
+  ★<ruby>目安<rt>めやす</rt></ruby>：200g ＝ <ruby>2人<rt>ふたり</rt></ruby><ruby>分<rt>ぶん</rt></ruby>、または<ruby>大盛<rt>おおも</rt></ruby>り<ruby>1人<rt>ひとり</rt></ruby><ruby>分<rt>ぶん</rt></ruby>
 
-【② 個数指定（唐揚げ・コロッケ・餃子・春巻きなど）】
-  ★「唐揚げを3個（さんこ）ください。」
-  ★「このコロッケを2枚（にまい）お願いします。」
-  ★形が1つずつ分かれているものは、個数で言うのが一番スムーズ！
+【② <ruby>個数<rt>こすう</rt></ruby><ruby>指定<rt>してい</rt></ruby>（<ruby>唐<rt>とう</rt></ruby><ruby>揚<rt>あ</rt></ruby>げ・コロッケ・<ruby>餃子<rt>ぎょうざ</rt></ruby>・<ruby>春巻<rt>はるま</rt></ruby>きなど）】
+  ★「<ruby>唐<rt>とう</rt></ruby><ruby>揚<rt>あ</rt></ruby>げを3<ruby>個<rt>こ</rt></ruby>（さんこ）ください。」
+  ★「このコロッケを2<ruby>枚<rt>まい</rt></ruby>（にまい）お<ruby>願<rt>ねが</rt></ruby>いします。」
+  ★<ruby>形<rt>かたち</rt></ruby>が1つずつ<ruby>分<rt>わ</rt></ruby>かれているものは、<ruby>個数<rt>こすう</rt></ruby>で<ruby>言<rt>い</rt></ruby>うのが<ruby>一番<rt>いちばん</rt></ruby>スムーズ！
 
-【③ パック指定（すでに小分けされているもの）】
+【③ パック<ruby>指定<rt>してい</rt></ruby>（すでに<ruby>小分<rt>こわ</rt></ruby>けされているもの）】
   ★「このパックを1つください。」
-  ★ショーケースの上に最初からパックに入って並んでいるものは、パック単位で頼めます。
+  ★ショーケースの<ruby>上<rt>うえ</rt></ruby>に<ruby>最初<rt>さいしょ</rt></ruby>からパックに<ruby>入<rt>はい</rt></ruby>って<ruby>並<rt>なら</rt></ruby>んでいるものは、パック<ruby>単位<rt>たんい</rt></ruby>で<ruby>頼<rt>たの</rt></ruby>めます。
 ```
 
 ---
@@ -70,7 +69,7 @@ tags:
 
 | あなたが<ruby>言<rt>い</rt></ruby>いたいこと | <ruby>店員<rt>てんいん</rt></ruby>さんへの<ruby>神<rt>かみ</rt></ruby>フレーズ |
 | :--- | :--- |
-| 1<ruby>人<rt>にん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>のサラダがほしい | **「このサラダを100グラムお<ruby>願<rt>ねが</rt></ruby>いします。」** |
+| <ruby>1人<rt>ひとり</rt></ruby><ruby>分<rt>ぶん</rt></ruby>のサラダがほしい | **「このサラダを100グラムお<ruby>願<rt>ねが</rt></ruby>いします。」** |
 | <ruby>唐<rt>とう</rt></ruby><ruby>揚<rt>あ</rt></ruby>げを4<ruby>個<rt>こ</rt></ruby>ほしい | **「この<ruby>唐<rt>とう</rt></ruby><ruby>揚<rt>あ</rt></ruby>げを4つ（よっつ）ください。」** |
 | 100gより<ruby>少<rt>すこ</rt></ruby>し<ruby>多<rt>おお</rt></ruby>く<ruby>計量<rt>けいりょう</rt></ruby>されたとき | **「あ、それで<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です！」** |
 | すぐ<ruby>食<rt>た</rt></ruby>べるのでお<ruby>箸<rt>はし</rt></ruby>がほしい | **「お<ruby>箸<rt>はし</rt></ruby>を1<ruby>膳<rt>ぜん</rt></ruby>（いちぜん）いただけますか？」** |
@@ -85,11 +84,11 @@ tags:
 デパ<ruby>地下<rt>ちか</rt></ruby>やスーパーのお<ruby>惣菜<rt>そうざい</rt></ruby>コーナーに<ruby>挑<rt>いど</rt></ruby>むときの<ruby>理想<rt>りそう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>装備<rt>そうび</rt></ruby>と、<ruby>知<rt>し</rt></ruby>っているとお<ruby>得<rt>え</rt></ruby>すぎる「タイムセールの<ruby>攻略<rt>こうりゃく</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>」を<ruby>伝授<rt>でんじゅ</rt></ruby>します！
 
 ```
-【デパ地下サバイバル装備（インベントリ）】
-  ・保冷バッグ（エコバッグ・底マチが広いもの：汁漏れ防止！）
-  ・電子マネー / クレジットカード / 小銭
-  ・ウェットティッシュ（買ったその場で食べる場合）
-  ・空腹すぎない胃袋（空腹で行くと買いすぎて大散財します！）
+【デパ<ruby>地下<rt>ちか</rt></ruby>サバイバル<ruby>装備<rt>そうび</rt></ruby>（インベントリ）】
+  ・<ruby>保冷<rt>ほれい</rt></ruby>バッグ（エコバッグ・<ruby>底<rt>そこ</rt></ruby>マチが<ruby>広<rt>ひろ</rt></ruby>いもの：<ruby>汁<rt>しる</rt></ruby><ruby>漏<rt>も</rt></ruby>れ<ruby>防止<rt>ぼうし</rt></ruby>！）
+  ・<ruby>電子<rt>でんし</rt></ruby>マネー / クレジットカード / <ruby>小銭<rt>こぜに</rt></ruby>
+  ・ウェットティッシュ（<ruby>買<rt>か</rt></ruby>ったその<ruby>場<rt>ば</rt></ruby>で<ruby>食<rt>た</rt></ruby>べる<ruby>場合<rt>ばあい</rt></ruby>）
+  ・<ruby>空腹<rt>くうふく</rt></ruby>すぎない<ruby>胃袋<rt>いぶくろ</rt></ruby>（<ruby>空腹<rt>くうふく</rt></ruby>で<ruby>行<rt>い</rt></ruby>くと<ruby>買<rt>か</rt></ruby>いすぎて<ruby>大<rt>だい</rt></ruby><ruby>散財<rt>さんざい</rt></ruby>します！）
 ```
 
 ### ⏰ <ruby>夕方<rt>ゆうがた</rt></ruby>17:00〜19:00の「タイムセール・<ruby>値引<rt>ねび</rt></ruby>きシール」を<ruby>狙<rt>ねら</rt></ruby>え！
@@ -105,7 +104,7 @@ tags:
 
 ## 4. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！クイズ5<ruby>問<rt>もん</rt></ruby>
 
-### Q1. デパ<ruby>地下<rt>ちか</rt></ruby>でサラダを「1<ruby>人<rt>にん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>」<ruby>買<rt>か</rt></ruby>いたいとき、<ruby>最<rt>もっと</rt></ruby>も<ruby>標準<rt>ひょうじゅん</rt></ruby><ruby>的<rt>てき</rt></ruby>なグラム<ruby>数<rt>すう</rt></ruby>は？
+### Q1. デパ<ruby>地下<rt>ちか</rt></ruby>でサラダを「<ruby>1人<rt>ひとり</rt></ruby><ruby>分<rt>ぶん</rt></ruby>」<ruby>買<rt>か</rt></ruby>いたいとき、<ruby>最<rt>もっと</rt></ruby>も<ruby>標準<rt>ひょうじゅん</rt></ruby><ruby>的<rt>てき</rt></ruby>なグラム<ruby>数<rt>すう</rt></ruby>は？
 * A. 10g
 * B. 100g
 * C. 500g
@@ -114,7 +113,7 @@ tags:
 <summary><ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る</summary>
 
 <strong><ruby>正解<rt>せいかい</rt></ruby>：B</strong>
-お<ruby>惣菜<rt>そうざい</rt></ruby>のサラダは100gがおよそ<ruby>小鉢<rt>こばち</rt></ruby>1<ruby>皿<rt>さら</rt></ruby><ruby>分<rt>ぶん</rt></ruby>（1<ruby>人<rt>にん</rt></ruby><ruby>分<rt>ぶん</rt></ruby>）の<ruby>目安<rt>めやす</rt></ruby>です。<ruby>初<rt>はじ</rt></ruby>めて<ruby>頼<rt>たの</rt></ruby>むときは「100g」から<ruby>試<rt>ため</rt></ruby>すのがおすすめです。
+お<ruby>惣菜<rt>そうざい</rt></ruby>のサラダは100gがおよそ<ruby>小鉢<rt>こばち</rt></ruby>1<ruby>皿<rt>さら</rt></ruby><ruby>分<rt>ぶん</rt></ruby>（<ruby>1人<rt>ひとり</rt></ruby><ruby>分<rt>ぶん</rt></ruby>）の<ruby>目安<rt>めやす</rt></ruby>です。<ruby>初<rt>はじ</rt></ruby>めて<ruby>頼<rt>たの</rt></ruby>むときは「100g」から<ruby>試<rt>ため</rt></ruby>すのがおすすめです。
 </details>
 
 ### Q2. <ruby>店員<rt>てんいん</rt></ruby>さんに「115グラムになっちゃいましたが、よろしいですか？」と<ruby>聞<rt>き</rt></ruby>かれたときの<ruby>自然<rt>しぜん</rt></ruby>な<ruby>返答<rt>へんとう</rt></ruby>は？

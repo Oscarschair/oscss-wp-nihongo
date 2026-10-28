@@ -14,8 +14,7 @@ tags:
   - 日本の伝統文化
   - JLPT N3
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックでは、<ruby>見知らぬ人<rt>みしらぬひと</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>「**[なぜ日本人はエレベーターで『開』ボタンを押し続けてくれるの！？](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-14-culture-shock-elevator-open-button-courtesy-and-consideration.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックでは、<ruby>見知らぬ人<rt>みしらぬひと</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>「**[なぜ<ruby>日本人<rt>にほんじん</rt></ruby>はエレベーターで『<ruby>開<rt>ひらく</rt></ruby>』ボタンを<ruby>押<rt>お</rt></ruby>し<ruby>続<rt>つづ</rt></ruby>けてくれるの！？](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-14-culture-shock-elevator-open-button-courtesy-and-consideration.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、11<ruby>月<rt>つき</rt></ruby>から<ruby>街<rt>まち</rt></ruby>で<ruby>準備<rt>じゅんび</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まり、1<ruby>月<rt>つき</rt></ruby>1<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>に<ruby>世界<rt>せかい</rt></ruby>を<ruby>仰天<rt>ぎょうてん</rt></ruby>させる<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>風物詩<rt>ふうぶつし</rt></ruby>、**「<ruby>年賀状<rt>ねんがじょう</rt></ruby>（ねんがじょう）とお<ruby>正月<rt>しょうがつ</rt></ruby>3<ruby>日間<rt>にちかん</rt></ruby>の<ruby>静寂<rt>せいじゃく</rt></ruby>」カルチャーショック**です！
 
@@ -27,17 +26,17 @@ tags:
 ## 1. <ruby>世界<rt>せかい</rt></ruby>が<ruby>仰天<rt>ぎょうてん</rt></ruby>する！<ruby>年賀状<rt>ねんがじょう</rt></ruby>が<ruby>元旦<rt>がんたん</rt></ruby>に<ruby>届<rt>とど</rt></ruby>く<ruby>驚異<rt>きょうい</rt></ruby>のシステム
 
 ```
-【① 12月15日〜25日：投函（とうかん）のリミット】
-  ★ポストに「年賀状専用の投入口」が出現！
-  ★12月25日までにポストに入れれば、全国どこでも【1月1日の朝】に届きます。
+【① 12<ruby>月<rt>つき</rt></ruby>15<ruby>日<rt>にち</rt></ruby>〜25<ruby>日<rt>にち</rt></ruby>：<ruby>投函<rt>とうかん</rt></ruby>（とうかん）のリミット】
+  ★ポストに「<ruby>年賀状<rt>ねんがじょう</rt></ruby><ruby>専用<rt>せんよう</rt></ruby>の<ruby>投入<rt>とうにゅう</rt></ruby><ruby>口<rt>ぐち</rt></ruby>」が<ruby>出現<rt>しゅつげん</rt></ruby>！
+  ★12<ruby>月<rt>つき</rt></ruby>25<ruby>日<rt>にち</rt></ruby>までにポストに<ruby>入<rt>い</rt></ruby>れれば、<ruby>全国<rt>ぜんこく</rt></ruby>どこでも【1<ruby>月<rt>つき</rt></ruby>1<ruby>日<rt>にち</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>】に<ruby>届<rt>とど</rt></ruby>きます。
 
-【② 年末の郵便局：夜を徹した仕分け作業】
-  ★全国で約10億枚以上のハガキを、郵便番号と住所ごとにハイテク機械＋手作業で仕分け！
-  ★「1月1日になるまでは絶対に配達しない」という厳格なルールで保管されます。
+【② <ruby>年末<rt>ねんまつ</rt></ruby>の<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>：<ruby>夜<rt>よる</rt></ruby>を<ruby>徹<rt>てっ</rt></ruby>した<ruby>仕分<rt>しわ</rt></ruby>け<ruby>作業<rt>さぎょう</rt></ruby>】
+  ★<ruby>全国<rt>ぜんこく</rt></ruby>で<ruby>約<rt>やく</rt></ruby>10<ruby>億<rt>おく</rt></ruby><ruby>枚<rt>まい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>のハガキを、<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>と<ruby>住所<rt>じゅうしょ</rt></ruby>ごとにハイテク<ruby>機械<rt>きかい</rt></ruby>＋<ruby>手作業<rt>てさぎょう</rt></ruby>で<ruby>仕分<rt>しわ</rt></ruby>け！
+  ★「1<ruby>月<rt>つき</rt></ruby>1<ruby>日<rt>にち</rt></ruby>になるまでは<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>配達<rt>はいたつ</rt></ruby>しない」という<ruby>厳格<rt>げんかく</rt></ruby>なルールで<ruby>保管<rt>ほかん</rt></ruby>されます。
 
-【③ 1月1日（元旦）の朝：一斉配達】
-  ★全国の郵便配達員さんが、赤いバイクや自転車で各家庭のポストへ一斉にお届け！
-  ★朝起きてポストを開けると、束になった年賀状が入っている感動の瞬間！
+【③ 1<ruby>月<rt>つき</rt></ruby>1<ruby>日<rt>にち</rt></ruby>（<ruby>元旦<rt>がんたん</rt></ruby>）の<ruby>朝<rt>あさ</rt></ruby>：<ruby>一斉<rt>いっせい</rt></ruby><ruby>配達<rt>はいたつ</rt></ruby>】
+  ★<ruby>全国<rt>ぜんこく</rt></ruby>の<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>配達員<rt>はいたついん</rt></ruby>さんが、<ruby>赤<rt>あか</rt></ruby>いバイクや<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>各<rt>かく</rt></ruby><ruby>家庭<rt>かてい</rt></ruby>のポストへ<ruby>一斉<rt>いっせい</rt></ruby>にお<ruby>届<rt>とど</rt></ruby>け！
+  ★<ruby>朝<rt>あさ</rt></ruby><ruby>起<rt>お</rt></ruby>きてポストを<ruby>開<rt>あ</rt></ruby>けると、<ruby>束<rt>たば</rt></ruby>になった<ruby>年賀状<rt>ねんがじょう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っている<ruby>感動<rt>かんどう</rt></ruby>の<ruby>瞬間<rt>しゅんかん</rt></ruby>！
 ```
 
 ---
@@ -72,7 +71,7 @@ tags:
 
 ---
 
-## 3.1. 【超<ruby>重要<rt>じゅうよう</rt></ruby>】<ruby>出<rt>だ</rt></ruby>していない<ruby>人<rt>ひと</rt></ruby>から<ruby>届<rt>とど</rt></ruby>いたら？「<ruby>年賀状<rt>ねんがじょう</rt></ruby>の<ruby>返信<rt>へんしん</rt></ruby>ルール」と<ruby>神<rt>かみ</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>
+## 3.1. 【<ruby>超<rt>ちょう</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby>】<ruby>出<rt>だ</rt></ruby>していない<ruby>人<rt>ひと</rt></ruby>から<ruby>届<rt>とど</rt></ruby>いたら？「<ruby>年賀状<rt>ねんがじょう</rt></ruby>の<ruby>返信<rt>へんしん</rt></ruby>ルール」と<ruby>神<rt>かみ</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>
 
 <ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らす<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>焦<rt>あせ</rt></ruby>るのが、「**<ruby>自分<rt>じぶん</rt></ruby>は<ruby>出<rt>だ</rt></ruby>していないのに、<ruby>元旦<rt>がんたん</rt></ruby>に<ruby>年賀状<rt>ねんがじょう</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いてしまった<ruby>瞬間<rt>しゅんかん</rt></ruby>**」です！
 
@@ -90,18 +89,18 @@ tags:
 * 📮 **<ruby>使<rt>つか</rt></ruby>うハガキ**: コンビニや<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>で「<ruby>年賀<rt>ねんが</rt></ruby>はがき」を<ruby>買<rt>か</rt></ruby>って<ruby>送<rt>おく</rt></ruby>ります。
 
 #### 📝 <ruby>返信<rt>へんしん</rt></ruby>で<ruby>必<rt>かなら</rt></ruby>ず<ruby>入<rt>い</rt></ruby>れたい「お<ruby>詫<rt>わ</rt></ruby>びの<ruby>神<rt>かみ</rt></ruby>フレーズ」
-「あけましておめでとうございます」の<ruby>後<rt>あと</rt></ruby>に、**「<ruby>年賀状<rt>ねんがじょう</rt></ruby>をいただいたお<ruby>礼<rt>れい</rt></ruby>」と「ご<ruby>挨拶<rt>あいさつ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れたお<ruby>詫<rt>わ</rt></ruby>び」**を一<ruby>言<rt>こと</rt></ruby>添えるのが<ruby>最高<rt>さいこう</rt></ruby>の<ruby>大人のマナー<rt>おとなのまなー</rt></ruby>です！
+「あけましておめでとうございます」の<ruby>後<rt>あと</rt></ruby>に、**「<ruby>年賀状<rt>ねんがじょう</rt></ruby>をいただいたお<ruby>礼<rt>れい</rt></ruby>」と「ご<ruby>挨拶<rt>あいさつ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れたお<ruby>詫<rt>わ</rt></ruby>び」**を<ruby>一<rt>いち</rt></ruby><ruby>言<rt>こと</rt></ruby><ruby>添<rt>そ</rt></ruby>えるのが<ruby>最高<rt>さいこう</rt></ruby>の<ruby>大人のマナー<rt>おとなのまなー</rt></ruby>です！
 
 ```
-【返信用のおすすめ文面テンプレート】
+【<ruby>返信<rt>へんしん</rt></ruby><ruby>用<rt>よう</rt></ruby>のおすすめ<ruby>文面<rt>ぶんめん</rt></ruby>テンプレート】
 
 あけましておめでとうございます。
-ご丁寧な年賀状をいただき、誠にありがとうございました。
-新年のご挨拶が遅れましたこと、深くお詫び申し上げます。
+ご<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>年賀状<rt>ねんがじょう</rt></ruby>をいただき、<ruby>誠<rt>まこと</rt></ruby>にありがとうございました。
+<ruby>新年<rt>しんねん</rt></ruby>のご<ruby>挨拶<rt>あいさつ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れましたこと、<ruby>深<rt>ふか</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>び<ruby>申し上<rt>もうしあ</rt></ruby>げます。
 
-昨年中は大変お世話になり、心より感謝申し上げます。
-未熟な私ですが、本年もご指導のほどよろしくお願い申し上げます。
-寒さ厳しき折、どうぞご自愛ください。
+<ruby>昨年<rt>さくねん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になり、<ruby>心<rt>こころ</rt></ruby>より<ruby>感謝<rt>かんしゃ</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます。
+<ruby>未熟<rt>みじゅく</rt></ruby>な<ruby>私<rt>わたし</rt></ruby>ですが、<ruby>本年<rt>ほんねん</rt></ruby>もご<ruby>指導<rt>しどう</rt></ruby>のほどよろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申し上<rt>もうしあ</rt></ruby>げます。
+<ruby>寒<rt>さむ</rt></ruby>さ<ruby>厳<rt>きび</rt></ruby>しき<ruby>折<rt>おり</rt></ruby>、どうぞご<ruby>自愛<rt>じあい</rt></ruby>ください。
 ```
 
 ---
@@ -116,12 +115,12 @@ tags:
   * 「あけましておめでとう」ではなく、**「<ruby>寒中<rt>かんちゅう</rt></ruby>お<ruby>見舞<rt>みま</rt></ruby>い<ruby>申<rt>もう</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げます」**で<ruby>始<rt>はじ</rt></ruby>めます。
 
 ```
-【1月8日以降の寒中見舞い文面】
+【1<ruby>月<rt>つき</rt></ruby>8<ruby>日<rt>にち</rt></ruby><ruby>以降<rt>いこう</rt></ruby>の<ruby>寒中<rt>かんちゅう</rt></ruby><ruby>見舞<rt>みま</rt></ruby>い<ruby>文面<rt>ぶんめん</rt></ruby>】
 
-寒中お見舞い申し上げます。
-新春のご祝詞をいただきながら、ご挨拶が遅れましたことを深くお詫び申し上げます。
-厳寒の折、皆様のご健康とご多幸を心よりお祈り申し上げます。
-本年もどうぞよろしくお願い申し上げます。
+<ruby>寒中<rt>かんちゅう</rt></ruby>お<ruby>見舞<rt>みま</rt></ruby>い<ruby>申し上<rt>もうしあ</rt></ruby>げます。
+<ruby>新春<rt>しんしゅん</rt></ruby>のご<ruby>祝詞<rt>のりと</rt></ruby>をいただきながら、ご<ruby>挨拶<rt>あいさつ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れましたことを<ruby>深<rt>ふか</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>び<ruby>申し上<rt>もうしあ</rt></ruby>げます。
+<ruby>厳寒<rt>げんかん</rt></ruby>の<ruby>折<rt>おり</rt></ruby>、<ruby>皆様<rt>みなさま</rt></ruby>のご<ruby>健康<rt>けんこう</rt></ruby>とご<ruby>多幸<rt>たこう</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>よりお<ruby>祈<rt>いの</rt></ruby>り<ruby>申し上<rt>もうしあ</rt></ruby>げます。
+<ruby>本年<rt>ほんねん</rt></ruby>もどうぞよろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申し上<rt>もうしあ</rt></ruby>げます。
 ```
 
 ---

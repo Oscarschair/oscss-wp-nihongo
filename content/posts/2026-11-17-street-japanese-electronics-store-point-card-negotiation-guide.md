@@ -14,8 +14,7 @@ tags:
   - JLPT N3
   - 実践会話
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>移動<rt>いどう</rt></ruby>の「**[日本のタクシー乗車・降車完全攻略ガイド](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-13-street-japanese-taxi-automatic-door-destination-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>街角<rt>まちかど</rt></ruby>サバイバルでは、<ruby>移動<rt>いどう</rt></ruby>の「**[<ruby>日本<rt>にほん</rt></ruby>のタクシー<ruby>乗車<rt>じょうしゃ</rt></ruby>・<ruby>降車<rt>こうしゃ</rt></ruby><ruby>完全<rt>かんぜん</rt></ruby><ruby>攻略<rt>こうりゃく</rt></ruby>ガイド](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-13-street-japanese-taxi-automatic-door-destination-guide.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、パソコンや<ruby>家電<rt>かでん</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>訪<rt>おとず</rt></ruby>れる<ruby>巨大<rt>きょだい</rt></ruby><ruby>迷宮<rt>めいきゅう</rt></ruby>、**「<ruby>家電<rt>かでん</rt></ruby><ruby>量販<rt>りょうはん</rt></ruby><ruby>店<rt>てん</rt></ruby>（かでんりょうはんてん）」サバイバル**です！
 
@@ -27,18 +26,18 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>店員<rt>てんいん</rt></ruby>アタックの<ruby>交<rt>か</rt></ruby>わし<ruby>方<rt>かた</rt></ruby>と<ruby>突入<rt>とつにゅう</rt></ruby>ステップ
 
 ```
-【ステップ①：静かに見たいときの「防御コマンド」】
-  店員：「いらっしゃいませ！何かお探しですか？」
-  あなた：「あ、大丈夫です。見ているだけなので！」
-  ➔ これを言えば、店員さんは笑顔で離れてくれます。無理な押し売りは絶対にされません！
+【ステップ①：<ruby>静<rt>しず</rt></ruby>かに<ruby>見<rt>み</rt></ruby>たいときの「<ruby>防御<rt>ぼうぎょ</rt></ruby>コマンド」】
+  <ruby>店員<rt>てんいん</rt></ruby>：「いらっしゃいませ！<ruby>何<rt>なに</rt></ruby>かお<ruby>探<rt>さが</rt></ruby>しですか？」
+  あなた：「あ、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です。<ruby>見<rt>み</rt></ruby>ているだけなので！」
+  ➔ これを<ruby>言<rt>い</rt></ruby>えば、<ruby>店員<rt>てんいん</rt></ruby>さんは<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>離<rt>はな</rt></ruby>れてくれます。<ruby>無理<rt>むり</rt></ruby>な<ruby>押し売<rt>おしう</rt></ruby>りは<ruby>絶対<rt>ぜったい</rt></ruby>にされません！
 
-【ステップ②：専門的なアドバイスがほしいときの「召喚コマンド」】
-  あなた：「すみません、この2つのパソコンで迷っているんですが、違いを教えていただけますか？」
-  ➔ 日本の家電量販店の店員さんは知識の宝庫！性能の違いを熱心に解説してくれます。
+【ステップ②：<ruby>専門<rt>せんもん</rt></ruby><ruby>的<rt>てき</rt></ruby>なアドバイスがほしいときの「<ruby>召喚<rt>しょうかん</rt></ruby>コマンド」】
+  あなた：「すみません、この2つのパソコンで<ruby>迷<rt>まよ</rt></ruby>っているんですが、<ruby>違<rt>ちが</rt></ruby>いを<ruby>教<rt>おし</rt></ruby>えていただけますか？」
+  ➔ <ruby>日本<rt>にほん</rt></ruby>の<ruby>家電<rt>かでん</rt></ruby><ruby>量販<rt>りょうはん</rt></ruby><ruby>店<rt>てん</rt></ruby>の<ruby>店員<rt>てんいん</rt></ruby>さんは<ruby>知識<rt>ちしき</rt></ruby>の<ruby>宝庫<rt>ほうこ</rt></ruby>！<ruby>性能<rt>せいのう</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いを<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>解説<rt>かいせつ</rt></ruby>してくれます。
 
-【ステップ③：値引き交渉の「交渉コマンド」】
-  あなた：「ネットの〇〇店で〇〇円だったのですが、少しお安くなりませんか？」
-  ➔ スマホの画面を見せながら相談するのが鉄則！
+【ステップ③：<ruby>値引<rt>ねび</rt></ruby>き<ruby>交渉<rt>こうしょう</rt></ruby>の「<ruby>交渉<rt>こうしょう</rt></ruby>コマンド」】
+  あなた：「ネットの〇〇<ruby>店<rt>てん</rt></ruby>で〇〇<ruby>円<rt>えん</rt></ruby>だったのですが、<ruby>少<rt>すこ</rt></ruby>しお<ruby>安<rt>やす</rt></ruby>くなりませんか？」
+  ➔ スマホの<ruby>画面<rt>がめん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せながら<ruby>相談<rt>そうだん</rt></ruby>するのが<ruby>鉄則<rt>てっそく</rt></ruby>！
 ```
 
 ---
@@ -76,11 +75,11 @@ tags:
 <ruby>家電<rt>かでん</rt></ruby><ruby>量販<rt>りょうはん</rt></ruby><ruby>店<rt>てん</rt></ruby>で<ruby>高額<rt>こうがく</rt></ruby>なテレビやパソコン、<ruby>白<rt>しろ</rt></ruby><ruby>物<rt>ぶつ</rt></ruby><ruby>家電<rt>かでん</rt></ruby>を<ruby>買<rt>か</rt></ruby>うときの<ruby>注意<rt>ちゅうい</rt></ruby><ruby>点<rt>てん</rt></ruby>と、レジで<ruby>必<rt>かなら</rt></ruby>ず<ruby>聞<rt>き</rt></ruby>かれる「<ruby>延長<rt>えんちょう</rt></ruby><ruby>保証<rt>ほしょう</rt></ruby>」の<ruby>真実<rt>しんじつ</rt></ruby>を<ruby>解説<rt>かいせつ</rt></ruby>します！
 
 ```
-【家電量販店サバイバル装備（インベントリ）】
-  ・ポイントカード（アプリ連携済み：スマホ画面）
-  ・他店価格のスクリーンショット（価格コム、Amazon等の最安値）
-  ・自宅の設置スペースの寸法メモ（幅・奥行き・高さ・搬入経路のドア幅！）
-  ・メジャー（巻き尺：売り場で実物のサイズを測るため）
+【<ruby>家電<rt>かでん</rt></ruby><ruby>量販<rt>りょうはん</rt></ruby><ruby>店<rt>てん</rt></ruby>サバイバル<ruby>装備<rt>そうび</rt></ruby>（インベントリ）】
+  ・ポイントカード（アプリ<ruby>連携<rt>れんけい</rt></ruby><ruby>済<rt>ず</rt></ruby>み：スマホ<ruby>画面<rt>がめん</rt></ruby>）
+  ・<ruby>他<rt>た</rt></ruby><ruby>店<rt>てん</rt></ruby><ruby>価格<rt>かかく</rt></ruby>のスクリーンショット（<ruby>価格<rt>かかく</rt></ruby>コム、Amazon<ruby>等<rt>とう</rt></ruby>の<ruby>最<rt>さい</rt></ruby><ruby>安値<rt>やすね</rt></ruby>）
+  ・<ruby>自宅<rt>じたく</rt></ruby>の<ruby>設置<rt>せっち</rt></ruby>スペースの<ruby>寸法<rt>すんぽう</rt></ruby>メモ（<ruby>幅<rt>はば</rt></ruby>・<ruby>奥行<rt>おくゆ</rt></ruby>き・<ruby>高<rt>たか</rt></ruby>さ・<ruby>搬入<rt>はんにゅう</rt></ruby><ruby>経路<rt>けいろ</rt></ruby>のドア<ruby>幅<rt>はば</rt></ruby>！）
+  ・メジャー（<ruby>巻き尺<rt>まきじゃく</rt></ruby>：<ruby>売り場<rt>うりば</rt></ruby>で<ruby>実物<rt>じつぶつ</rt></ruby>のサイズを<ruby>測<rt>はか</rt></ruby>るため）
 ```
 
 ### 🛡️ 「<ruby>延長<rt>えんちょう</rt></ruby><ruby>保証<rt>ほしょう</rt></ruby>（5<ruby>年<rt>ねん</rt></ruby><ruby>保証<rt>ほしょう</rt></ruby>）」は<ruby>入<rt>はい</rt></ruby>るべきか？
@@ -91,7 +90,7 @@ tags:
 
 ## 4. <ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>チェック！クイズ5<ruby>問<rt>もん</rt></ruby>
 
-### Q1. <ruby>店員<rt>てんいん</rt></ruby>さんに<ruby>話<rt>はな</rt></ruby>しかけられたけれど、1<ruby>人<rt>にん</rt></ruby>でゆっくり<ruby>見<rt>み</rt></ruby>たいときのベストな<ruby>返答<rt>へんとう</rt></ruby>は？
+### Q1. <ruby>店員<rt>てんいん</rt></ruby>さんに<ruby>話<rt>はな</rt></ruby>しかけられたけれど、<ruby>1人<rt>ひとり</rt></ruby>でゆっくり<ruby>見<rt>み</rt></ruby>たいときのベストな<ruby>返答<rt>へんとう</rt></ruby>は？
 * A. <ruby>話<rt>はな</rt></ruby>しかけないでください！
 * B. あ、ありがとうございます。いま<ruby>見<rt>み</rt></ruby>ているだけなので<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です！
 * C. <ruby>買<rt>か</rt></ruby>いません！
@@ -155,7 +154,7 @@ tags:
 
 ## 5. まとめと<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>重要<rt>じゅうよう</rt></ruby>キーワード
 
-* 📌 <strong>1<ruby>人<rt>にん</rt></ruby>で<ruby>見<rt>み</rt></ruby>たいときは「あ、<ruby>見<rt>み</rt></ruby>ているだけなので<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」でOK！</strong>
+* 📌 <strong><ruby>1人<rt>ひとり</rt></ruby>で<ruby>見<rt>み</rt></ruby>たいときは「あ、<ruby>見<rt>み</rt></ruby>ているだけなので<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>です」でOK！</strong>
 * 📌 <strong><ruby>他<rt>た</rt></ruby><ruby>店<rt>てん</rt></ruby>のネット<ruby>価格<rt>かかく</rt></ruby>を<ruby>見<rt>み</rt></ruby>せて「これに<ruby>合<rt>あ</rt></ruby>わせていただけますか？」と<ruby>相談<rt>そうだん</rt></ruby>するのがコツ！</strong>
 * 📌 <strong><ruby>新<rt>しん</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>の<ruby>家電<rt>かでん</rt></ruby>は「まとめ<ruby>買<rt>が</rt></ruby>い」で<ruby>一括<rt>いっかつ</rt></ruby><ruby>値引<rt>ねび</rt></ruby>き＆ポイントUPを<ruby>狙<rt>ねら</rt></ruby>おう！</strong>
 

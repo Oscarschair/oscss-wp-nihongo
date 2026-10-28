@@ -22,7 +22,7 @@ tags:
 > 🍺 **<ruby>店員<rt>てんいん</rt></ruby>さん**：「いらっしゃいませ！ 2<ruby>名<rt>めい</rt></ruby><ruby>様<rt>さま</rt></ruby>ですね！ こちらの<ruby>席<rt>せき</rt></ruby>へどうぞ〜！ ……はい、こちら**『お<ruby>通<rt>とお</rt></ruby>し（おとおし）』**の<ruby>枝豆<rt>えだまめ</rt></ruby>とポテトサラダになります！」
 > 🚗 **クルマ**：「（えっ……？ <ruby>私<rt>わたし</rt></ruby>たちまだメニューも<ruby>開<rt>ひら</rt></ruby>いてないし、<ruby>何<rt>なに</rt></ruby>も<ruby>注文<rt>ちゅうもん</rt></ruby>してないよ？）あ、あの、すみません！ **これ<ruby>私<rt>わたし</rt></ruby>たち<ruby>頼<rt>たの</rt></ruby>んでないんですけど、テーブル<ruby>間違<rt>まちが</rt></ruby>えてませんか？**」
 > 🍺 **<ruby>店員<rt>てんいん</rt></ruby>さん**：「あ、いえ！ これは<ruby>当店<rt>とうてん</rt></ruby>のお<ruby>通<rt>とお</rt></ruby>し（<ruby>席料<rt>せきりょう</rt></ruby>）ですので、どうぞ<ruby>召し上<rt>めしあ</rt></ruby>がってください！」
-> 🚗 **クルマ**：「（お<ruby>会計<rt>かいけい</rt></ruby>のレシートを<ruby>見<rt>み</rt></ruby>て<ruby>絶句<rt>ぜっく</rt></ruby>）……**『お<ruby>通<rt>とお</rt></ruby>し<ruby>代<rt>だい</rt></ruby>：1<ruby>人<rt>にん</rt></ruby>450<ruby>円<rt>えん</rt></ruby> × 2<ruby>名<rt>めい</rt></ruby> ＝ 900<ruby>円<rt>えん</rt></ruby>』！？** な、なんで<ruby>勝手<rt>かって</rt></ruby>に<ruby>出<rt>で</rt></ruby>てきた<ruby>小鉢<rt>こばち</rt></ruby>に<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>近<rt>ちか</rt></ruby>くもお<ruby>金<rt>かね</rt></ruby>を<ruby>取<rt>と</rt></ruby>られるの！？ まるで<ruby>詐欺<rt>さぎ</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>ったみたいだよーーーっ！！」
+> 🚗 **クルマ**：「（お<ruby>会計<rt>かいけい</rt></ruby>のレシートを<ruby>見<rt>み</rt></ruby>て<ruby>絶句<rt>ぜっく</rt></ruby>）……**『お<ruby>通<rt>とお</rt></ruby>し<ruby>代<rt>だい</rt></ruby>：<ruby>1人<rt>ひとり</rt></ruby>450<ruby>円<rt>えん</rt></ruby> × 2<ruby>名<rt>めい</rt></ruby> ＝ 900<ruby>円<rt>えん</rt></ruby>』！？** な、なんで<ruby>勝手<rt>かって</rt></ruby>に<ruby>出<rt>で</rt></ruby>てきた<ruby>小鉢<rt>こばち</rt></ruby>に<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby><ruby>近<rt>ちか</rt></ruby>くもお<ruby>金<rt>かね</rt></ruby>を<ruby>取<rt>と</rt></ruby>られるの！？ まるで<ruby>詐欺<rt>さぎ</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>ったみたいだよーーーっ！！」
 
 <ruby>欧米<rt>おうべい</rt></ruby>やアジアの<ruby>多<rt>おお</rt></ruby>くの<ruby>国<rt>くに</rt></ruby>では、「<ruby>注文<rt>ちゅうもん</rt></ruby>していない<ruby>料理<rt>りょうり</rt></ruby>にお<ruby>金<rt>かね</rt></ruby>を<ruby>請求<rt>せいきゅう</rt></ruby>される」ことはあり<ruby>得<rt>え</rt></ruby>ないため、お<ruby>通<rt>とお</rt></ruby>しを<ruby>巡<rt>めぐ</rt></ruby>るトラブルは<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby><ruby>旅行<rt>りょこう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>で<ruby>後<rt>のち</rt></ruby>を<ruby>絶<rt>た</rt></ruby>ちません。
 
@@ -40,14 +40,14 @@ tags:
 これには、<ruby>日本<rt>にほん</rt></ruby>の「おもてなしの<ruby>合理<rt>ごうり</rt></ruby><ruby>性<rt>せい</rt></ruby>」と「<ruby>席料<rt>せきりょう</rt></ruby>（チャージ）」の<ruby>歴史<rt>れきし</rt></ruby>があります。
 
 ```
-【お通しの3大役割と理由】
+【お<ruby>通<rt>とお</rt></ruby>しの3<ruby>大<rt>だい</rt></ruby><ruby>役割<rt>やくわり</rt></ruby>と<ruby>理由<rt>りゆう</rt></ruby>】
 
-①【注文が通った証（あかし）】
-  「お客様の注文を厨房にお通ししました（伝えました）」という合図から「お通し」と呼ばれるようになった。
-②【最初の料理が出るまでのツマミ】
-  焼き鳥や刺身は調理に10〜15分かかる。お腹を空かせた客を待たせないための「スピード前菜」。
-③【実質的なテーブルチャージ（席料）】
-  場所代・おしぼり代・チャージ料を、ただの空料金にするのではなく「小さな料理」に変えて提供する日本流の気遣い。
+①【<ruby>注文<rt>ちゅうもん</rt></ruby>が<ruby>通<rt>とお</rt></ruby>った<ruby>証<rt>あかし</rt></ruby>（あかし）】
+  「お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>厨房<rt>ちゅうぼう</rt></ruby>にお<ruby>通<rt>とお</rt></ruby>ししました（<ruby>伝<rt>つた</rt></ruby>えました）」という<ruby>合図<rt>あいず</rt></ruby>から「お<ruby>通<rt>とお</rt></ruby>し」と<ruby>呼<rt>よ</rt></ruby>ばれるようになった。
+②【<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>料理<rt>りょうり</rt></ruby>が<ruby>出<rt>で</rt></ruby>るまでのツマミ】
+  <ruby>焼き鳥<rt>やきとり</rt></ruby>や<ruby>刺身<rt>さしみ</rt></ruby>は<ruby>調理<rt>ちょうり</rt></ruby>に10〜15<ruby>分<rt>ふん</rt></ruby>かかる。お<ruby>腹<rt>なか</rt></ruby>を<ruby>空<rt>す</rt></ruby>かせた<ruby>客<rt>きゃく</rt></ruby>を<ruby>待<rt>ま</rt></ruby>たせないための「スピード<ruby>前菜<rt>ぜんさい</rt></ruby>」。
+③【<ruby>実質<rt>じっしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>なテーブルチャージ（<ruby>席料<rt>せきりょう</rt></ruby>）】
+  <ruby>場所<rt>ばしょ</rt></ruby><ruby>代<rt>だい</rt></ruby>・おしぼり<ruby>代<rt>だい</rt></ruby>・チャージ<ruby>料<rt>りょう</rt></ruby>を、ただの<ruby>空<rt>そら</rt></ruby><ruby>料金<rt>りょうきん</rt></ruby>にするのではなく「<ruby>小<rt>ちい</rt></ruby>さな<ruby>料理<rt>りょうり</rt></ruby>」に<ruby>変<rt>か</rt></ruby>えて<ruby>提供<rt>ていきょう</rt></ruby>する<ruby>日本<rt>にほん</rt></ruby><ruby>流<rt>りゅう</rt></ruby>の<ruby>気遣<rt>きづか</rt></ruby>い。
 ```
 
 ### お<ruby>通<rt>とお</rt></ruby>しは<ruby>断<rt>ことわ</rt></ruby>ることができるのか？
@@ -66,13 +66,13 @@ tags:
 この「とりあえず<ruby>生<rt>なま</rt></ruby>」には、<ruby>日本<rt>にほん</rt></ruby>の<ruby>職場<rt>しょくば</rt></ruby>のチームワークと<ruby>効率<rt>こうりつ</rt></ruby>を<ruby>最<rt>さい</rt></ruby><ruby>優先<rt>ゆうせん</rt></ruby>する<ruby>心理<rt>しんり</rt></ruby>が<ruby>隠<rt>かく</rt></ruby>されています。
 
 ```
-【「とりあえず生」が最強である3つの理由】
-1. 【最速で乾杯できる！】
-   生ビールはサーバーから注ぐだけなので、注文から1分でテーブルに届く。全員で素早く乾杯して宴をスタートできる！
-2. 【店員さんの負担を減らす！】
-   全員がバラバラのカクテルや日本酒を頼むと厨房がパンクする。「最初の一杯を揃える」ことで店員さんを助ける！
-3. 【ただしお酒が苦手なら無理しなくてOK！】
-   「生ビールじゃなきゃダメ」という同調圧力は減っています。「ウーロン茶で！」「ジンジャーエールで！」と堂々と言って全く問題ありません！
+【「とりあえず<ruby>生<rt>なま</rt></ruby>」が<ruby>最強<rt>さいきょう</rt></ruby>である3つの<ruby>理由<rt>りゆう</rt></ruby>】
+1. 【<ruby>最速<rt>さいそく</rt></ruby>で<ruby>乾杯<rt>かんぱい</rt></ruby>できる！】
+   <ruby>生ビール<rt>なまびーる</rt></ruby>はサーバーから<ruby>注<rt>そそ</rt></ruby>ぐだけなので、<ruby>注文<rt>ちゅうもん</rt></ruby>から1<ruby>分<rt>ふん</rt></ruby>でテーブルに<ruby>届<rt>とど</rt></ruby>く。<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>素早<rt>すばや</rt></ruby>く<ruby>乾杯<rt>かんぱい</rt></ruby>して<ruby>宴<rt>うたげ</rt></ruby>をスタートできる！
+2. 【<ruby>店員<rt>てんいん</rt></ruby>さんの<ruby>負担<rt>ふたん</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす！】
+   <ruby>全員<rt>ぜんいん</rt></ruby>がバラバラのカクテルや<ruby>日本<rt>にほん</rt></ruby><ruby>酒<rt>しゅ</rt></ruby>を<ruby>頼<rt>たの</rt></ruby>むと<ruby>厨房<rt>ちゅうぼう</rt></ruby>がパンクする。「<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>一<rt>いち</rt></ruby><ruby>杯<rt>はい</rt></ruby>を<ruby>揃<rt>そろ</rt></ruby>える」ことで<ruby>店員<rt>てんいん</rt></ruby>さんを<ruby>助<rt>たす</rt></ruby>ける！
+3. 【ただしお<ruby>酒<rt>さけ</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>なら<ruby>無理<rt>むり</rt></ruby>しなくてOK！】
+   「<ruby>生ビール<rt>なまびーる</rt></ruby>じゃなきゃダメ」という<ruby>同調<rt>どうちょう</rt></ruby><ruby>圧力<rt>あつりょく</rt></ruby>は<ruby>減<rt>へ</rt></ruby>っています。「<ruby>ウーロン茶<rt>うーろんちゃ</rt></ruby>で！」「ジンジャーエールで！」と<ruby>堂々<rt>どうどう</rt></ruby>と<ruby>言<rt>い</rt></ruby>って<ruby>全<rt>まった</rt></ruby>く<ruby>問題<rt>もんだい</rt></ruby>ありません！
 ```
 
 ---
@@ -130,32 +130,32 @@ tags:
 <ruby>居酒屋<rt>いざかや</rt></ruby>は、<ruby>堅苦<rt>かたくる</rt></ruby>しいビジネスマナーを<ruby>脱ぎ捨<rt>ぬぎす</rt></ruby>てて、<ruby>人<rt>ひと</rt></ruby>と<ruby>人<rt>ひと</rt></ruby>が<ruby>本音<rt>ほんね</rt></ruby>で<ruby>笑<rt>わら</rt></ruby>い<ruby>合<rt>あ</rt></ruby>える<ruby>日本<rt>にほん</rt></ruby>で<ruby>最高<rt>さいこう</rt></ruby>のエンターテインメント<ruby>空間<rt>くうかん</rt></ruby>です。ルールを<ruby>味方<rt>みかた</rt></ruby>につけて、<ruby>今夜<rt>こんや</rt></ruby>もおいしい<ruby>乾杯<rt>かんぱい</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しんでくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お通し（おとおし）</span>
+        <span class="c-vocab-card__word">お<ruby>通<rt>とお</rt></ruby>し（おとおし）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>table appetizer</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>居酒屋で席に座ると、注文する前に小鉢のお通しが運ばれてきた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>table appetizer</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>居酒屋<rt>いざかや</rt></ruby>で<ruby>席<rt>せき</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ると、<ruby>注文<rt>ちゅうもん</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に<ruby>小鉢<rt>こばち</rt></ruby>のお<ruby>通<rt>とお</rt></ruby>しが<ruby>運<rt>はこ</rt></ruby>ばれてきた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">乾杯（かんぱい）</span>
+        <span class="c-vocab-card__word"><ruby>乾杯<rt>かんぱい</rt></ruby>（かんぱい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>toast, cheers</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>ビールが全員に行き渡ったところで、元気に「乾杯！」と声を合わせた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>toast, cheers</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>ビールが<ruby>全員<rt>ぜんいん</rt></ruby>に<ruby>行き渡<rt>いきわた</rt></ruby>ったところで、<ruby>元気<rt>げんき</rt></ruby>に「<ruby>乾杯<rt>かんぱい</rt></ruby>！」と<ruby>声<rt>こえ</rt></ruby>を<ruby>合<rt>あ</rt></ruby>わせた。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">とりあえず（とりあえず）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>for now, first of all</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>席に着いたら、まずは「とりあえず生ビールを二つ」と頼むのが定番だ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>for now, first of all</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>席<rt>せき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>いたら、まずは「とりあえず<ruby>生ビール<rt>なまびーる</rt></ruby>を<ruby>二<rt>ふた</rt></ruby>つ」と<ruby>頼<rt>たの</rt></ruby>むのが<ruby>定番<rt>ていばん</rt></ruby>だ。</p>
     </div>
   </div>
 </div>

@@ -57,9 +57,9 @@ description: "「行くぞ！」「うまいぜ！」アニメで主人公たち
 
 <ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>で<ruby>自然<rt>しぜん</rt></ruby>なニュアンスを<ruby>伝<rt>つた</rt></ruby>えるための<ruby>必須<rt>ひっす</rt></ruby><ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>を<ruby>徹底<rt>てってい</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>！
 
-* 🗣️ [ことばのあや：<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>「よ」の<ruby>使い方<rt>つかいかた</rt></ruby>｜<ruby>相手<rt>あいて</rt></ruby>に<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けて<ruby>効果<rt>こうか</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>会話<rt>かいわ</rt></ruby>するコツ](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-yo-for-effective-conversation/)
-* 🤝 [ことばのあや：<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>「よね」の<ruby>使い方<rt>つかいかた</rt></ruby>｜<ruby>共感<rt>きょうかん</rt></ruby>と<ruby>確認<rt>かくにん</rt></ruby>で<ruby>角<rt>かく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てない<ruby>大人<rt>おとな</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-yone-for-smooth-conversation/)
-* 🍵 [ことばのあや：<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>「ね」の<ruby>使い方<rt>つかいかた</rt></ruby>｜<ruby>心地<rt>ここち</rt></ruby>よいテンポを<ruby>生み出<rt>うみだ</rt></ruby>す<ruby>共感<rt>きょうかん</rt></ruby>の<ruby>魔法<rt>まほう</rt></ruby>](https://nihongo.oscarchair.jp/kotoba-no-aya-how-to-use-the-final-particle-ne-for-a-comfortable-conversation/)
+* 🗣️ [ことばのあや：<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>「よ」の<ruby>使い方<rt>つかいかた</rt></ruby>｜<ruby>相手<rt>あいて</rt></ruby>に<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>届<rt>とど</rt></ruby>けて<ruby>効果<rt>こうか</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>会話<rt>かいわ</rt></ruby>するコツ](__PROTECTED_0__)
+* 🤝 [ことばのあや：<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>「よね」の<ruby>使い方<rt>つかいかた</rt></ruby>｜<ruby>共感<rt>きょうかん</rt></ruby>と<ruby>確認<rt>かくにん</rt></ruby>で<ruby>角<rt>かく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てない<ruby>大人<rt>おとな</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>](__PROTECTED_1__)
+* 🍵 [ことばのあや：<ruby>終<rt>おわり</rt></ruby><ruby>助詞<rt>じょし</rt></ruby>「ね」の<ruby>使い方<rt>つかいかた</rt></ruby>｜<ruby>心地<rt>ここち</rt></ruby>よいテンポを<ruby>生み出<rt>うみだ</rt></ruby>す<ruby>共感<rt>きょうかん</rt></ruby>の<ruby>魔法<rt>まほう</rt></ruby>](__PROTECTED_2__)
 
 ---
 
@@ -118,32 +118,32 @@ description: "「行くぞ！」「うまいぜ！」アニメで主人公たち
 アニメや<ruby>漫画<rt>まんが</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>は、<ruby>感情<rt>かんじょう</rt></ruby>をダイナミックに<ruby>表現<rt>ひょうげん</rt></ruby>するための<ruby>素晴<rt>すば</rt></ruby>らしいエンターテインメントです。<ruby>現実<rt>げんじつ</rt></ruby>のリアルな<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>との<ruby>境界<rt>きょうかい</rt></ruby><ruby>線<rt>せん</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>で<ruby>使い分<rt>つかいわ</rt></ruby>けられるようになれば、<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>のニュアンスのグラデーションを<ruby>自由自在<rt>じゆうじざい</rt></ruby>に<ruby>操<rt>あやつ</rt></ruby>る<ruby>楽<rt>たの</rt></ruby>しさを<ruby>味<rt>あじ</rt></ruby>わえるはずです！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">語尾（ごび）</span>
+        <span class="c-vocab-card__word"><ruby>語尾<rt>ごび</rt></ruby>（ごび）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>word ending</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>アニメの主人公は、語尾に「〜ぞ」や「〜ぜ」をよく使う。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>word ending</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>アニメの<ruby>主人公<rt>しゅじんこう</rt></ruby>は、<ruby>語尾<rt>ごび</rt></ruby>に「〜ぞ」や「〜ぜ」をよく<ruby>使<rt>つか</rt></ruby>う。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">違和感（いわかん）</span>
+        <span class="c-vocab-card__word"><ruby>違和感<rt>いわかん</rt></ruby>（いわかん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>uncomfortable feeling, oddity</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>初対面の人に乱暴な言葉遣いをすると、強い違和感を与えてしまう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>uncomfortable feeling, oddity</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>初対面<rt>しょたいめん</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>に<ruby>乱暴<rt>らんぼう</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby><ruby>遣<rt>づか</rt></ruby>いをすると、<ruby>強<rt>つよ</rt></ruby>い<ruby>違和感<rt>いわかん</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてしまう。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">現実（げんじつ）</span>
+        <span class="c-vocab-card__word"><ruby>現実<rt>げんじつ</rt></ruby>（げんじつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>reality, actuality</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>アニメの世界の日本語と、現実の日常会話の使い分けを理解する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>reality, actuality</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>アニメの<ruby>世界<rt>せかい</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>と、<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>けを<ruby>理解<rt>りかい</rt></ruby>する。</p>
     </div>
   </div>
 </div>

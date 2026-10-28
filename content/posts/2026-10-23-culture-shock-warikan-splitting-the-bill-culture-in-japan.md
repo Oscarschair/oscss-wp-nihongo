@@ -18,7 +18,7 @@ tags:
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>日本<rt>にほん</rt></ruby>の<ruby>居酒屋<rt>いざかや</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>もカルチャーショックを<ruby>受<rt>う</rt></ruby>けるお<ruby>会計<rt>かいけい</rt></ruby>の<ruby>習慣<rt>しゅうかん</rt></ruby>、**「<ruby>割り勘<rt>わりかん</rt></ruby>（わりかん）」**にフォーカスします！
 
-> 🚗 **クルマ**：「<ruby>先生<rt>せんせい</rt></ruby>！<ruby>昨日<rt>きのう</rt></ruby><ruby>日本<rt>にほん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>3<ruby>人<rt>にん</rt></ruby>と<ruby>居酒屋<rt>いざかや</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったんです。お<ruby>会計<rt>かいけい</rt></ruby>のときに<ruby>私<rt>わたし</rt></ruby>が『<ruby>今日<rt>きょう</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しかったから<ruby>全部<rt>ぜんぶ</rt></ruby>ごちそうするよ！』って<ruby>財布<rt>さいふ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したら、みんな<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>止<rt>と</rt></ruby>めてきて『ダメダメ！1<ruby>人<rt>にん</rt></ruby>2,680<ruby>円<rt>えん</rt></ruby>ずつね！』ってPayPayで<ruby>送金<rt>そうきん</rt></ruby>してきました。おごられるのが<ruby>嫌<rt>きら</rt></ruby>いなんですか！？」
+> 🚗 **クルマ**：「<ruby>先生<rt>せんせい</rt></ruby>！<ruby>昨日<rt>きのう</rt></ruby><ruby>日本<rt>にほん</rt></ruby>の<ruby>友達<rt>ともだち</rt></ruby>3<ruby>人<rt>にん</rt></ruby>と<ruby>居酒屋<rt>いざかや</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったんです。お<ruby>会計<rt>かいけい</rt></ruby>のときに<ruby>私<rt>わたし</rt></ruby>が『<ruby>今日<rt>きょう</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しかったから<ruby>全部<rt>ぜんぶ</rt></ruby>ごちそうするよ！』って<ruby>財布<rt>さいふ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したら、みんな<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>止<rt>と</rt></ruby>めてきて『ダメダメ！<ruby>1人<rt>ひとり</rt></ruby>2,680<ruby>円<rt>えん</rt></ruby>ずつね！』ってPayPayで<ruby>送金<rt>そうきん</rt></ruby>してきました。おごられるのが<ruby>嫌<rt>きら</rt></ruby>いなんですか！？」
 > 👩‍🏫 **<ruby>先生<rt>せんせい</rt></ruby>**：「あはは！クルマくんの<ruby>気前<rt>きまえ</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さは<ruby>素敵<rt>すてき</rt></ruby>だけど、<ruby>日本<rt>にほん</rt></ruby>には『<ruby>借<rt>か</rt></ruby>りを<ruby>作<rt>つく</rt></ruby>りたくない』『<ruby>対等<rt>たいとう</rt></ruby>でいたい』という<ruby>強<rt>つよ</rt></ruby>い<ruby>美学<rt>びがく</rt></ruby>があるのよ！」
 
 ---
@@ -26,15 +26,15 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>世界<rt>せかい</rt></ruby>の<ruby>会計<rt>かいけい</rt></ruby><ruby>文化<rt>ぶんか</rt></ruby> VS <ruby>日本<rt>にほん</rt></ruby>の「<ruby>割り勘<rt>わりかん</rt></ruby>」
 
 ```
-【海外（欧米・アジア各国）の定番】
-  ★「誰かのおごり（Treat / ごちそう）」スタイル
-      「今日はオレが払う！ 次回は君が払ってね！」
-      → 順番におごり合うことで友情や信頼を深める文化。
+【<ruby>海外<rt>かいがい</rt></ruby>（<ruby>欧米<rt>おうべい</rt></ruby>・アジア<ruby>各国<rt>かっこく</rt></ruby>）の<ruby>定番<rt>ていばん</rt></ruby>】
+  ★「<ruby>誰<rt>だれ</rt></ruby>かのおごり（Treat / ごちそう）」スタイル
+      「<ruby>今日<rt>きょう</rt></ruby>はオレが<ruby>払<rt>はら</rt></ruby>う！ <ruby>次回<rt>じかい</rt></ruby>は<ruby>君<rt>きみ</rt></ruby>が<ruby>払<rt>はら</rt></ruby>ってね！」
+      → <ruby>順番<rt>じゅんばん</rt></ruby>におごり<ruby>合<rt>あ</rt></ruby>うことで<ruby>友情<rt>ゆうじょう</rt></ruby>や<ruby>信頼<rt>しんらい</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>める<ruby>文化<rt>ぶんか</rt></ruby>。
 
-【日本の定番】
-  ★「完全割り勘（スプリット）」スタイル
-      「合計12,500円だから、4人で割って1人3,125円ね！」
-      → 相手に金銭的な負担や「借り」を感じさせないための【最大の気遣い】。
+【<ruby>日本<rt>にほん</rt></ruby>の<ruby>定番<rt>ていばん</rt></ruby>】
+  ★「<ruby>完全<rt>かんぜん</rt></ruby><ruby>割り勘<rt>わりかん</rt></ruby>（スプリット）」スタイル
+      「<ruby>合計<rt>ごうけい</rt></ruby>12,500<ruby>円<rt>えん</rt></ruby>だから、4<ruby>人<rt>にん</rt></ruby>で<ruby>割<rt>わ</rt></ruby>って<ruby>1人<rt>ひとり</rt></ruby>3,125<ruby>円<rt>えん</rt></ruby>ね！」
+      → <ruby>相手<rt>あいて</rt></ruby>に<ruby>金銭<rt>きんせん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>負担<rt>ふたん</rt></ruby>や「<ruby>借<rt>か</rt></ruby>り」を<ruby>感<rt>かん</rt></ruby>じさせないための【<ruby>最大<rt>さいだい</rt></ruby>の<ruby>気遣<rt>きづか</rt></ruby>い】。
 ```
 
 ---
@@ -57,20 +57,20 @@ tags:
 <ruby>友達<rt>ともだち</rt></ruby><ruby>同士<rt>どうし</rt></ruby>は<ruby>完全<rt>かんぜん</rt></ruby>な<ruby>割り勘<rt>わりかん</rt></ruby>が<ruby>基本<rt>きほん</rt></ruby>ですが、**<ruby>職場<rt>しょくば</rt></ruby>の<ruby>同僚<rt>どうりょう</rt></ruby>や<ruby>上司<rt>じょうし</rt></ruby>・<ruby>先輩<rt>せんぱい</rt></ruby>との<ruby>飲<rt>の</rt></ruby>み<ruby>会<rt>かい</rt></ruby>ではどうなるのでしょうか？**
 
 ```
-【現代の職場の飲み会で一般的な2大パターン】
+【<ruby>現代<rt>げんだい</rt></ruby>の<ruby>職場<rt>しょくば</rt></ruby>の<ruby>飲<rt>の</rt></ruby>み<ruby>会<rt>かい</rt></ruby>で<ruby>一般<rt>いっぱん</rt></ruby><ruby>的<rt>てき</rt></ruby>な2<ruby>大<rt>だい</rt></ruby>パターン】
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-①「全額おごり（ごちそう）」
-  ・プロジェクトの達成祝いや歓迎会、上司が個人的に部下を労うときなど、
-    上司が全額支払ってくれるパターン。
+①「<ruby>全額<rt>ぜんがく</rt></ruby>おごり（ごちそう）」
+  ・プロジェクトの<ruby>達成<rt>たっせい</rt></ruby><ruby>祝<rt>いわ</rt></ruby>いや<ruby>歓迎<rt>かんげい</rt></ruby><ruby>会<rt>かい</rt></ruby>、<ruby>上司<rt>じょうし</rt></ruby>が<ruby>個人<rt>こじん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>部下<rt>ぶか</rt></ruby>を<ruby>労<rt>ねぎら</rt></ruby>うときなど、
+    <ruby>上司<rt>じょうし</rt></ruby>が<ruby>全額<rt>ぜんがく</rt></ruby><ruby>支払<rt>しはら</rt></ruby>ってくれるパターン。
 
-②「きっちり均等割り（PayPay割り勘）」
-  ・最近のフラットな職場や気軽な飲み会では、「お互いに気を遣わないように！」と
-    役職に関係なく均等にアプリ送金する割り勘も増えています。
+②「きっちり<ruby>均等<rt>きんとう</rt></ruby><ruby>割<rt>わ</rt></ruby>り（PayPay<ruby>割り勘<rt>わりかん</rt></ruby>）」
+  ・<ruby>最近<rt>さいきん</rt></ruby>のフラットな<ruby>職場<rt>しょくば</rt></ruby>や<ruby>気軽<rt>きがる</rt></ruby>な<ruby>飲<rt>の</rt></ruby>み<ruby>会<rt>かい</rt></ruby>では、「お<ruby>互<rt>たが</rt></ruby>いに<ruby>気<rt>き</rt></ruby>を<ruby>遣<rt>つか</rt></ruby>わないように！」と
+    <ruby>役職<rt>やくしょく</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なく<ruby>均等<rt>きんとう</rt></ruby>にアプリ<ruby>送金<rt>そうきん</rt></ruby>する<ruby>割り勘<rt>わりかん</rt></ruby>も<ruby>増<rt>ふ</rt></ruby>えています。
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 もし<ruby>上司<rt>じょうし</rt></ruby>が「<ruby>今日<rt>きょう</rt></ruby>は<ruby>会社<rt>かいしゃ</rt></ruby>のお<ruby>祝<rt>いわ</rt></ruby>いだから<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>出<rt>だ</rt></ruby>すよ」「ここは<ruby>俺<rt>おれ</rt></ruby>が<ruby>出<rt>だ</rt></ruby>すよ」と<ruby>言<rt>い</rt></ruby>ってくれたら、
-<ruby>遠慮<rt>えんりょ</rt></ruby>しすぎて「いえ、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>割り勘<rt>わりかん</rt></ruby>にしてください！」と<ruby>頑<rt>*</rt></ruby>なに<ruby>拒否<rt>きょひ</rt></ruby>するのではなく、**「えっ、<ruby>本当<rt>ほんとう</rt></ruby>にいいんですか！？ ごちそうさまです！ありがとうございます！」**と<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>素直<rt>すなお</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>して<ruby>甘<rt>あま</rt></ruby>えるのがスマートな<ruby>大人<rt>おとな</rt></ruby>のマナーです。
+<ruby>遠慮<rt>えんりょ</rt></ruby>しすぎて「いえ、<ruby>絶対<rt>ぜったい</rt></ruby>に<ruby>割り勘<rt>わりかん</rt></ruby>にしてください！」と頑なに<ruby>拒否<rt>きょひ</rt></ruby>するのではなく、**「えっ、<ruby>本当<rt>ほんとう</rt></ruby>にいいんですか！？ ごちそうさまです！ありがとうございます！」**と<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>素直<rt>すなお</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>して<ruby>甘<rt>あま</rt></ruby>えるのがスマートな<ruby>大人<rt>おとな</rt></ruby>のマナーです。
 そして<ruby>一番<rt>いちばん</rt></ruby><ruby>大切<rt>たいせつ</rt></ruby>なのは、**<ruby>翌朝<rt>よくあさ</rt></ruby><ruby>出社<rt>しゅっしゃ</rt></ruby>したときに「<ruby>昨日<rt>きのう</rt></ruby>はごちそうさまでした！」と<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>一言<rt>ひとこと</rt></ruby>お<ruby>礼<rt>れい</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えること**。これだけで<ruby>職場<rt>しょくば</rt></ruby>の<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>がグッと<ruby>良<rt>よ</rt></ruby>くなります！
 
 ---
@@ -146,32 +146,32 @@ tags:
 * 📌 **ごちそうになったら「その<ruby>場<rt>ば</rt></ruby>」と「<ruby>翌朝<rt>よくあさ</rt></ruby>」の2<ruby>回<rt>かい</rt></ruby>お<ruby>礼<rt>れい</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えるのが<ruby>鉄則<rt>てっそく</rt></ruby>！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">割り勘（わりかん）</span>
+        <span class="c-vocab-card__word"><ruby>割り勘<rt>わりかん</rt></ruby>（わりかん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>splitting the bill, going Dutch</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>今日のランチ代は、みんなで割り勘にしましょう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>splitting the bill, going Dutch</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>今日<rt>きょう</rt></ruby>のランチ<ruby>代<rt>だい</rt></ruby>は、みんなで<ruby>割り勘<rt>わりかん</rt></ruby>にしましょう。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">ごちそう（ごちそう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>feast, treating someone to a meal</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>昨夜は美味しいお寿司をごちそうになり、本当にありがとうございました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>feast, treating someone to a meal</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>昨夜<rt>さくや</rt></ruby>は<ruby>美味<rt>おい</rt></ruby>しいお<ruby>寿司<rt>すし</rt></ruby>をごちそうになり、<ruby>本当<rt>ほんとう</rt></ruby>にありがとうございました。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">清算（せいさん）</span>
+        <span class="c-vocab-card__word"><ruby>清算<rt>せいさん</rt></ruby>（せいさん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>settlement of accounts, calculation</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>飲み会の会費は、後ほどアプリで清算しておきますね。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>settlement of accounts, calculation</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>飲<rt>の</rt></ruby>み<ruby>会<rt>かい</rt></ruby>の<ruby>会費<rt>かいひ</rt></ruby>は、<ruby>後<rt>のち</rt></ruby>ほどアプリで<ruby>清算<rt>せいさん</rt></ruby>しておきますね。</p>
     </div>
   </div>
 </div>

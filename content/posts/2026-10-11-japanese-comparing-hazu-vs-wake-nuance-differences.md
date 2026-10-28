@@ -40,15 +40,15 @@ tags:
 「はず」と「わけ」の<ruby>最大<rt>さいだい</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いは、**「<ruby>思考<rt>しこう</rt></ruby>のベクトル（<ruby>矢印<rt>やじるし</rt></ruby>の<ruby>向<rt>む</rt></ruby>き）」**にあります。
 
 ```
-【思考の向きとベクトルの違い】
+【<ruby>思考<rt>しこう</rt></ruby>の<ruby>向<rt>む</rt></ruby>きとベクトルの<ruby>違<rt>ちが</rt></ruby>い】
 
-●【〜はずです】：［確かな情報・予定］ ──────（未来へ推測）──────▶「きっと〜になる！」
-   客観的な根拠に基づいて、「高い確信を持って未来を予測する」言葉。
-   例：「新幹線は定刻通り出発したから、田中さんは【15時に到着するはずです】。」
+●【〜はずです】：［<ruby>確<rt>たし</rt></ruby>かな<ruby>情報<rt>じょうほう</rt></ruby>・<ruby>予定<rt>よてい</rt></ruby>］ ──────（<ruby>未来<rt>みらい</rt></ruby>へ<ruby>推測<rt>すいそく</rt></ruby>）──────▶「きっと〜になる！」
+   <ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>根拠<rt>こんきょ</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて、「<ruby>高<rt>たか</rt></ruby>い<ruby>確信<rt>かくしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>未来<rt>みらい</rt></ruby>を<ruby>予測<rt>よそく</rt></ruby>する」<ruby>言葉<rt>ことば</rt></ruby>。
+   <ruby>例<rt>れい</rt></ruby>：「<ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>定刻<rt>ていこく</rt></ruby><ruby>通<rt>どお</rt></ruby>り<ruby>出発<rt>しゅっぱつ</rt></ruby>したから、<ruby>田中<rt>たなか</rt></ruby>さんは【15<ruby>時<rt>じ</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>するはずです】。」
 
-●【〜わけです】：［目の前の不思議な結果］ ◀─────（原因へ遡って納得）─────［その理由］
-   目の前にある既成の事実に対して、「なるほど、そういう理由だったのか！」と納得する言葉。
-   例：「田中さんは新幹線に乗り遅れたのか。だから【15時に来なかったわけですね】。」
+●【〜わけです】：［<ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>の<ruby>不思議<rt>ふしぎ</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>］ ◀─────（<ruby>原因<rt>げんいん</rt></ruby>へ<ruby>遡<rt>さかのぼ</rt></ruby>って<ruby>納得<rt>なっとく</rt></ruby>）─────［その<ruby>理由<rt>りゆう</rt></ruby>］
+   <ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にある<ruby>既成<rt>きせい</rt></ruby>の<ruby>事実<rt>じじつ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、「なるほど、そういう<ruby>理由<rt>りゆう</rt></ruby>だったのか！」と<ruby>納得<rt>なっとく</rt></ruby>する<ruby>言葉<rt>ことば</rt></ruby>。
+   <ruby>例<rt>れい</rt></ruby>：「<ruby>田中<rt>たなか</rt></ruby>さんは<ruby>新幹線<rt>しんかんせん</rt></ruby>に<ruby>乗り遅<rt>のりおく</rt></ruby>れたのか。だから【15<ruby>時<rt>じ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>なかったわけですね】。」
 ```
 
 ### <ruby>一目<rt>いちもく</rt></ruby>でわかる<ruby>比較<rt>ひかく</rt></ruby><ruby>対照<rt>たいしょう</rt></ruby><ruby>表<rt>ひょう</rt></ruby>
@@ -86,12 +86,12 @@ tags:
 <ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>やビジネスで<ruby>頻繁<rt>ひんぱん</rt></ruby>に<ruby>使<rt>つか</rt></ruby>われるのが、<ruby>強<rt>つよ</rt></ruby>い<ruby>否定<rt>ひてい</rt></ruby>の<ruby>表現<rt>ひょうげん</rt></ruby>です。
 
 ```
-【否定形の使い分け】
-●【〜はずがない】：客観的な証拠から「あり得ない！」と強く否定（客観的確信）
-   例：「鍵はポケットに入れたから、落としたはずがない！」
+【<ruby>否定<rt>ひてい</rt></ruby><ruby>形<rt>がた</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>け】
+●【〜はずがない】：<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>証拠<rt>しょうこ</rt></ruby>から「あり<ruby>得<rt>え</rt></ruby>ない！」と<ruby>強<rt>つよ</rt></ruby>く<ruby>否定<rt>ひてい</rt></ruby>（<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>確信<rt>かくしん</rt></ruby>）
+   <ruby>例<rt>れい</rt></ruby>：「<ruby>鍵<rt>かぎ</rt></ruby>はポケットに<ruby>入<rt>い</rt></ruby>れたから、<ruby>落<rt>お</rt></ruby>としたはずがない！」
 
-●【〜わけがない】：道理や論理から「そんな不条理なこと、納得できるか！」と反発（主観的・感情的拒絶）
-   例：「あんなに親切な彼が、人を騙すわけがない！」
+●【〜わけがない】：<ruby>道理<rt>どうり</rt></ruby>や<ruby>論理<rt>ろんり</rt></ruby>から「そんな<ruby>不条理<rt>ふじょうり</rt></ruby>なこと、<ruby>納得<rt>なっとく</rt></ruby>できるか！」と<ruby>反発<rt>はんぱつ</rt></ruby>（<ruby>主観<rt>しゅかん</rt></ruby><ruby>的<rt>てき</rt></ruby>・<ruby>感情<rt>かんじょう</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>拒絶<rt>きょぜつ</rt></ruby>）
+   <ruby>例<rt>れい</rt></ruby>：「あんなに<ruby>親切<rt>しんせつ</rt></ruby>な<ruby>彼<rt>かれ</rt></ruby>が、<ruby>人<rt>ひと</rt></ruby>を<ruby>騙<rt>だま</rt></ruby>すわけがない！」
 ```
 
 |<ruby>表現<rt>ひょうげん</rt></ruby>| ニュアンス |<ruby>例文<rt>れいぶん</rt></ruby>|
@@ -125,19 +125,19 @@ tags:
 あなたの<ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです。<ruby>空欄<rt>くうらん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るのは「はず」でしょうか？ それとも「わけ」でしょうか？
 
 ```
-【第1問】
-「あれ？ ドアが開かないな……。あっ、鍵がかかっているのか！
-  どうりで開かない（　　　）だ！」
-  👉 理由が判明して納得しているので……？
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+「あれ？ ドアが<ruby>開<rt>ひら</rt></ruby>かないな……。あっ、<ruby>鍵<rt>かぎ</rt></ruby>がかかっているのか！
+  どうりで<ruby>開<rt>ひら</rt></ruby>かない（　　　）だ！」
+  👉 <ruby>理由<rt>りゆう</rt></ruby>が<ruby>判明<rt>はんめい</rt></ruby>して<ruby>納得<rt>なっとく</rt></ruby>しているので……？
 
-【第2問】
-「天気予報では午後から降水確率90%だったよ。
-  もうすぐ雨が降ってくる（　　　）だ。」
-  👉 客観的な予報データに基づいた未来の予測なので……？
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+「<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>では<ruby>午後<rt>ごご</rt></ruby>から<ruby>降水<rt>こうすい</rt></ruby><ruby>確率<rt>かくりつ</rt></ruby>90%だったよ。
+  もうすぐ<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってくる（　　　）だ。」
+  👉 <ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>予報<rt>よほう</rt></ruby>データに<ruby>基<rt>もと</rt></ruby>づいた<ruby>未来<rt>みらい</rt></ruby>の<ruby>予測<rt>よそく</rt></ruby>なので……？
 
-【第3問】
-「あんなに真面目でおとなしい彼が、無断欠勤なんてする（　　　）がない！」
-  👉 彼の性格という客観的証拠から、あり得ないと推測しているので……？
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+「あんなに<ruby>真面目<rt>まじめ</rt></ruby>でおとなしい<ruby>彼<rt>かれ</rt></ruby>が、<ruby>無断<rt>むだん</rt></ruby><ruby>欠勤<rt>けっきん</rt></ruby>なんてする（　　　）がない！」
+  👉 <ruby>彼<rt>かれ</rt></ruby>の<ruby>性格<rt>せいかく</rt></ruby>という<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>証拠<rt>しょうこ</rt></ruby>から、あり<ruby>得<rt>え</rt></ruby>ないと<ruby>推測<rt>すいそく</rt></ruby>しているので……？
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -160,32 +160,32 @@ tags:
 「はず」と「わけ」の<ruby>論理<rt>ろんり</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby>をマスターすれば、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>は<ruby>中級<rt>ちゅうきゅう</rt></ruby>から<ruby>一気<rt>いっき</rt></ruby>にネイティブレベルの<ruby>説得<rt>せっとく</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>持<rt>も</rt></ruby>つようになりますよ！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">はず（はず）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>should be, expected to</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>念入りに準備を整えたので、明日のプレゼンはうまくいくはずです。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>should be, expected to</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>念入<rt>ねんい</rt></ruby>りに<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>えたので、<ruby>明日<rt>あした</rt></ruby>のプレゼンはうまくいくはずです。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">わけ（わけ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>reason, naturally so</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>毎日三時間も日本語を特訓しているのだから、上達が早いわけだ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>reason, naturally so</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>毎日<rt>まいにち</rt></ruby><ruby>三<rt>さん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>も<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>特訓<rt>とっくん</rt></ruby>しているのだから、<ruby>上達<rt>じょうたつ</rt></ruby>が<ruby>早<rt>はや</rt></ruby>いわけだ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">納得（なっとく）</span>
+        <span class="c-vocab-card__word"><ruby>納得<rt>なっとく</rt></ruby>（なっとく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>convinced, understanding</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>先輩の丁寧な解説を聞いて、複雑なルールの理由がようやく納得できた。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>convinced, understanding</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>先輩<rt>せんぱい</rt></ruby>の<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>解説<rt>かいせつ</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いて、<ruby>複雑<rt>ふくざつ</rt></ruby>なルールの<ruby>理由<rt>りゆう</rt></ruby>がようやく<ruby>納得<rt>なっとく</rt></ruby>できた。</p>
     </div>
   </div>
 </div>

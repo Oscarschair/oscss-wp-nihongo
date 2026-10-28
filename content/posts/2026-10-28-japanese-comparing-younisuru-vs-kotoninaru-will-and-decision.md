@@ -27,15 +27,15 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「ようにする」VS「ことになる」の<ruby>対比<rt>たいひ</rt></ruby>マップ
 
 ```
-【〜ようにする：個人の意志・努力・習慣づけ】
-  ★「健康のために、毎日野菜を食べるようにしている。」
-  ★「遅刻しないように、目覚まし時計を3個セットした。」
-  →「自分の意志でそうなるよう努力する」ときに使う！
+【〜ようにする：<ruby>個人<rt>こじん</rt></ruby>の<ruby>意志<rt>いし</rt></ruby>・<ruby>努力<rt>どりょく</rt></ruby>・<ruby>習慣<rt>しゅうかん</rt></ruby>づけ】
+  ★「<ruby>健康<rt>けんこう</rt></ruby>のために、<ruby>毎日<rt>まいにち</rt></ruby><ruby>野菜<rt>やさい</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるようにしている。」
+  ★「<ruby>遅刻<rt>ちこく</rt></ruby>しないように、<ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時計<rt>とけい</rt></ruby>を3<ruby>個<rt>こ</rt></ruby>セットした。」
+  →「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意志<rt>いし</rt></ruby>でそうなるよう<ruby>努力<rt>どりょく</rt></ruby>する」ときに<ruby>使<rt>つか</rt></ruby>う！
 
-【〜ことになる：客観的な決定・組織の決定・運命の流れ】
-  ★「来月から東京本社に転勤することになりました。」
-  ★「ルール違反をすると、退場処分になることになっています。」
-  →「自分ひとりの意志ではなく、状況や組織によって決まった」ときに使う！
+【〜ことになる：<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>決定<rt>けってい</rt></ruby>・<ruby>組織<rt>そしき</rt></ruby>の<ruby>決定<rt>けってい</rt></ruby>・<ruby>運命<rt>うんめい</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れ】
+  ★「<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>東京<rt>とうきょう</rt></ruby><ruby>本社<rt>ほんしゃ</rt></ruby>に<ruby>転勤<rt>てんきん</rt></ruby>することになりました。」
+  ★「ルール<ruby>違反<rt>いはん</rt></ruby>をすると、<ruby>退場<rt>たいじょう</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby>になることになっています。」
+  →「<ruby>自分<rt>じぶん</rt></ruby>ひとりの<ruby>意志<rt>いし</rt></ruby>ではなく、<ruby>状況<rt>じょうきょう</rt></ruby>や<ruby>組織<rt>そしき</rt></ruby>によって<ruby>決<rt>き</rt></ruby>まった」ときに<ruby>使<rt>つか</rt></ruby>う！
 ```
 
 |<ruby>表現<rt>ひょうげん</rt></ruby>|<ruby>意味<rt>いみ</rt></ruby>|<ruby>決定<rt>けってい</rt></ruby>の<ruby>主体<rt>しゅたい</rt></ruby>|よく<ruby>使<rt>つか</rt></ruby>う<ruby>場面<rt>ばめん</rt></ruby>|
@@ -141,32 +141,32 @@ tags:
 * 📌 **<ruby>結婚<rt>けっこん</rt></ruby>などの<ruby>慶事<rt>けいじ</rt></ruby><ruby>報告<rt>ほうこく</rt></ruby>は「〜ことになりました」と<ruby>言<rt>い</rt></ruby>うと<ruby>謙虚<rt>けんきょ</rt></ruby>で<ruby>好<rt>こう</rt></ruby><ruby>印象<rt>いんしょう</rt></ruby>！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">習慣（しゅうかん）</span>
+        <span class="c-vocab-card__word"><ruby>習慣<rt>しゅうかん</rt></ruby>（しゅうかん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>habit, custom, practice</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>毎朝の日課として、散歩をする習慣が身につきました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>habit, custom, practice</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>毎朝<rt>まいあさ</rt></ruby>の<ruby>日課<rt>にっか</rt></ruby>として、<ruby>散歩<rt>さんぽ</rt></ruby>をする<ruby>習慣<rt>しゅうかん</rt></ruby>が<ruby>身<rt>み</rt></ruby>につきました。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">転勤（てんきん）</span>
+        <span class="c-vocab-card__word"><ruby>転勤<rt>てんきん</rt></ruby>（てんきん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>job transfer, relocation</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>来年の春から、大阪支社への転勤が決まりました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>job transfer, relocation</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>来年<rt>らいねん</rt></ruby>の<ruby>春<rt>はる</rt></ruby>から、<ruby>大阪<rt>おおさか</rt></ruby><ruby>支社<rt>ししゃ</rt></ruby>への<ruby>転勤<rt>てんきん</rt></ruby>が<ruby>決<rt>き</rt></ruby>まりました。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">心がけ（こころがけ）</span>
+        <span class="c-vocab-card__word"><ruby>心<rt>こころ</rt></ruby>がけ（こころがけ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>intention, attitude, readiness</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>常に相手の立場に立って考える心がけが大切です。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>intention, attitude, readiness</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>常<rt>つね</rt></ruby>に<ruby>相手<rt>あいて</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>考<rt>かんが</rt></ruby>える<ruby>心<rt>こころ</rt></ruby>がけが<ruby>大切<rt>たいせつ</rt></ruby>です。</p>
     </div>
   </div>
 </div>

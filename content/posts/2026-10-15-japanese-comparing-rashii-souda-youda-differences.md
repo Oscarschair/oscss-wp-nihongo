@@ -39,19 +39,19 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>情報<rt>じょうほう</rt></ruby><ruby>源<rt>げん</rt></ruby>と<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>の<ruby>全体<rt>ぜんたい</rt></ruby>マップ
 
 ```
-【目で見た直感・今にも起きそう】
-  ★「〜そうだ（様態）」：自分の目で見て「今にも〜しそう」と感じる直感
-      例：「空が真っ暗！ 雨が降りそうだ！」
+【<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>た<ruby>直感<rt>ちょっかん</rt></ruby>・<ruby>今<rt>いま</rt></ruby>にも<ruby>起<rt>お</rt></ruby>きそう】
+  ★「〜そうだ（<ruby>様態<rt>ようたい</rt></ruby>）」：<ruby>自分<rt>じぶん</rt></ruby>の<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>て「<ruby>今<rt>いま</rt></ruby>にも〜しそう」と<ruby>感<rt>かん</rt></ruby>じる<ruby>直感<rt>ちょっかん</rt></ruby>
+      <ruby>例<rt>れい</rt></ruby>：「<ruby>空<rt>そら</rt></ruby>が<ruby>真っ暗<rt>まっくら</rt></ruby>！ <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうだ！」
 
-【人から聞いた情報・噂】
-  ★「〜そうだ（伝聞）」：聞いた話をそのまま伝える
-      例：「天気予報によると、雨が降るそうだ。」
-  ★「〜らしい（伝聞・客観推量）」：人伝の噂や、客観的状況からの推測
-      例：「田中さんから聞いたけど、雨が降るらしいよ。」
+【<ruby>人<rt>ひと</rt></ruby>から<ruby>聞<rt>き</rt></ruby>いた<ruby>情報<rt>じょうほう</rt></ruby>・<ruby>噂<rt>うわさ</rt></ruby>】
+  ★「〜そうだ（<ruby>伝聞<rt>でんぶん</rt></ruby>）」：<ruby>聞<rt>き</rt></ruby>いた<ruby>話<rt>はなし</rt></ruby>をそのまま<ruby>伝<rt>つた</rt></ruby>える
+      <ruby>例<rt>れい</rt></ruby>：「<ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>によると、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るそうだ。」
+  ★「〜らしい（<ruby>伝聞<rt>でんぶん</rt></ruby>・<ruby>客観<rt>きゃっかん</rt></ruby><ruby>推量<rt>すいりょう</rt></ruby>）」：<ruby>人伝<rt>ひとづて</rt></ruby>の<ruby>噂<rt>うわさ</rt></ruby>や、<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>からの<ruby>推測<rt>すいそく</rt></ruby>
+      <ruby>例<rt>れい</rt></ruby>：「<ruby>田中<rt>たなか</rt></ruby>さんから<ruby>聞<rt>き</rt></ruby>いたけど、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るらしいよ。」
 
-【五感＋状況証拠からの論理的判断】
-  ★「〜ようだ（比喩・推量）」：状況や気配から論理的に判断する
-      例：「外の人が傘を差している。雨が降っているようだ。」
+【<ruby>五感<rt>ごかん</rt></ruby>＋<ruby>状況<rt>じょうきょう</rt></ruby><ruby>証拠<rt>しょうこ</rt></ruby>からの<ruby>論理<rt>ろんり</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>】
+  ★「〜ようだ（<ruby>比喩<rt>ひゆ</rt></ruby>・<ruby>推量<rt>すいりょう</rt></ruby>）」：<ruby>状況<rt>じょうきょう</rt></ruby>や<ruby>気配<rt>けはい</rt></ruby>から<ruby>論理<rt>ろんり</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>判断<rt>はんだん</rt></ruby>する
+      <ruby>例<rt>れい</rt></ruby>：「<ruby>外<rt>そと</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>傘<rt>かさ</rt></ruby>を<ruby>差<rt>さ</rt></ruby>している。<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているようだ。」
 ```
 
 | <ruby>表現<rt>ひょうげん</rt></ruby> | <ruby>主<rt>おも</rt></ruby>な<ruby>意味<rt>いみ</rt></ruby> | <ruby>情報<rt>じょうほう</rt></ruby>の<ruby>出<rt>で</rt></ruby>どころ | <ruby>話し手<rt>はなして</rt></ruby>のスタンス | よくある<ruby>接続<rt>せつぞく</rt></ruby> |
@@ -237,32 +237,32 @@ tags:
 「<ruby>目<rt>め</rt></ruby>で<ruby>見<rt>み</rt></ruby>たのか？ <ruby>耳<rt>みみ</rt></ruby>で<ruby>聞<rt>き</rt></ruby>いたのか？ <ruby>頭<rt>あたま</rt></ruby>で<ruby>推理<rt>すいり</rt></ruby>したのか？」を<ruby>意識<rt>いしき</rt></ruby>して、<ruby>自信<rt>じしん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>使い分<rt>つかいわ</rt></ruby>けてみてくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">らしい（らしい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>seems like, I hear that</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>天気予報によると、明日は午後から激しい雨が降るらしいです。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>seems like, I hear that</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>天気<rt>てんき</rt></ruby><ruby>予報<rt>よほう</rt></ruby>によると、<ruby>明日<rt>あした</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>から<ruby>激<rt>はげ</rt></ruby>しい<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るらしいです。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">そうだ（そうだ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>looks like (appearance)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>空に真っ黒な雨雲が広がってきて、今にも雨が降りそうだ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>looks like (appearance)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>空<rt>そら</rt></ruby>に<ruby>真っ黒<rt>まっくろ</rt></ruby>な<ruby>雨雲<rt>あまぐも</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>がってきて、<ruby>今<rt>いま</rt></ruby>にも<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>お</rt></ruby>りそうだ。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">ようだ（ようだ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>seems like (sensory inference)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>外を歩く人たちがみんな傘を差しているところを見ると、雨が降っているようだ。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>seems like (sensory inference)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>外<rt>そと</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>たちがみんな<ruby>傘<rt>かさ</rt></ruby>を<ruby>差<rt>さ</rt></ruby>しているところを<ruby>見<rt>み</rt></ruby>ると、<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているようだ。</p>
     </div>
   </div>
 </div>

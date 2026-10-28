@@ -14,8 +14,7 @@ tags:
   - 本音と建前
   - JLPT N3
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の「ことばのあや」では、<ruby>品格<rt>ひんかく</rt></ruby>ある<ruby>配慮<rt>はいりょ</rt></ruby>の「**[『お手数』VS『ご迷惑』の使い分け](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-12-kotoba-no-aya-otesuu-vs-gomeiwaku-business-etiquette.md)**」を<ruby>解剖<rt>かいぼう</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の「ことばのあや」では、<ruby>品格<rt>ひんかく</rt></ruby>ある<ruby>配慮<rt>はいりょ</rt></ruby>の「**[『お<ruby>手数<rt>てかず</rt></ruby>』VS『ご<ruby>迷惑<rt>めいわく</rt></ruby>』の<ruby>使い分<rt>つかいわ</rt></ruby>け](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-12-kotoba-no-aya-otesuu-vs-gomeiwaku-business-etiquette.md)**」を<ruby>解剖<rt>かいぼう</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>したりビジネスをしたりする<ruby>中<rt>なか</rt></ruby>で、<ruby>最<rt>もっと</rt></ruby>もヤキモキさせられる<ruby>大<rt>だい</rt></ruby><ruby>定番<rt>ていばん</rt></ruby>フレーズ、**「ちょっと<ruby>考<rt>かんが</rt></ruby>えさせてください」**の<ruby>裏<rt>うら</rt></ruby>に<ruby>潜<rt>ひそ</rt></ruby>む<ruby>本音<rt>ほんね</rt></ruby>を<ruby>暴<rt>あば</rt></ruby>きます！
 
@@ -27,13 +26,13 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「<ruby>考<rt>かんが</rt></ruby>えます」の<ruby>真実<rt>しんじつ</rt></ruby><ruby>翻訳<rt>ほんやく</rt></ruby>マップ
 
 ```
-【外国人が受け取る文字通りの意味】
-  「いま頭の中で一生懸命考えているから、結論が出るまで待っていてね！」
-  ➔ 期待値：50%〜80%（YESになる可能性が高い！）
+【<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>受け取<rt>うけと</rt></ruby>る<ruby>文字通<rt>もじどお</rt></ruby>りの<ruby>意味<rt>いみ</rt></ruby>】
+  「いま<ruby>頭<rt>あたま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>一生懸命<rt>いっしょうけんめい</rt></ruby><ruby>考<rt>かんが</rt></ruby>えているから、<ruby>結論<rt>けつろん</rt></ruby>が<ruby>出<rt>で</rt></ruby>るまで<ruby>待<rt>ま</rt></ruby>っていてね！」
+  ➔ <ruby>期待<rt>きたい</rt></ruby><ruby>値<rt>ち</rt></ruby>：50%〜80%（YESになる<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い！）
 
-【日本人の頭の中の本音（リアルな翻訳）】
-  「その場ではっきり断るとあなたに恥をかかせるから、空気を読んで察してね。」
-  ➔ 実際のYES確率：わずか10%未満（90%は事実上の『お断り』！）
+【<ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>頭<rt>あたま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>本音<rt>ほんね</rt></ruby>（リアルな<ruby>翻訳<rt>ほんやく</rt></ruby>）】
+  「その<ruby>場<rt>ば</rt></ruby>ではっきり<ruby>断<rt>ことわ</rt></ruby>るとあなたに<ruby>恥<rt>はじ</rt></ruby>をかかせるから、<ruby>空気<rt>くうき</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んで<ruby>察<rt>さっ</rt></ruby>してね。」
+  ➔ <ruby>実際<rt>じっさい</rt></ruby>のYES<ruby>確率<rt>かくりつ</rt></ruby>：わずか10%<ruby>未満<rt>みまん</rt></ruby>（90%は<ruby>事実<rt>じじつ</rt></ruby><ruby>上<rt>じょう</rt></ruby>の『お<ruby>断<rt>ことわ</rt></ruby>り』！）
 ```
 
 ---
@@ -68,13 +67,13 @@ tags:
 ビジネスの<ruby>現場<rt>げんば</rt></ruby>でクライアントから「<ruby>社内<rt>しゃない</rt></ruby>で<ruby>持ち帰<rt>もちかえ</rt></ruby>って<ruby>検討<rt>けんとう</rt></ruby>します」と<ruby>言<rt>い</rt></ruby>われたとき、<ruby>営業<rt>えいぎょう</rt></ruby><ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>はどう<ruby>動<rt>うご</rt></ruby>くべきか？
 
 ```
-【商談後の「検討します」のリアルな温度感】
-  ・温度感 80%（超有望）: 「〇〇の点について上司に確認します。来週水曜までに結果をご連絡します。」
-      → 具体的な確認事項と回答期限が明示されている！
-  ・温度感 40%（微妙）: 「良い提案ですね。持ち帰って社内で相談してみます。」
-      → 期限がなく、社交辞令の可能性あり。
-  ・温度感 10%（絶望）: 「検討させていただきます（名刺をしまって終了）。」
-      → 完全なお断り。追撃の営業電話をすると嫌がられます。
+【<ruby>商談<rt>しょうだん</rt></ruby><ruby>後<rt>ご</rt></ruby>の「<ruby>検討<rt>けんとう</rt></ruby>します」のリアルな<ruby>温度<rt>おんど</rt></ruby><ruby>感<rt>かん</rt></ruby>】
+  ・<ruby>温度<rt>おんど</rt></ruby><ruby>感<rt>かん</rt></ruby> 80%（<ruby>超<rt>ちょう</rt></ruby><ruby>有望<rt>ゆうぼう</rt></ruby>）: 「〇〇の<ruby>点<rt>てん</rt></ruby>について<ruby>上司<rt>じょうし</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>します。<ruby>来週<rt>らいしゅう</rt></ruby><ruby>水曜<rt>すいよう</rt></ruby>までに<ruby>結果<rt>けっか</rt></ruby>をご<ruby>連絡<rt>れんらく</rt></ruby>します。」
+      → <ruby>具体<rt>ぐたい</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>確認<rt>かくにん</rt></ruby><ruby>事項<rt>じこう</rt></ruby>と<ruby>回答<rt>かいとう</rt></ruby><ruby>期限<rt>きげん</rt></ruby>が<ruby>明示<rt>めいじ</rt></ruby>されている！
+  ・<ruby>温度<rt>おんど</rt></ruby><ruby>感<rt>かん</rt></ruby> 40%（<ruby>微妙<rt>びみょう</rt></ruby>）: 「<ruby>良<rt>よ</rt></ruby>い<ruby>提案<rt>ていあん</rt></ruby>ですね。<ruby>持ち帰<rt>もちかえ</rt></ruby>って<ruby>社内<rt>しゃない</rt></ruby>で<ruby>相談<rt>そうだん</rt></ruby>してみます。」
+      → <ruby>期限<rt>きげん</rt></ruby>がなく、<ruby>社交<rt>しゃこう</rt></ruby><ruby>辞令<rt>じれい</rt></ruby>の<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>あり。
+  ・<ruby>温度<rt>おんど</rt></ruby><ruby>感<rt>かん</rt></ruby> 10%（<ruby>絶望<rt>ぜつぼう</rt></ruby>）: 「<ruby>検討<rt>けんとう</rt></ruby>させていただきます（<ruby>名刺<rt>めいし</rt></ruby>をしまって<ruby>終了<rt>しゅうりょう</rt></ruby>）。」
+      → <ruby>完全<rt>かんぜん</rt></ruby>なお<ruby>断<rt>ことわ</rt></ruby>り。<ruby>追撃<rt>ついげき</rt></ruby>の<ruby>営業<rt>えいぎょう</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>をすると<ruby>嫌<rt>いや</rt></ruby>がられます。
 ```
 
 ### 🤝 <ruby>相手<rt>あいて</rt></ruby>を<ruby>追い詰<rt>おいつ</rt></ruby>めないスマートなアプローチ

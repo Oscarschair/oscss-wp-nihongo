@@ -44,19 +44,19 @@ tags:
 まずは、<ruby>頭<rt>あたま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>一瞬<rt>いっしゅん</rt></ruby>で<ruby>判断<rt>はんだん</rt></ruby>できるように「<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>メーター」で<ruby>整理<rt>せいり</rt></ruby>しましょう！
 
 ```
-【三大推量副詞の確信度と性質】
+【<ruby>三<rt>さん</rt></ruby><ruby>大<rt>だい</rt></ruby><ruby>推量<rt>すいりょう</rt></ruby><ruby>副詞<rt>ふくし</rt></ruby>の<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>と<ruby>性質<rt>せいしつ</rt></ruby>】
 
-●【たぶん】（確信度：約50%〜60%）［主観・カジュアル］
-  ・「そうかもしれないし、そうじゃないかもしれない（半々）」。
-  ・勘や直感に基づく、日常会話のくだけた予想。
+●【たぶん】（<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>：<ruby>約<rt>やく</rt></ruby>50%〜60%）［<ruby>主観<rt>しゅかん</rt></ruby>・カジュアル］
+  ・「そうかもしれないし、そうじゃないかもしれない（<ruby>半々<rt>はんはん</rt></ruby>）」。
+  ・<ruby>勘<rt>かん</rt></ruby>や<ruby>直感<rt>ちょっかん</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく、<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>のくだけた<ruby>予想<rt>よそう</rt></ruby>。
 
-●【おそらく】（確信度：約80%〜90%）［客観・論理・フォーマル］
-  ・「データや根拠から分析すると、高い確率でそうなる」。
-  ・ビジネスや公的ニュース、知的な推測に必須の言葉！
+●【おそらく】（<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>：<ruby>約<rt>やく</rt></ruby>80%〜90%）［<ruby>客観<rt>きゃっかん</rt></ruby>・<ruby>論理<rt>ろんり</rt></ruby>・フォーマル］
+  ・「データや<ruby>根拠<rt>こんきょ</rt></ruby>から<ruby>分析<rt>ぶんせき</rt></ruby>すると、<ruby>高<rt>たか</rt></ruby>い<ruby>確率<rt>かくりつ</rt></ruby>でそうなる」。
+  ・ビジネスや<ruby>公的<rt>こうてき</rt></ruby>ニュース、<ruby>知的<rt>ちてき</rt></ruby>な<ruby>推測<rt>すいそく</rt></ruby>に<ruby>必須<rt>ひっす</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>！
 
-●【きっと】（確信度：約90%）［強い願い・感情・確信］
-  ・「絶対にそうなってほしい！ 必ずそうなるはずだ！」
-  ・話し手の強い「意志」「感情」「相手への励まし」が乗る言葉！
+●【きっと】（<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>：<ruby>約<rt>やく</rt></ruby>90%）［<ruby>強<rt>つよ</rt></ruby>い<ruby>願<rt>ねが</rt></ruby>い・<ruby>感情<rt>かんじょう</rt></ruby>・<ruby>確信<rt>かくしん</rt></ruby>］
+  ・「<ruby>絶対<rt>ぜったい</rt></ruby>にそうなってほしい！ <ruby>必<rt>かなら</rt></ruby>ずそうなるはずだ！」
+  ・<ruby>話し手<rt>はなして</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い「<ruby>意志<rt>いし</rt></ruby>」「<ruby>感情<rt>かんじょう</rt></ruby>」「<ruby>相手<rt>あいて</rt></ruby>への<ruby>励<rt>はげ</rt></ruby>まし」が<ruby>乗<rt>の</rt></ruby>る<ruby>言葉<rt>ことば</rt></ruby>！
 ```
 
 ### <ruby>一目<rt>いちもく</rt></ruby>でわかる<ruby>比較<rt>ひかく</rt></ruby><ruby>対照<rt>たいしょう</rt></ruby><ruby>表<rt>ひょう</rt></ruby>
@@ -99,19 +99,19 @@ tags:
 ここで「たぶん」を<ruby>使<rt>つか</rt></ruby>うと<ruby>信頼<rt>しんらい</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>いますが、「おそらく」を<ruby>使<rt>つか</rt></ruby>えばプロフェッショナルな<ruby>報告<rt>ほうこく</rt></ruby>になります！
 
 ```
-【ビジネス報告の黄金フレーズ】
+【ビジネス<ruby>報告<rt>ほうこく</rt></ruby>の<ruby>黄金<rt>おうごん</rt></ruby>フレーズ】
 
-✕「明日の納品は、たぶん間に合うと思います。」（無責任）
+✕「<ruby>明日<rt>あした</rt></ruby>の<ruby>納品<rt>のうひん</rt></ruby>は、たぶん<ruby>間に合<rt>まにあ</rt></ruby>うと<ruby>思<rt>おも</rt></ruby>います。」（<ruby>無責任<rt>むせきにん</rt></ruby>）
          │
          ▼
-〇「現在の作業進捗から判断いたしますと、
-   【明日の納品にはおそらく間に合う見通しでございます】。」（知的で誠実）
+〇「<ruby>現在<rt>げんざい</rt></ruby>の<ruby>作業<rt>さぎょう</rt></ruby><ruby>進捗<rt>しんちょく</rt></ruby>から<ruby>判断<rt>はんだん</rt></ruby>いたしますと、
+   【<ruby>明日<rt>あした</rt></ruby>の<ruby>納品<rt>のうひん</rt></ruby>にはおそらく<ruby>間に合<rt>まにあ</rt></ruby>う<ruby>見通<rt>みとお</rt></ruby>しでございます】。」（<ruby>知的<rt>ちてき</rt></ruby>で<ruby>誠実<rt>せいじつ</rt></ruby>）
 
-✕「あの会社は、たぶん契約しないと思います。」
+✕「あの<ruby>会社<rt>かいしゃ</rt></ruby>は、たぶん<ruby>契約<rt>けいやく</rt></ruby>しないと<ruby>思<rt>おも</rt></ruby>います。」
          │
          ▼
-〇「先方のこれまでの反応を総合いたしますと、
-   【ご契約は少々難しい（見送られる）可能性がおそらく高いと考えられます】。」
+〇「<ruby>先方<rt>せんぽう</rt></ruby>のこれまでの<ruby>反応<rt>はんのう</rt></ruby>を<ruby>総合<rt>そうごう</rt></ruby>いたしますと、
+   【ご<ruby>契約<rt>けいやく</rt></ruby>は<ruby>少々<rt>しょうしょう</rt></ruby><ruby>難<rt>むずか</rt></ruby>しい（<ruby>見送<rt>みおく</rt></ruby>られる）<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>がおそらく<ruby>高<rt>たか</rt></ruby>いと<ruby>考<rt>かんが</rt></ruby>えられます】。」
 ```
 
 ### <ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>への<ruby>究極<rt>きゅうきょく</rt></ruby>の<ruby>敬語<rt>けいご</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>：「おそらく〜かと<ruby>存<rt>ぞん</rt></ruby>じます」
@@ -129,12 +129,12 @@ tags:
 <ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>が50%よりもさらに<ruby>低<rt>ひく</rt></ruby>い、わずかな<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>述<rt>の</rt></ruby>べるときに<ruby>大<rt>だい</rt></ruby><ruby>活躍<rt>かつやく</rt></ruby>する<ruby>副詞<rt>ふくし</rt></ruby>もセットで<ruby>覚<rt>おぼ</rt></ruby>えましょう！
 
 ```
-【推量副詞の完全グラデーション】
-●【きっと】（約90%＋強い願い）：「努力したから、きっと成功する！」
-●【おそらく】（約80%〜90%・客観的）：「データ上、おそらく達成できる。」
-●【たぶん】（約50%・半々）：「たぶん大丈夫だと思うよ。」
-●【もしかしたら】（約20%〜30%・可能性あり）：「もしかしたら雨が降るかも。」
-●【ひょっとしたら】（約10%・万が一）：「ひょっとしたら彼が犯人かもしれない。」
+【<ruby>推量<rt>すいりょう</rt></ruby><ruby>副詞<rt>ふくし</rt></ruby>の<ruby>完全<rt>かんぜん</rt></ruby>グラデーション】
+●【きっと】（<ruby>約<rt>やく</rt></ruby>90%＋<ruby>強<rt>つよ</rt></ruby>い<ruby>願<rt>ねが</rt></ruby>い）：「<ruby>努力<rt>どりょく</rt></ruby>したから、きっと<ruby>成功<rt>せいこう</rt></ruby>する！」
+●【おそらく】（<ruby>約<rt>やく</rt></ruby>80%〜90%・<ruby>客観<rt>きゃっかん</rt></ruby><ruby>的<rt>てき</rt></ruby>）：「データ<ruby>上<rt>じょう</rt></ruby>、おそらく<ruby>達成<rt>たっせい</rt></ruby>できる。」
+●【たぶん】（<ruby>約<rt>やく</rt></ruby>50%・<ruby>半々<rt>はんはん</rt></ruby>）：「たぶん<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>うよ。」
+●【もしかしたら】（<ruby>約<rt>やく</rt></ruby>20%〜30%・<ruby>可能<rt>かのう</rt></ruby><ruby>性<rt>せい</rt></ruby>あり）：「もしかしたら<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るかも。」
+●【ひょっとしたら】（<ruby>約<rt>やく</rt></ruby>10%・<ruby>万が一<rt>まんがいち</rt></ruby>）：「ひょっとしたら<ruby>彼<rt>かれ</rt></ruby>が<ruby>犯人<rt>はんにん</rt></ruby>かもしれない。」
 ```
 
 <ruby>文末<rt>ぶんまつ</rt></ruby>を**「〜かもしれない（JLPT N3）」**と<ruby>呼応<rt>こおう</rt></ruby>させるのが<ruby>鉄則<rt>てっそく</rt></ruby>です！
@@ -146,20 +146,20 @@ tags:
 あなたの<ruby>推量<rt>すいりょう</rt></ruby><ruby>副詞<rt>ふくし</rt></ruby>のセンスを<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
-【第1問】
-落ち込んでいる同僚に「元気出して！ 明日は（　　　）いい日になるよ！」と温かく励ましたい。空欄に入るのは？
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>落ち込<rt>おちこ</rt></ruby>んでいる<ruby>同僚<rt>どうりょう</rt></ruby>に「<ruby>元気<rt>げんき</rt></ruby><ruby>出<rt>だ</rt></ruby>して！ <ruby>明日<rt>あした</rt></ruby>は（　　　）いい<ruby>日<rt>ひ</rt></ruby>になるよ！」と<ruby>温<rt>あたた</rt></ruby>かく<ruby>励<rt>はげ</rt></ruby>ましたい。<ruby>空欄<rt>くうらん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るのは？
 ① たぶん
 ② おそらく
 ③ きっと
 
-【第2問】
-役員会議で新商品の売上予測をプレゼンするとき、「過去の類似データから分析して、（　　　）3万個は売れる見通しです」と報告したい。適切なのは？
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+<ruby>役員<rt>やくいん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>で<ruby>新<rt>しん</rt></ruby><ruby>商品<rt>しょうひん</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby><ruby>予測<rt>よそく</rt></ruby>をプレゼンするとき、「<ruby>過去<rt>かこ</rt></ruby>の<ruby>類似<rt>るいじ</rt></ruby>データから<ruby>分析<rt>ぶんせき</rt></ruby>して、（　　　）3<ruby>万<rt>まん</rt></ruby><ruby>個<rt>こ</rt></ruby>は<ruby>売<rt>う</rt></ruby>れる<ruby>見通<rt>みとお</rt></ruby>しです」と<ruby>報告<rt>ほうこく</rt></ruby>したい。<ruby>適切<rt>てきせつ</rt></ruby>なのは？
 ① たぶん
 ② おそらく
 ③ きっと
 
-【第3問】
-友達から「日曜日のバーベキュー、何人くらい来るの？」と聞かれ、「まだ返事してない人もいるから分からないけど、（　　　）10人くらいかな」と答えるとき自然なのは？
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>友達<rt>ともだち</rt></ruby>から「<ruby>日曜日<rt>にちようび</rt></ruby>のバーベキュー、<ruby>何<rt>なん</rt></ruby><ruby>人<rt>にん</rt></ruby>くらい<ruby>来<rt>く</rt></ruby>るの？」と<ruby>聞<rt>き</rt></ruby>かれ、「まだ<ruby>返事<rt>へんじ</rt></ruby>してない<ruby>人<rt>ひと</rt></ruby>もいるから<ruby>分<rt>わ</rt></ruby>からないけど、（　　　）10<ruby>人<rt>にん</rt></ruby>くらいかな」と<ruby>答<rt>こた</rt></ruby>えるとき<ruby>自然<rt>しぜん</rt></ruby>なのは？
 ① たぶん
 ② おそらく
 ```
@@ -184,32 +184,32 @@ tags:
 3つの<ruby>言葉<rt>ことば</rt></ruby>の<ruby>確信<rt>かくしん</rt></ruby><ruby>度<rt>ど</rt></ruby>とキャラクターを<ruby>意識<rt>いしき</rt></ruby>するだけで、あなたの<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>は<ruby>感情<rt>かんじょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>もビジネスの<ruby>説得<rt>せっとく</rt></ruby><ruby>力<rt>りょく</rt></ruby>も<ruby>一気<rt>いっき</rt></ruby>にレベルアップしますよ！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">多分（たぶん）</span>
+        <span class="c-vocab-card__word"><ruby>多分<rt>たぶん</rt></ruby>（たぶん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>probably, perhaps</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>空が少し曇ってきたので、多分夜には雨が降るでしょう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>probably, perhaps</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>空<rt>そら</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>曇<rt>くも</rt></ruby>ってきたので、<ruby>多分<rt>たぶん</rt></ruby><ruby>夜<rt>よる</rt></ruby>には<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るでしょう。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">恐らく（おそらく）</span>
+        <span class="c-vocab-card__word"><ruby>恐<rt>おそ</rt></ruby>らく（おそらく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>probably, likely (formal)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>交通渋滞が発生しているため、恐らく電車の到着は遅れる見込みです。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>probably, likely (formal)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>交通<rt>こうつう</rt></ruby><ruby>渋滞<rt>じゅうたい</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>しているため、<ruby>恐<rt>おそ</rt></ruby>らく<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>到着<rt>とうちゃく</rt></ruby>は<ruby>遅<rt>おく</rt></ruby>れる<ruby>見込<rt>みこ</rt></ruby>みです。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">きっと（きっと）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>surely, definitely</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>これだけ真剣に勉強したのだから、明日のJLPT試験はきっと合格できます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>surely, definitely</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>これだけ<ruby>真剣<rt>しんけん</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>したのだから、<ruby>明日<rt>あした</rt></ruby>のJLPT<ruby>試験<rt>しけん</rt></ruby>はきっと<ruby>合格<rt>ごうかく</rt></ruby>できます。</p>
     </div>
   </div>
 </div>

@@ -42,16 +42,16 @@ tags:
 <ruby>日本<rt>にっぽん</rt></ruby>の<ruby>市役所<rt>しやくしょ</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby><ruby>導線<rt>どうせん</rt></ruby>は、<ruby>以下<rt>いか</rt></ruby>の**「4<ruby>大<rt>だい</rt></ruby>ステップ」**で<ruby>統一<rt>とういつ</rt></ruby>されています。
 
 ```
-【START】入口・総合案内
+【START】<ruby>入口<rt>いりぐち</rt></ruby>・<ruby>総合<rt>そうごう</rt></ruby><ruby>案内<rt>あんない</rt></ruby>
    │
-   ▼ [STEP 1] 総合案内で「転入の手続きです」と伝える
-   │   └ 申請書（住民異動届）と発券機の発券番号をもらう
-   ▼ [STEP 2] 記入台で必要事項を書く（見本を参照）
-   │   └ 氏名、生年月日、旧住所、新住所、世帯主
-   ▼ [STEP 3] チャイムが鳴り、窓口で番号が呼ばれる
-   │   └ 申請書、在留カード、転出証明書などを提出
-   ▼ [STEP 4] 交付窓口で完了確認・新住民票やマイナンバーの更新
-【GOAL】無事脱出！
+   ▼ [STEP 1] <ruby>総合<rt>そうごう</rt></ruby><ruby>案内<rt>あんない</rt></ruby>で「<ruby>転入<rt>てんにゅう</rt></ruby>の<ruby>手続<rt>てつづ</rt></ruby>きです」と<ruby>伝<rt>つた</rt></ruby>える
+   │   └ <ruby>申請<rt>しんせい</rt></ruby><ruby>書<rt>しょ</rt></ruby>（<ruby>住民<rt>じゅうみん</rt></ruby><ruby>異動<rt>いどう</rt></ruby><ruby>届<rt>とどけ</rt></ruby>）と<ruby>発券<rt>はっけん</rt></ruby><ruby>機<rt>き</rt></ruby>の<ruby>発券<rt>はっけん</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>をもらう
+   ▼ [STEP 2] <ruby>記入<rt>きにゅう</rt></ruby><ruby>台<rt>だい</rt></ruby>で<ruby>必要<rt>ひつよう</rt></ruby><ruby>事項<rt>じこう</rt></ruby>を<ruby>書<rt>か</rt></ruby>く（<ruby>見本<rt>みほん</rt></ruby>を<ruby>参照<rt>さんしょう</rt></ruby>）
+   │   └ <ruby>氏名<rt>しめい</rt></ruby>、<ruby>生年月日<rt>せいねんがっぴ</rt></ruby>、<ruby>旧<rt>きゅう</rt></ruby><ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>新<rt>しん</rt></ruby><ruby>住所<rt>じゅうしょ</rt></ruby>、<ruby>世帯<rt>せたい</rt></ruby><ruby>主<rt>ぬし</rt></ruby>
+   ▼ [STEP 3] チャイムが<ruby>鳴<rt>な</rt></ruby>り、<ruby>窓口<rt>まどぐち</rt></ruby>で<ruby>番号<rt>ばんごう</rt></ruby>が<ruby>呼<rt>よ</rt></ruby>ばれる
+   │   └ <ruby>申請<rt>しんせい</rt></ruby><ruby>書<rt>しょ</rt></ruby>、<ruby>在留<rt>ざいりゅう</rt></ruby>カード、<ruby>転出<rt>てんしゅつ</rt></ruby><ruby>証明<rt>しょうめい</rt></ruby><ruby>書<rt>しょ</rt></ruby>などを<ruby>提出<rt>ていしゅつ</rt></ruby>
+   ▼ [STEP 4] <ruby>交付<rt>こうふ</rt></ruby><ruby>窓口<rt>まどぐち</rt></ruby>で<ruby>完了<rt>かんりょう</rt></ruby><ruby>確認<rt>かくにん</rt></ruby>・<ruby>新<rt>しん</rt></ruby><ruby>住民<rt>じゅうみん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>やマイナンバーの<ruby>更新<rt>こうしん</rt></ruby>
+【GOAL】<ruby>無事<rt>ぶじ</rt></ruby><ruby>脱出<rt>だっしゅつ</rt></ruby>！
 ```
 
 * **<ruby>混雑<rt>こんざつ</rt></ruby>する<ruby>時期<rt>じき</rt></ruby>**：3<ruby>月<rt>つき</rt></ruby><ruby>下旬<rt>げじゅん</rt></ruby>〜4<ruby>月<rt>つき</rt></ruby><ruby>上旬<rt>じょうじゅん</rt></ruby>（<ruby>引越<rt>ひっこ</rt></ruby>しシーズン）、<ruby>月曜日<rt>げつようび</rt></ruby>、<ruby>月<rt>つき</rt></ruby><ruby>初<rt>はつ</rt></ruby>・<ruby>月末<rt>げつまつ</rt></ruby>。
@@ -223,32 +223,32 @@ tags:
 <ruby>新<rt>あたら</rt></ruby>しい<ruby>街<rt>まち</rt></ruby>での<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>応援<rt>おうえん</rt></ruby>しています！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">転入届（てんにゅうとどけ）</span>
+        <span class="c-vocab-card__word"><ruby>転入<rt>てんにゅう</rt></ruby><ruby>届<rt>とどけ</rt></ruby>（てんにゅうとどけ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>moving-in notification</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>新しい街に引っ越してきたので、十四日以内に市役所へ転入届を提出する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>moving-in notification</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>新<rt>あたら</rt></ruby>しい<ruby>街<rt>まち</rt></ruby>に<ruby>引っ越<rt>ひっこ</rt></ruby>してきたので、<ruby>十<rt>じゅう</rt></ruby><ruby>四<rt>よん</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>以内<rt>いない</rt></ruby>に<ruby>市役所<rt>しやくしょ</rt></ruby>へ<ruby>転入<rt>てんにゅう</rt></ruby><ruby>届<rt>とどけ</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">窓口（まどぐち）</span>
+        <span class="c-vocab-card__word"><ruby>窓口<rt>まどぐち</rt></ruby>（まどぐち）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>service counter, window</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>番号札を取ってロビーの椅子で待ち、自分の番号が呼ばれたら市民課の窓口へ向かう。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>service counter, window</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>番号<rt>ばんごう</rt></ruby><ruby>札<rt>さつ</rt></ruby>を<ruby>取<rt>と</rt></ruby>ってロビーの<ruby>椅子<rt>いす</rt></ruby>で<ruby>待<rt>ま</rt></ruby>ち、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>番号<rt>ばんごう</rt></ruby>が<ruby>呼<rt>よ</rt></ruby>ばれたら<ruby>市民<rt>しみん</rt></ruby><ruby>課<rt>か</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かう。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">住民票（じゅうみんひょう）</span>
+        <span class="c-vocab-card__word"><ruby>住民<rt>じゅうみん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>（じゅうみんひょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>certificate of residence</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>銀行口座の開設や就職手続きで必要になるため、市役所で住民票の写しを取得した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>certificate of residence</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>銀行<rt>ぎんこう</rt></ruby><ruby>口座<rt>こうざ</rt></ruby>の<ruby>開設<rt>かいせつ</rt></ruby>や<ruby>就職<rt>しゅうしょく</rt></ruby><ruby>手続<rt>てつづ</rt></ruby>きで<ruby>必要<rt>ひつよう</rt></ruby>になるため、<ruby>市役所<rt>しやくしょ</rt></ruby>で<ruby>住民<rt>じゅうみん</rt></ruby><ruby>票<rt>ひょう</rt></ruby>の<ruby>写<rt>うつ</rt></ruby>しを<ruby>取得<rt>しゅとく</rt></ruby>した。</p>
     </div>
   </div>
 </div>

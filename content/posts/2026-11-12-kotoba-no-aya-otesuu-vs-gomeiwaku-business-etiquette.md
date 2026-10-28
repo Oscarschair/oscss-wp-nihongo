@@ -14,8 +14,7 @@ tags:
   - メールマナー
   - JLPT N2
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の「ことばのあや」では、<ruby>手抜き<rt>てぬき</rt></ruby>に<ruby>聞<rt>き</rt></ruby>こえてしまう「**[『一応』の万能感と落とし穴](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-08-kotoba-no-aya-the-trap-of-ichiou-just-in-case-or-halfway.md)**」を<ruby>解剖<rt>かいぼう</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の「ことばのあや」では、<ruby>手抜き<rt>てぬき</rt></ruby>に<ruby>聞<rt>き</rt></ruby>こえてしまう「**[『<ruby>一応<rt>いちおう</rt></ruby>』の<ruby>万能<rt>ばんのう</rt></ruby><ruby>感<rt>かん</rt></ruby>と<ruby>落とし穴<rt>おとしあな</rt></ruby>](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-08-kotoba-no-aya-the-trap-of-ichiou-just-in-case-or-halfway.md)**」を<ruby>解剖<rt>かいぼう</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>のビジネスメールで<ruby>毎日<rt>まいにち</rt></ruby>のように<ruby>飛び交<rt>とびか</rt></ruby>う、<ruby>感謝<rt>かんしゃ</rt></ruby>と<ruby>謝罪<rt>しゃざい</rt></ruby>の**<ruby>超<rt>ちょう</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby>クッション<ruby>言葉<rt>ことば</rt></ruby>の<ruby>使い分<rt>つかいわ</rt></ruby>け**をマスターします！
 それが、**「お<ruby>手数<rt>てかず</rt></ruby>（てすう）をおかけします」**と**「ご<ruby>迷惑<rt>めいわく</rt></ruby>（めいわく）をおかけします」**です。
@@ -28,15 +27,15 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「お<ruby>手数<rt>てかず</rt></ruby>」VS「ご<ruby>迷惑<rt>めいわく</rt></ruby>」<ruby>対<rt>たい</rt></ruby><ruby>比<rt>ひ</rt></ruby>マップ
 
 ```
-【お手数（おてすう）：相手の『時間・手間・労力』に焦点を当てる（◎ 感謝・配慮）】
-  ★「お忙しいところお手数をおかけしますが、ご確認のほどよろしくお願いいたします。」
-  ★相手に不利益を与えているわけではなく、単に「作業の手間」をかけてもらうことへの敬意！
-  ★後ろに続く言葉：〜おかけしますが、〜感謝いたします、〜恐れ入ります
+【お<ruby>手数<rt>てかず</rt></ruby>（おてすう）：<ruby>相手<rt>あいて</rt></ruby>の『<ruby>時間<rt>じかん</rt></ruby>・<ruby>手間<rt>てま</rt></ruby>・<ruby>労力<rt>ろうりょく</rt></ruby>』に<ruby>焦点<rt>しょうてん</rt></ruby>を<ruby>当<rt>あ</rt></ruby>てる（◎ <ruby>感謝<rt>かんしゃ</rt></ruby>・<ruby>配慮<rt>はいりょ</rt></ruby>）】
+  ★「お<ruby>忙<rt>いそが</rt></ruby>しいところお<ruby>手数<rt>てかず</rt></ruby>をおかけしますが、ご<ruby>確認<rt>かくにん</rt></ruby>のほどよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。」
+  ★<ruby>相手<rt>あいて</rt></ruby>に<ruby>不利益<rt>ふりえき</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えているわけではなく、<ruby>単<rt>たん</rt></ruby>に「<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>手間<rt>てま</rt></ruby>」をかけてもらうことへの<ruby>敬意<rt>けいい</rt></ruby>！
+  ★<ruby>後<rt>うし</rt></ruby>ろに<ruby>続<rt>つづ</rt></ruby>く<ruby>言葉<rt>ことば</rt></ruby>：〜おかけしますが、〜<ruby>感謝<rt>かんしゃ</rt></ruby>いたします、〜<ruby>恐れ入<rt>おそれい</rt></ruby>ります
 
-【ご迷惑（ごめいわく）：相手への『不利益・実害・トラブル』に焦点を当てる（⚠️ 謝罪）】
-  ★「システム障害により、多大なご迷惑をおかけしましたことを深くお詫び申し上げます。」
-  ★こちらのミスや不手際で、相手に被害や不快感を与えてしまったときの言葉！
-  ★後ろに続く言葉：〜お詫び申し上げます、〜申し訳ございません
+【ご<ruby>迷惑<rt>めいわく</rt></ruby>（ごめいわく）：<ruby>相手<rt>あいて</rt></ruby>への『<ruby>不利益<rt>ふりえき</rt></ruby>・<ruby>実害<rt>じつがい</rt></ruby>・トラブル』に<ruby>焦点<rt>しょうてん</rt></ruby>を<ruby>当<rt>あ</rt></ruby>てる（⚠️ <ruby>謝罪<rt>しゃざい</rt></ruby>）】
+  ★「システム<ruby>障害<rt>しょうがい</rt></ruby>により、<ruby>多大<rt>ただい</rt></ruby>なご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけしましたことを<ruby>深<rt>ふか</rt></ruby>くお<ruby>詫<rt>わ</rt></ruby>び<ruby>申し上<rt>もうしあ</rt></ruby>げます。」
+  ★こちらのミスや<ruby>不手際<rt>ふてぎわ</rt></ruby>で、<ruby>相手<rt>あいて</rt></ruby>に<ruby>被害<rt>ひがい</rt></ruby>や<ruby>不快<rt>ふかい</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えてしまったときの<ruby>言葉<rt>ことば</rt></ruby>！
+  ★<ruby>後<rt>うし</rt></ruby>ろに<ruby>続<rt>つづ</rt></ruby>く<ruby>言葉<rt>ことば</rt></ruby>：〜お<ruby>詫<rt>わ</rt></ruby>び<ruby>申し上<rt>もうしあ</rt></ruby>げます、〜<ruby>申し訳<rt>もうしわけ</rt></ruby>ございません
 ```
 
 ---
@@ -77,23 +76,23 @@ tags:
 <ruby>社外<rt>しゃがい</rt></ruby>の<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>やクライアントへ<ruby>書類<rt>しょるい</rt></ruby><ruby>送付<rt>そうふ</rt></ruby>や<ruby>日程<rt>にってい</rt></ruby><ruby>調整<rt>ちょうせい</rt></ruby>を<ruby>依頼<rt>いらい</rt></ruby>するとき、クッション<ruby>言葉<rt>ことば</rt></ruby><ruby>一<rt>ひと</rt></ruby>つで<ruby>相手<rt>あいて</rt></ruby>の<ruby>受<rt>う</rt></ruby>ける<ruby>印象<rt>いんしょう</rt></ruby>が<ruby>劇的<rt>げきてき</rt></ruby>に<ruby>変<rt>か</rt></ruby>わります。
 
 ```
-【❌ 頼りない＆過剰謝罪なNGメール】
-件名：請求書のご送付について
-〇〇株式会社 佐藤様
-いつもお世話になっております。株式会社オスカのクルマです。
-先日の請求書ですが、ご迷惑をおかけして大変申し訳ありませんが、
-捺印の上、PDFにてお送りいただけますでしょうか。
-ご迷惑をおかけいたしますが、何卒よろしくお願い申し上げます。
+【❌ <ruby>頼<rt>たよ</rt></ruby>りない＆<ruby>過剰<rt>かじょう</rt></ruby><ruby>謝罪<rt>しゃざい</rt></ruby>なNGメール】
+<ruby>件名<rt>けんめい</rt></ruby>：<ruby>請求<rt>せいきゅう</rt></ruby><ruby>書<rt>しょ</rt></ruby>のご<ruby>送付<rt>そうふ</rt></ruby>について
+〇〇<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby> <ruby>佐藤<rt>さとう</rt></ruby><ruby>様<rt>さま</rt></ruby>
+いつもお<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>オスカのクルマです。
+<ruby>先日<rt>せんじつ</rt></ruby>の<ruby>請求<rt>せいきゅう</rt></ruby><ruby>書<rt>しょ</rt></ruby>ですが、ご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけして<ruby>大変<rt>たいへん</rt></ruby><ruby>申し訳<rt>もうしわけ</rt></ruby>ありませんが、
+<ruby>捺印<rt>なついん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、PDFにてお<ruby>送<rt>おく</rt></ruby>りいただけますでしょうか。
+ご<ruby>迷惑<rt>めいわく</rt></ruby>をおかけいたしますが、<ruby>何卒<rt>なにとぞ</rt></ruby>よろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申し上<rt>もうしあ</rt></ruby>げます。
 
-【⭕ 品格と敬意が伝わる好感度抜群メール】
-件名：【ご依頼】〇月度ご請求書送付のお願い
-〇〇株式会社 佐藤様
-いつも大変お世話になっております。株式会社オスカのクルマです。
-先ほどご納品いたしました案件につきまして、
-お忙しいところ誠にお手数をおかけいたしますが、
-ご請求書に社印をご捺印の上、PDFにてご送付いただけますと幸甚に存じます。
-ご不明な点やお気づきの点がございましたら、いつでもお気軽にお申し付けください。
-お手数をおかけいたしますが、何卒よろしくお願い申し上げます。
+【⭕ <ruby>品格<rt>ひんかく</rt></ruby>と<ruby>敬意<rt>けいい</rt></ruby>が<ruby>伝<rt>つた</rt></ruby>わる<ruby>好感<rt>こうかん</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>抜群<rt>ばつぐん</rt></ruby>メール】
+<ruby>件名<rt>けんめい</rt></ruby>：【ご<ruby>依頼<rt>いらい</rt></ruby>】〇<ruby>月<rt>つき</rt></ruby><ruby>度<rt>ど</rt></ruby>ご<ruby>請求<rt>せいきゅう</rt></ruby><ruby>書<rt>しょ</rt></ruby><ruby>送付<rt>そうふ</rt></ruby>のお<ruby>願<rt>ねが</rt></ruby>い
+〇〇<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby> <ruby>佐藤<rt>さとう</rt></ruby><ruby>様<rt>さま</rt></ruby>
+いつも<ruby>大変<rt>たいへん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になっております。<ruby>株式会社<rt>かぶしきがいしゃ</rt></ruby>オスカのクルマです。
+<ruby>先<rt>さき</rt></ruby>ほどご<ruby>納品<rt>のうひん</rt></ruby>いたしました<ruby>案件<rt>あんけん</rt></ruby>につきまして、
+お<ruby>忙<rt>いそが</rt></ruby>しいところ<ruby>誠<rt>まこと</rt></ruby>にお<ruby>手数<rt>てかず</rt></ruby>をおかけいたしますが、
+ご<ruby>請求<rt>せいきゅう</rt></ruby><ruby>書<rt>しょ</rt></ruby>に<ruby>社<rt>しゃ</rt></ruby><ruby>印<rt>しるし</rt></ruby>をご<ruby>捺印<rt>なついん</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>、PDFにてご<ruby>送付<rt>そうふ</rt></ruby>いただけますと<ruby>幸甚<rt>こうじん</rt></ruby>に<ruby>存<rt>ぞん</rt></ruby>じます。
+ご<ruby>不明<rt>ふめい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>やお<ruby>気<rt>き</rt></ruby>づきの<ruby>点<rt>てん</rt></ruby>がございましたら、いつでもお<ruby>気軽<rt>きがる</rt></ruby>にお<ruby>申し付<rt>もうしつ</rt></ruby>けください。
+お<ruby>手数<rt>てかず</rt></ruby>をおかけいたしますが、<ruby>何卒<rt>なにとぞ</rt></ruby>よろしくお<ruby>願<rt>ねが</rt></ruby>い<ruby>申し上<rt>もうしあ</rt></ruby>げます。
 ```
 
 ### 🧐 「お<ruby>手数<rt>てかず</rt></ruby>」に<ruby>添<rt>そ</rt></ruby>える<ruby>最強<rt>さいきょう</rt></ruby>の<ruby>副詞<rt>ふくし</rt></ruby>フレーズ

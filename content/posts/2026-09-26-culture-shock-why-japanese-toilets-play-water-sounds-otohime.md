@@ -49,24 +49,24 @@ tags:
 <ruby>実<rt>じつ</rt></ruby>は、「<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>」が<ruby>開発<rt>かいはつ</rt></ruby>された<ruby>最大<rt>さいだい</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>は、<ruby>日本人<rt>にっぽんじん</rt></ruby>の<ruby>恥<rt>は</rt></ruby>じらいの<ruby>心<rt>こころ</rt></ruby>だけでなく、**「<ruby>深刻<rt>しんこく</rt></ruby>な<ruby>水不足<rt>みずぶそく</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>」**にありました！
 
 ```
-【音姫が誕生した歴史的背景】
+【<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>が<ruby>誕生<rt>たんじょう</rt></ruby>した<ruby>歴史<rt>れきし</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>背景<rt>はいけい</rt></ruby>】
 
-● 昭和の時代（1970年代〜1980年代）：
-  日本の女性たちは、自分の排泄音を消すために、
-  【用を足している最中に、本物のトイレの水を「2回〜3回」も流していた】！
+● <ruby>昭和<rt>しょうわ</rt></ruby>の<ruby>時代<rt>じだい</rt></ruby>（1970<ruby>年代<rt>ねんだい</rt></ruby>〜1980<ruby>年代<rt>ねんだい</rt></ruby>）：
+  <ruby>日本<rt>にほん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>たちは、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>排泄<rt>はいせつ</rt></ruby><ruby>音<rt>おん</rt></ruby>を<ruby>消<rt>け</rt></ruby>すために、
+  【<ruby>用<rt>よう</rt></ruby>を<ruby>足<rt>た</rt></ruby>している<ruby>最中<rt>さいちゅう</rt></ruby>に、<ruby>本物<rt>ほんもの</rt></ruby>のトイレの<ruby>水<rt>みず</rt></ruby>を「2<ruby>回<rt>かい</rt></ruby>〜3<ruby>回<rt>かい</rt></ruby>」も<ruby>流<rt>なが</rt></ruby>していた】！
       │
       ▼
-● 1980年代の渇水（水不足）危機：
-  女性が1回のトイレで流す水の量は「約20〜30リットル」！
-  オフィスビルや大学で、莫大な水道代と水資源の無駄遣いが大問題に！
+● 1980<ruby>年代<rt>ねんだい</rt></ruby>の<ruby>渇水<rt>かっすい</rt></ruby>（<ruby>水不足<rt>みずぶそく</rt></ruby>）<ruby>危機<rt>きき</rt></ruby>：
+  <ruby>女性<rt>じょせい</rt></ruby>が1<ruby>回<rt>かい</rt></ruby>のトイレで<ruby>流<rt>なが</rt></ruby>す<ruby>水<rt>みず</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>は「<ruby>約<rt>やく</rt></ruby>20〜30リットル」！
+  オフィスビルや<ruby>大学<rt>だいがく</rt></ruby>で、<ruby>莫大<rt>ばくだい</rt></ruby>な<ruby>水道<rt>すいどう</rt></ruby><ruby>代<rt>だい</rt></ruby>と<ruby>水<rt>みず</rt></ruby><ruby>資源<rt>しげん</rt></ruby>の<ruby>無駄遣<rt>むだづか</rt></ruby>いが<ruby>大<rt>だい</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>に！
       │
       ▼
-● 1988年：住宅設備大手「TOTO」が「音姫」を開発・発売！
-  本物の水を流す代わりに、「録音したリアルな流水音」をスピーカーから流す！
+● 1988<ruby>年<rt>ねん</rt></ruby>：<ruby>住宅<rt>じゅうたく</rt></ruby><ruby>設備<rt>せつび</rt></ruby><ruby>大手<rt>おおて</rt></ruby>「TOTO」が「<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>」を<ruby>開発<rt>かいはつ</rt></ruby>・<ruby>発売<rt>はつばい</rt></ruby>！
+  <ruby>本物<rt>ほんもの</rt></ruby>の<ruby>水<rt>みず</rt></ruby>を<ruby>流<rt>なが</rt></ruby>す<ruby>代<rt>か</rt></ruby>わりに、「<ruby>録音<rt>ろくおん</rt></ruby>したリアルな<ruby>流水<rt>りゅうすい</rt></ruby><ruby>音<rt>おん</rt></ruby>」をスピーカーから<ruby>流<rt>なが</rt></ruby>す！
       │
       ▼
-● 結果：1回あたりの水使用量を半分以下に削減！
-  日本全体で毎年ダム何個分もの水が節約される「大エコ発明」となった！
+● <ruby>結果<rt>けっか</rt></ruby>：1<ruby>回<rt>かい</rt></ruby>あたりの<ruby>水<rt>みず</rt></ruby><ruby>使用<rt>しよう</rt></ruby><ruby>量<rt>りょう</rt></ruby>を<ruby>半分<rt>はんぶん</rt></ruby><ruby>以下<rt>いか</rt></ruby>に<ruby>削減<rt>さくげん</rt></ruby>！
+  <ruby>日本<rt>にほん</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>で<ruby>毎年<rt>まいとし</rt></ruby>ダム<ruby>何<rt>なん</rt></ruby><ruby>個<rt>こ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>もの<ruby>水<rt>みず</rt></ruby>が<ruby>節約<rt>せつやく</rt></ruby>される「<ruby>大<rt>だい</rt></ruby>エコ<ruby>発明<rt>はつめい</rt></ruby>」となった！
 ```
 
 <ruby>恥<rt>は</rt></ruby>ずかしいから<ruby>水<rt>みず</rt></ruby>を<ruby>流<rt>なが</rt></ruby>し<ruby>続<rt>つづ</rt></ruby>ける<ruby>日本人<rt>にっぽんじん</rt></ruby><ruby>女性<rt>じょせい</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>を、「やめなさい！」と<ruby>禁止<rt>きんし</rt></ruby>するのではなく、**「ハイテクな<ruby>電子<rt>でんし</rt></ruby><ruby>音<rt>おん</rt></ruby>でスマートに<ruby>解決<rt>かいけつ</rt></ruby>した」**のが<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>の<ruby>偉大<rt>いだい</rt></ruby>な<ruby>功績<rt>こうせき</rt></ruby>なのです！
@@ -107,10 +107,10 @@ tags:
 「<ruby>次<rt>つぎ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>のために<ruby>親切<rt>しんせつ</rt></ruby>で<ruby>折<rt>お</rt></ruby>ってあげるのが<ruby>日本<rt>にほん</rt></ruby>のマナーなのかな？」と<ruby>真似<rt>まね</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>がいますが、<ruby>実<rt>じつ</rt></ruby>は**<ruby>一般<rt>いっぱん</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>が<ruby>三角<rt>さんかく</rt></ruby><ruby>折<rt>お</rt></ruby>りにするのは<ruby>重大<rt>じゅうだい</rt></ruby>なマナー<ruby>違反<rt>いはん</rt></ruby>（<ruby>衛生<rt>えいせい</rt></ruby><ruby>上<rt>じょう</rt></ruby>NG）**とされています！
 
 ```
-【三角折りの真実とマナー】
-● 三角折りは本来、清掃スタッフが「このトイレは清掃・消毒が完了しました」というサインとして行うもの。
-● 用を足した直後の「まだ手を洗っていない状態」でペーパーの先端をペタペタ触って折るのは、感染症対策・衛生面から非常に嫌がられます！
-● 自分が使い終わったら、三角に折らずに普通にスパッと水平に切って退室するのが現代の正しい大人のマナーです！
+【<ruby>三角<rt>さんかく</rt></ruby><ruby>折<rt>お</rt></ruby>りの<ruby>真実<rt>しんじつ</rt></ruby>とマナー】
+● <ruby>三角<rt>さんかく</rt></ruby><ruby>折<rt>お</rt></ruby>りは<ruby>本来<rt>ほんらい</rt></ruby>、<ruby>清掃<rt>せいそう</rt></ruby>スタッフが「このトイレは<ruby>清掃<rt>せいそう</rt></ruby>・<ruby>消毒<rt>しょうどく</rt></ruby>が<ruby>完了<rt>かんりょう</rt></ruby>しました」というサインとして<ruby>行<rt>おこな</rt></ruby>うもの。
+● <ruby>用<rt>よう</rt></ruby>を<ruby>足<rt>た</rt></ruby>した<ruby>直後<rt>ちょくご</rt></ruby>の「まだ<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>っていない<ruby>状態<rt>じょうたい</rt></ruby>」でペーパーの<ruby>先端<rt>せんたん</rt></ruby>をペタペタ<ruby>触<rt>さわ</rt></ruby>って<ruby>折<rt>お</rt></ruby>るのは、<ruby>感染<rt>かんせん</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>・<ruby>衛生<rt>えいせい</rt></ruby><ruby>面<rt>めん</rt></ruby>から<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>嫌<rt>いや</rt></ruby>がられます！
+● <ruby>自分<rt>じぶん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>い<ruby>終<rt>お</rt></ruby>わったら、<ruby>三角<rt>さんかく</rt></ruby>に<ruby>折<rt>お</rt></ruby>らずに<ruby>普通<rt>ふつう</rt></ruby>にスパッと<ruby>水平<rt>すいへい</rt></ruby>に<ruby>切<rt>き</rt></ruby>って<ruby>退室<rt>たいしつ</rt></ruby>するのが<ruby>現代<rt>げんだい</rt></ruby>の<ruby>正<rt>ただ</rt></ruby>しい<ruby>大人<rt>おとな</rt></ruby>のマナーです！
 ```
 
 ---
@@ -132,27 +132,27 @@ tags:
 あなたのトイレ<ruby>文化<rt>ぶんか</rt></ruby><ruby>理解<rt>りかい</rt></ruby><ruby>度<rt>ど</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
-【第1問】
-トイレの壁に設置された「音姫」のセンサーに手をかざすと、何が起きる？
-① 便器の中の大量の水が一気に流れる
-② スピーカーから「水の流れる音」が人工的に流れる
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+トイレの<ruby>壁<rt>かべ</rt></ruby>に<ruby>設置<rt>せっち</rt></ruby>された「<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>」のセンサーに<ruby>手<rt>て</rt></ruby>をかざすと、<ruby>何<rt>なに</rt></ruby>が<ruby>起<rt>お</rt></ruby>きる？
+① <ruby>便器<rt>べんき</rt></ruby>の<ruby>中<rt>なか</rt></ruby>の<ruby>大量<rt>たいりょう</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>一気<rt>いっき</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れる
+② スピーカーから「<ruby>水<rt>みず</rt></ruby>の<ruby>流<rt>なが</rt></ruby>れる<ruby>音<rt>おと</rt></ruby>」が<ruby>人工<rt>じんこう</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>流<rt>なが</rt></ruby>れる
 
-【第2問】
-「音姫」が普及した最大の環境的メリットは何？
-① トイレの電力を節約できた
-② 音を消すために本物の水を何度も流す行為がなくなり、莫大な節水になった
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+「<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>」が<ruby>普及<rt>ふきゅう</rt></ruby>した<ruby>最大<rt>さいだい</rt></ruby>の<ruby>環境<rt>かんきょう</rt></ruby><ruby>的<rt>てき</rt></ruby>メリットは<ruby>何<rt>なに</rt></ruby>？
+① トイレの<ruby>電力<rt>でんりょく</rt></ruby>を<ruby>節約<rt>せつやく</rt></ruby>できた
+② <ruby>音<rt>おと</rt></ruby>を<ruby>消<rt>け</rt></ruby>すために<ruby>本物<rt>ほんもの</rt></ruby>の<ruby>水<rt>みず</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>流<rt>なが</rt></ruby>す<ruby>行為<rt>こうい</rt></ruby>がなくなり、<ruby>莫大<rt>ばくだい</rt></ruby>な<ruby>節水<rt>せっすい</rt></ruby>になった
 
-【第3問】
-用を足し終わった後、トイレットペーパーの先を自分で「三角折り」にするのは推奨される？
-① 推奨される（親切なマナーだから）
-② 推奨されない（手を洗う前にペーパーを触るのは不衛生だから）
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>用<rt>よう</rt></ruby>を<ruby>足<rt>た</rt></ruby>し<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>、トイレットペーパーの<ruby>先<rt>さき</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>で「<ruby>三角<rt>さんかく</rt></ruby><ruby>折<rt>お</rt></ruby>り」にするのは<ruby>推奨<rt>すいしょう</rt></ruby>される？
+① <ruby>推奨<rt>すいしょう</rt></ruby>される（<ruby>親切<rt>しんせつ</rt></ruby>なマナーだから）
+② <ruby>推奨<rt>すいしょう</rt></ruby>されない（<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>にペーパーを<ruby>触<rt>さわ</rt></ruby>るのは<ruby>不衛生<rt>ふえいせい</rt></ruby>だから）
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
 * **<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② スピーカーから<ruby>音<rt>おと</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れる**
 <ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>は<ruby>水<rt>みず</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わず<ruby>音<rt>おと</rt></ruby>だけを<ruby>流<rt>なが</rt></ruby>す<ruby>省エネ<rt>しょうえね</rt></ruby><ruby>装置<rt>そうち</rt></ruby>です！
 * **<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② <ruby>莫大<rt>ばくだい</rt></ruby>な<ruby>節水<rt>せっすい</rt></ruby>**
-1<ruby>人<rt>にん</rt></ruby>あたり2〜3<ruby>回<rt>かい</rt></ruby><ruby>流<rt>なが</rt></ruby>していた<ruby>水<rt>みず</rt></ruby>を1<ruby>回<rt>かい</rt></ruby>に<ruby>抑<rt>おさ</rt></ruby>えることで、<ruby>巨大<rt>きょだい</rt></ruby>な<ruby>節水<rt>せっすい</rt></ruby><ruby>効果<rt>こうか</rt></ruby>を<ruby>生み出<rt>うみだ</rt></ruby>しました！
+<ruby>1人<rt>ひとり</rt></ruby>あたり2〜3<ruby>回<rt>かい</rt></ruby><ruby>流<rt>なが</rt></ruby>していた<ruby>水<rt>みず</rt></ruby>を1<ruby>回<rt>かい</rt></ruby>に<ruby>抑<rt>おさ</rt></ruby>えることで、<ruby>巨大<rt>きょだい</rt></ruby>な<ruby>節水<rt>せっすい</rt></ruby><ruby>効果<rt>こうか</rt></ruby>を<ruby>生み出<rt>うみだ</rt></ruby>しました！
 * **<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>の<ruby>正解<rt>せいかい</rt></ruby>：② <ruby>推奨<rt>すいしょう</rt></ruby>されない**
 <ruby>三角<rt>さんかく</rt></ruby><ruby>折<rt>お</rt></ruby>りは<ruby>清掃<rt>せいそう</rt></ruby><ruby>員<rt>いん</rt></ruby>の「<ruby>掃除<rt>そうじ</rt></ruby><ruby>完了<rt>かんりょう</rt></ruby>サイン」です。<ruby>衛生<rt>えいせい</rt></ruby><ruby>面<rt>めん</rt></ruby>から、<ruby>一般<rt>いっぱん</rt></ruby><ruby>客<rt>きゃく</rt></ruby>は<ruby>折<rt>お</rt></ruby>らずにそのまま<ruby>切<rt>き</rt></ruby>るのが<ruby>正解<rt>せいかい</rt></ruby>です！
 
@@ -169,32 +169,32 @@ tags:
 <ruby>一見<rt>いっけん</rt></ruby>すると<ruby>不思議<rt>ふしぎ</rt></ruby>に<ruby>見<rt>み</rt></ruby>える<ruby>日本<rt>にほん</rt></ruby>のトイレ<ruby>機能<rt>きのう</rt></ruby>ですが、そのすべてに「<ruby>人<rt>ひと</rt></ruby>を<ruby>思<rt>おも</rt></ruby>いやる<ruby>優<rt>やさ</rt></ruby>しさ」と「<ruby>環境<rt>かんきょう</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>」が<ruby>詰<rt>つ</rt></ruby>まっています。<ruby>安心<rt>あんしん</rt></ruby>して<ruby>快適<rt>かいてき</rt></ruby>な<ruby>日本<rt>にほん</rt></ruby>のトイレ<ruby>空間<rt>くうかん</rt></ruby>を<ruby>体験<rt>たいけん</rt></ruby>してくださいね！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">消音（しょうおん）</span>
+        <span class="c-vocab-card__word"><ruby>消音<rt>しょうおん</rt></ruby>（しょうおん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>muting, sound suppression</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>トイレの音を周囲に聞かれないように、音姫のボタンを押して消音する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>muting, sound suppression</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>トイレの<ruby>音<rt>おと</rt></ruby>を<ruby>周囲<rt>しゅうい</rt></ruby>に<ruby>聞<rt>き</rt></ruby>かれないように、<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>のボタンを<ruby>押<rt>お</rt></ruby>して<ruby>消音<rt>しょうおん</rt></ruby>する。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">羞恥心（しゅうちしん）</span>
+        <span class="c-vocab-card__word"><ruby>羞恥心<rt>しゅうちしん</rt></ruby>（しゅうちしん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>sense of shame</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>他人に流水音を聞かれるのが恥ずかしいという羞恥心から開発された。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>sense of shame</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>他人<rt>たにん</rt></ruby>に<ruby>流水<rt>りゅうすい</rt></ruby><ruby>音<rt>おん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>かれるのが<ruby>恥<rt>は</rt></ruby>ずかしいという<ruby>羞恥心<rt>しゅうちしん</rt></ruby>から<ruby>開発<rt>かいはつ</rt></ruby>された。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">節水（せっすい）</span>
+        <span class="c-vocab-card__word"><ruby>節水<rt>せっすい</rt></ruby>（せっすい）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>saving water</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>何度も水を流す無駄をなくすため、音姫は大きな節水効果を発揮する。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>saving water</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>何<rt>なん</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>水<rt>みず</rt></ruby>を<ruby>流<rt>なが</rt></ruby>す<ruby>無駄<rt>むだ</rt></ruby>をなくすため、<ruby>音<rt>おと</rt></ruby><ruby>姫<rt>ひめ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<ruby>節水<rt>せっすい</rt></ruby><ruby>効果<rt>こうか</rt></ruby>を<ruby>発揮<rt>はっき</rt></ruby>する。</p>
     </div>
   </div>
 </div>

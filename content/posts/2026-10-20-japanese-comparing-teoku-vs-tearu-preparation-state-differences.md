@@ -27,17 +27,17 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「ておく」と「てある」の<ruby>対比<rt>たいひ</rt></ruby>マップ
 
 ```
-【〜ておく：未来のための準備行動】
-  ★「新幹線のチケットを買っておきます」
-      → 未来の旅行のために、前もって行動を完了させる（動作そのものに焦点）
+【〜ておく：<ruby>未来<rt>みらい</rt></ruby>のための<ruby>準備<rt>じゅんび</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>】
+  ★「<ruby>新幹線<rt>しんかんせん</rt></ruby>のチケットを<ruby>買<rt>か</rt></ruby>っておきます」
+      → <ruby>未来<rt>みらい</rt></ruby>の<ruby>旅行<rt>りょこう</rt></ruby>のために、<ruby>前<rt>まえ</rt></ruby>もって<ruby>行動<rt>こうどう</rt></ruby>を<ruby>完了<rt>かんりょう</rt></ruby>させる（<ruby>動作<rt>どうさ</rt></ruby>そのものに<ruby>焦点<rt>しょうてん</rt></ruby>）
   ★「エアコンをつけておきます」
-      → あとで人が来るから、今からつけて準備しておく
+      → あとで<ruby>人<rt>ひと</rt></ruby>が<ruby>来<rt>く</rt></ruby>るから、<ruby>今<rt>いま</rt></ruby>からつけて<ruby>準備<rt>じゅんび</rt></ruby>しておく
 
-【〜てある：誰かが目的を持って行った結果が「今」残っている状態】
-  ★「壁にカレンダーが掛けてあります」
-      → 誰かが日付を見る目的で掛けた。そして今もその状態が続いている（状態に焦点）
+【〜てある：<ruby>誰<rt>だれ</rt></ruby>かが<ruby>目的<rt>もくてき</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>った<ruby>結果<rt>けっか</rt></ruby>が「<ruby>今<rt>いま</rt></ruby>」<ruby>残<rt>のこ</rt></ruby>っている<ruby>状態<rt>じょうたい</rt></ruby>】
+  ★「<ruby>壁<rt>かべ</rt></ruby>にカレンダーが<ruby>掛<rt>か</rt></ruby>けてあります」
+      → <ruby>誰<rt>だれ</rt></ruby>かが<ruby>日付<rt>ひづけ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る<ruby>目的<rt>もくてき</rt></ruby>で<ruby>掛<rt>か</rt></ruby>けた。そして<ruby>今<rt>いま</rt></ruby>もその<ruby>状態<rt>じょうたい</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている（<ruby>状態<rt>じょうたい</rt></ruby>に<ruby>焦点<rt>しょうてん</rt></ruby>）
   ★「エアコンがつけてあります」
-      → すでに誰かが意図的につけて、部屋が涼しい状態になっている！
+      → すでに<ruby>誰<rt>だれ</rt></ruby>かが<ruby>意図<rt>いと</rt></ruby><ruby>的<rt>てき</rt></ruby>につけて、<ruby>部屋<rt>へや</rt></ruby>が<ruby>涼<rt>すず</rt></ruby>しい<ruby>状態<rt>じょうたい</rt></ruby>になっている！
 ```
 
 |<ruby>表現<rt>ひょうげん</rt></ruby>|<ruby>文法<rt>ぶんぽう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>焦点<rt>しょうてん</rt></ruby>|<ruby>主語<rt>しゅご</rt></ruby>・<ruby>助詞<rt>じょし</rt></ruby>のパターン|よく<ruby>使<rt>つか</rt></ruby>う<ruby>場面<rt>ばめん</rt></ruby>|
@@ -145,32 +145,32 @@ tags:
 * 📌 **<ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>では「ておく」➔「とく（<ruby>買<rt>か</rt></ruby>っとく・<ruby>見<rt>み</rt></ruby>とく）」に<ruby>大変<rt>たいへん</rt></ruby><ruby>化<rt>か</rt></ruby>する！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">準備（じゅんび）</span>
+        <span class="c-vocab-card__word"><ruby>準備<rt>じゅんび</rt></ruby>（じゅんび）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n4">JLPT N4</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>preparation, arrangements</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>明日のプレゼンのために、資料を印刷して準備しておきました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>preparation, arrangements</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>明日<rt>あした</rt></ruby>のプレゼンのために、<ruby>資料<rt>しりょう</rt></ruby>を<ruby>印刷<rt>いんさつ</rt></ruby>して<ruby>準備<rt>じゅんび</rt></ruby>しておきました。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">前もって（まえもって）</span>
+        <span class="c-vocab-card__word"><ruby>前<rt>まえ</rt></ruby>もって（まえもって）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>in advance, beforehand</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>旅行の日程が決まったら、前もってホテルを予約してあります。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>in advance, beforehand</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>旅行<rt>りょこう</rt></ruby>の<ruby>日程<rt>にってい</rt></ruby>が<ruby>決<rt>き</rt></ruby>まったら、<ruby>前<rt>まえ</rt></ruby>もってホテルを<ruby>予約<rt>よやく</rt></ruby>してあります。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">意図的（いとてき）</span>
+        <span class="c-vocab-card__word"><ruby>意図<rt>いと</rt></ruby><ruby>的<rt>てき</rt></ruby>（いとてき）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>intentional, deliberate</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>風通しを良くするために、意図的に窓が開けてあります。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>intentional, deliberate</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>風通<rt>かぜとお</rt></ruby>しを<ruby>良<rt>よ</rt></ruby>くするために、<ruby>意図<rt>いと</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>けてあります。</p>
     </div>
   </div>
 </div>

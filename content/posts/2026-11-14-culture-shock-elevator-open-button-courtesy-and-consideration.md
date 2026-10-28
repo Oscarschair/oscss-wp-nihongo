@@ -14,8 +14,7 @@ tags:
   - 日常風景
   - JLPT N3
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックでは、<ruby>驚き<rt>おどろき</rt></ruby>のエコ<ruby>習慣<rt>しゅうかん</rt></ruby>「**[お風呂の残り湯で洗濯するの！？](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-10-culture-shock-reusing-bath-water-for-laundry-mottainai.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>のカルチャーショックでは、<ruby>驚き<rt>おどろき</rt></ruby>のエコ<ruby>習慣<rt>しゅうかん</rt></ruby>「**[お<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>残<rt>のこ</rt></ruby>り<ruby>湯<rt>ゆ</rt></ruby>で<ruby>洗濯<rt>せんたく</rt></ruby>するの！？](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-10-culture-shock-reusing-bath-water-for-laundry-mottainai.md)**」を<ruby>お届け<rt>とどけ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本<rt>にっぽん</rt></ruby>のビルや<ruby>商業<rt>しょうぎょう</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>でエレベーターに<ruby>乗<rt>の</rt></ruby>った<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>が<ruby>誰<rt>だれ</rt></ruby>もが<ruby>感動<rt>かんどう</rt></ruby>し、<ruby>同時<rt>どうじ</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>し<ruby>不思議<rt>ふしぎ</rt></ruby>に<ruby>思<rt>おも</rt></ruby>う**「エレベーターの『<ruby>開<rt>ひらく</rt></ruby>』ボタン<ruby>文化<rt>ぶんか</rt></ruby>」カルチャーショック**です！
 
@@ -27,16 +26,16 @@ tags:
 ## 1. <ruby>海外<rt>かいがい</rt></ruby>と<ruby>日本<rt>にっぽん</rt></ruby>のエレベーター<ruby>風景<rt>ふうけい</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>い
 
 ```
-【海外のエレベーター（欧米など）】
-  ★「閉」ボタンを押すスピードが速い！ドアが閉まりそうでも無理に乗らない。
-  ★目が合えば「Hi! How are you?」と気さくに挨拶（スモールトーク）。
-  ★他人のためにドアを押さえるのは特別な親切であり、「Thank you!」と笑顔で感謝を交わす。
+【<ruby>海外<rt>かいがい</rt></ruby>のエレベーター（<ruby>欧米<rt>おうべい</rt></ruby>など）】
+  ★「閉」ボタンを<ruby>押<rt>お</rt></ruby>すスピードが<ruby>速<rt>はや</rt></ruby>い！ドアが<ruby>閉<rt>し</rt></ruby>まりそうでも<ruby>無理<rt>むり</rt></ruby>に<ruby>乗<rt>の</rt></ruby>らない。
+  ★<ruby>目<rt>め</rt></ruby>が<ruby>合<rt>あ</rt></ruby>えば「Hi! How are you?」と<ruby>気<rt>き</rt></ruby>さくに<ruby>挨拶<rt>あいさつ</rt></ruby>（スモールトーク）。
+  ★<ruby>他人<rt>たにん</rt></ruby>のためにドアを<ruby>押<rt>お</rt></ruby>さえるのは<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>親切<rt>しんせつ</rt></ruby>であり、「Thank you!」と<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>感謝<rt>かんしゃ</rt></ruby>を<ruby>交<rt>か</rt></ruby>わす。
 
-【日本のエレベーター】
-  ★乗り込んだら基本的に無言（沈黙が最大の礼儀）。
-  ★操作盤の前に立った人が「開」ボタンを押し、全員が安全に乗り降りできるようドアをキープ。
-  ★降りる人は会釈（軽く頭を下げる）だけして去り、過剰な会話は交わさない。
-  →「声は出さないけれど、行動で完璧に気遣う」サイレント・ホスピタリティ！
+【<ruby>日本<rt>にほん</rt></ruby>のエレベーター】
+  ★<ruby>乗り込<rt>のりこ</rt></ruby>んだら<ruby>基本<rt>きほん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>無言<rt>むごん</rt></ruby>（<ruby>沈黙<rt>ちんもく</rt></ruby>が<ruby>最大<rt>さいだい</rt></ruby>の<ruby>礼儀<rt>れいぎ</rt></ruby>）。
+  ★<ruby>操作<rt>そうさ</rt></ruby><ruby>盤<rt>ばん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立<rt>た</rt></ruby>った<ruby>人<rt>ひと</rt></ruby>が「<ruby>開<rt>ひらく</rt></ruby>」ボタンを<ruby>押<rt>お</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>乗り降<rt>のりお</rt></ruby>りできるようドアをキープ。
+  ★<ruby>降<rt>お</rt></ruby>りる<ruby>人<rt>ひと</rt></ruby>は<ruby>会釈<rt>えしゃく</rt></ruby>（<ruby>軽<rt>かる</rt></ruby>く<ruby>頭<rt>あたま</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げる）だけして<ruby>去<rt>さ</rt></ruby>り、<ruby>過剰<rt>かじょう</rt></ruby>な<ruby>会話<rt>かいわ</rt></ruby>は<ruby>交<rt>か</rt></ruby>わさない。
+  →「<ruby>声<rt>こえ</rt></ruby>は<ruby>出<rt>だ</rt></ruby>さないけれど、<ruby>行動<rt>こうどう</rt></ruby>で<ruby>完璧<rt>かんぺき</rt></ruby>に<ruby>気遣<rt>きづか</rt></ruby>う」サイレント・ホスピタリティ！
 ```
 
 ---

@@ -26,25 +26,25 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！タッチパネル<ruby>注文<rt>ちゅうもん</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby>5ステップ
 
 ```
-【ステップ1：言語切り替え（必要な場合）】
-  画面右上または左下の「Language / 语言 / 言語」をタッチ！
-  ※英語・中国語・韓国語に対応している店が急増中！
+【ステップ1：<ruby>言語<rt>げんご</rt></ruby><ruby>切り替<rt>きりか</rt></ruby>え（<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>場合<rt>ばあい</rt></ruby>）】
+  <ruby>画面<rt>がめん</rt></ruby><ruby>右<rt>みぎ</rt></ruby><ruby>上<rt>じょう</rt></ruby>または<ruby>左下<rt>ひだりした</rt></ruby>の「Language / 语言 /<ruby>言語<rt>げんご</rt></ruby>」をタッチ！
+  ※<ruby>英語<rt>えいご</rt></ruby>・<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>・<ruby>韓国<rt>かんこく</rt></ruby><ruby>語<rt>ご</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>している<ruby>店<rt>みせ</rt></ruby>が<ruby>急増<rt>きゅうぞう</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>！
 
-【ステップ2：カテゴリからメニュー選択】
-  「スピードメニュー（おつまみ）」「焼き鳥」「ドリンク」「ご飯もの」などから選ぶ。
+【ステップ2：カテゴリからメニュー<ruby>選択<rt>せんたく</rt></ruby>】
+  「スピードメニュー（おつまみ）」「<ruby>焼き鳥<rt>やきとり</rt></ruby>」「ドリンク」「ご<ruby>飯<rt>はん</rt></ruby>もの」などから<ruby>選<rt>えら</rt></ruby>ぶ。
 
-【ステップ3：オプション選択（こだわり設定）】
-  ・サイズ（並盛・大盛・ハーフ）
-  ・味付け（タレ・塩）
-  ・氷の有無（氷あり・氷なし）
-  ・わさび（サビあり・サビ抜き）
+【ステップ3：オプション<ruby>選択<rt>せんたく</rt></ruby>（こだわり<ruby>設定<rt>せってい</rt></ruby>）】
+  ・サイズ（<ruby>並<rt>なみ</rt></ruby><ruby>盛<rt>さかり</rt></ruby>・<ruby>大<rt>だい</rt></ruby><ruby>盛<rt>もり</rt></ruby>・ハーフ）
+  ・<ruby>味付<rt>あじつ</rt></ruby>け（タレ・<ruby>塩<rt>しお</rt></ruby>）
+  ・<ruby>氷<rt>こおり</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>（<ruby>氷<rt>こおり</rt></ruby>あり・<ruby>氷<rt>こおり</rt></ruby>なし）
+  ・わさび（サビあり・サビ<ruby>抜<rt>ぬ</rt></ruby>き）
 
-【ステップ4：注文確定（超重要！）】
-  カートの中身を確認し、必ず【「この内容で注文する（送信）」】を押す！
-  ※ピンポン♪と音が鳴って画面に「注文を受け付けました」と出れば大成功！
+【ステップ4：<ruby>注文<rt>ちゅうもん</rt></ruby><ruby>確定<rt>かくてい</rt></ruby>（<ruby>超<rt>ちょう</rt></ruby><ruby>重要<rt>じゅうよう</rt></ruby>！）】
+  カートの<ruby>中身<rt>なかみ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>し、<ruby>必<rt>かなら</rt></ruby>ず【「この<ruby>内容<rt>ないよう</rt></ruby>で<ruby>注文<rt>ちゅうもん</rt></ruby>する（<ruby>送信<rt>そうしん</rt></ruby>）」】を<ruby>押<rt>お</rt></ruby>す！
+  ※ピンポン♪と<ruby>音<rt>おと</rt></ruby>が<ruby>鳴<rt>な</rt></ruby>って<ruby>画面<rt>がめん</rt></ruby>に「<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>受け付<rt>うけつ</rt></ruby>けました」と<ruby>出<rt>で</rt></ruby>れば<ruby>大<rt>だい</rt></ruby><ruby>成功<rt>せいこう</rt></ruby>！
 
-【ステップ5：お会計・退店】
-  画面の「お会計（チェック）」をタッチ → 伝票（バインダーや番号札）を持ってレジへ！
+【ステップ5：お<ruby>会計<rt>かいけい</rt></ruby>・<ruby>退<rt>しさ</rt></ruby><ruby>店<rt>みせ</rt></ruby>】
+  <ruby>画面<rt>がめん</rt></ruby>の「お<ruby>会計<rt>かいけい</rt></ruby>（チェック）」をタッチ → <ruby>伝票<rt>でんぴょう</rt></ruby>（バインダーや<ruby>番号<rt>ばんごう</rt></ruby><ruby>札<rt>さつ</rt></ruby>）を<ruby>持<rt>も</rt></ruby>ってレジへ！
 ```
 
 ---
@@ -144,32 +144,32 @@ tags:
 * 📌 **<ruby>帰<rt>がえ</rt></ruby>りは<ruby>伝票<rt>でんぴょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってレジに<ruby>向<rt>む</rt></ruby>かうのが<ruby>日本<rt>にほん</rt></ruby>のルール！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">取り皿（とりざら）</span>
+        <span class="c-vocab-card__word"><ruby>取<rt>と</rt></ruby>り<ruby>皿<rt>さら</rt></ruby>（とりざら）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>small plate for sharing food</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>唐揚げを分けるので、取り皿を3枚持ってきていただけますか？</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>small plate for sharing food</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>唐<rt>とう</rt></ruby><ruby>揚<rt>あ</rt></ruby>げを<ruby>分<rt>わ</rt></ruby>けるので、<ruby>取<rt>と</rt></ruby>り<ruby>皿<rt>さら</rt></ruby>を3<ruby>枚<rt>まい</rt></ruby><ruby>持<rt>も</rt></ruby>ってきていただけますか？</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">伝票（でんぴょう）</span>
+        <span class="c-vocab-card__word"><ruby>伝票<rt>でんぴょう</rt></ruby>（でんぴょう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>bill, check slip</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>お会計の際は、こちらの伝票をお持ちになってレジへお越しください。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>bill, check slip</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>お<ruby>会計<rt>かいけい</rt></ruby>の<ruby>際<rt>さい</rt></ruby>は、こちらの<ruby>伝票<rt>でんぴょう</rt></ruby>をお<ruby>持<rt>も</rt></ruby>ちになってレジへお<ruby>越<rt>こ</rt></ruby>しください。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">お冷（おひや）</span>
+        <span class="c-vocab-card__word">お<ruby>冷<rt>ひや</rt></ruby>（おひや）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>cold drinking water (restaurant term)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>のどが渇いたので、まずお冷を一杯いただけますか。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>cold drinking water (restaurant term)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>のどが<ruby>渇<rt>かわ</rt></ruby>いたので、まずお<ruby>冷<rt>ひや</rt></ruby>を<ruby>一杯<rt>いっぱい</rt></ruby>いただけますか。</p>
     </div>
   </div>
 </div>

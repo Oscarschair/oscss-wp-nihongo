@@ -26,20 +26,20 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！<ruby>日本<rt>にほん</rt></ruby>の<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>・<ruby>発送<rt>はっそう</rt></ruby>メニュー<ruby>比較<rt>ひかく</rt></ruby>
 
 ```
-【国内に薄い書類や小物を送りたいとき】
+【<ruby>国内<rt>こくない</rt></ruby>に<ruby>薄<rt>うす</rt></ruby>い<ruby>書類<rt>しょるい</rt></ruby>や<ruby>小物<rt>こもの</rt></ruby>を<ruby>送<rt>おく</rt></ruby>りたいとき】
   ★「レターパック（ライト / プラス）」
-      ・コンビニや郵便局で専用封筒（430円 / 600円）を買うだけ！
-      ・ポストに投函OK、追跡番号つきで超安心！
+      ・コンビニや<ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby>で<ruby>専用<rt>せんよう</rt></ruby><ruby>封筒<rt>ふうとう</rt></ruby>（430<ruby>円<rt>えん</rt></ruby> / 600<ruby>円<rt>えん</rt></ruby>）を<ruby>買<rt>か</rt></ruby>うだけ！
+      ・ポストに<ruby>投函<rt>とうかん</rt></ruby>OK、<ruby>追跡<rt>ついせき</rt></ruby><ruby>番号<rt>ばんごう</rt></ruby>つきで<ruby>超<rt>ちょう</rt></ruby><ruby>安心<rt>あんしん</rt></ruby>！
 
-【国内に大きな荷物・段ボールを送りたいとき】
+【<ruby>国内<rt>こくない</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>荷物<rt>にもつ</rt></ruby>・<ruby>段ボール<rt>だんぼーる</rt></ruby>を<ruby>送<rt>おく</rt></ruby>りたいとき】
   ★「ゆうパック」
-      ・サイズ（縦+横+高さの合計：60cm〜170cm）で料金が決まる。
-      ・日時指定、冷蔵（チルドゆうパック）も可能！
+      ・サイズ（<ruby>縦<rt>たて</rt></ruby>+<ruby>横<rt>よこ</rt></ruby>+<ruby>高<rt>たか</rt></ruby>さの<ruby>合計<rt>ごうけい</rt></ruby>：60cm〜170cm）で<ruby>料金<rt>りょうきん</rt></ruby>が<ruby>決<rt>き</rt></ruby>まる。
+      ・<ruby>日時<rt>にちじ</rt></ruby><ruby>指定<rt>してい</rt></ruby>、<ruby>冷蔵<rt>れいぞう</rt></ruby>（チルドゆうパック）も<ruby>可能<rt>かのう</rt></ruby>！
 
-【海外の家族や友達に荷物を送りたいとき】
-  ★「EMS（国際スピード郵便）」
-      ・最も速く届く国際郵便（数日〜1週間程度）。
-      ・事前にスマホで「国際郵便マイページサービス」からラベル印刷が必要！
+【<ruby>海外<rt>かいがい</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>や<ruby>友達<rt>ともだち</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>りたいとき】
+  ★「EMS（<ruby>国際<rt>こくさい</rt></ruby>スピード<ruby>郵便<rt>ゆうびん</rt></ruby>）」
+      ・<ruby>最<rt>もっと</rt></ruby>も<ruby>速<rt>はや</rt></ruby>く<ruby>届<rt>とど</rt></ruby>く<ruby>国際<rt>こくさい</rt></ruby><ruby>郵便<rt>ゆうびん</rt></ruby>（<ruby>数<rt>すう</rt></ruby><ruby>日<rt>にち</rt></ruby>〜1<ruby>週間<rt>しゅうかん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>）。
+      ・<ruby>事前<rt>じぜん</rt></ruby>にスマホで「<ruby>国際<rt>こくさい</rt></ruby><ruby>郵便<rt>ゆうびん</rt></ruby>マイページサービス」からラベル<ruby>印刷<rt>いんさつ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>！
 ```
 
 ---
@@ -143,35 +143,35 @@ EMS（Express Mail Service）は<ruby>世界中<rt>せかいじゅう</rt></ruby
 
 * 📌 **<ruby>内容<rt>ないよう</rt></ruby><ruby>品<rt>ひん</rt></ruby>は「<ruby>具体<rt>ぐたい</rt></ruby><ruby>名<rt>めい</rt></ruby>（お<ruby>菓子<rt>かし</rt></ruby>・<ruby>衣類<rt>いるい</rt></ruby>）」ではっきり<ruby>申告<rt>しんこく</rt></ruby>する！**
 * 📌 **<ruby>急<rt>いそ</rt></ruby>ぎの<ruby>書類<rt>しょるい</rt></ruby>は「<ruby>速達<rt>そくたつ</rt></ruby>」、<ruby>大事<rt>だいじ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>は「レターパック」か「<ruby>書留<rt>かきとめ</rt></ruby>」！**
-* 📌 **<ruby>海外<rt>かいがい</rt></ruby><ruby>発送<rt>はっそう</rt></ruby>（EMS）は<ruby>事前<rt>じぜん</rt></ruby>にスマホでラベル<ruby>作成<rt>さくせい</rt></ruby>しておくと<ruby>窓口<rt>まどぐち</rt></ruby>で<ruby>爆速<rt>*</rt></ruby>！**
+* 📌 **<ruby>海外<rt>かいがい</rt></ruby><ruby>発送<rt>はっそう</rt></ruby>（EMS）は<ruby>事前<rt>じぜん</rt></ruby>にスマホでラベル<ruby>作成<rt>さくせい</rt></ruby>しておくと<ruby>窓口<rt>まどぐち</rt></ruby>で爆速！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">速達（そくたつ）</span>
+        <span class="c-vocab-card__word"><ruby>速達<rt>そくたつ</rt></ruby>（そくたつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>express delivery, special delivery</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>願書の締め切りが迫っているので、速達で送ってください。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>express delivery, special delivery</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>願書<rt>がんしょ</rt></ruby>の<ruby>締め切<rt>しめき</rt></ruby>りが<ruby>迫<rt>せま</rt></ruby>っているので、<ruby>速達<rt>そくたつ</rt></ruby>で<ruby>送<rt>おく</rt></ruby>ってください。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">割れ物（われもの）</span>
+        <span class="c-vocab-card__word"><ruby>割れ物<rt>われもの</rt></ruby>（われもの）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>fragile item, glassware</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>箱の中に陶器のコップが入っているので、割れ物シールを貼りました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>fragile item, glassware</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>箱<rt>はこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>陶器<rt>とうき</rt></ruby>のコップが<ruby>入<rt>はい</rt></ruby>っているので、<ruby>割れ物<rt>われもの</rt></ruby>シールを<ruby>貼<rt>は</rt></ruby>りました。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">投函（とうかん）</span>
+        <span class="c-vocab-card__word"><ruby>投函<rt>とうかん</rt></ruby>（とうかん）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n2">JLPT N2</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>posting, dropping in a mailbox</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>切手を貼ったハガキを、駅前のポストに投函しました。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>posting, dropping in a mailbox</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>切手<rt>きって</rt></ruby>を<ruby>貼<rt>は</rt></ruby>ったハガキを、<ruby>駅前<rt>えきまえ</rt></ruby>のポストに<ruby>投函<rt>とうかん</rt></ruby>しました。</p>
     </div>
   </div>
 </div>

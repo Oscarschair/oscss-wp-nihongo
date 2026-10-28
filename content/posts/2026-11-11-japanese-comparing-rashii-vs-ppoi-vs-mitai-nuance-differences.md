@@ -14,8 +14,7 @@ tags:
   - JLPT N3
   - JLPT N2
 ---
-
-<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>時間<rt>じかん</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>の「**[『〜ばかり』VS『〜ところ』のアスペクトの違い](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-07-japanese-comparing-bakari-vs-tokoro-aspect-differences.md)**」を<ruby>徹底<rt>てってい</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>しました。
+<ruby>前回<rt>ぜんかい</rt></ruby>の<ruby>日本語<rt>にほんご</rt></ruby><ruby>比<rt>くら</rt></ruby>べノートでは、<ruby>時間<rt>じかん</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>の「**[『〜ばかり』VS『〜ところ』のアスペクトの<ruby>違<rt>ちが</rt></ruby>い](file:///c:/Users/user/git/oscss-wp-nihongo/content/posts/2026-11-07-japanese-comparing-bakari-vs-tokoro-aspect-differences.md)**」を<ruby>徹底<rt>てってい</rt></ruby><ruby>解説<rt>かいせつ</rt></ruby>しました。
 
 <ruby>今回<rt>こんかい</rt></ruby>は、<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>やドラマで<ruby>頻繁<rt>ひんぱん</rt></ruby>に<ruby>耳<rt>みみ</rt></ruby>にするのに、<ruby>意味<rt>いみ</rt></ruby>を<ruby>取り違<rt>とりちが</rt></ruby>えると<ruby>相手<rt>あいて</rt></ruby>を<ruby>怒<rt>おこ</rt></ruby>らせてしまう**「<ruby>接尾<rt>せつび</rt></ruby><ruby>辞<rt>じ</rt></ruby>・<ruby>様態<rt>ようたい</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>す3<ruby>大<rt>だい</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>」**を<ruby>徹底<rt>てってい</rt></ruby><ruby>比較<rt>ひかく</rt></ruby>します！
 それが、**「〜らしい」**、**「〜っぽい」**、**「〜みたい」**です。
@@ -28,22 +27,22 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！3<ruby>大<rt>だい</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>の<ruby>対比<rt>たいひ</rt></ruby>マップ
 
 ```
-【① 〜らしい：本来の性質にふさわしい（◎ 褒め言葉・プラス評価）】
-  ★「子どもらしい素直さ」（子ども本来の無邪気で素敵な特徴）
-  ★「男らしい決断力」（男性本来の頼もしさや潔さ）
-  ★「春らしい暖かい日」（春という季節にぴったりふさわしい日）
-  →「そのものが持つ本来の良さ」を発揮している状態！
+【① 〜らしい：<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>性質<rt>せいしつ</rt></ruby>にふさわしい（◎ <ruby>褒<rt>ほ</rt></ruby>め<ruby>言葉<rt>ことば</rt></ruby>・プラス<ruby>評価<rt>ひょうか</rt></ruby>）】
+  ★「<ruby>子<rt>こ</rt></ruby>どもらしい<ruby>素直<rt>すなお</rt></ruby>さ」（<ruby>子<rt>こ</rt></ruby>ども<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>無邪気<rt>むじゃき</rt></ruby>で<ruby>素敵<rt>すてき</rt></ruby>な<ruby>特徴<rt>とくちょう</rt></ruby>）
+  ★「<ruby>男<rt>おとこ</rt></ruby>らしい<ruby>決断<rt>けつだん</rt></ruby><ruby>力<rt>りょく</rt></ruby>」（<ruby>男性<rt>だんせい</rt></ruby><ruby>本来<rt>ほんらい</rt></ruby>の<ruby>頼<rt>たの</rt></ruby>もしさや<ruby>潔<rt>いさぎよ</rt></ruby>さ）
+  ★「<ruby>春<rt>はる</rt></ruby>らしい<ruby>暖<rt>あたた</rt></ruby>かい<ruby>日<rt>ひ</rt></ruby>」（<ruby>春<rt>はる</rt></ruby>という<ruby>季節<rt>きせつ</rt></ruby>にぴったりふさわしい<ruby>日<rt>ひ</rt></ruby>）
+  →「そのものが<ruby>持<rt>も</rt></ruby>つ<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さ」を<ruby>発揮<rt>はっき</rt></ruby>している<ruby>状態<rt>じょうたい</rt></ruby>！
 
-【② 〜っぽい：本来とは違う・安っぽい・未熟（△ 批判・マイナス評価）】
-  ★「大人のくせに子どもっぽい」（幼稚・わがまま・未熟という批判）
-  ★「白っぽい服」（完全な白ではなく、濁った白に近い）
-  ★「安っぽい時計」（本当は高くない、安物に見える）
-  →「本来の基準から外れている」「安易に見える」マイナスイメージ！
+【② 〜っぽい：<ruby>本来<rt>ほんらい</rt></ruby>とは<ruby>違<rt>ちが</rt></ruby>う・<ruby>安<rt>やす</rt></ruby>っぽい・<ruby>未<rt>み</rt></ruby><ruby>熟<rt>じゅく</rt></ruby>（△ <ruby>批判<rt>ひはん</rt></ruby>・マイナス<ruby>評価<rt>ひょうか</rt></ruby>）】
+  ★「<ruby>大人<rt>おとな</rt></ruby>のくせに<ruby>子<rt>こ</rt></ruby>どもっぽい」（<ruby>幼稚<rt>ようち</rt></ruby>・わがまま・<ruby>未熟<rt>みじゅく</rt></ruby>という<ruby>批判<rt>ひはん</rt></ruby>）
+  ★「<ruby>白<rt>しろ</rt></ruby>っぽい<ruby>服<rt>ふく</rt></ruby>」（<ruby>完全<rt>かんぜん</rt></ruby>な<ruby>白<rt>しろ</rt></ruby>ではなく、<ruby>濁<rt>にご</rt></ruby>った<ruby>白<rt>しろ</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>い）
+  ★「<ruby>安<rt>やす</rt></ruby>っぽい<ruby>時計<rt>とけい</rt></ruby>」（<ruby>本当<rt>ほんとう</rt></ruby>は<ruby>高<rt>たか</rt></ruby>くない、<ruby>安物<rt>やすもの</rt></ruby>に<ruby>見<rt>み</rt></ruby>える）
+  →「<ruby>本来<rt>ほんらい</rt></ruby>の<ruby>基準<rt>きじゅん</rt></ruby>から<ruby>外<rt>はず</rt></ruby>れている」「<ruby>安易<rt>あんい</rt></ruby>に<ruby>見<rt>み</rt></ruby>える」マイナスイメージ！
 
-【③ 〜みたい：比喩（まるで〜のようだ・外見の類似）】
-  ★「天使みたいに可愛い笑顔」（実際は人間だけど、まるで天使のよう）
-  ★「子どもみたいにはしゃぐ大人」（大人が子どものように遊んでいる様子）
-  →「実際は違うけれど、様子が似ている」純粋な比喩（ひゆ）！
+【③ 〜みたい：<ruby>比喩<rt>ひゆ</rt></ruby>（まるで〜のようだ・<ruby>外見<rt>がいけん</rt></ruby>の<ruby>類似<rt>るいじ</rt></ruby>）】
+  ★「<ruby>天使<rt>てんし</rt></ruby>みたいに<ruby>可愛<rt>かわい</rt></ruby>い<ruby>笑顔<rt>えがお</rt></ruby>」（<ruby>実際<rt>じっさい</rt></ruby>は<ruby>人間<rt>にんげん</rt></ruby>だけど、まるで<ruby>天使<rt>てんし</rt></ruby>のよう）
+  ★「<ruby>子<rt>こ</rt></ruby>どもみたいにはしゃぐ<ruby>大人<rt>おとな</rt></ruby>」（<ruby>大人<rt>おとな</rt></ruby>が<ruby>子<rt>こ</rt></ruby>どものように<ruby>遊<rt>あそ</rt></ruby>んでいる<ruby>様子<rt>ようす</rt></ruby>）
+  →「<ruby>実際<rt>じっさい</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>うけれど、<ruby>様子<rt>ようす</rt></ruby>が<ruby>似<rt>に</rt></ruby>ている」<ruby>純粋<rt>じゅんすい</rt></ruby>な<ruby>比喩<rt>ひゆ</rt></ruby>（ひゆ）！
 ```
 
 ---

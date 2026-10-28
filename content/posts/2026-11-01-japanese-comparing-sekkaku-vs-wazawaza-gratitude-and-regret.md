@@ -27,18 +27,18 @@ tags:
 ## 1. ひと<ruby>目<rt>め</rt></ruby>でわかる！「せっかく」VS「わざわざ」の<ruby>対比<rt>たいひ</rt></ruby>マップ
 
 ```
-【せっかく：貴重な機会・時間・努力（もったいないの心理）】
-  ★「せっかく日本に来たんだから、富士山に登ろう！」（貴重なチャンスを活用）
-  ★「せっかく料理を作ったのに、夫が外食してきた。」（努力が無駄になって残念・悔しい）
-  →「貴重なチャンス」「無駄にしたくない努力」に焦点！
+【せっかく：<ruby>貴重<rt>きちょう</rt></ruby>な<ruby>機会<rt>きかい</rt></ruby>・<ruby>時間<rt>じかん</rt></ruby>・<ruby>努力<rt>どりょく</rt></ruby>（もったいないの<ruby>心理<rt>しんり</rt></ruby>）】
+  ★「せっかく<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>たんだから、<ruby>富士山<rt>ふじさん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ろう！」（<ruby>貴重<rt>きちょう</rt></ruby>なチャンスを<ruby>活用<rt>かつよう</rt></ruby>）
+  ★「せっかく<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ったのに、<ruby>夫<rt>おっと</rt></ruby>が<ruby>外食<rt>がいしょく</rt></ruby>してきた。」（<ruby>努力<rt>どりょく</rt></ruby>が<ruby>無駄<rt>むだ</rt></ruby>になって<ruby>残念<rt>ざんねん</rt></ruby>・<ruby>悔<rt>くや</rt></ruby>しい）
+  →「<ruby>貴重<rt>きちょう</rt></ruby>なチャンス」「<ruby>無駄<rt>むだ</rt></ruby>にしたくない<ruby>努力<rt>どりょく</rt></ruby>」に<ruby>焦点<rt>しょうてん</rt></ruby>！
 
-【わざわざ：余計な手間・労力をかけること（特別な労力）】
-  ★相手に対して使う（◎ 感謝）：
-      「わざわざ駅までお迎えに来ていただき、ありがとうございます！」
-      （普通はしなくていい大変な労力を私のために払ってくれた感謝）
-  ★自分に対して使う（× 嫌味・恩着せがましさ）：
-      「わざわざ教えてあげたのに、お礼もないの？」
-      （「オレが特別な労力をかけてやったんだぞ」という恩着せがましさ）
+【わざわざ：<ruby>余計<rt>よけい</rt></ruby>な<ruby>手間<rt>てま</rt></ruby>・<ruby>労力<rt>ろうりょく</rt></ruby>をかけること（<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>労力<rt>ろうりょく</rt></ruby>）】
+  ★<ruby>相手<rt>あいて</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>使<rt>つか</rt></ruby>う（◎ <ruby>感謝<rt>かんしゃ</rt></ruby>）：
+      「わざわざ<ruby>駅<rt>えき</rt></ruby>までお<ruby>迎<rt>むか</rt></ruby>えに<ruby>来<rt>き</rt></ruby>ていただき、ありがとうございます！」
+      （<ruby>普通<rt>ふつう</rt></ruby>はしなくていい<ruby>大変<rt>たいへん</rt></ruby>な<ruby>労力<rt>ろうりょく</rt></ruby>を<ruby>私<rt>わたし</rt></ruby>のために<ruby>払<rt>はら</rt></ruby>ってくれた<ruby>感謝<rt>かんしゃ</rt></ruby>）
+  ★<ruby>自分<rt>じぶん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>使<rt>つか</rt></ruby>う（× <ruby>嫌味<rt>いやみ</rt></ruby>・<ruby>恩<rt>おん</rt></ruby><ruby>着<rt>き</rt></ruby>せがましさ）：
+      「わざわざ<ruby>教<rt>おし</rt></ruby>えてあげたのに、お<ruby>礼<rt>れい</rt></ruby>もないの？」
+      （「オレが<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>労力<rt>ろうりょく</rt></ruby>をかけてやったんだぞ」という<ruby>恩<rt>おん</rt></ruby><ruby>着<rt>き</rt></ruby>せがましさ）
 ```
 
 ---
@@ -139,32 +139,32 @@ tags:
 * 📌 **<ruby>自分<rt>じぶん</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>に「わざわざ」を<ruby>使<rt>つか</rt></ruby>うと<ruby>嫌味<rt>いやみ</rt></ruby>になるので<ruby>要注意<rt>ようちゅうい</rt></ruby>！**
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">せっかく（せっかく）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>with trouble, at great pains, precious opportunity</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>せっかくのお休みなのに、一日中雨でどこにも出かけられませんでした。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>with trouble, at great pains, precious opportunity</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong>せっかくのお<ruby>休<rt>やす</rt></ruby>みなのに、<ruby>一日中<rt>いちにちじゅう</rt></ruby><ruby>雨<rt>う</rt></ruby>でどこにも<ruby>出<rt>で</rt></ruby>かけられませんでした。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
         <span class="c-vocab-card__word">わざわざ（わざわざ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>expressly, going to the trouble of doing</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>遠いところをわざわざお越しいただき、心より御礼申し上げます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>expressly, going to the trouble of doing</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>遠<rt>とお</rt></ruby>いところをわざわざお<ruby>越<rt>こ</rt></ruby>しいただき、<ruby>心<rt>こころ</rt></ruby>より<ruby>御礼<rt>おんれい</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">ご足労（ごそくろう）</span>
+        <span class="c-vocab-card__word">ご<ruby>足労<rt>そくろう</rt></ruby>（ごそくろう）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n1">JLPT N1</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>trouble of coming/going (honorific)</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>足元の悪い中、弊社までご足労いただきありがとうございます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>trouble of coming/going (honorific)</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>足元<rt>あしもと</rt></ruby>の<ruby>悪<rt>わる</rt></ruby>い<ruby>中<rt>なか</rt></ruby>、<ruby>弊社<rt>へいしゃ</rt></ruby>までご<ruby>足労<rt>そくろう</rt></ruby>いただきありがとうございます。</p>
     </div>
   </div>
 </div>

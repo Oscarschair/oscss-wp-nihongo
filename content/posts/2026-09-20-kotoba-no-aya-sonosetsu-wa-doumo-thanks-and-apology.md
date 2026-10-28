@@ -46,12 +46,12 @@ tags:
 「<ruby>節<rt>ふし</rt></ruby>（せつ）」という<ruby>漢字<rt>かんじ</rt></ruby>には、「<ruby>季節<rt>きせつ</rt></ruby>（きせつ）」「<ruby>節目<rt>ふしめ</rt></ruby>（ふしめ）」のように**「<ruby>時間<rt>じかん</rt></ruby>の<ruby>区切<rt>くぎ</rt></ruby>り、<ruby>特別<rt>とくべつ</rt></ruby>なタイミング」**という<ruby>意味<rt>いみ</rt></ruby>があります。
 
 ```
-【「その節」の構造】
-「その」＝ あなたと私が共有している、あの過去の出来事
-「節」  ＝ あのタイミング、あの機会、あの時期
+【「その<ruby>節<rt>ふし</rt></ruby>」の<ruby>構造<rt>こうぞう</rt></ruby>】
+「その」＝ あなたと<ruby>私<rt>わたし</rt></ruby>が<ruby>共有<rt>きょうゆう</rt></ruby>している、あの<ruby>過去<rt>かこ</rt></ruby>の<ruby>出来事<rt>できごと</rt></ruby>
+「<ruby>節<rt>ふし</rt></ruby>」  ＝ あのタイミング、あの<ruby>機会<rt>きかい</rt></ruby>、あの<ruby>時期<rt>じき</rt></ruby>
       │
       ▼
-「その節」＝【 あの時（あの機会）には 】
+「その<ruby>節<rt>ふし</rt></ruby>」＝【 あの<ruby>時<rt>とき</rt></ruby>（あの<ruby>機会<rt>きかい</rt></ruby>）には 】
 ```
 
 つまり、「その<ruby>節<rt>ふし</rt></ruby>はどうも」とは、<ruby>直訳<rt>ちょくやく</rt></ruby>すれば**「あの<ruby>機会<rt>きかい</rt></ruby>には、どうもお<ruby>世話<rt>せわ</rt></ruby>になりました（ありがとうございました）」**という<ruby>意味<rt>いみ</rt></ruby>になります。
@@ -68,19 +68,19 @@ tags:
 <ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>人<rt>ひと</rt></ruby>と<ruby>会<rt>あ</rt></ruby>ったとき、<ruby>挨拶<rt>あいさつ</rt></ruby>には<ruby>決<rt>き</rt></ruby>まった「<ruby>黄金<rt>おうごん</rt></ruby>の4ステップ」があります。この<ruby>順番<rt>じゅんばん</rt></ruby><ruby>通<rt>どお</rt></ruby>りに<ruby>言葉<rt>ことば</rt></ruby>を<ruby>紡<rt>つむ</rt></ruby>ぐだけで、<ruby>完璧<rt>かんぺき</rt></ruby>なビジネスパーソンに<ruby>見<rt>み</rt></ruby>えます！
 
 ```
-［再会の黄金プロトコル］
+［<ruby>再会<rt>さいかい</rt></ruby>の<ruby>黄金<rt>おうごん</rt></ruby>プロトコル］
        │
-       ▼ ①【驚きと喜びの表現】
- 「あ、〇〇さん！ お久しぶりです！」
+       ▼ ①【<ruby>驚<rt>おどろ</rt></ruby>きと<ruby>喜<rt>よろこ</rt></ruby>びの<ruby>表現<rt>ひょうげん</rt></ruby>】
+ 「あ、〇〇さん！ お<ruby>久<rt>ひさ</rt></ruby>しぶりです！」
        │
-       ▼ ②【期間の経過を詫びる（ご無沙汰）】
- 「大変ご無沙汰しております！」
+       ▼ ②【<ruby>期間<rt>きかん</rt></ruby>の<ruby>経過<rt>けいか</rt></ruby>を<ruby>詫<rt>わ</rt></ruby>びる（ご<ruby>無沙汰<rt>ぶさた</rt></ruby>）】
+ 「<ruby>大変<rt>たいへん</rt></ruby>ご<ruby>無沙汰<rt>ぶさた</rt></ruby>しております！」
        │
-       ▼ ③【過去の恩義への感謝（その節）】
- 「その節は、大変お世話になりました！」
+       ▼ ③【<ruby>過去<rt>かこ</rt></ruby>の<ruby>恩義<rt>おんぎ</rt></ruby>への<ruby>感謝<rt>かんしゃ</rt></ruby>（その<ruby>節<rt>ふし</rt></ruby>）】
+ 「その<ruby>節<rt>ふし</rt></ruby>は、<ruby>大変<rt>たいへん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になりました！」
        │
-       ▼ ④【現状の気遣い】
- 「お変わりございませんか？ お元気そうで何よりです！」
+       ▼ ④【<ruby>現状<rt>げんじょう</rt></ruby>の<ruby>気遣<rt>きづか</rt></ruby>い】
+ 「お<ruby>変<rt>か</rt></ruby>わりございませんか？ お<ruby>元気<rt>げんき</rt></ruby>そうで<ruby>何<rt>なに</rt></ruby>よりです！」
 ```
 
 ---
@@ -129,20 +129,20 @@ tags:
 あなたのビジネス<ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby><ruby>力<rt>りょく</rt></ruby>を<ruby>試<rt>ため</rt></ruby>す3<ruby>問<rt>もん</rt></ruby>クイズです！
 
 ```
-【第1問】
-昨日会って一緒にランチを食べた同僚に、今朝オフィスで会ったとき「その節はどうも」と言ってもよいでしょうか？
-① 言ってもよい
-② 不自然（昨日会ったばかりなら「昨日はごちそうさまでした」と言うべき）
+【<ruby>第<rt>だい</rt></ruby>1<ruby>問<rt>もん</rt></ruby>】
+<ruby>昨日<rt>きのう</rt></ruby><ruby>会<rt>あ</rt></ruby>って<ruby>一緒<rt>いっしょ</rt></ruby>にランチを<ruby>食<rt>た</rt></ruby>べた<ruby>同僚<rt>どうりょう</rt></ruby>に、<ruby>今朝<rt>けさ</rt></ruby>オフィスで<ruby>会<rt>あ</rt></ruby>ったとき「その<ruby>節<rt>ふし</rt></ruby>はどうも」と<ruby>言<rt>い</rt></ruby>ってもよいでしょうか？
+① <ruby>言<rt>い</rt></ruby>ってもよい
+② <ruby>不自然<rt>ふしぜん</rt></ruby>（<ruby>昨日<rt>きのう</rt></ruby><ruby>会<rt>あ</rt></ruby>ったばかりなら「<ruby>昨日<rt>きのう</rt></ruby>はごちそうさまでした」と<ruby>言<rt>い</rt></ruby>うべき）
 
-【第2問】
-「ご無沙汰しております」は、どのくらいの期間会っていなかった時に使うのが適切？
-① 数時間〜1日ぶり
-② 少なくとも数週間〜数ヶ月以上ぶり
+【<ruby>第<rt>だい</rt></ruby>2<ruby>問<rt>もん</rt></ruby>】
+「ご<ruby>無沙汰<rt>ぶさた</rt></ruby>しております」は、どのくらいの<ruby>期間<rt>きかん</rt></ruby><ruby>会<rt>あ</rt></ruby>っていなかった<ruby>時<rt>とき</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うのが<ruby>適切<rt>てきせつ</rt></ruby>？
+① <ruby>数<rt>すう</rt></ruby><ruby>時間<rt>じかん</rt></ruby>〜1<ruby>日<rt>にち</rt></ruby>ぶり
+② <ruby>少<rt>すく</rt></ruby>なくとも<ruby>数<rt>すう</rt></ruby><ruby>週間<rt>しゅうかん</rt></ruby>〜<ruby>数<rt>すう</rt></ruby><ruby>ヶ月<rt>かげつ</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>ぶり
 
-【第3問】
-取引先から「その節はどうも！」と言われた時の最もスマートな返し言葉は？
-①「いえ、何のことですか？」
-②「こちらこそ、その節は大変お世話になりました！」
+【<ruby>第<rt>だい</rt></ruby>3<ruby>問<rt>もん</rt></ruby>】
+<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>から「その<ruby>節<rt>ふし</rt></ruby>はどうも！」と<ruby>言<rt>い</rt></ruby>われた<ruby>時<rt>とき</rt></ruby>の<ruby>最<rt>もっと</rt></ruby>もスマートな<ruby>返<rt>かえ</rt></ruby>し<ruby>言葉<rt>ことば</rt></ruby>は？
+①「いえ、<ruby>何<rt>なに</rt></ruby>のことですか？」
+②「こちらこそ、その<ruby>節<rt>ふし</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になりました！」
 ```
 
 ### 【<ruby>正解<rt>せいかい</rt></ruby>と<ruby>解説<rt>かいせつ</rt></ruby>】
@@ -166,32 +166,32 @@ tags:
 <ruby>言葉<rt>ことば</rt></ruby>の<ruby>曖昧<rt>あいまい</rt></ruby>さは、<ruby>相手<rt>あいて</rt></ruby>への<ruby>優<rt>やさ</rt></ruby>しさの<ruby>裏返<rt>うらがえ</rt></ruby>し。「その<ruby>節<rt>ふし</rt></ruby>はどうも」をサラリと<ruby>使<rt>つか</rt></ruby>いこなして、<ruby>日本<rt>にほん</rt></ruby>での<ruby>人間<rt>にんげん</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>をより<ruby>豊<rt>ゆた</rt></ruby>かで<ruby>心地<rt>ここち</rt></ruby>よいものに<ruby>育<rt>そだ</rt></ruby>てていきましょう！
 
 <div class="c-vocab-box">
-  <h3 class="c-vocab-box__title">🎯 今回の語彙（重要ボキャブラリー）</h3>
-  <p class="c-vocab-box__lead">この学習ノートに登場した、覚えておきたい重要日本語：</p>
+  <h3 class="c-vocab-box__title">🎯 <ruby>今回<rt>こんかい</rt></ruby>の<ruby>語彙<rt>ごい</rt></ruby>（<ruby>重要<rt>じゅうよう</rt></ruby>ボキャブラリー）</h3>
+  <p class="c-vocab-box__lead">この<ruby>学習<rt>がくしゅう</rt></ruby>ノートに<ruby>登場<rt>とうじょう</rt></ruby>した、<ruby>覚<rt>おぼ</rt></ruby>えておきたい<ruby>重要<rt>じゅうよう</rt></ruby><ruby>日本<rt>にほん</rt></ruby><ruby>語<rt>ご</rt></ruby>：</p>
   <div class="c-vocab-grid">
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">先日（せんじつ）</span>
+        <span class="c-vocab-card__word"><ruby>先日<rt>せんじつ</rt></ruby>（せんじつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>the other day, recently</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>先日は大変お世話になり、心よりお礼申し上げます。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>the other day, recently</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>先日<rt>せんじつ</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>お<ruby>世話<rt>せわ</rt></ruby>になり、<ruby>心<rt>こころ</rt></ruby>よりお<ruby>礼<rt>れい</rt></ruby><ruby>申し上<rt>もうしあ</rt></ruby>げます。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">挨拶（あいさつ）</span>
+        <span class="c-vocab-card__word"><ruby>挨拶<rt>あいさつ</rt></ruby>（あいさつ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>greeting</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>久しぶりに会った取引先の担当者に「その節はどうも」と挨拶した。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>greeting</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>久<rt>ひさ</rt></ruby>しぶりに<ruby>会<rt>あ</rt></ruby>った<ruby>取引<rt>とりひき</rt></ruby><ruby>先<rt>さき</rt></ruby>の<ruby>担当<rt>たんとう</rt></ruby><ruby>者<rt>しゃ</rt></ruby>に「その<ruby>節<rt>ふし</rt></ruby>はどうも」と<ruby>挨拶<rt>あいさつ</rt></ruby>した。</p>
     </div>
     <div class="c-vocab-card">
       <div class="c-vocab-card__header">
-        <span class="c-vocab-card__word">感謝（かんしゃ）</span>
+        <span class="c-vocab-card__word"><ruby>感謝<rt>かんしゃ</rt></ruby>（かんしゃ）</span>
         <span class="c-badge c-badge--jlpt c-badge--jlpt-n3">JLPT N3</span>
       </div>
-      <p class="c-vocab-card__meaning"><strong>意味：</strong>gratitude</p>
-      <p class="c-vocab-card__example"><strong>例文：</strong>過去に助けてもらった親切への感謝を、改めて言葉にして伝える。</p>
+      <p class="c-vocab-card__meaning"><strong><ruby>意味<rt>いみ</rt></ruby>：</strong>gratitude</p>
+      <p class="c-vocab-card__example"><strong><ruby>例文<rt>れいぶん</rt></ruby>：</strong><ruby>過去<rt>かこ</rt></ruby>に<ruby>助<rt>たす</rt></ruby>けてもらった<ruby>親切<rt>しんせつ</rt></ruby>への<ruby>感謝<rt>かんしゃ</rt></ruby>を、<ruby>改<rt>あらた</rt></ruby>めて<ruby>言葉<rt>ことば</rt></ruby>にして<ruby>伝<rt>つた</rt></ruby>える。</p>
     </div>
   </div>
 </div>
