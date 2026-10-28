@@ -3,7 +3,7 @@ title: "ことばのあや：「よろしかったでしょうか？」は間違
 description: "「ご注文は以上でよろしかったでしょうか？」「1万円からお預かりします」「こちら温めの方どうされますか？」……日常のコンビニや飲食店で毎日耳にするけれど、実は文法的に不自然な『バイト敬語』！なぜ過去形にするのか？正しい大人の敬語表現をユーモアたっぷりに解説します！"
 slug: "kotoba-no-aya-baito-keigo-yoroshikatta-deshouka-trap"
 date: "2026-10-18T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-baito-keigo.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-baito-keigo.webp"
 categories:
   - "ことばのあや"
 jlpt: "N2"

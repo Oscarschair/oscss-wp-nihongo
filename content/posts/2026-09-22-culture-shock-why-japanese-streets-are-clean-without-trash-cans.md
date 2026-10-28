@@ -4,7 +4,7 @@ title: "カルチャーショック：なぜ日本の街には「ゴミ箱」が
 description: "日本の観光地や駅を歩いていて、飲み終わったペットボトルを捨てようとしたら……どこを探してもゴミ箱がない！？自販機の横にある穴にゴミを突っ込むのはマナー違反！？1995年のテロ対策から始まったゴミ箱撤去の歴史と、学校教育から染み付いた『自分のゴミは持ち帰る』日本人のモラルを徹底解説！"
 slug: "culture-shock-why-japanese-streets-are-clean-without-trash-cans"
 date: "2026-09-22T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-no-trash-cans.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-no-trash-cans.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N2"

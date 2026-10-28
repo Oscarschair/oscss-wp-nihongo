@@ -11,7 +11,7 @@ tags:
   - 日本語文法
   - 日常会話
   - JLPT N3
-thumbnail: "assets/images/thumbnails/thumb-kurabete-ageru-kureru.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kurabete-ageru-kureru.webp"
 description: "英語なら「give」1語で済むのに、日本語ではなぜ「あげる」と「くれる」で単語が分かれるのか？矢印が内側（自分側）に向くか外側に向くか、日本人の「ウチとソト」の人間関係がそのまま言葉になった授受表現の完全攻略ガイド。"
 ---
 > 💬 <strong>オスカー</strong>  

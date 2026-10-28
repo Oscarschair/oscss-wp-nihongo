@@ -3,7 +3,7 @@ title: "くらべてみました：「わかる（分かる）」VS「しる（�
 description: "「知っていますか？」と聞くのは失礼！？英語の『Know』に該当する日本語の『わかる』と『しる』。単なるデータの認知と、腑に落ちた深い理解の境界線から、ビジネスで必須の尊敬語『ご存じですか』の使い分けまで徹底解説！"
 slug: "japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing"
 date: "2026-09-06T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-wakaru-shiru.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-wakaru-shiru.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

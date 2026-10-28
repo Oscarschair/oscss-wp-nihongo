@@ -4,7 +4,7 @@ title: "くらべてみました：「太る」VS「太っている」の違い�
 description: "「最近太る」「田中さんは太る」って言ったら変な顔をされた！？英語の 'gain weight' と 'be fat' の違いに見えて、実は日本語特有の『アスペクト（動きのプロセスか、結果の状態か）』が関わる超重要文法。「太る」「太っている」の使い分けから、「結婚する」「知る」「死ぬ」などの変化動詞のルールまで徹底解説！"
 slug: "japanese-comparing-futoru-futotteiru-aspect-differences"
 date: "2026-10-02T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-futoru-aspect.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-futoru-aspect.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

@@ -11,7 +11,7 @@ tags:
   - 接客・レジ日本語
   - 生活・手続き
   - JLPT N2
-thumbnail: "assets/images/thumbnails/thumb-street-haircut-rpg.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-haircut-rpg.webp"
 description: "香港の散髪は15分・無言で完了。でも日本の美容室は「すく・痒いところ・お流し・雑談」と超高難易度の対話ダンジョンだった！？視界ゼロのシャンプー台で繰り広げられる心理戦と、確実に生還する攻略フレーズ集。"
 ---
 > 💬 <strong>オスカー</strong>  

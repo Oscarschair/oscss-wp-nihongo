@@ -3,7 +3,7 @@ title: "カルチャーショック：なぜ日本人は夏でもマスクを外
 description: "気温35度の猛暑でも、電車に乗ると半分以上の日本人がマスクを着けていてびっくり！コロナが終わっても夏でもマスクを手放さないのはなぜ？花粉症や風邪予防だけじゃない！『すっぴん隠し』『表情のバリア』『顔の服』として定着した日本のリアルなマスク文化を徹底解剖！"
 slug: "culture-shock-why-japanese-wear-masks-even-in-summer-social-mask"
 date: "2026-10-27T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-mask-psychology.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-mask-psychology.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N3"

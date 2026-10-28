@@ -3,7 +3,7 @@ title: "ことばのあや：「社内で検討いたします」の真意とは
 description: "提案への返信で「社内で前向きに検討いたします」「善処いたします」と言われたときの真意とは？自分がお願いするときに使う「ご検討のほどよろしくお願いいたします」との決定的な使い分けや、ビジネスで必須の『行間（ぎょうかん）』を読む技術を徹底解剖します！"
 slug: "kotoba-no-aya-gokentou-no-hodo-business-euphemism"
 date: "2026-10-22T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-gokentou.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-gokentou.webp"
 categories:
   - "ことばのあや"
 jlpt: "N1"

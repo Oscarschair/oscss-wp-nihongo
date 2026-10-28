@@ -3,7 +3,7 @@ title: "くらべてみました：「すみません」VS「ごめんなさい�
 description: "「足を踏んだとき」「お礼を言うとき」「呼び止めるとき」全部『すみません』で通じる！？日本人が1日に何十回も口にする謝罪言葉の真実。「ごめんなさい」との使い分けからビジネス最上級の『申し訳ございません』まで徹底解説！"
 slug: "japanese-comparing-sorry-excuse-me-differences-in-apology-expressions"
 date: "2023-02-20T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-apology.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-apology.webp"
 categories:
   - "くらべてみました"
 jlpt: "N4"

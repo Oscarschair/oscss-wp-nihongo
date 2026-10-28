@@ -4,7 +4,7 @@ title: "カルチャーショック：サインじゃダメなの！？日本の
 description: "銀行口座の開設やアパートの契約で『印鑑はお持ちですか？』と聞かれ、『サインじゃダメですか？』と返して断られた外国人旅行者＆在住者たち！なぜデジタル大国のはずの日本でハンコがここまで重宝されるのか？実印・銀行印・認印の決定的な違いから、カタカナ印鑑の作り方まで徹底解説！"
 slug: "culture-shock-hanko-seal-stamp-culture-and-signature"
 date: "2026-10-09T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-hanko-seal.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-hanko-seal.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N2"

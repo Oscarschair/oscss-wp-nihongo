@@ -3,7 +3,7 @@ title: "カルチャーショック：「割り勘（わりかん）」の美学
 description: "飲み会が終わった瞬間、電卓を叩いて「1人3,425円ね！」と1円単位で請求されてフリーズ！？海外では『今日は俺がおごるよ』が当たり前なのに、なぜ日本人はここまで割り勘を徹底するのか？PayPay送金時代の最新割り勘ルールと、飲み会での会計マナーを徹底解説！"
 slug: "culture-shock-warikan-splitting-the-bill-culture-in-japan"
 date: "2026-10-23T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-warikan.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-warikan.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N3"

@@ -3,7 +3,7 @@ title: "くらべてみました：【徹底比較】「かもしれない」VS�
 description: "「雨が降るかもしれない（50%）」「犯人はあいつに違いない（99%）」「そんなはずがない（0%）」……日本語の推量・断定表現はパーセンテージで覚えると一発でマスターできる！確信度のグラデーションと日常会話でのリアルな使い分けを徹底解説します！"
 slug: "japanese-comparing-kamoshirenai-vs-chigainai-vs-hazuganai"
 date: "2026-10-24T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-kamoshirenai-chigainai.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-kamoshirenai-chigainai.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

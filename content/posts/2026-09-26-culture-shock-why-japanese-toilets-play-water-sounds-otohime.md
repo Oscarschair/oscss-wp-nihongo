@@ -4,7 +4,7 @@ title: "カルチャーショック：日本のトイレで水が流れる謎の
 description: "日本の女子トイレや公共トイレに入ると、センサーに手をかざした瞬間に『ジャーーーッ！』と大音量で水の流れる音が鳴り響く謎の機械『音姫（おとひめ）』！なぜ外国人は使わないのに、日本人女性は100%鳴らすのか？江戸時代の『音消し壺』から始まった恥じらいの歴史とウォシュレットのボタン操作まで徹底解説！"
 slug: "culture-shock-why-japanese-toilets-play-water-sounds-otohime"
 date: "2026-09-26T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-otohime-toilet.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-otohime-toilet.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N2"

@@ -3,7 +3,7 @@ title: "カルチャーショック：「本音（ほんね）」と「建前（
 description: "「ぶぶ漬け（お茶漬け）でもどうどす？」と言われたら「早く帰れ」のサイン！？……実はこれ、古典落語から生まれた有名な都市伝説だった！「また今度ご飯行きましょう」「お近くにお越しの際はぜひ」……嘘つきではなく調和（和）を守るための大人の知恵『本音と建前』の真実を徹底解剖！"
 slug: "culture-shock-honne-and-tatemae-harmony-and-bubuzuke-culture"
 date: "2026-11-04T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-honne-tatemae.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-honne-tatemae.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N2"

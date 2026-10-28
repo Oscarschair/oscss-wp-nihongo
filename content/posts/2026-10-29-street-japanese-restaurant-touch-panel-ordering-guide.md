@@ -3,7 +3,7 @@ title: "街角サバイバル：ファミレス・居酒屋の「タッチパネ
 description: "「すいませーん！」と大声で店員を呼ぶのが苦手な人に朗報！日本の居酒屋やファミレス、回転寿司で標準装備となった『卓上タッチパネル端末』。サビ抜き、大盛り、お冷、割り勘レシートから『店員呼び出しボタン』の使い分けまで完全網羅します！"
 slug: "street-japanese-restaurant-touch-panel-ordering-guide"
 date: "2026-10-29T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-touch-panel.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-touch-panel.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N3"

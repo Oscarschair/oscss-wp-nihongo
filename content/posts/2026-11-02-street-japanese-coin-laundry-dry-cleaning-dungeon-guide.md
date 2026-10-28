@@ -3,7 +3,7 @@ title: "街角サバイバル：コインランドリー＆クリーニング屋
 description: "「ドライクリーニングって水を使わないの？」「仕上がり日とお預かり票？」「布団（ふとん）丸洗い専用洗濯機？？」梅雨の部屋干しや冬のコートのお手入れで必ず直面するコインランドリーとクリーニング店の専門用語と失敗しない使い方を徹底解説！"
 slug: "street-japanese-coin-laundry-dry-cleaning-dungeon-guide"
 date: "2026-11-02T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-laundry-cleaning.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-laundry-cleaning.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N3"

@@ -4,7 +4,7 @@ title: "街角サバイバル：回転寿司の「激熱お湯蛇口」はトラ
 description: "日本の回転寿司に足を踏み入れた外国人旅行者を待ち受ける数々のハイテクギミック！席に着くやいなや現れる「激熱お湯蛇口」の押し方から、粉末緑茶の適量、タッチパネル注文、超高速の特急レーン、そしてお皿を投入するガチャまで、街角の回転寿司を120%楽しむための完全攻略ガイド！"
 slug: "street-japanese-kaitenzushi-hot-water-express-lane-survival-guide"
 date: "2026-10-01T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-kaitenzushi-rpg.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-kaitenzushi-rpg.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N2"

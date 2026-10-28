@@ -4,7 +4,7 @@ title: "街角サバイバル：日本のカフェの「店内ですか？お持
 description: "日本のスタバやドトールでコーヒーを頼んだら、店員さんから矢継ぎ早に繰り出される質問攻め！？『店内でお召し上がりですか？』『マグカップでよろしいですか？』『レシートご利用ですか？』。なぜ持ち帰りと店内で税率が変わるのか？サイズ・カスタム注文からスマートな返答フレーズまで徹底解説！"
 slug: "street-japanese-cafe-order-survival-mug-or-paper-guide"
 date: "2026-09-21T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-cafe-order.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-cafe-order.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N3"

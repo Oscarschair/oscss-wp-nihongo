@@ -3,7 +3,7 @@ title: "ことばのあや：心地よい会話を生み出す終助詞「ね」
 description: "「今日って暑いね」「いいですね！」相手との心の距離を一瞬で縮める魔法の終助詞「ね」。でも上司に「素晴らしいプレゼンでしたね！」と言ったら失礼になる！？親近感となれなれしさの境界線から、角を立てないクッション言葉としての威力まで徹底解説！"
 slug: "kotoba-no-aya-how-to-use-the-final-particle-ne-for-a-comfortable-conversation"
 date: "2023-02-20T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-ne.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-ne.webp"
 categories:
   - "ことばのあや"
 jlpt: "N3"

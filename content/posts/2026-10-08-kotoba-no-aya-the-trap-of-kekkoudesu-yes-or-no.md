@@ -4,7 +4,7 @@ title: "ことばのあや：「結構です」は肯定？お断り？｜笑顔
 description: "「レジ袋ご利用ですか？」「あ、結構です」ってどっちなの！？肯定（OK・素晴らしい）の意味と、お断り（No thank you・不要）の意味を併せ持つ日本語最大のミステリーワード「結構」。相手の真意を1秒で見抜く『表情と手のサイン』の法則から、ビジネスでの正しい使い方まで徹底解説！"
 slug: "kotoba-no-aya-the-trap-of-kekkoudesu-yes-or-no"
 date: "2026-10-08T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-kekkoudesu-confusion.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-kekkoudesu-confusion.webp"
 categories:
   - "ことばのあや"
 jlpt: "N2"

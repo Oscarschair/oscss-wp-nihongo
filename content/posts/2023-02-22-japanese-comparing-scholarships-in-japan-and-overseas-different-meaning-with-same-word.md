@@ -3,7 +3,7 @@ title: "くらべてみました：日本の「奨学金」は実は借金！？
 description: "「奨学金をもらえた！」と大喜びしていたら、卒業後に何百万円もの返済義務が待っていた！？海外のScholarship（返済不要の給付金）と日本の奨学金（学生ローン・貸与型）の衝撃的な違いと、留学生が勝ち取るべき本当の奨学金獲得戦略を徹底解説！"
 slug: "japanese-comparing-scholarships-in-japan-and-overseas-different-meaning-with-same-word"
 date: "2023-02-22T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-scholarships.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-scholarships.webp"
 categories:
   - "くらべてみました"
 jlpt: "N2"

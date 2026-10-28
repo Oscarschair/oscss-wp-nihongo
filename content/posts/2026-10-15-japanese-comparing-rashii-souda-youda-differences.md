@@ -4,7 +4,7 @@ title: "くらべてみました：【徹底比較】「そうだ」「らしい
 description: "「雨が降りそうだ」「雨が降るらしい」「雨が降るようだ」……全部同じ「推測」に見えて、実は情報源と確信度が全く違う！日本語学習者が最も頭を抱える推量・伝聞の助動詞3兄弟を、五感判定フローチャートとリアルな日常会話でスッキリ整理します！"
 slug: "japanese-comparing-rashii-souda-youda-differences"
 date: "2026-10-15T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-rashii-souda.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-rashii-souda.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

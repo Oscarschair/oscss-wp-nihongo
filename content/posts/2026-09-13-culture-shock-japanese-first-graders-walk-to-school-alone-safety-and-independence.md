@@ -11,7 +11,7 @@ tags:
   - 街歩き・交通
   - 日本文化・マナー
   - JLPT N2
-thumbnail: "assets/images/thumbnails/thumb-culture-kids-school.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-kids-school.webp"
 description: "大きなランドセルを背負った6歳の男の子が、親もつけずにたった1人で電車に乗って登校！？欧米や海外なら「保護者遺棄」で親が即逮捕されるレベルの光景が、なぜ日本では安全に成立しているのか？地域社会の見守りネットワークの秘密。"
 ---
 > 💬 <strong>オスカー</strong>  

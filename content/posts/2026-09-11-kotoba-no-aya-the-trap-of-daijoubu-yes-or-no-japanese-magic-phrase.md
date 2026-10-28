@@ -11,7 +11,7 @@ tags:
   - 日常会話
   - 日本文化・マナー
   - JLPT N3
-thumbnail: "assets/images/thumbnails/thumb-kotoba-daijoubu-trap.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-daijoubu-trap.webp"
 description: "「レシート大丈夫です」はNOなのに、「この席大丈夫です」はYES！？肯定と否定の両方で使われる日本の魔法の言葉「大丈夫」。イントネーション・手振り・表情から真意を一瞬で見分ける解読術を分かりやすく解説。"
 ---
 > 💬 <strong>オスカー</strong>  

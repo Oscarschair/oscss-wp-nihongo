@@ -4,7 +4,7 @@ title: "街角サバイバル：ラーメン屋の「券売機ダンジョン」
 description: "日本のラーメン屋の扉を開けた瞬間、立ちはだかるボタンだらけの「券売機」と、着席直後に浴びせられる早口の「お好みコール」！麺の硬さ・味の濃さ・油の量の指定から、水はセルフ・ティッシュ・器の上げ下げマナーまで、街角のラーメン屋を堂々と満喫するための完全サバイバル術！"
 slug: "street-japanese-ramen-ticket-machine-call-survival-guide"
 date: "2026-10-03T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-ramen-dungeon.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-ramen-dungeon.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N2"

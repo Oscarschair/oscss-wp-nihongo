@@ -11,7 +11,7 @@ tags:
   - 接客・レジ日本語
   - 生活・手続き
   - JLPT N3
-thumbnail: "assets/images/thumbnails/thumb-street-convenience-register.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-convenience-register.webp"
 description: "香港のコンビニは無言でスピーディー。でも日本のコンビニは「袋・温め・ポイントカード」と次々に回答を求めてくる！？来日初心者が一番緊張する「レジの3大トラップ」を突破する神フレーズとRPG攻略チャート。"
 ---
 > 💬 <strong>オスカー</strong>  

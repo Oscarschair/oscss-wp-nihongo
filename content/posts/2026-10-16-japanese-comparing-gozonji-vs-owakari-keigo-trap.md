@@ -3,7 +3,7 @@ title: "くらべてみました：【徹底比較】「ご存じですか？」
 description: "上司や取引先に「この内容、分かりますか？」「お分かりになりますか？」と聞いていませんか？実は相手の理解力を値踏みする超失礼な地雷フレーズ！相手を敬いながら自然に確認できる「ご存じですか」「ご理解いただけますでしょうか」のスマートな使い分けを徹底解説します！"
 slug: "japanese-comparing-gozonji-vs-owakari-keigo-trap"
 date: "2026-10-16T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-gozonji-owakari.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-gozonji-owakari.webp"
 categories:
   - "くらべてみました"
 jlpt: "N2"

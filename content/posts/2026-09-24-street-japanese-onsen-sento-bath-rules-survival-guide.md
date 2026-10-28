@@ -4,7 +4,7 @@ title: "街角サバイバル：日本の温泉・銭湯「裸の試練」完全
 description: "日本の温泉や銭湯で服を脱いだ瞬間、周囲の常連さんからの鋭い視線に凍りつく外国人旅行者たち！なぜ湯船に入る前に体を洗わなきゃいけないの！？タオルをお湯につけてはいけない理由から、脱衣所に戻る前の水滴拭き取りマナー、そして湯上がりの『腰に手を当てて飲む瓶牛乳』まで徹底解説！"
 slug: "street-japanese-onsen-sento-bath-rules-survival-guide"
 date: "2026-09-24T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-onsen-bath-rules.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-onsen-bath-rules.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N2"

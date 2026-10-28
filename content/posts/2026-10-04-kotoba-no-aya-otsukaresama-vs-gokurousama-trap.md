@@ -4,7 +4,7 @@ title: "ことばのあや：「お疲れ様」VS「ご苦労様」の罠｜上�
 description: "職場で上司や先輩に「ご苦労様です！」と元気に挨拶していませんか？英語の 'Thank you for your hard work' や 'Good job' の感覚で使うと、相手を一瞬でムッとさせてしまう日本の縦社会の地雷言葉。「お疲れ様」と「ご苦労様」の決定的な上下関係ルールから、退社時の挨拶、社外クライアントへの正しい敬語まで徹底解説！"
 slug: "kotoba-no-aya-otsukaresama-vs-gokurousama-trap"
 date: "2026-10-04T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-otsukaresama-boss.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-otsukaresama-boss.webp"
 categories:
   - "ことばのあや"
 jlpt: "N2"

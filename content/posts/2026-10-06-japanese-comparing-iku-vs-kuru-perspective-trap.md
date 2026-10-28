@@ -4,7 +4,7 @@ title: "くらべてみました：「今行きます」VS「今来ます」の�
 description: "友達に『早く来て！』と呼ばれて『今来ます！』と答えたら笑われた！？英語の 'I'm coming!' を直訳すると大間違いになる理由とは？日本語の「行く」と「来る」を決定づける『話し手の視点（カメラの位置）』のルールから、相手の懐に飛び込む敬語『伺います・参ります』まで徹底解説！"
 slug: "japanese-comparing-iku-vs-kuru-perspective-trap"
 date: "2026-10-06T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-iku-kuru-perspective.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-iku-kuru-perspective.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

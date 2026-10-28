@@ -3,7 +3,7 @@ title: "ことばのあや：「いいです」の罠｜YESなのかNOなのか�
 description: "「コーヒーのおかわり、いいです」「その企画、いいですね！」同じ『いいです』なのに、なぜ真逆のYESとNOになるの！？外国人を最もパニックに陥れる日本語の曖昧表現の真実から、手のジェスチャー・表情・イントネーションで見破る超実践解読法まで徹底解説！"
 slug: "kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu"
 date: "2026-09-05T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-iidesu.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-iidesu.webp"
 categories:
   - "ことばのあや"
 jlpt: "N3"

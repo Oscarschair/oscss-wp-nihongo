@@ -3,7 +3,7 @@ title: "くらべてみました：【徹底比較】「せっかく」VS「わ�
 description: "「わざわざ来てくれてありがとう（感謝）」は良いけれど、「わざわざ作った料理なんだから食べてよ！」と言うと嫌味・押し付けに聞こえる！？日本語の『せっかく』と『わざわざ』の紙一重のニュアンス差を、クルマと先生がスッキリ整理します！"
 slug: "japanese-comparing-sekkaku-vs-wazawaza-gratitude-and-regret"
 date: "2026-11-01T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-sekkaku-wazawaza.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-sekkaku-wazawaza.webp"
 categories:
   - "くらべてみました"
 jlpt: "N2"

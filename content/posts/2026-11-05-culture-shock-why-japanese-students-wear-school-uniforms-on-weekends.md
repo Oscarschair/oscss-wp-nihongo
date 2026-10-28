@@ -3,7 +3,7 @@ title: "カルチャーショック：なぜ日本の学生は休日でも制服
 description: "土曜日や日曜日の電車に乗ると、学校の制服を着た中高生がたくさんいて外国人はびっくり！「休みの日なのに学校があるの？」「私服を持っていないの？」実は過密な部活動や模試だけでなく、休日に友達と遊ぶ『制服ディズニー』『制服デート』という日本独自の青春ファッション文化だった！その深層心理を徹底解説！"
 slug: "culture-shock-why-japanese-students-wear-school-uniforms-on-weekends"
 date: "2026-11-05T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-weekend-school-uniform.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-weekend-school-uniform.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N3"

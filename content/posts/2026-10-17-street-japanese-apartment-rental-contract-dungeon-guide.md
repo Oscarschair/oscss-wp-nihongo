@@ -3,7 +3,7 @@ title: "街角サバイバル：不動産屋・賃貸契約ダンジョン完全
 description: "日本で部屋を借りようとして不動産屋に入ったら「シキキン？レイキン？チュウカイテスウリョウ？？」と謎の初期費用ラッシュに撃沈していませんか？外国人が直面する日本の賃貸契約の仕組みと、内見（ないけん）で失敗しないためのリアル神フレーズを完全攻略します！"
 slug: "street-japanese-apartment-rental-contract-dungeon-guide"
 date: "2026-10-17T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-apartment-rental.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-apartment-rental.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N3"

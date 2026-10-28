@@ -4,7 +4,7 @@ title: "街角サバイバル：市役所の「住民登録・転入届」ダン
 description: "日本で引っ越しをした外国人が最初に直面する最大の難関「市役所・区役所」。転入届、マイナンバーカード、住民票の取得まで、迷宮のような役所を最短ルートで突破するための必須装備（持ち物）、窓口神フレーズ、そして絶対に回避すべき3大トラップを徹底解説！"
 slug: "street-japanese-city-hall-resident-registration-dungeon-guide"
 date: "2026-10-14T08:00:00+09:00"
-thumbnail: "assets/images/posts/street-city-hall-counter-guide.jpg"
+thumbnail: "assets/images/posts/street-city-hall-counter-guide.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N3"

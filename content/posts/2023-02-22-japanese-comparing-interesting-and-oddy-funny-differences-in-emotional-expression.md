@@ -3,7 +3,7 @@ title: "くらべてみました：「おもしろい」VS「おかしい」の�
 description: "「面白い」と「可笑しい」。どちらも英語ではInterestingやFunnyと訳されるのに、同僚に『鈴木さんはおかしいですね！』と言ったら空気が凍りついた！？ユーモアと異常性の境界線から、日本人の感情表現の深層まで徹底解説！"
 slug: "japanese-comparing-interesting-and-oddy-funny-differences-in-emotional-expression"
 date: "2023-02-22T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-interesting-odd.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-interesting-odd.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

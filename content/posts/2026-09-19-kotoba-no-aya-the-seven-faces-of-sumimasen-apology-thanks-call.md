@@ -4,7 +4,7 @@ title: "ことばのあや：日本人が1日に100回言う「すみません�
 description: "エレベーターのドアを開けてもらった時、親切にしてもらった時に日本人が口にする『あ、すみません！』。親切にされたのになぜ謝るの！？『ごめんなさい』『ありがとう』『あのー』『失礼します』と万能に化ける魔法の言葉『すみません』の深層心理から、ビジネスで使える上位互換敬語まで徹底解説！"
 slug: "kotoba-no-aya-the-seven-faces-of-sumimasen"
 date: "2026-09-19T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-sumimasen-faces.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-sumimasen-faces.webp"
 categories:
   - "ことばのあや"
 jlpt: "N2"

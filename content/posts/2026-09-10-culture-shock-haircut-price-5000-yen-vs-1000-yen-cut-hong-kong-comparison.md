@@ -12,7 +12,7 @@ tags:
   - 日本文化・マナー
   - JLPT N3
   - JLPT N2
-thumbnail: "assets/images/thumbnails/thumb-culture-haircut-price.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-haircut-price.webp"
 description: "香港なら約1,200円で切れる散髪が、日本では5,000円〜！？最初は「高すぎる！」と怯えていた香港出身のオスカーが、シャンプー・マッサージの極上ホスピタリティと1,000円カットの職人技を体験して納得した真実。"
 ---
 > 💬 <strong>オスカー</strong>  

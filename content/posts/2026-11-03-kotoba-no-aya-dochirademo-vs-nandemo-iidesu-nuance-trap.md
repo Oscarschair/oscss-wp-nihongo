@@ -3,7 +3,7 @@ title: "ことばのあや：「どちらでもいいです」VS「なんでも�
 description: "「ランチ何食べる？」「なんでもいいです」「A案とB案どっちにする？」「どちらでもいいです」……自分では気遣いのつもり配慮した返答が、相手には『興味ないの？やる気ある？』と最悪の印象を与えているかも！？好感度を劇的に上げる大人のポジティブ言い換え術を徹底解説！"
 slug: "kotoba-no-aya-dochirademo-vs-nandemo-iidesu-nuance-trap"
 date: "2026-11-03T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-dochirademo.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-dochirademo.webp"
 categories:
   - "ことばのあや"
 jlpt: "N3"

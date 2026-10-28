@@ -4,7 +4,7 @@ title: "街角サバイバル：不在票ダンジョンと再配達の試練｜
 description: "日本でネット通販を頼んだら、ポストに謎の紙切れが……！『ご不在連絡票』の解読から、当日再配達のタイムリミット、自動音声電話のプッシュボタン操作、LINEやWEBでの最短申し込み、そして置き配の指定まで、日本の超便利でちょっぴり複雑な宅配サバイバル術を徹底解説！"
 slug: "street-japanese-delivery-redelivery-undelivered-notice-dungeon-guide"
 date: "2026-10-07T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-delivery-redelivery.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-delivery-redelivery.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N2"

@@ -3,7 +3,7 @@ title: "ことばのあや：「お邪魔します」の深層心理と玄関マ
 description: "日本人の友達の家に遊びに行ったら、入るときに「お邪魔します」、帰るときに「お邪魔しました」……なぜ感謝ではなく『邪魔（Jam / Nuisance）』と言うの？日本人の謙譲の美学と、靴の脱ぎ方・揃え方まで、招かれたときに絶対に恥をかかない訪問マナーを徹底解説！"
 slug: "kotoba-no-aya-ojamashimasu-visit-etiquette-and-mindset"
 date: "2026-10-30T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-ojamashimasu.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-ojamashimasu.webp"
 categories:
   - "ことばのあや"
 jlpt: "N3"

@@ -4,7 +4,7 @@ title: "カルチャーショック：日本のスーパーに潜む「賞味期
 description: "スーパーの食品に印刷された『賞味期限』と『消費期限』。どっちが切れたら危険なの！？1日でも過ぎたら捨てなきゃダメ？日本の厳しい食品表示ルールのカラクリから、閉店間際のスーパーで繰り広げられる『半額シール貼り』の熱狂的サバイバルまで徹底解説！"
 slug: "culture-shock-shoumi-kigen-vs-shouhi-kigen-discount-stickers"
 date: "2026-10-12T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-expiration-date.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-expiration-date.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N2"

@@ -3,7 +3,7 @@ title: "ことばのあや：自己主張と情報伝達の終助詞「よ」の
 description: "「明日雨が降るよ」「これ美味しいよ！」相手が知らない情報を親切に教える終助詞「よ」。でも使い方を誤ると『上から目線で押し付けがましい』と反感を買ってしまう危険も！？『よ』の持つ本質的な役割とビジネス・日常会話でのスマートな活用法を徹底解説！"
 slug: "kotoba-no-aya-how-to-use-the-final-particle-yo-for-effective-conversation"
 date: "2024-07-05T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-yo.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-yo.webp"
 categories:
   - "ことばのあや"
 jlpt: "N3"

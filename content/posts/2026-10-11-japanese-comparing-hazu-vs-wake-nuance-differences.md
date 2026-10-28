@@ -4,7 +4,7 @@ title: "くらべてみました：「はずです」VS「わけです」の違�
 description: "「明日は雨が降るはずです」と「明日は雨が降るわけです」って何が違うの！？日本語学習者を最も悩ませる二大形式名詞『はず』と『わけ』。「当然そうなる」という根拠の性質から、日常会話・ビジネスでの使い分け、そして否定形（はずがない VS わけがない）の決定的な違いまで徹底解説！"
 slug: "japanese-comparing-hazu-vs-wake-nuance-differences"
 date: "2026-10-11T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-hazu-wake-logic.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-hazu-wake-logic.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

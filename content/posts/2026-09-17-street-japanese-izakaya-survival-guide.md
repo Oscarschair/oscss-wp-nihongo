@@ -4,7 +4,7 @@ title: "街角サバイバル：居酒屋の洗礼「お通し」と乾杯の呪
 description: "日本の居酒屋で席に着いた瞬間、頼んでもいないのに勝手に出てくる小鉢の料理『お通し（突き出し）』！『これ頼んでません！』と断って店員と気まずくなった外国人多数！？席料・チャージ文化の真実から、乾杯時の『とりあえず生』のチームワーク心理、そして両手で作る『バツ印（チェック）』の会計合図まで徹底解説！"
 slug: "street-japanese-izakaya-survival-guide"
 date: "2026-09-17T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-izakaya-survival.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-izakaya-survival.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N2"

@@ -4,7 +4,7 @@ title: "カルチャーショック：なぜ日本の電車では電話もダメ
 description: "海外の地下鉄なら大声での通話や飲食は日常茶飯事なのに、日本の電車に乗った瞬間、図書館のような異様な静けさに息を呑む外国人！なぜ日本の電車内では通話が絶対NGなのか？新聞や大きな荷物が嫌がられる理由とは？心理的パーソナルスペースの哲学から、急な着信をスマートに切る神対応フレーズまで徹底解説！"
 slug: "culture-shock-why-no-phone-calls-and-newspapers-on-japanese-trains"
 date: "2026-10-05T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-train-silence.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-train-silence.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N2"

@@ -3,7 +3,7 @@ title: "くらべてみました：【徹底比較】「〜ておく」VS「〜�
 description: "「窓を開けておく」と「窓が開けてある」……どちらも窓が開いている状態だけど、何が違うの？日本語学習者が初級後半〜中級で必ずつまずく「ておく（準備）」と「てある（結果の状態）」の決定的なニュアンス差を、クルマと先生がスッキリ整理します！"
 slug: "japanese-comparing-teoku-vs-tearu-preparation-state-differences"
 date: "2026-10-20T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-teoku-tearu.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-teoku-tearu.webp"
 categories:
   - "くらべてみました"
 jlpt: "N4"

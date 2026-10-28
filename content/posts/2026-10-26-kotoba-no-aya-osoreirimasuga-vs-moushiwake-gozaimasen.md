@@ -3,7 +3,7 @@ title: "ことばのあや：「恐れ入りますが」と「申し訳ござい
 description: "人に頼み事をするとき、何でも「すみません」「申し訳ございません」と言っていませんか？実は謝る必要がない場面で謝りすぎると自信がなく見えてしまう！お願いの威力を100倍高める『恐れ入りますが』と本当の謝罪『申し訳ございません』の美しい境界線を徹底解説！"
 slug: "kotoba-no-aya-osoreirimasuga-vs-moushiwake-gozaimasen"
 date: "2026-10-26T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-osoreirimasu.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-osoreirimasu.webp"
 categories:
   - "ことばのあや"
 jlpt: "N2"

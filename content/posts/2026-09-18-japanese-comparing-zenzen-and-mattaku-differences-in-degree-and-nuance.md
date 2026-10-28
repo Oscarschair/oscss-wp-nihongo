@@ -4,7 +4,7 @@ title: "くらべてみました：「全然」VS「全く」の違いとは？�
 description: "「全然わかりません」と「全くわかりません」って何が違うの！？本来は否定を伴う言葉だった『全然』が、なぜ若者言葉で『全然おいしい！』『全然平気！』と肯定で使われるようになったのか？フォーマル度の決定的な差から、JLPT頻出の否定呼応構文まで徹底解説！"
 slug: "japanese-comparing-zenzen-and-mattaku-differences"
 date: "2026-09-18T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-zenzen-mattaku.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-zenzen-mattaku.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

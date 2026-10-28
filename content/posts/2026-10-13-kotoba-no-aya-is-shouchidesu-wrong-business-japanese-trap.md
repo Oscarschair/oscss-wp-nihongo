@@ -4,7 +4,7 @@ title: "ことばのあや：「承知です」は実は間違い！？｜「承
 description: "日本のオフィスやチャットで、上司からの連絡に「承知です！」と元気よく返信していませんか？怒られはしないけれど、実は日本語として少し不自然なグレーゾーン敬語。「承知＋です」が違和感を持たれる理由と、ビジネスで一目置かれる正しい言い換え表現を徹底解説！"
 slug: "kotoba-no-aya-is-shouchidesu-wrong-business-japanese-trap"
 date: "2026-10-13T08:00:00+09:00"
-thumbnail: "assets/images/posts/kotoba-shouchidesu-confusion.jpg"
+thumbnail: "assets/images/posts/kotoba-shouchidesu-confusion.webp"
 categories:
   - "ことばのあや"
 jlpt: "N2"

@@ -4,7 +4,7 @@ title: "ことばのあや：手土産を渡すときの「つまらないもの
 description: "日本人の家や取引先を訪問した時、相手がデパ地下の高級和菓子を差し出しながら放つ『つまらないものですが、どうぞ』の一言！『つまらないものなら要らないよ！』と腹を立てた外国人多数！？なぜ最高のお土産をわざわざ悪く言うのか？日本の『謙遜文化』の極意から現代のスマートな言い換えフレーズまで徹底解説！"
 slug: "kotoba-no-aya-tsumaranai-mono-gift-giving-psychology"
 date: "2026-09-27T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-tsumaranai-mono.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-tsumaranai-mono.webp"
 categories:
   - "ことばのあや"
 jlpt: "N1"

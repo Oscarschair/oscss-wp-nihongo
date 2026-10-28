@@ -4,7 +4,7 @@ title: "ことばのあや：久しぶりに会った日本人が口にする「
 description: "数ヶ月ぶり、あるいは数年ぶりに再会した仕事相手や知人から『あ、クルマさん！ その節はどうも！』と頭を下げられてパニック！？『その節って具体的にいつのこと！？何のお礼！？』と記憶喪失に陥る外国人多数！日本の人間関係を円滑にする『その節』の魔法の役割からビジネスでの再会プロトコルまで徹底解説！"
 slug: "kotoba-no-aya-sonosetsu-wa-doumo"
 date: "2026-09-20T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-sonosetsu.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-sonosetsu.webp"
 categories:
   - "ことばのあや"
 jlpt: "N1"

@@ -3,7 +3,7 @@ title: "カルチャーショック：日本のハロウィンとクリスマス
 description: "クリスマスにケンタッキーを予約し、ショートケーキを食べる日本独自の進化！一方で、かつて過熱したハロウィンの渋谷は近年「路上飲酒禁止条例」や駅周辺の警備など厳格な規制が敷かれています。「外国人だからお祭り騒ぎで許される」は絶対に通用しない！日本の年中行事を安全に楽しむための必須ルールとマナーを徹底解説！"
 slug: "culture-shock-japan-style-halloween-and-christmas-fried-chicken"
 date: "2026-10-31T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-halloween-christmas.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-halloween-christmas.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N3"

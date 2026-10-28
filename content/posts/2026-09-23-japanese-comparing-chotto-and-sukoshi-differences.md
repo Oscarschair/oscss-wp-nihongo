@@ -4,7 +4,7 @@ title: "くらべてみました：「ちょっと」VS「少し」の違いと�
 description: "「ちょっと待ってください」と「少しお待ちください」って何が違うの！？日常会話で1日に何度も使う『ちょっと』と『少し』。実は『ちょっと』には数量だけでなく『言いにくいことを断る』『相手を呼び止める』などの裏の顔が満載！フォーマル度の使い分けから敬語表現まで徹底解説！"
 slug: "japanese-comparing-chotto-and-sukoshi-differences"
 date: "2026-09-23T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-chotto-sukoshi.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-chotto-sukoshi.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

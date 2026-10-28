@@ -3,7 +3,7 @@ title: "カルチャーショック：なぜ日本のゴミ分別はこんなに
 description: "日本に引っ越して最大のカルチャーショックが『ゴミの分別』！「燃えるごみ」と「燃やすごみ」の言葉に隠された行政の深い意図とは？ペットボトルのキャップ外しから粗大ごみ予約、自治体ごとにガラリと変わる指定袋や焼却炉の事情まで、外国人が絶対に知っておくべきゴミ出しの神ルールを徹底解説！"
 slug: "culture-shock-garbage-sorting-rules-burnable-recyclable-in-japan"
 date: "2026-10-19T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-garbage-sorting.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-garbage-sorting.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N3"

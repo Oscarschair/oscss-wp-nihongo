@@ -3,7 +3,7 @@ title: "街角サバイバル：スーパーの「セルフレジ＆ポイント
 description: "「ポイントカードはお持ちですか？」「画面の確認ボタンを押してください」「お会計方法をお選びください！」……スーパーのセルフレジで流れる早口な機械アナウンスに焦って冷や汗をかいていませんか？買い物が10倍スムーズになるセルフレジ完全操作マニュアルと、レジ袋・ポイントの受け答えを徹底解説！"
 slug: "street-japanese-supermarket-self-checkout-point-card-guide"
 date: "2026-10-21T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-supermarket-self-checkout.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-supermarket-self-checkout.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N3"

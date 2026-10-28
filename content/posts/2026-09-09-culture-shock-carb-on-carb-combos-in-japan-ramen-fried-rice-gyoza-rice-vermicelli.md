@@ -11,7 +11,7 @@ tags:
   - 食文化
   - 日本文化・マナー
   - JLPT N2
-thumbnail: "assets/images/thumbnails/thumb-culture-carb-combo.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-carb-combo.webp"
 description: "香港や中華圏では炒飯も餃子もビーフンも1品で完結する「主食」。なのに日本の定食屋では「ラーメン＋半チャーハン」「餃子定食」「焼きそばパン」と主食×主食のオンパレード！？食文化の決定的な違いと魅力を徹底解説。"
 ---
 > 💬 <strong>オスカー</strong>  

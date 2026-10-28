@@ -3,7 +3,7 @@ title: "カルチャーショック：電車で爆睡しても財布が盗まれ
 description: "スマホを膝の上に置いたまま、満員電車で立ったまま熟睡する日本人！？海外なら『どうぞ盗んでください』と言わんばかりの無防備な光景が、なぜ日本中どこでも見られるの？世界屈指の治安の良さと、日本独特の『居眠り＝勤勉の証』という驚きの文化論を徹底解説！"
 slug: "culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture"
 date: "2026-09-04T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-train-sleeping.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-train-sleeping.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N2"

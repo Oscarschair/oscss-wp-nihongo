@@ -4,7 +4,7 @@ title: "街角サバイバル：駅の「自動改札ダンジョン」と残高
 description: "朝のラッシュ時、改札機にICカードをかざした瞬間に『ピンポーン！』と赤いゲートが閉まって後ろの人を玉突き事故に巻き込んだ外国人旅行者たち！なぜ日本の改札はタッチパネルが全部『右側』にあるのか？残高不足時の『のりこし精算機』の使い方からモバイルICカードの電波トラブルまで徹底解説！"
 slug: "street-japanese-station-ticket-gate-dungeon-guide"
 date: "2026-09-16T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-station-ticket-gate.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-station-ticket-gate.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N2"

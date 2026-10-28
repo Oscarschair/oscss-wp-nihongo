@@ -11,7 +11,7 @@ tags:
   - 街歩き・交通
   - 日本文化・マナー
   - JLPT N3
-thumbnail: "assets/images/thumbnails/thumb-culture-cars-stop.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-cars-stop.webp"
 description: "香港や海外では「車が途切れる隙を狙って命がけでダッシュ」が当たり前。なのに日本の信号のない横断歩道で右手をピッと挙げたら、車がスーッと減速して完全停止！？日本の歩行者優先文化とドライバーの優しさに感動した話。"
 ---
 > 💬 <strong>オスカー</strong>  

@@ -4,7 +4,7 @@ title: "街角サバイバル：日本の「傘立てダンジョン」とビニ
 description: "雨の日に日本のカフェや居酒屋の傘立てに置いた『ビニール傘』が、帰る時に綺麗さっぱり消え失せていた！？『世界一治安が良いはずの日本で、なぜ傘だけは平気で盗まれるの！？』。鍵付き傘立ての使い方から、電車や店内を濡らさない傘袋マナー、そして傘の取り違えを防ぐ目印テクニックまで徹底解説！"
 slug: "street-japanese-rainy-day-umbrella-stand-dungeon-guide"
 date: "2026-09-29T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-umbrella-stand.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-umbrella-stand.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N2"

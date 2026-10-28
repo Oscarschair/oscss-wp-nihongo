@@ -3,7 +3,7 @@ title: "くらべてみました：【徹底比較】「〜ようにする」VS�
 description: "「毎朝野菜を食べるようにしている（個人の意志・習慣）」と「来月から大阪に転勤することになった（組織の決定・運命）」……日本語の『ようにする』と『ことになる』は何が違う？日本人が自分の決定をあえて『ことになる』と受動的に表現する心理まで徹底解説！"
 slug: "japanese-comparing-younisuru-vs-kotoninaru-will-and-decision"
 date: "2026-10-28T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-younisuru-kotoninaru.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-younisuru-kotoninaru.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

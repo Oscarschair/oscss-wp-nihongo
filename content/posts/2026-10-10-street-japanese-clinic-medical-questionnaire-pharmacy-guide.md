@@ -4,7 +4,7 @@ title: "街角サバイバル：日本のクリニックと「処方箋薬局」
 description: "風邪を引いて日本の内科クリニックに駆け込んだら、受付で渡されたのは超難読な『問診票』だった！？熱・咳・鼻水・頭痛の伝え方から、お医者さんの前での症状説明フレーズ、そして病院の外にある『調剤薬局』で薬を受け取るまでの全ステップを徹底解説！"
 slug: "street-japanese-clinic-medical-questionnaire-pharmacy-guide"
 date: "2026-10-10T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-clinic-dungeon.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-clinic-dungeon.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N2"

@@ -3,7 +3,7 @@ title: "カルチャーショック：真冬の雪の日でも氷水！？香港
 description: "外は氷点下の真冬、震えながら入った日本の定食屋で最初に出されたのは……カランと音を立てる山盛りの氷水！？なぜ日本人は年中『お冷』を出すの？中華圏の白湯・温水文化との対比から、江戸時代から続く日本の水への誇りとおもてなし精神まで徹底解説！"
 slug: "culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture"
 date: "2026-09-04T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-ice-water.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-ice-water.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N2"

@@ -11,7 +11,7 @@ tags:
   - 日本文化・マナー
   - 生活・手続き
   - JLPT N3
-thumbnail: "assets/images/thumbnails/thumb-culture-cash-on-delivery.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-cash-on-delivery.webp"
 description: "海外では常識の「お釣りは取っておいて（Keep the change）」。日本の代引きで配達員さんに言ったら「1円たりとも受け取れません！」と全力で断られた！？日本人がチップを頑なに受け取らない本当の理由とおもてなし哲学。"
 ---
 > 💬 <strong>オスカー</strong>  

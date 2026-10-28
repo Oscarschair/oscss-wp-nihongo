@@ -4,7 +4,7 @@ title: "ことばのあや：日本人の「適当にやっておいて」に隠
 description: "上司から『クルマくん、この資料、適当にまとめておいて！』と言われて大パニック！？『テキトーでいい＝手抜きしてOK？それとも適切に完璧にやれってこと！？』。相反する2つの顔を持つ日本語屈指のトラップ単語『適当』の語源から、ビジネスでの正しい対処法まで徹底解説！"
 slug: "kotoba-no-aya-the-trap-of-tekitou-proper-or-careless"
 date: "2026-09-25T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-tekitou-trap.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-tekitou-trap.webp"
 categories:
   - "ことばのあや"
 jlpt: "N2"

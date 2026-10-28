@@ -11,7 +11,7 @@ tags:
   - 日常会話
   - JLPT N3
   - JLPT N2
-thumbnail: "assets/images/thumbnails/thumb-kurabete-sayonara-matane.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kurabete-sayonara-matane.webp"
 description: "教科書で一番最初に習う「さようなら」。でも実際の日本人は友達や同僚にほとんど「さようなら」と言わない！？「二度と会えない永遠の別れ」を連想させる語源の歴史と、日常で飛び交う「またね・じゃあね」の温かい心理。"
 ---
 > 💬 <strong>オスカー</strong>  

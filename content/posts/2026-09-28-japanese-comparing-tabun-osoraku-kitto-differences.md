@@ -4,7 +4,7 @@ title: "くらべてみました：「たぶん」VS「おそらく」VS「き�
 description: "「明日はたぶん雨です」「明日はおそらく雨です」「明日はきっと雨です」って何が違うの！？すべて英語の『Probably / Maybe / Surely』で片付けられない日本語の三大推量副詞！確信度の違い（50%・80%・90%）からビジネスでの報告マナーまで徹底解説！"
 slug: "japanese-comparing-tabun-osoraku-kitto-differences"
 date: "2026-09-28T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-comparing-tabun-osoraku-kitto.jpg"
+thumbnail: "assets/images/thumbnails/thumb-comparing-tabun-osoraku-kitto.webp"
 categories:
   - "くらべてみました"
 jlpt: "N3"

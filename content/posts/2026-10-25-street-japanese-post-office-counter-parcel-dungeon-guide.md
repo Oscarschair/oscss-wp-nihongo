@@ -3,7 +3,7 @@ title: "街角サバイバル：郵便局の窓口ダンジョン完全攻略ガ
 description: "「中身は信書ですか？」「割れ物や危険物は入っていませんか？」「航空搭載できないものは？？」郵便局の窓口で突然聞かれる専門用語にドキマギしていませんか？手紙や荷物を母国へ送るEMSから、日本国内の安くて便利なレターパックの使い方まで完全網羅します！"
 slug: "street-japanese-post-office-counter-parcel-dungeon-guide"
 date: "2026-10-25T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-street-post-office.jpg"
+thumbnail: "assets/images/thumbnails/thumb-street-post-office.webp"
 categories:
   - "街角サバイバル"
 jlpt: "N3"

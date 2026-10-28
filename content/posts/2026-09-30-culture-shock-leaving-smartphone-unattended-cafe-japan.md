@@ -4,7 +4,7 @@ title: "カルチャーショック：なぜ日本人はカフェで「スマホ
 description: "日本のスターバックスで、テーブルの上に最新のMacBookやiPhone、さらには財布を置いたままトイレへ消えていく日本人たち！海外なら『3秒で盗まれる』危険行為が、なぜ日本では平然と成立しているのか？落とし物が100%返ってくる奇跡の警察システムから防犯の落とし穴まで徹底解説！"
 slug: "culture-shock-leaving-smartphone-unattended-cafe-japan"
 date: "2026-09-30T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-culture-unattended-smartphone.jpg"
+thumbnail: "assets/images/thumbnails/thumb-culture-unattended-smartphone.webp"
 categories:
   - "カルチャーショック"
 jlpt: "N2"

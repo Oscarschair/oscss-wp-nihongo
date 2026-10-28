@@ -3,7 +3,7 @@ title: "ことばのあや：会話が劇的にスムーズになる魔法の終
 description: "「明日って雨だよね？」「これ美味しいですよね！」日常会話からビジネスチャットまで日本人が1日に何十回も使う終助詞「よね」。「ね」や「よ」と何が違うの？目上の人に使って大丈夫？相手との心理的距離を縮め、角を立てずに確認・共感を引き出す最強の日本語コミュニケーション術を徹底解説！"
 slug: "kotoba-no-aya-how-to-use-the-final-particle-yone-for-smooth-conversation"
 date: "2026-09-05T08:00:00+09:00"
-thumbnail: "assets/images/thumbnails/thumb-kotoba-yone.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-yone.webp"
 categories:
   - "ことばのあや"
 jlpt: "N3"

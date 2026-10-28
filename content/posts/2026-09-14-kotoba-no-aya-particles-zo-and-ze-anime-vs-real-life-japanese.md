@@ -11,7 +11,7 @@ tags:
   - 日本語文法
   - 日常会話
   - JLPT N3
-thumbnail: "assets/images/thumbnails/thumb-kotoba-zo-ze.jpg"
+thumbnail: "assets/images/thumbnails/thumb-kotoba-zo-ze.webp"
 description: "「行くぞ！」「うまいぜ！」アニメで主人公たちが毎日かっこよく連発する終助詞「ぞ」「ぜ」。でも現実の日本人が居酒屋や職場で使ったら超不自然！？アニメ独自のキャラクター記号（役割語）と現実会話での正しい使い分け。"
 ---
 > 💬 <strong>オスカー</strong>  
