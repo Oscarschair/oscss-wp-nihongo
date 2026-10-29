@@ -28,6 +28,20 @@
       },
       {
         "description": "記事本文の日本語校正・てにをは・誤字脱字チェック"
+      },
+      {
+        "agent": "sns-growth-expert",
+        "description": "記事公開・予約時の公式X（@nihongooscss）向け高エンゲージメント告知ポスト＆リプライツリー案の自動生成・アカウント整合性検証"
+      }
+    ],
+    "sns_post_creation": [
+      {
+        "agent": "sns-growth-expert",
+        "description": "公式X（https://x.com/nihongooscss）向けのポスト企画・フック設計・タグ最適化・アカウント誤爆防止ガード（target_handle=nihongooscss）"
+      },
+      {
+        "agent": "flame-prevention-guardian",
+        "description": "SNS告知文の炎上リスク・過度な断定・ステレオタイプ表現の事前監査"
       }
     ],
     "manga_creation": [
@@ -78,6 +92,13 @@
     "pre_deploy": [
       {
         "description": "マルチデバイス（PC 1280px / SP 375px）画面崩れ・レイアウト検証チェック"
+      }
+    ],
+    "scheduled_daily_x": [
+      {
+        "agent": "sns-growth-expert",
+        "cron": "0 8 * * *",
+        "description": "毎日朝8時（JST）に過去記事（Post #1〜）から順番に ai.oscarchair.jp で投稿文・タグを生成し、公式X（@nihongooscss）へメインポスト＋URLリプライを自動投稿"
       }
     ],
     "scheduled_weekly": [

@@ -50,3 +50,6 @@ scripts/post_*.html
 sp_*.png
 /*.png
 scripts/tmp/
+scripts/backup/
+*storage_state*.json
+logs/

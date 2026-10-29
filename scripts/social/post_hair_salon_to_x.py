@@ -12,15 +12,13 @@ if sys.platform == "win32":
         pass
 
 ROOT_DIR = r"c:\Users\user\git\oscss-wp-nihongo"
-THEME_DIR = r"c:\Users\user\git\oscss-wp-theme"
-USER_DATA_DIR = os.path.join(THEME_DIR, "scripts", "tmp", "x_user_data")
-STATE_FILE = os.path.join(THEME_DIR, "scripts", "tmp", "x_storage_state.json")
+USER_DATA_DIR = os.path.join(ROOT_DIR, "scripts", "tmp", "x_user_data_nihongo")
+STATE_FILE = os.path.join(ROOT_DIR, "scripts", "tmp", "x_storage_state_nihongo.json")
 BACKUP_STATE_FILES = [
-    os.path.join(THEME_DIR, "scripts", "backup", "x_storage_state.json"),
-    os.path.join(os.path.expanduser("~"), ".gemini", "x_storage_state.json"),
+    os.path.join(ROOT_DIR, "scripts", "backup", "x_storage_state_nihongo.json"),
 ]
 
-sys.path.append(os.path.join(THEME_DIR, "scripts"))
+sys.path.insert(0, os.path.dirname(__file__))
 try:
     import x_account_guard
 except ImportError:
@@ -98,9 +96,9 @@ def post_to_x():
             if "login" in page.url:
                 raise RuntimeError("セッションが切れています。再ログインが必要です。")
 
-            # アカウントガード検証
+            # アカウントガード検証（本PJ専用Xアカウント: @nihongooscss）
             if x_account_guard:
-                x_account_guard.verify_and_switch_to_target_account(page, target_handle="ChairOscar")
+                x_account_guard.verify_and_switch_to_target_account(page, target_handle="nihongooscss")
 
             print("2. 投稿作成ページへ遷移...")
             page.goto("https://x.com/compose/post", wait_until="domcontentloaded", timeout=30000)

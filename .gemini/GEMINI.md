@@ -44,6 +44,7 @@
 - **Theme-Developer**: `functions/` 配下のモジュール分割、エスケープ徹底。
 - **Content-Writer**: 連載記事執筆、BLUF原則、`**` 禁止・HTMLタグ強調。
 - **Thumbnail-Artist**: 主人公オスカー画像生成、多彩なポーズ切り替え。
+- **SNS-Growth-Expert**: 本PJ専用の公式Xアカウント [`@nihongooscss`](https://x.com/nihongooscss) 専門のSNS運用・告知ポスト作成・コミュニティ交流エージェント（[`.gemini/agents/sns-growth-expert.md`](file:///c:/Users/user/git/oscss-wp-nihongo/.gemini/agents/sns-growth-expert.md)）。※メインサイトの `@ChairOscar` と混同しないよう `target_handle="nihongooscss"` に完全分離。
 - **Flame-Prevention-Guardian**: SNS炎上・怪しい発言・迷惑行為助長・商標/差別表現の防止監査。
 - **Red Team QA**: SEO・画像・レイアウト・炎上リスクの独立した客観的監査役。
 
