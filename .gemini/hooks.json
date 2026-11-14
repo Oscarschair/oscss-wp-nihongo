@@ -34,6 +34,13 @@
         "description": "記事公開・予約時の公式X（@nihongooscss）向け高エンゲージメント告知ポスト＆リプライツリー案の自動生成・アカウント整合性検証"
       }
     ],
+    "post_schedule_publish": [
+      {
+        "agent": "wp-supervisor",
+        "command": "python scripts/deployment/sync_git_after_schedule.py --execute",
+        "description": "予約投稿・公開完了直後にローカル/リモートのGit差分を最新化（git commit / pull --rebase / push origin main による自動同期）"
+      }
+    ],
     "sns_post_creation": [
       {
         "agent": "sns-growth-expert",

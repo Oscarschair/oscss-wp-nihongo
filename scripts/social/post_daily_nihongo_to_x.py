@@ -658,6 +658,54 @@ Xの280ウェイト（全角140文字）制限に余裕をもって収めるた�
     return main_tweet, reply_tweet
 
 
+def _build_verify_keys(tweet_text):
+    verify_keys = []
+    for line in tweet_text.splitlines():
+        line_c = line.strip()
+        if len(line_c) >= 6 and not line_c.startswith("#") and "ブックマーク" not in line_c:
+            verify_keys.append(line_c[:12])
+            if len(verify_keys) >= 3:
+                break
+    return verify_keys
+
+
+def _find_post_on_profile(page, target_handle, verify_keys, reload_attempts=1):
+    """プロフィール画面上で verify_keys に一致するポストを検索し、(matched, status_href) を返す"""
+    for r_idx in range(reload_attempts):
+        if r_idx == 0:
+            page.goto(f"https://x.com/{target_handle}", wait_until="domcontentloaded", timeout=30000)
+        else:
+            print(f"  ⏳ プロフィール反映待機・リロード再確認中 ({r_idx + 1}/{reload_attempts})...")
+            time.sleep(6)
+            page.reload(wait_until="domcontentloaded", timeout=30000)
+
+        try:
+            page.wait_for_selector('article[data-testid="tweet"]', timeout=15000)
+        except Exception:
+            pass
+        time.sleep(3)
+
+        for scroll_y in [0, 320, 150, 450]:
+            page.evaluate(f"window.scrollTo(0, {scroll_y})")
+            time.sleep(1.8)
+            tweets = page.locator('article[data-testid="tweet"]')
+            t_count = tweets.count()
+            for t_idx in range(min(t_count, 8)):
+                cand_tweet = tweets.nth(t_idx)
+                t_text = cand_tweet.inner_text()
+                for vk in verify_keys:
+                    if vk and vk in t_text:
+                        status_href = None
+                        links = cand_tweet.locator('a[href*="/status/"]')
+                        for l_idx in range(links.count()):
+                            href = links.nth(l_idx).get_attribute("href")
+                            if href and "/status/" in href and "/photo/" not in href and "/analytics" not in href:
+                                status_href = href
+                                break
+                        return True, status_href, vk
+    return False, None, None
+
+
 def post_to_x_via_playwright(tweet_text, reply_text, image_path=None, headless=True, target_handle=TARGET_HANDLE):
     if not ensure_state_file():
         raise FileNotFoundError(
@@ -668,6 +716,8 @@ def post_to_x_via_playwright(tweet_text, reply_text, image_path=None, headless=T
     weight = count_x_weight(tweet_text)
     if weight > 275:
         raise ValueError(f"メインポストの文字数ウェイトが上限を超えています ({weight}/280)")
+
+    verify_keys = _build_verify_keys(tweet_text)
 
     print("=" * 65)
     print(f"🚀 X (@{target_handle}) 自動投稿を開始します (ウェイト: {weight}/280)")
@@ -731,103 +781,109 @@ def post_to_x_via_playwright(tweet_text, reply_text, image_path=None, headless=T
             if x_account_guard:
                 x_account_guard.verify_and_switch_to_target_account(page, target_handle=target_handle)
 
-            print("2. 投稿作成ページ (compose/post) へ遷移...")
-            page.goto("https://x.com/compose/post", wait_until="domcontentloaded", timeout=30000)
-            time.sleep(3)
+            print(f"1.5. 重複防止チェック: プロフィール (https://x.com/{target_handle}) 上の既存ポストを確認中...")
+            already_matched, status_href, matched_vk = _find_post_on_profile(
+                page, target_handle, verify_keys, reload_attempts=1
+            )
 
-            editor = page.locator('div[data-testid="tweetTextarea_0"]').first
-            editor.wait_for(state="visible", timeout=15000)
-            editor.click()
-            time.sleep(0.4)
+            if already_matched:
+                print(
+                    f"🛡️ [重複防止ガード発動] 既にプロフィール上に同一ポストが存在します（キー: '{matched_vk}', URL: {status_href}）。"
+                    "メインポストの再送信をスキップします。"
+                )
+            else:
+                print("2. 投稿作成ページ (compose/post) へ遷移...")
+                page.goto("https://x.com/compose/post", wait_until="domcontentloaded", timeout=30000)
+                time.sleep(3)
 
-            page.keyboard.press("Control+A")
-            page.keyboard.press("Backspace")
-            time.sleep(0.3)
-            page.keyboard.insert_text(tweet_text)
-            time.sleep(0.5)
-            page.keyboard.press("Space")
-            time.sleep(0.5)
+                editor = page.locator('div[data-testid="tweetTextarea_0"]').first
+                editor.wait_for(state="visible", timeout=15000)
+                editor.click()
+                time.sleep(0.4)
 
-            if image_path and os.path.exists(image_path):
-                print(f"3. サムネイル画像をアップロード中... ({image_path})")
-                file_input = page.locator('input[data-testid="fileInput"]').first
-                file_input.set_input_files(image_path)
+                page.keyboard.press("Control+A")
+                page.keyboard.press("Backspace")
+                time.sleep(0.3)
+                page.keyboard.insert_text(tweet_text)
+                time.sleep(0.5)
+                page.keyboard.press("Space")
+                time.sleep(0.5)
+
+                if image_path and os.path.exists(image_path):
+                    print(f"3. サムネイル画像をアップロード中... ({image_path})")
+                    file_input = page.locator('input[data-testid="fileInput"]').first
+                    file_input.set_input_files(image_path)
+                    try:
+                        page.wait_for_selector('div[data-testid="attachments"]', timeout=20000)
+                        print("✅ 画像添付完了")
+                    except Exception as ie:
+                        print(f"⚠️ 画像添付待機タイムアウト: {ie}")
+                    time.sleep(3.0)
+
+                print("4. ポストボタンをクリックして送信...")
+                tweet_btn = page.locator('[role="dialog"] button[data-testid="tweetButton"], button[data-testid="tweetButton"]').first
+                tweet_btn.wait_for(state="visible", timeout=5000)
+
+                for _ in range(10):
+                    if tweet_btn.is_enabled():
+                        break
+                    time.sleep(1)
+
+                if not tweet_btn.is_enabled():
+                    raise RuntimeError("ポストボタンが無効（disabled）のままです。")
+
                 try:
-                    page.wait_for_selector('div[data-testid="attachments"]', timeout=20000)
-                    print("✅ 画像添付完了")
-                except Exception as ie:
-                    print(f"⚠️ 画像添付待機タイムアウト: {ie}")
-                time.sleep(2.5)
+                    tweet_btn.click(timeout=5000)
+                except Exception:
+                    tweet_btn.evaluate("el => el.click()")
 
-            print("4. ポストボタンをクリックして送信...")
-            tweet_btn = page.locator('[role="dialog"] button[data-testid="tweetButton"], button[data-testid="tweetButton"]').first
-            tweet_btn.wait_for(state="visible", timeout=5000)
-
-            for _ in range(10):
-                if tweet_btn.is_enabled():
-                    break
-                time.sleep(1)
-
-            if not tweet_btn.is_enabled():
-                raise RuntimeError("ポストボタンが無効（disabled）のままです。")
-
-            try:
-                tweet_btn.click(timeout=5000)
-            except Exception:
-                tweet_btn.evaluate("el => el.click()")
-            time.sleep(4)
-
-            try:
-                if page.locator('[role="dialog"] div[data-testid="tweetTextarea_0"]').first.is_visible():
-                    editor.click(force=True)
-                    time.sleep(0.3)
-                    page.keyboard.press("Control+Enter")
-                    time.sleep(3)
-            except Exception:
-                pass
-
-            print(f"5. プロフィールページ (https://x.com/{target_handle}) で実機反映を検証中...")
-            page.goto(f"https://x.com/{target_handle}", wait_until="domcontentloaded", timeout=30000)
-            time.sleep(5)
-
-            verify_keys = []
-            for line in tweet_text.splitlines():
-                line_c = line.strip()
-                if len(line_c) >= 6 and not line_c.startswith("#") and "ブックマーク" not in line_c:
-                    verify_keys.append(line_c[:12])
-                    if len(verify_keys) >= 3:
-                        break
-
-            matched = False
-            status_href = None
-            # プロフィールヘッダー分だけ軽くスクロールしてから検索（やりすぎると仮想スクロールでトップのツイートがDOMから消えるため 0 -> 320 -> 150 の順で検査）
-            for scroll_y in [0, 320, 150, 450]:
-                page.evaluate(f"window.scrollTo(0, {scroll_y})")
-                time.sleep(2)
-                tweets = page.locator('article[data-testid="tweet"]')
-                t_count = tweets.count()
-                for t_idx in range(min(t_count, 6)):
-                    cand_tweet = tweets.nth(t_idx)
-                    t_text = cand_tweet.inner_text()
-                    for vk in verify_keys:
-                        if vk and vk in t_text:
-                            matched = True
-                            print(f"🎉 プロフィール上でメインポスト反映を確認しました！（キー: '{vk}'）")
-                            links = cand_tweet.locator('a[href*="/status/"]')
-                            for l_idx in range(links.count()):
-                                href = links.nth(l_idx).get_attribute("href")
-                                if href and "/status/" in href and "/photo/" not in href and "/analytics" not in href:
-                                    status_href = href
-                                    break
+                # ダイアログ消失またはトースト通知を最大15秒待機（安易なControl+Enter追撃による二重送信を防止）
+                toast_status_href = None
+                dialog_closed = False
+                for wait_sec in range(15):
+                    time.sleep(1)
+                    try:
+                        toast_link = page.locator('[data-testid="toast"] a[href*="/status/"]').first
+                        if toast_link.count() > 0:
+                            t_href = toast_link.get_attribute("href")
+                            if t_href and "/status/" in t_href:
+                                toast_status_href = t_href
+                                dialog_closed = True
+                                break
+                    except Exception:
+                        pass
+                    try:
+                        if not page.locator('[role="dialog"] div[data-testid="tweetTextarea_0"]').first.is_visible():
+                            dialog_closed = True
                             break
-                    if matched:
+                    except Exception:
+                        dialog_closed = True
                         break
-                if matched:
-                    break
 
-            page.screenshot(path=os.path.join(TMP_DIR, "x_nihongo_profile_verified.png"))
-            if not matched:
-                raise RuntimeError(f"プロフィール上で投稿が確認できませんでした（検証キー: {verify_keys}）。")
+                if not dialog_closed:
+                    try:
+                        if page.locator('[role="dialog"] div[data-testid="tweetTextarea_0"]').first.is_visible() and tweet_btn.is_enabled():
+                            print("  ℹ️ クリック送信が未反応のため、Control+Enterで1回のみ送信を実行します...")
+                            editor.click(force=True)
+                            time.sleep(0.3)
+                            page.keyboard.press("Control+Enter")
+                            time.sleep(6)
+                    except Exception:
+                        pass
+                else:
+                    time.sleep(3)
+
+                print(f"5. プロフィールページ (https://x.com/{target_handle}) で実機反映を検証中...")
+                matched, found_href, matched_vk = _find_post_on_profile(
+                    page, target_handle, verify_keys, reload_attempts=3
+                )
+                status_href = found_href or toast_status_href
+                if matched:
+                    print(f"🎉 プロフィール上でメインポスト反映を確認しました！（キー: '{matched_vk}'）")
+
+                page.screenshot(path=os.path.join(TMP_DIR, "x_nihongo_profile_verified.png"))
+                if not matched and not toast_status_href:
+                    raise RuntimeError(f"プロフィール上で投稿が確認できませんでした（検証キー: {verify_keys}）。")
 
             if reply_text:
                 print("6. メインポストへの記事URLリプライ（ツリー1通目）を送信中...")
@@ -836,23 +892,41 @@ def post_to_x_via_playwright(tweet_text, reply_text, image_path=None, headless=T
                         status_url = f"https://x.com{status_href}" if status_href.startswith("/") else status_href
                         page.goto(status_url, wait_until="domcontentloaded", timeout=30000)
                         time.sleep(4)
-                        reply_editor = page.locator('div[data-testid="tweetTextarea_0"]').first
-                        reply_editor.wait_for(state="visible", timeout=15000)
-                        reply_editor.scroll_into_view_if_needed()
-                        time.sleep(0.4)
-                        reply_editor.click()
-                        time.sleep(0.4)
-                        page.keyboard.insert_text(reply_text)
-                        time.sleep(0.6)
-                        page.keyboard.press("Space")
-                        time.sleep(0.4)
-                        page.keyboard.press("Escape")
-                        time.sleep(0.4)
-                        send_btn = page.locator('button[data-testid="tweetButtonInline"], button[data-testid="tweetButton"]').first
-                        if send_btn.count() > 0:
-                            send_btn.evaluate("el => el.click()")
-                            time.sleep(4)
-                        print("✅ 記事URLリプライ（ツリー1通目）の送信が完了しました！🎉")
+                        body_txt = ""
+                        try:
+                            body_txt = page.locator("body").inner_text()
+                        except Exception:
+                            pass
+                        reply_check_key = reply_text.splitlines()[0][:14] if reply_text else "学習ノート #"
+                        if reply_check_key in body_txt:
+                            print("🛡️ [リプライ重複防止] 既にスレッド上にリプライが存在するため送信をスキップしました。")
+                        else:
+                            reply_editor = page.locator('div[data-testid="tweetTextarea_0"]').first
+                            if not reply_editor.is_visible():
+                                reply_btn = page.locator('article[data-testid="tweet"] button[data-testid="reply"]').first
+                                if reply_btn.count() > 0:
+                                    reply_btn.click()
+                                    time.sleep(2.5)
+                                reply_editor = page.locator('div[data-testid="tweetTextarea_0"]').first
+                            reply_editor.wait_for(state="visible", timeout=15000)
+                            reply_editor.scroll_into_view_if_needed()
+                            time.sleep(0.4)
+                            reply_editor.click()
+                            time.sleep(0.4)
+                            page.keyboard.insert_text(reply_text)
+                            time.sleep(0.6)
+                            page.keyboard.press("Space")
+                            time.sleep(0.4)
+                            page.keyboard.press("Escape")
+                            time.sleep(0.4)
+                            send_btn = page.locator('button[data-testid="tweetButtonInline"], button[data-testid="tweetButton"]').first
+                            if send_btn.count() > 0:
+                                try:
+                                    send_btn.click(timeout=5000)
+                                except Exception:
+                                    send_btn.evaluate("el => el.click()")
+                                time.sleep(5)
+                            print("✅ 記事URLリプライ（ツリー1通目）の送信が完了しました！🎉")
                     else:
                         page.evaluate("window.scrollTo(0, 320)")
                         time.sleep(2)
@@ -877,7 +951,7 @@ def post_to_x_via_playwright(tweet_text, reply_text, image_path=None, headless=T
                             send_btn = dialog.locator('button[data-testid="tweetButton"]').first
                             if send_btn.count() > 0:
                                 send_btn.evaluate("el => el.click()")
-                                time.sleep(4)
+                                time.sleep(5)
                             print("✅ 記事URLリプライ（ツリー1通目）の送信が完了しました！🎉")
                 except Exception as re_err:
                     print(f"⚠️ リプライ送信警告（メイン投稿は成功済み）: {re_err}")
@@ -999,12 +1073,12 @@ def main():
 
     headless_mode = not args.visible
     last_err = None
-    main_tweet, reply_tweet = "", ""
+    # リトライごとに別文面が生成されて重複投稿になるのを防ぐため、文面生成はループ外で1回のみ実施
+    main_tweet, reply_tweet = generate_sns_post_with_ai(meta, retry_attempt=1)
 
     for attempt in range(1, args.max_retries + 1):
         try:
             print(f"\n🔄 投稿試行 [{attempt}/{args.max_retries}] (Post #{meta['post_number']}: {meta['title'][:35]}...)")
-            main_tweet, reply_tweet = generate_sns_post_with_ai(meta, retry_attempt=attempt)
             ok = post_to_x_via_playwright(
                 main_tweet,
                 reply_tweet,

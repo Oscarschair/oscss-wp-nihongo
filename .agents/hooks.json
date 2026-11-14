@@ -1,0 +1,23 @@
+{
+  "post-schedule-git-sync": {
+    "PostToolUse": [
+      {
+        "matcher": "run_command",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"../scripts/deployment/post_schedule_git_hook.py\"",
+            "timeout": 15
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "type": "command",
+        "command": "python \"../scripts/deployment/post_schedule_git_hook.py\"",
+        "timeout": 15
+      }
+    ]
+  }
+}

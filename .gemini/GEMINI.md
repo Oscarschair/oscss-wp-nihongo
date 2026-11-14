@@ -99,6 +99,10 @@
 ### 3. カテゴリー投稿数バランス考慮原則（次回提案時の必須義務）
 - **累計件数 ＆ 直近ローテーションの事前分析義務**:
   - 次の投稿テーマや連載企画を検討・提案する際は、必ず事前に各カテゴリー（🏪 **街角サバイバル**、🌏 **カルチャーショック**、🔍 **くらべてみました**、🗣️ **ことばのあや**等）の「累計公開・予約本数」および「直近の投稿順（ローテーション状況）」を集計・可視化すること。
+### 4. 予約投稿・公開完了後の Git 差分最新化フック義務 (`post_schedule_publish`)
+- **予約投稿完了直後の自動 Git 同期（[`.agents/hooks.json`](file:///c:/Users/user/git/oscss-wp-nihongo/.agents/hooks.json) ＆ [`.gemini/hooks.json`](file:///c:/Users/user/git/oscss-wp-nihongo/.gemini/hooks.json) 連動）**:
+  - ユーザーから「予約投稿」「投稿してOK」「公開してOK」の承認を受けてWordPressへの予約投稿・公開反映を完了した直後は、追加確認を待たずに必ず [`scripts/deployment/sync_git_after_schedule.py`](file:///c:/Users/user/git/oscss-wp-nihongo/scripts/deployment/sync_git_after_schedule.py)（`--execute`）を実行し、原稿・画像・関連変更を日本語コミットメッセージで `commit` → `git pull --rebase origin main` → `git push origin main` してローカル・リモート間のGit差分を最新化（差分ゼロ）すること。
+
 ### 5. 投稿タイトル命名規則（全カテゴリー名プレフィックス必須ルール）
 - **プレフィックスの義務化**:
   - すべての投稿タイトルの先頭には、該当カテゴリーの正式プレフィックス（`くらべてみました：`、`街角サバイバル：`、`ことばのあや：`、`カルチャーショック：`）を全角コロン `：` で付与することを不可侵のルールとする。

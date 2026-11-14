@@ -1,6 +1,20 @@
 {
   "posted_slugs": [
-    "japanese-comparing-sorry-excuse-me-differences-in-apology-expressions"
+    "japanese-comparing-sorry-excuse-me-differences-in-apology-expressions",
+    "kotoba-no-aya-how-to-use-the-final-particle-ne-for-a-comfortable-conversation",
+    "japanese-comparing-interesting-and-oddy-funny-differences-in-emotional-expression",
+    "japanese-comparing-scholarships-in-japan-and-overseas-different-meaning-with-same-word",
+    "culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-restaurant",
+    "kotoba-no-aya-how-to-use-the-final-particle-yo-for-effective-conversation",
+    "culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture",
+    "culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture",
+    "kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu",
+    "kotoba-no-aya-how-to-use-the-final-particle-yone-for-smooth-conversation",
+    "japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing",
+    "culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli",
+    "culture-shock-cash-on-delivery-refused-tip-keep-the-change",
+    "culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison",
+    "japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions"
   ],
   "history": [
     {
@@ -8,6 +22,90 @@
       "slug": "japanese-comparing-sorry-excuse-me-differences-in-apology-expressions",
       "title": "くらべてみました：「すみません」VS「ごめんなさい」VS「申し訳ございません」の違い｜日本人が謝りまくる本当の理由とビジネス謝罪完全攻略",
       "posted_at": "2026-10-29T15:17:58.455740"
+    },
+    {
+      "post_number": 2,
+      "slug": "kotoba-no-aya-how-to-use-the-final-particle-ne-for-a-comfortable-conversation",
+      "title": "ことばのあや：心地よい会話を生み出す終助詞「ね」の極意｜共感と距離感をコントロールする大人の日本語コミュニケーション術",
+      "posted_at": "2026-10-30T08:03:00.077487"
+    },
+    {
+      "post_number": 3,
+      "slug": "japanese-comparing-interesting-and-oddy-funny-differences-in-emotional-expression",
+      "title": "くらべてみました：「おもしろい」VS「おかしい」の違い｜日本人に「あなたはおかしい」と言うと大激怒される理由",
+      "posted_at": "2026-10-31T08:01:07.453137"
+    },
+    {
+      "post_number": 4,
+      "slug": "japanese-comparing-scholarships-in-japan-and-overseas-different-meaning-with-same-word",
+      "title": "くらべてみました：日本の「奨学金」は実は借金！？海外のScholarshipとの決定的な違いと留学生が知るべき返済不要制度の真実",
+      "posted_at": "2026-11-01T08:01:26.392536"
+    },
+    {
+      "post_number": 5,
+      "slug": "culture-shock-japanese-food-for-shaping-rice-find-an-authentic-chinese-restaurant",
+      "title": "カルチャーショック：ご飯の形を整える日本食｜本場中国料理店を見つける",
+      "posted_at": "2026-11-02T08:01:24.843674"
+    },
+    {
+      "post_number": 6,
+      "slug": "kotoba-no-aya-how-to-use-the-final-particle-yo-for-effective-conversation",
+      "title": "ことばのあや：自己主張と情報伝達の終助詞「よ」の使いこなし術｜親切が「偉そう」に聞こえてしまう罠を回避する大人の会話術",
+      "posted_at": "2026-11-03T08:01:07.313167"
+    },
+    {
+      "post_number": 7,
+      "slug": "culture-shock-ice-water-hospitality-in-winter-vs-hot-water-culture",
+      "title": "カルチャーショック：真冬の雪の日でも氷水！？香港出身の私が日本の「お冷（おひや）」文化に凍えながら感動したおもてなしの真実",
+      "posted_at": "2026-11-04T08:01:11.214291"
+    },
+    {
+      "post_number": 8,
+      "slug": "culture-shock-sleeping-on-the-train-japan-safety-and-inemuri-culture",
+      "title": "カルチャーショック：電車で爆睡しても財布が盗まれない！？世界が驚愕する日本の「居眠り（いねむり）」文化と治安の奇跡",
+      "posted_at": "2026-11-05T08:01:07.101430"
+    },
+    {
+      "post_number": 9,
+      "slug": "kotoba-no-aya-how-to-distinguish-yes-and-no-in-iidesu",
+      "title": "ことばのあや：「いいです」の罠｜YESなのかNOなのか！？日本人が連発する魔の曖昧フレーズの完全解読術",
+      "posted_at": "2026-11-07T08:02:36.372177"
+    },
+    {
+      "post_number": 10,
+      "slug": "kotoba-no-aya-how-to-use-the-final-particle-yone-for-smooth-conversation",
+      "title": "ことばのあや：会話が劇的にスムーズになる魔法の終助詞「よね」の完全攻略法｜「ね」「よ」との決定的な違いとビジネス・チャットでの最強活用術",
+      "posted_at": "2026-11-09T08:01:29.009078"
+    },
+    {
+      "post_number": 11,
+      "slug": "japanese-comparing-wakaru-and-shiru-differences-in-understanding-and-knowing",
+      "title": "くらべてみました：「わかる（分かる）」VS「しる（知る）」の違い｜知識の保有と共感・理解の決定的な境界線",
+      "posted_at": "2026-11-10T08:01:33.820895"
+    },
+    {
+      "post_number": 12,
+      "slug": "culture-shock-carb-on-carb-combos-in-japan-ramen-fried-rice-gyoza-rice-vermicelli",
+      "title": "カルチャーショック：餃子も炒飯もビーフンも全部「主食」！香港出身の私が驚いた日本の「炭水化物×炭水化物」文化",
+      "posted_at": "2026-11-11T08:01:30.870155"
+    },
+    {
+      "post_number": 13,
+      "slug": "culture-shock-cash-on-delivery-refused-tip-keep-the-change",
+      "title": "カルチャーショック：代引きで「お釣り大丈夫です」と言ったら「いやダメです！」と断られた話｜日本にチップ文化がない本当の理由",
+      "posted_at": "2026-11-12T08:01:29.437025"
+    },
+    {
+      "post_number": 14,
+      "slug": "culture-shock-haircut-price-5000-yen-vs-1000-yen-cut-hong-kong-comparison",
+      "title": "カルチャーショック：日本の散髪、高すぎない！？香港で60ドルだった私が「5,000円カット」と「1,000円カット」の真実に納得するまで",
+      "posted_at": "2026-11-13T08:01:13.858002"
+    },
+    {
+      "post_number": 15,
+      "slug": "japanese-comparing-sayonara-and-matane-differences-in-goodbye-expressions",
+      "title": "くらべてみました：「さようなら」VS「またね」の違い｜なぜ日本人は友達に「さようなら」と言わないのか？",
+      "posted_at": "2026-11-14T08:01:30.430746"
     }
   ]
 }
