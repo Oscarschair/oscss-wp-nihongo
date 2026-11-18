@@ -48,7 +48,7 @@ define('WP_USE_THEMES', false);
 require_once(getenv('HOME') . '/web/nihongo.oscarchair.jp/wp-load.php');
 
 $upload_dir = wp_upload_dir();
-$filename = 'site-icon-gakushucho-512x512.png';
+$filename = 'site-icon-pastel-1b-512x512.png';
 $dest_file = $upload_dir['path'] . '/' . $filename;
 $src_file = getenv('HOME') . '/web/nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/favicon-512x512.png';
 
@@ -58,7 +58,7 @@ $filetype = wp_check_filetype($filename, null);
 $attachment = array(
     'guid'           => $upload_dir['url'] . '/' . $filename, 
     'post_mime_type' => $filetype['type'],
-    'post_title'     => 'オスカーの日本語学習帳 サイトアイコン (学習ノート＆桜色しおり)',
+    'post_title'     => 'オスカーの日本語学習帳 サイトアイコン (淡彩パステル学習帳＆桜しおり)',
     'post_content'   => '',
     'post_status'    => 'inherit'
 );

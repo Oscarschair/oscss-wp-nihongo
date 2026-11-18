@@ -24,6 +24,7 @@
 - [0004: 投稿タイトルのカテゴリー名プレフィックス必須化および表記統一](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0004-post-title-category-prefix-standardization.md)
 - [0006: 記事本文の見出し単位<section>分割管理および内部広告完全遮断方針](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0006-article-section-wrapping-and-ad-exclusion.md)
 - [0007: GA4計測のGTM（GTM-K6NZHVDJ）一元管理化および直書きgtag.jsの廃止](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0007-ga4-gtm-centralized-event-tracking.md)
+- [0008: サイト全体の淡彩パステル世界観に調和するブランドロゴ・光学補正ファビコン一括刷新](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0008-airy-pastel-brand-logo-unification.md)
 
 ---
 

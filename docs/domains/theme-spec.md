@@ -75,3 +75,18 @@ rt {
 }
 ```
 
+---
+
+## 5. ブランドロゴ ＆ 光学補正ファビコン仕様（[ADR 0008](file:///c:/Users/user/git/oscss-wp-nihongo/docs/adr/0008-airy-pastel-brand-logo-unification.md)）
+
+サイト全体の淡彩パステルグラデーション（`#EEF2FF` → `#F5F3FF` → `#FFF1F2`）および手描き水彩イラストと調和する純粋ベクターブランドロゴを採用する。
+
+| 用途 | アセットパス | 仕様・不変条件 |
+| :--- | :--- | :--- |
+| **ヘッダーロゴ（ライト背景）** | `assets/images/logo-lockup.svg` | 見開き学習帳×吹き出し×ベビー桜しおり ＋ 細身ゴシック（`wght=470`）2段ミニマル構成。全グリフ `<path>` アウトライン済み（PC高 `46px` / SP高 `38px`）。 |
+| **フッターロゴ（ダーク背景）** | `assets/images/logo-lockup-dark.svg` | ダークフッター（`#0f172a`）向けに明度・彩度を最適化した横組みSVGロゴ。 |
+| **単体シンボル** | `assets/images/logo-symbol.svg` | `200×200` viewBox 単体ベクターシンボル。 |
+| **構造化データ用ロゴ** | `assets/images/logo-organization.png` | JSON-LD `Organization.logo` 用の `512×512px` ラスタPNG（著者 `Person.image` は `x-profile-icon.png` を使用）。 |
+| **サイトアイコン・ファビコン** | `favicon-512x512.png` / `192x192` / `apple-touch-icon.png` / `32x32` / `16x16` / `favicon.ico` | `32px` / `16px` / `ico` には縮小時の線消失を防ぐ **Optical Sizing（線幅 `7.0` 光学補正）** を適用。 |
+
+

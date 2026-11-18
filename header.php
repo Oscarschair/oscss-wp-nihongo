@@ -45,15 +45,12 @@ if ( ! defined( 'ABSPATH' ) ) {
 <header class="l-header" id="site-header">
 	<div class="l-container l-header__inner">
 		<div class="l-header__branding">
-			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="l-header__logo-text" rel="home">
-				<span class="l-header__logo-main"><?php bloginfo( 'name' ); ?></span>
-				<span class="l-header__logo-sub">Oscar’s Japanese Notebook</span>
-			</a>
-			<?php
-			$description = get_bloginfo( 'description', 'display' );
-			if ( $description || is_customize_preview() ) :
-				?>
-				<p class="l-header__description"><?php echo esc_html( $description ); ?></p>
+			<?php if ( has_custom_logo() ) : ?>
+				<div class="l-header__custom-logo"><?php the_custom_logo(); ?></div>
+			<?php else : ?>
+				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="l-header__logo-link" rel="home" aria-label="<?php echo esc_attr( get_bloginfo( 'name' ) ); ?>">
+					<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/logo-lockup.svg' ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) . ' - Oscar\'s Japanese Notebook' ); ?>" class="l-header__logo-img" width="227" height="46" decoding="async" fetchpriority="high">
+				</a>
 			<?php endif; ?>
 		</div>
 

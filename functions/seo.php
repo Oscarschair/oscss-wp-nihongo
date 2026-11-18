@@ -110,8 +110,16 @@ function oscss_seo_meta_tags() {
 	echo "\n<!-- oscss-wp-nihongo SEO & Social Meta -->\n";
 	echo '<meta name="description" content="' . esc_attr( $og_desc ) . '">' . "\n";
 	echo '<meta name="robots" content="' . esc_attr( $robots ) . '">' . "\n";
-	echo '<meta name="theme-color" content="#2563eb">' . "\n";
+	echo '<meta name="theme-color" content="#eef2ff">' . "\n";
 	echo '<link rel="canonical" href="' . esc_url( $current_url ) . '">' . "\n";
+
+	// サイトアイコン未設定環境向けの光学補正ファビコン出力
+	if ( ! has_site_icon() ) {
+		echo '<link rel="icon" type="image/png" sizes="32x32" href="' . esc_url( OSCSS_THEME_URI . '/assets/images/favicon-32x32.png' ) . '">' . "\n";
+		echo '<link rel="icon" type="image/png" sizes="16x16" href="' . esc_url( OSCSS_THEME_URI . '/assets/images/favicon-16x16.png' ) . '">' . "\n";
+		echo '<link rel="icon" type="image/png" sizes="192x192" href="' . esc_url( OSCSS_THEME_URI . '/assets/images/favicon-192x192.png' ) . '">' . "\n";
+		echo '<link rel="apple-touch-icon" sizes="180x180" href="' . esc_url( OSCSS_THEME_URI . '/assets/images/apple-touch-icon.png' ) . '">' . "\n";
+	}
 
 	// Open Graph (OGP)
 	echo '<meta property="og:site_name" content="' . esc_attr( $site_name ) . '">' . "\n";
@@ -144,11 +152,12 @@ add_action( 'wp_head', 'oscss_seo_meta_tags', 1 );
  * 2. JSON-LD 構造化データ（Schema.org）を出力
  */
 function oscss_seo_json_ld() {
-	$site_url  = home_url( '/' );
-	$site_name = get_bloginfo( 'name' );
-	$site_desc = '香港出身のオスカーが、外国人視点で日本語の「ことばのあや」や文化の違い、現場サバイバルを解説する日本語学習ブログ。全記事・全漢字ルビ（ふりがな）完備で、辞書なしでスラスラ読める！';
-	$logo_url  = OSCSS_THEME_URI . '/assets/images/my-icon.png';
-	$og_image  = OSCSS_THEME_URI . '/assets/images/og-image.png';
+	$site_url         = home_url( '/' );
+	$site_name        = get_bloginfo( 'name' );
+	$site_desc        = '香港出身のオスカーが、外国人視点で日本語の「ことばのあや」や文化の違い、現場サバイバルを解説する日本語学習ブログ。全記事・全漢字ルビ（ふりがな）完備で、辞書なしでスラスラ読める！';
+	$org_logo_url     = OSCSS_THEME_URI . '/assets/images/logo-organization.png';
+	$author_image_url = OSCSS_THEME_URI . '/assets/images/x-profile-icon.png';
+	$og_image         = OSCSS_THEME_URI . '/assets/images/og-image.png';
 
 	$schemas = array();
 
@@ -177,13 +186,18 @@ function oscss_seo_json_ld() {
 				'@type' => 'Person',
 				'name'  => 'オスカー',
 				'url'   => 'https://oscarchair.jp/',
-				'image' => $logo_url,
+				'image' => $author_image_url,
 			),
 			'publisher'       => array(
-				'@type' => 'Person',
-				'name'  => 'オスカー',
-				'url'   => 'https://oscarchair.jp/',
-				'image' => $logo_url,
+				'@type' => 'Organization',
+				'name'  => $site_name,
+				'url'   => $site_url,
+				'logo'  => array(
+					'@type'  => 'ImageObject',
+					'url'    => $org_logo_url,
+					'width'  => 512,
+					'height' => 512,
+				),
 			),
 			'potentialAction' => array(
 				'@type'       => 'SearchAction',
@@ -230,15 +244,17 @@ function oscss_seo_json_ld() {
 				'@type' => 'Person',
 				'name'  => $author_name,
 				'url'   => $author_url,
-				'image' => $logo_url,
+				'image' => $author_image_url,
 			),
 			'publisher'        => array(
 				'@type' => 'Organization',
 				'name'  => $site_name,
 				'url'   => $site_url,
 				'logo'  => array(
-					'@type' => 'ImageObject',
-					'url'   => $logo_url,
+					'@type'  => 'ImageObject',
+					'url'    => $org_logo_url,
+					'width'  => 512,
+					'height' => 512,
 				),
 			),
 			'inLanguage'       => 'ja',
@@ -269,14 +285,19 @@ function oscss_seo_json_ld() {
 				'name'          => 'オスカー',
 				'alternateName' => 'Oscar',
 				'url'           => 'https://oscarchair.jp/',
-				'image'         => $logo_url,
+				'image'         => $author_image_url,
 				'description'   => '香港出身の外国人日本語学習者・エンジニア。教科書では学べないリアルな日本語や文化の違い、カルチャーショックを発信中。',
 			),
 			'publisher'        => array(
-				'@type' => 'Person',
-				'name'  => 'オスカー',
-				'url'   => 'https://oscarchair.jp/',
-				'image' => $logo_url,
+				'@type' => 'Organization',
+				'name'  => $site_name,
+				'url'   => $site_url,
+				'logo'  => array(
+					'@type'  => 'ImageObject',
+					'url'    => $org_logo_url,
+					'width'  => 512,
+					'height' => 512,
+				),
 			),
 		);
 	}
