@@ -1,0 +1,454 @@
+{
+  "exportedAt": "2026-11-18T18:49:25.155838+09:00",
+  "property": {
+    "name": "properties/354369646",
+    "parent": "accounts/257613185",
+    "createTime": "2023-02-20T06:15:05.968Z",
+    "updateTime": "2026-11-18T09:45:13.142Z",
+    "displayName": "nihongo.oscarchair.jp",
+    "timeZone": "Asia/Tokyo",
+    "currencyCode": "JPY",
+    "serviceLevel": "GOOGLE_ANALYTICS_STANDARD",
+    "account": "accounts/257613185",
+    "propertyType": "PROPERTY_TYPE_ORDINARY"
+  },
+  "dataStreams": [
+    {
+      "name": "properties/354369646/dataStreams/4639754830",
+      "type": "WEB_DATA_STREAM",
+      "displayName": "nihongo.oscarchair.jp",
+      "createTime": "2023-02-20T06:15:07.218Z",
+      "updateTime": "2023-02-20T06:15:07.218Z",
+      "webStreamData": {
+        "measurementId": "G-3QBPY87VPP",
+        "defaultUri": "https://nihongo.oscarchair.jp"
+      }
+    }
+  ],
+  "summary": {
+    "customDimensionsCount": 26,
+    "customMetricsCount": 19,
+    "calculatedMetricsCount": 5,
+    "keyEventsCount": 5
+  },
+  "keyEvents": [
+    {
+      "name": "properties/354369646/keyEvents/4639754832",
+      "eventName": "purchase",
+      "createTime": "2023-02-20T06:15:07.218357Z",
+      "countingMethod": "ONCE_PER_EVENT"
+    },
+    {
+      "name": "properties/354369646/keyEvents/16365651685",
+      "eventName": "cv_mainsite_click",
+      "createTime": "2026-11-18T09:45:21.717212Z",
+      "deletable": true,
+      "custom": true,
+      "countingMethod": "ONCE_PER_EVENT"
+    },
+    {
+      "name": "properties/354369646/keyEvents/16365657736",
+      "eventName": "cv_article_complete_read",
+      "createTime": "2026-11-18T09:45:16.885435Z",
+      "deletable": true,
+      "custom": true,
+      "countingMethod": "ONCE_PER_EVENT"
+    },
+    {
+      "name": "properties/354369646/keyEvents/16365688353",
+      "eventName": "cv_comment_submit",
+      "createTime": "2026-11-18T09:45:23.684829Z",
+      "deletable": true,
+      "custom": true,
+      "countingMethod": "ONCE_PER_EVENT"
+    },
+    {
+      "name": "properties/354369646/keyEvents/16365906648",
+      "eventName": "cv_bmc_support_click",
+      "createTime": "2026-11-18T09:45:19.547865Z",
+      "deletable": true,
+      "custom": true,
+      "countingMethod": "ONCE_PER_EVENT"
+    }
+  ],
+  "customDimensions": [
+    {
+      "name": "properties/354369646/customDimensions/16365483702",
+      "parameterName": "cv_click_url",
+      "displayName": "CVクリック先URL",
+      "description": "支援・メインサイト送客クリックの遷移先URL (cv_click_url)",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365594814",
+      "parameterName": "article_card_click_url",
+      "displayName": "記事カード遷移先URL",
+      "description": "クリックされた記事カード (.c-card) の遷移先URL",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365599524",
+      "parameterName": "search_keyword",
+      "displayName": "サイト内検索キーワード",
+      "description": "検索フォーム (input[name=s]) に入力された検索キーワード",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365601383",
+      "parameterName": "cta_button_click_url",
+      "displayName": "主要CTA遷移先URL",
+      "description": "クリックされた主要CTAボタンの遷移先URL",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365652341",
+      "parameterName": "card_list_section",
+      "displayName": "記事カード配置セクション",
+      "description": "記事カードの配置領域 top_latest / related_posts / archive_list 等",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365652538",
+      "parameterName": "article_jlpt_level",
+      "displayName": "記事JLPT目安レベル",
+      "description": "読了された記事のJLPT目安レベルバッジ文字列 (article_jlpt_level)",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365657739",
+      "parameterName": "filter_group_type",
+      "displayName": "記事絞り込みグループ種別",
+      "description": "フィルター種別 series_category / jlpt_level",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365683790",
+      "parameterName": "ruby_preference",
+      "displayName": "ふりがな表示スタイル",
+      "description": "ルビON/OFF利用傾向に基づく学習レベルスタイル (ruby_preference)",
+      "scope": "USER"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365688356",
+      "parameterName": "nav_component_type",
+      "displayName": "記事内回遊ナビ種別",
+      "description": "ブログカード・連載リスト・4コマ相互リンク等の回遊導線種別",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365693011",
+      "parameterName": "page_location",
+      "displayName": "現在ページのフルURL",
+      "description": "イベント発生ページの完全URL (page_location)",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365693012",
+      "parameterName": "content_group",
+      "displayName": "ページグルーピング分類",
+      "description": "全10区分のページグループ分類 (content_group)",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365700405",
+      "parameterName": "reader_segment",
+      "displayName": "読者関心セグメント",
+      "description": "滞在時間に基づく読者セグメント分類 (reader_segment)",
+      "scope": "USER"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365765951",
+      "parameterName": "header_global_menu_click_text",
+      "displayName": "グローバルメニュー項目名",
+      "description": "クリックされたヘッダーグローバルナビ・サブメニュー文言",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365765952",
+      "parameterName": "page_referrer",
+      "displayName": "直前のページのURL",
+      "description": "直前ページ・外部参照元のURL (page_referrer)",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365786060",
+      "parameterName": "custom_scrolled_class",
+      "displayName": "表示到達UIブロックCLASS名",
+      "description": "スクロールにより画面表示された学習セクション・カードのCLASS名",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365786068",
+      "parameterName": "article_link_text",
+      "displayName": "記事リンク カード文言",
+      "description": "クリックされた記事カードタイトル・記事内回遊リンク文言",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365802815",
+      "parameterName": "sort_order_type",
+      "displayName": "記事並び替え種別",
+      "description": "選択された記事一覧ソート種別 latest / views",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365803244",
+      "parameterName": "filter_button_text",
+      "displayName": "記事絞り込みボタン文言",
+      "description": "学習ノート一覧で選択されたカテゴリー・JLPTフィルター文言",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365824924",
+      "parameterName": "cta_location",
+      "displayName": "イベント発生ページパス",
+      "description": "クリック・フォーム送信・読了等が発生したページのパス (cta_location)",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365824925",
+      "parameterName": "ruby_toggle_position",
+      "displayName": "ふりがな切替ボタン位置",
+      "description": "ふりがな切替ボタンの配置箇所 entry_header / sticky_float",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365826447",
+      "parameterName": "internal_link_url",
+      "displayName": "サイト内回遊先URL",
+      "description": "サイト内回遊クリックの遷移先URL (internal_link_url)",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365843238",
+      "parameterName": "ruby_toggle_state",
+      "displayName": "ふりがな切替後状態",
+      "description": "ふりがな(ルビ)切替ボタン押下後の表示状態 ON / OFF",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365861689",
+      "parameterName": "mainsite_link_text",
+      "displayName": "メインサイト送客リンク文言",
+      "description": "クリックされたメインサイト (oscarchair.jp) 送客リンク文言",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365878966",
+      "parameterName": "footer_menu_click_text",
+      "displayName": "フッターリンク文言",
+      "description": "クリックされたフッター内リンク・最近の投稿タイトル文言",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365889829",
+      "parameterName": "top_section_id",
+      "displayName": "TOP表示セクションID",
+      "description": "トップページで画面表示されたセクション識別子 hero / categories / latest-posts",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customDimensions/16365896540",
+      "parameterName": "cta_button_click_text",
+      "displayName": "主要CTAボタン文言",
+      "description": "クリックされた主要CTAボタン・連載テーマカード文言",
+      "scope": "EVENT"
+    }
+  ],
+  "customMetrics": [
+    {
+      "name": "properties/354369646/customMetrics/16365509435",
+      "parameterName": "in_article_nav_click_count",
+      "displayName": "記事内回遊ナビクリック数",
+      "description": "ブログカード・連載リスト・4コマ相互リンク等のクリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365594818",
+      "parameterName": "sort_tab_click_count",
+      "displayName": "記事並び替えタブクリック数",
+      "description": "新着順・閲覧数順ソートタブ (.c-sort-tab) クリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365626241",
+      "parameterName": "cv_article_complete_count",
+      "displayName": "記事読了到達数",
+      "description": "記事末尾 (.c-author-box) 到達による読了完了数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365746064",
+      "parameterName": "article_filter_click_count",
+      "displayName": "記事絞り込みフィルタークリック数",
+      "description": "カテゴリー・JLPT目安レベル絞り込みボタンクリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365765954",
+      "parameterName": "top_section_view_count",
+      "displayName": "トップセクション精読表示数",
+      "description": "TOPページ3大セクションの画面表示数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365768016",
+      "parameterName": "ruby_toggle_click_count",
+      "displayName": "ふりがな切替クリック数",
+      "description": "ふりがな(ルビ) ON/OFF 切替ボタン (.js-ruby-toggle) クリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365786061",
+      "parameterName": "header_logo_click_count",
+      "displayName": "ヘッダーロゴクリック数",
+      "description": "ヘッダーサイトロゴ (.l-header__logo-text) クリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365786069",
+      "parameterName": "article_card_click_count",
+      "displayName": "記事カードクリック数",
+      "description": "一覧・関連記事の記事カード (.c-card) クリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365794536",
+      "parameterName": "cv_bmc_click_count",
+      "displayName": "Buy Me a Coffee支援クリック数",
+      "description": "クリエイター支援 (buymeacoffee.com) 遷移クリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365808740",
+      "parameterName": "back_to_top_click_count",
+      "displayName": "トップへ戻るクリック数",
+      "description": "ページ上部へ戻るボタン (#back-to-top) クリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365817044",
+      "parameterName": "internal_click_count",
+      "displayName": "サイト内回遊クリック数",
+      "description": "nihongo.oscarchair.jp 内の内部リンク回遊クリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365820425",
+      "parameterName": "footer_menu_click_count",
+      "displayName": "フッターリンククリック数",
+      "description": "フッター内リンク・最近の投稿ウィジェットクリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365823638",
+      "parameterName": "header_global_menu_click_count",
+      "displayName": "グローバルメニュークリック数",
+      "description": "ヘッダーグローバルナビ・サブメニュー遷移クリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365850628",
+      "parameterName": "cta_button_click_count",
+      "displayName": "主要CTAボタンクリック数",
+      "description": "TOPヒーロー・4大連載テーマカード等の主要CTAクリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365853021",
+      "parameterName": "sp_drawer_open_count",
+      "displayName": "SPメニュー展開タップ数",
+      "description": "SPハンバーガーボタン・カテゴリ親メニュー開閉タップ数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365861693",
+      "parameterName": "site_search_submit_count",
+      "displayName": "サイト内検索フォーム送信数",
+      "description": "フッター・404ページのサイト内検索フォーム送信数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365887621",
+      "parameterName": "cv_mainsite_click_count",
+      "displayName": "メインサイト送客クリック数",
+      "description": "メインサイト (oscarchair.jp) 送客リンククリック数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365888659",
+      "parameterName": "custom_scrolled_count",
+      "displayName": "主要UIブロック表示到達数",
+      "description": "各ページの主要学習セクション・カードの画面表示到達数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    },
+    {
+      "name": "properties/354369646/customMetrics/16365894488",
+      "parameterName": "cv_comment_submit_count",
+      "displayName": "記事コメント送信数",
+      "description": "記事コメントフォーム (#commentform) 送信数",
+      "measurementUnit": "STANDARD",
+      "scope": "EVENT"
+    }
+  ],
+  "calculatedMetrics": [
+    {
+      "name": "properties/354369646/calculatedMetrics/internal_click_rate",
+      "description": "セッションあたりのサイト内回遊クリック率",
+      "displayName": "回遊率",
+      "calculatedMetricId": "internal_click_rate",
+      "metricUnit": "STANDARD",
+      "formula": "customEvent:internal_click_count / sessions"
+    },
+    {
+      "name": "properties/354369646/calculatedMetrics/article_card_ctr",
+      "description": "セッションあたりの記事カードクリック率",
+      "displayName": "記事カードCTR セッション",
+      "calculatedMetricId": "article_card_ctr",
+      "metricUnit": "STANDARD",
+      "formula": "customEvent:article_card_click_count / sessions"
+    },
+    {
+      "name": "properties/354369646/calculatedMetrics/ruby_toggle_user_rate",
+      "description": "アクティブユーザーあたりのふりがな切替数比率",
+      "displayName": "ふりがな切替利用率 ユーザー",
+      "calculatedMetricId": "ruby_toggle_user_rate",
+      "metricUnit": "STANDARD",
+      "formula": "customEvent:ruby_toggle_click_count / activeUsers"
+    },
+    {
+      "name": "properties/354369646/calculatedMetrics/mainsite_referral_rate",
+      "description": "セッションあたりのメインサイト送客クリック率",
+      "displayName": "メインサイト送客率",
+      "calculatedMetricId": "mainsite_referral_rate",
+      "metricUnit": "STANDARD",
+      "formula": "customEvent:cv_mainsite_click_count / sessions"
+    },
+    {
+      "name": "properties/354369646/calculatedMetrics/article_complete_rate",
+      "description": "セッションあたりの記事読了到達率",
+      "displayName": "記事読了率 セッション",
+      "calculatedMetricId": "article_complete_rate",
+      "metricUnit": "STANDARD",
+      "formula": "customEvent:cv_article_complete_count / sessions"
+    }
+  ]
+}

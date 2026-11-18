@@ -139,7 +139,7 @@ def md_to_gutenberg(md_text):
                     clean_sp_plain = html.escape(re.sub(r'<[^>]+>', '', clean_sp))
                     
                     # Determine avatar and position
-                    if any(k in clean_sp for k in ['オスカー', 'あなた', '私', '僕', '客側', '本音']):
+                    if any(k in clean_sp for k in ['オスカー', 'クルマ', 'あなた', '私', '僕', '客側', '本音']):
                         position = "l"
                         avatar = "https://nihongo.oscarchair.jp/wp-content/themes/oscss-wp-nihongo/assets/images/my-icon.png"
                     else:

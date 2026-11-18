@@ -1,0 +1,42 @@
+[
+  {
+    "name": "properties/354369646/calculatedMetrics/internal_click_rate",
+    "description": "セッションあたりのサイト内回遊クリック率",
+    "displayName": "回遊率",
+    "calculatedMetricId": "internal_click_rate",
+    "metricUnit": "STANDARD",
+    "formula": "customEvent:internal_click_count / sessions"
+  },
+  {
+    "name": "properties/354369646/calculatedMetrics/article_card_ctr",
+    "description": "セッションあたりの記事カードクリック率",
+    "displayName": "記事カードCTR セッション",
+    "calculatedMetricId": "article_card_ctr",
+    "metricUnit": "STANDARD",
+    "formula": "customEvent:article_card_click_count / sessions"
+  },
+  {
+    "name": "properties/354369646/calculatedMetrics/ruby_toggle_user_rate",
+    "description": "アクティブユーザーあたりのふりがな切替数比率",
+    "displayName": "ふりがな切替利用率 ユーザー",
+    "calculatedMetricId": "ruby_toggle_user_rate",
+    "metricUnit": "STANDARD",
+    "formula": "customEvent:ruby_toggle_click_count / activeUsers"
+  },
+  {
+    "name": "properties/354369646/calculatedMetrics/mainsite_referral_rate",
+    "description": "セッションあたりのメインサイト送客クリック率",
+    "displayName": "メインサイト送客率",
+    "calculatedMetricId": "mainsite_referral_rate",
+    "metricUnit": "STANDARD",
+    "formula": "customEvent:cv_mainsite_click_count / sessions"
+  },
+  {
+    "name": "properties/354369646/calculatedMetrics/article_complete_rate",
+    "description": "セッションあたりの記事読了到達率",
+    "displayName": "記事読了率 セッション",
+    "calculatedMetricId": "article_complete_rate",
+    "metricUnit": "STANDARD",
+    "formula": "customEvent:cv_article_complete_count / sessions"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "name": "properties/354369646/keyEvents/4639754832",
+    "eventName": "purchase",
+    "createTime": "2023-02-20T06:15:07.218357Z",
+    "countingMethod": "ONCE_PER_EVENT"
+  },
+  {
+    "name": "properties/354369646/keyEvents/16365651685",
+    "eventName": "cv_mainsite_click",
+    "createTime": "2026-11-18T09:45:21.717212Z",
+    "deletable": true,
+    "custom": true,
+    "countingMethod": "ONCE_PER_EVENT"
+  },
+  {
+    "name": "properties/354369646/keyEvents/16365657736",
+    "eventName": "cv_article_complete_read",
+    "createTime": "2026-11-18T09:45:16.885435Z",
+    "deletable": true,
+    "custom": true,
+    "countingMethod": "ONCE_PER_EVENT"
+  },
+  {
+    "name": "properties/354369646/keyEvents/16365688353",
+    "eventName": "cv_comment_submit",
+    "createTime": "2026-11-18T09:45:23.684829Z",
+    "deletable": true,
+    "custom": true,
+    "countingMethod": "ONCE_PER_EVENT"
+  },
+  {
+    "name": "properties/354369646/keyEvents/16365906648",
+    "eventName": "cv_bmc_support_click",
+    "createTime": "2026-11-18T09:45:19.547865Z",
+    "deletable": true,
+    "custom": true,
+    "countingMethod": "ONCE_PER_EVENT"
+  }
+]

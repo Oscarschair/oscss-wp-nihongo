@@ -1,0 +1,3402 @@
+{
+  "exportFormatVersion": 2,
+  "exportTime": "2026-11-18 08:08:52",
+  "containerVersion": {
+    "path": "accounts/6004690865/containers/265349373/versions/4",
+    "accountId": "6004690865",
+    "containerId": "265349373",
+    "containerVersionId": "4",
+    "name": "GA4・GTMイベント計測設計書 完全反映（全23タグ・23トリガー・17変数）",
+    "description": "オスカーの日本語学習帳 (nihongo.oscarchair.jp) 実サイトDOM準拠：キーイベント4種・一般イベント15種・ユーザープロパティ3種・content_group 10区分・管理者/非本番ブロック制御",
+    "container": {
+      "path": "accounts/6004690865/containers/265349373",
+      "accountId": "6004690865",
+      "containerId": "265349373",
+      "name": "nihongo.oscarchair.jp",
+      "publicId": "GTM-K6NZHVDJ",
+      "usageContext": [
+        "WEB"
+      ],
+      "fingerprint": "1790514382302",
+      "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/6004690865/containers/265349373/workspaces?apiLink=container",
+      "features": {
+        "supportUserPermissions": true,
+        "supportEnvironments": true,
+        "supportWorkspaces": true,
+        "supportGtagConfigs": false,
+        "supportBuiltInVariables": true,
+        "supportClients": false,
+        "supportFolders": true,
+        "supportTags": true,
+        "supportTemplates": true,
+        "supportTriggers": true,
+        "supportVariables": true,
+        "supportVersions": true,
+        "supportZones": true,
+        "supportTransformations": false
+      },
+      "tagIds": [
+        "GTM-K6NZHVDJ"
+      ]
+    },
+    "tag": [
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "44",
+        "name": "GA4 - Configuration Tag",
+        "type": "googtag",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "tagId",
+            "value": "G-3QBPY87VPP"
+          },
+          {
+            "type": "LIST",
+            "key": "configSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "content_group"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - content_group}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "fingerprint": "1794989242771",
+        "firingTriggerId": [
+          "3"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_LOAD",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "45",
+        "name": "GA4 - Event - cv_article_complete_read",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cv_article_complete_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "article_jlpt_level"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - article_jlpt_level}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "cv_article_complete_read"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988908879",
+        "firingTriggerId": [
+          "23"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "49",
+        "name": "GA4 - Event - cv_bmc_support_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cv_bmc_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cv_click_url"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click URL}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "cv_bmc_support_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988911827",
+        "firingTriggerId": [
+          "24"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "50",
+        "name": "GA4 - Event - cv_mainsite_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cv_mainsite_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cv_click_url"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click URL}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "mainsite_link_text"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click Text}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "cv_mainsite_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988913710",
+        "firingTriggerId": [
+          "25"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "51",
+        "name": "GA4 - Event - cv_comment_submit",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cv_comment_submit_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "cv_comment_submit"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988915599",
+        "firingTriggerId": [
+          "26"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "52",
+        "name": "GA4 - Event - header_logo_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "header_logo_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "header_logo_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988917463",
+        "firingTriggerId": [
+          "27"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "53",
+        "name": "GA4 - Event - header_global_menu_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "header_global_menu_click_text"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click Text}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "header_global_menu_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "header_global_menu_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988919368",
+        "firingTriggerId": [
+          "28"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "54",
+        "name": "GA4 - Event - sp_hamburger_toggle_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "sp_drawer_open_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "sp_hamburger_toggle_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988921935",
+        "firingTriggerId": [
+          "29"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "55",
+        "name": "GA4 - Event - ruby_toggle_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "ruby_toggle_state"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - ruby_toggle_state}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "ruby_toggle_position"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - ruby_toggle_position}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "ruby_toggle_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "ruby_toggle_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988924279",
+        "firingTriggerId": [
+          "30"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "56",
+        "name": "GA4 - Event - sort_tab_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "sort_order_type"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - sort_order_type}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "sort_tab_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "sort_tab_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988926722",
+        "firingTriggerId": [
+          "31"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "57",
+        "name": "GA4 - Event - article_filter_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "filter_button_text"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click Text}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "filter_group_type"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - filter_group_type}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "article_filter_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "article_filter_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988928488",
+        "firingTriggerId": [
+          "32"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "58",
+        "name": "GA4 - Event - cta_button_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_button_click_text"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click Text}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_button_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_button_click_url"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click URL}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "cta_button_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988930842",
+        "firingTriggerId": [
+          "33"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "59",
+        "name": "GA4 - Event - article_card_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "article_link_text"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - article_card_title}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "article_card_click_url"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click URL}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "card_list_section"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - card_list_section}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "article_card_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "article_card_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988932679",
+        "firingTriggerId": [
+          "34"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "60",
+        "name": "GA4 - Event - in_article_navigation_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "nav_component_type"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - nav_component_type}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "article_link_text"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click Text}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "in_article_nav_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "in_article_navigation_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988935132",
+        "firingTriggerId": [
+          "35"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "61",
+        "name": "GA4 - Event - site_search_submit",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "search_keyword"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - search_input_value}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "site_search_submit_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "site_search_submit"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988937553",
+        "firingTriggerId": [
+          "36"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "62",
+        "name": "GA4 - Event - top_section_view",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "top_section_id"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - top_section_name}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "top_section_view_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "top_section_view"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988939162",
+        "firingTriggerId": [
+          "37"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "63",
+        "name": "GA4 - Event - footer_menu_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "footer_menu_click_text"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click Text}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "footer_menu_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "footer_menu_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988941524",
+        "firingTriggerId": [
+          "38"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "64",
+        "name": "GA4 - Event - back_to_top_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "cta_location"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Page Path}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "back_to_top_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "back_to_top_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988943173",
+        "firingTriggerId": [
+          "39"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "65",
+        "name": "GA4 - Event - custom_scrolled",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "custom_scrolled_class"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click Classes}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "custom_scrolled_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "custom_scrolled"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988945672",
+        "firingTriggerId": [
+          "40"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "66",
+        "name": "GA4 - Event - internal_click",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "internal_link_url"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{Click URL}}"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "internal_click_count"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "1"
+                  }
+                ]
+              },
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "internal_click"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988948190",
+        "firingTriggerId": [
+          "41"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "67",
+        "name": "GA4 - identify_deep_learner",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "LIST",
+            "key": "userProperties",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "name",
+                    "value": "reader_segment"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "value",
+                    "value": "熱心な日本語学習層（記事90秒以上精読）"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "identify_user"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988950544",
+        "firingTriggerId": [
+          "42"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "68",
+        "name": "GA4 - identify_ruby_preference",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "LIST",
+            "key": "userProperties",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "name",
+                    "value": "ruby_preference"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "value",
+                    "value": "{{cjs - ruby_preference}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "identify_user"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988952760",
+        "firingTriggerId": [
+          "30"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "tagId": "69",
+        "name": "GA4 - identify_supporter_interest",
+        "type": "gaawe",
+        "parameter": [
+          {
+            "type": "LIST",
+            "key": "eventSettingsTable",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameter",
+                    "value": "debug_mode"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "parameterValue",
+                    "value": "{{cjs - debug_mode}}"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "LIST",
+            "key": "userProperties",
+            "list": [
+              {
+                "type": "MAP",
+                "map": [
+                  {
+                    "type": "TEMPLATE",
+                    "key": "name",
+                    "value": "reader_segment"
+                  },
+                  {
+                    "type": "TEMPLATE",
+                    "key": "value",
+                    "value": "運営方針・引用・支援関心層（/about/ 精読）"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "eventName",
+            "value": "identify_user"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "measurementIdOverride",
+            "value": "{{Const - GA4 Measurement ID}}"
+          }
+        ],
+        "fingerprint": "1794988954354",
+        "firingTriggerId": [
+          "43"
+        ],
+        "blockingTriggerId": [
+          "22"
+        ],
+        "tagFiringOption": "ONCE_PER_EVENT",
+        "monitoringMetadata": {
+          "type": "MAP"
+        },
+        "consentSettings": {
+          "consentStatus": "NOT_SET"
+        }
+      }
+    ],
+    "trigger": [
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "3",
+        "name": "Initialization - All Pages",
+        "type": "INIT",
+        "fingerprint": "1790516585992"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "22",
+        "name": "Exception - Logged-in Admin or Non-Prod",
+        "type": "CUSTOM_EVENT",
+        "filter": [
+          {
+            "type": "EQUALS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{cjs - is_blocked_session}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "true"
+              }
+            ]
+          }
+        ],
+        "customEventFilter": [
+          {
+            "type": "MATCH_REGEX",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{_event}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": ".*"
+              }
+            ]
+          }
+        ],
+        "fingerprint": "1794988859069"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "23",
+        "name": "EV - cv_article_complete_read (.c-author-box)",
+        "type": "ELEMENT_VISIBILITY",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "selectorType",
+            "value": "CSS"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "elementSelector",
+            "value": "body.is-single-post .c-author-box"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "firingFrequency",
+            "value": "ONCE_PER_PAGE"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "minimumPercentVisible",
+            "value": "50"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "onScreenDuration",
+            "value": "true"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "minimumOnScreenDuration",
+            "value": "1000"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "observeDomChanges",
+            "value": "false"
+          }
+        ],
+        "fingerprint": "1794988860672"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "24",
+        "name": "Click - cv_bmc_support_click (buymeacoffee.com)",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "CONTAINS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click URL}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "buymeacoffee.com"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988862904"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "25",
+        "name": "Click - cv_mainsite_click (oscarchair.jp)",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "EQUALS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{cjs - is_mainsite_url}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "true"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988865092"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "26",
+        "name": "Form - cv_comment_submit (#commentform)",
+        "type": "FORM_SUBMISSION",
+        "filter": [
+          {
+            "type": "EQUALS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Form ID}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "commentform"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988867277"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "27",
+        "name": "Click - header_logo_click",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "#site-header .l-header__logo-text, #site-header .l-header__logo-text *"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988868771"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "28",
+        "name": "Click - header_global_menu_click",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "#primary-nav .l-header__menu a:not([href=\"http://nothing\"]), #primary-nav .l-header__menu a:not([href=\"http://nothing\"]) *"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988871102"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "29",
+        "name": "Click - sp_hamburger_toggle_click",
+        "type": "CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "#hamburger-btn, #hamburger-btn *, #primary-nav .menu-item-has-children > a[href=\"http://nothing\"]"
+              }
+            ]
+          }
+        ],
+        "fingerprint": "1794988873375"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "30",
+        "name": "Click - ruby_toggle_click",
+        "type": "CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "button.js-ruby-toggle, button.js-ruby-toggle *"
+              }
+            ]
+          }
+        ],
+        "fingerprint": "1794988875860"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "31",
+        "name": "Click - sort_tab_click",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": ".c-sort-tabs a.c-sort-tab, .c-sort-tabs a.c-sort-tab *"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988878061"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "32",
+        "name": "Click - article_filter_click",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": ".c-article-filters a.c-category-filter-btn, .c-article-filters a.c-category-filter-btn *"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988879547"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "33",
+        "name": "Click - cta_button_click",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": ".c-hero__actions a.c-btn, .c-hero__actions a.c-btn *, .c-features__grid a.c-feature-box, .c-features__grid a.c-feature-box *, a.c-btn--all-articles, a.c-btn--all-articles *, .c-btn-wrapper a.c-btn, .c-btn-wrapper a.c-btn *, .c-error-hero__actions a.c-btn, .c-error-hero__actions a.c-btn *, .c-error-hero__cat-list a.c-badge--category-link, .c-no-posts a.c-btn"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988881622"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "34",
+        "name": "Click - article_card_click",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "article.c-card a.c-card__media-link, article.c-card a.c-card__media-link *, article.c-card a.c-card__title-link, article.c-card a.c-card__title-link *, article.c-card a.c-card__more, article.c-card a.c-card__more *"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988883783"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "35",
+        "name": "Click - in_article_navigation_click",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "a.c-blog-card, a.c-blog-card *, .c-series-list a.c-series-list__link, .c-series-list a.c-series-list__link *, a.c-post-connected-manga__card, a.c-post-connected-manga__card *, a.c-manga-connected-post__card, a.c-manga-connected-post__card *, .c-post-nav a, .c-post-nav a *, a.c-badge--category, a.c-badge--tag, .c-breadcrumb a.c-breadcrumb__link, .c-pagination a.page-numbers"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988885945"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "36",
+        "name": "Form - site_search_submit",
+        "type": "FORM_SUBMISSION",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Form Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "form.wp-block-search, form.c-search-form"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988888094"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "37",
+        "name": "EV - top_section_view",
+        "type": "ELEMENT_VISIBILITY",
+        "filter": [
+          {
+            "type": "EQUALS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Page Path}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "/"
+              }
+            ]
+          }
+        ],
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "selectorType",
+            "value": "CSS"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "elementSelector",
+            "value": "section.c-hero, section#categories, section#latest-posts"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "firingFrequency",
+            "value": "ONCE_PER_ELEMENT"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "minimumPercentVisible",
+            "value": "50"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "onScreenDuration",
+            "value": "true"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "minimumOnScreenDuration",
+            "value": "1000"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "observeDomChanges",
+            "value": "false"
+          }
+        ],
+        "fingerprint": "1794988890311"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "38",
+        "name": "Click - footer_menu_click",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "#site-footer a, #site-footer a *"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988892457"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "39",
+        "name": "Click - back_to_top_click",
+        "type": "CLICK",
+        "filter": [
+          {
+            "type": "CSS_SELECTOR",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click Element}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "#back-to-top, #back-to-top *"
+              }
+            ]
+          }
+        ],
+        "fingerprint": "1794988894765"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "40",
+        "name": "EV - custom_scrolled",
+        "type": "ELEMENT_VISIBILITY",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "selectorType",
+            "value": "CSS"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "elementSelector",
+            "value": ".c-hero, .c-features, .c-latest-posts, .c-article-filters, .c-entry__header, .c-entry__section--lead, .c-nihongo-vs, .c-nihongo-nuance, .c-vocab-box, .c-post-connected-manga, .c-manga-connected-post, .c-related-posts, .c-comments-area, .c-bmc-card, .c-error-hero"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "firingFrequency",
+            "value": "ONCE_PER_ELEMENT"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "minimumPercentVisible",
+            "value": "50"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "onScreenDuration",
+            "value": "true"
+          },
+          {
+            "type": "TEMPLATE",
+            "key": "minimumOnScreenDuration",
+            "value": "1000"
+          },
+          {
+            "type": "BOOLEAN",
+            "key": "observeDomChanges",
+            "value": "false"
+          }
+        ],
+        "fingerprint": "1794988896362"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "41",
+        "name": "Click - internal_click",
+        "type": "LINK_CLICK",
+        "filter": [
+          {
+            "type": "STARTS_WITH",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click URL}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "https://nihongo.oscarchair.jp/"
+              }
+            ]
+          },
+          {
+            "type": "CONTAINS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Click URL}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "#"
+              },
+              {
+                "type": "BOOLEAN",
+                "key": "negate",
+                "value": "true"
+              }
+            ]
+          }
+        ],
+        "waitForTags": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "checkValidation": {
+          "type": "BOOLEAN",
+          "value": "false"
+        },
+        "waitForTagsTimeout": {
+          "type": "TEMPLATE",
+          "value": "2000"
+        },
+        "uniqueTriggerId": {
+          "type": "TEMPLATE"
+        },
+        "fingerprint": "1794988897824"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "42",
+        "name": "Timer - identify_deep_learner (90s)",
+        "type": "TIMER",
+        "autoEventFilter": [
+          {
+            "type": "EQUALS",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{cjs - is_single_article}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "true"
+              }
+            ]
+          }
+        ],
+        "eventName": {
+          "type": "TEMPLATE",
+          "value": "gtm.timer"
+        },
+        "interval": {
+          "type": "TEMPLATE",
+          "value": "90000"
+        },
+        "limit": {
+          "type": "TEMPLATE",
+          "value": "1"
+        },
+        "fingerprint": "1794988899310"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "triggerId": "43",
+        "name": "Timer - identify_supporter_interest (45s)",
+        "type": "TIMER",
+        "autoEventFilter": [
+          {
+            "type": "STARTS_WITH",
+            "parameter": [
+              {
+                "type": "TEMPLATE",
+                "key": "arg0",
+                "value": "{{Page Path}}"
+              },
+              {
+                "type": "TEMPLATE",
+                "key": "arg1",
+                "value": "/about"
+              }
+            ]
+          }
+        ],
+        "eventName": {
+          "type": "TEMPLATE",
+          "value": "gtm.timer"
+        },
+        "interval": {
+          "type": "TEMPLATE",
+          "value": "45000"
+        },
+        "limit": {
+          "type": "TEMPLATE",
+          "value": "1"
+        },
+        "fingerprint": "1794988900806"
+      }
+    ],
+    "variable": [
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "5",
+        "name": "Const - GA4 Measurement ID",
+        "type": "c",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "value",
+            "value": "G-3QBPY87VPP"
+          }
+        ],
+        "fingerprint": "1794988766349"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "6",
+        "name": "cjs - debug_mode",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var h = window.location.hostname || '';\n  var s = window.location.search || '';\n  if ({{Debug Mode}} === true || h === 'localhost' || h === '127.0.0.1' || s.indexOf('debug_mode=1') !== -1 || s.indexOf('gtm_debug') !== -1) {\n    return true;\n  }\n  return undefined;\n}"
+          }
+        ],
+        "fingerprint": "1794988768801"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "7",
+        "name": "cjs - is_blocked_session",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var h = window.location.hostname || '';\n  var s = window.location.search || '';\n  var isDebug = ({{Debug Mode}} === true || s.indexOf('debug_mode=1') !== -1 || s.indexOf('gtm_debug') !== -1);\n  if (isDebug) return 'false';\n  if (h !== 'nihongo.oscarchair.jp') return 'true';\n  if (s.indexOf('preview=true') !== -1) return 'true';\n  if (document.body && (document.body.classList.contains('logged-in') || document.body.classList.contains('admin-bar'))) {\n    return 'true';\n  }\n  return 'false';\n}"
+          }
+        ],
+        "fingerprint": "1794988770943"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "8",
+        "name": "cjs - content_group",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var p = window.location.pathname || '/';\n  var s = window.location.search || '';\n  var b = document.body;\n  if (/[?&]s=/.test(s) || (b && b.classList.contains('error404'))) {\n    return 'サイト内検索結果・404';\n  }\n  if (p === '/') return 'TOP';\n  if (p.indexOf('/articles') === 0) return '学習ノート一覧（総合フィルタ）';\n  if (p.indexOf('/category/') === 0 || p.indexOf('/tag/') === 0) return 'カテゴリー・タグ一覧';\n  if (p.indexOf('/manga') === 0 || (b && b.classList.contains('c-entry--manga'))) return '4コマ漫画';\n  if (/^\\/(about|privacy-policy|terms|sitemap)\\/?$/.test(p)) return '運営案内・法務・サイトマップ';\n  if (b && b.classList.contains('is-single-post')) {\n    if (b.classList.contains('category-comparing') || p.indexOf('/japanese-comparing-') === 0) return '記事詳細：くらべてみました';\n    if (b.classList.contains('category-kotoba-no-aya') || p.indexOf('/kotoba-no-aya-') === 0) return '記事詳細：ことばのあや';\n    if (b.classList.contains('category-culture-shock') || p.indexOf('/culture-shock-') === 0) return '記事詳細：カルチャーショック';\n    if (b.classList.contains('category-street-japanese') || p.indexOf('/street-japanese-') === 0) return '記事詳細：街角サバイバル';\n    return '記事詳細：その他';\n  }\n  return 'その他';\n}"
+          }
+        ],
+        "fingerprint": "1794988773215"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "9",
+        "name": "cjs - article_jlpt_level",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var badge = document.querySelector('.c-entry__meta .c-badge--jlpt');\n  if (!badge) return '未設定';\n  var txt = (badge.innerText || badge.textContent || '').replace(/[^A-Za-z0-9\\s\\-〜~]/g, '').replace(/\\s+/g, ' ').trim();\n  return txt || '未設定';\n}"
+          }
+        ],
+        "fingerprint": "1794988775564"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "10",
+        "name": "cjs - is_mainsite_url",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var u = {{Click URL}} || '';\n  if (!u) return 'false';\n  try {\n    var parsed = new URL(u, window.location.origin);\n    var host = (parsed.hostname || '').toLowerCase();\n    return (host === 'oscarchair.jp' || host === 'www.oscarchair.jp') ? 'true' : 'false';\n  } catch (e) {\n    return /^https?:\\/\\/(www\\.)?oscarchair\\.jp(\\/|$)/i.test(u) ? 'true' : 'false';\n  }\n}"
+          }
+        ],
+        "fingerprint": "1794988777285"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "11",
+        "name": "cjs - ruby_toggle_state",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  if (document.body && document.body.classList.contains('is-ruby-hidden')) {\n    return 'OFF';\n  }\n  if (document.documentElement && document.documentElement.classList.contains('is-ruby-hidden')) {\n    return 'OFF';\n  }\n  return 'ON';\n}"
+          }
+        ],
+        "fingerprint": "1794988779759"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "12",
+        "name": "cjs - ruby_preference",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  if ((document.body && document.body.classList.contains('is-ruby-hidden')) ||\n      (document.documentElement && document.documentElement.classList.contains('is-ruby-hidden'))) {\n    return 'ruby_off_advanced';\n  }\n  return 'ruby_on_learner';\n}"
+          }
+        ],
+        "fingerprint": "1794988782275"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "13",
+        "name": "cjs - ruby_toggle_position",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var el = {{Click Element}};\n  if (el && el.closest && el.closest('#ruby-sticky-toggle, .c-ruby-toggle--sticky')) {\n    return 'sticky_float';\n  }\n  return 'entry_header';\n}"
+          }
+        ],
+        "fingerprint": "1794988784673"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "14",
+        "name": "cjs - sort_order_type",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var el = {{Click Element}};\n  if (el && el.closest) {\n    var tab = el.closest('.c-sort-tab');\n    if (tab && tab.getAttribute('data-sort')) {\n      return tab.getAttribute('data-sort');\n    }\n  }\n  var u = {{Click URL}} || '';\n  return u.indexOf('sort=views') !== -1 ? 'views' : 'latest';\n}"
+          }
+        ],
+        "fingerprint": "1794988787013"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "15",
+        "name": "cjs - filter_group_type",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var el = {{Click Element}};\n  if (el && el.closest && el.closest('.c-jlpt-filter-btn, .c-filter-row--jlpt')) {\n    return 'jlpt_level';\n  }\n  return 'series_category';\n}"
+          }
+        ],
+        "fingerprint": "1794988788775"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "16",
+        "name": "cjs - article_card_title",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var el = {{Click Element}};\n  if (el && el.closest) {\n    var card = el.closest('article.c-card');\n    if (card) {\n      var titleEl = card.querySelector('.c-card__title-link, .c-card__title');\n      if (titleEl) {\n        return (titleEl.innerText || titleEl.textContent || '').replace(/\\s+/g, ' ').trim().slice(0, 100);\n      }\n    }\n  }\n  return ({{Click Text}} || '').replace(/\\s+/g, ' ').trim().slice(0, 100);\n}"
+          }
+        ],
+        "fingerprint": "1794988791142"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "17",
+        "name": "cjs - card_list_section",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var el = {{Click Element}};\n  if (!el || !el.closest) return 'archive_list';\n  if (el.closest('.c-related-posts')) return 'related_posts';\n  if (el.closest('#latest-posts, .c-latest-posts')) return 'top_latest';\n  if (el.closest('.c-error-recommendations')) return '404_recommend';\n  return 'archive_list';\n}"
+          }
+        ],
+        "fingerprint": "1794988793532"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "18",
+        "name": "cjs - nav_component_type",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var el = {{Click Element}};\n  if (!el || !el.closest) return 'other_nav';\n  if (el.closest('.c-blog-card')) return 'inline_blog_card';\n  if (el.closest('.c-series-list, .c-series-box')) return 'series_backnumber';\n  if (el.closest('.c-post-connected-manga, .c-manga-connected-post')) return 'manga_crosslink';\n  if (el.closest('.c-post-nav')) return 'prev_next_post';\n  if (el.closest('.c-badge--category, .c-badge--tag')) return 'taxonomy_badge';\n  if (el.closest('.c-breadcrumb')) return 'breadcrumb';\n  if (el.closest('.c-pagination')) return 'pagination';\n  return 'other_nav';\n}"
+          }
+        ],
+        "fingerprint": "1794988795785"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "19",
+        "name": "cjs - search_input_value",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var form = {{Form Element}};\n  var input = form && form.querySelector ? form.querySelector('input[name=\"s\"]') : document.querySelector('input[name=\"s\"]');\n  if (input && input.value) {\n    return input.value.replace(/\\s+/g, ' ').trim().slice(0, 100);\n  }\n  return '';\n}"
+          }
+        ],
+        "fingerprint": "1794988798025"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "20",
+        "name": "cjs - top_section_name",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  var cid = {{Click ID}} || '';\n  if (cid) return cid;\n  var cls = {{Click Classes}} || '';\n  if (cls.indexOf('c-hero') !== -1) return 'hero';\n  return cls.split(' ')[0] || 'top_section';\n}"
+          }
+        ],
+        "fingerprint": "1794988800567"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "variableId": "21",
+        "name": "cjs - is_single_article",
+        "type": "jsm",
+        "parameter": [
+          {
+            "type": "TEMPLATE",
+            "key": "javascript",
+            "value": "function() {\n  if (document.body && (document.body.classList.contains('is-single-post') || document.body.classList.contains('single'))) {\n    return 'true';\n  }\n  return 'false';\n}"
+          }
+        ],
+        "fingerprint": "1794988803026"
+      }
+    ],
+    "builtInVariable": [
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "PAGE_URL",
+        "name": "Page URL"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "PAGE_HOSTNAME",
+        "name": "Page Hostname"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "PAGE_PATH",
+        "name": "Page Path"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "REFERRER",
+        "name": "Referrer"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "EVENT",
+        "name": "Event"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "CLICK_ELEMENT",
+        "name": "Click Element"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "CLICK_CLASSES",
+        "name": "Click Classes"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "CLICK_ID",
+        "name": "Click ID"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "CLICK_TARGET",
+        "name": "Click Target"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "CLICK_URL",
+        "name": "Click URL"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "CLICK_TEXT",
+        "name": "Click Text"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "FORM_ELEMENT",
+        "name": "Form Element"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "FORM_CLASSES",
+        "name": "Form Classes"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "FORM_ID",
+        "name": "Form ID"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "FORM_TARGET",
+        "name": "Form Target"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "FORM_URL",
+        "name": "Form URL"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "FORM_TEXT",
+        "name": "Form Text"
+      },
+      {
+        "accountId": "6004690865",
+        "containerId": "265349373",
+        "type": "DEBUG_MODE",
+        "name": "Debug Mode"
+      }
+    ],
+    "fingerprint": "1794989243994",
+    "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/6004690865/containers/265349373/versions/4?apiLink=version"
+  }
+}

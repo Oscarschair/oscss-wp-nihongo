@@ -1,0 +1,184 @@
+[
+  {
+    "name": "properties/354369646/customDimensions/16365483702",
+    "parameterName": "cv_click_url",
+    "displayName": "CVクリック先URL",
+    "description": "支援・メインサイト送客クリックの遷移先URL (cv_click_url)",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365594814",
+    "parameterName": "article_card_click_url",
+    "displayName": "記事カード遷移先URL",
+    "description": "クリックされた記事カード (.c-card) の遷移先URL",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365599524",
+    "parameterName": "search_keyword",
+    "displayName": "サイト内検索キーワード",
+    "description": "検索フォーム (input[name=s]) に入力された検索キーワード",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365601383",
+    "parameterName": "cta_button_click_url",
+    "displayName": "主要CTA遷移先URL",
+    "description": "クリックされた主要CTAボタンの遷移先URL",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365652341",
+    "parameterName": "card_list_section",
+    "displayName": "記事カード配置セクション",
+    "description": "記事カードの配置領域 top_latest / related_posts / archive_list 等",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365652538",
+    "parameterName": "article_jlpt_level",
+    "displayName": "記事JLPT目安レベル",
+    "description": "読了された記事のJLPT目安レベルバッジ文字列 (article_jlpt_level)",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365657739",
+    "parameterName": "filter_group_type",
+    "displayName": "記事絞り込みグループ種別",
+    "description": "フィルター種別 series_category / jlpt_level",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365683790",
+    "parameterName": "ruby_preference",
+    "displayName": "ふりがな表示スタイル",
+    "description": "ルビON/OFF利用傾向に基づく学習レベルスタイル (ruby_preference)",
+    "scope": "USER"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365688356",
+    "parameterName": "nav_component_type",
+    "displayName": "記事内回遊ナビ種別",
+    "description": "ブログカード・連載リスト・4コマ相互リンク等の回遊導線種別",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365693011",
+    "parameterName": "page_location",
+    "displayName": "現在ページのフルURL",
+    "description": "イベント発生ページの完全URL (page_location)",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365693012",
+    "parameterName": "content_group",
+    "displayName": "ページグルーピング分類",
+    "description": "全10区分のページグループ分類 (content_group)",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365700405",
+    "parameterName": "reader_segment",
+    "displayName": "読者関心セグメント",
+    "description": "滞在時間に基づく読者セグメント分類 (reader_segment)",
+    "scope": "USER"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365765951",
+    "parameterName": "header_global_menu_click_text",
+    "displayName": "グローバルメニュー項目名",
+    "description": "クリックされたヘッダーグローバルナビ・サブメニュー文言",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365765952",
+    "parameterName": "page_referrer",
+    "displayName": "直前のページのURL",
+    "description": "直前ページ・外部参照元のURL (page_referrer)",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365786060",
+    "parameterName": "custom_scrolled_class",
+    "displayName": "表示到達UIブロックCLASS名",
+    "description": "スクロールにより画面表示された学習セクション・カードのCLASS名",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365786068",
+    "parameterName": "article_link_text",
+    "displayName": "記事リンク カード文言",
+    "description": "クリックされた記事カードタイトル・記事内回遊リンク文言",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365802815",
+    "parameterName": "sort_order_type",
+    "displayName": "記事並び替え種別",
+    "description": "選択された記事一覧ソート種別 latest / views",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365803244",
+    "parameterName": "filter_button_text",
+    "displayName": "記事絞り込みボタン文言",
+    "description": "学習ノート一覧で選択されたカテゴリー・JLPTフィルター文言",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365824924",
+    "parameterName": "cta_location",
+    "displayName": "イベント発生ページパス",
+    "description": "クリック・フォーム送信・読了等が発生したページのパス (cta_location)",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365824925",
+    "parameterName": "ruby_toggle_position",
+    "displayName": "ふりがな切替ボタン位置",
+    "description": "ふりがな切替ボタンの配置箇所 entry_header / sticky_float",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365826447",
+    "parameterName": "internal_link_url",
+    "displayName": "サイト内回遊先URL",
+    "description": "サイト内回遊クリックの遷移先URL (internal_link_url)",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365843238",
+    "parameterName": "ruby_toggle_state",
+    "displayName": "ふりがな切替後状態",
+    "description": "ふりがな(ルビ)切替ボタン押下後の表示状態 ON / OFF",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365861689",
+    "parameterName": "mainsite_link_text",
+    "displayName": "メインサイト送客リンク文言",
+    "description": "クリックされたメインサイト (oscarchair.jp) 送客リンク文言",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365878966",
+    "parameterName": "footer_menu_click_text",
+    "displayName": "フッターリンク文言",
+    "description": "クリックされたフッター内リンク・最近の投稿タイトル文言",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365889829",
+    "parameterName": "top_section_id",
+    "displayName": "TOP表示セクションID",
+    "description": "トップページで画面表示されたセクション識別子 hero / categories / latest-posts",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customDimensions/16365896540",
+    "parameterName": "cta_button_click_text",
+    "displayName": "主要CTAボタン文言",
+    "description": "クリックされた主要CTAボタン・連載テーマカード文言",
+    "scope": "EVENT"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "name": "properties/354369646/customMetrics/16365509435",
+    "parameterName": "in_article_nav_click_count",
+    "displayName": "記事内回遊ナビクリック数",
+    "description": "ブログカード・連載リスト・4コマ相互リンク等のクリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365594818",
+    "parameterName": "sort_tab_click_count",
+    "displayName": "記事並び替えタブクリック数",
+    "description": "新着順・閲覧数順ソートタブ (.c-sort-tab) クリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365626241",
+    "parameterName": "cv_article_complete_count",
+    "displayName": "記事読了到達数",
+    "description": "記事末尾 (.c-author-box) 到達による読了完了数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365746064",
+    "parameterName": "article_filter_click_count",
+    "displayName": "記事絞り込みフィルタークリック数",
+    "description": "カテゴリー・JLPT目安レベル絞り込みボタンクリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365765954",
+    "parameterName": "top_section_view_count",
+    "displayName": "トップセクション精読表示数",
+    "description": "TOPページ3大セクションの画面表示数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365768016",
+    "parameterName": "ruby_toggle_click_count",
+    "displayName": "ふりがな切替クリック数",
+    "description": "ふりがな(ルビ) ON/OFF 切替ボタン (.js-ruby-toggle) クリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365786061",
+    "parameterName": "header_logo_click_count",
+    "displayName": "ヘッダーロゴクリック数",
+    "description": "ヘッダーサイトロゴ (.l-header__logo-text) クリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365786069",
+    "parameterName": "article_card_click_count",
+    "displayName": "記事カードクリック数",
+    "description": "一覧・関連記事の記事カード (.c-card) クリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365794536",
+    "parameterName": "cv_bmc_click_count",
+    "displayName": "Buy Me a Coffee支援クリック数",
+    "description": "クリエイター支援 (buymeacoffee.com) 遷移クリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365808740",
+    "parameterName": "back_to_top_click_count",
+    "displayName": "トップへ戻るクリック数",
+    "description": "ページ上部へ戻るボタン (#back-to-top) クリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365817044",
+    "parameterName": "internal_click_count",
+    "displayName": "サイト内回遊クリック数",
+    "description": "nihongo.oscarchair.jp 内の内部リンク回遊クリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365820425",
+    "parameterName": "footer_menu_click_count",
+    "displayName": "フッターリンククリック数",
+    "description": "フッター内リンク・最近の投稿ウィジェットクリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365823638",
+    "parameterName": "header_global_menu_click_count",
+    "displayName": "グローバルメニュークリック数",
+    "description": "ヘッダーグローバルナビ・サブメニュー遷移クリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365850628",
+    "parameterName": "cta_button_click_count",
+    "displayName": "主要CTAボタンクリック数",
+    "description": "TOPヒーロー・4大連載テーマカード等の主要CTAクリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365853021",
+    "parameterName": "sp_drawer_open_count",
+    "displayName": "SPメニュー展開タップ数",
+    "description": "SPハンバーガーボタン・カテゴリ親メニュー開閉タップ数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365861693",
+    "parameterName": "site_search_submit_count",
+    "displayName": "サイト内検索フォーム送信数",
+    "description": "フッター・404ページのサイト内検索フォーム送信数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365887621",
+    "parameterName": "cv_mainsite_click_count",
+    "displayName": "メインサイト送客クリック数",
+    "description": "メインサイト (oscarchair.jp) 送客リンククリック数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365888659",
+    "parameterName": "custom_scrolled_count",
+    "displayName": "主要UIブロック表示到達数",
+    "description": "各ページの主要学習セクション・カードの画面表示到達数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  },
+  {
+    "name": "properties/354369646/customMetrics/16365894488",
+    "parameterName": "cv_comment_submit_count",
+    "displayName": "記事コメント送信数",
+    "description": "記事コメントフォーム (#commentform) 送信数",
+    "measurementUnit": "STANDARD",
+    "scope": "EVENT"
+  }
+]
