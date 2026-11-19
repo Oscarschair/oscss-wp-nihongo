@@ -83,8 +83,8 @@ rt {
 
 | 用途 | アセットパス | 仕様・不変条件 |
 | :--- | :--- | :--- |
-| **ヘッダーロゴ（ライト背景）** | `assets/images/logo-lockup.svg` | 見開き学習帳×吹き出し×ベビー桜しおり ＋ 細身ゴシック（`wght=470`）2段ミニマル構成。全グリフ `<path>` アウトライン済み（PC高 `46px` / SP高 `38px`）。 |
-| **フッターロゴ（ダーク背景）** | `assets/images/logo-lockup-dark.svg` | ダークフッター（`#0f172a`）向けに明度・彩度を最適化した横組みSVGロゴ。 |
+| **ヘッダーロゴ（ライト背景）** | `assets/images/logo-lockup.svg` | 見開き学習帳×吹き出し×ベビー桜しおり（淡彩パステル維持） ＋ 高視認スレートブラック文字（主文字 `#0F172A` `wght=680` `17.85:1` AAA / 副文字 `#1E293B` `14.63:1` AAA）2段ミニマル構成。全グリフ `<path>` アウトライン済み（PC高 `48px` / SP高 `40px`）。 |
+| **フッターロゴ（ダーク背景）** | `assets/images/logo-lockup-dark.svg` | ダークフッター（`#0f172a`）向けに白系高コントラスト文字（`#FFFFFF` / `#E2E8F0`）へ最適化した横組みSVGロゴ。 |
 | **単体シンボル** | `assets/images/logo-symbol.svg` | `200×200` viewBox 単体ベクターシンボル。 |
 | **構造化データ用ロゴ** | `assets/images/logo-organization.png` | JSON-LD `Organization.logo` 用の `512×512px` ラスタPNG（著者 `Person.image` は `x-profile-icon.png` を使用）。 |
 | **サイトアイコン・ファビコン** | `favicon-512x512.png` / `192x192` / `apple-touch-icon.png` / `32x32` / `16x16` / `favicon.ico` | `32px` / `16px` / `ico` には縮小時の線消失を防ぐ **Optical Sizing（線幅 `7.0` 光学補正）** を適用。 |

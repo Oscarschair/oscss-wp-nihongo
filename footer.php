@@ -19,8 +19,14 @@ $series_cats = oscss_get_series_categories();
 			<!-- Col 1: Branding & Profile -->
 			<div class="l-footer__col l-footer__col--brand">
 				<div class="l-footer__brand-header">
+					<?php
+					$oscss_f_logo_ver = file_exists( OSCSS_THEME_DIR . '/assets/images/logo-lockup-dark.svg' )
+						? filemtime( OSCSS_THEME_DIR . '/assets/images/logo-lockup-dark.svg' )
+						: OSCSS_THEME_VERSION;
+					$oscss_f_logo_url = add_query_arg( 'ver', $oscss_f_logo_ver, OSCSS_THEME_URI . '/assets/images/logo-lockup-dark.svg' );
+					?>
 					<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="l-footer__logo-link" rel="home" aria-label="<?php echo esc_attr( get_bloginfo( 'name' ) ); ?>">
-						<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/logo-lockup-dark.svg' ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) . ' - Oscar\'s Japanese Notebook' ); ?>" class="l-footer__logo-img" width="227" height="46" loading="lazy" decoding="async">
+						<img src="<?php echo esc_url( $oscss_f_logo_url ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) . ' - Oscar\'s Japanese Notebook' ); ?>" class="l-footer__logo-img" width="257" height="48" loading="lazy" decoding="async">
 					</a>
 					<?php if ( get_bloginfo( 'description' ) ) : ?>
 						<p class="l-footer__brand-tagline"><?php bloginfo( 'description' ); ?></p>

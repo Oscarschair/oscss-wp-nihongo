@@ -48,8 +48,14 @@ if ( ! defined( 'ABSPATH' ) ) {
 			<?php if ( has_custom_logo() ) : ?>
 				<div class="l-header__custom-logo"><?php the_custom_logo(); ?></div>
 			<?php else : ?>
+				<?php
+				$oscss_logo_ver = file_exists( OSCSS_THEME_DIR . '/assets/images/logo-lockup.svg' )
+					? filemtime( OSCSS_THEME_DIR . '/assets/images/logo-lockup.svg' )
+					: OSCSS_THEME_VERSION;
+				$oscss_logo_url = add_query_arg( 'ver', $oscss_logo_ver, OSCSS_THEME_URI . '/assets/images/logo-lockup.svg' );
+				?>
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="l-header__logo-link" rel="home" aria-label="<?php echo esc_attr( get_bloginfo( 'name' ) ); ?>">
-					<img src="<?php echo esc_url( OSCSS_THEME_URI . '/assets/images/logo-lockup.svg' ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) . ' - Oscar\'s Japanese Notebook' ); ?>" class="l-header__logo-img" width="227" height="46" decoding="async" fetchpriority="high">
+					<img src="<?php echo esc_url( $oscss_logo_url ); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) . ' - Oscar\'s Japanese Notebook' ); ?>" class="l-header__logo-img" width="257" height="48" decoding="async" fetchpriority="high">
 				</a>
 			<?php endif; ?>
 		</div>

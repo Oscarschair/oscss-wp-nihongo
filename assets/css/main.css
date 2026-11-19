@@ -154,9 +154,9 @@ body.admin-bar .l-header {
 
 .l-header__logo-img,
 .l-header__custom-logo .custom-logo {
-	height: 46px;
+	height: 48px;
 	width: auto;
-	max-width: 240px;
+	max-width: 264px;
 	display: block;
 }
 
@@ -164,7 +164,7 @@ body.admin-bar .l-header {
 	.l-header__logo-img,
 	.l-header__custom-logo .custom-logo {
 		height: 40px;
-		max-width: 204px;
+		max-width: 218px;
 	}
 }
 
@@ -172,7 +172,7 @@ body.admin-bar .l-header {
 	.l-header__logo-img,
 	.l-header__custom-logo .custom-logo {
 		height: 34px;
-		max-width: 172px;
+		max-width: 184px;
 	}
 }
 
@@ -496,16 +496,16 @@ body.admin-bar .l-header {
 }
 
 .l-footer__logo-img {
-	height: 46px;
+	height: 48px;
 	width: auto;
-	max-width: 236px;
+	max-width: 264px;
 	display: block;
 }
 
 @media (max-width: 640px) {
 	.l-footer__logo-img {
 		height: 40px;
-		max-width: 204px;
+		max-width: 218px;
 	}
 }
 
